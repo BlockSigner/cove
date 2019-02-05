@@ -11,13 +11,13 @@ intro:
     elektronisch signieren mit Skribble
   text: Signaturprozesse einfach digital abwickeln – rechtsgültig nach dem Schweizer & EU Gesetz.
   image:
-    alt_text:
     mobile:
       filename: image1-678w
       width: 678
     desktop:
       filename: image1-1356w
       width: 1356
+  alt_text:
   link:
     text: Jetzt Vormerken
     href: '#'
@@ -31,56 +31,56 @@ intro:
 blocks:
   - title: Dokumente als PDF hochladen
     text: Lade dein zu signierendes Dokument als PDF auf Skribble.
-    image:
-      alt_text:
+    images:
       mobile:
         filename: image2
         width: 416
       desktop:
         filename: image2@2x
         width: 832
+    alt_text:
   - title: Einladen und Reihenfolge bestimmen
     inverse: true
     text: Lade alle signierenden Personen per E-Mail  ein und lege die Reihenfolge fest.
-    image:
-      alt_text:
+    images:
       mobile:
         filename: image3
         width: 400
       desktop:
         filename: image3@2x
         width: 800
+    alt_text:
   - title: Rechtsgültig signieren
     text: Zeit- und ortsungebunden Dokumente signieren - rechtsgültig per Knopfdruck.
-    image:
-      alt_text:
+    images:
       mobile:
         filename: image4
         width: 391
       desktop:
         filename: image4@2x
         width: 782
+    alt_text:
   - title: Skribble setzt auf rechtsgültige Swisscom Zertifikate
     inverse: true
     text: Skribble ist offizieller Partner vom Swisscom Signing Provider und bezieht sämtliche Signing-Zertifikate von Swisscom, um Dokumente rechtsgültig nach dem Schweizer & EU Gesetz  zu signieren.
-    image:
-      alt_text:
+    images:
       mobile:
         filename: image5
         width: 430
       desktop:
         filename: image5@2x
         width: 860
+    alt_text:
   - title: Skribble überprüft deine Identität damit du rechtsgültig mit (QES) signieren kannst
     text: Ein Swisscom RA-Officer kann dich mit deiner Identitätskarte oder Pass identifizieren und eine digitale Identität von dir erstellen. So wird sichergestellt, dass deine Identität klar verifiziert wurde und nur du signierst.
-    image:
-      alt_text:
+    images:
       mobile:
         filename: image6
         width: 410
       desktop:
         filename: image6@2x
         width: 820
+    alt_text:
 
 # compliance component
 # contains the collapsibles
@@ -148,11 +148,11 @@ newsletter:
   title: Registriere dich noch heute!
   text: Erhalte spannende Inhalte zu Digital Trust und Trends.
   image:
-    alt_text:
     mobile:
       filename: image8
       width: 414
     desktop:
       filename: image8@2x
       width: 828
+  alt_text:
 ---
