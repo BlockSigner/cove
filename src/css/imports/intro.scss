@@ -4,6 +4,9 @@
   justify-content: center;
   align-items: center;
   margin: 140px 0 180px;
+  @include max-width {
+    flex-wrap: wrap;
+  }
 
   h1 {
     margin: 0;

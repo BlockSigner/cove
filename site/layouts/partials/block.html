@@ -6,8 +6,20 @@
     </div>
     <div class="block__image">
       <picture>
-        <source srcset="{{ .image }}.webp" alt="{{ .alt }}" />
-        <img src="{{ .image }}.jpg" alt="{{ .alt }}" />
+        <source
+          type="image/webp"
+          srcset="{{ .image.mobile.filename }}.webp {{ .image.mobile.width }}w, {{ .image.desktop.filename }}.webp {{ .image.desktop.width }}w"
+          sizes="(max-width: 767px) 100vw, 400px"
+        />
+        <source
+          type="image/jpeg"
+          srcset="{{ .image.mobile.filename }}.jpg {{ .image.mobile.width }}w, {{ .image.desktop.filename }}.jpg {{ .image.desktop.width }}w"
+          sizes="(max-width: 767px) 100vw, 400px"
+        />
+        <img
+          src="{{ .image.desktop.filename }}.jpg"
+          alt="{{ .image.alt_text }}"
+        />
       </picture>
     </div>
   </div>

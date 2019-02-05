@@ -10,14 +10,20 @@ intro:
     Rechtsgültig
     elektronisch signieren mit Skribble
   text: Signaturprozesse einfach digital abwickeln – rechtsgültig nach dem Schweizer & EU Gesetz.
-  image: image1@2x
-  alt:
+  image:
+    alt_text:
+    mobile:
+      filename: image1-678w
+      width: 678
+    desktop:
+      filename: image1-1356w
+      width: 1356
   link:
     text: Jetzt Vormerken
     href: '#'
   partner:
     image: image17@2x
-    alt:
+    alt_text:
     text: Mit qualifizierter elektronischer Signatur (QES) von Swisscom AG
 
 # block components
@@ -25,26 +31,56 @@ intro:
 blocks:
   - title: Dokumente als PDF hochladen
     text: Lade dein zu signierendes Dokument als PDF auf Skribble.
-    image: image2@2x
-    alt:
+    image:
+      alt_text:
+      mobile:
+        filename: image2
+        width: 416
+      desktop:
+        filename: image2@2x
+        width: 832
   - title: Einladen und Reihenfolge bestimmen
     inverse: true
     text: Lade alle signierenden Personen per E-Mail  ein und lege die Reihenfolge fest.
-    image: image3@2x
-    alt:
+    image:
+      alt_text:
+      mobile:
+        filename: image3
+        width: 400
+      desktop:
+        filename: image3@2x
+        width: 800
   - title: Rechtsgültig signieren
     text: Zeit- und ortsungebunden Dokumente signieren - rechtsgültig per Knopfdruck.
-    image: image4@2x
-    alt:
+    image:
+      alt_text:
+      mobile:
+        filename: image4
+        width: 391
+      desktop:
+        filename: image4@2x
+        width: 782
   - title: Skribble setzt auf rechtsgültige Swisscom Zertifikate
     inverse: true
     text: Skribble ist offizieller Partner vom Swisscom Signing Provider und bezieht sämtliche Signing-Zertifikate von Swisscom, um Dokumente rechtsgültig nach dem Schweizer & EU Gesetz  zu signieren.
-    image: image5@2x
-    alt:
+    image:
+      alt_text:
+      mobile:
+        filename: image5
+        width: 430
+      desktop:
+        filename: image5@2x
+        width: 860
   - title: Skribble überprüft deine Identität damit du rechtsgültig mit (QES) signieren kannst
     text: Ein Swisscom RA-Officer kann dich mit deiner Identitätskarte oder Pass identifizieren und eine digitale Identität von dir erstellen. So wird sichergestellt, dass deine Identität klar verifiziert wurde und nur du signierst.
-    image: image6@2x
-    alt:
+    image:
+      alt_text:
+      mobile:
+        filename: image6
+        width: 410
+      desktop:
+        filename: image6@2x
+        width: 820
 
 # compliance component
 # contains the collapsibles
@@ -111,6 +147,12 @@ pricing:
 newsletter:
   title: Registriere dich noch heute!
   text: Erhalte spannende Inhalte zu Digital Trust und Trends.
-  image: image8@2x
-  alt:
+  image:
+    alt_text:
+    mobile:
+      filename: image8
+      width: 414
+    desktop:
+      filename: image8@2x
+      width: 828
 ---

@@ -1,8 +1,20 @@
 <div class="intro">
   <div class="intro__image">
     <picture>
-      <source srcset="{{ .image }}.webp" alt="{{ .alt }}">
-      <img src="{{ .image }}.jpg" alt="{{ .alt }}" />
+      <source
+        type="image/webp"
+        srcset="{{ .image.mobile.filename }}.webp {{ .image.mobile.width }}w, {{ .image.desktop.filename }}.webp {{ .image.desktop.width }}w"
+        sizes="(max-width: 767px) 100vw, 620px"
+      />
+      <source
+        type="image/jpeg"
+        srcset="{{ .image.mobile.filename }}.jpg {{ .image.mobile.width }}w, {{ .image.desktop.filename }}.jpg {{ .image.desktop.width }}w"
+        sizes="(max-width: 767px) 100vw, 620px"
+      />
+      <img
+        src="{{ .image.desktop.filename }}.jpg"
+        alt="{{ .image.alt_text }}"
+      />
     </picture>
   </div>
   <div class="intro__text">
@@ -11,8 +23,8 @@
     <a class="btn" href="{{ .link.href }}">{{ .link.text }}</a>
     <div class="intro__partner">
       <picture>
-        <source srcset="{{ .partner.image }}.webp" alt="{{ .alt }}">
-        <img class="intro__partner-img" src="{{ .partner.image }}.jpg" alt="{{ .partner.alt }}">
+        <source type="image/webp" srcset="{{ .partner.image }}.webp" />
+        <img class="intro__partner-img" src="{{ .partner.image }}.jpg" alt="{{ .partner.alt }}" />
       </picture>
       <div class="intro__partner-text">{{ .partner.text }}</div>
     </div>

@@ -13,3 +13,15 @@
   margin: 0;
   padding: 0;
 }
+
+@mixin max-width {
+  @media (max-width: 767px) {
+    @content;
+  }
+}
+
+@mixin min-width {
+  @media (min-width: 768px) {
+    @content;
+  }
+}
