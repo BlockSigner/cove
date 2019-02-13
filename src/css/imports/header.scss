@@ -15,6 +15,9 @@
     justify-content: space-between;
     align-items: center;
     height: 90px;
+    @include max-width {
+      height: 64px;
+    }
   }
 
   &__left {
@@ -29,19 +32,34 @@
     font-weight: bold;
     font-size: 3rem;
     color: var(--c-text-dark);
+    @include max-width {
+      font-size: 2.4rem;
+    }
 
     img {
       margin-right: 3px;
+      @include max-width {
+        height: 26px;
+      }
     }
   }
 
   &__nav {
     @include reset-list-styling;
     display: flex;
+    @include max-width {
+      display: none;
+    }
 
     a {
       padding: 10px;
       color: var(--c-text);
+    }
+  }
+
+  &__btn {
+    @include max-width {
+      display: none;
     }
   }
 }
