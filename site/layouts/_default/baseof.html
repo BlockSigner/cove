@@ -8,6 +8,7 @@
   <title>{{ $.Site.Title }}</title>
   <meta name="theme-color" content="#293d66"/>
   <meta name="description" content="{{ if .IsHome }}{{ $.Site.Params.description }}{{ else }}{{ .Description }}{{ end }}" />
+  <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
 
   {{ $stylesheet := .Site.Data.webpack.main }}
   {{ with $stylesheet.css }}

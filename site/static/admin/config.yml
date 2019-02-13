@@ -1,0 +1,12 @@
+backend:
+  name: git-gateway
+media_folder: ''
+collections:
+  - name: home
+    label: 'Home'
+    slug: '/'
+    folder: '/'
+    fields:
+      - name: title
+        label: 'Title'
+        widget: 'string'
