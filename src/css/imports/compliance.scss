@@ -1,6 +1,8 @@
 .compliance {
-  margin: 140px auto;
+  @include vertical-unit-margins;
   max-width: 750px;
+  margin-left: auto;
+  margin-right: auto;
 
   &__title {
     text-align: center;

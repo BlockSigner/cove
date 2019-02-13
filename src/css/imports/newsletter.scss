@@ -1,13 +1,18 @@
 .newsletter {
-  @include set-site-width;
+  @include site-width;
+  @include vertical-unit-margins;
   display: flex;
   justify-content: center;
   align-items: center;
-  margin: 140px 0;
+  @include max-width {
+    flex-direction: column;
+  }
 
   &__image {
     max-width: 400px;
-    margin-right: 30px;
+    @include min-width {
+      margin-right: 30px;
+    }
 
     img {
       display: block;

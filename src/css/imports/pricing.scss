@@ -1,6 +1,6 @@
 .pricing {
-  @include set-site-width;
-  margin: 140px auto;
+  @include site-width;
+  @include vertical-unit-margins;
 
   &__title {
     text-align: center;
@@ -15,6 +15,9 @@
     display: flex;
     justify-content: center;
     align-items: stretch;
+    @include max-width {
+      flex-direction: column;
+    }
 
     &-wrapper {
       margin: 16px;

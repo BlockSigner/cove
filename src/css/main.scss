@@ -53,6 +53,9 @@ body {
   color: var(--c-text);
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  @include max-width {
+    font-size: 1.8rem;
+  }
 }
 
 .main {
@@ -61,6 +64,9 @@ body {
 }
 
 h1 {
-  font: bold 4rem/4.4rem var(--averta);
+  font: bold 4rem/1.1 var(--averta);
   color: var(--c-text-dark);
+  @include max-width {
+    font-size: 3rem;
+  }
 }

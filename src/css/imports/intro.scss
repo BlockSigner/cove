@@ -1,11 +1,12 @@
 .intro {
-  @include set-site-width;
+  @include site-width;
   display: flex;
   justify-content: center;
   align-items: center;
   margin: 140px 0 180px;
   @include max-width {
-    flex-wrap: wrap;
+    flex-direction: column-reverse;
+    margin: 40px 0 60px;
   }
 
   h1 {
@@ -23,7 +24,9 @@
 
   &__text {
     max-width: 595px;
-    padding: 0 30px;
+    @include min-width {
+      padding: 0 30px;
+    }
   }
 
   &__partner {

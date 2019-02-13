@@ -1,13 +1,12 @@
 .block {
-  @include set-site-width;
-
-  + .block {
-    margin-top: 120px;
-  }
+  @include site-width;
+  @include vertical-unit-margins;
 
   &__image {
-    flex: 1 0 400px;
-    max-width: 400px;
+    @include min-width {
+      flex: 1 0 400px;
+      max-width: 400px;
+    }
 
     img {
       display: block;
@@ -22,16 +21,24 @@
     max-width: 1024px;
     margin-left: auto;
     margin-right: auto;
+    @include max-width {
+      flex-direction: column;
+    }
   }
 
   &__text {
     max-width: 480px;
-    padding: 0 30px;
+    @include min-width {
+      padding: 0 30px;
+    }
   }
 
   &--inverse {
     .block__container {
       flex-direction: row-reverse;
+      @include max-width {
+        flex-direction: column;
+      }
     }
   }
 }

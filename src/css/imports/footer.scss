@@ -7,7 +7,7 @@
   }
 
   &__container {
-    @include set-site-width;
+    @include site-width;
     display: flex;
     justify-content: space-between;
     align-items: center;
