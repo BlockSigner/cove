@@ -12,17 +12,20 @@ intro:
   text: Signaturprozesse einfach digital abwickeln – rechtsgültig nach dem Schweizer & EU Gesetz.
   image:
     mobile:
-      filename: image1-678w
+      filename_webp: image1-678w.webp
+      filename_jpg: image1-678w.jpg
       width: 678
     desktop:
-      filename: image1-1356w
+      filename_webp: image1-1356w.webp
+      filename_jpg: image1-1356w.jpg
       width: 1356
   alt_text:
   link:
     text: Jetzt Vormerken
     href: '#'
   partner:
-    image: image17@2x
+    image_webp: image17@2x.webp
+    image_jpg: image17@2x.jpg
     alt_text:
     text: Mit qualifizierter elektronischer Signatur (QES) von Swisscom AG
 

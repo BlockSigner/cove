@@ -1,7 +1,7 @@
 backend:
   name: git-gateway
-media_folder: "site/static/img" # Folder where user uploaded files should go
-public_folder: "img"
+media_folder: "site/content/english" # Folder where user uploaded files should go
+public_folder: "/"
 collections:
   - name: "german"
     label: "Deutsch"
@@ -46,7 +46,7 @@ collections:
                   - name: "href"
                     widget: "string"
               - label: "Partner (de)"
-                name: "parner"
+                name: "partner"
                 widget: "object"
                 fields:
                   - name: "image"
