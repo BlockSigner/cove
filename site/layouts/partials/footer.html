@@ -15,8 +15,9 @@
     <div class="footer__right">
       <nav>
         <ul class="footer__nav">
-          <li><a href="">Privacy Policy</a></li>
-          <li><a href="">Impressum</a></li>
+          {{ range .Site.Menus.footer }}
+            <li><a href="{{ .URL }}">{{ .Name }}</a></li>
+          {{ end }}
         </ul>
       </nav>
     </div>

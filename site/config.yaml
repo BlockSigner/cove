@@ -8,8 +8,15 @@ languages:
     contentDir: content/german
     menu:
       main:
+        - name: Über uns
+          url: /de/ueber-uns/
         - name: Kontakt
           url: /de/kontakt/
+      footer:
+        - name: Disclaimer
+          url: /de/disclaimer
+        - name: Impressum
+          url: /de/impressum
   en:
     params:
       description: Sign...
@@ -18,5 +25,12 @@ languages:
     contentDir: content/english
     menu:
       main:
+        - name: About
+          url: /about/
         - name: Contact
           url: /contact/
+      footer:
+        - name: Privacy Policy
+          url: /privacy/
+        - name: Imprint
+          url: /imprint/
