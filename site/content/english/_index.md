@@ -7,7 +7,7 @@ draft: false
 # intro component
 intro:
   title: >
-    Rechtsgültig2
+    Rechtsgültig und richtig
     elektronisch signieren mit Skribble
   text: Signaturprozesse einfach digital abwickeln – rechtsgültig nach dem Schweizer & EU Gesetz.
   image:
