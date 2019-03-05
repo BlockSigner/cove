@@ -5,8 +5,6 @@ draft: false
 type: narrow
 description: Imprint meta description
 ---
-# Impressum
-
 
 ## Firma
 BlockSigner AG  
