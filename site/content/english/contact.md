@@ -4,15 +4,19 @@ slug: contact
 draft: false
 ---
 
-<!-- [home](/en/) -->
+#Skribble Office
+Right on Bahnhofstrasse, in the heart of Zurich
 
-# Shaping the way we trust
+#Firm
+BlockSigner AG
 
+#Address
 TrustSquare
 Bahnhofstrasse 3
-CH-8001 Zürich
+CH-8001 Zurich
 
-david test
+#Phone
++41 044 / 505 16 64
 
-<!-- [disclaimer](/disclaimer)
-[404](/blub) -->
+#Email
+[info@skribble.com](info@skribble.com "info@skribble.com")

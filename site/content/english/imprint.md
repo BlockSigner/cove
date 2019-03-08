@@ -8,31 +8,34 @@ description: Imprint meta description
 
 # Imprint
 
-## Firma
+## Firm
 BlockSigner AG
 
-## Adresse
+## Address
 TrustSquare
 Bahnhofstrasse 3
-CH-8001 Zürich
+CH-8001 Zurich
 
-## Telefon
+## Phone
 +41 044 / 505 16 64
 
-## E-Mail
+## Email
 [info@skribble.com](mailto:info@skribble.com "info@skribble.com")   
 
-## Handelsregister-Nummer
+## Commercial register number
 CH-020.3.045.842-4
 
 ## U-ID
 CHE-397.613.998
 
-## Konzeption, Design und Umsetzung
+## Conception, design and implementation
 BlockSigner AG
 
-## Inhalt
-Verantwortlich für diese Website und deren Inhalt im Sinne von § 3 Abs. 1 UWG ist die BlockSigner AG, soweit nicht direkt unter den Artikeln und Seiten anders geschrieben.
+## Illustration
+Janis Andzans
+
+## Content
+BlockSigner AG is responsible for this website and its content within the meaning of § 3 para. 1 UWG, unless otherwise stated directly under the articles and pages.
 
 ## Copyright
-Die Urheber- und alle anderen Rechte an Inhalten, Bildern, Fotos oder anderen Dateien auf der Website gehören ausschliesslich der Firma BlockSigner AG. Für die Reproduktion jeglicher Elemente ist die schriftliche Zustimmung der Urheberrechtsträger im Voraus einzuholen.
+The copyright and all other rights to content, images, photos or other files on the website belong exclusively to BlockSigner AG. The written consent of the copyright holder must be obtained in advance for the reproduction of any elements.

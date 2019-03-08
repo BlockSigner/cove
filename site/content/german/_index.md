@@ -10,7 +10,8 @@ draft: false
 intro:
   title: >
     Rechtsgültig
-    elektronisch signieren mit Skribble
+    elektronisch signieren
+    mit Skribble
   text: Signaturprozesse einfach digital abwickeln – rechtsgültig nach dem Schweizer & EU Gesetz.
   image:
     mobile:
@@ -23,19 +24,19 @@ intro:
       width: 1356
   alt_text:
   link:
-    text: Jetzt Vormerken
+    text: Jetzt Registrieren
     href: '#'
   partner:
     image_webp: image17@2x.webp
     image_jpg: image17@2x.jpg
     alt_text:
-    text: Mit qualifizierter elektronischer Signatur (QES) von Swisscom AG
+    text: Basierend auf der qualifizierten elektronischen Signatur QES der Swisscom
 
 # block components
 # the first 3 are displayed before the compliance component, the rest is displayed after it
 blocks:
   - title: Dokumente als PDF hochladen
-    text: Lade dein zu signierendes Dokument als PDF auf Skribble.
+    text: Lade das signierbereite Dokument als PDF auf Skribble.
     images:
       mobile:
         filename: image2
@@ -44,9 +45,9 @@ blocks:
         filename: image2@2x
         width: 832
     alt_text:
-  - title: Einladen und Reihenfolge bestimmen
+  - title: Zum Signieren einladen
     inverse: true
-    text: Lade alle signierenden Personen per E-Mail  ein und lege die Reihenfolge fest.
+    text: Lade die signierenden Personen per E-Mail ein und lege die Signatur-Reihnenfolge fest.
     images:
       mobile:
         filename: image3
@@ -56,7 +57,7 @@ blocks:
         width: 800
     alt_text:
   - title: Rechtsgültig signieren
-    text: Zeit- und ortsungebunden Dokumente signieren - rechtsgültig per Knopfdruck.
+    text: Ihr signiert rechtsgültig per Knopfdruck, unabhängig von Zeit und Ort.
     images:
       mobile:
         filename: image4
@@ -65,9 +66,29 @@ blocks:
         filename: image4@2x
         width: 782
     alt_text:
-  - title: Skribble setzt auf rechtsgültige Swisscom Zertifikate
+
+# compliance component
+# contains the collapsibles
+    compliance:
+      title: Skribble erfüllt die rechtlichen Bestimmungen
+      text: Mit Skribble kannst du digital und rechtsgültig (QES) signieren - nach den folgenden Gesetzen.
+      items:
+        - title: Anforderungen an Schriftlichkeit (QES) gemäss OR
+          text: Die qualifizierte elektronische Signatur ist der handschriftlichen Signatur vor dem Schweizer und EU Gesetz gleichgestellt. OR Artikel, Absatz 14/2bis
+          bold: OR Artikel, Absatz 14/2bis
+        - title: Anforderungen an elektronische Signaturen gemäss ZertES
+          text: ---
+          bold: ---
+        - title: Anforderungen an Datenschutz gemäss DSGVO
+          text: ---
+          bold: ---
+        - title: Anforderungen an Outsourcing gemäss FINMA/SRO
+          text: ---
+          bold: ---
+
+  - title: Skribble arbeitet mit staatlich anerkannter Technologie von Swisscom
     inverse: true
-    text: Skribble ist offizieller Partner vom Swisscom Signing Provider und bezieht sämtliche Signing-Zertifikate von Swisscom, um Dokumente rechtsgültig nach dem Schweizer & EU Gesetz  zu signieren.
+    text: Ein wichtiger Bestandteil der elektronischen Signatur (QES) sind entsprechende digitale Zertifikate. Skribble bezieht diese von Swisscom, eine staatlich Anerkannte Zertifizierungsstelle. Damit sind Signaturen, die über Skribble erstellt werden, der handschrfltichen Signatur nach Schweizer und EU Gesetz gleichgestellt.  
     images:
       mobile:
         filename: image5
@@ -76,8 +97,8 @@ blocks:
         filename: image5@2x
         width: 860
     alt_text:
-  - title: Skribble überprüft deine Identität damit du rechtsgültig mit (QES) signieren kannst
-    text: Ein Swisscom RA-Officer kann dich mit deiner Identitätskarte oder Pass identifizieren und eine digitale Identität von dir erstellen. So wird sichergestellt, dass deine Identität klar verifiziert wurde und nur du signierst.
+  - title: Skribble prüft deine Identität, damit du rechtssicher elektronisch signieren kannst
+    text: Für die qualifizierte elektronische Signatur (QES) muss der Unterzeichnende seine Identität beweisen. Skribble setzt hierfür auf die ID-App der Swisscom, wobei du zwischen zwei Services wählen kannst: Wir kommen vorbei um dich und deine Kollegen zu identifizieren, oder du setzt die ID-App selbst ein und identifizierst Mitarbeiter, Firmen und Lieferanten flexibel im persönlichen Kontakt.  
     images:
       mobile:
         filename: image6
@@ -87,71 +108,31 @@ blocks:
         width: 820
     alt_text:
 
-# compliance component
-# contains the collapsibles
-compliance:
-  title: Skribble erfüllt die rechtlichen Bestimmungen
-  text: Mit Skribble kannst du digital und rechtsgültig (QES) signieren - nach den folgenden Gesetzen.
-  items:
-    - title: QES Konsform
-      text: Die qualifizierte elektronische Signatur ist der handschriftlichen Signatur vor dem Schweizer und EU Gesetz gleichgestellt.
-      bold: OR Artikel, Absatz 14/2bis
-    - title: ZertES Konform
-      text: ---
-      bold: ---
+# Testimonial
+    - title: Auch andere vertrauen Skribble
+      text: –--
+
 
 # pricing component
 pricing:
-  title: Volumenbasiertes Signatur-Angebot
-  text: Skribble bietet dir 2 Signatur-Pakete an, die sich optimal auf deine Bedinungen anpassen lassen.
+  title: Die Signaturen lassen sich einzeln
+  oder als Flatrate beziehen
+  text: Skribbles Angebotsstruktur passt sich deinen Bedürfnissen an und kann flexibel kombiniert werden.
   plans:
   - title: Prepaid
-    description: Für eine gezielte Nutzung von Signaturen.
-    per: Pro Signatur
-    currency: CHF
-    price: '2.10'
-    addendum: exkl. MWSt
+    description: Die unterschreibenden Personen wechseln häufig oder signieren einmalig
     color: warning
-    discounts:
-      title: Volumenbasierte Prepaidkosten
-      row:
-        - col1: ab 1
-          col2: Signatur
-          col3: CHF
-          col4: '2.10'
-        - col1: ab 10’000
-          col2: Signaturen
-          col3: CHF
-          col4: '1.50'
-        - col1: ab 25’000
-          col2: Signaturen
-          col3: CHF
-          col4: '1.40'
-        - col1: ab 50’000
-          col2: Signaturen
-          col3: CHF
-          col4: '1.30'
-        - col1: ab 100’000
-          col2: Signaturen
-          col3: CHF
-          col4: '1.15'
-        - col1: ab 250’000
-          col2: Signaturen
-          col3: CHF
-          col4: '2.00'
-  - title: Flatrate
-    description: Für unterschriftsberechtige, die viel unterzeichnen.
-    per: Pro Nutzer / monatlich
-    currency: CHF
-    price: '19.90'
-    addendum: exkl. MWSt
+
+  - title: Flat rate
+    description: Gleichbleibende unterschriftsberechtigte Personen signieren häufig
     color: info
 
 # newsletter component
 # form will be generated with an external service
 newsletter:
-  title: Registriere dich noch heute!
-  text: Erhalte spannende Inhalte zu Digital Trust und Trends.
+  title: Das Wichtigste auf
+dem Silbertablett
+  text: Bleibe auf dem Laufenden mit selektionierten Insights zu digitalen Signaturen.
   image:
     mobile:
       filename: image8
