@@ -66,29 +66,9 @@ blocks:
         filename: image4@2x
         width: 782
     alt_text:
-
-# compliance component
-# contains the collapsibles
-    compliance:
-      title: Skribble erfüllt die rechtlichen Bestimmungen
-      text: Mit Skribble kannst du digital und rechtsgültig (QES) signieren - nach den folgenden Gesetzen.
-      items:
-        - title: Anforderungen an Schriftlichkeit (QES) gemäss OR
-          text: Die qualifizierte elektronische Signatur ist der handschriftlichen Signatur vor dem Schweizer und EU Gesetz gleichgestellt. OR Artikel, Absatz 14/2bis
-          bold: OR Artikel, Absatz 14/2bis
-        - title: Anforderungen an elektronische Signaturen gemäss ZertES
-          text: ---
-          bold: ---
-        - title: Anforderungen an Datenschutz gemäss DSGVO
-          text: ---
-          bold: ---
-        - title: Anforderungen an Outsourcing gemäss FINMA/SRO
-          text: ---
-          bold: ---
-
   - title: Skribble arbeitet mit staatlich anerkannter Technologie von Swisscom
     inverse: true
-    text: Ein wichtiger Bestandteil der elektronischen Signatur (QES) sind entsprechende digitale Zertifikate. Skribble bezieht diese von Swisscom, eine staatlich Anerkannte Zertifizierungsstelle. Damit sind Signaturen, die über Skribble erstellt werden, der handschrfltichen Signatur nach Schweizer und EU Gesetz gleichgestellt.  
+    text: Ein wichtiger Bestandteil der elektronischen Signatur (QES) sind entsprechende digitale Zertifikate. Skribble bezieht diese von Swisscom, eine staatlich Anerkannte Zertifizierungsstelle. Damit sind Signaturen, die über Skribble erstellt werden, der handschrfltichen Signatur nach Schweizer und EU Gesetz gleichgestellt.
     images:
       mobile:
         filename: image5
@@ -98,7 +78,7 @@ blocks:
         width: 860
     alt_text:
   - title: Skribble prüft deine Identität, damit du rechtssicher elektronisch signieren kannst
-    text: Für die qualifizierte elektronische Signatur (QES) muss der Unterzeichnende seine Identität beweisen. Skribble setzt hierfür auf die ID-App der Swisscom, wobei du zwischen zwei Services wählen kannst: Wir kommen vorbei um dich und deine Kollegen zu identifizieren, oder du setzt die ID-App selbst ein und identifizierst Mitarbeiter, Firmen und Lieferanten flexibel im persönlichen Kontakt.  
+    text: "Für die qualifizierte elektronische Signatur (QES) muss der Unterzeichnende seine Identität beweisen. Skribble setzt hierfür auf die ID-App der Swisscom, wobei du zwischen zwei Services wählen kannst: Wir kommen vorbei um dich und deine Kollegen zu identifizieren, oder du setzt die ID-App selbst ein und identifizierst Mitarbeiter, Firmen und Lieferanten flexibel im persönlichen Kontakt."
     images:
       mobile:
         filename: image6
@@ -108,9 +88,29 @@ blocks:
         width: 820
     alt_text:
 
+# compliance component
+# contains the collapsibles
+compliance:
+  title: Skribble erfüllt die rechtlichen Bestimmungen
+  text: Mit Skribble kannst du digital und rechtsgültig (QES) signieren - nach den folgenden Gesetzen.
+  items:
+    - title: Anforderungen an Schriftlichkeit (QES) gemäss OR
+      text: Die qualifizierte elektronische Signatur ist der handschriftlichen Signatur vor dem Schweizer und EU Gesetz gleichgestellt. OR Artikel, Absatz 14/2bis
+      bold: OR Artikel, Absatz 14/2bis
+    - title: Anforderungen an elektronische Signaturen gemäss ZertES
+      text: ---
+      bold: ---
+    - title: Anforderungen an Datenschutz gemäss DSGVO
+      text: ---
+      bold: ---
+    - title: Anforderungen an Outsourcing gemäss FINMA/SRO
+      text: ---
+      bold: ---
+
 # Testimonial
-    - title: Auch andere vertrauen Skribble
-      text: –--
+testimonial:
+  - title: Auch andere vertrauen Skribble
+    text: –--
 
 
 # pricing component
