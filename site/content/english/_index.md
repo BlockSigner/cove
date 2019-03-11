@@ -106,21 +106,22 @@ blocks:
         width: 820
     alt_text:
 
-# Testimonial
-    - title: Auch andere vertrauen Skribble
-      text: –--
-
+# testimonial component
+# contains quotations
+testimonial:
+  title: Auch andere vertrauen Skribble
+  text: ---
 
 # pricing component
 pricing:
-  title: Die Signaturen lassen sich einzeln
-  oder als Flatrate beziehen
+  title: >
+    Die Signaturen lassen sich einzeln
+    oder als Flatrate beziehen
   text: Skribbles Angebotsstruktur passt sich deinen Bedürfnissen an und kann flexibel kombiniert werden.
   plans:
   - title: Prepaid
     description: Die unterschreibenden Personen wechseln häufig oder signieren einmalig
     color: warning
-
   - title: Flat rate
     description: Gleichbleibende unterschriftsberechtigte Personen signieren häufig
     color: info
@@ -128,8 +129,9 @@ pricing:
 # newsletter component
 # form will be generated with an external service
 newsletter:
-  title: Das Wichtigste auf
-dem Silbertablett
+  title: >
+    Das Wichtigste auf
+    dem Silbertablett
   text: Bleibe auf dem Laufenden mit selektionierten Insights zu digitalen Signaturen.
   image:
     mobile:

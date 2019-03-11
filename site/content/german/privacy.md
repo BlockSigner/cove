@@ -1,12 +1,12 @@
 ---
-title: Privacy Policy
+title: Datenschutzbestimmungen
 slug: disclaimer
 draft: false
 type: narrow
 description: Privacy policy meta description
 ---
 
-#Datenschutz-Richtlinie
+#Datenschutzbestimmungen
 
 Datum des Inkrafttretens: October 11, 2018
 

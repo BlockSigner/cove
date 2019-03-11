@@ -115,8 +115,9 @@ blocks:
 
 # pricing component
 pricing:
-  title: Die Signaturen lassen sich einzeln
-  oder als Flatrate beziehen
+  title: >
+    Die Signaturen lassen sich einzeln
+    oder als Flatrate beziehen
   text: Skribbles Angebotsstruktur passt sich deinen Bedürfnissen an und kann flexibel kombiniert werden.
   plans:
   - title: Prepaid
@@ -130,8 +131,9 @@ pricing:
 # newsletter component
 # form will be generated with an external service
 newsletter:
-  title: Das Wichtigste auf
-dem Silbertablett
+  title: >
+    Das Wichtigste auf
+    dem Silbertablett
   text: Bleibe auf dem Laufenden mit selektionierten Insights zu digitalen Signaturen.
   image:
     mobile:
