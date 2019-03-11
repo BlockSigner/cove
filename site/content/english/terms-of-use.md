@@ -7,13 +7,13 @@ description: terms-of-use meta description
 ---
 
 
-#Nutzungsbedingungen von BlockSigner AG
+# Nutzungsbedingungen von BlockSigner AG
 (Version 2018.10.18)
 
 Als Systemnutzer von Skribble sind Sie verpflichtet, die nachstehenden Grundsätze rechtmässiger Nutzung
 einzuhalten:
 
-###Gegenstand und Geltungsbereich
+### Gegenstand und Geltungsbereich
 <ol>
   <li>Um ein Dokument qualifiziert elektronisch zu unterzeichnen, wird eine starke Authentifizierung des
       Unterzeichnenden und eine durch einen zertifizierten Service, eine sogenannte Anbieterin von
@@ -27,7 +27,7 @@ einzuhalten:
       Bedingungen der Anbieterin von Zertifizierungsdiensten.</li>
 </ol>
 
-###Allgemeine Regeln im Umgang mit dem Account
+### Allgemeine Regeln im Umgang mit dem Account
 <ol>
   <li>Jeder Systemnutzer ist verpflichtet, Informationen und persönliche Daten vertraulich zu behandeln
     und dafür zu sorgen, dass diese vor Einblicken Dritter geschützt sind. Der Systemnutzer verpflichtet

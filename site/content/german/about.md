@@ -10,17 +10,17 @@ description: About meta description
 # Skribble schafft Vertrauen in der digitalen Welt
 Es war einmal die Unterschrift – heute signieren wir mit Skribble.
 
-![Heute Signieren wir mit Skribble](image9@2x.jpg "Heute Signieren wir mit Skribble"
+![Heute Signieren wir mit Skribble](image9@2x.jpg "Heute Signieren wir mit Skribble")
 
 ## Aus der Schreibmaschine wurde Microsoft Word, aus der CD Spotify, aus der DVD Netflix
-![Skribble macht vieles schneller, günstiger und einfacher](image10@2x.jpg "Skribble macht vieles schneller, günstiger und einfacher"
+![Skribble macht vieles schneller, günstiger und einfacher](image10@2x.jpg "Skribble macht vieles schneller, günstiger und einfacher")
 
 Die Digitalisierung macht vieles schneller, günstiger und einfacher. Das gilt auch für den Geschäftsalltag, zumindest bei 90 Prozent der Prozesse.
 
 Bei den übrigen zehn Prozent handelt es sich um Schritte, die ein hohes Mass an Vertrauen verlangen, zum Beispiel das Unterschreiben von Arbeitsverträgen. Hierbei verlassen sich viele Firmen noch auf bewährte analoge Prozesse - auf dem digitalen Weg ist dieselbe Rechtsgrundlage nicht oder nur mit enormen Mehr aufwand garantiert. Zumindest bis anhin.
 
 ## Skribble will das ändern:
-![Skribble will das Signieren ändern](image11@2x.jpg "Skribble will das Signieren ändern"
+![Skribble will das Signieren ändern](image11@2x.jpg "Skribble will das Signieren ändern")
 
 Verträge sollen nicht mehr den Umweg über Drucker und Papier nehmen müssen, um rechtsgültig unterschrieben zu werden:
 
