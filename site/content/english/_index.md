@@ -90,20 +90,17 @@ blocks:
 # contains the collapsibles
 compliance:
   title: Skribble erfüllt die rechtlichen Bestimmungen
-  text: Mit Skribble kannst du digital und rechtsgültig (QES) signieren - nach den folgenden Gesetzen.
-  items:
-    - title: Anforderungen an Schriftlichkeit (QES) gemäss OR
-      text: Die qualifizierte elektronische Signatur ist der handschriftlichen Signatur vor dem Schweizer und EU Gesetz gleichgestellt. OR Artikel, Absatz 14/2bis
-      bold: OR Artikel, Absatz 14/2bis
-    - title: Anforderungen an elektronische Signaturen gemäss ZertES
-      text: ---
-      bold: ---
-    - title: Anforderungen an Datenschutz gemäss DSGVO
-      text: ---
-      bold: ---
-    - title: Anforderungen an Outsourcing gemäss FINMA/SRO
-      text: ---
-      bold: ---
+    text: Mit Skribble kannst du digital und rechtsgültig (QES) signieren - nach den folgenden Gesetzen.
+    items:
+      - title: Requirement of written form
+        text: >
+          A QES is equal to the handwritten signature according to Swiss (OR Art. 14 Para. 2 bis) and EU law (eIDAS No. 910/2014 Art. 25 Para. 2).
+      - title: ZertES and eIDAS
+        text: >
+          Skribble obtains QES certificates from Swisscom, a provider of trusted certificates according to ZertES and eIDAS.
+      - title: CH and EU data protection regulation
+        text: >
+          Skribble and its partners (Swisscom) commit to manage data in accordance with the DSG and DSGVO.
 
 # testimonial component
 # contains quotations
