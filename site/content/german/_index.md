@@ -95,14 +95,11 @@ compliance:
   text: Mit Skribble kannst du digital und rechtsgültig (QES) signieren - nach den folgenden Gesetzen.
   items:
     - title: Anforderungen an Schriftlichkeitserfordernis
-      text: >
-        die QES ist der handschriftlichen Unterschrift vor Schweizer  (OR Art. 14 Abs. 2 bis) und EU Gesetz (eIDAS Nr. 910/2014 Art. 25 Abs. 2) gleichgestellt.
+      text: die QES ist der handschriftlichen Unterschrift vor Schweizer (OR Art. 14 Abs. 2 bis) und EU Gesetz (eIDAS Nr. 910/2014 Art. 25 Abs. 2) gleichgestellt.
     - title: Anforderungen an ZertES und eIDAS
-      text: >
-        Skribble bezieht die QES von der Swisscom, einer nach ZertES und eIDAS anerkannten Anbieterin von elektronischen Zertifikaten.
+      text: Skribble bezieht die QES von der Swisscom, einer nach ZertES und eIDAS anerkannten Anbieterin von elektronischen Zertifikaten.
     - title: Anforderungen an CH- und EU Datenschutzverordnung
-      text: >
-      Skribble sowie Partner (Swisscom) verpflichten sich, Daten gemäss DSG und DSGVO zu verwalten.
+      text: Skribble sowie Partner (Swisscom) verpflichten sich, Daten gemäss DSG und DSGVO zu verwalten.
 
 # Testimonial
 testimonial:
@@ -120,7 +117,6 @@ pricing:
   - title: Prepaid
     description: Die unterschreibenden Personen wechseln häufig oder signieren einmalig
     color: warning
-
   - title: Flat rate
     description: Gleichbleibende unterschriftsberechtigte Personen signieren häufig
     color: info

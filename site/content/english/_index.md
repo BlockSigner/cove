@@ -92,14 +92,14 @@ compliance:
   title: >
     With Skribble you fulfill all
     legal requirements
-  text: We make sure that you can safely sign without hesitation. Skribble is compliant with the following requirements:
+  text: "We make sure that you can safely sign without hesitation. Skribble is compliant with the following requirements:"
   items:
-    - title: Requirement of written form
-      text: A QES is equal to the handwritten signature according to Swiss (OR Art. 14 Para. 2 bis) and EU law (eIDAS No. 910/2014 Art. 25 Para. 2).
-    - title: ZertES and eIDAS
-        text: Skribble obtains QES certificates from Swisscom, a provider of trusted certificates according to ZertES and eIDAS.
-    - title: CH and EU data protection regulation
-        text: Skribble and its partners (Swisscom) commit to manage data in accordance with the DSG and DSGVO.
+  - title: Requirement of written form
+    text: A QES is equal to the handwritten signature according to Swiss (OR Art. 14 Para. 2 bis) and EU law (eIDAS No. 910/2014 Art. 25 Para. 2).
+  - title: ZertES and eIDAS
+    text: Skribble obtains QES certificates from Swisscom, a provider of trusted certificates according to ZertES and eIDAS.
+  - title: CH and EU data protection regulation
+    text: Skribble and its partners (Swisscom) commit to manage data in accordance with the DSG and DSGVO.
 
 # testimonial component
 # contains quotations
@@ -115,20 +115,20 @@ pricing:
   text: Skribbles' offering structure adapts to your needs and can be configured in a flexible way.
   plans:
   - title: >
-    Prepaid-Model
-    Unit price per signature
-  description: Suitable for single or occasional signing with QES
-  color: warning
+      Prepaid-Model
+      Unit price per signature
+    description: Suitable for single or occasional signing with QES
+    color: warning
   - title: >
-    Flat rate-Model
-    Package price per person
-  description: Suitable for regular signing with QES
-  color: info
+      Flat rate-Model
+      Package price per person
+    description: Suitable for regular signing with QES
+    color: info
 
 # newsletter component
 # form will be generated with an external service
 newsletter:
-  title: >  
+  title: >
     Try Skribble now
     without obligation!
   text: No credit card, entrance fee or commitment required.
