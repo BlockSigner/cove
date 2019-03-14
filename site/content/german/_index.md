@@ -129,9 +129,9 @@ pricing:
 # form will be generated with an external service
 newsletter:
   title: >
-    Das Wichtigste auf
-    dem Silbertablett
-  text: Bleibe auf dem Laufenden mit selektionierten Insights zu digitalen Signaturen.
+    Jetzt Skribble
+    unverbindlich ausprobieren!
+  text: Keine Kreditkarte, Eintrittsgebühr oder Verpflichtung erforderlich.
   image:
     mobile:
       filename: image8

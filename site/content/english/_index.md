@@ -7,10 +7,10 @@ draft: false
 # intro component
 intro:
   title: >
-    Rechtsgültig
-    elektronisch signieren
-    mit Skribble
-  text: Signaturprozesse einfach digital abwickeln – rechtsgültig nach dem Schweizer & EU Gesetz.
+    Legally valid
+    electronic signature
+    with Skribble
+  text: Easily handle signature processes digitally – legally valid in accordance with Swiss & EU law.
   image:
     mobile:
       filename_webp: image1-678w.webp
@@ -22,19 +22,19 @@ intro:
       width: 1356
   alt_text:
   link:
-    text: Jetzt Registrieren
+    text: Try it now
     href: '#'
   partner:
     image_webp: image17@2x.webp
     image_jpg: image17@2x.jpg
     alt_text:
-    text: Basierend auf der qualifizierten elektronischen Signatur QES der Swisscom
+    text: Based on the qualified electronic signature QES by Swisscom
 
 # block components
 # the first 3 are displayed before the compliance component, the rest is displayed after it
 blocks:
-  - title: Dokumente als PDF hochladen
-    text: Lade das signierbereite Dokument als PDF auf Skribble.
+  - title: Upload documents as PDF files
+    text: Upload the document ready to be signed as a PDF onto Skribble.
     images:
       mobile:
         filename: image2
@@ -43,9 +43,9 @@ blocks:
         filename: image2@2x
         width: 832
     alt_text:
-  - title: Zum Signieren einladen
+  - title: Invite people to sign
     inverse: true
-    text: Lade die signierenden Personen per E-Mail ein und lege die Signatur-Reihnenfolge fest.
+    text: Invite the persons to sign by e-mail and define the signature order.
     images:
       mobile:
         filename: image3
@@ -54,8 +54,8 @@ blocks:
         filename: image3@2x
         width: 800
     alt_text:
-  - title: Rechtsgültig signieren
-    text: Ihr signiert rechtsgültig per Knopfdruck, unabhängig von Zeit und Ort.
+  - title: Legally valid signing
+    text: You sign legally valid documents at the touch of a button, regardless of time and place.
     images:
       mobile:
         filename: image4
@@ -64,9 +64,9 @@ blocks:
         filename: image4@2x
         width: 782
     alt_text:
-  - title: Skribble arbeitet mit staatlich anerkannter Technologie von Swisscom
+  - title: Skribble works with government-approved technology from Swisscom
     inverse: true
-    text: Ein wichtiger Bestandteil der elektronischen Signatur (QES) sind entsprechende digitale Zertifikate. Skribble bezieht diese von Swisscom, eine staatlich Anerkannte Zertifizierungsstelle. Damit sind Signaturen, die über Skribble erstellt werden, der handschrfltichen Signatur nach Schweizer und EU Gesetz gleichgestellt.
+    text: An important component of the qualified electronic signatures (QES) are corresponding digital certificates. Skribble obtains these from Swisscom, a government approved certification authority. Signatures created by Skribble are thus equivalent to hand-written signatures according to Swiss and EU law.
     images:
       mobile:
         filename: image5
@@ -75,8 +75,8 @@ blocks:
         filename: image5@2x
         width: 860
     alt_text:
-  - title: Skribble prüft deine Identität, damit du rechtssicher elektronisch signieren kannst
-    text: "Für die qualifizierte elektronische Signatur (QES) muss der Unterzeichnende seine Identität beweisen. Skribble setzt hierfür auf die ID-App der Swisscom, wobei du zwischen zwei Services wählen kannst: Wir kommen vorbei um dich und deine Kollegen zu identifizieren, oder du setzt die ID-App selbst ein und identifizierst Mitarbeiter, Firmen und Lieferanten flexibel im persönlichen Kontakt."
+  - title: Skribble verifies your identity so that you can sign electronically in a legally compliant manner
+    text: The qualified electronic signature (QES) requires the signing party to verify his or her identity. Persons who have a verified E-ID can start directly without additional measures. Otherwise, Skribble offers a suitable means of identification for every business context.
     images:
       mobile:
         filename: image6
@@ -89,46 +89,49 @@ blocks:
 # compliance component
 # contains the collapsibles
 compliance:
-  title: Skribble erfüllt die rechtlichen Bestimmungen
-    text: Mit Skribble kannst du digital und rechtsgültig (QES) signieren - nach den folgenden Gesetzen.
-    items:
-      - title: Requirement of written form
-        text: >
-          A QES is equal to the handwritten signature according to Swiss (OR Art. 14 Para. 2 bis) and EU law (eIDAS No. 910/2014 Art. 25 Para. 2).
-      - title: ZertES and eIDAS
-        text: >
-          Skribble obtains QES certificates from Swisscom, a provider of trusted certificates according to ZertES and eIDAS.
-      - title: CH and EU data protection regulation
-        text: >
-          Skribble and its partners (Swisscom) commit to manage data in accordance with the DSG and DSGVO.
+  title: >
+    With Skribble you fulfill all
+    legal requirements
+  text: We make sure that you can safely sign without hesitation. Skribble is compliant with the following requirements:
+  items:
+    - title: Requirement of written form
+      text: A QES is equal to the handwritten signature according to Swiss (OR Art. 14 Para. 2 bis) and EU law (eIDAS No. 910/2014 Art. 25 Para. 2).
+    - title: ZertES and eIDAS
+        text: Skribble obtains QES certificates from Swisscom, a provider of trusted certificates according to ZertES and eIDAS.
+    - title: CH and EU data protection regulation
+        text: Skribble and its partners (Swisscom) commit to manage data in accordance with the DSG and DSGVO.
 
 # testimonial component
 # contains quotations
 testimonial:
-  title: Auch andere vertrauen Skribble
+  title: Others trust Skribble as well
   text: ---
 
 # pricing component
 pricing:
   title: >
-    Die Signaturen lassen sich einzeln
-    oder als Flatrate beziehen
-  text: Skribbles Angebotsstruktur passt sich deinen Bedürfnissen an und kann flexibel kombiniert werden.
+    The signatures can be obtained
+    individually or as a flat rate.
+  text: Skribbles' offering structure adapts to your needs and can be configured in a flexible way.
   plans:
-  - title: Prepaid
-    description: Die unterschreibenden Personen wechseln häufig oder signieren einmalig
-    color: warning
-  - title: Flat rate
-    description: Gleichbleibende unterschriftsberechtigte Personen signieren häufig
-    color: info
+  - title: >
+    Prepaid-Model
+    Unit price per signature
+  description: Suitable for single or occasional signing with QES
+  color: warning
+  - title: >
+    Flat rate-Model
+    Package price per person
+  description: Suitable for regular signing with QES
+  color: info
 
 # newsletter component
 # form will be generated with an external service
 newsletter:
-  title: >
-    Das Wichtigste auf
-    dem Silbertablett
-  text: Bleibe auf dem Laufenden mit selektionierten Insights zu digitalen Signaturen.
+  title: >  
+    Try Skribble now
+    without obligation!
+  text: No credit card, entrance fee or commitment required.
   image:
     mobile:
       filename: image8
