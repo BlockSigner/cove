@@ -8,6 +8,7 @@
   <title>{{ $.Site.Title }}</title>
   <meta name="theme-color" content="#293d66"/>
   <meta name="description" content="{{ if .IsHome }}{{ $.Site.Params.description }}{{ else }}{{ .Description }}{{ end }}" />
+  <meta name="format-detection" content="telephone=no">
 
   {{ $stylesheet := .Site.Data.webpack.main }}
   {{ with $stylesheet.css }}
@@ -20,9 +21,11 @@
 
   {{ block "header" . }}{{ partial "header" . }}{{end}}
 
-  {{ block "main" . }}{{end}}
+  <div class="wrapper">
+    {{ block "main" . }}{{end}}
 
-  {{ block "footer" . }}{{ partial "footer" . }}{{end}}
+    {{ block "footer" . }}{{ partial "footer" . }}{{end}}
+  </div>
 
   {{ $script := .Site.Data.webpack.main }}
   {{ with $script.js }}

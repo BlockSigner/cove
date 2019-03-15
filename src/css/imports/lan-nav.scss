@@ -1,10 +1,19 @@
 .lan-nav {
+  @include reset-list-styling;
+  display: flex;
+  @include max-width {
+    flex-direction: column;
+    padding: 6px 24px;
+  }
+
   a {
     padding: 10px;
     text-decoration: none;
     color: var(--c-text);
+    @include max-width {
+      display: block;
+      padding: 6px 0;
+      font-size: 1.6rem;
+    }
   }
-
-  @include reset-list-styling;
-  display: flex;
 }

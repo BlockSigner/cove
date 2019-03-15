@@ -8,9 +8,9 @@ description: Privacy policy meta description
 
 # Datenschutzbestimmungen
 
-Datum des Inkrafttretens: October 11, 2018
+<small>Datum des Inkrafttretens: October 11, 2018</small>
 
-BlockSigner AG ("wir", "uns", "unser" usw.) betreibt die Website [www.skribble.com](www.skribble.com "www.skribble.com") (nachstehend als "Dienst" bezeichnet).
+<p class="lead">BlockSigner AG ("wir", "uns", "unser" usw.) betreibt die Website [www.skribble.com](www.skribble.com "www.skribble.com") (nachstehend als "Dienst" bezeichnet).</p>
 
 Diese Seite enthält Informationen zu der Art und Weise, auf welche wir personenbezogene Daten erfassen, nutzen und offenlegen, wenn Sie unseren Dienst nutzen, sowie zu den Optionen, die Ihnen im Zusammenhang mit diesen Daten zur Verfügung stehen.
 

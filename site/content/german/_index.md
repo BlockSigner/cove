@@ -3,6 +3,7 @@
 
 title: Home
 draft: false
+type: wide
 
 # images have to be provided in webp and jpg format
 

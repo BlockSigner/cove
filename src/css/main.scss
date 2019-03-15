@@ -26,30 +26,28 @@
 
 @import 'imports/collapsible';
 @import 'imports/compliance';
+@import 'imports/contact';
 @import 'imports/block';
 @import 'imports/footer';
 @import 'imports/header';
 @import 'imports/intro';
 @import 'imports/lan-nav';
+@import 'imports/maps';
 @import 'imports/newsletter';
 @import 'imports/price-plan';
 @import 'imports/pricing';
+@import 'imports/richtext';
 @import 'imports/title-subtitle';
 
 html {
   font-size: 10px;
 }
 
-/*
-  Or add your statements here:
- */
 body {
   display: flex;
   flex-direction: column;
   align-items: center;
-  font-size: 2rem;
-  line-height: 1.4;
-  font-family: var(--averta);
+  font: normal 2rem/1.4 var(--averta);
   color: var(--c-text);
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
@@ -58,21 +56,30 @@ body {
   }
 }
 
-.main {
-  position: relative;
-  padding-top: 90px;
-  padding-bottom: 90px;
-  &--narrow {
-    width: 100%;
-    max-width: 700px;
-    margin: 0 auto;
-  }
+.wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 100%;
+  min-height: 100vh;
 }
 
-h1 {
-  font: bold 4rem/1.1 var(--averta);
-  color: var(--c-text-dark);
+.main {
+  flex: 1 1 100%;
+  position: relative;
+  padding: 90px 50px;
   @include max-width {
-    font-size: 3rem;
+    padding: 65px 20px;
+  }
+
+  &--narrow {
+    width: 100%;
+    max-width: 800px;
+    margin: 0 auto;
+  }
+
+  &--contact {
+    width: 1030px;
+    max-width: 100%;
   }
 }

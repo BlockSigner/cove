@@ -26,10 +26,10 @@
     }
   }
 
-  &__text {
-    max-width: 480px;
+  .title-subtitle {
+    max-width: 580px;
     @include min-width {
-      padding: 0 30px;
+      padding-right: 80px;
     }
   }
 
@@ -38,6 +38,11 @@
       flex-direction: row-reverse;
       @include max-width {
         flex-direction: column;
+      }
+    }
+    .title-subtitle {
+      @include min-width {
+        padding-left: 80px;
       }
     }
   }

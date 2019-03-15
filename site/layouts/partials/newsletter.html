@@ -20,7 +20,7 @@
   <div class="newsletter__text">
 
     <!-- pass on the arguments to title-subtitle module -->
-    {{ partial "title-subtitle" . }}
+    {{ partial "title-subtitle" (dict "Page" . ) }}
 
     <div class="newsletter__form">
       <!-- - - - - - - - - start hubspot newsletter snippet  - - - - - - - - -->

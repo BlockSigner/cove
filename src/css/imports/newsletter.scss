@@ -31,7 +31,7 @@
       display: block;
       margin-bottom: 15px;
       font-weight: bold;
-      color: var(--c-text-dark);
+      color: var(--c-text-alt);
     }
 
     .actions {
@@ -49,7 +49,7 @@
       border: 1px solid var(--c-border);
       border-radius: 3px;
       font: normal 1.8rem/1 var(--averta);
-      color: var(--c-text-dark);
+      color: var(--c-text-alt);
       &:focus {
         border: 2px solid var(--c-primary);
         outline: 0;

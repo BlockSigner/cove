@@ -1,7 +1,7 @@
 <div class="pricing">
 
   <!-- pass on the arguments to title-subtitle module -->
-  {{ partial "title-subtitle" . }}
+  {{ partial "title-subtitle" (dict "Page" . "align" "center" ) }}
 
   <div class="pricing__plans">
 
@@ -16,7 +16,7 @@
         ">
           <div class="price-plan__title">{{ .title }}</div>
           <div class="price-plan__description">{{ .description }}</div>
-          <div class="price-plan__details">
+          {{/*  <div class="price-plan__details">
             <div class="price-plan__per">{{ .per }}</div>
             <div class="price-plan__lower">
               <div class="price-plan__currency">{{ .currency }}</div>
@@ -25,7 +25,7 @@
                 <div class="price-plan__addendum">{{ .addendum }}</div>
               </div>
             </div>
-          </div>
+          </div>  */}}
         </div>
 
         {{ if .discounts }}

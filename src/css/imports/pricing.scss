@@ -1,6 +1,9 @@
 .pricing {
   @include site-width;
   @include vertical-unit-margins;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 
   &__title {
     text-align: center;

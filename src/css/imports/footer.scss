@@ -12,11 +12,28 @@
     justify-content: space-between;
     align-items: center;
     height: 60px;
+    @include max-width {
+      flex-direction: column;
+      height: auto;
+      padding-left: 0;
+      padding-right: 0;
+    }
   }
 
   &__left {
     display: flex;
     align-items: center;
+    @include max-width {
+      flex-direction: column;
+      align-items: flex-start;
+      width: 100%;
+    }
+  }
+
+  &__right {
+    @include max-width {
+      width: 100%;
+    }
   }
 
   &__logo {
@@ -25,7 +42,7 @@
     margin-right: 10px;
     font-weight: bold;
     font-size: 3rem;
-    color: var(--c-text-dark);
+    color: var(--c-text-alt);
 
     svg {
       margin-right: 3px;
@@ -35,10 +52,20 @@
   &__nav {
     @include reset-list-styling;
     display: flex;
+    @include max-width {
+      flex-direction: column;
+      padding: 6px 24px;
+      border-top: 1px solid var(--c-border);
+    }
 
     a {
       padding: 10px;
       color: var(--c-text);
+      @include max-width {
+        display: block;
+        padding: 6px 0;
+        font-size: 1.6rem;
+      }
     }
   }
 }

@@ -1,7 +1,24 @@
 .title-subtitle {
+  max-width: 700px;
+  text-align: left;
+
+  &.align-center {
+    text-align: center;
+    @include max-width {
+      text-align: left;
+    }
+  }
+
+  &.is-wide {
+    max-width: none;
+  }
 
   h1 {
-    text-align: center;
+    font: bold 4rem/1.1 var(--averta);
+    color: var(--c-text-alt);
+    @include max-width {
+      font-size: 3rem;
+    }
   }
 
   &__lead {
