@@ -20,16 +20,16 @@ As a Skribble user, you must comply with the following principles of lawful use:
 
 ### General rules for handling the account
 <ol>
-    <li>Every user is obliged to treat information and personal data confidentially and to ensure that they are protected from third party access. The user undertakes to take appropriate precautions when using desktop and mobile devices and when using printouts.</li>
+    <li>Every user is undertakes to treat information and personal data confidentially and to ensure that they are protected from third party access. The user undertakes to take appropriate precautions when using desktop and mobile devices and when using printouts.</li>
     <li>Users shall ensure that their login information is kept secret at all times to prevent unauthorized persons from gaining access to Skribble.</li>
     <li>Neither the customer nor users may take measures that impair the functionality of Skribble and its connection to users, servers or networks.</li>
     <li>Attempted or actual unauthorised access to Skribble may result in civil and criminal prosecution.</li>
     <li>Users may not use the platform in any unauthorized manner. In particular, the customer and users:
       <ul>
-          <li>May not use Skribble in any manner that infringes any copyright, database right, trademark, right to confidentiality or any other intellectual property right, or violates any data protection, privacy or other personal rights of any third party.</li>
-          <li>May not use Skribble for commercial purposes outside the scope specified by Skribble.</li>
-          <li>May not import malicious software (such as viruses, malware, trojans, viruses, scripts), other computer code, files or programs (such as browsers with scraping or crawling functions) into Skribble.</li>
-          <li>May not send unsolicited mass mailings (SPAM, mail bombs, etc.).</li>
+          <li>may not use Skribble in any manner that infringes any copyright, database right, trademark, right to confidentiality or any other intellectual property right, or violates any data protection, privacy or other personal rights of any third party;</li>
+          <li>may not use Skribble for commercial purposes outside the scope specified by Skribble;</li>
+          <li>may not import malicious software (such as viruses, malware, trojans, viruses, scripts), other computer code, files or programs (such as browsers with scraping or crawling functions) into Skribble;</li>
+          <li>may not send unsolicited mass mailings (SPAM, mail bombs, etc.).</li>
       </ul>
     </li>
     <li>Users may not impersonate any person or falsely impersonate any organization. Neither may they falsely state or otherwise misrepresent their affiliation with or relationship to any organization.</li>
