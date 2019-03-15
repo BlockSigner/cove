@@ -12,7 +12,7 @@ Es war einmal die Unterschrift – heute signieren wir mit Skribble.
 
 ![Heute Signieren wir mit Skribble](image9@2x.jpg "Heute Signieren wir mit Skribble")
 
-## Aus der Schreibmaschine wurde Microsoft Word, aus der CD Spotify, aus der DVD Netflix
+## Aus der Schreibmaschine wurde Microsoft Word, aus der CD Spotify, aus der DVD Netflix.
 ![Skribble macht vieles schneller, günstiger und einfacher](image10@2x.jpg "Skribble macht vieles schneller, günstiger und einfacher")
 
 Die Digitalisierung macht vieles schneller, günstiger und einfacher. Das gilt auch für den Geschäftsalltag, zumindest bei 90 Prozent der Prozesse.

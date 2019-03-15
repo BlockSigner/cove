@@ -1,32 +1,32 @@
 ---
 title: >
-  Skribble schafft Vertrauen
-  in der digitalen Welt
+  Skribble builds trust
+  in the digital world
 slug: about
 draft: false
 type: narrow
 description: About meta description
 ---
-# Skribble schafft Vertrauen in der digitalen Welt
-Es war einmal die Unterschrift – heute signieren wir mit Skribble.
+# Skribble builds trust in the digital world
+Once upon a time there was the hand-written signature – today we sign with Skribble.
 
-![Heute Signieren wir mit Skribble](image9@2x.jpg "Heute Signieren wir mit Skribble")
+![Today we sign with Skribble](image9@2x.jpg "Today we sign with Skribble")
 
-## Aus der Schreibmaschine wurde Microsoft Word, aus der CD Spotify, aus der DVD Netflix
-![Skribble macht vieles schneller, günstiger und einfacher](image10@2x.jpg "Skribble macht vieles schneller, günstiger und einfacher")
+## The typewriter became Microsoft Word, the CD turned into Spotify, the DVD became Netflix.
+![Skribble makes many things faster, cheaper and simpler](image10@2x.jpg "Skribble makes many things faster, cheaper and simpler")
 
-Die Digitalisierung macht vieles schneller, günstiger und einfacher. Das gilt auch für den Geschäftsalltag, zumindest bei 90 Prozent der Prozesse.
+Digitalisation makes many things faster, cheaper and simpler. This also applies to everyday business for at least 90 percent of processes.
 
-Bei den übrigen zehn Prozent handelt es sich um Schritte, die ein hohes Mass an Vertrauen verlangen, zum Beispiel das Unterschreiben von Arbeitsverträgen. Hierbei verlassen sich viele Firmen noch auf bewährte analoge Prozesse - auf dem digitalen Weg ist dieselbe Rechtsgrundlage nicht oder nur mit enormen Mehr aufwand garantiert. Zumindest bis anhin.
+The remaining ten percent are steps which require a high degree of trust, for example signing employment contracts. Many companies still rely on established analogue processes for this, as the digital way would represent an enormous additional expenditure if it has to comply with legal requirements. At least up to now.
 
-## Skribble will das ändern:
-![Skribble will das Signieren ändern](image11@2x.jpg "Skribble will das Signieren ändern")
+## Skribble wants to change this:
+![Skribble will change signature processes](image11@2x.jpg "Skribble will change signature processes")
 
-Verträge sollen nicht mehr den Umweg über Drucker und Papier nehmen müssen, um rechtsgültig unterschrieben zu werden:
+Contracts should no longer have to take the detour via printer and paper to be legally signed:
 
-Mit Skribble werden Signaturprozesse 100% digital abgewickelt, basierend auf der qualifizierten elektronischen Signatur “QES” - die e-Unterschrift, die vor Schweizer und EU Gesetz der handschriftlichen Signatur gleichgestellt ist.
+With Skribble, signature processes are handled 100% digitally, based on the qualified electronic signature "QES" - the e-signature, which is equivalent to the hand-written signature according to Swiss and EU law.
 
-Dabei geht die Sicherheit nicht auf Kosten von Einfachheit: Jede Firma, unabhängig von Grösse und technologischem Know-How, soll von den Vorteilen der digitalen Transformation profitieren können.
+Security does not come at the expense of simplicity: every company, regardless of size and technological know-how, should be able to benefit from the advantages of digital transformation.
 
-## Und das ist nur der Anfang:
-Der Aufbau von Vertrauen in digitalen Geschäftsbeziehungen soll so einfach und intuitiv werden wie wie Toasten. Seit der Gründung 2018 arbeitet ein wachsendes Team von Trust Shapern auf diese Zukunft hin.
+## And that's just the beginning:
+Building trust in digital business relationships should become as simple and intuitive as toasting bread. Since its founding in 2018, a growing team of Trust Shapers has been working towards this future.
