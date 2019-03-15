@@ -1,5 +1,4 @@
-.intro {
-  @include site-width;
+.outro {
   display: flex;
   justify-content: center;
   align-items: center;
@@ -14,7 +13,7 @@
   }
 
   &__image {
-    max-width: 620px;
+    max-width: 414px;
 
     img {
       display: block;
@@ -24,27 +23,9 @@
 
   &__text {
     max-width: 595px;
+    text-align: center;
     @include min-width {
       padding: 0 80px;
-    }
-  }
-
-  &__partner {
-    display: flex;
-    align-items: center;
-    margin-top: 20px;
-
-    &-img {
-      flex: 1 0 auto;
-      max-width: 50px;
-      margin-right: 10px;
-    }
-
-    &-text {
-      font-weight: bold;
-      font-size: 1.4rem;
-      line-height: 1.21;
-      color: var(--c-text-alt);
     }
   }
 }

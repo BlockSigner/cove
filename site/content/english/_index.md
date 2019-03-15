@@ -25,8 +25,7 @@ intro:
     text: Try it now
     href: '#'
   partner:
-    image_webp: image17@2x.webp
-    image_jpg: image17@2x.jpg
+    image: swisscom.svg
     alt_text:
     text: Based on the qualified electronic signature QES by Swisscom
 
@@ -125,19 +124,23 @@ pricing:
     description: Suitable for regular signing with QES
     color: info
 
-# newsletter component
-# form will be generated with an external service
-newsletter:
+# outro component
+outro:
   title: >
     Try Skribble now
     without obligation!
   text: No credit card, entrance fee or commitment required.
   image:
     mobile:
-      filename: image8
-      width: 414
+      filename_webp: image8.webp
+      filename_jpg: image8.jpg
+      width: 207
     desktop:
-      filename: image8@2x
-      width: 828
+      filename_webp: image8@2x.webp
+      filename_jpg: image8@2x.jpg
+      width: 414
   alt_text:
+  link:
+    text: Try it now
+    href: '#'
 ---
