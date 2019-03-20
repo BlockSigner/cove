@@ -1,0 +1,22 @@
+{{ define "main" }}
+<main class="main main--team">
+
+  {{ range .Params.groups }}
+    <div class="title-subtitle align-center">
+      <h1>{{ .title }}</h1>
+      <p>{{ .text }}</p>
+    </div>
+    <div class="people">
+      {{ range .people }}
+        {{ partial "person" . }}
+      {{ end }}
+    </div>
+  {{ end }}
+
+  {{ partial "outro" .Params.outro }}
+
+</main>
+{{ end }}
+
+
+

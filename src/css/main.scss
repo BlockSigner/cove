@@ -35,6 +35,7 @@
 @import 'imports/maps';
 @import 'imports/newsletter';
 @import 'imports/outro';
+@import 'imports/person';
 @import 'imports/price-plan';
 @import 'imports/pricing';
 @import 'imports/richtext';
@@ -79,7 +80,8 @@ body {
     margin: 0 auto;
   }
 
-  &--contact {
+  &--contact,
+  &--team {
     width: 1030px;
     max-width: 100%;
   }

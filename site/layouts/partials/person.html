@@ -1,0 +1,24 @@
+<div class="person-wrapper">
+  <div class="person">
+    <div class="person__image">
+      <picture>
+        <source
+          type="image/webp"
+          srcset="{{ .images.mobile.filename }}.webp {{ .images.mobile.width }}w, {{ .images.desktop.filename }}.webp {{ .images.desktop.width }}w"
+          sizes="(max-width: 767px) 100vw, 400px"
+        />
+        <source
+          type="image/jpeg"
+          srcset="{{ .images.mobile.filename }}.jpg {{ .images.mobile.width }}w, {{ .images.desktop.filename }}.jpg {{ .images.desktop.width }}w"
+          sizes="(max-width: 767px) 100vw, 400px"
+        />
+        <img
+          src="{{ .images.desktop.filename }}.jpg"
+          alt="{{ .alt_text }}"
+        />
+      </picture>
+    </div>
+    <div class="person__name">{{ .name }}</div>
+    <div class="person__position">{{ .position }}</div>
+  </div>
+</div>

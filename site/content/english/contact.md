@@ -4,7 +4,7 @@ slug: contact
 draft: false
 type: contact
 
-# title subtitle component
+# map component
 map:
   title: Skribble Office
   subtitle: Right on Bahnhofstrasse, in the heart of Zurich
