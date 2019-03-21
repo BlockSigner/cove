@@ -2,10 +2,12 @@
   <div class="header__wrapper">
     <div class="header__container">
       <div class="header__left">
-        <a href="{{ .Site.Home.RelPermalink }}" class="header__logo">
-          <img src="/logo-skribble.svg" alt="">
-          Skribble
-        </a>
+          <a href="{{ .Site.Home.RelPermalink }}" class="header__logo">
+            <img src="/logo-skribble.svg" alt="">
+            Skribble
+          </a>
+      </div>
+      <div class="header__right">
         <nav>
           <ul class="header__nav">
             {{ $currentPage := . }}
@@ -16,9 +18,7 @@
             {{ end }}
           </ul>
         </nav>
-      </div>
-      <div class="header__right">
-        <button type="button" class="btn header__btn">Jetzt Vormerken</button>
+            <!-- <button type="button" class="btn header__btn">Jetzt Vormerken</button> -->
       </div>
     </div>
   </div>

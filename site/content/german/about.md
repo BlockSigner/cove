@@ -4,9 +4,12 @@ slug: ueber-uns
 draft: false
 type: narrow
 description: About meta description
+
+# title subtitle component
+title_subtitle:
+  title: Skribble schafft Vertrauen in der digitalen Welt
+  subtitle: Es war einmal die Unterschrift – heute signieren wir mit Skribble.
 ---
-# Skribble schafft Vertrauen in der digitalen Welt
-Es war einmal die Unterschrift – heute signieren wir mit Skribble.
 
 <picture>
   <source
