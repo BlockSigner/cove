@@ -1,42 +1,67 @@
 .person {
 
+  img {
+    display: block;
+    max-width: 100%;
+  }
 
   &-wrapper {
     flex: 0 0 50%;
     display: flex;
     flex-direction: column;
     height: 700px;
+    @include max-width {
+      align-items: stretch;
+      height: auto;
+      margin-bottom: 45px;
+    }
+    @include max-width-xs {
+      flex-basis: 100%;
+      margin-bottom: 40px;
+    }
     &:nth-child(odd) {
-      align-items: flex-start;
-      justify-content: flex-start;
-    }
-    &:nth-child(even) {
-      align-items: flex-end;
-      justify-content: flex-end;
-    }
-    &:nth-child(4n - 3),
-    &:nth-child(4n) {
-      img {
-        width: 448px;
-        max-width: 100%;
+      @include min-width {
+        align-items: flex-start;
+        justify-content: flex-start;
       }
     }
-    &:nth-child(4n - 1),
-    &:nth-child(4n - 2) {
-      img {
-        width: 327px;
-        max-width: 100%;
+    &:nth-child(even) {
+      @include min-width {
+        align-items: flex-end;
+        justify-content: flex-end;
+      }
+    }
+    &:nth-child(2n - 1) {
+      padding-right: 12px;
+      @include max-width-xs {
+        padding-right: 0;
+      }
+    }
+    &:nth-child(2n) {
+      padding-left: 12px;
+      @include max-width-xs {
+        padding-left: 0;
       }
     }
   }
 
   &__name {
+    font-size: 2.4rem;
+    font-weight: bold;
+    color: var(--c-text-alt);
+    @include max-width {
+      font-size: 2rem;
+    }
   }
+
   &__position {
-
+    font-size: 1.8rem;
   }
-  &__image {
 
+  &__image {
+    @include min-width {
+      margin-bottom: 10px;
+    }
   }
 }
 

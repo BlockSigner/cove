@@ -4,16 +4,26 @@
       <picture>
         <source
           type="image/webp"
-          srcset="{{ .images.mobile.filename }}.webp {{ .images.mobile.width }}w, {{ .images.desktop.filename }}.webp {{ .images.desktop.width }}w"
-          sizes="(max-width: 767px) 100vw, 400px"
+          media="(max-width: 767px)"
+          srcset="{{ .images.regular_landscape }}.webp 1x, {{ .images.retina_landscape }}.webp 2x"
         />
         <source
           type="image/jpeg"
-          srcset="{{ .images.mobile.filename }}.jpg {{ .images.mobile.width }}w, {{ .images.desktop.filename }}.jpg {{ .images.desktop.width }}w"
-          sizes="(max-width: 767px) 100vw, 400px"
+          media="(max-width: 767px)"
+          srcset="{{ .images.regular_landscape }}.jpg 1x, {{ .images.retina_landscape }}.jpg 2x"
+        />
+        <source
+          type="image/webp"
+          media="(min-width: 768px)"
+          srcset="{{ .images.regular_portrait }}.webp 1x, {{ .images.retina_portrait }}.webp 2x"
+        />
+        <source
+          type="image/jpeg"
+          media="(min-width: 768px)"
+          srcset="{{ .images.regular_portrait }}.jpg 1x, {{ .images.retina_portrait }}.jpg 2x"
         />
         <img
-          src="{{ .images.desktop.filename }}.jpg"
+          src="{{ .images.regular_landscape }}.jpg"
           alt="{{ .alt_text }}"
         />
       </picture>

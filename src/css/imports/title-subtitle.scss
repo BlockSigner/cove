@@ -1,14 +1,16 @@
 .title-subtitle {
   max-width: 700px;
-  margin-left: auto;
-  margin-right: auto;
+  margin: 80px auto;
   text-align: left;
+  @include max-width {
+    margin-bottom: 30px;
+  }
 
   &.align-center {
     text-align: center;
-    @include max-width {
-      text-align: left;
-    }
+    // @include max-width {
+    //   text-align: left;
+    // }
   }
 
   &.is-wide {
@@ -16,10 +18,15 @@
   }
 
   h1 {
+    margin: 0 0 10px 0;
     font: bold 4rem/1.1 var(--averta);
     color: var(--c-text-alt);
     @include max-width {
       font-size: 3rem;
+    }
+
+    + p {
+      margin: 10px 0 0 0;
     }
   }
 
