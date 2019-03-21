@@ -4,9 +4,12 @@ slug: about
 draft: false
 type: narrow
 description: About meta description
+
+# title subtitle component
+title_subtitle:
+  title: Skribble builds trust in the digital world
+  subtitle: Once upon a time there was the hand-written signature – today we sign with Skribble.
 ---
-# Skribble builds trust in the digital world
-Once upon a time there was the hand-written signature – today we sign with Skribble.
 
 <picture>
   <source

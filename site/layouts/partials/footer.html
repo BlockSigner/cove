@@ -3,11 +3,14 @@
     <div class="footer__left">
       <nav>
         <ul class="lan-nav">
-          {{ range $.Site.Home.AllTranslations }}
-          <li>
-            <a href="{{ .Permalink }}">{{ .Language.LanguageName }}</a>
-          </li>
-          <!-- prettier-ignore -->
+          {{ range .Site.Languages }}
+            {{ if eq . $.Site.Language }}
+              <li><a href="#" class="active language">{{ .LanguageName }}</a></li>
+            {{ else }}
+              {{ range $.Translations }}
+              <li><a href="{{ .Permalink }}" class="">{{ .Language.LanguageName }}</a></li>
+              {{ end }}
+            {{ end }}
           {{ end }}
         </ul>
       </nav>
@@ -15,8 +18,9 @@
     <div class="footer__right">
       <nav>
         <ul class="footer__nav">
+          {{ $currentPage := . }}
           {{ range .Site.Menus.footer }}
-            <li><a href="{{ .URL }}">{{ .Name }}</a></li>
+            <li><a class="{{ if eq (string (.URL | relLangURL)) $currentPage.RelPermalink }}active{{ end }}" href="{{ .URL }}">{{ .Name }}</a></li>
           {{ end }}
         </ul>
       </nav>

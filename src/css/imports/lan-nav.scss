@@ -15,5 +15,10 @@
       padding: 6px 0;
       font-size: 1.6rem;
     }
+
+    &.active {
+      font-weight: bold;
+      color: var(--c-text-alt);
+    }
   }
 }

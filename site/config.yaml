@@ -9,9 +9,14 @@ languages:
     menu:
       main:
         - name: Über uns
-          url: /de/ueber-uns/
+          url: /ueber-uns/
+          weight: 5
+        - name: Team
+          url: /team/
+          weight: 10
         - name: Kontakt
-          url: /de/kontakt/
+          url: /kontakt/
+          weight: 15
       footer:
         - name: Disclaimer
           url: /de/disclaimer
@@ -27,8 +32,13 @@ languages:
       main:
         - name: About
           url: /about/
+          weight: 5
+        - name: Team
+          url: /team/
+          weight: 10
         - name: Contact
           url: /contact/
+          weight: 15
       footer:
         - name: Privacy Policy
           url: /privacy/

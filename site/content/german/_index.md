@@ -28,8 +28,7 @@ intro:
     text: Jetzt Registrieren
     href: '#'
   partner:
-    image_webp: image17@2x.webp
-    image_jpg: image17@2x.jpg
+    image: swisscom.png
     alt_text:
     text: Basierend auf der qualifizierten elektronischen Signatur QES der Swisscom
 

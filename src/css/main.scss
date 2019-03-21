@@ -58,6 +58,11 @@ body {
   }
 }
 
+img {
+  display: block;
+  max-width: 100%;
+}
+
 .wrapper {
   display: flex;
   flex-direction: column;
@@ -84,5 +89,16 @@ body {
   &--team {
     width: 1030px;
     max-width: 100%;
+  }
+}
+
+.hide-for-mobile {
+  @include max-width {
+    display: none;
+  }
+}
+.hide-for-desktop {
+  @include min-width {
+    display: none;
   }
 }

@@ -25,7 +25,7 @@ intro:
     text: Try it now
     href: '#'
   partner:
-    image: swisscom.svg
+    image: swisscom.png
     alt_text:
     text: Based on the qualified electronic signature QES by Swisscom
 

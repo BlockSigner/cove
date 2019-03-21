@@ -9,12 +9,10 @@
         <nav>
           <ul class="header__nav">
             {{ $currentPage := . }}
-            <!-- prettier-ignore -->
             {{ range.Site.Menus.main }}
             <li>
-              <a href="{{ .URL }}"> {{ .Name }} </a>
+              <a class="{{ if eq (string (.URL | relLangURL)) $currentPage.RelPermalink }}active{{ end }}" href="{{ .URL | relLangURL }}"> {{ .Name }} </a>
             </li>
-            <!-- prettier-ignore -->
             {{ end }}
           </ul>
         </nav>
