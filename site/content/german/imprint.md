@@ -34,6 +34,9 @@ BlockSigner AG
 ## Illustrationen
 Janis Andzans
 
+## Fotografie
+Selina Meier
+
 ## Inhalt
 Verantwortlich für diese Website und deren Inhalt im Sinne von § 3 Abs. 1 UWG ist die BlockSigner AG, soweit nicht direkt unter den Artikeln und Seiten anders geschrieben.
 

@@ -34,6 +34,9 @@ BlockSigner AG
 ## Illustration
 Janis Andzans
 
+## Photography
+Selina Meier
+
 ## Content
 BlockSigner AG is responsible for this website and its content within the meaning of § 3 para. 1 UWG, unless otherwise stated directly under the articles and pages.
 
