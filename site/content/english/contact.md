@@ -13,11 +13,11 @@ map:
       text: BlockSigner AG
     - title: Address
       text: |
-        TrustSquare
+        Trust Square
         Bahnhofstrasse 3
         CH-8001 Zurich
     - title: Phone
-      text: +41 044 / 505 16 64
+      text: +41 44 505 16 64
       type: phone
       href: 41445051664
     - title: Email
