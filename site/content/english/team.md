@@ -9,7 +9,7 @@ description: Team meta description
 # expects jpg and web image formats
 groups:
   - title: Trust Shapers
-    text: Die Menschen hinter Skribble
+    text: The people behind Skribble
     people:
       - name: Philipp Dick
         position: CEO
@@ -103,7 +103,7 @@ groups:
           regular_landscape: team/luc-lippuner-l
           retina_landscape: team/luc-lippuner-l@2x
   - title: Advisors
-    text: Die Berater hinter Skribble
+    text: Skribble's advisors
     people:
       - name: Karl Kagermeier
         position: Strategic Advisor
@@ -131,9 +131,9 @@ groups:
 # outro component
 outro:
   title: >
-    Try Skribble now
-    without obligation!
-  text: No credit card, entrance fee or commitment required.
+    Try Skribble now,
+    no strings attached!
+  text: No credit card, entrance fee nor commitment required.
   image:
     mobile:
       filename_webp: image8.webp
