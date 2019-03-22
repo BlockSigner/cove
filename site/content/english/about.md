@@ -48,9 +48,9 @@ title_subtitle:
   />
 </picture>
 
-Digitalisation makes many things faster, cheaper and simpler. This also applies to everyday business for at least 90 percent of processes.
+Digitalisation makes many things faster, cheaper and simpler. This also applies to 90 percent of day to day business processes.
 
-The remaining ten percent are steps which require a high degree of trust, for example signing employment contracts. Many companies still rely on established analogue processes for this, as the digital way would represent an enormous additional expenditure if it has to comply with legal requirements. At least up to now.
+The remaining ten percent require a high degree of trust, for example signing employment contracts. Many companies still rely on established analogue processes for this. Because making their digital equivalent compliant with all legal requirements requires an enormous additional expenditure. At least up to now.
 
 ## Skribble wants to change this:
 <picture>
@@ -71,11 +71,12 @@ The remaining ten percent are steps which require a high degree of trust, for ex
   />
 </picture>
 
-Contracts should no longer have to take the detour via printer and paper to be legally signed:
+Contracts should no longer have to take a detour via the printer and paper in order to be signed:
 
-With Skribble, signature processes are handled 100% digitally, based on the qualified electronic signature "QES" - the e-signature, which is equivalent to the hand-written signature according to Swiss and EU law.
+With Skribble signature processes are 100% digital, based on the qualified electronic signature "QES" - the e-signature, which is equivalent to your hand-written signature according to Swiss and EU law.
 
-Security does not come at the expense of simplicity: every company, regardless of size and technological know-how, should be able to benefit from the advantages of digital transformation.
+Security does not come at the expense of simplicity: every company, regardless of size and technology know-how, should be able to benefit from the advantages of this digital transformation.
+
 
 ## And that's just the beginning:
-Building trust in digital business relationships should become as simple and intuitive as toasting bread. Since its founding in 2018, a growing team of Trust Shapers has been working towards this future.
+Building trust in digital business relationships should become as simple and intuitive as toasting bread. In 2018 we formed a team of Trust Shapers that has been working towards this future.
