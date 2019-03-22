@@ -88,13 +88,6 @@ groups:
           retina_portrait: team/patrick-meade-p@2x
           regular_landscape: team/patrick-meade-l
           retina_landscape: team/patrick-meade-l@2x
-      - name: Marco Schmid
-        position: Marketing
-        images:
-          regular_portrait: team/marco-schmid-l
-          retina_portrait: team/marco-schmid-l@2x
-          regular_landscape: team/marco-schmid-l
-          retina_landscape: team/marco-schmid-l@2x
       - name: Luc Lippuner
         position: Content & Communication
         images:
@@ -112,13 +105,6 @@ groups:
           retina_portrait: team/karl-kagermeier-l@2x
           regular_landscape: team/karl-kagermeier-l
           retina_landscape: team/karl-kagermeier-l@2x
-      - name: Benoit Stroelin
-        position: Strategic Advisor
-        images:
-          regular_portrait: team/benoit-stroehlin-p
-          retina_portrait: team/benoit-stroehlin-p@2x
-          regular_landscape: team/benoit-stroehlin-l
-          retina_landscape: team/benoit-stroehlin-l@2x
       - name: Eric Kuenzi
         position: Strategic Advisor
         images:
