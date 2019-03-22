@@ -3,9 +3,9 @@
   @include vertical-unit-margins;
 
   &__image {
+    max-width: 400px;
     @include min-width {
-      flex: 1 0 400px;
-      max-width: 400px;
+      flex: 0 1.5 400px;
     }
 
     img {
@@ -27,8 +27,8 @@
   }
 
   .title-subtitle {
-    max-width: 580px;
     @include min-width {
+      flex: 1 1 580px;
       padding-right: 80px;
     }
   }

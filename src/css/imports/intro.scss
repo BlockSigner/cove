@@ -10,7 +10,8 @@
   }
 
   .title-subtitle {
-    margin: 0 0 30px;
+    width: auto;
+    margin: 0 0 20px;
   }
 
   .btn {
@@ -21,13 +22,22 @@
   }
 
   &__image {
-    max-width: 620px;
+    @include min-width {
+      flex: 1 1.5 100%;
+    }
+
+    &--mobile {
+      display: block;
+      max-width: 400px;
+      margin-left: auto;
+      margin-right: auto;
+    }
   }
 
   &__text {
-    max-width: 595px;
     @include min-width {
-      padding: 0 80px;
+      flex: 1 1 100%;
+      padding-left: 80px;
     }
   }
 

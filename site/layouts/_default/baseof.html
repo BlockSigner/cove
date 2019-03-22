@@ -43,7 +43,10 @@
     {{ block "main" . }}{{end}}
 
     {{ block "footer" . }}{{ partial "footer" . }}{{end}}
+
   </div>
+
+  {{ partial "mobile-nav" . }}
 
   {{ $script := .Site.Data.webpack.main }}
   {{ with $script.js }}

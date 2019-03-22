@@ -1,7 +1,9 @@
 .header {
   position: fixed;
+  left: 0;
+  right: 0;
+  top: 0;
   z-index: 100;
-  width: 100%;
   background-color: #fff;
   border-bottom: 1px solid #dadee6;
 
@@ -23,6 +25,10 @@
   &__left {
     display: flex;
     align-items: center;
+    @include max-width {
+      flex: 1 1 100%;
+      justify-content: space-between;
+    }
   }
 
   &__logo {
@@ -64,6 +70,45 @@
   &__btn {
     @include max-width {
       display: none;
+    }
+  }
+
+  &__mobile-nav-trigger {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 24px;
+    height: 24px;
+    padding: 10px;
+    margin-left: -10px;
+    margin-right: 10px;
+    box-sizing: content-box;
+    @include min-width {
+      display: none;
+    }
+
+    > span {
+        position: relative;
+        width: 24px;
+        height: 3px;
+        border-radius: 1.5px;
+        background-color: var(--c-text);
+        &:before,
+        &:after {
+        position: absolute;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        border-radius: 1.5px;
+        background-color: var(--c-text);
+        content: '';
+      }
+      &:before {
+        top: -7px;
+      }
+      &:after {
+        top: 7px;
+      }
     }
   }
 }

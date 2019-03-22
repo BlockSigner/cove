@@ -33,6 +33,7 @@
 @import 'imports/intro';
 @import 'imports/lan-nav';
 @import 'imports/maps';
+@import 'imports/mobile-nav';
 @import 'imports/newsletter';
 @import 'imports/outro';
 @import 'imports/person';
@@ -73,22 +74,31 @@ img {
 
 .main {
   flex: 1 1 100%;
+  max-width: 100vw;
   position: relative;
-  padding: 90px 50px;
+  padding: 90px 40px;
   @include max-width {
-    padding: 65px 20px;
+    padding: 65px 0;
   }
 
   &--narrow {
-    width: 100%;
-    max-width: 800px;
+    @include site-width;
+    width: 800px;
+    max-width: 100%;
     margin: 0 auto;
   }
 
   &--contact,
   &--team {
+    @include site-width;
     width: 1030px;
     max-width: 100%;
+  }
+
+  > .title-subtitle:first-child {
+    @include max-width {
+      margin-top: 40px;
+    }
   }
 }
 

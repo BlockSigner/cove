@@ -1,0 +1,121 @@
+.mobile-nav {
+  position: fixed;
+  z-index: 200;
+  left: 0;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  transform: translateX(-100%);
+  opacity: 0.8;
+  transition: all .26s cubic-bezier(.4,.0,1,1);
+  background-color: white;
+  overflow: scroll;
+
+  a {
+    text-decoration: none;
+  }
+
+  &__logo {
+    display: flex;
+    align-items: center;
+    margin-right: 10px;
+    font-weight: bold;
+    color: var(--c-text-alt);
+    font-size: 2.4rem;
+    opacity: 0;
+    transition: all .15s cubic-bezier(.4,0,.2,1)
+  }
+
+  &__input {
+    position: fixed;
+    z-index: 100;
+    left: -100px;
+    top: 100px;
+    &:checked ~ .mobile-nav {
+      transform: translateX(0);
+      opacity: 1;
+      transition: all .26s cubic-bezier(0,.0,.2,1);
+
+      .mobile-nav__logo {
+        opacity: 1;
+        transition: all .26s .26s cubic-bezier(.4,0,.2,1)
+      }
+    }
+  }
+
+  &__header {
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 64px;
+    margin-left: 24px;
+    margin-right: 24px;
+    border-bottom: 1px solid var(--c-border);
+  }
+
+  &__label {
+    padding: 10px;
+    margin-left: -10px;
+    cursor: pointer;
+
+    svg {
+      display: block;
+    }
+  }
+
+  &__body {
+    @include site-width;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    min-height: 100vh;
+    padding-top: 64px;
+  }
+
+  &__main-nav {
+    margin: 15px 0;
+    padding: 0;
+    list-style-type: none;
+
+    a {
+      display: block;
+      padding: 12px 0;
+      font-size: 2.4rem;
+      line-height: 1;
+      color: var(--c-text);
+      &.active {
+        font-weight: bold;
+        color: var(--c-text-alt);
+      }
+    }
+  }
+
+  &__secondary {
+
+    ul {
+      margin: 16px 0 0 0;
+      padding: 0 0 16px 0;
+      list-style-type: none;
+    }
+
+    a {
+      display: block;
+      padding: 6px 0;
+      font-size: 1.6rem;
+      line-height: 1;
+      color: var(--c-text);
+      &.active {
+        font-weight: bold;
+        color: var(--c-text-alt);
+      }
+    }
+  }
+
+  &__lan-nav {
+    border-bottom: 1px solid var(--c-border);
+  }
+}

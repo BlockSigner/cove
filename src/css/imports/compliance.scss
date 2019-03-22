@@ -1,8 +1,7 @@
 .compliance {
+  @include site-width;
   @include vertical-unit-margins;
-  max-width: 750px;
-  margin-left: auto;
-  margin-right: auto;
+  width: 750px;
 
   &__title {
     text-align: center;

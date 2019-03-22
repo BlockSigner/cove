@@ -22,7 +22,7 @@
       <h1>{{ .title }}</h1>
       <p>{{ .text }}</p>
     </div>
-    <picture class="hide-for-desktop">
+    <picture class="intro__image--mobile hide-for-desktop">
       <source
         type="image/webp"
         srcset="{{ .image.mobile.filename_webp }} {{ .image.mobile.width }}w, {{ .image.desktop.filename_webp }} {{ .image.desktop.width }}w"
