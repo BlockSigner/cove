@@ -7,10 +7,10 @@ draft: false
 # intro component
 intro:
   title: >
-    Legally valid
-    electronic signature
+    Legally binding
+    electronic signatures
     with Skribble
-  text: Easily handle signature processes digitally – legally valid in accordance with Swiss & EU law.
+  text: Easily handle digital signature processes – legally binding in accordance with Swiss & EU law.
   image:
     mobile:
       filename_webp: image1-678w.webp
@@ -32,8 +32,8 @@ intro:
 # block components
 # the first 3 are displayed before the compliance component, the rest is displayed after it
 blocks:
-  - title: Upload documents as PDF files
-    text: Upload the document ready to be signed as a PDF onto Skribble.
+  - title: Upload documents as PDFs
+    text: Upload your ready-to-sign document as a PDF to Skribble.
     images:
       mobile:
         filename: image2
@@ -44,7 +44,7 @@ blocks:
     alt_text:
   - title: Invite people to sign
     inverse: true
-    text: Invite the persons to sign by e-mail and define the signature order.
+    text: Define the order in which people should sign and invite them by e-mail.
     images:
       mobile:
         filename: image3
@@ -53,8 +53,8 @@ blocks:
         filename: image3@2x
         width: 800
     alt_text:
-  - title: Legally valid signing
-    text: You sign legally valid documents at the touch of a button, regardless of time and place.
+  - title: Legally binding signatures
+    text: Sign documents at the touch of a button, regardless of time and place.
     images:
       mobile:
         filename: image4
@@ -65,7 +65,7 @@ blocks:
     alt_text:
   - title: Skribble works with government-approved technology from Swisscom
     inverse: true
-    text: An important component of the qualified electronic signatures (QES) are corresponding digital certificates. Skribble obtains these from Swisscom, a government approved certification authority. Signatures created by Skribble are thus equivalent to hand-written signatures according to Swiss and EU law.
+    text: An important component of qualified electronic signatures (QES) are digital certificates. Skribble obtains these from Swisscom, a government approved certification authority. This means that signatures created by Skribble are equivalent to hand-written signatures according to Swiss and EU law.
     images:
       mobile:
         filename: image5
@@ -74,8 +74,8 @@ blocks:
         filename: image5@2x
         width: 860
     alt_text:
-  - title: Skribble verifies your identity so that you can sign electronically in a legally compliant manner
-    text: The qualified electronic signature (QES) requires the signing party to verify his or her identity. Persons who have a verified E-ID can start directly without additional measures. Otherwise, Skribble offers a suitable means of identification for every business context.
+  - title: Skribble verifies your identity so that you can be sure your electronic signature is legally binding
+    text: Qualified electronic signatures (QES) require the signatory to verify their identity. People who already have a verified E-ID can start signing straight away. For everyone else Skribble offers a means of identification suitable for every business context.
     images:
       mobile:
         filename: image6
@@ -89,16 +89,15 @@ blocks:
 # contains the collapsibles
 compliance:
   title: >
-    With Skribble you fulfill all
-    legal requirements
-  text: "We make sure that you can safely sign without hesitation. Skribble is compliant with the following requirements:"
+    Skribble complies with legal requirements
+  text: "With Skribble you can create digital and legally valid (QES) signatures. Skribble complies with the following requirements:"
   items:
   - title: Requirement of written form
-    text: A QES is equal to the handwritten signature according to Swiss (OR Art. 14 Para. 2 bis) and EU law (eIDAS No. 910/2014 Art. 25 Para. 2).
+    text: A signature with Skribble is equal to the handwritten signature according to Swiss (OR Art. 14 Para. 2 bis) and EU law (eIDAS No. 910/2014 Art. 25 Para. 2).
   - title: ZertES and eIDAS
-    text: Skribble obtains QES certificates from Swisscom, a provider of trusted certificates according to ZertES and eIDAS.
+    text: Skribble obtains QES certificates from Swisscom, a provider of certificates recognised by ZertES and eIDAS.
   - title: CH and EU data protection regulation
-    text: Skribble and its partners (Swisscom) commit to manage data in accordance with the DSG and DSGVO.
+    text: Skribble and its partners (Swisscom) manage your data in accordance with the DSG and DSGVO.
 
 # testimonial component
 # contains quotations
@@ -109,18 +108,16 @@ testimonial:
 # pricing component
 pricing:
   title: >
-    The signatures can be obtained
-    individually or as a flat rate.
-  text: Skribbles' offering structure adapts to your needs and can be configured in a flexible way.
+    Signatures can be purchased
+    individually or at a flat rate.
+  text: Skribbles' pricing adapts to your needs and can be flexibly configured.
   plans:
   - title: >
       Prepaid-Model
-      Unit price per signature
     description: Suitable for single or occasional signing with QES
     color: warning
   - title: >
       Flat rate-Model
-      Package price per person
     description: Suitable for regular signing with QES
     color: info
 
