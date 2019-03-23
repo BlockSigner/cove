@@ -1,0 +1,17 @@
+{{ define "main" }}
+
+<main class="main main--identification">
+
+  {{ range first 3 .Params.id_blocks }}
+    {{  partial "id-block" . }}
+  {{ end }}
+
+  {{ partial "id-steps" . }}
+
+  {{ range after 3 .Params.id_blocks }}
+    {{ partial "id-block" . }}
+  {{ end }}
+
+  {{/*  {{ partial "outro" .Params.outro }}  */}}
+</main>
+{{ end }}

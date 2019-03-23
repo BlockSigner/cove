@@ -1,0 +1,18 @@
+<div class="id-steps">
+  <div class="id-steps__container">
+    {{ partial "title-subtitle" (dict "Page" .Params.id_steps "align" "center") }}
+    <div class="id-steps__steps">
+      {{ range .Params.id_steps.steps }}
+        <div class="id-steps__step">
+          <div class="id-steps__image">
+            {{ partial "picture" .image }}
+          </div>
+          <div class="id-steps__details">
+            <div class="id-steps__title">{{ .title }}</div>
+            <p>{{ .text }}</p>
+          </div>
+        </div>
+      {{ end }}
+    </div>
+  </div>
+</div>

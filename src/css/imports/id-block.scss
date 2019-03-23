@@ -1,0 +1,132 @@
+.id-block {
+  @include vertical-unit-margins;
+  --id-block__plan-lateral-padding: 20px;
+  $id-block__plan-width: 328px;
+
+  &__image {
+    display: flex;
+    justify-content: center;
+    margin: 80px 0;
+    @include max-width {
+      margin: 30px 0;
+    }
+
+    img {
+      display: block;
+      max-width: 100%;
+    }
+  }
+
+  &__plans {
+    display: flex;
+    justify-content: center;
+    align-items: stretch;
+    margin-bottom: 40px;
+    @include max-width {
+      flex-direction: column;
+      margin-bottom: 10px;
+    }
+  }
+
+  &__plan {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: flex-start;
+    width: $id-block__plan-width;
+    max-width: 100%;
+    margin: 16px;
+    border-top: 7px solid transparent;
+    border-radius: 2px;
+    background-color: #fff;
+    box-shadow: rgba(#283E66, .1) 0 10px 20px 0;
+    @include max-width {
+      margin-left: 0;
+      margin-right: 0;
+    }
+
+    &--gold {
+      border-color: var(--c-warning);
+      .btn {
+        background-color: var(--c-warning);
+      }
+    }
+
+    &--platinum {
+      border-color: var(--c-info);
+      .btn {
+        background-color: var(--c-info);
+      }
+    }
+
+    &-title {
+      flex: 0 0 100%;
+      padding: 4px var(--id-block__plan-lateral-padding) 25px;
+      border-bottom: 1px solid #D8D8D8;
+      font-size: 2.4rem;
+      font-weight: bold;
+      line-height: 2.6rem;
+      color: var(--c-text-alt);
+    }
+
+    &-subtitle {
+      flex: 0 0 100%;
+      padding: 28px var(--id-block__plan-lateral-padding) 0;
+      font-size: 1.6rem;
+      font-weight: bold;
+      line-height: 2.6rem;
+      color: var(--c-text-alt);
+    }
+
+    &-description {
+      flex: 0 0 100%;
+      padding: 17px var(--id-block__plan-lateral-padding) 20px;
+    }
+
+    &-details {
+      flex: 0 0 100%;
+      padding: 13px var(--id-block__plan-lateral-padding) 25px;
+      border-top: 1px solid #D8D8D8;
+    }
+
+    &-actions {
+      flex: 0 0 100%;
+      align-self: flex-end;
+
+      .btn {
+        display: block;
+        border-top-left-radius: 0;
+        border-top-right-radius: 0;
+      }
+    }
+  }
+
+  &__action {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    padding: 18px 0;
+    border-top: 1px solid var(--c-border);
+    border-bottom: 1px solid var(--c-border);
+    font-weight: bold;
+    @include max-width {
+      flex-direction: column;
+    }
+
+    &-text {
+      color: var(--c-text-alt);
+      @include min-width {
+        flex: 0 1 380px;
+      }
+      @include max-width {
+        text-align: center;
+      }
+    }
+
+    &-button {
+      @include max-width {
+        margin-top: 18px;
+      }
+    }
+  }
+}

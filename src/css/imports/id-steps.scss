@@ -1,0 +1,62 @@
+.id-steps {
+  @include vertical-unit-margins;
+
+  p {
+    margin: 12px 0;
+  }
+
+  &__steps {
+    display: flex;
+    flex-wrap: wrap;
+  }
+
+  &__step {
+    flex: 0 0 50%;
+    max-width: 50%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 10px;
+    @include max-width {
+      flex: 1 1 100%;
+      max-width: none;
+      margin-bottom: 40px;
+    }
+  }
+
+  &__image {
+    flex: 1 1 240px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 40px 0;
+    overflow: hidden;
+    @include max-width {
+      margin: 20px 0;
+      align-items: flex-end;
+    }
+
+    img {
+      display: block;
+      max-width: 100%;
+      object-fit: contain;
+    }
+  }
+
+  &__details {
+    flex: 1 1 150px;
+    padding: 12px 0 0;
+    border-top: 1px solid var(--c-border);
+    border-bottom: 1px solid var(--c-border);
+  }
+
+  &__title {
+    margin-bottom: 12px;
+    font-size: 2.4rem;
+    font-weight: bold;
+    color: var(--c-text-alt);
+  }
+
+
+}

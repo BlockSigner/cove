@@ -92,7 +92,7 @@ blocks:
 # contains the collapsibles
 compliance:
   title: Skribble erfüllt die rechtlichen Bestimmungen
-  text: Mit Skribble kannst du digital und rechtsgültig (QES) signieren - nach den folgenden Gesetzen.
+  subtitle: Mit Skribble kannst du digital und rechtsgültig (QES) signieren - nach den folgenden Gesetzen.
   items:
     - title: Anforderungen an Schriftlichkeitserfordernis
       text: die QES ist der handschriftlichen Unterschrift vor Schweizer (OR Art. 14 Abs. 2 bis) und EU Gesetz (eIDAS Nr. 910/2014 Art. 25 Abs. 2) gleichgestellt.
@@ -112,7 +112,7 @@ pricing:
   title: >
     Die Signaturen lassen sich einzeln
     oder als Flatrate beziehen
-  text: Skribbles Angebotsstruktur passt sich deinen Bedürfnissen an und kann flexibel kombiniert werden.
+  subtitle: Skribbles Angebotsstruktur passt sich deinen Bedürfnissen an und kann flexibel kombiniert werden.
   plans:
   - title: Einzelpreis pro Signatur
     subtitle: Prepaid-Modell
@@ -129,7 +129,7 @@ newsletter:
   title: >
     Jetzt Skribble
     unverbindlich ausprobieren!
-  text: Keine Kreditkarte, Eintrittsgebühr oder Verpflichtung erforderlich.
+  subtitle: Keine Kreditkarte, Eintrittsgebühr oder Verpflichtung erforderlich.
   image:
     mobile:
       filename: image8

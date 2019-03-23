@@ -1,0 +1,41 @@
+<div class="id-block">
+  <div class="id-block__container">
+    <div class="title-subtitle align-center">
+      <h1>{{ .title }}</h1>
+      <p>{{ .subtitle }}</p>
+    </div>
+    <div class="id-block__image">
+      {{ partial "picture" .image }}
+    </div>
+    {{ if .plans }}
+      <div class="id-block__plans">
+        {{ range .plans }}
+          <div class="
+            id-block__plan
+            {{ cond (eq .color "warning") "id-block__plan--gold" "" }}
+            {{ cond (eq .color "info") "id-block__plan--platinum" "" }}
+          ">
+            <div class="id-block__plan-subtitle">{{ .subtitle }}</div>
+            <div class="id-block__plan-title">{{ .title }}</div>
+            <div class="id-block__plan-description">{{ .description }}</div>
+            <div class="id-block__plan-details">{{ .details }}</div>
+            <div class="id-block__plan-actions">
+              <a class="btn" href="{{ .button.href }}">{{ .button.label }}</a>
+            </div>
+          </div>
+        {{ end }}
+      </div>
+    {{ end }}
+    <div class="id-block__text">
+      {{ .text | safeHTML }}
+    </div>
+    <div class="id-block__action">
+      <div class="id-block__action-text">
+        {{ .action.text }}
+      </div>
+      <div class="id-block__action-button">
+        <a href="{{ .action.button.href }}" class="btn">{{ .action.button.label }}</a>
+      </div>
+    </div>
+  </div>
+</div>

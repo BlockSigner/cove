@@ -89,9 +89,8 @@ blocks:
 # compliance component
 # contains the collapsibles
 compliance:
-  title: >
-    Skribble complies with legal requirements
-  text: "With Skribble you can create digital and legally valid (QES) signatures. Skribble complies with the following requirements:"
+  title: Skribble complies with legal requirements
+  subtitle: "With Skribble you can create digital and legally valid (QES) signatures. Skribble complies with the following requirements:"
   items:
   - title: Requirement of written form
     text: A signature with Skribble is equal to the handwritten signature according to Swiss (OR Art. 14 Para. 2 bis) and EU law (eIDAS No. 910/2014 Art. 25 Para. 2).
@@ -111,7 +110,7 @@ pricing:
   title: >
     Signatures can be purchased
     individually or at a flat rate.
-  text: Skribbles' pricing adapts to your needs and can be flexibly configured.
+  subtitle: Skribbles' pricing adapts to your needs and can be flexibly configured.
   plans:
   - title: Pay per signature
     subtitle: Prepaid-Model

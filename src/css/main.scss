@@ -30,6 +30,8 @@
 @import 'imports/block';
 @import 'imports/footer';
 @import 'imports/header';
+@import 'imports/id-block';
+@import 'imports/id-steps';
 @import 'imports/intro';
 @import 'imports/lan-nav';
 @import 'imports/maps';
@@ -81,7 +83,8 @@ img {
     padding: 65px 0;
   }
 
-  &--narrow {
+  &--narrow,
+  &--identification {
     @include site-width;
     width: 800px;
     max-width: 100%;

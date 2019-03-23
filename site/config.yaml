@@ -10,6 +10,9 @@ languages:
         - name: Über uns
           url: /ueber-uns/
           weight: 5
+        - name: Identifikation
+          url: /identifikation/
+          weight: 8
         - name: Team
           url: /team/
           weight: 10
@@ -32,6 +35,9 @@ languages:
         - name: About
           url: /about/
           weight: 5
+        - name: Identification
+          url: /identification/
+          weight: 8
         - name: Team
           url: /team/
           weight: 10
