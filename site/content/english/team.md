@@ -74,13 +74,13 @@ groups:
           retina_portrait: team/till-graf-l@2x
           regular_landscape: team/till-graf-l
           retina_landscape: team/till-graf-l@2x
-      - name: Mike Silbermann
+      - name: Mike Silberman
         position: Customer Growth Execution
         images:
-          regular_portrait: team/mike-silbermann-p
-          retina_portrait: team/mike-silbermann-p@2x
-          regular_landscape: team/mike-silbermann-l
-          retina_landscape: team/mike-silbermann-l@2x
+          regular_portrait: team/mike-silberman-p
+          retina_portrait: team/mike-silberman-p@2x
+          regular_landscape: team/mike-silberman-l
+          retina_landscape: team/mike-silberman-l@2x
       - name: Patrick Meade
         position: Happiness Manager
         images:
