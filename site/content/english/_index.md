@@ -112,12 +112,12 @@ pricing:
     individually or at a flat rate.
   text: Skribbles' pricing adapts to your needs and can be flexibly configured.
   plans:
-  - title: >
-      Prepaid-Model
+  - title: Pay per signature
+    subtitle: Prepaid-Model
     description: Suitable for single or occasional signing with QES
     color: warning
-  - title: >
-      Flat rate-Model
+  - title: Pay per person
+    subtitle: Flat rate-Model
     description: Suitable for regular signing with QES
     color: info
 

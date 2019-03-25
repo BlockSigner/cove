@@ -12,41 +12,41 @@ groups:
     text: Die Menschen hinter Skribble
     people:
       - name: Philipp Dick
-        position: CEO
+        position: CEO & Co-Founder
         images:
           regular_portrait: team/philipp-dick-l
           retina_portrait: team/philipp-dick-l@2x
           regular_landscape: team/philipp-dick-l
           retina_landscape: team/philipp-dick-l@2x
       - name: Michel Fernandez
-        position: Head of Product & CXD
+        position: CXD & Co-Founder
         images:
           regular_portrait: team/michel-fernandez-p
           retina_portrait: team/michel-fernandez-p@2x
           regular_landscape: team/michel-fernandez-l
           retina_landscape: team/michel-fernandez-l@2x
       - name: Roni Oeschger
-        position: CTO
+        position: CTO & Co-Founder
         images:
           regular_portrait: team/roni-oeschger-p
           retina_portrait: team/roni-oeschger-p@2x
           regular_landscape: team/roni-oeschger-l
           retina_landscape: team/roni-oeschger-l@2x
       - name: Waldemar Dick
-        position: CSO
+        position: CSO & Co-Founder
         images:
           regular_portrait: team/waldemar-dick-l
           retina_portrait: team/waldemar-dick-l@2x
           regular_landscape: team/waldemar-dick-l
           retina_landscape: team/waldemar-dick-l@2x
       - name: David Fürsinger
-        position: CXE
+        position: CXE & Co-Founder
         images:
           regular_portrait: team/david-fuersinger-l
           retina_portrait: team/david-fuersinger-l@2x
           regular_landscape: team/david-fuersinger-l
           retina_landscape: team/david-fuersinger-l@2x
-      - name: Timothy Head
+      - name: Tim Head
         position: Engineering
         images:
           regular_portrait: team/timothy-head-p
@@ -54,7 +54,7 @@ groups:
           regular_landscape: team/timothy-head-l
           retina_landscape: team/timothy-head-l@2x
       - name: Kira Leuthold
-        position: Content & Communication
+        position: Content & Communications
         images:
           regular_portrait: team/kira-leuthold-p
           retina_portrait: team/kira-leuthold-p@2x
@@ -89,7 +89,7 @@ groups:
           regular_landscape: team/patrick-meade-l
           retina_landscape: team/patrick-meade-l@2x
       - name: Luc Lippuner
-        position: Content & Communication
+        position: Content & Communications
         images:
           regular_portrait: team/luc-lippuner-l
           retina_portrait: team/luc-lippuner-l@2x
@@ -106,7 +106,7 @@ groups:
           regular_landscape: team/karl-kagermeier-l
           retina_landscape: team/karl-kagermeier-l@2x
       - name: Eric Kuenzi
-        position: Strategic Advisor
+        position: Legal-Strategic Advisor
         images:
           regular_portrait: team/eric-kuenzi-p
           retina_portrait: team/eric-kuenzi-p@2x

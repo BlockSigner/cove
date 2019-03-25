@@ -19,10 +19,12 @@ languages:
           url: /kontakt/
           weight: 15
       footer:
-        - name: Disclaimer
-          url: /de/disclaimer
+        - name: Datenschutz
+          url: /de/datenschutz
+          weight: 10
         - name: Impressum
           url: /de/impressum
+          weight: 15
   en:
     params:
       description: Sign...
@@ -43,5 +45,7 @@ languages:
       footer:
         - name: Privacy Policy
           url: /privacy/
+          weight: 10
         - name: Imprint
           url: /imprint/
+          weight: 15

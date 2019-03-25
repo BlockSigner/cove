@@ -36,7 +36,7 @@ intro:
 # the first 3 are displayed before the compliance component, the rest is displayed after it
 blocks:
   - title: Dokumente als PDF hochladen
-    text: Lade das signierbereite Dokument als PDF auf Skribble.
+    text: Lade das signierbereite Dokument als PDF hoch oder direkt aus deiner Plattform über die Skribble API.
     images:
       mobile:
         filename: image2
@@ -57,7 +57,7 @@ blocks:
         width: 800
     alt_text:
   - title: Rechtsgültig signieren
-    text: Ihr signiert rechtsgültig per Knopfdruck, unabhängig von Zeit und Ort.
+    text: Ihr signiert rechtsgültig per Knopfdruck, unabhängig von Zeit und Ort mit einer qualifizierten elektronischen Signatur nach Schweizer und EU Recht (ZertES und eIDAS).
     images:
       mobile:
         filename: image4
@@ -78,7 +78,7 @@ blocks:
         width: 860
     alt_text:
   - title: Skribble prüft deine Identität, damit du rechtssicher elektronisch signieren kannst
-    text: "Für die qualifizierte elektronische Signatur (QES) muss der Unterzeichnende seine Identität beweisen. Skribble setzt hierfür auf die ID-App der Swisscom, wobei du zwischen zwei Services wählen kannst: Wir kommen vorbei um dich und deine Kollegen zu identifizieren, oder du setzt die ID-App selbst ein und identifizierst Mitarbeiter, Firmen und Lieferanten flexibel im persönlichen Kontakt."
+    text: "Für die qualifizierte elektronische Signatur (QES) muss der Unterzeichnende seine Identität beweisen. Personen, die über eine geprüfte E-ID verfügen, können ohne zusätzliche Massnahmen direkt loslegen. Ansonsten bietet Skribble  für jeden Geschäftskontext eine passende Identifikationsmöglichkeit an."
     images:
       mobile:
         filename: image6
@@ -114,10 +114,12 @@ pricing:
     oder als Flatrate beziehen
   text: Skribbles Angebotsstruktur passt sich deinen Bedürfnissen an und kann flexibel kombiniert werden.
   plans:
-  - title: Prepaid
+  - title: Einzelpreis pro Signatur
+    subtitle: Prepaid-Modell
     description: Die unterschreibenden Personen wechseln häufig oder signieren einmalig
     color: warning
-  - title: Flat rate
+  - title: Pauschalpreis pro Person
+    subtitle: Flatrate-Modell
     description: Gleichbleibende unterschriftsberechtigte Personen signieren häufig
     color: info
 

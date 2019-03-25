@@ -10,18 +10,18 @@ map:
   title: Skribble Office
   subtitle: Gleich an der Bahnhofstrasse, im Herzen von Zürich
   columns:
-    - title: Firm
+    - title: Firma
       text: BlockSigner AG
-    - title: Addresse
+    - title: Adresse
       text: |
         Trust Square
         Bahnhofstrasse 3
         CH-8001 Zürich
-    - title: Phone
+    - title: Telefon
       text: +41 44 505 16 64
       type: phone
       href: 41445051664
-    - title: Email
+    - title: E-mail
       text: info@skribble.com
       type: email
 
