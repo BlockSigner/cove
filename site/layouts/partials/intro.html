@@ -1,47 +1,49 @@
 <div class="intro">
-  <div class="intro__image">
-    <picture class="hide-for-mobile">
-      <source
-        type="image/webp"
-        srcset="{{ .image.mobile.filename_webp }} {{ .image.mobile.width }}w, {{ .image.desktop.filename_webp }} {{ .image.desktop.width }}w"
-        sizes="(max-width: 767px) 100vw, 620px"
-      />
-      <source
-        type="image/jpeg"
-        srcset="{{ .image.mobile.filename_jpg }} {{ .image.mobile.width }}w, {{ .image.desktop.filename_jpg }} {{ .image.desktop.width }}w"
-        sizes="(max-width: 767px) 100vw, 620px"
-      />
-      <img
-        src="{{ .image.desktop.filename_jpg }}"
-        alt="{{ .alt_text }}"
-      />
-    </picture>
-  </div>
-  <div class="intro__text">
-    <div class="title-subtitle">
-      <h1>{{ .title }}</h1>
-      <p>{{ .text }}</p>
+  <div class="intro__container">
+    <div class="intro__image">
+      <picture class="hide-for-mobile">
+        <source
+          type="image/webp"
+          srcset="{{ .image.mobile.filename_webp }} {{ .image.mobile.width }}w, {{ .image.desktop.filename_webp }} {{ .image.desktop.width }}w"
+          sizes="(max-width: 767px) 100vw, 620px"
+        />
+        <source
+          type="image/jpeg"
+          srcset="{{ .image.mobile.filename_jpg }} {{ .image.mobile.width }}w, {{ .image.desktop.filename_jpg }} {{ .image.desktop.width }}w"
+          sizes="(max-width: 767px) 100vw, 620px"
+        />
+        <img
+          src="{{ .image.desktop.filename_jpg }}"
+          alt="{{ .alt_text }}"
+        />
+      </picture>
     </div>
-    <picture class="intro__image--mobile hide-for-desktop">
-      <source
-        type="image/webp"
-        srcset="{{ .image.mobile.filename_webp }} {{ .image.mobile.width }}w, {{ .image.desktop.filename_webp }} {{ .image.desktop.width }}w"
-        sizes="(max-width: 767px) 100vw, 620px"
-      />
-      <source
-        type="image/jpeg"
-        srcset="{{ .image.mobile.filename_jpg }} {{ .image.mobile.width }}w, {{ .image.desktop.filename_jpg }} {{ .image.desktop.width }}w"
-        sizes="(max-width: 767px) 100vw, 620px"
-      />
-      <img
-        src="{{ .image.desktop.filename_jpg }}"
-        alt="{{ .alt_text }}"
-      />
-    </picture>
-    <!-- <a class="btn" href="{{ .link.href }}">{{ .link.text }}</a> -->
-    <div class="intro__partner">
-      <img class="intro__partner-img" src="{{ .partner.image }}" alt="{{ .partner.alt_text }}" />
-      <div class="intro__partner-text">{{ .partner.text }}</div>
+    <div class="intro__text">
+      <div class="title-subtitle">
+        <h1>{{ .title }}</h1>
+        <p>{{ .text }}</p>
+      </div>
+      <picture class="intro__image--mobile hide-for-desktop">
+        <source
+          type="image/webp"
+          srcset="{{ .image.mobile.filename_webp }} {{ .image.mobile.width }}w, {{ .image.desktop.filename_webp }} {{ .image.desktop.width }}w"
+          sizes="(max-width: 767px) 100vw, 620px"
+        />
+        <source
+          type="image/jpeg"
+          srcset="{{ .image.mobile.filename_jpg }} {{ .image.mobile.width }}w, {{ .image.desktop.filename_jpg }} {{ .image.desktop.width }}w"
+          sizes="(max-width: 767px) 100vw, 620px"
+        />
+        <img
+          src="{{ .image.desktop.filename_jpg }}"
+          alt="{{ .alt_text }}"
+        />
+      </picture>
+      <!-- <a class="btn" href="{{ .link.href }}">{{ .link.text }}</a> -->
+      <div class="intro__partner">
+        <img class="intro__partner-img" src="{{ .partner.image }}" alt="{{ .partner.alt_text }}" />
+        <div class="intro__partner-text">{{ .partner.text }}</div>
+      </div>
     </div>
   </div>
 </div>

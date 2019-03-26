@@ -2,6 +2,7 @@
 # ENGLISH HOME PAGE
 
 title: Skribble – Legally binding electronic signatures with Skribble
+description: Easily handle digital signature processes – legally binding in accordance with Swiss & EU law.
 draft: false
 
 # intro component

@@ -9,6 +9,13 @@
     margin: 40px 0 60px;
   }
 
+  &__container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    max-width: 1024px;
+  }
+
   .title-subtitle {
     width: auto;
     margin: 0 0 20px;
@@ -23,7 +30,7 @@
 
   &__image {
     @include min-width {
-      flex: 1 1.5 100%;
+      flex: 1 1.2 100%;
     }
 
     &--mobile {
@@ -45,6 +52,9 @@
     display: flex;
     align-items: center;
     margin-top: 20px;
+    @include min-width {
+      max-width: 300px;
+    }
 
     &-img {
       flex: 1 0 auto;
