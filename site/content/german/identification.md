@@ -37,7 +37,7 @@ id_blocks:
       text: Gerne informieren wir dich telefonisch zum Thema Anbindung von E-IDs an Skribble.
       button:
         label: Termin vereinbaren
-        href: "https://app.hubspot.com/meetings/5051692/"
+        href: "https://www.skribble.info/meetings/simon79/beratung-zu-identifikationslsungen"
   - title: Besitzt du keine elektronische Identität? Wir erstellen dir eine.
     subtitle:
     text:
@@ -66,7 +66,7 @@ id_blocks:
       text: Hast du Fragen? Wir helfen dir gerne telefonisch weiter.
       button:
         label: Termin vereinbaren
-        href: "https://app.hubspot.com/meetings/5051692/"
+        href: "https://www.skribble.info/meetings/simon79/beratung-zu-identifikationslsungen"
   - title: Möchtest Du als Privatperson qualifiziert elektronisch signieren?
     subtitle:
     text: |

@@ -37,7 +37,7 @@ id_blocks:
       text: For more information about how to connect E-IDs to Skribble, please schedule a phone call with us.
       button:
         label: Schedule appointment
-        href: "https://app.hubspot.com/meetings/5051692/"
+        href: "https://www.skribble.info/meetings/simon79/learn-about-skribbles-identification-means"
   - title: No electronic identity at hand? We’ll get you one.
     subtitle:
     text:
@@ -66,7 +66,7 @@ id_blocks:
       text: Any questions? We are happy to help you over the phone.
       button:
         label: Schedule appointment
-        href: "https://app.hubspot.com/meetings/5051692/"
+        href: "https://www.skribble.info/meetings/simon79/learn-about-skribbles-identification-means"
   - title: Would you like to sign in a qualified manner electronically as a private individual?
     subtitle:
     text: |
