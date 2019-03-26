@@ -98,7 +98,7 @@ id_steps:
         filename: identification-step-2
         natural_width: 158
     - title: Step 3
-      text: Der Status des Nutzers wird bei Skribble im Profil auf “signierbereit” geändert.
+      text: Der Status des Nutzers wird bei Skribble im Profil direkt auf “signierbereit” geändert.
       image:
         alt:
         filename: identification-step-3
