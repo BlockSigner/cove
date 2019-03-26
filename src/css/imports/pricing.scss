@@ -23,6 +23,8 @@
     }
 
     &-wrapper {
+      display: flex;
+      align-items: stretch;
       margin: 16px;
     }
   }

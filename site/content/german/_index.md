@@ -78,7 +78,7 @@ blocks:
         width: 860
     alt_text:
   - title: Skribble prüft deine Identität, damit du rechtssicher elektronisch signieren kannst
-    text: "Für die qualifizierte elektronische Signatur (QES) muss der Unterzeichnende seine Identität beweisen. Personen, die über eine geprüfte E-ID verfügen, können ohne zusätzliche Massnahmen direkt loslegen. Ansonsten bietet Skribble  für jeden Geschäftskontext eine passende Identifikationsmöglichkeit an."
+    text: "Für die qualifizierte elektronische Signatur (QES) muss der Unterzeichnende seine Identität beweisen. Personen, die über eine geprüfte E-ID verfügen, können ohne zusätzliche Massnahmen direkt loslegen. Ansonsten bietet Skribble für jeden Geschäftskontext eine passende Identifikationsmöglichkeit an."
     images:
       mobile:
         filename: image6
