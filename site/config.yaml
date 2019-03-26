@@ -2,8 +2,6 @@ baseurl: /
 title: Skribble
 languages:
   de:
-    params:
-      description: Rechtsgültig elektronisch signieren mit Skribble
     languageName: Deutsch
     weight: 2
     contentDir: content/german
@@ -26,8 +24,6 @@ languages:
           url: /de/impressum
           weight: 15
   en:
-    params:
-      description: Sign...
     languageName: English
     weight: 1
     contentDir: content/english
