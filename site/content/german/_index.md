@@ -116,11 +116,11 @@ pricing:
   plans:
   - title: Einzelpreis pro Signatur
     subtitle: Prepaid-Modell
-    description: Die unterschreibenden Personen wechseln häufig oder signieren einmalig
+    description: Geeignet für einmaliges oder gelegentliches Signieren mit QES.
     color: warning
   - title: Pauschalpreis pro Person
     subtitle: Flatrate-Modell
-    description: Gleichbleibende unterschriftsberechtigte Personen signieren häufig
+    description: Geeignet für regelmässiges Signieren mit QES.
     color: info
 
 # newsletter component
