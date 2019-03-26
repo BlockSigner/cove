@@ -117,9 +117,9 @@ groups:
 # outro component
 outro:
   title: >
-    Try Skribble now
-    without obligation!
-  text: No credit card, entrance fee or commitment required.
+    Jetzt Skribble
+    unverbindlich ausprobieren!
+  text: Keine Kreditkarte, Eintrittsgebühr oder Verpflichtung erforderlich.
   image:
     mobile:
       filename_webp: image8.webp
@@ -131,6 +131,6 @@ outro:
       width: 414
   alt_text:
   link:
-    text: Try it now
-    href: '#'
+    text: Jetzt ausprobieren
+    href: "https://my.skribble.com/signup?lang=de"
 ---

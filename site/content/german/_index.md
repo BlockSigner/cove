@@ -138,4 +138,24 @@ newsletter:
       filename: image8@2x
       width: 828
   alt_text:
+
+# outro component
+outro:
+  title: >
+    Jetzt Skribble
+    unverbindlich ausprobieren!
+  text: Keine Kreditkarte, Eintrittsgebühr oder Verpflichtung erforderlich.
+  image:
+    mobile:
+      filename_webp: image8.webp
+      filename_jpg: image8.jpg
+      width: 207
+    desktop:
+      filename_webp: image8@2x.webp
+      filename_jpg: image8@2x.jpg
+      width: 414
+  alt_text:
+  link:
+    text: Jetzt ausprobieren
+    href: "https://my.skribble.com/signup?lang=de"
 ---

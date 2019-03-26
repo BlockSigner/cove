@@ -9,6 +9,26 @@ type: narrow
 title_subtitle:
   title: Skribble builds trust in the digital world
   subtitle: Once upon a time there was the hand-written signature – today we sign with Skribble.
+
+# outro component
+outro:
+  title: >
+    Try Skribble now
+    without obligation!
+  text: No credit card, entrance fee or commitment required.
+  image:
+    mobile:
+      filename_webp: image8.webp
+      filename_jpg: image8.jpg
+      width: 207
+    desktop:
+      filename_webp: image8@2x.webp
+      filename_jpg: image8@2x.jpg
+      width: 414
+  alt_text:
+  link:
+    text: Try it now
+    href: "https://my.skribble.com/signup?lang=en"
 ---
 
 <picture>

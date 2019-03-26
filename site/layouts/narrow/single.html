@@ -9,4 +9,9 @@
   {{ end}}
   <div class="richtext">{{- .Content -}}</div>
 </main>
+
+{{ if .Params.outro }}
+  {{ partial "outro" .Params.outro }}
+{{ end }}
+
 {{ end }}

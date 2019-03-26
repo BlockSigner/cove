@@ -1,19 +1,19 @@
 .outro {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  margin: 140px 0 180px;
-  @include max-width {
-    flex-direction: column-reverse;
-    margin: 40px 0 60px;
-  }
+  @include site-width;
+  @include vertical-unit-margins;
 
-  h1 {
-    margin: 0;
+  .title-subtitle {
+    width: auto;
+    max-width: 100%;
+    margin-top: 0;
+    margin-bottom: 40px;
   }
 
   &__image {
-    max-width: 414px;
+    width: 414px;
+    @include min-width {
+      flex: 1 1.2 100%;
+    }
 
     img {
       display: block;
@@ -21,11 +21,29 @@
     }
   }
 
+  &__container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    max-width: 1024px;
+    margin-left: auto;
+    margin-right: auto;
+    @include max-width {
+      flex-direction: column;
+    }
+  }
+
   &__text {
-    max-width: 595px;
-    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    max-width: 100%;
     @include min-width {
-      padding: 0 80px;
+      flex: 1 1 100%;
+      padding-left: 80px;
+    }
+    @include max-width {
+      margin: 40px 0;
     }
   }
 }
