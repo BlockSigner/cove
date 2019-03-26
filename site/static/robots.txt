@@ -1,2 +1,5 @@
 User-agent: *
-Disallow: /
+Disallow: /terms-of-use
+Disallow: /privacy
+Disallow: /de/nutzungsbedingungen
+Disallow: /de/datenschutz
