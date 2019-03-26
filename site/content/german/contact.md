@@ -1,8 +1,8 @@
 ---
-title: Kontakt
-slug: kontakt
+title: Skribble – Kontakt
+description: Du möchtest gerne elektronisch Signieren oder hast eine Frage? Dann kannst du dich gerne per Telefon oder E-Mail bei uns melden.
 draft: false
-description: Kontakt meta description
+slug: kontakt
 type: contact
 
 # map component

@@ -1,9 +1,9 @@
 ---
 title: Skribble schafft Vertrauen in der digitalen Welt
-slug: ueber-uns
+description: Mit Skribble werden Signaturprozesse 100% digital abgewickelt, basierend auf der qualifizierten elektronischen Signatur “QES” - die e-Unterschrift, die vor Schweizer und EU Gesetz der handschriftlichen Unterschrift gleichgestellt ist.
 draft: false
+slug: ueber-uns
 type: narrow
-description: About meta description
 
 # title subtitle component
 title_subtitle:

@@ -1,7 +1,8 @@
 ---
-title: Contact
-slug: contact
+title: Skribble – Contact
+description: You would like to sign digitally or you just have a question? Contact us by phone or e-mail.
 draft: false
+slug: contact
 type: contact
 
 # map component

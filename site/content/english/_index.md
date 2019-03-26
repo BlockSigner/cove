@@ -1,7 +1,7 @@
 ---
 # ENGLISH HOME PAGE
 
-title: home
+title: Skribble – Legally binding electronic signatures with Skribble
 draft: false
 
 # intro component

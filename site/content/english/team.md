@@ -1,9 +1,9 @@
 ---
-title: Trust shapers
-slug: team
+title: Trust shapers – The people behind Skribble
+description: Building trust in digital business relationships should become as simple and intuitive as toasting bread. In 2018 we formed a team of Trust Shapers that has been working towards this future.
 draft: false
+slug: team
 type: team
-description: Team meta description
 
 # trust shapers, advisors, ...
 # expects jpg and web image formats

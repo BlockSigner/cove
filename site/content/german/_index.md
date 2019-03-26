@@ -1,8 +1,8 @@
 ---
 # GERMAN HOME PAGE
 
-title: Home
-draft: false
+title: Skribble – Rechtsgültig elektronisch signieren
+description: Signaturprozesse einfach digital abwickeln – Rechtsgültig nach dem Schweizer & EU Gesetz.
 type: wide
 
 # images have to be provided in webp and jpg format

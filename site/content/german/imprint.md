@@ -1,9 +1,9 @@
 ---
-title: Impressum
-slug: impressum
+title: Skribble – Impressum
+description: Skribble wird von der BlockSigner AG betrieben. Skribble hat es sich zum Ziel gesetzt Vertragsprozesse zu digitalisieren. Seit der Gründung 2018 arbeitet ein wachsendes Team von Trust Shapern auf diese Zukunft hin.
 draft: false
+slug: impressum
 type: narrow
-description: Impressum meta description
 ---
 
 # Impressum
@@ -20,7 +20,7 @@ CH-8001 Zürich
 +41 044 / 505 16 64
 
 ## E-Mail
-[info@skribble.com](mailto:info@skribble.com "info@skribble.com")   
+[info@skribble.com](mailto:info@skribble.com "info@skribble.com")
 
 ## Handelsregister-Nummer
 CH-020.3.045.842-4
