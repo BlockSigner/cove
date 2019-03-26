@@ -19,21 +19,21 @@ id_blocks:
       filename: "identification"
       natural_width: 482
     action:
-      text: You can find all details about the identity check for QES with Skribble here in our factsheet:
+      text: You can find all details about the identity check for QES with Skribble here in our factsheet.
       button:
         label: Download factsheet
         href: "#"
   - title: Do you already have an electronic identity? Just sign up then.
     subtitle:
     text: |
-      <p>A growing number of people in Europe holds a verified electronic identity (E-ID). Skribble can be linked with all relevant E-IDs. Thus, millions of users can sign in a qualified manner without additional identity verification. 
+      <p>A growing number of people in Europe holds a verified electronic identity (E-ID). Skribble can be linked with all relevant E-IDs. Thus, millions of users can sign in a qualified manner without additional identity verification.
       For you as a company, this means, on the one hand, that you do not have to worry about the identification of these people. On the other hand, you are always on the safe side, no matter which E-ID prevails among your users.</p>
     image:
       alt:
       filename: "identification-id"
       natural_width: 412
     action:
-      text: For more information about how  to connect E-IDs to Skribble, please contact us.
+      text: For more information about how to connect E-IDs to Skribble, please contact us.
       button:
         label: Contact now
         href: "#"

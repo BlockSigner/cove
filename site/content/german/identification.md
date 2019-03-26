@@ -19,7 +19,7 @@ id_blocks:
       filename: "identification"
       natural_width: 482
     action:
-      text: Alle details zur Identitätsprüfung für die QES bei Skribble findest du hier in unerem Factsheet
+      text: Alle details zur Identitätsprüfung für die QES bei Skribble findest du hier in unerem Factsheet.
       button:
         label: Download Factsheet
         href: "#"
