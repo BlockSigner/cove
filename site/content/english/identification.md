@@ -1,7 +1,8 @@
 ---
-title: Identification
-slug: identification
+title: Identity verification for QES – Skribble makes it easy
+description: The qualified electronic signature (QES) requires the signing party to verify his or her identity. Skribble offers suitable means of identification for every business context.
 draft: false
+slug: identification
 type: identification
 
 # images
@@ -22,21 +23,21 @@ id_blocks:
       text: You can find all details about the identity check for QES with Skribble here in our factsheet.
       button:
         label: Download factsheet
-        href: "#"
+        href: "https://cdn2.hubspot.net/hubfs/5051692/130312%20Factsheet%20-%20CS%20-%20Identification_EN.pdf"
   - title: Do you already have an electronic identity? Just sign up then.
     subtitle:
     text: |
-      <p>A growing number of people in Europe holds a verified electronic identity (E-ID). Skribble can be linked with all relevant E-IDs. Thus, millions of users can sign in a qualified manner without additional identity verification.
-      For you as a company, this means, on the one hand, that you do not have to worry about the identification of these people. On the other hand, you are always on the safe side, no matter which E-ID prevails among your users.</p>
+      <p>A growing number of people in Europe holds a verified electronic identity (E-ID). Skribble can be linked with all relevant E-IDs. Thus, millions of users can sign in a qualified manner without additional identity verification.</p>
+      <p>For you as a company, this means, on the one hand, that you do not have to worry about the identification of these people. On the other hand, you are always on the safe side, no matter which E-ID prevails among your users.</p>
     image:
       alt:
       filename: "identification-id"
       natural_width: 412
     action:
-      text: For more information about how to connect E-IDs to Skribble, please contact us.
+      text: For more information about how to connect E-IDs to Skribble, please schedule a phone call with us.
       button:
-        label: Contact now
-        href: "#"
+        label: Schedule appointment
+        href: "https://app.hubspot.com/meetings/5051692/"
   - title: No electronic identity at hand? We’ll get you one.
     subtitle:
     text:
@@ -52,7 +53,7 @@ id_blocks:
       color: warning
       button:
         label: Download factsheet
-        href: "#"
+        href: "https://cdn2.hubspot.net/hubfs/5051692/130312%20Factsheet%20-%20CS%20-%20Identification%20Unlimited_EN.pdf"
     - title: We identify the signing party
       subtitle: Identification Easy
       description: Suitable if you use QES in a predefined circle of people.
@@ -60,16 +61,16 @@ id_blocks:
       color: info
       button:
         label: Download factsheet
-        href: "#"
+        href: "https://cdn2.hubspot.net/hubfs/5051692/130312%20Factsheet%20-%20CS%20-%20Identification%20Easy_EN.pdf"
     action:
       text: Any questions? We are happy to help you over the phone.
       button:
         label: Schedule appointment
-        href: "#"
+        href: "https://app.hubspot.com/meetings/5051692/"
   - title: Would you like to sign in a qualified manner electronically as a private individual?
     subtitle:
     text: |
-      <p>Skribble can easily be used outside the company context. If you have one of the E-IDs listed above, you can get started right away. If not, we will be happy to identify you at Bahnhofstrasse 3 in Zurich. It only takes a few minutes.</p>
+      <p>Skribble can easily be used outside the company context. If you do not yet have an E-ID, we will be happy to identify you at Bahnhofstrasse 3 in Zurich. It only takes a few minutes.</p>
     image:
       alt:
       filename: "individual-signing"
@@ -78,7 +79,7 @@ id_blocks:
       text: Pick an appointment and we'll identify you.
       button:
         label: Schedule appointment
-        href: "#"
+        href: "https://meetings.hubspot.com/patrick182/meet-the-meade"
 
 # id steps component
 id_steps:
@@ -129,5 +130,5 @@ outro:
   alt_text:
   link:
     text: Try it now
-    href: '#'
+    href: "https://my.skribble.com/signup?lang=en"
 ---
