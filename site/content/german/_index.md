@@ -36,7 +36,7 @@ intro:
 # the first 3 are displayed before the compliance component, the rest is displayed after it
 blocks:
   - title: Dokumente als PDF hochladen
-    text: Lade das signierbereite Dokument als PDF hoch oder direkt aus deiner Plattform über die Skribble API.
+    text: Lade das signierbereite PDF-Dokument direkt via Browser hoch oder nutze Skribble via API aus deiner Unternehmenssoftware heraus.
     images:
       mobile:
         filename: image2
@@ -47,7 +47,7 @@ blocks:
     alt_text:
   - title: Zum Signieren einladen
     inverse: true
-    text: Lade die signierenden Personen per E-Mail ein und lege die Signatur-Reihnenfolge fest.
+    text: Lade die signierenden Personen per E-Mail ein und lege die Signatur-Reihenfolge fest.
     images:
       mobile:
         filename: image3
@@ -68,7 +68,7 @@ blocks:
     alt_text:
   - title: Skribble arbeitet mit staatlich anerkannter Technologie von Swisscom
     inverse: true
-    text: Ein wichtiger Bestandteil der elektronischen Signatur (QES) sind entsprechende digitale Zertifikate. Skribble bezieht diese von Swisscom, eine staatlich Anerkannte Zertifizierungsstelle. Damit sind Signaturen, die über Skribble erstellt werden, der handschrfltichen Signatur nach Schweizer und EU Gesetz gleichgestellt.
+    text: Ein wichtiger Bestandteil der elektronischen Signatur (QES) sind entsprechende digitale Zertifikate. Skribble bezieht diese von Swisscom, einer staatlich anerkannten Zertifizierungsstelle. Damit sind Signaturen, die über Skribble erstellt werden, der handschriftlichen Signatur nach Schweizer und EU Gesetz gleichgestellt.
     images:
       mobile:
         filename: image5
@@ -78,7 +78,7 @@ blocks:
         width: 860
     alt_text:
   - title: Skribble prüft deine Identität, damit du rechtssicher elektronisch signieren kannst
-    text: "Für die qualifizierte elektronische Signatur (QES) muss der Unterzeichnende seine Identität beweisen. Personen, die über eine geprüfte E-ID verfügen, können ohne zusätzliche Massnahmen direkt loslegen. Ansonsten bietet Skribble für jeden Geschäftskontext eine passende Identifikationsmöglichkeit an."
+    text: "Für die qualifizierte elektronische Signatur (QES) muss der Unterzeichnende seine Identität beweisen. Personen, die über eine geprüfte E-ID verfügen, können ohne zusätzliche Massnahmen direkt loslegen. Ansonsten bietet Skribble  für jeden Geschäftskontext eine passende Identifikationsmöglichkeit an."
     images:
       mobile:
         filename: image6

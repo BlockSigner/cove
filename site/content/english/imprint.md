@@ -12,7 +12,7 @@ type: narrow
 BlockSigner AG
 
 ## Address
-TrustSquare
+Trust Square
 Bahnhofstrasse 3
 CH-8001 Zurich
 

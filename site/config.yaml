@@ -17,7 +17,7 @@ languages:
           url: /kontakt/
           weight: 15
       footer:
-        - name: Datenschutz
+        - name: Datenschutzbestimmungen
           url: /de/datenschutz
           weight: 10
         - name: Impressum

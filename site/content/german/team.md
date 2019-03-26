@@ -61,7 +61,7 @@ groups:
           regular_landscape: team/kira-leuthold-l
           retina_landscape: team/kira-leuthold-l@2x
       - name: Simon Moser
-        position: Business Research
+        position: Business Development
         images:
           regular_portrait: team/simon-moser-l
           retina_portrait: team/simon-moser-l@2x
