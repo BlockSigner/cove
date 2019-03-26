@@ -132,5 +132,5 @@ outro:
   alt_text:
   link:
     text: Try it now
-    href: '#'
+    href: "https://my.skribble.com/signup?lang=en"
 ---

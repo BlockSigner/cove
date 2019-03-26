@@ -34,7 +34,7 @@ intro:
 # the first 3 are displayed before the compliance component, the rest is displayed after it
 blocks:
   - title: Upload documents as PDFs
-    text: Upload your ready-to-sign document as a PDF to Skribble.
+    text: Upload the signed PDF document directly via browser or use Skribble via API from your business software.
     images:
       mobile:
         filename: image2
@@ -55,7 +55,7 @@ blocks:
         width: 800
     alt_text:
   - title: Legally binding signatures
-    text: Sign documents at the touch of a button, regardless of time and place.
+    text: You sign legally valid at the push of a button, regardless of time and place, with a qualified electronic signature in accordance with Swiss and EU law (ZertES and eIDAS).
     images:
       mobile:
         filename: image4
@@ -95,9 +95,9 @@ compliance:
   items:
   - title: Requirement of written form
     text: A signature with Skribble is equal to the handwritten signature according to Swiss (OR Art. 14 Para. 2 bis) and EU law (eIDAS No. 910/2014 Art. 25 Para. 2).
-  - title: ZertES and eIDAS
-    text: Skribble obtains QES certificates from Swisscom, a provider of certificates recognised by ZertES and eIDAS.
-  - title: CH and EU data protection regulation
+  - title: Requirements of ZertES and eIDAS
+    text: Skribble obtains QES certificates from Swisscom, a provider of TRUSTED certificates recognised by ZertES and eIDAS.
+  - title: Requirements of CH and EU data protection regulation
     text: Skribble and its partners (Swisscom) manage your data in accordance with the DSG and DSGVO.
 
 # testimonial component
@@ -140,5 +140,5 @@ outro:
   alt_text:
   link:
     text: Try it now
-    href: '#'
+    href: "https://my.skribble.com/signup?lang=en"
 ---
