@@ -27,7 +27,7 @@ id_blocks:
   - title: Besitzt du bereits eine elektronische Identität? Melde dich einfach an.
     subtitle:
     text: |
-      <p>Eine wachsende Anzahl Menschen in Europa verfügt über eine geprüfte elektronische Identität (E-ID). Skribble bindet diese an. So können Millionen von Nutzer ohne zusätzliche Identitätsprüfung qualifiziert signieren.</p>
+      <p>Eine wachsende Anzahl Menschen in Europa verfügt über eine geprüfte elektronische Identität (E-ID). Skribble bindet diese an. So können Millionen von Nutzern ohne zusätzliche Identitätsprüfung qualifiziert signieren.</p>
       <p>Für dich als Firma bedeutet das erstens, dass du dich nicht um die Identifikation dieser Personen kümmern musst. Zweitens bist du auf jeden Fall auf der sicheren Seite, egal, welche E-ID sich bei deinen Nutzern durchsetzt.</p>
     image:
       alt:
@@ -86,25 +86,25 @@ id_steps:
   title: So funktioniert die Identifikation mit der ID-App von Swisscom
   subtitle: Es dauert nur wenige Minuten
   steps:
-    - title: Step 1
+    - title: Schritt 1
       text: Der Ausweis des Nutzers wird mit der ID-App von Swisscom gescannt und geprüft.
       image:
         alt:
         filename: identification-step-1
         natural_width: 252
-    - title: Step 2
+    - title: Schritt 2
       text: Swisscom verifiziert die Daten und legt sie sicher ab.
       image:
         alt:
         filename: identification-step-2
         natural_width: 158
-    - title: Step 3
+    - title: Schritt 3
       text: Der Status des Nutzers wird bei Skribble im Profil direkt auf “signierbereit” geändert.
       image:
         alt:
         filename: identification-step-3
         natural_width: 148
-    - title: Step 4
+    - title: Schritt 4
       text: Der Nutzer kann mit Skribble fortan qualifiziert elektronisch signieren.
       image:
         alt:

@@ -55,7 +55,7 @@ blocks:
         width: 800
     alt_text:
   - title: Legally binding signatures
-    text: You sign legally valid at the push of a button, regardless of time and place, with a qualified electronic signature in accordance with Swiss and EU law (ZertES and eIDAS).
+    text: You sign legally binding at the push of a button, regardless of time and place, with a qualified electronic signature in accordance with Swiss and EU law (ZertES and eIDAS).
     images:
       mobile:
         filename: image4
@@ -90,7 +90,7 @@ blocks:
 # contains the collapsibles
 compliance:
   title: Skribble complies with legal requirements
-  subtitle: "With Skribble you can create digital and legally valid (QES) signatures. Skribble complies with the following requirements:"
+  subtitle: "With Skribble you can create digital and legally binding (QES) signatures. Skribble complies with the following requirements:"
   items:
   - title: Requirement of written form
     text: A signature with Skribble is equal to the handwritten signature according to Swiss (OR Art. 14 Para. 2 bis) and EU law (eIDAS No. 910/2014 Art. 25 Para. 2).
@@ -113,11 +113,11 @@ pricing:
   subtitle: Skribbles' pricing adapts to your needs and can be flexibly configured.
   plans:
   - title: Pay per signature
-    subtitle: Prepaid-Model
+    subtitle: Prepaid Model
     description: Suitable for single or occasional signing with QES
     color: warning
   - title: Pay per person
-    subtitle: Flat rate-Model
+    subtitle: Flatrate Model
     description: Suitable for regular signing with QES
     color: info
 

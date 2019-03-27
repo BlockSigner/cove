@@ -1,6 +1,6 @@
 ---
-title: Skribble – Impressum
-description: Skribble wird von der BlockSigner AG betrieben. Skribble hat es sich zum Ziel gesetzt Vertragsprozesse zu digitalisieren. Seit der Gründung 2018 arbeitet ein wachsendes Team von Trust Shapern auf diese Zukunft hin.
+title: Skribble – Imprint
+description: Skribble is operated by BlockSigner AG. Skribble has made it its goal to digitalize contract processes. In 2018 we formed a team of Trust Shapers that has been working towards this future.
 draft: false
 slug: imprint
 type: narrow
@@ -17,7 +17,7 @@ Bahnhofstrasse 3
 CH-8001 Zurich
 
 ## Phone
-+41 44 / 505 16 64
++41 44 505 16 64
 
 ## Email
 [info@skribble.com](mailto:info@skribble.com "info@skribble.com")
