@@ -223,5 +223,5 @@ You are advised to review this Privacy Policy periodically for any changes. Chan
 
 ### Contact Us
 If you have any questions about this Privacy Policy, please contact us:
-•	By email: <a href="mailto:info@skribble.com" target="_blank">info@skribble.com</a>
+•	By email: <a href="mailto:info@skribble.com">info@skribble.com</a>
 •	By visiting this page on our website: <a href="https://www.skribble.com/contact/" target="_blank">www.skribble.com/contact/</a>
