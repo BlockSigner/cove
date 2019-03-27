@@ -11,6 +11,11 @@
     text-decoration: none;
   }
 
+  .btn {
+    height: 50px;
+    line-height: 50px;
+  }
+
   &__container {
     @include site-width;
     display: flex;
@@ -51,15 +56,22 @@
   }
 
   &__nav {
-    @include reset-list-styling;
-    display: flex;
+    margin-top: 3px;
     @include max-width {
       display: none;
+    }
+
+    &-list {
+      @include reset-list-styling;
+      display: flex;
     }
 
     a {
       padding: 10px;
       color: var(--c-text);
+      &:hover {
+        color: var(--c-primary);
+      }
       &.active {
         font-weight: bold;
         color: var(--c-text-alt);

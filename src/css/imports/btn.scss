@@ -15,4 +15,7 @@
   color: #fff;
   background-color: var(--c-primary);
   text-decoration: none;
+  &:hover {
+    background-color: #338ceb;
+  }
 }

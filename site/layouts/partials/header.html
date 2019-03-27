@@ -2,17 +2,15 @@
   <div class="header__wrapper">
     <div class="header__container">
       <div class="header__left">
-          <label for="mobile-nav-input" class="header__mobile-nav-trigger">
-            <span></span>
-          </label>
-          <a href="{{ .Site.Home.RelPermalink }}" class="header__logo">
-            <img src="/logo-skribble.svg" alt="">
-            Skribble
-          </a>
-      </div>
-      <div class="header__right">
-        <nav>
-          <ul class="header__nav">
+        <label for="mobile-nav-input" class="header__mobile-nav-trigger">
+          <span></span>
+        </label>
+        <a href="{{ .Site.Home.RelPermalink }}" class="header__logo">
+          <img src="/logo-skribble.svg" alt="">
+          Skribble
+        </a>
+        <nav class="header__nav">
+          <ul class="header__nav-list">
             {{ $currentPage := . }}
             {{ range.Site.Menus.main }}
             <li>
@@ -21,12 +19,10 @@
             {{ end }}
           </ul>
         </nav>
-            <!-- <button type="button" class="btn header__btn">Jetzt Vormerken</button> -->
+      </div>
+      <div class="header__right">
+        <a href="{{ $.Site.Params.tryBtn.href }}" class="btn header__btn">{{ $.Site.Params.tryBtn.label }}</a>
       </div>
     </div>
   </div>
 </header>
-
-<script>
-
-</script>

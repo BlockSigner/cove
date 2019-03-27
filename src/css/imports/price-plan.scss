@@ -7,6 +7,9 @@
   border-radius: 2px;
   background-color: #fff;
   box-shadow: rgba(#283E66, .1) 0 10px 20px 0;
+  @include max-width {
+    margin-bottom: 20px;
+  }
 
   &__title {
     padding: 4px var(--price-plan-lateral-padding) 25px;

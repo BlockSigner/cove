@@ -26,6 +26,9 @@ languages:
         - name: Impressum
           url: /de/impressum
           weight: 15
+    tryBtn:
+      label: Jetzt ausprobieren
+      href: https://my.skribble.com/signup?lang=de
   en:
     languageName: English
     weight: 1
@@ -51,3 +54,6 @@ languages:
         - name: Imprint
           url: /imprint/
           weight: 15
+    tryBtn:
+      label: Try it out
+      href: https://my.skribble.com/signup

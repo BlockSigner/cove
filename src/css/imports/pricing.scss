@@ -20,12 +20,15 @@
     align-items: stretch;
     @include max-width {
       flex-direction: column;
+      max-width: 100%;
     }
 
     &-wrapper {
       display: flex;
       align-items: stretch;
-      margin: 16px;
+      @include min-width {
+        margin: 16px;
+      }
     }
   }
 }
