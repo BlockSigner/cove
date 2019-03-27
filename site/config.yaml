@@ -43,7 +43,7 @@ languages:
           weight: 10
         - name: Contact
           url: /contact/
-          weight: 15
+          weight: 20
       footer:
         - name: Privacy Policy
           url: /privacy/
