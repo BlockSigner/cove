@@ -12,13 +12,13 @@ languages:
           weight: 5
         - name: Identifikation
           url: /identifikation/
-          weight: 8
+          weight: 15
         - name: Team
           url: /team/
           weight: 10
         - name: Kontakt
           url: /kontakt/
-          weight: 15
+          weight: 20
       footer:
         - name: Datenschutzbestimmungen
           url: /de/datenschutz
@@ -37,7 +37,7 @@ languages:
           weight: 5
         - name: Identification
           url: /identification/
-          weight: 8
+          weight: 15
         - name: Team
           url: /team/
           weight: 10
