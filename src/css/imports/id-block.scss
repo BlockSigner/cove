@@ -50,6 +50,9 @@
       border-color: var(--c-warning);
       .btn {
         background-color: var(--c-warning);
+        &:hover {
+          background-color: #F9D167;
+        }
       }
     }
 
@@ -57,6 +60,9 @@
       border-color: var(--c-info);
       .btn {
         background-color: var(--c-info);
+        &:hover {
+          background-color: #9B76C6;
+        }
       }
     }
 
