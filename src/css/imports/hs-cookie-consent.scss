@@ -11,7 +11,12 @@ div#hs-eu-cookie-confirmation.hs-cookie-notification-position-bottom {
   // inner element
   div#hs-eu-cookie-confirmation-inner {
     padding: 10px;
-    background: rgba(#006df2, .9) !important;
+    background: transparent !important;
+
+    a {
+      color: white !important;
+      text-decoration: underline !important;
+    }
 
     p {
       color: white !important;
@@ -19,6 +24,7 @@ div#hs-eu-cookie-confirmation.hs-cookie-notification-position-bottom {
 
     a#hs-eu-confirmation-button {
       color: #006df2 !important;
+      background-color: white !important;
       font-weight: bold !important;
     }
 
