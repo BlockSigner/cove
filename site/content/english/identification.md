@@ -24,7 +24,7 @@ id_blocks:
       button:
         label: Download factsheet
         href: "https://cdn2.hubspot.net/hubfs/5051692/130312%20Factsheet%20-%20CS%20-%20Identification_EN.pdf"
-  - title: Do you already have an electronic identity? Just sign up then.
+  - title: Do you already have an electronic identity? Then sign up now.
     subtitle:
     text: |
       <p>A growing number of people in Europe holds a verified electronic identity (E-ID). Skribble can be linked with all relevant E-IDs. Thus, millions of users can sign in a qualified manner without additional identity verification.</p>
@@ -38,7 +38,7 @@ id_blocks:
       button:
         label: Schedule appointment
         href: "https://www.skribble.info/meetings/simon79/learn-about-skribbles-identification-means"
-  - title: No electronic identity at hand? We’ll get you one.
+  - title: No electronic identity yet? We’ll get you one.
     subtitle:
     text:
     image:
@@ -83,8 +83,8 @@ id_blocks:
 
 # id steps component
 id_steps:
-  title: This is how identification with the ID app by Swisscom works
-  subtitle: This is how identification with the ID app by Swisscom works
+  title: This is how identification with the ID app of Swisscom works
+  subtitle: This is how identification with the ID app of Swisscom works
   steps:
     - title: Step 1
       text: The user's ID is scanned and checked with Swisscom's ID app.
