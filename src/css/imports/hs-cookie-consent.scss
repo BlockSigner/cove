@@ -5,13 +5,16 @@ div#hs-eu-cookie-confirmation.hs-cookie-notification-position-bottom {
   position: fixed !important;
   left: 0 !important;
   right: 0 !important;
-  bottom: 0 !important;
   background: rgba(#006df2, .9) !important;
 
   // inner element
   div#hs-eu-cookie-confirmation-inner {
     padding: 10px;
     background: transparent !important;
+    @media only screen and (min-width: 960px) {
+      display: flex;
+      align-items: center
+    }
 
     a {
       color: white !important;
@@ -19,7 +22,14 @@ div#hs-eu-cookie-confirmation.hs-cookie-notification-position-bottom {
     }
 
     p {
+      margin: 0 !important;
       color: white !important;
+    }
+
+    div#hs-en-cookie-confirmation-buttons-area {
+      @media only screen and (min-width: 960px) {
+        display: flex;
+      }
     }
 
     a#hs-eu-confirmation-button {
