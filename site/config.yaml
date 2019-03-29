@@ -13,13 +13,24 @@ languages:
         - name: Identifikation
           url: /identifikation/
           weight: 15
+        - name: Kontakt
+          url: /kontakt/
+          weight: 20
+      footer1:
+        - name: Identifikation
+          url: /identifikation/
+          weight: 15
+      footer2:
+        - name: Über uns
+          url: /ueber-uns/
+          weight: 5
         - name: Team
           url: /team/
           weight: 10
         - name: Kontakt
           url: /kontakt/
           weight: 20
-      footer:
+      footer4:
         - name: Datenschutzbestimmungen
           url: /de/datenschutz
           weight: 10
@@ -33,6 +44,12 @@ languages:
       tryItOut:
         label: Jetzt ausprobieren
         href: https://my.skribble.com/signup?lang=de
+    footer:
+      navigation:
+        titleColumn1: Plattform
+        titleColumn2: Über uns
+      newsletterTitle: Newsletter
+      newsletterText: Elektronische Signaturen und digitales Vertrauen sind brandaktuelle Themen. Bleibe auf dem Laufenden! Siehe unsere <a href="/datenschutz">Datenschutzerklärugen</a>.
   en:
     languageName: English
     weight: 1
@@ -45,13 +62,24 @@ languages:
         - name: Identification
           url: /identification/
           weight: 15
+        - name: Contact
+          url: /contact/
+          weight: 20
+      footer1:
+        - name: Identification
+          url: /identification/
+          weight: 15
+      footer2:
+        - name: About
+          url: /about/
+          weight: 5
         - name: Team
           url: /team/
           weight: 10
         - name: Contact
           url: /contact/
           weight: 20
-      footer:
+      footer4:
         - name: Privacy Policy
           url: /privacy/
           weight: 10
@@ -65,3 +93,9 @@ languages:
       tryItOut:
         label: Try it out
         href: https://my.skribble.com/signup
+    footer:
+      navigation:
+        titleColumn1: Platform
+        titleColumn2: About Skribble
+      newsletterTitle: Newsletter
+      newsletterText: Electronic signatures and digital trust are hot topics. Stay up to date! See our <a href="/privacy">privacy policy</a>.

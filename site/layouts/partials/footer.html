@@ -1,29 +1,63 @@
-<footer class="footer">
-  <div class="footer__container">
-    <div class="footer__left">
-      <nav>
-        <ul id="lang-switcher" class="lan-nav">
-          {{ range .Site.Languages }}
-            {{ if eq . $.Site.Language }}
-              <li><a href="#" class="active language" data-lang="{{ .Lang }}">{{ .LanguageName }}</a></li>
-            {{ else }}
-              {{ range $.Translations }}
-              <li><a href="{{ .Permalink }}" data-lang="{{ .Lang }}">{{ .Language.LanguageName }}</a></li>
+<footer>
+  <div class="footer">
+    <div class="footer__container">
+      <div class="footer__left footer__nav">
+        <div class="footer__nav-col">
+          <div class="footer__title">{{ .Site.Params.footer.navigation.titleColumn1 }}</div>
+          <ul>
+            {{ $currentPage := . }}
+            {{ range.Site.Menus.footer1 }}
+              <li>
+                <a class="{{ if eq (string (.URL | relLangURL)) $currentPage.RelPermalink }}active{{ end }}" href="{{ .URL | relLangURL }}"> {{ .Name }} </a>
+              </li>
+            {{ end }}
+          </ul>
+        </div>
+        <div class="footer__nav-col">
+          <div class="footer__title">{{ .Site.Params.footer.navigation.titleColumn2 }}</div>
+          <ul>
+            {{ $currentPage := . }}
+            {{ range.Site.Menus.footer2 }}
+              <li>
+                <a class="{{ if eq (string (.URL | relLangURL)) $currentPage.RelPermalink }}active{{ end }}" href="{{ .URL | relLangURL }}"> {{ .Name }} </a>
+              </li>
+            {{ end }}
+          </ul>
+        </div>
+      </div>
+      <div class="footer__right footer__newsletter">
+        <div class="footer__title">{{ .Site.Params.footer.newsletterTitle }}</div>
+        {{ partial "newsletter" . }}
+      </div>
+    </div>
+  </div>
+  <div class="footer">
+    <div class="footer__container footer__container--stripe">
+      <div class="footer__left">
+        <nav>
+          <ul id="lang-switcher" class="lan-nav">
+            {{ range .Site.Languages }}
+              {{ if eq . $.Site.Language }}
+                <li><a href="#" class="active language" data-lang="{{ .Lang }}">{{ .LanguageName }}</a></li>
+              {{ else }}
+                {{ range $.Translations }}
+                <li><a href="{{ .Permalink }}" data-lang="{{ .Lang }}">{{ .Language.LanguageName }}</a></li>
+                {{ end }}
               {{ end }}
             {{ end }}
-          {{ end }}
-        </ul>
-      </nav>
-    </div>
-    <div class="footer__right">
-      <nav>
-        <ul class="footer__nav">
-          {{ $currentPage := . }}
-          {{ range .Site.Menus.footer }}
-            <li><a class="{{ if eq (string (.URL | relLangURL)) $currentPage.RelPermalink }}active{{ end }}" href="{{ .URL }}">{{ .Name }}</a></li>
-          {{ end }}
-        </ul>
-      </nav>
+          </ul>
+        </nav>
+      </div>
+      <div class="footer__right">
+        <nav>
+          <ul class="footer__legal">
+            {{ $currentPage := . }}
+            {{ range .Site.Menus.footer4 }}
+              <li><a class="{{ if eq (string (.URL | relLangURL)) $currentPage.RelPermalink }}active{{ end }}" href="{{ .URL | relLangURL }}">{{ .Name }}</a></li>
+            {{ end }}
+          </ul>
+        </nav>
+      </div>
     </div>
   </div>
 </footer>

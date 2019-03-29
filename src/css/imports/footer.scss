@@ -1,22 +1,44 @@
 .footer {
-  width: 100%;
+  width: 100vw;
   border-top: 1px solid #dadee6;
 
   a {
+    display: block;
+    color: var(--c-text);
     text-decoration: none;
+    &:hover {
+      color: var(--c-primary);
+    }
+    &.active {
+      font-weight: bold;
+      color: var(--c-text-alt);
+    }
+  }
+
+  &__title {
+    font-size: 2rem;
+    font-weight: bold;
+    color: var(--c-text-alt);
+    @include min-width {
+      margin-bottom: 3px;
+    }
   }
 
   &__container {
     @include site-width;
     display: flex;
     justify-content: space-between;
-    align-items: center;
-    height: 60px;
+    align-items: stretch;
     @include max-width {
       flex-direction: column;
       height: auto;
       padding-left: 0;
       padding-right: 0;
+    }
+
+    &--stripe {
+      align-items: center;
+      height: 60px;
     }
   }
 
@@ -36,6 +58,52 @@
     }
   }
 
+  &__nav {
+    display: flex;
+    align-items: flex-start;
+    flex: 1 0 70%;
+    padding: 50px 0 40px 0;
+    font-size: 1.6rem;
+    line-height: 1.75;
+    @include max-width {
+      flex-direction: column;
+      padding: 20px 24px 12px;
+    }
+
+    &-col {
+      display: flex;
+      flex-direction: column;
+      margin: 0 10px;
+      @include max-width {
+        margin: 0;
+      }
+
+      ul {
+        @include reset-list-styling;
+      }
+
+      + .footer__nav-col {
+        @include min-width {
+          margin-left: 50px;
+        }
+        @include max-width {
+          margin-top: 24px;
+        }
+      }
+    }
+  }
+
+  &__newsletter {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    flex: 1 0 30%;
+    padding: 50px 0 40px 0;
+    @include max-width {
+      padding: 12px 24px 24px;
+    }
+  }
+
   &__logo {
     display: flex;
     align-items: center;
@@ -49,9 +117,10 @@
     }
   }
 
-  &__nav {
+  &__legal {
     @include reset-list-styling;
     display: flex;
+    font-size: 1.6rem;
     @include max-width {
       flex-direction: column;
       padding: 6px 24px;
@@ -60,18 +129,8 @@
 
     a {
       padding: 10px;
-      color: var(--c-text);
       @include max-width {
-        display: block;
         padding: 6px 0;
-        font-size: 1.6rem;
-      }
-      &:hover {
-        color: var(--c-primary);
-      }
-      &.active {
-        font-weight: bold;
-        color: var(--c-text-alt);
       }
     }
   }

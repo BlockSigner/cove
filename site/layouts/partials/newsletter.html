@@ -1,42 +1,29 @@
 <div class="newsletter">
-  <div class="newsletter__image">
-    <picture>
-      <source
-        type="image/webp"
-        srcset="{{ .image.mobile.filename }}.webp {{ .image.mobile.width }}w, {{ .image.desktop.filename }}.webp {{ .image.desktop.width }}w"
-        sizes="(max-width: 767px) 100vw, 400px"
-      />
-      <source
-        type="image/jpeg"
-        srcset="{{ .image.mobile.filename }}.jpg {{ .image.mobile.width }}w, {{ .image.desktop.filename }}.jpg {{ .image.desktop.width }}w"
-        sizes="(max-width: 767px) 100vw, 400px"
-      />
-      <img
-        src="{{ .image.desktop.filename }}.jpg"
-        alt="{{ .alt_text }}"
-      />
-    </picture>
-  </div>
-  <div class="newsletter__text">
-
-    <!-- pass on the arguments to title-subtitle module -->
-    {{ partial "title-subtitle" (dict "Page" . ) }}
-
-    <div class="newsletter__form">
-      <!-- - - - - - - - - start hubspot newsletter snippet  - - - - - - - - -->
-      <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
-        <!--[if lte IE 8]>
+  <div class="newsletter__form">
+    <!-- - - - - - - - - start hubspot newsletter snippet  - - - - - - - - -->
+    <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
+      <!--[if lte IE 8]>
         <script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/v2-legacy.js"></script>
-        <![endif]-->
-        <script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/v2.js"></script>
+      <![endif]-->
+      <script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/v2.js"></script>
+      {{ if eq .Site.Language.Lang "de" }}
         <script>
           hbspt.forms.create({
-            portalId: "5051692",
-            formId: "6c5c240d-87b7-42bb-93ea-39e1379e2f4d"
+          portalId: "5051692",
+          formId: "cb565705-2dda-41e1-b87a-1ccc50926592"
         });
         </script>
-      <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
-      <!-- - - - - - - - - end hubspot newsletter snippet  - - - - - - - - - -->
-    </div>
+      {{ else }}
+        <!-- english newsletter form as default -->
+        <script>
+          hbspt.forms.create({
+          portalId: "5051692",
+          formId: "0f6a6ae7-bcc2-471e-8029-94fce80f2380"
+        });
+        </script>
+      {{ end }}
+    <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
+    <!-- - - - - - - - - end hubspot newsletter snippet  - - - - - - - - - -->
   </div>
+  <div class="newsletter__text">{{ $.Site.Params.footer.newsletterText | safeHTML }}</div>
 </div>
