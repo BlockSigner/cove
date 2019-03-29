@@ -20,7 +20,7 @@ id_blocks:
       filename: "identification"
       natural_width: 482
     action:
-      text: Alle details zur Identitätsprüfung für die QES bei Skribble findest du hier in unserem Factsheet.
+      text: Die Details zur Identitätsprüfung für das Signieren mit Skribble findest du in unserem Factsheet.
       button:
         label: Download Factsheet
         href: "https://cdn2.hubspot.net/hubfs/5051692/190212%20Factsheet%20-%20CS-%20Identification.pdf"
