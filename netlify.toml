@@ -8,3 +8,8 @@
 
 [context.deploy-preview]
   command = "yarn run build:preview"
+
+[[redirects]]
+  from = "/*/index.html"
+  to = "/de/:splat/index.html"
+  conditions = {Language = ["de","de-ch","de-de","de-at","de-li","de-lu"]}
