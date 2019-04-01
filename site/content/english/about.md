@@ -4,6 +4,8 @@ description: With Skribble signature processes are 100% digital, based on the qu
 draft: false
 slug: about
 type: narrow
+# opengraph image (for facebook and twitter)
+og_image: og/og-skribble-mission.jpg
 
 # title subtitle component
 title_subtitle:

@@ -4,6 +4,8 @@ description: Für die qualifizierte elektronische Signatur (QES) muss der Unterz
 draft: false
 slug: identifikation
 type: identification
+# opengraph image (for facebook and twitter)
+og_image: og/og-skribble-identification.jpg
 
 # images
 # expects image in jpg and a in webp format, placed in /site/content/english/image/

@@ -4,6 +4,8 @@ description: Mit Skribble werden Signaturprozesse 100% digital abgewickelt, basi
 draft: false
 slug: ueber-uns
 type: narrow
+# opengraph image (for facebook and twitter)
+og_image: og/og-skribble-mission.jpg
 
 # title subtitle component
 title_subtitle:

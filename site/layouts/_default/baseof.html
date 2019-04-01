@@ -19,6 +19,19 @@
   <meta name="description" content="{{ .Description }}" />
   <meta name="format-detection" content="telephone=no">
 
+  <!-- open graph and twitter -->
+  <meta property="og:title" content="{{ .Title }}">
+  <meta property="og:description" content="{{ .Description }}">
+  <meta property="og:url" content="https://www.skribble.com/">
+  <meta property="og:site_name" content="Skribble">
+  <!-- use open graph image from pages, or if undefined use og-skribble -->
+  {{ if .Params.og_image }}
+    <meta property="og:image" content="https://www.skribble.com/{{ .Params.og_image }}">
+  {{ else }}
+    <meta property="og:image" content="https://www.skribble.com/og/og-skribble.jpg">
+  {{ end }}
+  <meta name="twitter:card" content="summary_large_image">
+
   {{ $stylesheet := .Site.Data.webpack.main }}
   {{ with $stylesheet.css }}
   <link href="{{ relURL . }}" rel="stylesheet">

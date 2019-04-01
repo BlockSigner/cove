@@ -4,6 +4,8 @@ description: The qualified electronic signature (QES) requires the signing party
 draft: false
 slug: identification
 type: identification
+# opengraph image (for facebook and twitter)
+og_image: og/og-skribble-identification.jpg
 
 # images
 # expects image in jpg and a in webp format, placed in /site/content/english/image/
