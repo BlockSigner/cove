@@ -2,7 +2,7 @@
 # GERMAN HOME PAGE
 
 title: Skribble – Rechtsgültig elektronisch signieren
-description: Signaturprozesse einfach digital abwickeln – Rechtsgültig nach dem Schweizer & EU Gesetz.
+description: Signaturprozesse einfach digital abwickeln – Rechtsgültig nach dem Schweizer & EU-Gesetz.
 type: wide
 
 # images have to be provided in webp and jpg format
@@ -98,7 +98,7 @@ compliance:
       text: die QES ist der handschriftlichen Unterschrift vor Schweizer (OR Art. 14 Abs. 2 bis) und EU Gesetz (eIDAS Nr. 910/2014 Art. 25 Abs. 2) gleichgestellt.
     - title: Anforderungen an ZertES und eIDAS
       text: Skribble bezieht die QES von der Swisscom, einer nach ZertES und eIDAS anerkannten Anbieterin von elektronischen Zertifikaten.
-    - title: Anforderungen an CH- und EU Datenschutzverordnung
+    - title: Anforderungen an CH- und EU-Datenschutzverordnung
       text: Skribble sowie Partner (Swisscom) verpflichten sich, Daten gemäss DSG und DSGVO zu verwalten.
 
 # Testimonial

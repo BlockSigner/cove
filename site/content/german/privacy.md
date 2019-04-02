@@ -18,27 +18,27 @@ Wir nutzen Ihre Daten zur Bereitstellung und Verbesserung unseres Dienstes. Durc
 
 ### Begriffsbestimmungen
 
-**Dienst**
+##Dienst
 Der Dienst ist die von dem BlockSigner AG betriebene Website <a href="https://www.skribble.com" target="_blank">www.skribble.com</a>
 
-**Personenbezogene Daten**
-Personenbezogene Daten sind Daten, die sich auf eine lebende Person beziehen, welche anhand dieser Daten (bzw. anhand dieser Daten in Kombination mit weiteren Informationen, die sich bereits in unserem Besitz befinden oder mit Wahrscheinlichkeit in unseren Besitz gelangen werden) identifizierbar ist.
+##Personenbezogene Daten
+Personenbezogene Daten sind Nutungsdaten, die sich auf eine lebende Person beziehen, welche anhand dieser Daten (bzw. anhand dieser Daten in Kombination mit weiteren Informationen, die sich bereits in unserem Besitz befinden oder mit Wahrscheinlichkeit in unseren Besitz gelangen werden) und identifizierbar ist.
 
-**Nutzungsdaten**
+##Nutzungsdaten
 Nutzungsdaten sind Daten, die automatisch im Rahmen der Nutzung des Dienstes oder innerhalb der Dienstinfrastruktur selbst (beispielsweise für die Dauer eines Seitenbesuchs) erfasst werden.
 
-**Cookies**
+##Cookies
 Cookies sind kleine Dateien, die auf Ihrem Gerät (Computer oder mobiles Endgerät) gespeichert werden.
 
-**Datenverantwortlicher**
+##Datenverantwortlicher
 Der Datenverantwortliche ist eine natürliche oder juristische Person, die (entweder alleine oder zusammen mit weiteren Personen) die Zwecke sowie die Art und Weise festlegt, für bzw. auf welche personenbezogene Daten verarbeitet werden bzw. zu verarbeiten sind.
 Für die Zwecke dieser Datenschutz-Richtlinie sind wir der Datenverantwortliche in Bezug auf Ihre personenbezogenen Daten.
 
-**Datenverarbeiter (oder Leistungsanbieter)**
+##Datenverarbeiter (oder Leistungsanbieter)
 Ein Datenverarbeiter (oder Leistungsanbieter) ist eine natürliche oder juristische Person, welche die Daten im Namen des Datenverantwortlichen verarbeitet.
 Wir können die Leistungen verschiedener Leistungsanbieter in Anspruch nehmen, um Ihre Daten auf effizientere Weise zu verarbeiten.
 
-**Datensubjekt (oder Nutzer)**
+##Datensubjekt (oder Nutzer)
 Ein Datensubjekt ist eine lebende Einzelperson, die unseren Dienst in Anspruch nimmt und Gegenstand personenbezogener Daten ist.
 
 ### Erfassung und Nutzung von Daten
@@ -165,18 +165,18 @@ Weitere Informationen zu den Datenschutzmaßnahmen von Google können Sie auf Go
 ## Verhaltensbasierte Wiedervermarktung
 BlockSigner AG setzt Wiedervermarktungsdienste ein, um Ihnen auf Websites Dritter Werbung anzuzeigen, nachdem Sie unseren Dienst besucht haben. Wir und unsere Drittanbieter setzen Cookies ein, um Werbung auf Grundlage Ihrer früheren Besuche innerhalb unseres Dienstes zu erstellen, zu optimieren und anzuzeigen.
 
-**Google Ads (AdWords)**
+##Google Ads (AdWords)
 Google Ads (AdWords) ist ein von Google Inc. angebotener Wiedervermarktungsdienst.
 Sie können Google Analytics für die Anzeige von Werbung deaktivieren und die Google Display Network-Werbung personalisieren, indem Sie die Seite mit den Einstellungen für Google Ads besuchen: <a href="http://www.google.com/settings/ads" target="_blank">www.google.com/settings/ads</a>
 
 Google empfiehlt außerdem die Installation des Browser-Add-ons für die Deaktivierung von Google Analytics - <a href="https://tools.google.com/dlpage/gaoptout" target="_blank">tools.google.com/dlpage/gaoptout</a> - für Ihren Web-Browser. Das Browser-Add-on für die Deaktivierung von Google Analytics ermöglicht es Besuchern, die Erfassung und Nutzung ihrer Daten durch Google Analytics zu verhindern.
 Weitere Informationen zu den Datenschutzmaßnahmen von Google können Sie auf Googles Webseite zu seinen Datenschutzbestimmungen (Privacy Terms) einsehen: <a href="https://policies.google.com/privacy?hl=en" target="_blank">policies.google.com/privacy?hl=en</a>
 
-**Twitter**
+##Twitter
 Twitters Wiedervermarktungsdienst wird von Twitter Inc. angeboten.
 Sie können die interessenbasierte Werbung von Twitter deaktivieren, indem Sie den entsprechenden Anweisungen Folge leisten: <a href="https://support.twitter.com/articles/20170405" target="_blank">support.twitter.com/articles/20170405</a> Weitere Informationen zu den Datenschutzmaßnahmen und -vorschriften von Twitter können Sie Twitters Datenschutz-Richtlinie (Privacy Policy) entnehmen: <a href="https://twitter.com/privacy" target="_blank">twitter.com/privacy</a>
 
-**Facebook**
+##Facebook
 Facebooks Wiedervermarktungsdienst wird von Facebook Inc. angeboten.
 Weitere Informationen zu Facebooks interessenbasierter Werbung sind der folgenden Seite zu entnehmen:
 <a href="https://www.facebook.com/help/164968693837950" target="_blank">www.facebook.com/help/164968693837950</a>
@@ -184,7 +184,7 @@ Sie können die interessenbasierte Werbung von Facebook deaktivieren, indem Sie 
 Facebook hält sich an die von der Digital Advertising Alliance erstellten "Selbstregelnden Grundsätze für verhaltensbasierte Online-Werbung" (Self-Regulatory Principles for Online Behavioural Advertising). Sie können Facebook und andere teilnehmende Unternehmen in den USA außerdem über die Digital Advertising Alliance <a href="http://www.aboutads.info/choices/" target="_blank">www.aboutads.info/choices/</a>, in Kanada über die Digital Advertising Alliance of Canada <a href="http://youradchoices.ca/" target="_blank">youradchoices.ca/</a> oder in Europa über die European Interactive Digital Advertising Alliance <a href="http://www.youronlinechoices.eu/" target="_blank">www.youronlinechoices.eu/</a>, deaktivieren; alternativ können Sie die Einstellungen Ihres mobilen Endgeräts entsprechend anpassen.
 Weitere Informationen zu den Datenschutzvorschriften von Facebook sind aus Facebooks Datenschutz-Richtlinie (Data Policy) ersichtlich: <a href="https://www.facebook.com/privacy/explanation" target="_blank">www.facebook.com/privacy/explanation</a>
 
-**Pinterest**
+##Pinterest
 Pinterests Wiedervermarktungsdienst wird von Pinterest Inc. angeboten.
 Sie können die interessenbasierte Werbung von Pinterest deaktivieren, indem Sie die "Do Not Track"-Funktionalität Ihres Browsers einschalten oder den entsprechenden Anweisungen von Pinterest Folge leisten:
 <a href="http://help.pinterest.com/en/articles/personalization-and-data" target="_blank">help.pinterest.com/en/articles/personalization-and-data</a>
@@ -197,7 +197,7 @@ Wir werden Ihre Zahlungskartenangaben weder speichern noch erfassen. Diese Daten
 
 Bei den von uns eingesetzten Zahlungsanbietern handelt es sich um:
 
-**Stripe**
+##Stripe
 Die Datenschutz-Richtlinie (Privacy Policy) von Stripe können Sie hier einsehen <a href="https://stripe.com/us/privacy" target="_blank">stripe.com/us/privacy</a>
 
 ### Links zu anderen Websites
