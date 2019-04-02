@@ -22,7 +22,7 @@ Wir nutzen Ihre Daten zur Bereitstellung und Verbesserung unseres Dienstes. Durc
 Der Dienst ist die von dem BlockSigner AG betriebene Website <a href="https://www.skribble.com" target="_blank">www.skribble.com</a>
 
 ### Personenbezogene Daten
-Personenbezogene Daten sind Nutungsdaten, die sich auf eine lebende Person beziehen, welche anhand dieser Daten (bzw. anhand dieser Daten in Kombination mit weiteren Informationen, die sich bereits in unserem Besitz befinden oder mit Wahrscheinlichkeit in unseren Besitz gelangen werden) und identifizierbar ist.
+Personenbezogene Daten sind Nutzungsdaten, die sich auf eine lebende Person beziehen, welche anhand dieser Daten (bzw. anhand dieser Daten in Kombination mit weiteren Informationen, die sich bereits in unserem Besitz befinden oder mit Wahrscheinlichkeit in unseren Besitz gelangen werden) und identifizierbar ist.
 
 ### Nutzungsdaten
 Nutzungsdaten sind Daten, die automatisch im Rahmen der Nutzung des Dienstes oder innerhalb der Dienstinfrastruktur selbst (beispielsweise für die Dauer eines Seitenbesuchs) erfasst werden.
