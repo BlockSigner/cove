@@ -7,6 +7,11 @@
   <base href="{{ if getenv "CONTEXT" }}{{ cond (eq "production" (getenv "CONTEXT")) (getenv "URL") (getenv "DEPLOY_PRIME_URL") }}{{ else }}{{ $.Site.BaseURL }}{{ end }}">
   <title>{{ .Title }}</title>
 
+  <style>
+    @font-face {font-family: 'Averta';src: url('/fonts/hinted-averta-regular.woff') format('woff');font-weight: normal;font-style: normal;}
+    @font-face {font-family: 'Averta';src: url('/fonts/hinted-averta-extrabold.woff') format('woff');font-weight: bold;font-style: normal;}
+  </style>
+
   {{ partial "language-switch-js" }}
 
   <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
@@ -58,7 +63,6 @@
     {{ block "main" . }}{{end}}
 
     {{ block "footer" . }}{{ partial "footer" . }}{{end}}
-
   </div>
 
   {{ partial "mobile-nav" . }}
