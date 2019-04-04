@@ -11,10 +11,10 @@
         </p>
       </div>
 
-      {{ partial "picture" .Site.Params.error.image }}
+      {{ partial "picture" (dict "alt" "" "filename" "error-404" "natural_width" "407") }}
 
       <p id="error-404-text" class="error__text richtext">
-        You can return to home, or try looking on our <a href="https://help.skribble.com/english">Help Center</a> if you need a hand. Perhaps you like our 404 page. If so, you are welcome to stay for as long as you like :)
+        You can return <a href="https://www.skribble.com">home</a>, or try looking on our <a href="https://help.skribble.com/english">Help Center</a> if you need a hand. If you really like our 404 page you are welcome to stay for as long as you like 😀
       </p>
       <a
         id="error-404-btn"
@@ -31,7 +31,7 @@
     if (Skribble.coveLang === 'de') {
       document.getElementById('error-404-title').innerHTML = 'Vom Winde verweht';
       document.getElementById('error-404-subtitle').innerHTML = 'Diese Seite existiert nicht oder wurde verschoben. Tut uns leid!';
-      document.getElementById('error-404-text').innerHTML = 'Du kannst zurück zur Startseite oder verwende einen Link in der Navigation oder im Footer, um auf eine andere Seite zu gelangen.';
+      document.getElementById('error-404-text').innerHTML = 'Du kannst zurück zur <a href="https://www.skribble.com">Startseite</a> oder verwende einen Link in der Navigation oder im Footer, um auf eine andere Seite zu gelangen.';
       document.getElementById('error-404-btn').innerHTML = 'Zur Startseite';
     }
   </script>

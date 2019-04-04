@@ -34,19 +34,21 @@
   <div class="footer">
     <div class="footer__container footer__container--stripe">
       <div class="footer__left">
-        <nav>
-          <ul id="lang-switcher" class="lan-nav">
-            {{ range .Site.Languages }}
-              {{ if eq . $.Site.Language }}
-                <li><a href="#" class="active language" data-lang="{{ .Lang }}">{{ .LanguageName }}</a></li>
-              {{ else }}
-                {{ range $.Translations }}
-                <li><a href="{{ .Permalink }}" data-lang="{{ .Lang }}">{{ .Language.LanguageName }}</a></li>
+        {{ if ne "404" .Page.Kind  }}
+          <nav>
+            <ul id="lang-switcher" class="lan-nav">
+              {{ range .Site.Languages }}
+                {{ if eq . $.Site.Language }}
+                  <li><a href="#" class="active language" data-lang="{{ .Lang }}">{{ .LanguageName }}</a></li>
+                {{ else }}
+                  {{ range $.Translations }}
+                  <li><a href="{{ .Permalink }}" data-lang="{{ .Lang }}">{{ .Language.LanguageName }}</a></li>
+                  {{ end }}
                 {{ end }}
               {{ end }}
-            {{ end }}
-          </ul>
-        </nav>
+            </ul>
+          </nav>
+        {{ end }}
       </div>
       <div class="footer__right">
         <nav>

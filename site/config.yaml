@@ -54,17 +54,6 @@ languages:
     languageName: English
     weight: 1
     contentDir: content/english
-    error:
-      title: Gone with the wind
-      subtitle: "This page doesn't exist or has moved.<br>We apologize for the inconvenience."
-      image:
-        alt:
-        filename: "error-404"
-        natural_width: 407
-      text: "You can return to home, or try looking on our <a href=\"https://help.skribble.com/english\">Help Center</a> if you need a hand. Perhaps you like 404 page. If so, you are welcome to stay for as long as you like :)"
-      button:
-        label: Return to homepage
-        href:
     menu:
       main:
         - name: About
