@@ -1,7 +1,39 @@
 {{ define "main" }}
 
-<h1>Nothing Here...</h1>
-<h2 style="font-size: 120px; margin:0;">🧐</h2>
-<h3><a href="{{ "/" | relURL }}">Go Home</a></h3>
+  <!-- Main -->
+  <section class="error">
+    <div class="error__stacked">
+      <div class="title-subtitle align-center">
+        <h1 id="error-404-title">Gone with the wind</h1>
+        <p id="error-404-subtitle">
+          This page doesn't exist or has moved.<br>
+          We apologize for the inconvenience.
+        </p>
+      </div>
+
+      {{ partial "picture" .Site.Params.error.image }}
+
+      <p id="error-404-text" class="error__text richtext">
+        You can return to home, or try looking on our <a href="https://help.skribble.com/english">Help Center</a> if you need a hand. Perhaps you like our 404 page. If so, you are welcome to stay for as long as you like :)
+      </p>
+      <a
+        id="error-404-btn"
+        target="_blank"
+        class="btn"
+        href="/"
+      >Back to homepage</a>
+    </div>
+  </section>
+
+  <script>
+    var Skribble = Skribble || {}
+
+    if (Skribble.coveLang === 'de') {
+      document.getElementById('error-404-title').innerHTML = 'Vom Winde verweht';
+      document.getElementById('error-404-subtitle').innerHTML = 'Diese Seite existiert nicht oder wurde verschoben. Tut uns leid!';
+      document.getElementById('error-404-text').innerHTML = 'Du kannst zurück zur Startseite oder verwende einen Link in der Navigation oder im Footer, um auf eine andere Seite zu gelangen.';
+      document.getElementById('error-404-btn').innerHTML = 'Zur Startseite';
+    }
+  </script>
 
 {{ end }}

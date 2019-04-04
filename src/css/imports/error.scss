@@ -1,0 +1,35 @@
+.error {
+  @include site-width;
+  @include vertical-unit-margins;
+  @include max-width {
+    margin-top: 80px;
+  }
+
+  &__image {
+    max-width: 400px;
+
+    img {
+      display: block;
+      max-width: 100%;
+    }
+  }
+
+  &__stacked {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    max-width: 1024px;
+    margin-left: auto;
+    margin-right: auto;
+    @include max-width {
+      flex-direction: column;
+    }
+  }
+
+  &__text {
+    width: 580px;
+    max-width: 100%;
+    text-align: center;
+  }
+}
