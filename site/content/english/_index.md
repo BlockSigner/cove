@@ -24,7 +24,7 @@ intro:
   alt_text:
   link:
     text: Try it now
-    href: '#'
+    href: https://my.skribble.com/signup
   partner:
     image: swisscom.png
     alt_text:

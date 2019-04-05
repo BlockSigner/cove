@@ -25,8 +25,8 @@ intro:
       width: 1356
   alt_text:
   link:
-    text: Jetzt Registrieren
-    href: '#'
+    text: Jetzt ausprobieren
+    href: https://my.skribble.com/signup?lang=de
   partner:
     image: swisscom.png
     alt_text:
