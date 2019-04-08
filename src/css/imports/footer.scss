@@ -65,6 +65,9 @@
     padding: 50px 0 40px 0;
     font-size: 1.6rem;
     line-height: 1.75;
+    @include min-width {
+      padding-right: 100px;
+    }
     @include max-width {
       flex-direction: column;
       padding: 20px 24px 12px;
@@ -74,6 +77,9 @@
       display: flex;
       flex-direction: column;
       margin: 0 10px;
+      @include min-width {
+        flex: 0 1 180px;
+      }
       @include max-width {
         margin: 0;
       }

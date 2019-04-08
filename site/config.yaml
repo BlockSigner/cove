@@ -30,6 +30,10 @@ languages:
         - name: Kontakt
           url: /kontakt/
           weight: 20
+      footer3:
+        - name: Wissensdatenbank
+          url: https://help.skribble.com/deutsch
+          weight: 5
       footer4:
         - name: Datenschutzbestimmungen
           url: /de/datenschutz
@@ -48,6 +52,7 @@ languages:
       navigation:
         titleColumn1: Plattform
         titleColumn2: Über uns
+        titleColumn3: Ressourcen
       newsletterTitle: Newsletter
       newsletterText: Elektronische Signaturen und digitales Vertrauen sind brandaktuelle Themen. Bleibe auf dem Laufenden! Siehe unsere <a href="/datenschutz">Datenschutzerklärugen</a>.
   en:
@@ -79,6 +84,10 @@ languages:
         - name: Contact
           url: /contact/
           weight: 20
+      footer3:
+        - name: Knowledge Base
+          url: https://help.skribble.com/english
+          weight: 5
       footer4:
         - name: Privacy Policy
           url: /privacy/
@@ -97,5 +106,6 @@ languages:
       navigation:
         titleColumn1: Platform
         titleColumn2: About Skribble
+        titleColumn3: Ressources
       newsletterTitle: Newsletter
       newsletterText: Electronic signatures and digital trust are hot topics. Stay up to date! See our <a href="/privacy">privacy policy</a>.

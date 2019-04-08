@@ -24,6 +24,17 @@
             {{ end }}
           </ul>
         </div>
+        <div class="footer__nav-col">
+          <div class="footer__title">{{ .Site.Params.footer.navigation.titleColumn3 }}</div>
+          <ul>
+            {{ $currentPage := . }}
+            {{ range.Site.Menus.footer3 }}
+              <li>
+                <a class="{{ if eq (string (.URL | relLangURL)) $currentPage.RelPermalink }}active{{ end }}" href="{{ .URL | relLangURL }}"> {{ .Name }} </a>
+              </li>
+            {{ end }}
+          </ul>
+        </div>
       </div>
       <div class="footer__right footer__newsletter">
         <div class="footer__title">{{ .Site.Params.footer.newsletterTitle }}</div>
