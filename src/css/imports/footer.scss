@@ -38,7 +38,9 @@
 
     &--stripe {
       align-items: center;
-      height: 60px;
+      @include min-width {
+        height: 60px;
+      }
     }
   }
 
