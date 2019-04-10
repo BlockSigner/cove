@@ -106,6 +106,6 @@ languages:
       navigation:
         titleColumn1: Platform
         titleColumn2: About Skribble
-        titleColumn3: Ressources
+        titleColumn3: Resources
       newsletterTitle: Newsletter
       newsletterText: Electronic signatures and digital trust are hot topics. Stay up to date! See our <a href="/privacy">privacy policy</a>.
