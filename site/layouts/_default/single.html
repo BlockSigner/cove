@@ -1,5 +1,7 @@
 
 {{ define "main" }} {{ $section := .Site.GetPage "section" .Section }}
 <!-- default page layout -->
-<main class="main main--default">{{- .Content -}}</main>
+<main class="main main--default">
+  {{- .Content -}}
+</main>
 {{ end }}

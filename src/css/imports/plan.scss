@@ -1,14 +1,17 @@
-.price-plan {
+.plan {
   --price-plan-lateral-padding: 20px;
   $price-plan-width: 328px;
   width: $price-plan-width;
   max-width: 100%;
-  border-top: 7px solid transparent;
-  border-radius: 2px;
-  background-color: #fff;
-  box-shadow: rgba(#283E66, .1) 0 10px 20px 0;
   @include max-width {
     margin-bottom: 20px;
+  }
+
+  &-inner {
+    border-top: 7px solid transparent;
+    border-radius: 2px;
+    background-color: #fff;
+    box-shadow: rgba(#283E66, .1) 0 10px 20px 0;
   }
 
   &__title {

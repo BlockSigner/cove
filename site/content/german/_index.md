@@ -3,159 +3,149 @@
 
 title: Skribble – Rechtsgültig elektronisch signieren
 description: Signaturprozesse einfach digital abwickeln – Rechtsgültig nach dem Schweizer & EU-Gesetz.
-type: wide
+draft: false
 
-# images have to be provided in webp and jpg format
-
-# intro component
-intro:
-  title: >
-    Rechtsgültig
-    elektronisch signieren
-    mit Skribble
-  text: Signaturprozesse einfach digital abwickeln – rechtsgültig nach dem Schweizer & EU Gesetz.
-  image:
-    mobile:
-      filename_webp: image1-678w.webp
-      filename_jpg: image1-678w.jpg
-      width: 678
-    desktop:
-      filename_webp: image1-1356w.webp
-      filename_jpg: image1-1356w.jpg
-      width: 1356
-  alt_text:
-  link:
-    text: Jetzt ausprobieren
-    href: https://my.skribble.com/signup?lang=de
-  partner:
-    image: swisscom.png
-    alt_text:
-    text: Basierend auf der qualifizierten elektronischen Signatur QES der Swisscom
-
-# block components
-# the first 3 are displayed before the compliance component, the rest is displayed after it
-blocks:
-  - title: Dokumente als PDF hochladen
-    text: Lade das signierbereite PDF-Dokument direkt via Browser hoch oder nutze Skribble via API aus deiner Unternehmenssoftware heraus.
-    images:
-      mobile:
-        filename: image2
-        width: 416
-      desktop:
-        filename: image2@2x
-        width: 832
-    alt_text:
-  - title: Zum Signieren einladen
-    inverse: true
-    text: Lade die signierenden Personen per E-Mail ein und lege die Signatur-Reihenfolge fest.
-    images:
-      mobile:
-        filename: image3
-        width: 400
-      desktop:
-        filename: image3@2x
-        width: 800
-    alt_text:
-  - title: Rechtsgültig signieren
-    text: Ihr signiert rechtsgültig per Knopfdruck, unabhängig von Zeit und Ort mit einer qualifizierten elektronischen Signatur nach Schweizer und EU Recht (ZertES und eIDAS).
-    images:
-      mobile:
-        filename: image4
-        width: 391
-      desktop:
-        filename: image4@2x
-        width: 782
-    alt_text:
-  - title: Skribble arbeitet mit staatlich anerkannter Technologie von Swisscom
-    inverse: true
-    text: Ein wichtiger Bestandteil der elektronischen Signatur (QES) sind entsprechende digitale Zertifikate. Skribble bezieht diese von Swisscom, einer staatlich anerkannten Zertifizierungsstelle. Damit sind Signaturen, die über Skribble erstellt werden, der handschriftlichen Signatur nach Schweizer und EU Gesetz gleichgestellt.
-    images:
-      mobile:
-        filename: image5
-        width: 430
-      desktop:
-        filename: image5@2x
-        width: 860
-    alt_text:
-  - title: Skribble prüft deine Identität, damit du rechtssicher elektronisch signieren kannst
-    text: "Für die qualifizierte elektronische Signatur (QES) muss der Unterzeichnende seine Identität beweisen. Personen, die über eine geprüfte E-ID verfügen, können ohne zusätzliche Massnahmen direkt loslegen. Ansonsten bietet Skribble für jeden Geschäftskontext eine passende Identifikationsmöglichkeit an."
-    images:
-      mobile:
-        filename: image6
-        width: 410
-      desktop:
-        filename: image6@2x
-        width: 820
-    alt_text:
-
-# compliance component
-# contains the collapsibles
-compliance:
-  title: Skribble erfüllt die rechtlichen Bestimmungen
-  subtitle: Mit Skribble kannst du digital und rechtsgültig (QES) signieren - nach den folgenden Gesetzen.
-  items:
-    - title: Anforderungen an Schriftlichkeitserfordernis
-      text: die QES ist der handschriftlichen Unterschrift vor Schweizer (OR Art. 14 Abs. 2 bis) und EU Gesetz (eIDAS Nr. 910/2014 Art. 25 Abs. 2) gleichgestellt.
-    - title: Anforderungen an ZertES und eIDAS
-      text: Skribble bezieht die QES von der Swisscom, einer nach ZertES und eIDAS anerkannten Anbieterin von elektronischen Zertifikaten.
-    - title: Anforderungen an CH- und EU-Datenschutzverordnung
-      text: Skribble sowie Partner (Swisscom) verpflichten sich, Daten gemäss DSG und DSGVO zu verwalten.
-
-# Testimonial
-testimonial:
-  - title: Auch andere vertrauen Skribble
-    text: –--
-
-
-# pricing component
-pricing:
-  title: >
-    Die Signaturen lassen sich einzeln
-    oder als Flatrate beziehen
-  subtitle: Skribbles Angebotsstruktur passt sich deinen Bedürfnissen an und kann flexibel kombiniert werden.
-  plans:
-  - title: Einzelpreis pro Signatur
-    subtitle: Prepaid-Modell
-    description: Geeignet für einmaliges oder gelegentliches Signieren mit QES.
-    color: warning
-  - title: Pauschalpreis pro Person
-    subtitle: Flatrate-Modell
-    description: Geeignet für regelmässiges Signieren mit QES.
-    color: info
-
-# newsletter component
-# form will be generated with an external service
-newsletter:
-  title: >
-    Jetzt Skribble
-    unverbindlich ausprobieren!
-  subtitle: Keine Kreditkarte, Eintrittsgebühr oder Verpflichtung erforderlich.
-  image:
-    mobile:
-      filename: image8
-      width: 414
-    desktop:
-      filename: image8@2x
-      width: 828
-  alt_text:
-
-# outro component
-outro:
-  title: >
-    Jetzt Skribble
-    unverbindlich ausprobieren!
-  text: Keine Kreditkarte, Eintrittsgebühr oder Verpflichtung erforderlich.
-  image:
-    mobile:
-      filename_webp: image8.webp
-      filename_jpg: image8.jpg
-      width: 207
-    desktop:
-      filename_webp: image8@2x.webp
-      filename_jpg: image8@2x.jpg
-      width: 414
-  alt_text:
-  link:
-    text: Jetzt ausprobieren
-    href: "https://my.skribble.com/signup?lang=de"
 ---
+
+
+[//]: # (--------------------------------------------------------------------------------------------------------------)
+
+{{< intro >}}
+<div class="hide-for-mobile">
+  {{< picture image1 678 >}}
+</div>
+
+{{% content %}}
+# Rechtsgültig elektronisch signieren mit Skribble
+Signaturprozesse einfach digital abwickeln – rechtsgültig nach dem Schweizer & EU Gesetz.
+
+<div class="hide-for-desktop">
+  {{< picture image1 678 >}}
+</div>
+
+{{< button
+  "Jetzt ausprobieren"
+  "https://my.skribble.com/signup?lang=de"
+  "_blank"
+>}}
+
+{{< intro-partner
+  "swisscom.png"
+  "Basierend auf der qualifizierten elektronischen Signatur QES der Swisscom"
+>}}
+
+{{% /content %}}
+{{< /intro >}}
+
+[//]: # (--------------------------------------------------------------------------------------------------------------)
+
+{{< side-by-side >}}
+{{% content %}}
+## Dokumente als PDF hochladen
+Lade das signierbereite PDF-Dokument direkt via Browser hoch oder nutze Skribble via API aus deiner Unternehmenssoftware heraus.
+{{% /content %}}
+
+{{< picture image2 416 >}}
+{{< /side-by-side >}}
+
+[//]: # (--------------------------------------------------------------------------------------------------------------)
+
+{{< side-by-side >}}
+{{< picture image3 400 >}}
+
+{{% content %}}
+## Zum Signieren einladen
+Lade die signierenden Personen per E-Mail ein und lege die Signatur-Reihenfolge fest.
+{{% /content %}}
+{{< /side-by-side >}}
+
+[//]: # (--------------------------------------------------------------------------------------------------------------)
+
+{{< side-by-side >}}
+{{% content %}}
+## Rechtsgültig signieren
+Ihr signiert rechtsgültig per Knopfdruck, unabhängig von Zeit und Ort mit einer qualifizierten elektronischen Signatur nach Schweizer und EU Recht (ZertES und eIDAS).
+{{% /content %}}
+
+{{< picture image4 391 >}}
+{{< /side-by-side >}}
+
+[//]: # (--------------------------------------------------------------------------------------------------------------)
+
+{{% center-block %}}
+{{% content %}}
+# Skribble erfüllt die rechtlichen Bestimmungen
+Mit Skribble kannst du digital und rechtsgültig (QES) signieren - nach den folgenden Gesetzen.
+{{% /content %}}
+
+{{< column >}}
+{{% collapsible 1 "Anforderungen an Schriftlichkeitserfordernis" %}}
+die QES ist der handschriftlichen Unterschrift vor Schweizer (OR Art. 14 Abs. 2 bis) und EU Gesetz (eIDAS Nr. 910`/`2014 Art. 25 Abs. 2) gleichgestellt.
+{{% /collapsible %}}
+
+{{% collapsible 2 "Anforderungen an ZertES und eIDAS" %}}
+Skribble bezieht die QES von der Swisscom, einer nach ZertES und eIDAS anerkannten Anbieterin von elektronischen Zertifikaten.
+{{% /collapsible %}}
+
+{{% collapsible 3 "Anforderungen an CH- und EU-Datenschutzverordnung" %}}
+Skribble sowie Partner (Swisscom) verpflichten sich, Daten gemäss DSG und DSGVO zu verwalten.
+{{% /collapsible %}}
+{{< /column >}}
+{{% /center-block %}}
+
+[//]: # (--------------------------------------------------------------------------------------------------------------)
+
+{{< side-by-side >}}
+{{< picture image5 430 >}}
+
+{{% content %}}
+## Skribble arbeitet mit staatlich anerkannter Technologie von Swisscom
+Ein wichtiger Bestandteil der elektronischen Signatur (QES) sind entsprechende digitale Zertifikate. Skribble bezieht diese von Swisscom, einer staatlich anerkannten Zertifizierungsstelle. Damit sind Signaturen, die über Skribble erstellt werden, der handschriftlichen Signatur nach Schweizer und EU Gesetz gleichgestellt.
+{{% /content %}}
+{{< /side-by-side >}}
+
+[//]: # (--------------------------------------------------------------------------------------------------------------)
+
+{{< side-by-side >}}
+{{% content %}}
+## Skribble prüft deine Identität, damit du rechtssicher elektronisch signieren kannst
+Für die qualifizierte elektronische Signatur (QES) muss der Unterzeichnende seine Identität beweisen. Personen, die über eine geprüfte E-ID verfügen, können ohne zusätzliche Massnahmen direkt loslegen. Ansonsten bietet Skribble für jeden Geschäftskontext eine passende Identifikationsmöglichkeit an.
+{{% /content %}}
+
+{{< picture image6 410 >}}
+{{< /side-by-side >}}
+
+[//]: # (--------------------------------------------------------------------------------------------------------------)
+
+{{% center-block %}}
+{{% content %}}
+# Die Signaturen lassen sich einzeln oder als Flatrate beziehen
+Skribbles Angebotsstruktur passt sich deinen Bedürfnissen an und kann flexibel kombiniert werden.
+{{% /content %}}
+
+{{< row >}}
+{{% plan gold "Prepaid-Modell" "Einzelpreis pro Signatur" %}}
+Geeignet für einmaliges oder gelegentliches Signieren mit QES.
+{{% /plan %}}
+{{% plan purple "Flatrate-Modell" "Pauschalpreis pro Person" %}}
+Geeignet für regelmässiges Signieren mit QES.
+{{% /plan %}}
+{{< /row >}}
+{{% /center-block %}}
+
+[//]: # (--------------------------------------------------------------------------------------------------------------)
+
+{{< outro >}}
+{{< picture image8 414 >}}
+
+{{% content %}}
+## Jetzt Skribble unverbindlich ausprobieren!
+Keine Kreditkarte, Eintrittsgebühr oder Verpflichtung erforderlich.
+
+{{< button
+  "Jetzt ausprobieren"
+  "https://my.skribble.com/signup?lang=de"
+  "_blank"
+>}}
+{{% /content %}}
+{{< /outro >}}

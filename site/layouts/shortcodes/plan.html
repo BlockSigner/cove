@@ -1,0 +1,8 @@
+<div class="plan">
+  <div class="plan-inner {{ cond (eq (.Get 0) "gold") "plan--gold" "" }} {{ cond (eq (.Get 0) "purple") "plan--platinum" "" }}">
+    <div class="plan__subtitle">{{.Get 1}}</div>
+    <div class="plan__title">{{.Get 2}}</div>
+    <div class="plan__description">{{.Inner}}</div>
+  </div>
+</div>
+

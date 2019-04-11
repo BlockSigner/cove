@@ -6,9 +6,10 @@ type: narrow
 description: Privacy policy meta description
 ---
 
+{{% richtext %}}
 # Datenschutzbestimmungen
 
-<small>Datum des Inkrafttretens: October 11, 2018</small>
+<small>Datum des Inkrafttretens: 11. Oktober 2018</small>
 
 <p class="lead">BlockSigner AG ("wir", "uns", "unser" usw.) betreibt die Website <a href="https://www.skribble.com" target="_blank">www.skribble.com</a> (nachstehend als "Dienst" bezeichnet).</p>
 
@@ -219,3 +220,4 @@ Wir empfehlen Ihnen, diese Datenschutz-Richtlinie regelmäßig auf Änderungen h
 Falls Sie Fragen zu dieser Datenschutz-Richtlinie haben, können Sie wie folgt Kontakt zu uns aufnehmen:
 -	Per E-Mail: <a href="mailto:info@skribble.com">info@skribble.com</a>
 -	Durch Besuch der folgenden Seite unserer Website: <a href="https://www.skribble.com" target="_blank">www.skribble.com</a>"
+{{% /richtext %}}

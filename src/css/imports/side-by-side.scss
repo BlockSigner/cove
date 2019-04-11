@@ -1,4 +1,4 @@
-.outro {
+.side-by-side {
   @include site-width($narrow: true);
   @include vertical-unit-margins;
   display: flex;
@@ -8,19 +8,19 @@
   }
 
   .content {
-    text-align: center;
     @include min-width {
       flex: 1 1 100%;
       padding: 0 40px;
     }
+    @include max-width {
+      order: -1;
+    }
   }
 
   .picture {
-    max-width: 414px;
     @include min-width {
       flex: 1 1 100%;
       padding: 0 40px;
     }
   }
 }
-

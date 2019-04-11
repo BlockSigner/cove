@@ -1,16 +1,17 @@
-.compliance {
+.center-block {
   @include site-width;
   @include vertical-unit-margins;
   @include add-richtext-styling;
   width: 750px;
   text-align: center;
 
-  .collapsible {
+  .content {
+    text-align: center;
+  }
+
+  .row,
+  .column {
     margin-top: 80px;
     text-align: left;
-
-    + .collapsible {
-      margin-top: 0;
-    }
   }
 }

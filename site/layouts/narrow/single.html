@@ -7,11 +7,7 @@
       <p>{{ .Params.title_subtitle.subtitle }}</p>
     </div>
   {{ end}}
-  <div class="richtext">{{- .Content -}}</div>
+  {{- .Content -}}
 </main>
-
-{{ if .Params.outro }}
-  {{ partial "outro" .Params.outro }}
-{{ end }}
 
 {{ end }}

@@ -1,0 +1,19 @@
+<div class="picture">
+  <picture>
+    {{ $width_x2 := mul (int (.Get 1)) 2 }}
+    <source
+      type="image/webp"
+      srcset="image/{{.Get 0}}-{{.Get 1}}w.webp {{.Get 1}}w, image/{{.Get 0}}-{{$width_x2}}w.webp {{$width_x2}}w"
+      sizes="(max-width: 767px) 100vw, 620px"
+    />
+    <source
+      type="image/jpeg"
+      srcset="image/{{.Get 0}}-{{.Get 1}}w.jpg {{.Get 1}}w, image/{{.Get 0}}-{{$width_x2}}w.jpg {{$width_x2}}w"
+      sizes="(max-width: 767px) 100vw, 620px"
+    />
+    <img
+      src="image/{{.Get 0}}"
+      alt="{{.Get `alt`}}"
+    />
+  </picture>
+</div>

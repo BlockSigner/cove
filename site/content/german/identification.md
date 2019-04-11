@@ -113,23 +113,19 @@ id_steps:
         filename: identification-step-4
         natural_width: 270
 
-# outro component
-outro:
-  title: >
-    Jetzt Skribble
-    unverbindlich ausprobieren!
-  text: Keine Kreditkarte, Eintrittsgebühr oder Verpflichtung erforderlich.
-  image:
-    mobile:
-      filename_webp: image8.webp
-      filename_jpg: image8.jpg
-      width: 207
-    desktop:
-      filename_webp: image8@2x.webp
-      filename_jpg: image8@2x.jpg
-      width: 414
-  alt_text:
-  link:
-    text: Jetzt ausprobieren
-    href: "https://my.skribble.com/signup?lang=de"
 ---
+
+{{< outro >}}
+{{< picture image8 414 >}}
+
+{{% content %}}
+## Jetzt Skribble unverbindlich ausprobieren!
+Keine Kreditkarte, Eintrittsgebühr oder Verpflichtung erforderlich.
+
+{{< button
+  "Jetzt ausprobieren"
+  "https://my.skribble.com/signup?lang=de"
+  "_blank"
+>}}
+{{% /content %}}
+{{< /outro >}}

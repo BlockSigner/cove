@@ -1,0 +1,9 @@
+.content {
+  @include add-richtext-styling;
+  max-width: 100%;
+  text-align: left;
+  @include max-width {
+    margin-top: 10px;
+    margin-bottom: 20px;
+  }
+}

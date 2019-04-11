@@ -8,9 +8,12 @@
 
 @import 'imports/btn';
 
+@import 'imports/center-block';
 @import 'imports/collapsible';
+@import 'imports/column';
 @import 'imports/compliance';
 @import 'imports/contact';
+@import 'imports/content';
 @import 'imports/block';
 @import 'imports/error';
 @import 'imports/footer';
@@ -24,9 +27,11 @@
 @import 'imports/newsletter';
 @import 'imports/outro';
 @import 'imports/person';
-@import 'imports/price-plan';
+@import 'imports/plan';
 @import 'imports/pricing';
 @import 'imports/richtext';
+@import 'imports/row';
+@import 'imports/side-by-side';
 @import 'imports/title-subtitle';
 
 @import 'imports/hs-cookie-consent';
@@ -66,9 +71,16 @@ img {
   flex: 1 1 100%;
   max-width: 100vw;
   position: relative;
-  padding: 90px 40px;
+  padding: 90px 0;
   @include max-width {
     padding: 65px 0;
+  }
+
+  &--default {
+    @include site-width;
+    width: 800px;
+    max-width: 100%;
+    margin: 0 auto;
   }
 
   &--narrow,

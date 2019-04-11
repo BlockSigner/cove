@@ -113,24 +113,19 @@ groups:
           regular_landscape: team/eric-kuenzi-l
           retina_landscape: team/eric-kuenzi-l@2x
 
-
-# outro component
-outro:
-  title: >
-    Try Skribble now,
-    no strings attached!
-  text: No credit card, entrance fee nor commitment required.
-  image:
-    mobile:
-      filename_webp: image8.webp
-      filename_jpg: image8.jpg
-      width: 207
-    desktop:
-      filename_webp: image8@2x.webp
-      filename_jpg: image8@2x.jpg
-      width: 414
-  alt_text:
-  link:
-    text: Try it now
-    href: "https://my.skribble.com/signup?lang=en"
 ---
+
+{{< outro >}}
+{{< picture image8 414 >}}
+
+{{% content %}}
+## Try Skribble now without obligation!
+No credit card, entrance fee or commitment required.
+
+{{< button
+  "Try it now"
+  "https://my.skribble.com/signup?lang=en"
+  "_blank"
+>}}
+{{% /content %}}
+{{< /outro >}}

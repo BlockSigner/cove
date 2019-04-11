@@ -1,25 +1,7 @@
 {{ define "main" }}
 
 <main class="main">
-
-  {{ partial "intro" .Params.intro }}
-
-  <!-- output the first 3 blocks -->
-  {{ range first 3 .Params.blocks }}
-    {{ partial "block" . }}
-  {{ end }}
-
-  {{ partial "compliance" .Params.compliance }}
-
-  <!-- output the remaining blocks -->
-  {{ range after 3 .Params.blocks }}
-    {{ partial "block" . }}
-  {{ end }}
-
-  {{ partial "pricing" .Params.pricing }}
-
-  {{ partial "outro" .Params.outro }}
-
+  {{ .Content }}
 </main>
 
 {{ end }}

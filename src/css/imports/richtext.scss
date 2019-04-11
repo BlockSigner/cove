@@ -1,5 +1,5 @@
 .richtext {
-  a {
+  a:not(.btn) {
     color: var(--c-text);
     transition: color .36s cubic-bezier(0.4, 0.0, 0.2, 1);
     &:hover {

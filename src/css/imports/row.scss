@@ -1,0 +1,14 @@
+.row {
+  display: flex;
+  @include max-width {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .plan {
+    @include min-width {
+      margin: 16px;
+      align-self: stretch;
+    }
+  }
+}

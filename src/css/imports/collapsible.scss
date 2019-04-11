@@ -1,14 +1,15 @@
 .collapsible {
   position: relative;
   z-index: 1;
+  border-top: 1px solid #D8D8D8;
   border-bottom: 1px solid #D8D8D8;
 
   input {
     display: none;
   }
 
-  &s{
-    border-top: 1px solid #D8D8D8;
+  + .collapsible {
+    border-top: 0;
   }
 
   &__label {
@@ -90,6 +91,10 @@
       bottom: -1px;
       border-radius: 3px;
       content: '';
+    }
+
+    p {
+      margin: 0;
     }
   }
 }

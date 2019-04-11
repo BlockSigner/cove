@@ -6,6 +6,7 @@ type: narrow
 description: Nutzungsbedingungen meta description
 ---
 
+{{% richtext %}}
 # Nutzungsbedingungen von BlockSigner AG
 (Version 2018.10.18)
 
@@ -62,3 +63,4 @@ einzuhalten:
         der betreffende Systemnutzer Skribble missbraucht hat, um strafrechtlich oder rechtsverletzende
         Informationen zu verbreiten.</li>
 </ol>
+{{% /richtext %}}
