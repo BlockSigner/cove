@@ -122,17 +122,17 @@
   // as soon as DOM is ready
   window.addEventListener('DOMContentLoaded', function(e) {
     // redirect to setLanguage if not already there
-    var activeLangEl = document.querySelector("#lang-switcher .active");
+    var activeLangEl = document.querySelector(".js-lang-switcher .active");
     if (Skribble.coveLang !== activeLangEl.dataset.lang) {
       // remember language
       Cookies.set("cove-lang", Skribble.coveLang, { expires: 365 });
       var newLocation = document.querySelector(
-        `#lang-switcher [data-lang="${Skribble.coveLang}"]`
+        `.js-lang-switcher [data-lang="${Skribble.coveLang}"]`
       );
       window.location.replace(newLocation.href);
     }
     // handle click events on lang-switcher
-    document.querySelectorAll("#lang-switcher a").forEach(function (el) {
+    document.querySelectorAll(".js-lang-switcher a").forEach(function (el) {
       el.onclick = langClicked;
     });
   })

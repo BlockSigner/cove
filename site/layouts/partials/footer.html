@@ -47,7 +47,7 @@
       <div class="footer__left">
         {{ if ne "404" .Page.Kind  }}
           <nav>
-            <ul id="lang-switcher" class="lan-nav">
+            <ul class="js-lang-switcher lan-nav">
               {{ range .Site.Languages }}
                 {{ if eq . $.Site.Language }}
                   <li><a href="#" class="active language" data-lang="{{ .Lang }}">{{ .LanguageName }}</a></li>

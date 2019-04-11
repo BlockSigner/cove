@@ -42,13 +42,13 @@
       </ul>
     </nav>
     <nav class="mobile-nav__secondary">
-      <ul class="mobile-nav__lan-nav">
+      <ul class="mobile-nav__lan-nav js-lang-switcher">
         {{ range .Site.Languages }}
           {{ if eq . $.Site.Language }}
-            <li><a href="#" class="active language">{{ .LanguageName }}</a></li>
+            <li><a href="#" class="active language" data-lang="{{ .Lang }}">{{ .LanguageName }}</a></li>
           {{ else }}
             {{ range $.Translations }}
-            <li><a href="{{ .Permalink }}" class="">{{ .Language.LanguageName }}</a></li>
+            <li><a href="{{ .Permalink }}" data-lang="{{ .Lang }}">{{ .Language.LanguageName }}</a></li>
             {{ end }}
           {{ end }}
         {{ end }}
