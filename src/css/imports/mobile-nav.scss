@@ -15,15 +15,19 @@
     text-decoration: none;
   }
 
-  &__logo {
+  &__login {
     display: flex;
     align-items: center;
     margin-right: 10px;
+    font-size: 1.6rem;
     font-weight: bold;
-    color: var(--c-text-alt);
-    font-size: 2.4rem;
+    color: var(--c-text);
     opacity: 0;
-    transition: all .15s cubic-bezier(.4,0,.2,1)
+    transition: all .15s cubic-bezier(.4,0,.2,1);
+
+    &:hover {
+      color: var(--c-primary);
+    }
   }
 
   &__input {
@@ -36,7 +40,7 @@
       opacity: 1;
       transition: all .26s cubic-bezier(0,.0,.2,1);
 
-      .mobile-nav__logo {
+      .mobile-nav__login {
         opacity: 1;
         transition: all .26s .26s cubic-bezier(.4,0,.2,1)
       }

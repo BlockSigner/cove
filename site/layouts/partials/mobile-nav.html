@@ -12,9 +12,19 @@
         </g>
       </svg>
     </label>
-    <a href="{{ .Site.Home.RelPermalink }}" class="mobile-nav__logo">
-      <img src="/logo-skribble.svg" alt="">
-      Skribble
+    <a href="{{ $.Site.Params.header.login.href }}" class="mobile-nav__login">
+      <svg
+        xmlns="http://www.w3.org/2000/svg"
+        height="24px"
+        width="24px"
+        view-box="0 0 24 24"
+        fill="currentColor"
+        role="presentation"
+        class="icon"
+      >
+        <path d="M12,11.88a2.48,2.48,0,0,0-.92,4.79v.72a.92.92,0,1,0,1.83,0v-.72A2.47,2.47,0,0,0,12,11.88ZM12,15a.66.66,0,1,1,0-1.31A.66.66,0,1,1,12,15Zm4.73-5.35V6.23A4.57,4.57,0,0,0,12,1.74,4.57,4.57,0,0,0,7.27,6.23V9.67a6.91,6.91,0,1,0,9.46,0ZM9.1,6.23A2.76,2.76,0,0,1,12,3.57a2.76,2.76,0,0,1,2.9,2.66V8.44a6.79,6.79,0,0,0-5.8,0ZM12,19.74a5.06,5.06,0,1,1,5.08-5.06A5.09,5.09,0,0,1,12,19.74Z" />
+      </svg>
+      {{ $.Site.Params.header.login.label }}
     </a>
   </div>
   <div class="mobile-nav__body">
