@@ -31,7 +31,7 @@ languages:
           url: /kontakt/
           weight: 20
       footer3:
-        - name: Wissensdatenbank
+        - name: Help-Center
           url: https://help.skribble.com/deutsch
           weight: 5
       footer4:
@@ -85,7 +85,7 @@ languages:
           url: /contact/
           weight: 20
       footer3:
-        - name: Knowledge Base
+        - name: Help-Center
           url: https://help.skribble.com/english
           weight: 5
       footer4:
