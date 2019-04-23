@@ -10,7 +10,7 @@ map:
   title: Skribble Office
   subtitle: Right on Bahnhofstrasse, in the heart of Zurich
   columns:
-    - title: Firm
+    - title: Company
       text: BlockSigner AG
     - title: Address
       text: |

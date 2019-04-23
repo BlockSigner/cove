@@ -9,7 +9,7 @@ type: narrow
 {{% richtext %}}
 # Imprint
 
-## Firm
+## Company
 BlockSigner AG
 
 ## Address
