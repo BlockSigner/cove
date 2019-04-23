@@ -21,7 +21,7 @@ Use `yarn start` to develop locally.
 Use `yarn build` to build locally.
 
 ### Using GitHub Desktop
-Download the GitHub desktop app to easily track changes in the repository: https://desktop.github.com/. Before working on the content files, make sure to checkout the current version of master. Just follow the steps below:
+Download the GitHub desktop app to easily track changes in the repository: https://desktop.github.com/. Before working on the content files, make sure to checkout the current version of master. Follow the steps below:
 
 - fetch origin
 - create a new branch and prefix with your name. I (David) create a branch _david-instructions_.
