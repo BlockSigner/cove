@@ -7,8 +7,8 @@ languages:
     contentDir: content/german
     menu:
       main:
-        - name: Über uns
-          url: /de/ueber-uns/
+        - name: Angebot
+          url: /angebot/
           weight: 5
         - name: Identifikation
           url: /de/identifikation/
@@ -27,9 +27,9 @@ languages:
         - name: Team
           url: /de/team/
           weight: 10
-        - name: Kontakt
-          url: /de/kontakt/
-          weight: 20
+        - name: Medien
+          url: /medien/
+          weight: 15
       footer3:
         - name: Help-Center
           url: https://help.skribble.com/deutsch
@@ -64,9 +64,9 @@ languages:
     contentDir: content/english
     menu:
       main:
-        - name: About
-          url: /about/
-          weight: 5
+        - name: Offering
+          url: /offering/
+          weight: 10
         - name: Identification
           url: /identification/
           weight: 15
@@ -84,9 +84,9 @@ languages:
         - name: Team
           url: /team/
           weight: 10
-        - name: Contact
-          url: /contact/
-          weight: 20
+        - name: Media
+          url: /media/
+          weight: 15
       footer3:
         - name: Help-Center
           url: https://help.skribble.com/english
