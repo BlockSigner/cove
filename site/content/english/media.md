@@ -37,26 +37,21 @@ are right here at hand:
 
 {{< button
   "Download"
-  "downloads/SkribbleBrandAssets.zip"
+  "downloads/Skribble-Brand-Assets.zip"
 >}}
 
 ## Media releases
 <table>
 <tbody>
 <tr>
-<td>25.04.2019</td>
-<td>Media release 1</td>
-<td><a href="#">Download</a></td>
+<td>27.03.2019</td>
+<td>Skribble Go-Live</td>
+<td><a href="downloads/20190327-medienmitteilung-skribble-go-live.pdf" target="_blank">Download</a></td>
 </tr>
 <tr>
-<td>25.04.2019</td>
-<td>Media release 2</td>
-<td><a href="#">Download</a></td>
-</tr>
-<tr>
-<td>25.04.2019</td>
-<td>Media release 3</td>
-<td><a href="#">Download</a></td>
+<td>09.04.2019</td>
+<td>Procivis / Skribble collaboration</td>
+<td><a href="downloads/20190409-press-release-procivis-skribble-collaboration.pdf" target="_blank">Download</a></td>
 </tr>
 </tbody>
 </table>

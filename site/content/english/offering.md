@@ -33,7 +33,7 @@ We have a volume-based pricing model: the more signatures you purchase in a prep
 
 {{< button
   "Get offer now"
-  "#"
+  "mailto:info@skribble.com"
   "_blank"
 >}}
 
@@ -61,8 +61,7 @@ Suitable if you use QES in a predefined circle of people.
 
 {{< button
   "More information about identification"
-  "#"
-  "_blank"
+  "identification"
 >}}
 
 {{% /center-block %}}

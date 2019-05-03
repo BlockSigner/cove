@@ -38,26 +38,21 @@ sind gleich hier griffbereit:
 
 {{< button
   "Download"
-  "downloads/SkribbleBrandAssets.zip"
+  "downloads/Skribble-Brand-Assets.zip"
 >}}
 
 ## Medienmitteilungen
 <table>
 <tbody>
 <tr>
-<td>25.04.2019</td>
-<td>Media release 1</td>
-<td><a href="#">Download</a></td>
+<td>27.03.2019</td>
+<td>Skribble Go-Live</td>
+<td><a href="downloads/20190327-medienmitteilung-skribble-go-live.pdf" target="_blank">Download</a></td>
 </tr>
 <tr>
-<td>25.04.2019</td>
-<td>Media release 2</td>
-<td><a href="#">Download</a></td>
-</tr>
-<tr>
-<td>25.04.2019</td>
-<td>Media release 3</td>
-<td><a href="#">Download</a></td>
+<td>09.04.2019</td>
+<td>Procivis- / Skribble-Partnerschaft</td>
+<td><a href="downloads/20190409-medienmitteilung-procivis-skribble-partnerschaft.pdf" target="_blank">Download</a></td>
 </tr>
 </tbody>
 </table>

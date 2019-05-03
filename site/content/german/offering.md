@@ -33,7 +33,7 @@ Wir haben ein volumenbasiertes Preismodell: Je mehr Signaturen du in einem Prepa
 
 {{< button
   "Jetzt Offerte anfordern"
-  "#"
+  "mailto:info@skribble.com"
   "_blank"
 >}}
 
@@ -61,8 +61,8 @@ Passend, wenn du die QES in einem vordefinierten Personenkreis einsetzt.
 ## Die Identitätsprüfung erfolgt einmalig im persönlichen Kontakt  mit der ID-App von Swisscom. 
 
 {{< button
-  "Weitere Infos"
-  "#"
+  "Weitere Infos zur Identifikation"
+  "identification"
   "_blank"
 >}}
 
