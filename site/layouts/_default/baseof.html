@@ -26,6 +26,7 @@
 
   <!-- open graph and twitter -->
   <meta property="og:title" content="{{ .Title }}">
+
   <meta property="og:description" content="{{ .Description }}">
   <meta property="og:url" content="https://www.skribble.com/">
   <meta property="og:site_name" content="Skribble">
@@ -57,13 +58,7 @@
   <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NF4Q7PS"
       height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
-  {{ block "header" . }}{{ partial "header" . }}{{end}}
-
-  <div class="wrapper">
-    {{ block "main" . }}{{end}}
-
-    {{ block "footer" . }}{{ partial "footer" . }}{{end}}
-  </div>
+  {{ block "main" . }}{{end}}
 
   {{ partial "mobile-nav" . }}
 

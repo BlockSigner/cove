@@ -1,22 +1,25 @@
 {{ define "main" }}
-<main class="main main--team">
+{{ block "header" . }}{{ partial "header" . }}{{end}}
 
-  {{ range .Params.groups }}
-    <div class="title-subtitle align-center">
-      <h1>{{ .title }}</h1>
-      <p>{{ .text }}</p>
-    </div>
-    <div class="people">
-      {{ range .people }}
-        {{ partial "person" . }}
-      {{ end }}
-    </div>
-  {{ end }}
+<div class="wrapper">
+  <main class="main main--team">
 
-  {{ .Content }}
+    {{ range .Params.groups }}
+      <div class="title-subtitle align-center">
+        <h1>{{ .title }}</h1>
+        <p>{{ .text }}</p>
+      </div>
+      <div class="people">
+        {{ range .people }}
+          {{ partial "person" . }}
+        {{ end }}
+      </div>
+    {{ end }}
 
-</main>
+    {{ .Content }}
+
+  </main>
+  {{ block "footer" . }}{{ partial "footer" . }}{{end}}
+</div>
+
 {{ end }}
-
-
-

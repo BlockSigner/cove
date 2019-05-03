@@ -9,6 +9,12 @@
     text-align: center;
   }
 
+  .picture {
+    display: flex;
+    justify-content: center;
+    margin: 22px 0;
+  }
+
   .row,
   .column {
     margin-top: 80px;

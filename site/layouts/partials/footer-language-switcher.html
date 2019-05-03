@@ -1,0 +1,37 @@
+<div class="footer">
+  <div class="footer__container footer__container--stripe">
+    <div class="footer__left">
+      {{ if ne "404" .Page.Kind  }}
+        <nav>
+          <ul class="js-lang-switcher lan-nav">
+            {{ $siteLanguages := .Site.Languages}}
+            {{ $pageLang := .Page.Lang}}
+            {{ range .Page.AllTranslations }}
+                {{ $translation := . }}
+                {{ range $siteLanguages }}
+                    {{ if eq $translation.Lang .Lang }}
+                      {{ if eq $pageLang .Lang}}
+                        <li><a href="{{ $translation.URL }}" class="active language" data-lang="{{.Lang}}">{{ .LanguageName }}</a></li>
+                      {{ else }}
+                        <li><a href="{{ $translation.URL }}" data-lang="{{.Lang}}">{{ .LanguageName }}</a></li>
+                      {{ end }}
+                    {{ end }}
+                {{ end }}
+            {{ end }}
+          </ul>
+        </nav>
+      {{ end }}
+    </div>
+    <div class="footer__right">
+      <nav>
+        <ul class="footer__legal">
+          {{ $currentPage := . }}
+          {{ range .Site.Menus.footer4 }}
+            <li><a class="footer__legal-item {{ if eq (string .URL) $currentPage.RelPermalink }}active{{ end }}" href="{{ .URL }}">{{ .Name }}</a></li>
+          {{ end }}
+          <li class="footer__legal-item">© 2019 Skribble</li>
+        </ul>
+      </nav>
+    </div>
+  </div>
+</div>

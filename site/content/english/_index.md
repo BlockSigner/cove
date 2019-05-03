@@ -143,7 +143,7 @@ Suitable for single or occasional signing with QES
 {{< picture image8 414 >}}
 
 {{% content %}}
-## Try Skribble now without obligation!
+# Try Skribble now without obligation!
 No credit card, entrance fee or commitment required.
 
 {{< button

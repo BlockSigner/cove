@@ -6,4 +6,25 @@
     margin-top: 10px;
     margin-bottom: 20px;
   }
+
+  a:not(.btn) {
+    color: var(--c-text);
+    text-decoration: none;
+    &:hover {
+      color: var(--c-primary);
+    }
+  }
+
+  h2 {
+    margin: 3rem 0 1rem;
+    font: bold 2.4rem/1.35 var(--averta);
+    color: var(--c-text-alt);
+    @include max-width {
+      font-size: 2rem;
+    }
+  }
+
+  strong {
+    color: var(--c-text-alt);
+  }
 }

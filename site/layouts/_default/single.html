@@ -1,7 +1,13 @@
 
 {{ define "main" }} {{ $section := .Site.GetPage "section" .Section }}
+{{ block "header" . }}{{ partial "header" . }}{{end}}
+
 <!-- default page layout -->
-<main class="main main--default">
-  {{- .Content -}}
-</main>
+<div class="wrapper">
+  <main class="main main--default">
+    {{- .Content -}}
+  </main>
+  {{ block "footer" . }}{{ partial "footer" . }}{{end}}
+</div>
 {{ end }}
+

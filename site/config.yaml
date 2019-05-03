@@ -8,27 +8,27 @@ languages:
     menu:
       main:
         - name: Über uns
-          url: /ueber-uns/
+          url: /de/ueber-uns/
           weight: 5
         - name: Identifikation
-          url: /identifikation/
+          url: /de/identifikation/
           weight: 15
         - name: Kontakt
-          url: /kontakt/
+          url: /de/kontakt/
           weight: 20
       footer1:
         - name: Identifikation
-          url: /identifikation/
+          url: /de/identifikation/
           weight: 15
       footer2:
         - name: Über uns
-          url: /ueber-uns/
+          url: /de/ueber-uns/
           weight: 5
         - name: Team
-          url: /team/
+          url: /de/team/
           weight: 10
         - name: Kontakt
-          url: /kontakt/
+          url: /de/kontakt/
           weight: 20
       footer3:
         - name: Help-Center
@@ -48,6 +48,9 @@ languages:
       tryItOut:
         label: Jetzt ausprobieren
         href: https://my.skribble.com/signup?lang=de
+      makeAnAppointment:
+        label: Jetzt Termin vereinbaren
+        href: https://www.skribble.info/meetings/simon79/learn-about-skribbles-identification-means
     footer:
       navigation:
         titleColumn1: Plattform
@@ -102,6 +105,9 @@ languages:
       tryItOut:
         label: Try it out
         href: https://my.skribble.com/signup
+      makeAnAppointment:
+        label: Jetzt Termin vereinbaren
+        href: https://www.skribble.info/meetings/simon79/learn-about-skribbles-identification-means
     footer:
       navigation:
         titleColumn1: Platform
@@ -109,3 +115,60 @@ languages:
         titleColumn3: Resources
       newsletterTitle: Newsletter
       newsletterText: Electronic signatures and digital trust are hot topics. Stay up to date! See our <a href="/privacy">privacy policy</a>.
+  fr:
+    languageName: Français
+    weight: 3
+    contentDir: content/french
+    menu:
+      main:
+        - name: Über uns
+          url: /de/ueber-uns/
+          weight: 5
+        - name: Identifikation
+          url: /de/identifikation/
+          weight: 15
+        - name: Kontakt
+          url: /de/kontakt/
+          weight: 20
+      footer1:
+        - name: Identifikation
+          url: /de/identifikation/
+          weight: 15
+      footer2:
+        - name: Über uns
+          url: /de/ueber-uns/
+          weight: 5
+        - name: Team
+          url: /de/team/
+          weight: 10
+        - name: Kontakt
+          url: /de/kontakt/
+          weight: 20
+      footer3:
+        - name: Help-Center
+          url: https://help.skribble.com/deutsch
+          weight: 5
+      footer4:
+        - name: Datenschutzbestimmungen
+          url: /de/datenschutz
+          weight: 10
+        - name: Impressum
+          url: /de/impressum
+          weight: 15
+    header:
+      login:
+        label: Login
+        href: https://my.skribble.com/login?lang=de
+      tryItOut:
+        label: Jetzt ausprobieren
+        href: https://my.skribble.com/signup?lang=de
+      makeAnAppointment:
+        label: Fixer un rendez-vous
+        href: https://www.skribble.info/meetings/simon79/learn-about-skribbles-identification-means
+    footer:
+      navigation:
+        titleColumn1: Plattform
+        titleColumn2: Über uns
+        titleColumn3: Ressourcen
+      newsletterTitle: Newsletter
+      newsletterText: Elektronische Signaturen und digitales Vertrauen sind brandaktuelle Themen. Bleibe auf dem Laufenden! Siehe unsere <a href="/datenschutz">Datenschutzerklärugen</a>.

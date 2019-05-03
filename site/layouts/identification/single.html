@@ -1,17 +1,20 @@
 {{ define "main" }}
+{{ block "header" . }}{{ partial "header" . }}{{end}}
+<div class="wrapper">
+  <main class="main main--identification">
 
-<main class="main main--identification">
+    {{ range first 3 .Params.id_blocks }}
+      {{  partial "id-block" . }}
+    {{ end }}
 
-  {{ range first 3 .Params.id_blocks }}
-    {{  partial "id-block" . }}
-  {{ end }}
+    {{ partial "id-steps" . }}
 
-  {{ partial "id-steps" . }}
+    {{ range after 3 .Params.id_blocks }}
+      {{ partial "id-block" . }}
+    {{ end }}
 
-  {{ range after 3 .Params.id_blocks }}
-    {{ partial "id-block" . }}
-  {{ end }}
-
-  {{ .Content }}
-</main>
+    {{ .Content }}
+  </main>
+  {{ block "footer" . }}{{ partial "footer" . }}{{end}}
+</div>
 {{ end }}

@@ -1,9 +1,13 @@
 {{ define "main" }}
+{{ block "header" . }}{{ partial "header" . }}{{end}}
 
-<main class="main">
-  {{ .Content }}
-</main>
+<div class="wrapper">
+  <main class="main">
+    {{ .Content }}
+  </main>
 
+  {{ block "footer" . }}{{ partial "footer" . }}{{end}}
+</div>
 {{ end }}
 
 

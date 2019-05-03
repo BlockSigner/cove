@@ -39,7 +39,7 @@ Der Aufbau von Vertrauen in digitalen Geschäftsbeziehungen soll so einfach und 
 {{< picture image8 414 >}}
 
 {{% content %}}
-## Jetzt Skribble unverbindlich ausprobieren!
+# Jetzt Skribble unverbindlich ausprobieren!
 Keine Kreditkarte, Eintrittsgebühr oder Verpflichtung erforderlich.
 
 {{< button

@@ -16,6 +16,7 @@
 @import 'imports/content';
 @import 'imports/block';
 @import 'imports/error';
+@import 'imports/fancy-list';
 @import 'imports/footer';
 @import 'imports/header';
 @import 'imports/id-block';
@@ -63,7 +64,7 @@ img {
   display: flex;
   flex-direction: column;
   align-items: center;
-  width: 100%;
+  // width: 100%;
   min-height: 100vh;
 }
 
@@ -107,11 +108,28 @@ img {
 
 .hide-for-mobile {
   @include max-width {
-    display: none;
+    display: none !important;
   }
 }
 .hide-for-desktop {
   @include min-width {
     display: none;
+  }
+}
+
+.mobile-link {
+  display: flex;
+  align-items: center;
+  font-weight: normal;
+  svg {
+    width: 23px;
+    height: 23px;
+    margin: 0 10px;
+    fill: var(--c-text);
+  }
+  &:hover {
+    svg {
+      fill: var(--c-primary);
+    }
   }
 }

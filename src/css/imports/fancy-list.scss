@@ -1,0 +1,28 @@
+.fancy-list {
+  margin: 12px 0;
+
+  ul {
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+  }
+
+  li {
+    position: relative;
+    padding: 12px 0 12px 54px;
+    &:before {
+      position: absolute;
+      left: 0;
+      display: block;
+      width: 30px;
+      height: 30px;
+      background-image: url('data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzAiIGhlaWdodD0iMzAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PGcgZmlsbD0ibm9uZSIgZmlsbC1ydWxlPSJldmVub2RkIj48Y2lyY2xlIGZpbGw9IiMwM0NDODEiIGN4PSIxNSIgY3k9IjE1IiByPSIxNSIvPjxwYXRoIHN0cm9rZT0iI0ZGRiIgc3Ryb2tlLXdpZHRoPSIzLjUzNyIgZD0iTTkgMTUuNDc3TDE0LjQ3OCAyMCAyMiAxMCIvPjwvZz48L3N2Zz4=');
+      content: '';
+    }
+  }
+
+  strong {
+    display: block;
+    color: var(--c-text-alt);
+  }
+}

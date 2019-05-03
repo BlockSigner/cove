@@ -135,7 +135,7 @@
       border-top: 1px solid var(--c-border);
     }
 
-    a {
+    &-item {
       padding: 10px;
       @include max-width {
         padding: 6px 0;

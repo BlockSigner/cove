@@ -1,0 +1,10 @@
+{{ define "main" }}
+{{ partial "header-blank" . }}
+
+<div class="wrapper">
+  <main class="main">
+    {{- .Content -}}
+  </main>
+  {{ partial "footer-language-switcher" . }}
+</div>
+{{ end }}
