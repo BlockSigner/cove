@@ -1,6 +1,6 @@
 ---
-title: Skribble – Legally binding electronic signatures with Skribble
-description: Easily handle digital signature processes – legally binding in accordance with Swiss & EU law.
+title: Skribble – Rechtsgültig elektronisch signieren
+description: Signaturprozesse einfach digital abwickeln – Rechtsgültig nach dem Schweizer & EU-Gesetz.
 draft: false
 slug: sav-fsa
 type: blank
@@ -80,7 +80,7 @@ Signaturen können auch nutzerunabhängig bezogen werden.
 {{% content %}}
 # Bereit zum Signieren in 5 Minuten
 
-Du benötigst nur ein Mobiltelefon und ein gültiges Ausweispapier. (Pass oder Identitätskarte)
+Du benötigst nur ein Mobiltelefon und ein gültiges Ausweispapier (Pass oder Identitätskarte).
 
 {{% fancy-list %}}
 - **Skribble kommt bei dir vorbei**

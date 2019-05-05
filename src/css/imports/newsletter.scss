@@ -16,7 +16,7 @@
       display: block;
       margin-bottom: 15px;
       font-weight: bold;
-      color: var(--c-text-alt);
+      color: $c-text-alt;
     }
 
     .actions {
@@ -43,12 +43,12 @@
         width: 100%;
         height: 5.6rem;
         padding: 0 72px 0 16px;
-        border: 1px solid var(--c-border);
+        border: 1px solid $c-border;
         border-radius: 3px;
-        font: normal 1.6rem/1 var(--averta);
-        color: var(--c-text-alt);
+        font: normal 1.6rem/1 $averta;
+        color: $c-text-alt;
         &:focus {
-          border: 2px solid var(--c-primary);
+          border: 2px solid $c-primary;
           outline: 0;
         }
       }
@@ -84,11 +84,11 @@
         width: 100%;
         height: 100%;
         min-width: 0;
-        border: 2px solid var(--c-primary);
+        border: 2px solid $c-primary;
         border-radius: 3px;
         border-top-left-radius: 0;
         border-bottom-left-radius: 0;
-        background: var(--c-primary);
+        background: $c-primary;
         white-space: nowrap;
         color: #fff;
         appearance: none;
@@ -111,8 +111,8 @@
         list-style-type: none;
 
         label {
-          font: normal 1.2rem/1 var(--averta);
-          color: var(--c-text);
+          font: normal 1.2rem/1 $averta;
+          color: $c-text;
         }
       }
     }

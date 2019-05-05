@@ -1,6 +1,6 @@
 ---
-title: Skribble – Legally binding electronic signatures with Skribble
-description: Easily handle digital signature processes – legally binding in accordance with Swiss & EU law.
+title: Skribble – Signature électronique légalement valide
+description: Traiter les processus de signature numériquement - juridiquement valides selon le droit suisse et européen.
 draft: false
 slug: sav-fsa
 type: blank

@@ -47,9 +47,9 @@
     }
 
     &--gold {
-      border-color: var(--c-warning);
+      border-color: $c-warning;
       .btn {
-        background-color: var(--c-warning);
+        background-color: $c-warning;
         &:hover {
           background-color: #F9D167;
         }
@@ -57,9 +57,9 @@
     }
 
     &--platinum {
-      border-color: var(--c-info);
+      border-color: $c-info;
       .btn {
-        background-color: var(--c-info);
+        background-color: $c-info;
         &:hover {
           background-color: #9B76C6;
         }
@@ -72,7 +72,7 @@
       font-size: 2.4rem;
       font-weight: bold;
       line-height: 2.6rem;
-      color: var(--c-text-alt);
+      color: $c-text-alt;
     }
 
     &-subtitle {
@@ -80,7 +80,7 @@
       font-size: 1.6rem;
       font-weight: bold;
       line-height: 2.6rem;
-      color: var(--c-text-alt);
+      color: $c-text-alt;
     }
 
     &-description {
@@ -111,15 +111,15 @@
     align-items: center;
     width: 100%;
     padding: 18px 0;
-    border-top: 1px solid var(--c-border);
-    border-bottom: 1px solid var(--c-border);
+    border-top: 1px solid $c-border;
+    border-bottom: 1px solid $c-border;
     font-weight: bold;
     @include max-width {
       flex-direction: column;
     }
 
     &-text {
-      color: var(--c-text-alt);
+      color: $c-text-alt;
       @include min-width {
         flex: 0 1 380px;
       }

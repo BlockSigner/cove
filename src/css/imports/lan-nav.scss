@@ -10,17 +10,17 @@
     padding: 10px;
     text-decoration: none;
     font-size: 1.6rem;
-    color: var(--c-text);
+    color: $c-text;
     @include max-width {
       display: block;
       padding: 6px 0;
     }
     &:hover {
-      color: var(--c-primary);
+      color: $c-primary;
     }
     &.active {
       font-weight: bold;
-      color: var(--c-text-alt);
+      color: $c-text-alt;
     }
   }
 }

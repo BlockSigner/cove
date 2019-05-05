@@ -47,15 +47,15 @@
   &__details {
     flex: 1 1 150px;
     padding: 12px 0 0;
-    border-top: 1px solid var(--c-border);
-    border-bottom: 1px solid var(--c-border);
+    border-top: 1px solid $c-border;
+    border-bottom: 1px solid $c-border;
   }
 
   &__title {
     margin-bottom: 12px;
     font-size: 2.4rem;
     font-weight: bold;
-    color: var(--c-text-alt);
+    color: $c-text-alt;
   }
 
 

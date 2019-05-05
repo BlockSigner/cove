@@ -20,16 +20,16 @@
     }
 
     a {
-      color: var(--c-text);
+      color: $c-text;
       &:hover {
-        color: var(--c-primary);
+        color: $c-primary;
       }
     }
 
     &-title {
       margin: 0;
-      font: bold 2rem/1.6 var(--averta);
-      color: var(--c-text-alt);
+      font: bold 2rem/1.6 $averta;
+      color: $c-text-alt;
     }
   }
 }

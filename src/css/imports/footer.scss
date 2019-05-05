@@ -4,21 +4,21 @@
 
   a {
     display: block;
-    color: var(--c-text);
+    color: $c-text;
     text-decoration: none;
     &:hover {
-      color: var(--c-primary);
+      color: $c-primary;
     }
     &.active {
       font-weight: bold;
-      color: var(--c-text-alt);
+      color: $c-text-alt;
     }
   }
 
   &__title {
     font-size: 2rem;
     font-weight: bold;
-    color: var(--c-text-alt);
+    color: $c-text-alt;
     @include min-width {
       margin-bottom: 3px;
     }
@@ -118,7 +118,7 @@
     margin-right: 10px;
     font-weight: bold;
     font-size: 3rem;
-    color: var(--c-text-alt);
+    color: $c-text-alt;
 
     svg {
       margin-right: 3px;
@@ -132,7 +132,7 @@
     @include max-width {
       flex-direction: column;
       padding: 6px 24px;
-      border-top: 1px solid var(--c-border);
+      border-top: 1px solid $c-border;
     }
 
     &-item {

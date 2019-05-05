@@ -45,8 +45,8 @@ body {
   display: flex;
   flex-direction: column;
   align-items: center;
-  font: normal 2rem/1.4 var(--averta);
-  color: var(--c-text);
+  font: normal 2rem/1.4 $averta;
+  color: $c-text;
   overflow-x: hidden;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
@@ -125,11 +125,11 @@ img {
     width: 23px;
     height: 23px;
     margin: 0 10px;
-    fill: var(--c-text);
+    fill: $c-text;
   }
   &:hover {
     svg {
-      fill: var(--c-primary);
+      fill: $c-primary;
     }
   }
 }

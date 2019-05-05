@@ -20,14 +20,14 @@
     font-size: 2.4rem;
     font-weight: bold;
     line-height: 1.1;
-    color: var(--c-text-alt);
+    color: $c-text-alt;
   }
 
   &__subtitle {
     padding: 28px var(--price-plan-lateral-padding) 0;
     font-size: 1.6rem;
     font-weight: bold;
-    color: var(--c-text-alt);
+    color: $c-text-alt;
   }
 
   &__description {
@@ -57,7 +57,7 @@
   &__price {
     font-size: 4rem;
     font-weight: bold;
-    color: var(--c-text-alt);
+    color: $c-text-alt;
   }
 
   &__addendum {
@@ -65,18 +65,18 @@
   }
 
   &--gold {
-    border-color: var(--c-warning);
+    border-color: $c-warning;
   }
 
   &--platinum {
-    border-color: var(--c-info);
+    border-color: $c-info;
   }
 
   &__discounts {
     margin: 10px 20px;
     font-size: 1.4rem;
     line-height: 1.14;
-    color: var(--c-text-alt);
+    color: $c-text-alt;
 
     &-table {
       width: 100%;
