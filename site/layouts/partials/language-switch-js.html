@@ -129,7 +129,9 @@
       var newLocation = document.querySelector(
         `.js-lang-switcher [data-lang="${Skribble.coveLang}"]`
       );
-      window.location.replace(newLocation.href);
+      if (newLocation) {
+        window.location.replace(newLocation.href);
+      }
     }
     // handle click events on lang-switcher
     document.querySelectorAll(".js-lang-switcher a").forEach(function (el) {
