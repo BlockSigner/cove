@@ -6,14 +6,13 @@
   }
 
   &-wrapper {
-    flex: 0 0 50%;
     display: flex;
     flex-direction: column;
-    height: 700px;
+    margin-bottom: 45px;
     @include max-width {
+      flex: 1 0 50%;
       align-items: stretch;
       height: auto;
-      margin-bottom: 45px;
     }
     @include max-width-xs {
       flex-basis: 100%;
@@ -67,5 +66,9 @@
 
 .people {
   display: flex;
-  flex-wrap: wrap;
+  flex-direction: column;
+  @include max-width() {
+    flex-direction: row;
+    flex-wrap: wrap;
+  }
 }

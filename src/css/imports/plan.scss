@@ -1,5 +1,5 @@
 .plan {
-  --price-plan-lateral-padding: 20px;
+  $price-plan-lateral-padding: 20px;
   $price-plan-width: 328px;
   width: $price-plan-width;
   max-width: 100%;
@@ -15,7 +15,8 @@
   }
 
   &__title {
-    padding: 4px var(--price-plan-lateral-padding) 25px;
+    max-width: 100%;
+    padding: 4px $price-plan-lateral-padding 25px;
     border-bottom: 1px solid #D8D8D8;
     font-size: 2.4rem;
     font-weight: bold;
@@ -24,18 +25,21 @@
   }
 
   &__subtitle {
-    padding: 28px var(--price-plan-lateral-padding) 0;
+    max-width: 100%;
+    padding: 28px $price-plan-lateral-padding 0;
     font-size: 1.6rem;
     font-weight: bold;
     color: $c-text-alt;
   }
 
   &__description {
-    padding: 17px var(--price-plan-lateral-padding) 20px;
+    max-width: 100%;
+    padding: 17px $price-plan-lateral-padding 20px;
   }
 
   &__details {
-    padding: 13px var(--price-plan-lateral-padding) 25px;
+    max-width: 100%;
+    padding: 13px $price-plan-lateral-padding 25px;
     border-top: 1px solid #D8D8D8;
   }
 

@@ -64,12 +64,11 @@ img {
   display: flex;
   flex-direction: column;
   align-items: center;
-  // width: 100%;
   min-height: 100vh;
 }
 
 .main {
-  flex: 1 1 100%;
+  flex: 1 1 auto;
   max-width: 100vw;
   position: relative;
   padding: 90px 0;
@@ -97,6 +96,7 @@ img {
     @include site-width;
     width: 1030px;
     max-width: 100vw;
+    margin: 0 auto;
   }
 
   > .title-subtitle:first-child {
