@@ -50,14 +50,14 @@ languages:
         href: https://my.skribble.com/signup?lang=de
       makeAnAppointment:
         label: Jetzt Termin vereinbaren
-        href: https://www.skribble.info/meetings/simon79/learn-about-skribbles-identification-means
+        href: https://www.skribble.info/meetings/simon79/beratung-zu-identifikationslsungen
     footer:
       navigation:
         titleColumn1: Plattform
         titleColumn2: Über uns
         titleColumn3: Ressourcen
       newsletterTitle: Newsletter
-      newsletterText: Elektronische Signaturen und digitales Vertrauen sind brandaktuelle Themen. Bleibe auf dem Laufenden! Siehe unsere <a href="/datenschutz">Datenschutzerklärugen</a>.
+      newsletterText: Elektronische Signaturen und digitales Vertrauen sind brandaktuelle Themen. Bleibe auf dem Laufenden! Siehe unsere <a href="/de/datenschutz">Datenschutzerklärugen</a>.
   en:
     languageName: English
     weight: 1
@@ -121,54 +121,54 @@ languages:
     contentDir: content/french
     menu:
       main:
-        - name: Über uns
+        - name: A propos de nous
           url: /de/ueber-uns/
           weight: 5
-        - name: Identifikation
+        - name: Identification
           url: /de/identifikation/
           weight: 15
-        - name: Kontakt
+        - name: Contact
           url: /de/kontakt/
           weight: 20
       footer1:
-        - name: Identifikation
+        - name: Identification
           url: /de/identifikation/
           weight: 15
       footer2:
-        - name: Über uns
+        - name: A propos de nous
           url: /de/ueber-uns/
           weight: 5
-        - name: Team
+        - name: Equipe
           url: /de/team/
           weight: 10
-        - name: Kontakt
+        - name: Contact
           url: /de/kontakt/
           weight: 20
       footer3:
-        - name: Help-Center
+        - name: Centre d'aide
           url: https://help.skribble.com/deutsch
           weight: 5
       footer4:
-        - name: Datenschutzbestimmungen
-          url: /de/datenschutz
+        - name: Politique de Confidentialité
+          url: /fr/politique-de-confidentialite
           weight: 10
-        - name: Impressum
-          url: /de/impressum
+        - name: Empreinte
+          url: /fr/empreinte
           weight: 15
     header:
       login:
-        label: Login
+        label: Connexion
         href: https://my.skribble.com/login?lang=de
       tryItOut:
-        label: Jetzt ausprobieren
+        label: Essayez-la maintenant
         href: https://my.skribble.com/signup?lang=de
       makeAnAppointment:
         label: Fixer un rendez-vous
-        href: https://www.skribble.info/meetings/simon79/learn-about-skribbles-identification-means
+        href: https://www.skribble.info/meetings/simon79/conseil
     footer:
       navigation:
-        titleColumn1: Plattform
-        titleColumn2: Über uns
-        titleColumn3: Ressourcen
-      newsletterTitle: Newsletter
-      newsletterText: Elektronische Signaturen und digitales Vertrauen sind brandaktuelle Themen. Bleibe auf dem Laufenden! Siehe unsere <a href="/datenschutz">Datenschutzerklärugen</a>.
+        titleColumn1: Plateforme
+        titleColumn2: A propos de nous
+        titleColumn3: Ressources
+      newsletterTitle: Bulletin d'information
+      newsletterText: Les signatures électroniques et la confiance numérique sont des sujets d'actualité. Restez au courant ! Voir notre <a href="/fr/politique-de-confidentialite/">Politique de Confidentialité</a>.
