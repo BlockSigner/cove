@@ -12,8 +12,8 @@
 }
 
 @mixin vertical-unit-margins {
-  margin-top: 140px;
-  margin-bottom: 140px;
+  margin-top: 86px;
+  margin-bottom: 86px;
   @include max-width {
     margin-top: 40px;
     margin-bottom: 40px;

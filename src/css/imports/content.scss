@@ -24,7 +24,28 @@
     }
   }
 
+  h3 {
+    margin: 3rem 0 0;
+    font: bold 2rem/1.4 $averta;
+    color: $c-text-alt;
+    @include max-width {
+      font-size: 1.8rem;
+    }
+
+    + p,
+    + ol,
+    + ul {
+      margin-top: 0;
+    }
+  }
+
   strong {
     color: $c-text-alt;
+  }
+
+  img {
+    display: block;
+    max-width: 100%;
+    margin: 40px auto;
   }
 }

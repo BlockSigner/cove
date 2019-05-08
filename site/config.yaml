@@ -84,8 +84,8 @@ languages:
         - name: Team
           url: /team/
           weight: 10
-        - name: Media
-          url: /media/
+        - name: Press room
+          url: /pressroom/
           weight: 15
       footer3:
         - name: Help-Center

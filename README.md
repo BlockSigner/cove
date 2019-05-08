@@ -129,6 +129,15 @@ The `-` and the `w` in the filename are added by the component. You have to add 
 #### {{< intro >}}
 #### {{< intro-partner >}}
 
+#### {{< cta >}}
+A little component with dividers at the top and bottom that is used to focus the attention on a single call to action.
+
+**Parameters**
+1. CTA label
+2. CTA href
+3. CTA target attribute (optional)
+3. titel (optional)
+
 #### {{< plan >}}
 The `plan` consists of the upper part with 2 titles and the lower part with any number of paragraphs. Paragraphs are divided by a horizontal line.
 

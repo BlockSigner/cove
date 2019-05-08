@@ -57,7 +57,7 @@ Suitable if you use QES in a predefined circle of people.
 {{% /plan %}}
 {{< /row >}}
 
-## The identity check is carried out once upon personal contact with the ID app provided by Swisscom. 
+## The identity check is carried out once upon personal contact with the ID app provided by Swisscom.
 
 {{< button
   "More information about identification"
