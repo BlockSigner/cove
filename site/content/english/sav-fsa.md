@@ -32,7 +32,7 @@ Easily handle digital signature processes – legally binding in accordance with
 
 {{< side-by-side >}}
 {{% content %}}
-## The qualified electronic signature is made simple, intuitive and efficient with Skribble.
+## The qualified electronic signature is simple, intuitive and efficient with Skribble.
 {{% fancy-list %}}
 - **No external hardware required** Skribble can be used immediately
 - **Attach multiple signatures** Sign multiple documents with one click (batch signature)
@@ -52,8 +52,8 @@ Easily handle digital signature processes – legally binding in accordance with
 ## Skribble meets the highest legal and technological standards
 {{% fancy-list %}}
 - **ZertEs & eIDAS** QES certificates from Swisscom
-- **DSG/ DSGVO** AES-256 Encryption
-- **Schweizer Hosting** FINMA-compliant, ISO 27001 certified
+- **DSG / DSGVO** AES-256 Encryption
+- **Swiss Hosting** FINMA-compliant, ISO 27001 certified
 {{% /fancy-list %}}
 {{% /content %}}
 {{< /side-by-side >}}
@@ -83,12 +83,12 @@ Signatures can also be obtained independently of the user.
 All you need is a mobile phone and a valid identification document (passport or identity card).
 
 {{% fancy-list %}}
-- **Skribble's coming by your office**
+- **Skribble visits your office**
 - **We will identify you**
 - **You're ready to sign right away**
 {{% /fancy-list %}}
 
-A law firm may also be empowered to identify persons itself.
+A law firm may also elect to identify persons itself.
 
 {{< intro-partner
   "swisscom.png"
@@ -104,7 +104,7 @@ A law firm may also be empowered to identify persons itself.
 {{< picture image8 414 >}}
 
 {{% content %}}
-# Sign now legally valid electronically
+# Sign now, legally valid electronically
 Learn more about the offer.
 
 {{< button
