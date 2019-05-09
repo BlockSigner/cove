@@ -106,7 +106,7 @@ languages:
         label: Try it out
         href: https://my.skribble.com/signup
       makeAnAppointment:
-        label: Jetzt Termin vereinbaren
+        label: Make an appointment
         href: https://www.skribble.info/meetings/simon79/learn-about-skribbles-identification-means
     footer:
       navigation:

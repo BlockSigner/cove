@@ -13,8 +13,8 @@ type: blank
 </div>
 
 {{% content %}}
-# Rechtsgültig elektronisch signieren mit Skribble
-Signaturprozesse einfach digital abwickeln – rechtsgültig nach dem Schweizer & EU Gesetz.
+# Legally binding electronic signatures with Skribble
+Easily handle digital signature processes – legally binding in accordance with Swiss & EU law.
 
 <div class="hide-for-desktop">
   {{< picture image1 678 >}}
@@ -22,7 +22,7 @@ Signaturprozesse einfach digital abwickeln – rechtsgültig nach dem Schweizer 
 
 {{< intro-partner
   "swisscom.png"
-  "Basierend auf der qualifizierten elektronischen Signatur QES der Swisscom"
+  "Based on the qualified electronic signature QES by Swisscom"
 >}}
 
 {{% /content %}}
@@ -32,11 +32,11 @@ Signaturprozesse einfach digital abwickeln – rechtsgültig nach dem Schweizer 
 
 {{< side-by-side >}}
 {{% content %}}
-## Die qualifizierte elektronische Signatur wird mit Skribble einfach, intuitiv und effizient
+## The qualified electronic signature is made simple, intuitive and efficient with Skribble.
 {{% fancy-list %}}
-- **Keine externe Hardware notwendig** Skribble ist sofort einsetzbar
-- **Mehrfachsignaturen anbringen** Mehrere Dokumente mit einem Klick signieren (Stapelsignatur)
-- **Zeitsparende Koordination** Per E-Mail zum Signieren einladen und erinnern
+- **No external hardware required** Skribble can be used immediately
+- **Attach multiple signatures** Sign multiple documents with one click (batch signature)
+- **Time-saving coordination** Invite and remind to sign by e-mail
 {{% /fancy-list %}}
 {{% /content %}}
 
@@ -49,11 +49,11 @@ Signaturprozesse einfach digital abwickeln – rechtsgültig nach dem Schweizer 
 {{< picture image5 430 >}}
 
 {{% content %}}
-## Skribble erfüllt höchste rechtliche und technologische Standards
+## Skribble meets the highest legal and technological standards
 {{% fancy-list %}}
-- **ZertEs & eIDAS** QES-Zertifikate von Swisscom
-- **DSG/ DSGVO** AES-256 Verschlüsselung
-- **Schweizer Hosting** FINMA-Konform, ISO 27001 zertifiziert
+- **ZertEs & eIDAS** QES certificates from Swisscom
+- **DSG/ DSGVO** AES-256 Encryption
+- **Schweizer Hosting** FINMA-compliant, ISO 27001 certified
 {{% /fancy-list %}}
 {{% /content %}}
 {{< /side-by-side >}}
@@ -62,12 +62,12 @@ Signaturprozesse einfach digital abwickeln – rechtsgültig nach dem Schweizer 
 
 {{% center-block %}}
 {{% content %}}
-# SAV-FSA Mitglieder nutzen Skribble zum Vorzugspreis
+# SAV-FSA members use Skribble at a preferential price
 
 {{< picture sav-special 200 >}}
 
-## pro Monat / Nutzer anstatt CHF 25.-
-Signaturen können auch nutzerunabhängig bezogen werden.
+## per month / user instead of CHF 25.00
+Signatures can also be obtained independently of the user.
 
 {{% /content %}}
 {{% /center-block %}}
@@ -78,21 +78,21 @@ Signaturen können auch nutzerunabhängig bezogen werden.
 {{< picture identification 482 >}}
 
 {{% content %}}
-# Bereit zum Signieren in 5 Minuten
+# Ready to sign in 5 minutes
 
-Du benötigst nur ein Mobiltelefon und ein gültiges Ausweispapier (Pass oder Identitätskarte).
+All you need is a mobile phone and a valid identification document (passport or identity card).
 
 {{% fancy-list %}}
-- **Skribble kommt bei dir vorbei**
-- **Wir identifzieren dich**
-- **Du bist sofort signierbereit**
+- **Skribble's coming by your office**
+- **We will identify you**
+- **You're ready to sign right away**
 {{% /fancy-list %}}
 
-Eine Kanzlei kann auch dazu befähigt werden, selbst Personen zu identifizieren.
+A law firm may also be empowered to identify persons itself.
 
 {{< intro-partner
   "swisscom.png"
-  "Offizieller Identifikations-Partner von Swisscom"
+  "Official identification partner of Swisscom"
 >}}
 
 {{% /content %}}
@@ -104,11 +104,11 @@ Eine Kanzlei kann auch dazu befähigt werden, selbst Personen zu identifizieren.
 {{< picture image8 414 >}}
 
 {{% content %}}
-# Jetzt rechtsgültig elektronisch signieren
-Erfahre mehr über das Angebot.
+# Sign now legally valid electronically
+Learn more about the offer.
 
 {{< button
-  "Jetzt Termin vereinbaren"
+  "Make an appointment"
   "https://www.skribble.info/meetings/simon79/learn-about-skribbles-identification-means"
   "_blank"
 >}}
