@@ -33,5 +33,10 @@ map:
 # Try Skribble now without obligation!
 No credit card, entrance fee or commitment required.
 
+{{< button
+  "Try it now"
+  "https://my.skribble.com/signup?lang=en"
+  "_blank"
+>}}
 {{% /content %}}
 {{< /outro >}}

@@ -22,6 +22,12 @@ Traiter les processus de signature digitales de manière simple - juridiquement 
   {{< picture image1 678 >}}
 </div>
 
+{{< button
+  "Essayez-la maintenant"
+  "https://my.skribble.com/signup"
+  "_blank"
+>}}
+
 {{< intro-partner
   "swisscom.png"
   "Basé sur la signature électronique qualifiée QES de Swisscom"

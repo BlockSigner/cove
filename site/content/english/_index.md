@@ -27,6 +27,12 @@ Easily handle digital signature processes – legally binding in accordance with
   {{< picture image1 678 >}}
 </div>
 
+{{< button
+  "Try it now"
+  "https://my.skribble.com/signup"
+  "_blank"
+>}}
+
 {{< intro-partner
   "swisscom.png"
   "Based on the qualified electronic signature QES by Swisscom"
@@ -140,6 +146,11 @@ Suitable for single or occasional signing with QES
 # Try Skribble now without obligation!
 No credit card, entrance fee or commitment required.
 
+{{< button
+  "Try it now"
+  "https://my.skribble.com/signup?lang=en"
+  "_blank"
+>}}
 {{% /content %}}
 {{< /outro >}}
 
