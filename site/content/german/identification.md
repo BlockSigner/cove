@@ -122,10 +122,5 @@ id_steps:
 # Jetzt Skribble unverbindlich ausprobieren!
 Keine Kreditkarte, Eintrittsgebühr oder Verpflichtung erforderlich.
 
-{{< button
-  "Jetzt ausprobieren"
-  "https://my.skribble.com/signup?lang=de"
-  "_blank"
->}}
 {{% /content %}}
 {{< /outro >}}

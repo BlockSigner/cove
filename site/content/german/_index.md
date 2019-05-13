@@ -23,12 +23,6 @@ Signaturprozesse einfach digital abwickeln – rechtsgültig nach dem Schweizer 
   {{< picture image1 678 >}}
 </div>
 
-{{< button
-  "Jetzt ausprobieren"
-  "https://my.skribble.com/signup?lang=de"
-  "_blank"
->}}
-
 {{< intro-partner
   "swisscom.png"
   "Basierend auf der qualifizierten elektronischen Signatur QES der Swisscom"
@@ -142,10 +136,5 @@ Geeignet für regelmässiges Signieren mit QES.
 # Jetzt Skribble unverbindlich ausprobieren!
 Keine Kreditkarte, Eintrittsgebühr oder Verpflichtung erforderlich.
 
-{{< button
-  "Jetzt ausprobieren"
-  "https://my.skribble.com/signup?lang=de"
-  "_blank"
->}}
 {{% /content %}}
 {{< /outro >}}
