@@ -4,5 +4,8 @@
     <div class="plan__title">{{.Get 2}}</div>
     <div class="plan__description">{{.Inner}}</div>
   </div>
+  {{ if (.Get 3) }}
+    <a class="plan__btn btn" target="{{.Get 5}}" href="{{.Get 4}}">{{.Get 3}}</a>
+  {{ end }}
 </div>
 

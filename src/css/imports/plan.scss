@@ -1,6 +1,9 @@
 .plan {
   $price-plan-lateral-padding: 20px;
   $price-plan-width: 328px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
   width: $price-plan-width;
   max-width: 100%;
   @include max-width {
@@ -35,6 +38,26 @@
   &__description {
     max-width: 100%;
     padding: 17px $price-plan-lateral-padding 20px;
+
+    p {
+      &:first-child {
+        margin-top: 0;
+      }
+
+      + p {
+        position: relative;
+        padding-top: 20px;
+        &:before {
+          position: absolute;
+          left: -$price-plan-lateral-padding;
+          right: -$price-plan-lateral-padding;
+          top: 0;
+          height: 1px;
+          background-color: $c-border;
+          content: '';
+        }
+      }
+    }
   }
 
   &__details {
@@ -111,5 +134,9 @@
         text-align: right;
       }
     }
+  }
+
+  &__btn {
+    margin: 20px 0;
   }
 }
