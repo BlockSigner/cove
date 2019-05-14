@@ -1,8 +1,7 @@
 .center-block {
-  @include site-width;
+  @include site-width($narrow: true);
   @include vertical-unit-margins;
   @include add-richtext-styling;
-  width: 750px;
   text-align: center;
 
   .content {
@@ -12,7 +11,7 @@
   .picture {
     display: flex;
     justify-content: center;
-    margin: 22px 0;
+    padding: 44px 0;
   }
 
   .row,

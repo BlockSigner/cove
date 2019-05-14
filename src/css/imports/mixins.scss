@@ -7,16 +7,16 @@
   margin-left: auto;
   margin-right: auto;
   @if $narrow {
-    width: 1104px;
+    width: 768px;
   }
 }
 
 @mixin vertical-unit-margins {
-  margin-top: 86px;
-  margin-bottom: 86px;
+  margin-top: 88px;
+  margin-bottom: 44px;
   @include max-width {
-    margin-top: 40px;
-    margin-bottom: 40px;
+    margin-top: 22px;
+    margin-bottom: 44px;
   }
 }
 

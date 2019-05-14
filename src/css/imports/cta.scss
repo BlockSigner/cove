@@ -1,5 +1,5 @@
 .cta {
-  max-width: 750px;
+  @include site-width($narrow: true);
   margin: 0 auto;
   padding: 24px 0;
 

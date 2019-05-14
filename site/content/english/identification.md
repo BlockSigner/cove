@@ -122,6 +122,51 @@ Skribble can easily be used outside the company context. If you do not yet have 
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
+{{< center-block >}}
+{{% content %}}
+# This is how identification with the ID app of Swisscom works
+{{% /content %}}
+
+{{< row >}}
+{{% step %}}
+{{< picture "identification-step-1" 252 >}}
+{{% content %}}
+**Step 1**<br>
+The user's ID is scanned and checked with Swisscom's ID app.
+{{% /content %}}
+{{% /step %}}
+
+{{% step %}}
+{{< picture "identification-step-2" 158 >}}
+{{% content %}}
+**Step 2**<br>
+The user's ID is scanned and checked with Swisscom's ID app.
+{{% /content %}}
+{{% /step %}}
+{{< /row >}}
+
+{{< row >}}
+{{% step %}}
+{{< picture "identification-step-3" 148 >}}
+{{% content %}}
+**Step 3**<br>
+The user's ID is scanned and checked with Swisscom's ID app.
+{{% /content %}}
+{{% /step %}}
+
+{{% step %}}
+{{< picture "identification-step-4" 270 >}}
+{{% content %}}
+**Step 4**<br>
+The user's ID is scanned and checked with Swisscom's ID app.
+{{% /content %}}
+{{% /step %}}
+{{< /row >}}
+
+{{< /center-block >}}
+
+[//]: # (--------------------------------------------------------------------------------------------------------------)
+
 {{< outro >}}
 {{< picture image8 414 >}}
 

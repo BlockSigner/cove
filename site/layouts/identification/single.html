@@ -2,13 +2,6 @@
 {{ block "header" . }}{{ partial "header" . }}{{end}}
 <div class="wrapper">
   <main class="main main--identification">
-
-    {{ partial "id-steps" . }}
-
-    {{ range .Params.id_blocks }}
-      {{ partial "id-block" . }}
-    {{ end }}
-
     {{ .Content }}
   </main>
   {{ block "footer" . }}{{ partial "footer" . }}{{end}}

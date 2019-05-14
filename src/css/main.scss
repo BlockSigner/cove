@@ -21,7 +21,6 @@
 @import 'imports/footer';
 @import 'imports/header';
 @import 'imports/id-block';
-@import 'imports/id-steps';
 @import 'imports/intro';
 @import 'imports/lan-nav';
 @import 'imports/maps';
@@ -34,6 +33,7 @@
 @import 'imports/richtext';
 @import 'imports/row';
 @import 'imports/side-by-side';
+@import 'imports/step';
 @import 'imports/table';
 @import 'imports/title-subtitle';
 
@@ -60,6 +60,13 @@ body {
 img {
   display: block;
   max-width: 100%;
+}
+
+* {
+  outline: 1px solid rgba(red, .25);
+  &.center-block {
+    outline-color: green;
+  }
 }
 
 .wrapper {
