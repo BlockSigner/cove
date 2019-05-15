@@ -3,7 +3,6 @@ title: Skribble – Imprint
 description: Skribble is operated by BlockSigner AG. Skribble has made it its goal to digitalize contract processes. In 2018 we formed a team of Trust Shapers that has been working towards this future.
 draft: false
 slug: imprint
-type: narrow
 ---
 
 {{% richtext %}}

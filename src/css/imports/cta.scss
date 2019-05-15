@@ -1,5 +1,11 @@
 .cta {
-  @include site-width($narrow: true);
+  @include half-padding;
+
+  &__inner {
+    &.container {
+      width: $site-width-narrow;
+    }
+  }
 
   img {
     margin: 0;
@@ -41,7 +47,7 @@
     }
   }
 
-  &__inner {
+  &__content {
     display: flex;
     justify-content: space-between;
     align-items: center;

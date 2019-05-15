@@ -12,16 +12,13 @@
 @import 'imports/collapsible';
 @import 'imports/column';
 @import 'imports/container';
-@import 'imports/compliance';
 @import 'imports/contact';
 @import 'imports/content';
 @import 'imports/cta';
-@import 'imports/block';
 @import 'imports/error';
 @import 'imports/fancy-list';
 @import 'imports/footer';
 @import 'imports/header';
-@import 'imports/id-block';
 @import 'imports/intro';
 @import 'imports/lan-nav';
 @import 'imports/maps';
@@ -30,7 +27,6 @@
 @import 'imports/outro';
 @import 'imports/person';
 @import 'imports/plan';
-@import 'imports/pricing';
 @import 'imports/richtext';
 @import 'imports/row';
 @import 'imports/side-by-side';
@@ -58,10 +54,6 @@ body {
   }
 }
 
-* {
-  outline: 1px solid rgba(#eb4d33, .5);
-}
-
 // as hugo sometimes adds empty paragraphs
 p:empty {
   display: none;
@@ -80,7 +72,7 @@ img {
 }
 
 .main {
-  flex: 1 1 auto;
+  flex: 1 0 auto;
   position: relative;
   max-width: 100vw;
   padding-top: $header-height;

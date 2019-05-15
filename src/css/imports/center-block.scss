@@ -1,6 +1,8 @@
 .center-block {
   @include standard-padding;
-  padding-top: 88px;
+  @include min-width {
+    padding-top: 88px;
+  }
 
   &__inner {
     @include add-richtext-styling;

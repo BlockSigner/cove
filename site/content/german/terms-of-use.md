@@ -2,7 +2,6 @@
 title: Nutzungsbedingungen
 slug: nutzungsbedingungen
 draft: false
-type: narrow
 description: Nutzungsbedingungen meta description
 ---
 

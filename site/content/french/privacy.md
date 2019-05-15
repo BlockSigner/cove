@@ -2,7 +2,6 @@
 title: Politique de Confidentialité
 slug: politique-de-confidentialite
 draft: false
-type: narrow
 description: Politique de Confidentialité méta-description
 ---
 
@@ -113,7 +112,7 @@ BlockSigner AG prendra toutes les mesures raisonnablement nécessaires pour fair
 ## Communication de données
 
 ### Opération commerciale
-Si BlockSigner AG est impliquée dans une fusion, une acquisition ou une vente d'actifs, il se peut que vos Données à Caractère Personnel soient transférées. Avant que vos Données à Caractère Personnel ne soient transférées et ne soient soumises à une Politique de Confidentialité différente, nous vous en aviserons.    
+Si BlockSigner AG est impliquée dans une fusion, une acquisition ou une vente d'actifs, il se peut que vos Données à Caractère Personnel soient transférées. Avant que vos Données à Caractère Personnel ne soient transférées et ne soient soumises à une Politique de Confidentialité différente, nous vous en aviserons.
 
 ### Communication de données aux forces de l'ordre
 Dans certaines circonstances, BlockSigner AG peut être tenue de communiquer vos Données à Caractère Personnel si la loi l'exige ou en réponse à des demandes valides émanant de pouvoirs publics (par ex. un tribunal ou un organisme gouvernemental).
@@ -151,7 +150,7 @@ Nous pouvons faire appel à des sociétés tierces et à des tierces personnes p
 Ces tiers n'ont accès à vos Données à Caractère Personnel que pour effectuer ces tâches en notre nom et il leur est interdit de les communiquer ou de les utiliser à quelle qu'autre fin.
 
 ### Analyses
-Nous pouvons faire appel à des Prestataires de Services tiers pour surveiller et analyser l'utilisation de notre Service.   
+Nous pouvons faire appel à des Prestataires de Services tiers pour surveiller et analyser l'utilisation de notre Service.
 
 ### Google Analytics
 Google Analytics est un service d'analyse web proposé par Google qui assure le suivi du trafic d'un site web et en rend compte. Google utilise les données recueillies pour suivre et surveiller l'utilisation de notre Service. Ces données sont partagées avec d'autres services Google. Google peut utiliser les données recueillies pour contextualiser et personnaliser les annonces de son propre réseau publicitaire.
@@ -161,7 +160,7 @@ Vous pouvez empêcher que vos activités dans le cadre du Service ne soient mise
 Pour plus de précisions sur les pratiques de confidentialité de Google, merci de consulter la page web Protection de la vie privée et conditions de Google: <a href="https://policies.google.com/privacy?hl=en" target="_blank">policies.google.com/privacy?hl=en</a>
 
 ## Remarketing comportemental
-BlockSigner AG fait appel à des services de remarketing pour vous présenter des annonces sur des sites de tiers après que vous ayez consulté notre Service. Nous et nos fournisseurs tiers utilisons des cookies pour façonner, optimiser et diffuser des annonces en fonction de votre fréquentation antérieure de notre Service.  
+BlockSigner AG fait appel à des services de remarketing pour vous présenter des annonces sur des sites de tiers après que vous ayez consulté notre Service. Nous et nos fournisseurs tiers utilisons des cookies pour façonner, optimiser et diffuser des annonces en fonction de votre fréquentation antérieure de notre Service.
 
 ### Google Ads (AdWords)
 Le service de remarketing Google Ads (AdWords) est fourni par Google Inc.

@@ -8,7 +8,7 @@ languages:
     menu:
       main:
         - name: Angebot
-          url: /angebot/
+          url: /de/angebot/
           weight: 5
         - name: Identifikation
           url: /de/identifikation/
@@ -28,7 +28,7 @@ languages:
           url: /de/team/
           weight: 10
         - name: Medien
-          url: /medien/
+          url: /de/medien/
           weight: 15
       footer3:
         - name: Help-Center

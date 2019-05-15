@@ -11,6 +11,10 @@
   }
 
   &-inner {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    max-width: 100%;
     border-top: 7px solid transparent;
     border-radius: 2px;
     background-color: #fff;

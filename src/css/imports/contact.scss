@@ -1,13 +1,18 @@
 .contact {
 
-  &__columns {
-    @include site-width($narrow: true);
-    width: 1078px;
+  &__inner {
     display: flex;
-    margin-top: 30px;
     @include max-width {
       flex-direction: column;
     }
+
+    &.container {
+      width: $maps-width;
+    }
+  }
+
+  &__columns {
+    margin-top: 30px;
   }
 
   &__column {

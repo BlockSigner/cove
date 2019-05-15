@@ -1,6 +1,6 @@
 .error {
   @include site-width;
-  @include vertical-unit-margins;
+  @include standard-padding;
   @include max-width {
     margin-top: 80px;
   }

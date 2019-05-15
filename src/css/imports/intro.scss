@@ -1,6 +1,6 @@
 .intro {
   @include site-width;
-  @include vertical-unit-margins;
+  @include standard-padding;
   display: flex;
   align-items: center;
   width: $intro-width;

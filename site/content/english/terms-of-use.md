@@ -2,7 +2,6 @@
 title: Terms of use
 slug: terms-of-use
 draft: false
-type: narrow
 description: terms-of-use meta description
 ---
 

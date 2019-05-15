@@ -3,3 +3,4 @@ Disallow: /terms-of-use
 Disallow: /privacy
 Disallow: /de/nutzungsbedingungen
 Disallow: /de/datenschutz
+Disallow: /fr/politique-de-confidentialite/

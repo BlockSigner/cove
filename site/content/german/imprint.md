@@ -3,7 +3,6 @@ title: Skribble – Impressum
 description: Skribble wird von der BlockSigner AG betrieben. Skribble hat es sich zum Ziel gesetzt Vertragsprozesse zu digitalisieren. Seit der Gründung 2018 arbeitet ein wachsendes Team von Trust Shapern auf diese Zukunft hin.
 draft: false
 slug: impressum
-type: narrow
 ---
 
 {{% richtext %}}

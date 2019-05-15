@@ -12,15 +12,9 @@
   }
 }
 
-@mixin vertical-unit-margins {
-  // margin-top: 88px;
-  // margin-bottom: 44px;
-  padding-top: 44px;
-  padding-bottom: 44px;
-  // @include max-width {
-  //   padding-top: 22px;
-  //   padding-bottom: 44px;
-  // }
+@mixin half-padding {
+  padding-top: 22px;
+  padding-bottom: 22px;
 }
 
 @mixin standard-padding {

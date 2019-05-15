@@ -2,7 +2,6 @@
 title: Datenschutz
 slug: datenschutz
 draft: false
-type: narrow
 description: Privacy policy meta description
 ---
 
