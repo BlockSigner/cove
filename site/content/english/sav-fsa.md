@@ -109,7 +109,7 @@ Learn more about the offer.
 
 {{< button
   "Make an appointment"
-  "https://www.skribble.info/meetings/simon79/learn-about-skribbles-identification-means"
+  "https://help.skribble.com/meetings/simon79/learn-about-skribbles-identification-means"
   "_blank"
 >}}
 <a class="mobile-link" href="tel:+41445051664">

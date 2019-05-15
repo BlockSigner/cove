@@ -110,7 +110,7 @@ En savoir plus sur l'offre.
 
 {{< button
   "Fixer un rendez-vous"
-  "https://www.skribble.info/meetings/simon79/conseil"
+  "https://help.skribble.com/meetings/simon79/conseil"
   "_blank"
 >}}
 <a class="mobile-link" href="tel:+41445051664">
