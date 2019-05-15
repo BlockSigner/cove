@@ -78,8 +78,7 @@ Ihr signiert rechtsgültig per Knopfdruck, unabhängig von Zeit und Ort mit eine
 Mit Skribble kannst du digital und rechtsgültig (QES) signieren - nach den folgenden Gesetzen.
 {{% /content %}}
 
-{{< column >}}
-{{% collapsible 1 "Anforderungen an Schriftlichkeitserfordernis" %}}
+{{< column >}}{{% collapsible 1 "Anforderungen an Schriftlichkeitserfordernis" %}}
 die QES ist der handschriftlichen Unterschrift vor Schweizer (OR Art. 14 Abs. 2 bis) und EU Gesetz (eIDAS Nr. 910`/`2014 Art. 25 Abs. 2) gleichgestellt.
 {{% /collapsible %}}
 
@@ -89,8 +88,7 @@ Skribble bezieht die QES von der Swisscom, einer nach ZertES und eIDAS anerkannt
 
 {{% collapsible 3 "Anforderungen an CH- und EU-Datenschutzverordnung" %}}
 Skribble sowie Partner (Swisscom) verpflichten sich, Daten gemäss DSG und DSGVO zu verwalten.
-{{% /collapsible %}}
-{{< /column >}}
+{{% /collapsible %}}{{< /column >}}
 {{% /center-block %}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
@@ -123,14 +121,12 @@ Für die qualifizierte elektronische Signatur (QES) muss der Unterzeichnende sei
 Skribbles Angebotsstruktur passt sich deinen Bedürfnissen an und kann flexibel kombiniert werden.
 {{% /content %}}
 
-{{< row >}}
-{{% plan gold "Prepaid-Modell" "Einzelpreis pro Signatur" %}}
+{{< row >}}{{% plan gold "Prepaid-Modell" "Einzelpreis pro Signatur" %}}
 Geeignet für einmaliges oder gelegentliches Signieren mit QES.
 {{% /plan %}}
 {{% plan purple "Flatrate-Modell" "Pauschalpreis pro Person" %}}
 Geeignet für regelmässiges Signieren mit QES.
-{{% /plan %}}
-{{< /row >}}
+{{% /plan %}}{{< /row >}}
 {{% /center-block %}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)

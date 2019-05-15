@@ -25,10 +25,11 @@
   }
 
   &__container {
-    @include site-width;
     display: flex;
     justify-content: space-between;
     align-items: stretch;
+    width: $site-width;
+    margin: 0 auto;
     @include max-width {
       flex-direction: column;
       height: auto;

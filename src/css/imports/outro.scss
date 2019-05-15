@@ -1,11 +1,13 @@
 .outro {
-  @include site-width;
-  @include vertical-unit-margins;
-  display: flex;
-  align-items: center;
-  width: 1100px;
-  @include max-width {
-    flex-direction: column;
+  @include double-padding;
+
+  &__inner {
+    display: flex;
+    align-items: center;
+    width: $outro-width;
+    @include max-width {
+      flex-direction: column;
+    }
   }
 
   .content {

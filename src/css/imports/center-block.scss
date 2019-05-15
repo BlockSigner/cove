@@ -1,8 +1,15 @@
 .center-block {
-  @include site-width($narrow: true);
-  @include vertical-unit-margins;
-  @include add-richtext-styling;
-  text-align: center;
+  @include standard-padding;
+  padding-top: 88px;
+
+  &__inner {
+    @include add-richtext-styling;
+    text-align: center;
+
+    &.container {
+      width: $center-block-width;
+    }
+  }
 
   .content {
     text-align: center;
@@ -16,7 +23,6 @@
 
   .row,
   .column {
-    margin-top: 80px;
     text-align: left;
   }
 }

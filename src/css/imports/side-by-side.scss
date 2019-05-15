@@ -1,11 +1,13 @@
 .side-by-side {
-  @include site-width;
-  @include vertical-unit-margins;
-  display: flex;
-  align-items: center;
-  max-width: 918px;
-  @include max-width {
-    flex-direction: column;
+  @include standard-padding;
+
+  &__inner {
+    display: flex;
+    align-items: center;
+    width: $side-by-side-width;
+    @include max-width {
+      flex-direction: column;
+    }
   }
 
   .content {
@@ -15,6 +17,10 @@
     }
     @include max-width {
       order: -1;
+    }
+
+    h2:first-child {
+      margin-top: 0;
     }
   }
 

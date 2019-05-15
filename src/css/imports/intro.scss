@@ -3,7 +3,7 @@
   @include vertical-unit-margins;
   display: flex;
   align-items: center;
-  max-width: 1300px;
+  width: $intro-width;
   @include max-width {
     flex-direction: column-reverse;
   }
@@ -12,6 +12,10 @@
     @include min-width {
       flex: 1 1 100%;
       padding: 0 40px;
+    }
+
+    h2:first-child {
+      margin-top: 0;
     }
   }
 
@@ -22,6 +26,13 @@
     }
     @include max-width {
       margin: 40px auto;
+    }
+  }
+
+  .picture {
+    @include max-width {
+      margin-top: 22px;
+      margin-bottom: 44px;
     }
   }
 

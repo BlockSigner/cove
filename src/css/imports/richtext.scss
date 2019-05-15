@@ -1,5 +1,13 @@
 .richtext {
-  @include site-width($narrow: true);
+  @include double-padding;
+
+  &__inner {
+    @include add-richtext-styling;
+
+    &.container {
+      width: $richtext-width;
+    }
+  }
 
   a:not(.btn) {
     color: $c-text;
@@ -33,6 +41,10 @@
     color: $c-text-alt;
     @include max-width {
       font-size: 3rem;
+    }
+
+    &:first-child {
+      margin-top: 0;
     }
   }
 

@@ -21,13 +21,14 @@
   }
 
   &__container {
-    @include site-width;
     display: flex;
     justify-content: space-between;
     align-items: center;
-    height: 90px;
+    width: $site-width;
+    height: $header-height;
+    margin: 0 auto;
     @include max-width {
-      height: 64px;
+      height: $header-height-mobile;
     }
   }
 

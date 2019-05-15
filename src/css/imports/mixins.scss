@@ -1,6 +1,7 @@
 @mixin site-width($narrow: false) {
   display: block;
   width: 1400px;
+  width: 1200px;
   max-width: 100%;
   padding-right: 24px;
   padding-left: 24px;
@@ -12,12 +13,24 @@
 }
 
 @mixin vertical-unit-margins {
-  margin-top: 88px;
-  margin-bottom: 44px;
-  @include max-width {
-    margin-top: 22px;
-    margin-bottom: 44px;
-  }
+  // margin-top: 88px;
+  // margin-bottom: 44px;
+  padding-top: 44px;
+  padding-bottom: 44px;
+  // @include max-width {
+  //   padding-top: 22px;
+  //   padding-bottom: 44px;
+  // }
+}
+
+@mixin standard-padding {
+  padding-top: 44px;
+  padding-bottom: 44px;
+}
+
+@mixin double-padding {
+  padding-top: 88px;
+  padding-bottom: 88px;
 }
 
 @mixin add-richtext-styling {

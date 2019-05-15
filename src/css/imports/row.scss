@@ -1,4 +1,5 @@
 .row {
+  @include standard-padding;
   display: flex;
   @include max-width {
     flex-direction: column;
