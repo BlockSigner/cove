@@ -25,11 +25,13 @@ Geeignet für regelmässiges Signieren mit QES
 {{% /plan %}}
 {{< /row >}}
 
-## Flexibel kombinierbar
-Die zwei Angebotsmodelle können kombiniert werden: Unterschreibt z.B. Herr Muster täglich Verträge, die mit verschiedensten externen Parteien eingegangen werden, empfehlen wir das Flatrate-Modell für Herr Muster und das Prepaid-Modell für die externen Parteien.
+{{% content %}}
+Flexibel kombinierbar
+: Die zwei Angebotsmodelle können kombiniert werden: Unterschreibt z.B. Herr Muster täglich Verträge, die mit verschiedensten externen Parteien eingegangen werden, empfehlen wir das Flatrate-Modell für Herr Muster und das Prepaid-Modell für die externen Parteien.
 
-## Je mehr, desto günstiger
-Wir haben ein volumenbasiertes Preismodell: Je mehr Signaturen du in einem Prepaid-Paket beziehst, desto tiefer der Einzelpreis. Je mehr Personen du für das Flatrate-Modell anmeldest, desto tiefer der monatliche Pauschalpreis pro Person.
+Je mehr, desto günstiger
+: Wir haben ein volumenbasiertes Preismodell: Je mehr Signaturen du in einem Prepaid-Paket beziehst, desto tiefer der Einzelpreis. Je mehr Personen du für das Flatrate-Modell anmeldest, desto tiefer der monatliche Pauschalpreis pro Person.
+{{% /content %}}
 
 {{< button
   "Jetzt Offerte anfordern"
@@ -43,7 +45,7 @@ Wir haben ein volumenbasiertes Preismodell: Je mehr Signaturen du in einem Prepa
 {{% content %}}
 
 # Identifikation
-Keine E-ID vorhanden? 
+Keine E-ID vorhanden?
 Lass dich von uns identifizieren oder identifiziere deine Leute selbst
 {{% /content %}}
 
@@ -57,22 +59,23 @@ Suitable if new signees are constantly being added.
 Passend, wenn du die QES in einem vordefinierten Personenkreis einsetzt.
 {{% /plan %}}
 {{< /row >}}
-
-## Die Identitätsprüfung erfolgt einmalig im persönlichen Kontakt  mit der ID-App von Swisscom. 
-
-{{< button
-  "Weitere Infos zur Identifikation"
-  "identification"
-  "_blank"
->}}
-
 {{% /center-block %}}
+
+{{% cta
+  "Weitere Infos zur Identifikation"
+  "/identification"
+  "_blank"
+%}}
+{{% content %}}
+**Die Identitätsprüfung erfolgt einmalig im persönlichen Kontakt mit der ID-App von Swisscom.**
+{{% /content %}}
+{{% /cta %}}
 
 {{< outro >}}
 {{< picture image8 414 >}}
 
 {{% content %}}
-## Jetzt Skribble unverbindlich ausprobieren!
+# Jetzt Skribble unverbindlich ausprobieren!
 Keine Kreditkarte, Eintrittsgebühr oder Verpflichtung erforderlich.
 
 {{< button
