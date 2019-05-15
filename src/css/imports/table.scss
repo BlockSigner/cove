@@ -5,9 +5,7 @@
   font-size: 1.6rem;
 
   &-wrapper {
-    max-width: 750px;
-    margin: 0 auto;
-    padding: 24px 0;
+    @include site-width($narrow: true);
   }
 
   td {

@@ -94,7 +94,6 @@ img {
   &--narrow,
   &--identification {
     @include site-width;
-    // width: 800px;
     max-width: 100vw;
     margin: 0 auto;
   }
@@ -102,7 +101,6 @@ img {
   &--contact,
   &--team {
     @include site-width;
-    width: 1030px;
     max-width: 100vw;
     margin: 0 auto;
   }

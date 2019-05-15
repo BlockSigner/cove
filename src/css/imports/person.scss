@@ -65,6 +65,8 @@
 }
 
 .people {
+  @include site-width();
+  width: 1078px;
   display: flex;
   flex-direction: column;
   @include max-width() {

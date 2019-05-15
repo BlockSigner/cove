@@ -1,4 +1,6 @@
 .richtext {
+  @include site-width($narrow: true);
+
   a:not(.btn) {
     color: $c-text;
     transition: color .36s cubic-bezier(0.4, 0.0, 0.2, 1);

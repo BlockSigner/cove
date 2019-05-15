@@ -1,5 +1,6 @@
 .maps {
-  width: 100%;
+  @include site-width($narrow: true);
+  width: 1078px;
   height: 520px;
-  margin-top: 50px;
+  margin: 50px auto 0;
 }

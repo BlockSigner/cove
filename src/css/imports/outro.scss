@@ -1,8 +1,9 @@
 .outro {
-  @include site-width($narrow: true);
+  @include site-width;
   @include vertical-unit-margins;
   display: flex;
   align-items: center;
+  width: 1100px;
   @include max-width {
     flex-direction: column;
   }

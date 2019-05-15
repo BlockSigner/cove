@@ -1,8 +1,9 @@
 .side-by-side {
-  @include site-width($narrow: true);
+  @include site-width;
   @include vertical-unit-margins;
   display: flex;
   align-items: center;
+  max-width: 918px;
   @include max-width {
     flex-direction: column;
   }
