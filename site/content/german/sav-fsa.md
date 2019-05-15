@@ -109,7 +109,7 @@ Erfahre mehr über das Angebot.
 
 {{< button
   "Jetzt Termin vereinbaren"
-  "https://www.skribble.info/meetings/simon79/beratung-zu-identifikationslsungen"
+  "https://help.skribble.com/meetings/simon79/beratung-zu-identifikationslsungen"
   "_blank"
 >}}
 <a class="mobile-link" href="tel:+41445051664">
