@@ -39,6 +39,39 @@
     }
   }
 
+  dl {
+    display: flex;
+    flex-wrap: wrap;
+    border-bottom: 1px solid $c-border;
+    text-align: left;
+  }
+
+  dt {
+    flex: 0 0 30%;
+    padding: 22px 22px 22px 0;
+    border-top: 1px solid $c-border;
+    font-weight: bold;
+    font-size: 2rem;
+    color: $c-text-alt;
+    @include max-width {
+      flex-basis: 100%;
+      padding-right: 0;
+    }
+  }
+
+  dd {
+    flex: 0 0 70%;
+    margin-left: 0;
+    padding: 22px 0 22px 22px;
+    border-top: 1px solid $c-border;
+    @include max-width {
+      flex-basis: 100%;
+      padding-left: 0;
+      padding-top: 0;
+      border-top: 0;
+    }
+  }
+
   strong {
     color: $c-text-alt;
   }

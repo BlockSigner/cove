@@ -25,17 +25,19 @@ Suitable for regular signing with QES
 {{% /plan %}}
 {{< /row >}}
 
-## Can be flexibly combined
-The two service models can be combined: For example, if Mr. Sample daily signs contracts with various external parties, we recommend the flat rate plan for Mr. Sample and the prepaid plan for the external parties.
+{{% content %}}
+Can be flexibly combined
+: The two service models can be combined: For example, if Mr. Sample daily signs contracts with various external parties, we recommend the flat rate plan for Mr. Sample and the prepaid plan for the external parties.
 
-## The more, the less expensive
-We have a volume-based pricing model: the more signatures you purchase in a prepaid plan, the lower the unit price. The more people you sign up for the flat rate plan, the lower the monthly flat rate per person.
+The more, the less expensive
+: We have a volume-based pricing model: the more signatures you purchase in a prepaid plan, the lower the unit price. The more people you sign up for the flat rate plan, the lower the monthly flat rate per person.
 
 {{< button
   "Get offer now"
   "mailto:info@skribble.com"
   "_blank"
 >}}
+{{% /content %}}
 
 {{% /center-block %}}
 
@@ -56,15 +58,16 @@ Suitable if new signees are constantly being added.
 Suitable if you use QES in a predefined circle of people.
 {{% /plan %}}
 {{< /row >}}
-
-## The identity check is carried out once upon personal contact with the ID app provided by Swisscom.
-
-{{< button
-  "More information about identification"
-  "identification"
->}}
-
 {{% /center-block %}}
+
+{{% cta
+  "More information about identification"
+  "/identification"
+%}}
+{{% content %}}
+**The identity check is carried out once upon personal contact with the ID app provided by Swisscom.**
+{{% /content %}}
+{{% /cta %}}
 
 {{< outro >}}
 {{< picture image8 414 >}}

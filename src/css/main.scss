@@ -47,7 +47,7 @@ body {
   display: flex;
   flex-direction: column;
   align-items: center;
-  font: normal 2rem/1.4 $averta;
+  font: normal 1.8rem/1.4 $averta;
   color: $c-text;
   overflow-x: hidden;
   -webkit-font-smoothing: antialiased;
@@ -60,13 +60,6 @@ body {
 img {
   display: block;
   max-width: 100%;
-}
-
-* {
-  outline: 1px solid rgba(red, .25);
-  &.center-block {
-    outline-color: green;
-  }
 }
 
 .wrapper {
