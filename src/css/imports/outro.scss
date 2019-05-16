@@ -1,5 +1,8 @@
 .outro {
   @include double-padding;
+  @include min-width {
+    padding-top: 120px;
+  }
 
   &__inner {
     display: flex;

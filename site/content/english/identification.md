@@ -33,11 +33,12 @@ The qualified electronic signature (QES) requires the signing party to verify hi
 {{< center-block >}}
 {{% content %}}
 # Do you already have an electronic identity? Then sign up now.
+
+{{< picture "identification-id" 412 >}}
+
 A growing number of people in Europe holds a verified electronic identity (E-ID). Skribble can be linked with all relevant E-IDs. Thus, millions of users can sign in a qualified manner without additional identity verification.
 
 For you as a company, this means, on the one hand, that you do not have to worry about the identification of these people. On the other hand, you are always on the safe side, no matter which E-ID prevails among your users.
-
-{{< picture "identification-id" 412 >}}
 
 {{% /content %}}
 {{< /center-block >}}
@@ -104,9 +105,10 @@ We will come by and identify these people on site. This way, you are quickly and
 {{< center-block >}}
 {{% content %}}
 # Would you like to sign in a qualified manner electronically as a private individual?
-Skribble can easily be used outside the company context. If you do not yet have an E-ID, we will be happy to identify you at Bahnhofstrasse 3 in Zurich. It only takes a few minutes.
 
 {{< picture "individual-signing" 448 >}}
+
+Skribble can easily be used outside the company context. If you do not yet have an E-ID, we will be happy to identify you at Bahnhofstrasse 3 in Zurich. It only takes a few minutes.
 
 {{% /content %}}
 {{< /center-block >}}

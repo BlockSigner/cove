@@ -13,10 +13,15 @@
   .content {
     @include min-width {
       flex: 1 1 100%;
-      padding: 0 40px;
     }
     @include max-width {
       order: -1;
+    }
+    &:first-child {
+      padding-right: 30px;
+    }
+    &:last-child {
+      padding-left: 30px;
     }
 
     h2:first-child {
@@ -27,7 +32,12 @@
   .picture {
     @include min-width {
       flex: 1 1 100%;
-      padding: 0 40px;
+    }
+    &:first-child {
+      padding-right: 30px;
+    }
+    &:last-child {
+      padding-left: 30px;
     }
   }
 }

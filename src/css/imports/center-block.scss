@@ -26,5 +26,8 @@
   .row,
   .column {
     text-align: left;
+    &:last-child {
+      padding-bottom: 0;
+    }
   }
 }

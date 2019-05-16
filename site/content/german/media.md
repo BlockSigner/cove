@@ -71,7 +71,7 @@ Die wichtigsten Skribble Branding Assets sind gleich hier griffbereit:
 {{< picture image8 414 >}}
 
 {{% content %}}
-## Jetzt Skribble unverbindlich ausprobieren!
+# Jetzt Skribble unverbindlich ausprobieren!
 Keine Kreditkarte, Eintrittsgebühr oder Verpflichtung erforderlich.
 
 {{< button

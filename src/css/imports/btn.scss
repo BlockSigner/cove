@@ -1,6 +1,8 @@
 .btn {
-  display: inline-block;
-  height: 60px;
+  display: inline-flex;
+  justify-content: center;
+  align-items: center;
+  height: 54px;
   font-weight: bold;
   text-align: center;
   white-space: nowrap;
@@ -10,7 +12,6 @@
   border-radius: 3px;
   padding: 0 23px;
   font-size: 1.6rem;
-  line-height: 60px;
   cursor: pointer;
   color: #fff;
   background-color: $c-primary;

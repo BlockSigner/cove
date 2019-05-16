@@ -1,6 +1,6 @@
 .intro {
   @include site-width;
-  @include standard-padding;
+  @include double-padding;
   display: flex;
   align-items: center;
   width: $intro-width;

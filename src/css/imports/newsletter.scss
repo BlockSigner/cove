@@ -51,6 +51,9 @@
           border: 2px solid $c-primary;
           outline: 0;
         }
+        &::placeholder {
+          color: $c-text;
+        }
       }
 
       &-submit {

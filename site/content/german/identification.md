@@ -33,11 +33,12 @@ Für die qualifizierte elektronische Signatur (QES) muss der Unterzeichnende sei
 {{< center-block >}}
 {{% content %}}
 # Besitzt du bereits eine elektronische Identität? Melde dich einfach an.
+
+{{< picture "identification-id" 412 >}}
+
 Eine wachsende Anzahl Menschen in Europa verfügt über eine geprüfte elektronische Identität (E-ID). Skribble bindet diese an. So können Millionen von Nutzern ohne zusätzliche Identitätsprüfung qualifiziert signieren.
 
 Für dich als Firma bedeutet das erstens, dass du dich nicht um die Identifikation dieser Personen kümmern musst. Zweitens bist du auf jeden Fall auf der sicheren Seite, egal, welche E-ID sich bei deinen Nutzern durchsetzt.
-
-{{< picture "identification-id" 412 >}}
 
 {{% /content %}}
 {{< /center-block >}}
@@ -104,9 +105,10 @@ Wir kommen vorbei und identifizieren diese Personen vor Ort. Damit seid ihr schn
 {{< center-block >}}
 {{% content %}}
 # Möchtest Du als Privatperson qualifiziert elektronisch signieren?
-Skribble kann problemlos ausserhalb des Firmenkontextes genutzt werden. Falls du noch über keine E-ID verfügst, identifizieren wir dich gerne an der Bahnhofstrasse 3 in Zürich. Es dauert nur wenige Minuten.
 
 {{< picture "individual-signing" 448 >}}
+
+Skribble kann problemlos ausserhalb des Firmenkontextes genutzt werden. Falls du noch über keine E-ID verfügst, identifizieren wir dich gerne an der Bahnhofstrasse 3 in Zürich. Es dauert nur wenige Minuten.
 
 {{% /content %}}
 {{< /center-block >}}
