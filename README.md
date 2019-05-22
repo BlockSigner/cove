@@ -47,17 +47,17 @@ Let's have a look at the button component. It is added to your content by writin
 ```
 This adds the HTML parameter `target="_blank"` to the generated HTML.
 
-Other components can contain more complex content. These components wrap their content, so they have a closing tag that indicates the end of the component. A good example is the `content` component that the Skribble website uses to style markdown in a certain way when adding it to layout components. We'll cover layout components next, don't worry.
+Other components can contain more complex content. These components wrap their content, so they have a closing tag that indicates the end of the component. A good example is the `heading` component that arranges a title and a lead text. We'll cover layout components next, don't worry.
 ```
-{{% content %}}
+{{% heading %}}
 # Signatures can be purchased individually or at a flat rate.
 Skribbles' pricing adapts to your needs and can be flexibly configured.
-{{% /content %}}
+{{% /heading %}}
 ```
-See how we used the `%` delimiter here? It interprets the content of the `content` component as markdown. The closing tag of our `content` component has a leading `/` before the name to indicate the end of the component.
+See how we used the `%` delimiter here? It interprets the content of the `content` component as markdown. The closing tag of our `heading` component has a leading `/` before the name to indicate the end of the component.
 
 ### Layout components
-Skribble Cove uses layout components to structure or layout a web page. There are 2 main layout components: `side-by-side` and `column`. Both of these 2 layout components span the entire width of the browser.
+Skribble Cove uses layout components to structure or layout a web page. There are 2 main layout components: `side-by-side` and `content`.
 
 #### {{< side-by-side >}}
 This component is a basic building block for Cove. It aligns a picture and a content component next to each other.
@@ -70,23 +70,16 @@ This component is a basic building block for Cove. It aligns a picture and a con
 {{< /side-by-side >}}
 ```
 
-#### {{< center-block >}}
-The other basic building block `center-block` aligns content from top to bottom while horizontally centering all elements within. It usually starts with a title and a leading text but its contents are completely free to choose. To further group components within the `center-block` you can use the `row` and the `column` component.
+#### {{< content >}}
+The other basic building block `content` building direction is top to down. It usually starts with a heading component its contents are completely free to choose. To horizontally group components within the `content` you can use the `row` component.
 
 ##### {{< row >}}
 Draws its contents laterally outwards from the center. Its content is horizontally centered, vertically stretched, and never wrapped. Example content: `plan` component.
 
-##### {{< column >}}
-Draws its contents from top to bottom. Its content is horizontally centered. Example content: `collapsible` component.
-
 ### Markdown wrapper components
-Note: consider using only one of the 2.
 
 #### {{% richtext %}}
-Applies styling for headings, paragraphs, links, and lists.
-
-#### {{% content %}}
-Applies styling for headings, paragraphs, links, and lists.
+Applies styling for headings, paragraphs, links, and lists (ul, ol, dl).
 
 ### Atomic components
 Components that are rather simple and used in various places throughout the website.
@@ -125,6 +118,12 @@ The `-` and the `w` in the filename are added by the component. You have to add 
 2. natural width of the image
 
 ### Custom components
+
+#### {{< heading >}}
+The heading component is used to arrange a title and a lead text. It centers its content by default. You can left align the content by passing the `left` paramter.
+
+**Parameters**
+1. left (optional)
 
 #### {{< intro >}}
 #### {{< intro-partner >}}
@@ -165,3 +164,37 @@ A signature with Skribble is equal to the handwritten signature according to Swi
 2. title of the collapsible
 
 #### {{< outro >}}
+
+## Outlines
+To show component outlines and component labels, add the following styling to `main.scss`.
+
+```scss
+@mixin outline($name: default, $color: black, $orientation: 45deg) {
+  outline: 1px solid $color !important;
+  background: repeating-linear-gradient($orientation, rgba($color, .1),rgba($color, .1) 10px,rgba($color, .05) 10px,rgba($color, .05) 20px);
+  position: relative;
+  &:after {
+    position: absolute;
+    left: 0;
+    top: 0;
+    z-index: 10;
+    font: 10px/1 monospace;
+    background: $color;
+    color: white;
+    padding: 2px;
+    content: '#{$name}';
+  }
+}
+* {outline: 1px solid rgba(red, .1);}
+.collapsible {@include outline(collapsible, darkgoldenrod, -45deg);}
+.content {@include outline(content, black);}
+.cta {@include outline(cta, seagreen);}
+.heading {@include outline(heading, purple, -45deg);}
+.intro {@include outline(intro, black);}
+.outro {@include outline(outro, black);}
+.picture {@include outline(picture, tomato, -45deg);}
+.richtext {@include outline(richtext, mediumslateblue, -45deg);}
+.row {@include outline(row, grey, -45deg);}
+.side-by-side {@include outline(side-by-side, black);}
+.table-wrapper {@include outline(table-wrapper, darkorchid);}
+```

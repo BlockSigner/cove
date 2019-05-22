@@ -8,12 +8,11 @@ og_image: og/og-skribble-mission.jpg
 
 ---
 
-{{% center-block %}}
 {{% content %}}
+{{% heading %}}
 # Pay per signature or as a flatrate and save if you sign more
 Skribbles offer structure adapts to your needs.
-{{% /content %}}
-
+{{% /heading %}}
 {{< picture image15 585 >}}
 
 {{< row >}}
@@ -25,28 +24,28 @@ Suitable for regular signing with QES
 {{% /plan %}}
 {{< /row >}}
 
-{{% content %}}
+{{% richtext %}}
 Can be flexibly combined
 : The two service models can be combined: For example, if Mr. Sample daily signs contracts with various external parties, we recommend the flat rate plan for Mr. Sample and the prepaid plan for the external parties.
 
 The more, the less expensive
 : We have a volume-based pricing model: the more signatures you purchase in a prepaid plan, the lower the unit price. The more people you sign up for the flat rate plan, the lower the monthly flat rate per person.
+{{% /richtext %}}
+{{% /content %}}
 
-{{< button
+{{% cta
   "Get offer now"
   "mailto:info@skribble.com"
   "_blank"
->}}
-{{% /content %}}
+%}}
+{{% /cta %}}
 
-{{% /center-block %}}
 
-{{% center-block %}}
 {{% content %}}
-
+{{% heading %}}
 # Identification
 No E-ID at hand? Let us verify your identity or identify your people by yourself
-{{% /content %}}
+{{% /heading %}}
 
 {{< picture image6 410 >}}
 
@@ -58,15 +57,15 @@ Suitable if new signees are constantly being added.
 Suitable if you use QES in a predefined circle of people.
 {{% /plan %}}
 {{< /row >}}
-{{% /center-block %}}
+{{% /content %}}
 
 {{% cta
   "More information about identification"
   "/identification"
 %}}
-{{% content %}}
+{{% richtext %}}
 **The identity check is carried out once upon personal contact with the ID app provided by Swisscom.**
-{{% /content %}}
+{{% /richtext %}}
 {{% /cta %}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
@@ -74,14 +73,16 @@ Suitable if you use QES in a predefined circle of people.
 {{< outro >}}
 {{< picture image8 414 >}}
 
-{{% content %}}
+{{% richtext %}}
+{{% heading left %}}
 # Try Skribble now without obligation!
 No credit card, entrance fee or commitment required.
+{{% /heading %}}
 
 {{< button
   "Try it now"
   "https://my.skribble.com/signup?lang=en"
   "_blank"
 >}}
-{{% /content %}}
+{{% /richtext %}}
 {{< /outro >}}

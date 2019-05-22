@@ -8,17 +8,17 @@ og_image: og/og-skribble-mission.jpg
 
 ---
 
-{{< center-block >}}
 {{% content %}}
+{{% heading %}}
 # Skribble für Medien
 Hier findest du alles was du brauchst, um über Skribble zu schreiben.
+{{% /heading %}}
 
 {{< picture image12 688 >}}
 
 Skribble wurde im März 2018 mit der Mission gegründet, das Vertrauen zwischen Menschen in digitalen Geschäftsbeziehungen sicherzustellen.
 Praktisch heisst das zum aktuellen Zeitpunkt, dass wir die qualifzierte elektronische Signatur (QES) breit anwendbar machen - die einzige Form der digitalen Unterschrift, die der handschriftlichen Signatur vor dem Gesetz gleichgestellt ist. Skribble hat X Mitarbeitende und ist in der Schweiz und in der EU aktiv.
 {{% /content %}}
-{{< /center-block >}}
 
 {{% cta
   "Kontakt"
@@ -29,10 +29,10 @@ Praktisch heisst das zum aktuellen Zeitpunkt, dass wir die qualifzierte elektron
 
 {{< picture image13 100 >}}
 
-{{% content %}}
+{{% richtext %}}
 **Kira Leuthold**<br>
 Communications & Public Relations
-{{% /content %}}
+{{% /richtext %}}
 {{% /cta %}}
 
 {{% cta
@@ -44,10 +44,10 @@ Communications & Public Relations
 
 {{< picture image14 106 >}}
 
-{{% content %}}
+{{% richtext %}}
 **Brand-Assets**<br>
 Die wichtigsten Skribble Branding Assets sind gleich hier griffbereit:
-{{% /content %}}
+{{% /richtext %}}
 {{% /cta %}}
 
 {{% table "Medienmitteilungen" %}}
@@ -67,17 +67,20 @@ Die wichtigsten Skribble Branding Assets sind gleich hier griffbereit:
 </tr>
 {{% /table %}}
 
+
 {{< outro >}}
 {{< picture image8 414 >}}
 
-{{% content %}}
+{{% richtext %}}
+{{% heading left %}}
 # Jetzt Skribble unverbindlich ausprobieren!
 Keine Kreditkarte, Eintrittsgebühr oder Verpflichtung erforderlich.
+{{% /heading %}}
 
 {{< button
   "Jetzt ausprobieren"
   "https://my.skribble.com/signup?lang=de"
   "_blank"
 >}}
-{{% /content %}}
+{{% /richtext %}}
 {{< /outro >}}

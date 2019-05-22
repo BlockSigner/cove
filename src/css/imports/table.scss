@@ -5,13 +5,8 @@
   font-size: 1.6rem;
 
   &-wrapper {
+    @include site-width($narrow: true);
     @include half-padding;
-
-    &__inner {
-      &.container {
-        width: $site-width-narrow;
-      }
-    }
   }
 
   td {

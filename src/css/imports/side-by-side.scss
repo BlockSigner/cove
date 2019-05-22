@@ -1,16 +1,14 @@
 .side-by-side {
   @include standard-padding;
-
-  &__inner {
-    display: flex;
-    align-items: center;
-    width: $side-by-side-width;
-    @include max-width {
-      flex-direction: column;
-    }
+  @include site-width;
+  display: flex;
+  align-items: center;
+  width: $side-by-side-width;
+  @include max-width {
+    flex-direction: column;
   }
 
-  .content {
+  .richtext {
     @include min-width {
       flex: 1 1 100%;
     }

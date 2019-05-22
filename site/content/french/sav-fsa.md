@@ -12,9 +12,15 @@ type: blank
   {{< picture image1 678 >}}
 </div>
 
-{{% content %}}
+{{% richtext %}}
+{{% heading left %}}
 # Signature électronique légalement valide avec Skribble
+<<<<<<< HEAD
 Traiter les processus de signature numériquement &ndash; juridiquement valides selon le droit suisse et européen.
+=======
+Traiter les processus de signature numériquement - juridiquement valides selon le droit suisse et européen.
+{{% /heading %}}
+>>>>>>> refactor(unify all components): Add outlines and labels to components to simplify styling optimizati
 
 
 <div class="hide-for-desktop">
@@ -26,20 +32,20 @@ Traiter les processus de signature numériquement &ndash; juridiquement valides 
   "Basé sur la signature électronique qualifiée QES de Swisscom"
 >}}
 
-{{% /content %}}
+{{% /richtext %}}
 {{< /intro >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
 {{< side-by-side >}}
-{{% content %}}
+{{% richtext %}}
 ## La signature électronique qualifiée avec Skribble simple, intuitif et efficace
 {{% fancy-list %}}
 - **Aucun matériel externe requis** Skribble peut être utilisé immédiatement
 - **Joindre plusieurs signatures** Signer plusieurs documents en un seul clic (signature groupées)
 - **Coordination rapide et efficace** Invitations à signer par courriel et rappels
 {{% /fancy-list %}}
-{{% /content %}}
+{{% /richtext %}}
 
 {{< picture image4 391 >}}
 {{< /side-by-side >}}
@@ -49,36 +55,41 @@ Traiter les processus de signature numériquement &ndash; juridiquement valides 
 {{< side-by-side >}}
 {{< picture image5 430 >}}
 
-{{% content %}}
+{{% richtext %}}
 ## Skribble répond aux normes juridiques et technologiques les plus élevées.
 {{% fancy-list %}}
 - **SCSE & eIDAS** Certificats QES de Swisscom
 - **LPD/ RGDP** Chiffrement AES-256
 - **Hébergement en Suisse** Conforme FINMA, certifié ISO 27001
 {{% /fancy-list %}}
-{{% /content %}}
+{{% /richtext %}}
 {{< /side-by-side >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{% center-block %}}
 {{% content %}}
+<<<<<<< HEAD
 # Les membres de la SAV-FSA utilisent Skribble à un prix préférentiel
+=======
+{{% heading %}}
+# Les membres de la SAV-FSAutilisent Skribble à un prix préférentiel
+{{% /heading %}}
+>>>>>>> refactor(unify all components): Add outlines and labels to components to simplify styling optimizati
 
 {{< picture sav-special 200 >}}
 
+{{% richtext %}}
 ## par mois / utilisateur au lieu de CHF 25.-
 Les signatures peuvent également être obtenues selon un modèle prépayé.
-
+{{% /richtext %}}
 {{% /content %}}
-{{% /center-block %}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
 {{< side-by-side >}}
 {{< picture identification 482 >}}
 
-{{% content %}}
+{{% richtext %}}
 # Prêt à signer en 5 minutes
 
 Tout ce dont tu as besoin c'est d'un téléphone portable et un document d'identification officiel. (passeport ou carte d'identité)
@@ -96,7 +107,7 @@ Un cabinet d'avocats peut également être qualifié pour le faire, pour identif
   "Partenaire officiel d'identification de Swisscom"
 >}}
 
-{{% /content %}}
+{{% /richtext %}}
 {{< /side-by-side >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
@@ -104,9 +115,11 @@ Un cabinet d'avocats peut également être qualifié pour le faire, pour identif
 {{< outro >}}
 {{< picture image8 414 >}}
 
-{{% content %}}
+{{% richtext %}}
+{{% heading left %}}
 # Signez dès à présent électroniquement de manière légalement valide
 En savoir plus sur l'offre.
+{{% /heading %}}
 
 {{< button
   "Fixer un rendez-vous"
@@ -123,5 +136,5 @@ En savoir plus sur l'offre.
   </svg>
   +41 44 505 16 64
 </a>
-{{% /content %}}
+{{% /richtext %}}
 {{< /outro >}}

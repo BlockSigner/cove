@@ -8,9 +8,7 @@
 
 @import 'imports/btn';
 
-@import 'imports/center-block';
 @import 'imports/collapsible';
-@import 'imports/column';
 @import 'imports/container';
 @import 'imports/contact';
 @import 'imports/content';
@@ -19,6 +17,7 @@
 @import 'imports/fancy-list';
 @import 'imports/footer';
 @import 'imports/header';
+@import 'imports/heading';
 @import 'imports/intro';
 @import 'imports/lan-nav';
 @import 'imports/maps';
@@ -26,6 +25,7 @@
 @import 'imports/newsletter';
 @import 'imports/outro';
 @import 'imports/person';
+@import 'imports/picture';
 @import 'imports/plan';
 @import 'imports/richtext';
 @import 'imports/row';
@@ -35,6 +35,38 @@
 @import 'imports/title-subtitle';
 
 @import 'imports/hs-cookie-consent';
+
+// =============================================================================
+@mixin outline($name: default, $color: black, $orientation: 45deg) {
+  outline: 1px solid $color !important;
+  background: repeating-linear-gradient($orientation, rgba($color, .1),rgba($color, .1) 10px,rgba($color, .05) 10px,rgba($color, .05) 20px);
+  position: relative;
+  &:after {
+    position: absolute;
+    left: 0;
+    top: 0;
+    z-index: 10;
+    font: 10px/1 monospace;
+    background: $color;
+    color: white;
+    padding: 0 2px 2px 2px;
+    content: '#{$name}';
+  }
+}
+* {outline: 1px solid rgba(red, .1);}
+.collapsible {@include outline(collapsible, darkgoldenrod, -45deg);}
+.content {@include outline(content, black);}
+.cta {@include outline(cta, seagreen);}
+.heading {@include outline(heading, purple, -45deg);}
+.intro {@include outline(intro, black);}
+.outro {@include outline(outro, black);}
+.picture {@include outline(picture, tomato, -45deg);}
+.plan {@include outline(plan, darkslategrey, -45deg);}
+.richtext {@include outline(richtext, mediumslateblue, -45deg);}
+.row {@include outline(row, grey, -45deg);}
+.side-by-side {@include outline(side-by-side, black);}
+.table-wrapper {@include outline(table-wrapper, darkorchid);}
+// =============================================================================
 
 html {
   font-size: 10px;
@@ -70,6 +102,8 @@ img {
   align-items: center;
   min-height: 100vh;
 }
+
+
 
 .main {
   flex: 1 0 auto;

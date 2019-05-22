@@ -1,10 +1,11 @@
 ---
-title: Privacy Policy
+title: Privacy Policys
 slug: privacy
 draft: false
 description: Privacy policy meta description
 ---
 
+{{% content %}}
 {{% richtext %}}
 # Privacy Policy
 
@@ -226,3 +227,4 @@ If you have any questions about this Privacy Policy, please contact us:
 •	By email: <a href="mailto:info@skribble.com">info@skribble.com</a>
 •	By visiting this page on our website: <a href="https://www.skribble.com/contact/" target="_blank">www.skribble.com/contact/</a>
 {{% /richtext %}}
+{{% /content %}}

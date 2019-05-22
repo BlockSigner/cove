@@ -1,11 +1,6 @@
 .cta {
+  @include site-width($narrow: true);
   @include half-padding;
-
-  &__inner {
-    &.container {
-      width: $site-width-narrow;
-    }
-  }
 
   img {
     margin: 0;
@@ -13,12 +8,12 @@
 
   .picture {
     margin: 0;
-    + .content {
+    + .richtext {
       margin-left: 24px;
     }
   }
 
-  .content {
+  .richtext {
     text-align: left;
     @include min-width() {
       max-width: 70%;

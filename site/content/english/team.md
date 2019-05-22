@@ -118,14 +118,16 @@ groups:
 {{< outro >}}
 {{< picture image8 414 >}}
 
-{{% content %}}
+{{% richtext %}}
+{{% heading left %}}
 # Try Skribble now without obligation!
 No credit card, entrance fee or commitment required.
+{{% /heading %}}
 
 {{< button
   "Try it now"
   "https://my.skribble.com/signup?lang=en"
   "_blank"
 >}}
-{{% /content %}}
+{{% /richtext %}}
 {{< /outro >}}

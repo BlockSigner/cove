@@ -8,11 +8,11 @@ og_image: og/og-skribble-mission.jpg
 
 ---
 
-{{% center-block %}}
 {{% content %}}
+{{% heading %}}
 # Bezahle pro Signatur oder als Flatrate und spare, wenn du mehr signierst
 Skribbles Angebotsstruktur passt sich deinen Bedürfnissen an.
-{{% /content %}}
+{{% /heading %}}
 
 {{< picture image15 585 >}}
 
@@ -25,29 +25,29 @@ Geeignet für regelmässiges Signieren mit QES
 {{% /plan %}}
 {{< /row >}}
 
-{{% content %}}
+{{% richtext %}}
 Flexibel kombinierbar
 : Die zwei Angebotsmodelle können kombiniert werden: Unterschreibt z.B. Herr Muster täglich Verträge, die mit verschiedensten externen Parteien eingegangen werden, empfehlen wir das Flatrate-Modell für Herr Muster und das Prepaid-Modell für die externen Parteien.
 
 Je mehr, desto günstiger
 : Wir haben ein volumenbasiertes Preismodell: Je mehr Signaturen du in einem Prepaid-Paket beziehst, desto tiefer der Einzelpreis. Je mehr Personen du für das Flatrate-Modell anmeldest, desto tiefer der monatliche Pauschalpreis pro Person.
+{{% /richtext %}}
 {{% /content %}}
 
-{{< button
+{{% cta
   "Jetzt Offerte anfordern"
   "mailto:info@skribble.com"
   "_blank"
->}}
+%}}
+{{% /cta %}}
 
-{{% /center-block %}}
-
-{{% center-block %}}
 {{% content %}}
 
+{{% heading %}}
 # Identifikation
 Keine E-ID vorhanden?
 Lass dich von uns identifizieren oder identifiziere deine Leute selbst
-{{% /content %}}
+{{% /heading %}}
 
 {{< picture image6 410 >}}
 
@@ -59,29 +59,31 @@ Suitable if new signees are constantly being added.
 Passend, wenn du die QES in einem vordefinierten Personenkreis einsetzt.
 {{% /plan %}}
 {{< /row >}}
-{{% /center-block %}}
+{{% /content %}}
 
 {{% cta
   "Weitere Infos zur Identifikation"
   "/identification"
   "_blank"
 %}}
-{{% content %}}
+{{% richtext %}}
 **Die Identitätsprüfung erfolgt einmalig im persönlichen Kontakt mit der ID-App von Swisscom.**
-{{% /content %}}
+{{% /richtext %}}
 {{% /cta %}}
 
 {{< outro >}}
 {{< picture image8 414 >}}
 
-{{% content %}}
+{{% richtext %}}
+{{% heading left %}}
 # Jetzt Skribble unverbindlich ausprobieren!
 Keine Kreditkarte, Eintrittsgebühr oder Verpflichtung erforderlich.
+{{% /heading %}}
 
 {{< button
   "Jetzt ausprobieren"
   "https://my.skribble.com/signup?lang=de"
   "_blank"
 >}}
-{{% /content %}}
+{{% /richtext %}}
 {{< /outro >}}

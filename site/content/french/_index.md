@@ -14,9 +14,11 @@ draft: false
   {{< picture image1 678 >}}
 </div>
 
-{{% content %}}
+{{% richtext %}}
+{{% heading left %}}
 # Signature électronique juridiquement valable par Skribble
 Traiter les processus de signature digitales de manière simple - juridiquement valable selon le droit suisse et européen.
+{{% /heading %}}
 
 <div class="hide-for-desktop">
   {{< picture image1 678 >}}
@@ -33,11 +35,10 @@ Traiter les processus de signature digitales de manière simple - juridiquement 
   "Basé sur la signature électronique qualifiée QES de Swisscom"
 >}}
 
-{{% /content %}}
+{{% /richtext %}}
 {{< /intro >}}
 
-{{% center-block %}}
 {{% content %}}
+{{% richtext %}}
 Nous sommes en train de traduire notre site Web en français. Tu trouveras plus d'informations sur Skribble dans les versions <a href="https://www.skribble.com/de/">allemande</a> et <a href="https://www.skribble.com/">anglaise</a>.
-{{% /content %}}
-{{% /center-block %}}
+{{% /richtext %}}

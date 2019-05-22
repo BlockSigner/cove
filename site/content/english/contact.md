@@ -7,7 +7,7 @@ type: contact
 
 # map component
 map:
-  title: Skribble Office 
+  title: Skribble Office
   subtitle: Right on Bahnhofstrasse, in the heart of Zurich
   columns:
     - title: Company
@@ -29,14 +29,16 @@ map:
 {{< outro >}}
 {{< picture image8 414 >}}
 
-{{% content %}}
+{{% richtext %}}
+{{% heading left %}}
 # Try Skribble now without obligation!
 No credit card, entrance fee or commitment required.
+{{% /heading %}}
 
 {{< button
   "Try it now"
   "https://my.skribble.com/signup?lang=en"
   "_blank"
 >}}
-{{% /content %}}
+{{% /richtext %}}
 {{< /outro >}}

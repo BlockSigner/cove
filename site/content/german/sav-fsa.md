@@ -12,9 +12,11 @@ type: blank
   {{< picture image1 678 >}}
 </div>
 
-{{% content %}}
+{{% richtext %}}
+{{% heading left %}}
 # Rechtsgültig elektronisch signieren mit Skribble
 Signaturprozesse einfach digital abwickeln – rechtsgültig nach dem Schweizer & EU Gesetz.
+{{% /heading %}}
 
 <div class="hide-for-desktop">
   {{< picture image1 678 >}}
@@ -25,20 +27,20 @@ Signaturprozesse einfach digital abwickeln – rechtsgültig nach dem Schweizer 
   "Basierend auf der qualifizierten elektronischen Signatur QES der Swisscom"
 >}}
 
-{{% /content %}}
+{{% /richtext %}}
 {{< /intro >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
 {{< side-by-side >}}
-{{% content %}}
+{{% richtext %}}
 ## Die qualifizierte elektronische Signatur wird mit Skribble einfach, intuitiv und effizient
 {{% fancy-list %}}
 - **Keine externe Hardware notwendig** Skribble ist sofort einsetzbar
 - **Mehrfachsignaturen anbringen** Mehrere Dokumente mit einem Klick signieren (Stapelsignatur)
 - **Zeitsparende Koordination** Per E-Mail zum Signieren einladen und erinnern
 {{% /fancy-list %}}
-{{% /content %}}
+{{% /richtext %}}
 
 {{< picture image4 391 >}}
 {{< /side-by-side >}}
@@ -48,36 +50,38 @@ Signaturprozesse einfach digital abwickeln – rechtsgültig nach dem Schweizer 
 {{< side-by-side >}}
 {{< picture image5 430 >}}
 
-{{% content %}}
+{{% richtext %}}
 ## Skribble erfüllt höchste rechtliche und technologische Standards
 {{% fancy-list %}}
 - **ZertEs & eIDAS** QES-Zertifikate von Swisscom
 - **DSG/ DSGVO** AES-256 Verschlüsselung
 - **Schweizer Hosting** FINMA-Konform, ISO 27001 zertifiziert
 {{% /fancy-list %}}
-{{% /content %}}
+{{% /richtext %}}
 {{< /side-by-side >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{% center-block %}}
 {{% content %}}
+{{% heading %}}
 # SAV-FSA Mitglieder nutzen Skribble zum Vorzugspreis
+{{% /heading %}}
 
 {{< picture sav-special 200 >}}
 
+{{% richtext %}}
 ## pro Monat / Nutzer anstatt CHF 25.-
 Signaturen können auch nutzerunabhängig bezogen werden.
+{{% /richtext %}}
 
 {{% /content %}}
-{{% /center-block %}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
 {{< side-by-side >}}
 {{< picture identification 482 >}}
 
-{{% content %}}
+{{% richtext %}}
 # Bereit zum Signieren in 5 Minuten
 
 Du benötigst nur ein Mobiltelefon und ein gültiges Ausweispapier (Pass oder Identitätskarte).
@@ -95,7 +99,7 @@ Eine Kanzlei kann auch dazu befähigt werden, selbst Personen zu identifizieren.
   "Offizieller Identifikations-Partner von Swisscom"
 >}}
 
-{{% /content %}}
+{{% /richtext %}}
 {{< /side-by-side >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
@@ -103,9 +107,11 @@ Eine Kanzlei kann auch dazu befähigt werden, selbst Personen zu identifizieren.
 {{< outro >}}
 {{< picture image8 414 >}}
 
-{{% content %}}
+{{% richtext %}}
+{{% heading left %}}
 # Jetzt rechtsgültig elektronisch signieren
 Erfahre mehr über das Angebot.
+{{% /heading %}}
 
 {{< button
   "Jetzt Termin vereinbaren"
@@ -122,5 +128,5 @@ Erfahre mehr über das Angebot.
   </svg>
   +41 44 505 16 64
 </a>
-{{% /content %}}
+{{% /richtext %}}
 {{< /outro >}}

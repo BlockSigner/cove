@@ -9,58 +9,51 @@ og_image: og/og-skribble-identification.jpg
 
 ---
 
-{{< center-block >}}
 {{% content %}}
+{{% heading %}}
 # Identity verification for QES – Skribble makes it easy
 The qualified electronic signature (QES) requires the signing party to verify his or her identity. Skribble offers suitable means of identification for every business context.
-
+{{% /heading %}}
 {{< picture identification 482 >}}
-
 {{% /content %}}
-{{< /center-block >}}
 
 {{% cta
   "Download Factsheet"
   "https://cdn2.hubspot.net/hubfs/5051692/130312%20Factsheet%20-%20CS%20-%20Identification_EN.pdf"
 %}}
-{{% content %}}
+{{% richtext %}}
 **You can find all details about the identity check for QES with Skribble here in our factsheet.**
-{{% /content %}}
+{{% /richtext %}}
 {{% /cta %}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< center-block >}}
 {{% content %}}
+{{% heading %}}
 # Do you already have an electronic identity? Then sign up now.
-
+{{% /heading %}}
 {{< picture "identification-id" 412 >}}
-
 A growing number of people in Europe holds a verified electronic identity (E-ID). Skribble can be linked with all relevant E-IDs. Thus, millions of users can sign in a qualified manner without additional identity verification.
 
 For you as a company, this means, on the one hand, that you do not have to worry about the identification of these people. On the other hand, you are always on the safe side, no matter which E-ID prevails among your users.
-
 {{% /content %}}
-{{< /center-block >}}
 
 {{% cta
   "Schedule appointment"
   "https://help.skribble.com/meetings/simon79/learn-about-skribbles-identification-means"
 %}}
-{{% content %}}
+{{% richtext %}}
 **For more information about how to connect E-IDs to Skribble, please schedule a phone call with us.**
-{{% /content %}}
+{{% /richtext %}}
 {{% /cta %}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< center-block >}}
 {{% content %}}
+{{% heading %}}
 # No electronic identity yet? We’ll get you one.
-
+{{% /heading %}}
 {{< picture "create-identity" 385 >}}
-
-{{% /content %}}
 
 {{< row >}}
 {{% plan
@@ -89,97 +82,97 @@ Suitable if you use QES in a predefined circle of people.
 We will come by and identify these people on site. This way, you are quickly and easily ready to use QES and don't have to worry about identification.
 {{% /plan %}}
 {{< /row >}}
-{{< /center-block >}}
+{{% /content %}}
 
 {{% cta
   "Schedule appointment"
   "https://help.skribble.com/meetings/simon79/learn-about-skribbles-identification-means"
 %}}
-{{% content %}}
+{{% richtext %}}
 **Any questions? We are happy to help you over the phone.**
-{{% /content %}}
+{{% /richtext %}}
 {{% /cta %}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< center-block >}}
 {{% content %}}
+{{% heading %}}
 # Would you like to sign in a qualified manner electronically as a private individual?
-
+{{% /heading %}}
 {{< picture "individual-signing" 448 >}}
-
 Skribble can easily be used outside the company context. If you do not yet have an E-ID, we will be happy to identify you at Bahnhofstrasse 3 in Zurich. It only takes a few minutes.
 
 {{% /content %}}
-{{< /center-block >}}
 
 {{% cta
   "Schedule appointment"
   "https://meetings.hubspot.com/patrick182/meet-the-meade"
 %}}
-{{% content %}}
+{{% richtext %}}
 **Pick an appointment and we'll identify you.**
-{{% /content %}}
+{{% /richtext %}}
 {{% /cta %}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< center-block >}}
 {{% content %}}
+{{% heading %}}
 # This is how identification with the ID app of Swisscom works
-{{% /content %}}
+{{% /heading %}}
 
 {{< row >}}
 {{% step %}}
 {{< picture "identification-step-1" 252 >}}
-{{% content %}}
+{{% richtext %}}
 **Step 1**<br>
 The user's ID is scanned and checked with Swisscom's ID app.
-{{% /content %}}
+{{% /richtext %}}
 {{% /step %}}
 
 {{% step %}}
 {{< picture "identification-step-2" 158 >}}
-{{% content %}}
+{{% richtext %}}
 **Step 2**<br>
 The user's ID is scanned and checked with Swisscom's ID app.
-{{% /content %}}
+{{% /richtext %}}
 {{% /step %}}
 {{< /row >}}
 
 {{< row >}}
 {{% step %}}
 {{< picture "identification-step-3" 148 >}}
-{{% content %}}
+{{% richtext %}}
 **Step 3**<br>
 The user's ID is scanned and checked with Swisscom's ID app.
-{{% /content %}}
+{{% /richtext %}}
 {{% /step %}}
 
 {{% step %}}
 {{< picture "identification-step-4" 270 >}}
-{{% content %}}
+{{% richtext %}}
 **Step 4**<br>
 The user's ID is scanned and checked with Swisscom's ID app.
-{{% /content %}}
+{{% /richtext %}}
 {{% /step %}}
 {{< /row >}}
 
-{{< /center-block >}}
+{{% /content %}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
 {{< outro >}}
 {{< picture image8 414 >}}
 
-{{% content %}}
+{{% richtext %}}
+{{% heading left %}}
 # Try Skribble now without obligation!
 No credit card, entrance fee or commitment required.
+{{% /heading %}}
 
 {{< button
   "Try it now"
   "https://my.skribble.com/signup?lang=en"
   "_blank"
 >}}
-{{% /content %}}
+{{% /richtext %}}
 {{< /outro >}}

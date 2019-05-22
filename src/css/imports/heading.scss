@@ -1,0 +1,9 @@
+.heading {
+  @include half-padding;
+  @include richtext-styling;
+  text-align: center;
+
+  &--left {
+    text-align: left;
+  }
+}

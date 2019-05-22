@@ -8,14 +8,10 @@
     flex-direction: column-reverse;
   }
 
-  .content {
+  .richtext {
     @include min-width {
       flex: 1 1 100%;
       padding: 0 40px;
-    }
-
-    h2:first-child {
-      margin-top: 0;
     }
   }
 
@@ -33,12 +29,6 @@
     @include max-width {
       margin-top: 22px;
       margin-bottom: 44px;
-    }
-  }
-
-  .btn {
-    @include max-width {
-      display: block;
     }
   }
 

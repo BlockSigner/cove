@@ -5,6 +5,7 @@ draft: false
 description: terms-of-use meta description
 ---
 
+{{% content %}}
 {{% richtext %}}
 # Skribble Terms of Use<br>by BlockSigner AG
 (Version 2018.10.18)
@@ -37,3 +38,4 @@ As a Skribble user, you must comply with the following principles of lawful use:
     <li>Users acknowledge the right of BlockSigner to disclose data from their user account to the customer (usually the employer of the user) if it appears that the user in question has misused Skribble to disseminate criminal or infringing information.</li>
 </ol>
 {{% /richtext %}}
+{{% /content %}}

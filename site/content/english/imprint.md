@@ -5,6 +5,7 @@ draft: false
 slug: imprint
 ---
 
+{{% content %}}
 {{% richtext %}}
 # Imprint
 
@@ -37,3 +38,4 @@ BlockSigner AG is responsible for this website and its content within the meanin
 ## Copyright
 The copyright and all other rights to content, images, photos or other files on the website belong exclusively to BlockSigner AG. The written consent of the copyright holder must be obtained in advance for the reproduction of any elements.
 {{% /richtext %}}
+{{% /content %}}

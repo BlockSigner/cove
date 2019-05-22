@@ -1,6 +1,7 @@
 .row {
-  @include standard-padding;
+  @include half-padding;
   display: flex;
+  justify-content: center;
   @include max-width {
     flex-direction: column;
     align-items: center;
@@ -10,6 +11,12 @@
     @include min-width {
       margin: 16px;
       align-self: stretch;
+      &:first-child {
+        margin-left: 0;
+      }
+      &:last-child {
+        margin-right: 0;
+      }
     }
 
     &-inner {

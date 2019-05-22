@@ -12,9 +12,11 @@ type: blank
   {{< picture image1 678 >}}
 </div>
 
-{{% content %}}
+{{% richtext %}}
+{{% heading %}}
 # Legally binding electronic signatures with Skribble
 Easily handle digital signature processes – legally binding in accordance with Swiss & EU law.
+{{% /heading %}}
 
 <div class="hide-for-desktop">
   {{< picture image1 678 >}}
@@ -25,20 +27,20 @@ Easily handle digital signature processes – legally binding in accordance with
   "Based on the qualified electronic signature QES by Swisscom"
 >}}
 
-{{% /content %}}
+{{% /richtext %}}
 {{< /intro >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
 {{< side-by-side >}}
-{{% content %}}
+{{% richtext %}}
 ## The qualified electronic signature is simple, intuitive and efficient with Skribble.
 {{% fancy-list %}}
 - **No external hardware required** Skribble can be used immediately
 - **Attach multiple signatures** Sign multiple documents with one click (batch signature)
 - **Time-saving coordination** Invite and remind to sign by e-mail
 {{% /fancy-list %}}
-{{% /content %}}
+{{% /richtext %}}
 
 {{< picture image4 391 >}}
 {{< /side-by-side >}}
@@ -48,36 +50,38 @@ Easily handle digital signature processes – legally binding in accordance with
 {{< side-by-side >}}
 {{< picture image5 430 >}}
 
-{{% content %}}
+{{% richtext %}}
 ## Skribble meets the highest legal and technological standards
 {{% fancy-list %}}
 - **ZertEs & eIDAS** QES certificates from Swisscom
 - **DSG / DSGVO** AES-256 Encryption
 - **Swiss Hosting** FINMA-compliant, ISO 27001 certified
 {{% /fancy-list %}}
-{{% /content %}}
+{{% /richtext %}}
 {{< /side-by-side >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{% center-block %}}
 {{% content %}}
+{{% heading %}}
 # SAV-FSA members use Skribble at a preferential price
+{{% /heading %}}
 
 {{< picture sav-special 200 >}}
+{{% richtext %}}
 
 ## per month / user instead of CHF 25.00
 Signatures can also be obtained independently of the user.
+{{% /richtext %}}
 
 {{% /content %}}
-{{% /center-block %}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
 {{< side-by-side >}}
 {{< picture identification 482 >}}
 
-{{% content %}}
+{{% richtext %}}
 # Ready to sign in 5 minutes
 
 All you need is a mobile phone and a valid identification document (passport or identity card).
@@ -95,7 +99,7 @@ A law firm may also elect to identify persons itself.
   "Official identification partner of Swisscom"
 >}}
 
-{{% /content %}}
+{{% /richtext %}}
 {{< /side-by-side >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
@@ -103,9 +107,11 @@ A law firm may also elect to identify persons itself.
 {{< outro >}}
 {{< picture image8 414 >}}
 
-{{% content %}}
+{{% richtext %}}
+{{% heading left %}}
 # Sign now, legally valid electronically
 Learn more about the offer.
+{{% /heading %}}
 
 {{< button
   "Make an appointment"
@@ -122,5 +128,5 @@ Learn more about the offer.
   </svg>
   +41 44 505 16 64
 </a>
-{{% /content %}}
+{{% /richtext %}}
 {{< /outro >}}

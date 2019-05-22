@@ -6,6 +6,7 @@ slug: impressum
 type: narrow
 ---
 
+{{% content %}}
 {{% richtext %}}
 # Impressum
 
@@ -38,3 +39,4 @@ BlockSigner AG est responsable de ce site Web et de son contenu au sens du § 3 
 ## Copyright
 Les droits d'auteur et tous les autres droits sur le contenu, les images, les photos ou autres fichiers du site Internet appartiennent exclusivement à BlockSigner AG. La reproduction de tout élément doit faire l'objet d'une autorisation écrite préalable du détenteur des droits d'auteur.
 {{% /richtext %}}
+{{% /content %}}

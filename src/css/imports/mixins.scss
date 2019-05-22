@@ -1,7 +1,6 @@
 @mixin site-width($narrow: false) {
   display: block;
   width: 1400px;
-  width: 1200px;
   max-width: 100%;
   padding-right: 24px;
   padding-left: 24px;
@@ -31,8 +30,8 @@
   }
 }
 
-@mixin add-richtext-styling {
-  h1, h2 {
+@mixin h1-styling {
+  h1 {
     margin: 0 0 10px 0;
     font: bold 4rem/1.1 $averta;
     color: $c-text-alt;
@@ -43,6 +42,98 @@
     + p {
       margin: 10px 0 0 0;
     }
+  }
+}
+
+@mixin richtext-styling {
+  @include h1-styling;
+  h2 {
+    margin: 10px 0;
+    font: bold 2.4rem/1.35 $averta;
+    color: $c-text-alt;
+    @include max-width {
+      font-size: 2rem;
+    }
+
+    + p {
+      margin: 10px 0 0 0;
+    }
+  }
+
+  h3 {
+    margin: 3rem 0 0;
+    font: bold 2rem/1.4 $averta;
+    color: $c-text-alt;
+    @include max-width {
+      font-size: 1.8rem;
+    }
+
+    + p,
+    + ol,
+    + ul {
+      margin-top: 0;
+    }
+  }
+
+  a:not(.btn) {
+    color: $c-text;
+    transition: color .36s cubic-bezier(0.4, 0.0, 0.2, 1);
+    &:hover {
+      color: $c-primary;
+    }
+  }
+
+  ul,
+  ol {
+    padding: 0;
+    @include max-width {
+      list-style-position: inside;
+    }
+  }
+
+  li {
+    margin: .5em 0;
+  }
+
+  dl {
+    display: flex;
+    flex-wrap: wrap;
+    border-bottom: 1px solid $c-border;
+    text-align: left;
+  }
+
+  dt {
+    flex: 0 0 30%;
+    max-width: 30%;
+    padding: 22px 22px 22px 0;
+    border-top: 1px solid $c-border;
+    font-weight: bold;
+    font-size: 2rem;
+    color: $c-text-alt;
+    @include max-width {
+      flex-basis: 100%;
+      max-width: none;
+      padding-right: 0;
+    }
+  }
+
+  dd {
+    flex: 0 0 70%;
+    max-width: 70%;
+    margin-left: 0;
+    padding: 22px 0 22px 22px;
+    border-top: 1px solid $c-border;
+    @include max-width {
+      flex-basis: 100%;
+      max-width: none;
+      padding-left: 0;
+      padding-top: 0;
+      border-top: 0;
+    }
+  }
+
+  strong {
+    color: $c-text-alt;
   }
 }
 

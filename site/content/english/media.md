@@ -8,17 +8,17 @@ og_image: og/og-skribble-mission.jpg
 
 ---
 
-{{< center-block >}}
 {{% content %}}
+{{% heading %}}
 # Skribble press room
 Here you will find everything you need to write about Skribble.
+{{% /heading %}}
 
 {{< picture image12 688 >}}
 
 Skribble was founded in March 2018 with a mission to ensure trust between people in digital business relationships.
 In practical terms, this currently means that we are making the qualified electronic signature (QES) widely applicable - the only form of digital signature that is equivalent to a handwritten signature before the law. Skribble has X employees and is active in Switzerland and the EU.
 {{% /content %}}
-{{< /center-block >}}
 
 {{% cta
   "Contact"
@@ -29,10 +29,10 @@ In practical terms, this currently means that we are making the qualified electr
 
 {{< picture image13 100 >}}
 
-{{% content %}}
+{{% richtext %}}
 **Kira Leuthold**<br>
 Communications & Public Relations
-{{% /content %}}
+{{% /richtext %}}
 {{% /cta %}}
 
 {{% cta
@@ -44,10 +44,10 @@ Communications & Public Relations
 
 {{< picture image14 106 >}}
 
-{{% content %}}
+{{% richtext %}}
 **Brand-Assets**<br>
 The Most Important Skribble Branding Assets are right here at hand:
-{{% /content %}}
+{{% /richtext %}}
 {{% /cta %}}
 
 {{% table "Media releases" %}}
@@ -70,14 +70,16 @@ The Most Important Skribble Branding Assets are right here at hand:
 {{< outro >}}
 {{< picture image8 414 >}}
 
-{{% content %}}
+{{% richtext %}}
+{{% heading left %}}
 # Try Skribble now without obligation!
 No credit card, entrance fee or commitment required.
+{{% /heading %}}
 
 {{< button
   "Try it now"
   "https://my.skribble.com/signup?lang=en"
   "_blank"
 >}}
-{{% /content %}}
+{{% /richtext %}}
 {{< /outro >}}
