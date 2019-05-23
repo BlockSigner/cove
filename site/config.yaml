@@ -152,8 +152,8 @@ languages:
         - name: Politique de Confidentialité
           url: /fr/politique-de-confidentialite
           weight: 10
-        - name: Empreinte
-          url: /fr/empreinte
+        - name: Impressum
+          url: /fr/impressum
           weight: 15
     header:
       login:

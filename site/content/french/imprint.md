@@ -2,12 +2,12 @@
 title: Skribble – Empreinte
 description: Skribble est exploité par BlockSigner AG. Skribble s'est fixé comme objectif de numériser les processus contractuels. Depuis sa fondation en 2018, une équipe croissante de Trust Shapers travaille à cet avenir.
 draft: false
-slug: empreinte
+slug: impressum
 type: narrow
 ---
 
 {{% richtext %}}
-# Empreinte
+# Impressum
 
 ## Société
 BlockSigner AG

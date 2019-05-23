@@ -14,7 +14,7 @@ type: blank
 
 {{% content %}}
 # Signature électronique légalement valide avec Skribble
-Traiter les processus de signature numériquement - juridiquement valides selon le droit suisse et européen.
+Traiter les processus de signature numériquement &ndash; juridiquement valides selon le droit suisse et européen.
 
 
 <div class="hide-for-desktop">
@@ -63,7 +63,7 @@ Traiter les processus de signature numériquement - juridiquement valides selon 
 
 {{% center-block %}}
 {{% content %}}
-# Les membres de la SAV-FSAutilisent Skribble à un prix préférentiel
+# Les membres de la SAV-FSA utilisent Skribble à un prix préférentiel
 
 {{< picture sav-special 200 >}}
 
@@ -84,9 +84,9 @@ Les signatures peuvent également être obtenues selon un modèle prépayé.
 Tout ce dont tu as besoin c'est d'un téléphone portable et un document d'identification officiel. (passeport ou carte d'identité)
 
 {{% fancy-list %}}
-- **Skribble passe chez toi**
-- **Nous t‘identifions**
-- **Tu es prêt à signer tout de suite**
+- **Skribble passe chez vous**
+- **Nous vous identifions**
+- **Vous êtes prêt à signer tout de suite**
 {{% /fancy-list %}}
 
 Un cabinet d'avocats peut également être qualifié pour le faire, pour identifier les gens vous-même.
