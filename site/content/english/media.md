@@ -16,8 +16,7 @@ Here you will find everything you need to write about Skribble.
 
 {{< picture image12 688 >}}
 
-Skribble was founded in March 2018 with a mission to ensure trust between people in digital business relationships.
-In practical terms, this currently means that we are making the qualified electronic signature (QES) widely applicable - the only form of digital signature that is equivalent to a handwritten signature before the law. Skribble has X employees and is active in Switzerland and the EU.
+Skribble, founded in March 2018, is a Swiss provider of electronic signatures with offices in Zurich (CH) and Karlsruhe (DE). The startup enables electronic documents to be signed simply and legally. The basis is the "qualified electronic signature" (QES) - the only form of electronic signature equivalent to a handwritten signature before the law. Swisscom supplies the state-approved certification technology for QES. Existing customers include the Canton of Fribourg. Skribble has 14 employees.
 {{% /content %}}
 
 {{% cta

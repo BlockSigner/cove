@@ -77,7 +77,7 @@ Mit der ID-App von Swisscom prüft und erfasst ihr die Identitätsdaten der sign
   "Identification Easy"
   "Wir identifizieren die Signierenden"
   "Download Factsheet"
-  "https://cdn2.hubspot.net/hubfs/5051692/Skribble%20Overview/Skribble_Overview_Identification%20Unlimited.pdf"
+  "https://cdn2.hubspot.net/hubfs/5051692/Skribble%20Overview/Skribble_Overview_Identification%20Easy.pdf"
   "" %}}
 Passend, wenn du die QES in einem vordefinierten Personenkreis einsetzt.
 

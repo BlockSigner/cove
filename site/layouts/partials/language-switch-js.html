@@ -127,7 +127,7 @@
       // remember language
       Cookies.set("cove-lang", Skribble.coveLang, { expires: 365 });
       var newLocation = document.querySelector(
-        `.js-lang-switcher [data-lang="${Skribble.coveLang}"]`
+        '.js-lang-switcher [data-lang="' + Skribble.coveLang + '"]'
       );
       if (newLocation) {
         window.location.replace(newLocation.href);

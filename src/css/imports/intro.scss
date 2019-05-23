@@ -16,7 +16,7 @@
 
   .richtext {
     @include min-width {
-      flex: 1 1 100%;
+      flex: 1 1 0%;
       padding: 0 40px 0 0;
     }
 
@@ -27,7 +27,7 @@
 
   .hide-for-mobile {
     @include min-width {
-      flex: 1 1 100%;
+      flex: 1 1 0%;
       padding: 0 40px 0 0;
     }
     @include max-width {
@@ -43,6 +43,10 @@
     @include max-width {
       margin-top: 22px;
       margin-bottom: 44px;
+    }
+
+    picture {
+      overflow: hidden;
     }
   }
 
