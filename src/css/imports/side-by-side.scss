@@ -16,10 +16,14 @@
       order: -1;
     }
     &:first-child {
-      padding-right: 30px;
+      @include min-width {
+        padding-right: 30px;
+      }
     }
     &:last-child {
-      padding-left: 30px;
+      @include min-width {
+        padding-left: 30px;
+      }
     }
 
     h2:first-child {
@@ -32,10 +36,14 @@
       flex: 1 1 100%;
     }
     &:first-child {
-      padding-right: 30px;
+      @include min-width {
+        padding-right: 30px;
+      }
     }
     &:last-child {
-      padding-left: 30px;
+      @include min-width {
+        padding-left: 30px;
+      }
     }
   }
 }

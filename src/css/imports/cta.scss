@@ -72,7 +72,7 @@
 
   &__btn {
     @include max-width {
-      display: block;
+      width: 100%;
     }
   }
 }

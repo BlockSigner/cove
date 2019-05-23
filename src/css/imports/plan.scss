@@ -147,5 +147,10 @@
     align-self: center;
     min-height: 54px;
     margin: 20px 0;
+    @include max-width {
+      width: calc(100% - 40px);
+      margin-right: 20px;
+      margin-left: 20px;
+    }
   }
 }

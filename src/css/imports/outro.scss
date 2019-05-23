@@ -4,6 +4,12 @@
     padding-top: 120px;
   }
 
+  .btn {
+    @include max-width {
+      width: 100%;
+    }
+  }
+
   &__inner {
     display: flex;
     align-items: center;

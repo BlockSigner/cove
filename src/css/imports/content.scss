@@ -1,8 +1,4 @@
 .content {
   @include site-width($narrow: true);
   @include standard-padding;
-  @include max-width {
-    margin-top: 10px;
-    margin-bottom: 20px;
-  }
 }
