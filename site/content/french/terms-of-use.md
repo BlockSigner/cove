@@ -2,10 +2,10 @@
 title: Conditions d'utilisation
 slug: conditions-dutilisation
 draft: false
-type: narrow
 description: Conditions d'utilisation meta description
 ---
 
+{{% content %}}
 {{% richtext %}}
 # Skribble Conditions d'utilisation<br>de BlockSigner SA
 (Version 2018.10.18)
@@ -39,3 +39,4 @@ En tant qu'utilisateur du système Skribble, vous devez respecter les conditions
     <li>Les utilisateurs du système reconnaissent le droit de BlockSigner de divulguer les données de leur compte d'utilisateur au client (habituellement l'employeur de l'utilisateur du système) s'il apparaît que l'utilisateur du système en question a abusé de Skribble pour diffuser des informations criminelles ou contraires au droit.</li>
 </ol>
 {{% /richtext %}}
+{{% /content %}}

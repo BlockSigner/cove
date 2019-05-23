@@ -10,7 +10,7 @@ og_image: og/og-skribble-mission.jpg
 
 {{% content %}}
 {{% heading %}}
-# Skribble builds trust in the digital world
+# Skribble builds trust <br class="hide-for-mobile">in the digital world
 Once upon a time there was the hand-written signature – today we sign with Skribble.
 {{% /heading %}}
 
@@ -44,8 +44,8 @@ Building trust in digital business relationships should become as simple and int
 {{< picture image8 414 >}}
 
 {{% richtext %}}
-{{% heading left %}}
-# Try Skribble now without obligation!
+{{% heading %}}
+# Try Skribble now!
 No credit card, entrance fee or commitment required.
 {{% /heading %}}
 

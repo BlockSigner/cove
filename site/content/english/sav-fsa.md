@@ -13,7 +13,7 @@ type: blank
 </div>
 
 {{% richtext %}}
-{{% heading %}}
+{{% heading left %}}
 # Legally binding electronic signatures with Skribble
 Easily handle digital signature processes – legally binding in accordance with Swiss & EU law.
 {{% /heading %}}
@@ -108,7 +108,7 @@ A law firm may also elect to identify persons itself.
 {{< picture image8 414 >}}
 
 {{% richtext %}}
-{{% heading left %}}
+{{% heading %}}
 # Sign now, legally valid electronically
 Learn more about the offer.
 {{% /heading %}}

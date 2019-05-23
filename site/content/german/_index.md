@@ -77,7 +77,7 @@ Ihr signiert rechtsgültig per Knopfdruck, unabhängig von Zeit und Ort mit eine
 {{% content %}}
 {{% heading %}}
 # Skribble erfüllt die rechtlichen Bestimmungen
-Mit Skribble kannst du digital und rechtsgültig (QES) signieren - nach den folgenden Gesetzen.
+Mit Skribble kannst du digital und rechtsgültig (QES) signieren - <br class="hide-for-mobile">nach den folgenden Gesetzen.
 {{% /heading %}}
 
 {{% collapsible 1 "Anforderungen an Schriftlichkeitserfordernis" %}}
@@ -139,8 +139,8 @@ Geeignet für regelmässiges Signieren mit QES.
 {{< picture image8 414 >}}
 
 {{% richtext %}}
-{{% heading left %}}
-# Jetzt Skribble unverbindlich ausprobieren!
+{{% heading %}}
+# Jetzt Skribble ausprobieren!
 Keine Kreditkarte, Eintrittsgebühr oder Verpflichtung erforderlich.
 {{% /heading %}}
 

@@ -30,8 +30,8 @@ map:
 {{< picture image8 414 >}}
 
 {{% richtext %}}
-{{% heading left %}}
-# Try Skribble now without obligation!
+{{% heading %}}
+# Try Skribble now!
 No credit card, entrance fee or commitment required.
 {{% /heading %}}
 

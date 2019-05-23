@@ -10,6 +10,9 @@
   .plan {
     @include min-width {
       margin: 16px;
+    }
+    @include min-width {
+      margin: 0 16px;
       align-self: stretch;
       &:first-child {
         margin-left: 0;

@@ -42,12 +42,12 @@ Il se peut que nous fassions appel aux services de plusieurs Prestataires de Ser
 ### Personne Concernée (ou Utilisateur)
 Par Personne Concernée, on entend toute personne vivante qui utilise notre Service et est le sujet de Données à Caractère Personnel.
 
-# Collecte et utilisation des données
+## Collecte et utilisation des données
 Nous recueillons plusieurs types de données à différentes fins en vue de vous fournir notre Service et de l'améliorer.
 
-## Types de données recueillies
+### Types de données recueillies
 
-### Données à Caractère Personnel
+#### Données à Caractère Personnel
 Lorsque vous utilisez notre Service, il est possible que nous vous demandions de nous fournir certaines données personnelles nominatives qui peuvent servir à vous contacter ou à vous identifier ("Données à Caractère Personnel"). Les données personnelles nominatives peuvent comprendre, mais de manière non limitative:
 
 -	Adresse e-mail
@@ -57,14 +57,14 @@ Lorsque vous utilisez notre Service, il est possible que nous vous demandions de
 
 Nous pouvons utiliser vos Données à Caractère Personnel pour vous envoyer des bulletins d'information, des communications commerciales ou des promotions et d'autres informations susceptibles de vous intéresser. Vous pouvez choisir de ne recevoir aucune communication de notre part ou de ne recevoir que certaines communications en cliquant sur le lien de désabonnement ou en suivant les instructions qui figurent dans chacun des e-mails que nous envoyons.
 
-### Données d'Utilisation
+#### Données d'Utilisation
 Nous pouvons également recueillir des informations relatives au mode d'accès et d'utilisation du Service ("Données d'Utilisation"). Ces Données d'Utilisation peuvent comprendre des informations telles que l'adresse de protocole Internet (c.-à-d. l'adresse IP) de votre ordinateur, le type de navigateur, la version du navigateur, les pages de notre Service que vous consultez, la date et l'heure de votre visite, le temps passé sur ces pages, les identifiants uniques de dispositifs ainsi que d'autres données de diagnostic.
 
-### Données de localisation
+#### Données de localisation
 Nous pouvons utiliser et stocker des données concernant votre position géographique si vous nous y autorisez ("Données de Localisation"). Nous utilisons ces données pour fournir les fonctionnalités de notre Service et pour améliorer et personnaliser notre Service.
 Lorsque vous utilisez notre Service, vous pouvez activer ou désactiver les services de localisation à tout moment en utilisant les paramètres de votre dispositif.
 
-### Suivi et données de cookies
+#### Suivi et données de cookies
 Nous avons recours à des cookies et à d'autres technologies de suivi similaires pour effectuer un suivi des activités effectuées dans notre Service, et nous conservons certaines informations.
 Les cookies sont des fichiers à faible volume de données pouvant comporter un identifiant unique anonyme. Les cookies sont envoyés à votre navigateur depuis un site web et sont stockés sur votre dispositif. D'autres technologies de suivi telles que les pixels, les balises et les scripts sont également utilisées pour recueillir et suivre des informations et afin d'améliorer et d'analyser notre Service.
 

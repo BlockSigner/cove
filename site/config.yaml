@@ -21,7 +21,7 @@ languages:
           url: /de/identifikation/
           weight: 15
       footer2:
-        - name: Über uns
+        - name: Mission
           url: /de/ueber-uns/
           weight: 5
         - name: Team
@@ -78,7 +78,7 @@ languages:
           url: /identification/
           weight: 15
       footer2:
-        - name: About
+        - name: Mission
           url: /about/
           weight: 5
         - name: Team
@@ -111,7 +111,7 @@ languages:
     footer:
       navigation:
         titleColumn1: Platform
-        titleColumn2: About Skribble
+        titleColumn2: About us
         titleColumn3: Resources
       newsletterTitle: Newsletter
       newsletterText: Electronic signatures and digital trust are hot topics. Stay up to date! See our <a href="/privacy">privacy policy</a>.

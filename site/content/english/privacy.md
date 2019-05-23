@@ -46,9 +46,9 @@ Data Subject is any living individual who is using our Service and is the subjec
 ## Information Collection and Use
 We collect several different types of information for various purposes to provide and improve our Service to you.
 
-## Types of Data Collected
+### Types of Data Collected
 
-### Personal Data
+#### Personal Data
 While using our Service, we may ask you to provide us with certain personally identifiable information that can be used to contact or identify you ("Personal Data"). Personally identifiable information may include, but is not limited to:
 
 -	Email address
@@ -58,15 +58,15 @@ While using our Service, we may ask you to provide us with certain personally id
 
 We may use your Personal Data to contact you with newsletters, marketing or promotional materials and other information that may be of interest to you. You may opt out of receiving any, or all, of these communications from us by following the unsubscribe link or the instructions provided in any email we send.
 
-### Usage Data
+#### Usage Data
 We may also collect information on how the Service is accessed and used ("Usage Data"). This Usage Data may include information such as your computer's Internet Protocol address (e.g. IP address), browser type, browser version, the pages of our Service that you visit, the time and date of your visit, the time spent on those pages, unique device identifiers and other diagnostic data.
 
-### Location Data
+#### Location Data
 We may use and store information about your location if you give us permission to do so ("Location Data"). We use this data to provide features of our Service, to improve and customise our Service.
 
 You can enable or disable location services when you use our Service at any time by way of your device settings.
 
-### Tracking Cookies Data
+#### Tracking Cookies Data
 We use cookies and similar tracking technologies to track the activity on our Service and we hold certain information.
 
 Cookies are files with a small amount of data which may include an anonymous unique identifier. Cookies are sent to your browser from a website and stored on your device. Other tracking technologies are also used such as beacons, tags and scripts to collect and track information and to improve and analyse our Service.

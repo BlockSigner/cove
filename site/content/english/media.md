@@ -39,18 +39,30 @@ Communications & Public Relations
   "Download"
   "downloads/Skribble-Brand-Assets.zip"
   ""
-  "Media Contact"
+  "Brand-Assets"
 %}}
 
 {{< picture image14 106 >}}
 
 {{% richtext %}}
-**Brand-Assets**<br>
 The Most Important Skribble Branding Assets are right here at hand:
 {{% /richtext %}}
 {{% /cta %}}
 
 {{% table "Media releases" %}}
+<tr>
+  <td>22.05.2019</td>
+  <td>**Closing of Financing (only in german)**</td>
+  <td>
+    [Download](downloads/20190522-medienmitteilung-skribble-abschluss-finanzierungsrunde.pdf)
+  </td>
+</tr>
+  <td>09.04.2019</td>
+  <td>**Collaboration with Procivis**</td>
+  <td>
+    [Download](downloads/20190409-press-release-procivis-skribble-collaboration.pdf)
+  </td>
+</tr>
 <tr>
   <td style="width:10%;">27.03.2019</td>
   <td style="width:80%;">**Skribble Go-Live**</td>
@@ -59,20 +71,14 @@ The Most Important Skribble Branding Assets are right here at hand:
   </td>
 </tr>
 <tr>
-  <td>09.04.2019</td>
-  <td>**Procivis / Skribble collaboration**</td>
-  <td>
-    [Download](downloads/20190409-press-release-procivis-skribble-collaboration.pdf)
-  </td>
-</tr>
 {{% /table %}}
 
 {{< outro >}}
 {{< picture image8 414 >}}
 
 {{% richtext %}}
-{{% heading left %}}
-# Try Skribble now without obligation!
+{{% heading %}}
+# Try Skribble now!
 No credit card, entrance fee or commitment required.
 {{% /heading %}}
 

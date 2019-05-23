@@ -11,7 +11,7 @@ description: Privacy policy meta description
 
 <small>Datum des Inkrafttretens: 11. Oktober 2018</small>
 
-<p class="lead">BlockSigner AG ("wir", "uns", "unser" usw.) betreibt die Website <a href="https://www.skribble.com" target="_blank">www.skribble.com</a> (nachstehend als "Dienst" bezeichnet).</p>
+BlockSigner AG ("wir", "uns", "unser" usw.) betreibt die Website <a href="https://www.skribble.com" target="_blank">www.skribble.com</a> (nachstehend als "Dienst" bezeichnet).
 
 Diese Seite enthält Informationen zu der Art und Weise, auf welche wir personenbezogene Daten erfassen, nutzen und offenlegen, wenn Sie unseren Dienst nutzen, sowie zu den Optionen, die Ihnen im Zusammenhang mit diesen Daten zur Verfügung stehen.
 
@@ -42,12 +42,12 @@ Wir können die Leistungen verschiedener Leistungsanbieter in Anspruch nehmen, u
 ### Datensubjekt (oder Nutzer)
 Ein Datensubjekt ist eine lebende Einzelperson, die unseren Dienst in Anspruch nimmt und Gegenstand personenbezogener Daten ist.
 
-# Erfassung und Nutzung von Daten
+## Erfassung und Nutzung von Daten
 Wir erfassen verschiedene Arten von Daten für eine Reihe von Zwecken, um den Dienst, den wir Ihnen zur Verfügung stellen, zu verbessern.
 
-## Arten der erfassten Daten
+### Arten der erfassten Daten
 
-### Personenbezogene Daten
+#### Personenbezogene Daten
 Im Rahmen der Nutzung unseres Dienstes bitten wir Sie gegebenenfalls um die Zurverfügungstellung bestimmter persönlich identifizierbarer Daten, die wir dazu nutzen, um Sie zu kontaktieren oder zu identifizieren ("personenbezogene Daten"). Persönlich identifizierbare Daten umfassen beispielsweise folgende Daten (sind jedoch nicht auf diese beschränkt):
 
 -	E-Mail-Adresse
@@ -57,14 +57,14 @@ Im Rahmen der Nutzung unseres Dienstes bitten wir Sie gegebenenfalls um die Zurv
 
 Wir nutzen Ihre personenbezogenen Daten gegebenenfalls dafür, um Ihnen Newsletters, Marketing- oder Werbematerialien und sonstige Informationen zu übersenden, die für Sie von Interesse sein könnten. Sie können bestimmte oder alle unserer derartigen Mitteilungen deaktivieren, indem Sie auf den entsprechenden Deaktivierungslink klicken oder die diesbezüglichen Anweisungen in unseren E-Mails befolgen.
 
-### Nutzungsdaten
+#### Nutzungsdaten
 Wir können außerdem Daten zu der Art und Weise erfassen, auf welche auf unseren Dienst zugegriffen wird bzw. auf welche diese genutzt werden ("Nutzungsdaten"). Diese Nutzungsdaten umfassen gegebenenfalls die Internet-Protocol-Adresse (IP-Adresse) Ihres Computers, Ihren Browsertyp, Ihre Browserversion, die von Ihnen innerhalb unseres Dienstes besuchten Seiten, den Zeitpunkt und das Datum Ihres Besuchs, die Gesamtverweildauer auf den betreffenden Seiten, individuelle Geräteidentifikationsmerkmale und weitere Diagnostikdaten.
 
-### Positionsdaten
+#### Positionsdaten
 Wir nutzen und speichern gegebenenfalls Informationen zu Ihrer Position, soweit Sie uns Ihre Zustimmung hierzu erteilen ("Positionsdaten"). Wir nutzen diese Daten zur Bereitstellung bestimmter Leistungsmerkmale sowie zur Verbesserung und Individualisierung unseres Dienstes.
 Sie können die Erfassung Ihrer Positionsdaten während der Inanspruchnahme unseres Dienstes jederzeit in Ihren Geräteeinstellungen ein- und ausschalten.
 
-### Tracking & Cookies
+#### Tracking & Cookies
 Wir setzen Cookies und ähnliche Tracking-Technologien zur Überwachung der Aktivität innerhalb unseres Dienstes ein und speichern in diesem Zusammenhang bestimmte Daten.
 
 Cookies sind Dateien mit einem geringen Datenumfang, wie zum Beispiel anonyme einzigartige Identifikatoren. Cookies werden von einer Website an Ihren Browser gesendet und auf Ihrem Gerät gespeichert. Die sonstigen von uns eingesetzten Tracking-Technologien sind so genannte Beacons, Tags und Scripts und dienen der Erfassung und Nachverfolgung von Daten sowie der Verbesserung und Analyse unseres Dienstes.

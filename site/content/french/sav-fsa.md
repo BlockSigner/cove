@@ -15,13 +15,8 @@ type: blank
 {{% richtext %}}
 {{% heading left %}}
 # Signature électronique légalement valide avec Skribble
-<<<<<<< HEAD
 Traiter les processus de signature numériquement &ndash; juridiquement valides selon le droit suisse et européen.
-=======
-Traiter les processus de signature numériquement - juridiquement valides selon le droit suisse et européen.
 {{% /heading %}}
->>>>>>> refactor(unify all components): Add outlines and labels to components to simplify styling optimizati
-
 
 <div class="hide-for-desktop">
   {{< picture image1 678 >}}
@@ -68,20 +63,17 @@ Traiter les processus de signature numériquement - juridiquement valides selon 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
 {{% content %}}
-<<<<<<< HEAD
-# Les membres de la SAV-FSA utilisent Skribble à un prix préférentiel
-=======
 {{% heading %}}
-# Les membres de la SAV-FSAutilisent Skribble à un prix préférentiel
+# Les membres de la SAV-FSA utilisent Skribble à un prix préférentiel
 {{% /heading %}}
->>>>>>> refactor(unify all components): Add outlines and labels to components to simplify styling optimizati
 
 {{< picture sav-special 200 >}}
-
 {{% richtext %}}
+
 ## par mois / utilisateur au lieu de CHF 25.-
 Les signatures peuvent également être obtenues selon un modèle prépayé.
 {{% /richtext %}}
+
 {{% /content %}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
@@ -116,7 +108,7 @@ Un cabinet d'avocats peut également être qualifié pour le faire, pour identif
 {{< picture image8 414 >}}
 
 {{% richtext %}}
-{{% heading left %}}
+{{% heading %}}
 # Signez dès à présent électroniquement de manière légalement valide
 En savoir plus sur l'offre.
 {{% /heading %}}

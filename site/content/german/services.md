@@ -39,6 +39,9 @@ Je mehr, desto günstiger
   "mailto:info@skribble.com"
   "_blank"
 %}}
+{{% richtext %}}
+**Möchtest du mehr über unsere Preise erfahren?**
+{{% /richtext %}}
 {{% /cta %}}
 
 {{% content %}}
@@ -52,8 +55,8 @@ Lass dich von uns identifizieren oder identifiziere deine Leute selbst
 {{< picture image6 410 >}}
 
 {{< row >}}
-{{% plan gold "Identification Unlimited" "Du identifizierst die Signierende" %}}
-Suitable if new signees are constantly being added.
+{{% plan gold "Identification Unlimited" "Du identifizierst die Signierenden" %}}
+Geeignet für einmaliges oder gelegentliches Signieren mit QES.
 {{% /plan %}}
 {{% plan purple "Identification Easy" "Wir identifizieren die Signierenden" %}}
 Passend, wenn du die QES in einem vordefinierten Personenkreis einsetzt.
@@ -75,8 +78,8 @@ Passend, wenn du die QES in einem vordefinierten Personenkreis einsetzt.
 {{< picture image8 414 >}}
 
 {{% richtext %}}
-{{% heading left %}}
-# Jetzt Skribble unverbindlich ausprobieren!
+{{% heading %}}
+# Jetzt Skribble ausprobieren!
 Keine Kreditkarte, Eintrittsgebühr oder Verpflichtung erforderlich.
 {{% /heading %}}
 

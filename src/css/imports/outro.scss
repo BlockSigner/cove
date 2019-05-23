@@ -20,6 +20,7 @@
   }
 
   .richtext {
+    text-align: center;
     @include min-width {
       flex: 1 1 100%;
       padding: 0 40px;

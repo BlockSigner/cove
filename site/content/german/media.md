@@ -39,30 +39,36 @@ Communications & Public Relations
   "Download"
   "downloads/Skribble-Brand-Assets.zip"
   ""
-  "Medienkontakt"
+  "Brand-Assets"
 %}}
 
 {{< picture image14 106 >}}
 
 {{% richtext %}}
-**Brand-Assets**<br>
 Die wichtigsten Skribble Branding Assets sind gleich hier griffbereit:
 {{% /richtext %}}
 {{% /cta %}}
 
 {{% table "Medienmitteilungen" %}}
 <tr>
-  <td style="width:10%;">27.03.2019</td>
-  <td style="width:80%;">**Skribble Go-Live**</td>
-  <td style="width:10%;">
-    [Download](downloads/20190327-medienmitteilung-skribble-go-live.pdf)
+  <td>22.05.2019</td>
+  <td>**Finanzierungsrunde abgeschlossen**</td>
+  <td>
+    [Download](downloads/20190522-medienmitteilung-skribble-abschluss-finanzierungsrunde.pdf)
   </td>
 </tr>
 <tr>
   <td>09.04.2019</td>
-  <td>**Procivis- / Skribble-Partnerschaft**</td>
+  <td>**Partnerschaft mit Procivis**</td>
   <td>
     [Download](downloads/20190409-press-release-procivis-skribble-collaboration.pdf)
+  </td>
+</tr>
+<tr>
+  <td style="width:10%;">27.03.2019</td>
+  <td style="width:80%;">**Skribble Go-Live**</td>
+  <td style="width:10%;">
+    [Download](downloads/20190327-medienmitteilung-skribble-go-live.pdf)
   </td>
 </tr>
 {{% /table %}}
@@ -72,8 +78,8 @@ Die wichtigsten Skribble Branding Assets sind gleich hier griffbereit:
 {{< picture image8 414 >}}
 
 {{% richtext %}}
-{{% heading left %}}
-# Jetzt Skribble unverbindlich ausprobieren!
+{{% heading %}}
+# Jetzt Skribble ausprobieren!
 Keine Kreditkarte, Eintrittsgebühr oder Verpflichtung erforderlich.
 {{% /heading %}}
 

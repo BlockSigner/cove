@@ -17,17 +17,25 @@
   .richtext {
     @include min-width {
       flex: 1 1 100%;
-      padding: 0 40px;
+      padding: 0 40px 0 0;
+    }
+
+    + .hide-for-mobile {
+      padding-right: 0;
     }
   }
 
   .hide-for-mobile {
     @include min-width {
       flex: 1 1 100%;
-      padding: 0 40px;
+      padding: 0 40px 0 0;
     }
     @include max-width {
       margin: 40px auto;
+    }
+
+    + .richtext {
+      padding-right: 0;
     }
   }
 

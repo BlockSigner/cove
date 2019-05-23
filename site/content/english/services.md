@@ -38,6 +38,9 @@ The more, the less expensive
   "mailto:info@skribble.com"
   "_blank"
 %}}
+{{% richtext %}}
+**Would you like to know more about our prices?**
+{{% /richtext %}}
 {{% /cta %}}
 
 
@@ -60,7 +63,7 @@ Suitable if you use QES in a predefined circle of people.
 {{% /content %}}
 
 {{% cta
-  "More information about identification"
+  "More about identification"
   "/identification"
 %}}
 {{% richtext %}}
@@ -74,8 +77,8 @@ Suitable if you use QES in a predefined circle of people.
 {{< picture image8 414 >}}
 
 {{% richtext %}}
-{{% heading left %}}
-# Try Skribble now without obligation!
+{{% heading %}}
+# Try Skribble now!
 No credit card, entrance fee or commitment required.
 {{% /heading %}}
 

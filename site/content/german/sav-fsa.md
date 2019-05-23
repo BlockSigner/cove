@@ -108,7 +108,7 @@ Eine Kanzlei kann auch dazu befähigt werden, selbst Personen zu identifizieren.
 {{< picture image8 414 >}}
 
 {{% richtext %}}
-{{% heading left %}}
+{{% heading %}}
 # Jetzt rechtsgültig elektronisch signieren
 Erfahre mehr über das Angebot.
 {{% /heading %}}

@@ -45,6 +45,9 @@
     max-width: 100%;
     padding: 17px $price-plan-lateral-padding 20px;
     border-bottom: 1px solid $c-border;
+    &:last-child {
+      border-bottom: 0;
+    }
 
     p {
       &:first-child {
@@ -146,11 +149,7 @@
   &__btn {
     align-self: center;
     min-height: 54px;
-    margin: 20px 0;
-    @include max-width {
-      width: calc(100% - 40px);
-      margin-right: 20px;
-      margin-left: 20px;
-    }
+    width: calc(100% - 40px);
+    margin: 20px;
   }
 }

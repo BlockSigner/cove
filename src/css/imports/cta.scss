@@ -1,6 +1,7 @@
 .cta {
   @include site-width($narrow: true);
-  @include half-padding;
+  @include standard-padding;
+  padding-top: 0;
 
   img {
     margin: 0;

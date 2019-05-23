@@ -19,7 +19,7 @@ The qualified electronic signature (QES) requires the signing party to verify hi
 
 {{% cta
   "Download Factsheet"
-  "https://cdn2.hubspot.net/hubfs/5051692/130312%20Factsheet%20-%20CS%20-%20Identification_EN.pdf"
+  "https://cdn2.hubspot.net/hubfs/5051692/Skribble%20Overview%20EN/Skribble_Overview_Identification_EN.pdf"
 %}}
 {{% richtext %}}
 **You can find all details about the identity check for QES with Skribble here in our factsheet.**
@@ -61,7 +61,7 @@ For you as a company, this means, on the one hand, that you do not have to worry
   "Identification Unlimited"
   "You identify the signing party"
   "Download Factsheet"
-  "https://cdn2.hubspot.net/hubfs/5051692/130312%20Factsheet%20-%20CS%20-%20Identification%20Unlimited_EN.pdf"
+  "https://cdn2.hubspot.net/hubfs/5051692/Skribble%20Overview%20EN/Skribble_Overview_Identification%20Unlimited_EN.pdf"
   ""
 %}}
 Suitable if new signees are constantly being added.
@@ -74,7 +74,7 @@ With the ID app by Swisscom, you independently verify and record the identity da
   "Identification Easy"
   "We identify the signing party"
   "Download Factsheet"
-  "https://cdn2.hubspot.net/hubfs/5051692/130312%20Factsheet%20-%20CS%20-%20Identification%20Easy_EN.pdf"
+  "https://cdn2.hubspot.net/hubfs/5051692/Skribble%20Overview%20EN/Skribble_Factsheet_Identification%20Easy_EN.pdf"
   ""
 %}}
 Suitable if you use QES in a predefined circle of people.
@@ -164,8 +164,8 @@ The user's ID is scanned and checked with Swisscom's ID app.
 {{< picture image8 414 >}}
 
 {{% richtext %}}
-{{% heading left %}}
-# Try Skribble now without obligation!
+{{% heading %}}
+# Try Skribble now!
 No credit card, entrance fee or commitment required.
 {{% /heading %}}
 

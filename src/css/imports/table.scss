@@ -9,6 +9,17 @@
     @include half-padding;
   }
 
+  tr {
+    td {
+      &:first-child {
+        padding-left: 0;
+      }
+      &:last-child {
+        padding-right: 0;
+      }
+    }
+  }
+
   td {
     padding: 16px 10px;
     border-top: 1px solid $c-border;

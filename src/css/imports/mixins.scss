@@ -32,7 +32,7 @@
 
 @mixin h1-styling {
   h1 {
-    margin: 0 0 10px 0;
+    margin: 0 0 12px 0;
     font: bold 4rem/1.1 $averta;
     color: $c-text-alt;
     @include max-width {
@@ -40,7 +40,7 @@
     }
 
     + p {
-      margin: 10px 0 0 0;
+      margin: 12px 0 0 0;
     }
   }
 }
@@ -48,7 +48,7 @@
 @mixin richtext-styling {
   @include h1-styling;
   h2 {
-    margin: 10px 0;
+    margin: 12px 0;
     font: bold 2.4rem/1.35 $averta;
     color: $c-text-alt;
     @include max-width {
@@ -56,12 +56,12 @@
     }
 
     + p {
-      margin: 10px 0 0 0;
+      margin: 12px 0 0 0;
     }
   }
 
-  h3 {
-    margin: 3rem 0 0;
+  h3, h4 {
+    margin: 2.6rem 0 0;
     font: bold 2rem/1.4 $averta;
     color: $c-text-alt;
     @include max-width {
@@ -83,11 +83,39 @@
     }
   }
 
+  p {
+    margin: 1.444em 0;
+    + h2 {
+      margin-top: 40px;
+    }
+  }
+
   ul,
   ol {
     padding: 0;
-    @include max-width {
-      list-style-position: inside;
+
+    + h2 {
+      margin-top: 40px;
+    }
+  }
+
+  ul {
+    list-style-type: none;
+
+    li {
+      position: relative;
+      padding-left: 1em;
+      &:before {
+        position: absolute;
+        left: 0;
+        top: 11.5px;
+        display: block;
+        width: 6px;
+        height: 6px;
+        border-radius: 50%;
+        background: $c-text;
+        content: '';
+      }
     }
   }
 

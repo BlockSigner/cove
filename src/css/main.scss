@@ -37,35 +37,38 @@
 @import 'imports/hs-cookie-consent';
 
 // =============================================================================
-@mixin outline($name: default, $color: black, $orientation: 45deg) {
-  outline: 1px solid $color !important;
-  background: repeating-linear-gradient($orientation, rgba($color, .1),rgba($color, .1) 10px,rgba($color, .05) 10px,rgba($color, .05) 20px);
-  position: relative;
-  &:after {
-    position: absolute;
-    left: 0;
-    top: 0;
-    z-index: 10;
-    font: 10px/1 monospace;
-    background: $color;
-    color: white;
-    padding: 0 2px 2px 2px;
-    content: '#{$name}';
-  }
-}
-* {outline: 1px solid rgba(red, .1);}
-.collapsible {@include outline(collapsible, darkgoldenrod, -45deg);}
-.content {@include outline(content, black);}
-.cta {@include outline(cta, seagreen);}
-.heading {@include outline(heading, purple, -45deg);}
-.intro {@include outline(intro, black);}
-.outro {@include outline(outro, black);}
-.picture {@include outline(picture, tomato, -45deg);}
-.plan {@include outline(plan, darkslategrey, -45deg);}
-.richtext {@include outline(richtext, mediumslateblue, -45deg);}
-.row {@include outline(row, grey, -45deg);}
-.side-by-side {@include outline(side-by-side, black);}
-.table-wrapper {@include outline(table-wrapper, darkorchid);}
+// note: the following lines draw outlines and backgrounds for all major
+// components and label these components
+// =============================================================================
+// @mixin outline($name: default, $color: black, $orientation: 45deg) {
+//   outline: 1px solid $color !important;
+//   background: repeating-linear-gradient($orientation, rgba($color, .1),rgba($color, .1) 10px,rgba($color, .05) 10px,rgba($color, .05) 20px);
+//   position: relative;
+//   &:after {
+//     position: absolute;
+//     left: 0;
+//     top: 0;
+//     z-index: 10;
+//     font: 10px/1 monospace;
+//     background: $color;
+//     color: white;
+//     padding: 0 2px 2px 2px;
+//     content: '#{$name}';
+//   }
+// }
+// * {outline: 1px solid rgba(red, .1);}
+// .collapsible {@include outline(collapsible, darkgoldenrod, -45deg);}
+// .content {@include outline(content, black);}
+// .cta {@include outline(cta, seagreen);}
+// .heading {@include outline(heading, purple, -45deg);}
+// .intro {@include outline(intro, black);}
+// .outro {@include outline(outro, black);}
+// .picture {@include outline(picture, tomato, -45deg);}
+// .plan {@include outline(plan, darkslategrey, -45deg);}
+// .richtext {@include outline(richtext, mediumslateblue, -45deg);}
+// .row {@include outline(row, grey, -45deg);}
+// .side-by-side {@include outline(side-by-side, black);}
+// .table-wrapper {@include outline(table-wrapper, darkorchid);}
 // =============================================================================
 
 html {
@@ -76,7 +79,7 @@ body {
   display: flex;
   flex-direction: column;
   align-items: center;
-  font: normal 1.8rem/1.4 $averta;
+  font: normal 1.8rem/1.444 $averta;
   color: $c-text;
   overflow-x: hidden;
   -webkit-font-smoothing: antialiased;
@@ -134,6 +137,7 @@ img {
 
 .mobile-link {
   display: flex;
+  justify-content: center;
   align-items: center;
   font-weight: normal;
   svg {

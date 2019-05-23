@@ -19,7 +19,7 @@ Für die qualifizierte elektronische Signatur (QES) muss der Unterzeichnende sei
 
 {{% cta
   "Download Factsheet"
-  "https://cdn2.hubspot.net/hubfs/5051692/190212%20Factsheet%20-%20CS-%20Identification.pdf"
+  "https://cdn2.hubspot.net/hubfs/5051692/Skribble%20Overview/Skribble_Overview_Identification.pdf"
 %}}
 {{% richtext %}}
 **Die Details zur Identitätsprüfung für das Signieren mit Skribble findest du in unserem Factsheet.**
@@ -65,7 +65,7 @@ Für dich als Firma bedeutet das erstens, dass du dich nicht um die Identifikati
   "Identification Unlimited"
   "Du identifizierst die Signierenden"
   "Download Factsheet"
-  "https://cdn2.hubspot.net/hubfs/5051692/190219%20Factsheet%20-%20CS%20-%20Identification%20Unlimited.pdf"
+  "https://cdn2.hubspot.net/hubfs/5051692/Skribble%20Overview/Skribble_Overview_Identification%20Unlimited.pdf"
   "" %}}
 Passend, wenn laufend neue Signierende hinzukommen.
 
@@ -77,7 +77,7 @@ Mit der ID-App von Swisscom prüft und erfasst ihr die Identitätsdaten der sign
   "Identification Easy"
   "Wir identifizieren die Signierenden"
   "Download Factsheet"
-  "https://cdn2.hubspot.net/hubfs/5051692/190219%20Factsheet%20-%20CS%20-%20Identification%20Easy.pdf"
+  "https://cdn2.hubspot.net/hubfs/5051692/Skribble%20Overview/Skribble_Overview_Identification%20Unlimited.pdf"
   "" %}}
 Passend, wenn du die QES in einem vordefinierten Personenkreis einsetzt.
 
