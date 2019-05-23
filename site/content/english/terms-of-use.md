@@ -7,7 +7,7 @@ description: terms-of-use meta description
 ---
 
 {{% richtext %}}
-# Skribble Terms of Use by BlockSigner AG
+# Skribble Terms of Use<br>by BlockSigner AG
 (Version 2018.10.18)
 
 As a Skribble user, you must comply with the following principles of lawful use:

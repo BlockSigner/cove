@@ -7,7 +7,7 @@ description: Nutzungsbedingungen meta description
 ---
 
 {{% richtext %}}
-# Nutzungsbedingungen von BlockSigner AG
+# Skribble Nutzungsbedingungen<br>von BlockSigner AG
 (Version 2018.10.18)
 
 Als Systemnutzer von Skribble sind Sie verpflichtet, die nachstehenden Grundsätze rechtmässiger Nutzung
