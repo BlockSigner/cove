@@ -64,8 +64,8 @@ languages:
     contentDir: content/english
     menu:
       main:
-        - name: Offering
-          url: /offering/
+        - name: Services
+          url: /services/
           weight: 10
         - name: Identification
           url: /identification/
