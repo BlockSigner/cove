@@ -1,1 +1,2 @@
-Access-Control-Allow-Origin: localhost
+/*
+  Access-Control-Allow-Origin: http://localhost:3000
