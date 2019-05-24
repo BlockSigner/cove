@@ -16,7 +16,7 @@ draft: false
 
 {{% richtext %}}
 {{% heading left %}}
-# Signature électronique juridiquement valable par Skribble
+# Signature électronique juridiquement valable <br class="hide-for-mobile">par Skribble
 Traiter les processus de signature digitales de manière simple - juridiquement valable selon le droit suisse et européen.
 {{% /heading %}}
 

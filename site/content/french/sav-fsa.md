@@ -109,7 +109,7 @@ Un cabinet d'avocats peut également être qualifié pour le faire, pour identif
 
 {{% richtext %}}
 {{% heading %}}
-# Signez dès à présent électroniquement de manière légalement valide
+# Signez dès à présent électroniquement de manière légalement valide!
 En savoir plus sur l'offre.
 {{% /heading %}}
 

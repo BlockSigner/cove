@@ -11,7 +11,7 @@ og_image: og/og-skribble-identification.jpg
 
 {{% content %}}
 {{% heading %}}
-# Identitätsprüfung für die QES - Skribble macht es einfach
+# Identitätsprüfung für die QES - <br class="hide-for-mobile">Skribble macht es einfach
 Für die qualifizierte elektronische Signatur (QES) muss der Unterzeichnende seine Identität beweisen. Skribble bietet für jeden Geschäftskontext eine passende Identifikationsmöglichkeit an.
 {{% /heading %}}
 {{< picture identification 482 >}}
@@ -22,7 +22,7 @@ Für die qualifizierte elektronische Signatur (QES) muss der Unterzeichnende sei
   "https://cdn2.hubspot.net/hubfs/5051692/Skribble%20Overview/Skribble_Overview_Identification.pdf"
 %}}
 {{% richtext %}}
-**Die Details zur Identitätsprüfung für das Signieren mit Skribble findest du in unserem Factsheet.**
+**Die Details zur Identitätsprüfung <br class="hide-for-mobile">für das Signieren mit Skribble findest du <br class="hide-for-mobile">in unserem Factsheet.**
 {{% /richtext %}}
 {{% /cta %}}
 
@@ -112,7 +112,7 @@ Skribble kann problemlos ausserhalb des Firmenkontextes genutzt werden. Falls du
   "https://meetings.hubspot.com/patrick182/meet-the-meade"
 %}}
 {{% richtext %}}
-**Suche dir einen Termin aus und wir identifizieren dich.**
+**Suche dir einen Termin aus <br class="hide-for-mobile">und wir identifizieren dich.**
 {{% /richtext %}}
 {{% /cta %}}
 
@@ -120,7 +120,7 @@ Skribble kann problemlos ausserhalb des Firmenkontextes genutzt werden. Falls du
 
 {{% content %}}
 {{% heading %}}
-# So funktioniert die Identifikation mit der ID-App von Swisscom
+# So funktioniert die Identifikation <br class="hide-for-mobile">mit der ID-App von Swisscom
 Es dauert nur wenige Minuten
 {{% /heading %}}
 
@@ -144,7 +144,7 @@ Swisscom verifiziert die Daten und legt sie sicher ab.
 
 {{< row >}}
 {{% step %}}
-{{< picture "identification-step-3" 148 >}}
+{{< picture "identification-step-3" 270 >}}
 {{% richtext %}}
 **Schritt 3**<br>
 Der Status des Nutzers wird bei Skribble im Profil direkt auf “signierbereit” geändert.
@@ -167,7 +167,7 @@ Der Nutzer kann mit Skribble fortan qualifiziert elektronisch signieren.
 {{< picture image8 414 >}}
 
 {{% richtext %}}
-# Jetzt Skribble unverbindlich ausprobieren!
+# Jetzt rechtsgültig elektronisch signieren!
 Keine Kreditkarte, Eintrittsgebühr oder Verpflichtung erforderlich.
 
 {{< button

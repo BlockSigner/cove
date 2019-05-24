@@ -10,7 +10,7 @@ og_image: og/og-skribble-mission.jpg
 
 {{% content %}}
 {{% heading %}}
-# Bezahle pro Signatur oder als Flatrate und spare, wenn du mehr signierst
+# Bezahle pro Signatur oder als Flatrate <br class="hide-for-mobile">und spare, wenn du mehr signierst
 Skribbles Angebotsstruktur passt sich deinen Bedürfnissen an.
 {{% /heading %}}
 
@@ -48,11 +48,10 @@ Je mehr, desto günstiger
 
 {{% heading %}}
 # Identifikation
-Keine E-ID vorhanden?
-Lass dich von uns identifizieren oder identifiziere deine Leute selbst
+Keine E-ID vorhanden? Lass dich von uns identifizieren <br class="hide-for-mobile">oder identifiziere deine Leute selbst
 {{% /heading %}}
 
-{{< picture image6 410 >}}
+{{< picture image6 365 >}}
 
 {{< row >}}
 {{% plan gold "Identification Unlimited" "Du identifizierst die Signierenden" %}}
@@ -79,7 +78,7 @@ Passend, wenn du die QES in einem vordefinierten Personenkreis einsetzt.
 
 {{% richtext %}}
 {{% heading %}}
-# Jetzt Skribble ausprobieren!
+# Jetzt rechtsgültig elektronisch signieren!
 Keine Kreditkarte, Eintrittsgebühr oder Verpflichtung erforderlich.
 {{% /heading %}}
 

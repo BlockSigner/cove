@@ -77,7 +77,7 @@ The Most Important Skribble Branding Assets are right here at hand:
 
 {{% richtext %}}
 {{% heading %}}
-# Try Skribble now!
+# Sign now, legally valid electronically!
 No credit card, entrance fee or commitment required.
 {{% /heading %}}
 
