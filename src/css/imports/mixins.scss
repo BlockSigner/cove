@@ -33,7 +33,7 @@
 @mixin h1-styling {
   h1 {
     margin: 0 0 12px 0;
-    font: bold 4rem/1.1 $averta;
+    font: bold 3.8rem/1.15 $averta;
     color: $c-text-alt;
     @include max-width {
       font-size: 3rem;

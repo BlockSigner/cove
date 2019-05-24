@@ -1,8 +1,10 @@
 .content {
   @include site-width($narrow: true);
   @include standard-padding;
-  padding-top: 88px;
-
+  @include min-width {
+    padding-top: 88px;
+  }
+  
   p:last-child {
     margin-bottom: 0;
   }

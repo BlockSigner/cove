@@ -10,7 +10,7 @@ og_image: og/og-skribble-mission.jpg
 
 {{% content %}}
 {{% heading %}}
-# Pay per signature or as a flatrate and save if you sign more
+# Pay per signature or as a flatrate <br class="hide-for-mobile">and save if you sign more
 Skribbles offer structure adapts to your needs.
 {{% /heading %}}
 {{< picture image15 585 >}}
@@ -47,10 +47,10 @@ The more, the less expensive
 {{% content %}}
 {{% heading %}}
 # Identification
-No E-ID at hand? Let us verify your identity or identify your people by yourself
+No E-ID at hand? Let us verify your identity <br class="hide-for-mobile">or identify your people by yourself.
 {{% /heading %}}
 
-{{< picture image6 410 >}}
+{{< picture image6 365 >}}
 
 {{< row >}}
 {{% plan gold "Identification Unlimited" "You identify the signing party" %}}
@@ -78,7 +78,7 @@ Suitable if you use QES in a predefined circle of people.
 
 {{% richtext %}}
 {{% heading %}}
-# Try Skribble now!
+# Sign now, legally valid electronically!
 No credit card, entrance fee or commitment required.
 {{% /heading %}}
 

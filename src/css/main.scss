@@ -117,6 +117,14 @@ img {
     padding-top: $header-height-mobile;
   }
 
+  // first content component shall have a different padding 
+  .content:first-child {
+    padding-top: 44px;
+    @include max-width {
+      padding-top: 22px;
+    }
+  }
+
   > .title-subtitle:first-child {
     @include max-width {
       margin-top: 40px;

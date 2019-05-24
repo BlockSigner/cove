@@ -11,7 +11,7 @@ og_image: og/og-skribble-mission.jpg
 {{% content %}}
 {{% heading %}}
 # Skribble builds trust <br class="hide-for-mobile">in the digital world
-Once upon a time there was the hand-written signature – today we sign with Skribble.
+Once upon a time there was the hand-written signature – <br class="hide-for-mobile">today we sign with Skribble.
 {{% /heading %}}
 
 {{% richtext %}}
@@ -45,7 +45,7 @@ Building trust in digital business relationships should become as simple and int
 
 {{% richtext %}}
 {{% heading %}}
-# Try Skribble now!
+# Sign now, legally valid electronically!
 No credit card, entrance fee or commitment required.
 {{% /heading %}}
 

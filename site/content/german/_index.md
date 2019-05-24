@@ -18,7 +18,7 @@ draft: false
 {{% richtext %}}
 {{% heading left %}}
 # Rechtsgültig elektronisch signieren mit Skribble
-Signaturprozesse einfach digital abwickeln – rechtsgültig nach dem Schweizer & EU Gesetz.
+Signaturprozesse einfach digital abwickeln – <br class="hide-for-mobile">rechtsgültig nach dem Schweizer & EU Gesetz.
 {{% /heading %}}
 
 <div class="hide-for-desktop">
@@ -112,15 +112,15 @@ Ein wichtiger Bestandteil der elektronischen Signatur (QES) sind entsprechende d
 Für die qualifizierte elektronische Signatur (QES) muss der Unterzeichnende seine Identität beweisen. Personen, die über eine geprüfte E-ID verfügen, können ohne zusätzliche Massnahmen direkt loslegen. Ansonsten bietet Skribble für jeden Geschäftskontext eine passende Identifikationsmöglichkeit an.
 {{% /richtext %}}
 
-{{< picture image6 410 >}}
+{{< picture image6 365 >}}
 {{< /side-by-side >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
 {{% content %}}
 {{% heading %}}
-# Die Signaturen lassen sich einzeln oder als Flatrate beziehen
-Skribbles Angebotsstruktur passt sich deinen Bedürfnissen an und kann flexibel kombiniert werden.
+# Die Signaturen lassen sich einzeln <br class="hide-for-mobile">oder als Flatrate beziehen
+Skribbles Angebotsstruktur passt sich deinen Bedürfnissen an <br class="hide-for-mobile">und kann flexibel kombiniert werden.
 {{% /heading %}}
 
 {{< row >}}
@@ -140,8 +140,8 @@ Geeignet für regelmässiges Signieren mit QES.
 
 {{% richtext %}}
 {{% heading %}}
-# Jetzt Skribble ausprobieren!
-Keine Kreditkarte, Eintrittsgebühr oder Verpflichtung erforderlich.
+# Jetzt rechtsgültig elektronisch signieren!
+Keine Kreditkarte, Eintrittsgebühr oder <br class="hide-for-mobile">Verpflichtung erforderlich.
 {{% /heading %}}
 
 {{< button

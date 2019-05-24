@@ -22,7 +22,7 @@ testimonial:
 {{% richtext %}}
 {{% heading left %}}
 # Legally binding electronic signatures with Skribble
-Easily handle digital signature processes – legally binding in accordance with Swiss & EU law.
+Easily handle digital signature processes – legally binding <br class="hide-for-mobile">in accordance with Swiss & EU law.
 {{% /heading %}}
 
 <div class="hide-for-desktop">
@@ -81,7 +81,7 @@ You sign legally binding at the push of a button, regardless of time and place, 
 {{% content %}}
 {{% heading %}}
 # Skribble complies with legal requirements
-With Skribble you can create digital and legally binding (QES) signatures. Skribble complies with the following requirements:
+With Skribble you can create digital and legally binding (QES) signatures. <br class="hide-for-mobile">Skribble complies with the following requirements:
 {{% /heading %}}
 
 {{% collapsible 1 "Requirement of written form" %}}
@@ -116,14 +116,14 @@ An important component of qualified electronic signatures (QES) are digital cert
 Qualified electronic signatures (QES) require the signatory to verify their identity. People who already have a verified E-ID can start signing straight away. For everyone else Skribble offers a means of identification suitable for every business context.
 {{% /richtext %}}
 
-{{< picture image6 410 >}}
+{{< picture image6 365 >}}
 {{< /side-by-side >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
 {{% content %}}
 {{% heading %}}
-# Signatures can be purchased individually or at a flat rate.
+# Signatures can be purchased individually or at a flat rate
 Skribbles' pricing adapts to your needs and can be flexibly configured.
 {{% /heading %}}
 
@@ -145,7 +145,7 @@ Suitable for regular signing with QES
 
 {{% richtext %}}
 {{% heading %}}
-# Try Skribble now!
+# Sign now, legally valid electronically!
 No credit card, entrance fee or commitment required.
 {{% /heading %}}
 

@@ -120,7 +120,7 @@ groups:
 
 {{% richtext %}}
 {{% heading %}}
-# Try Skribble now!
+# Sign now, legally valid electronically!
 No credit card, entrance fee or commitment required.
 {{% /heading %}}
 

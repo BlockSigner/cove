@@ -8,6 +8,10 @@
     flex-direction: column-reverse;
   }
 
+  .heading {
+    padding: 0;
+  }
+
   .btn {
     @include max-width {
       width: 100%;
@@ -40,6 +44,7 @@
   }
 
   .picture {
+    padding: 0;
     @include max-width {
       margin-top: 22px;
       margin-bottom: 44px;
