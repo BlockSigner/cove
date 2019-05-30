@@ -60,7 +60,7 @@ languages:
         titleColumn2: Über uns
         titleColumn3: Ressourcen
       newsletterTitle: Newsletter
-      newsletterText: Elektronische Signaturen und digitales Vertrauen sind brandaktuelle Themen. Bleibe auf dem Laufenden! <br class="hide-for-mobile">Siehe unsere <a href="/de/datenschutz">Datenschutzerklärugen</a>.
+      newsletterText: Elektronische Signaturen und digitales Vertrauen sind brandaktuelle Themen. Bleibe auf dem Laufenden! <br class="hide-for-mobile">Siehe unsere <a href="/de/datenschutz">Datenschutzerklärungen</a>.
   en:
     languageName: English
     weight: 1
