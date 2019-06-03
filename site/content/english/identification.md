@@ -11,7 +11,7 @@ og_image: og/og-skribble-identification.jpg
 
 {{% content %}}
 {{% heading %}}
-# Identity verification for QES – Skribble makes it easy
+# Identity verification for QES – <br class="hide-for-mobile">Skribble makes it easy
 The qualified electronic signature (QES) requires the signing party to verify his or her identity. Skribble offers suitable means of identification for every business context.
 {{% /heading %}}
 {{< picture identification 482 >}}
@@ -51,7 +51,7 @@ For you as a company, this means, on the one hand, that you do not have to worry
 
 {{% content %}}
 {{% heading %}}
-# No electronic identity yet? We’ll get you one.
+# No electronic identity yet? <br class="hide-for-mobile">We’ll get you one.
 {{% /heading %}}
 {{< picture "create-identity" 385 >}}
 
@@ -89,7 +89,7 @@ We will come by and identify these people on site. This way, you are quickly and
   "https://help.skribble.com/meetings/simon79/learn-about-skribbles-identification-means"
 %}}
 {{% richtext %}}
-**Any questions? We are happy to help you over the phone.**
+**Any questions? We are happy <br class="hide-for-mobile">to help you over the phone.**
 {{% /richtext %}}
 {{% /cta %}}
 
@@ -97,7 +97,7 @@ We will come by and identify these people on site. This way, you are quickly and
 
 {{% content %}}
 {{% heading %}}
-# Would you like to sign in a qualified manner electronically as a private individual?
+# Would you like to sign <br class="hide-for-mobile">in a qualified manner electronically <br class="hide-for-mobile">as a private individual?
 {{% /heading %}}
 {{< picture "individual-signing" 448 >}}
 Skribble can easily be used outside the company context. If you do not yet have an E-ID, we will be happy to identify you at Bahnhofstrasse 3 in Zurich. It only takes a few minutes.
@@ -109,7 +109,7 @@ Skribble can easily be used outside the company context. If you do not yet have 
   "https://meetings.hubspot.com/patrick182/meet-the-meade"
 %}}
 {{% richtext %}}
-**Pick an appointment and we'll identify you.**
+**Pick an appointment and <br class="hide-for-mobile">we'll identify you.**
 {{% /richtext %}}
 {{% /cta %}}
 
@@ -117,7 +117,7 @@ Skribble can easily be used outside the company context. If you do not yet have 
 
 {{% content %}}
 {{% heading %}}
-# This is how identification with the ID app of Swisscom works
+# This is how identification <br class="hide-for-mobile">with the ID app of Swisscom works
 {{% /heading %}}
 
 {{< row >}}
@@ -140,7 +140,7 @@ The user's ID is scanned and checked with Swisscom's ID app.
 
 {{< row >}}
 {{% step %}}
-{{< picture "identification-step-3" 148 >}}
+{{< picture "identification-step-3" 270 >}}
 {{% richtext %}}
 **Step 3**<br>
 The user's ID is scanned and checked with Swisscom's ID app.
@@ -165,7 +165,7 @@ The user's ID is scanned and checked with Swisscom's ID app.
 
 {{% richtext %}}
 {{% heading %}}
-# Try Skribble now!
+# Sign now, legally valid electronically!
 No credit card, entrance fee or commitment required.
 {{% /heading %}}
 

@@ -10,7 +10,7 @@ og_image: og/og-skribble-mission.jpg
 
 {{% content %}}
 {{% heading %}}
-# Skribble schafft Vertrauen in der digitalen Welt
+# Skribble schafft Vertrauen <br class="hide-for-mobile">in der digitalen Welt
 Es war einmal die Unterschrift – heute signieren wir mit Skribble.
 {{% /heading %}}
 
@@ -43,7 +43,7 @@ Der Aufbau von Vertrauen in digitalen Geschäftsbeziehungen soll so einfach und 
 
 {{% richtext %}}
 {{% heading %}}
-# Jetzt Skribble ausprobieren!
+# Jetzt rechtsgültig elektronisch signieren!
 Keine Kreditkarte, Eintrittsgebühr oder Verpflichtung erforderlich.
 {{% /heading %}}
 

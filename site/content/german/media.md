@@ -78,7 +78,7 @@ Die wichtigsten Skribble Branding Assets sind gleich hier griffbereit:
 
 {{% richtext %}}
 {{% heading %}}
-# Jetzt Skribble ausprobieren!
+# Jetzt rechtsgültig elektronisch signieren!
 Keine Kreditkarte, Eintrittsgebühr oder Verpflichtung erforderlich.
 {{% /heading %}}
 

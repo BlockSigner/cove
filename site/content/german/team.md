@@ -121,7 +121,7 @@ groups:
 
 {{% richtext %}}
 {{% heading %}}
-# Jetzt Skribble ausprobieren!
+# Jetzt rechtsgültig elektronisch signieren!
 Keine Kreditkarte, Eintrittsgebühr oder Verpflichtung erforderlich.
 {{% /heading %}}
 

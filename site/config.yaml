@@ -17,9 +17,12 @@ languages:
           url: /de/kontakt/
           weight: 20
       footer1:
+        - name: Angebot
+          url: /de/angebot/
+          weight: 5
         - name: Identifikation
           url: /de/identifikation/
-          weight: 15
+          weight: 10
       footer2:
         - name: Mission
           url: /de/ueber-uns/
@@ -57,7 +60,7 @@ languages:
         titleColumn2: Über uns
         titleColumn3: Ressourcen
       newsletterTitle: Newsletter
-      newsletterText: Elektronische Signaturen und digitales Vertrauen sind brandaktuelle Themen. Bleibe auf dem Laufenden! Siehe unsere <a href="/de/datenschutz">Datenschutzerklärugen</a>.
+      newsletterText: Elektronische Signaturen und digitales Vertrauen sind brandaktuelle Themen. Bleibe auf dem Laufenden! <br class="hide-for-mobile">Siehe unsere <a href="/de/datenschutz">Datenschutzerklärungen</a>.
   en:
     languageName: English
     weight: 1
@@ -74,9 +77,12 @@ languages:
           url: /contact/
           weight: 20
       footer1:
+        - name: Services
+          url: /services/
+          weight: 5
         - name: Identification
           url: /identification/
-          weight: 15
+          weight: 10
       footer2:
         - name: Mission
           url: /about/
@@ -114,7 +120,7 @@ languages:
         titleColumn2: About us
         titleColumn3: Resources
       newsletterTitle: Newsletter
-      newsletterText: Electronic signatures and digital trust are hot topics. Stay up to date! See our <a href="/privacy">privacy policy</a>.
+      newsletterText: Electronic signatures and digital trust are hot topics. <br class="hide-for-mobile">Stay up to date! See our <a href="/privacy">privacy policy</a>.
   fr:
     languageName: Français
     weight: 3

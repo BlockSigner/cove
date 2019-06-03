@@ -4,6 +4,10 @@
     padding-top: 120px;
   }
 
+  .heading {
+    padding: 0;
+  }
+
   .btn {
     @include max-width {
       width: 100%;
