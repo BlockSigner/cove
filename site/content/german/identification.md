@@ -11,7 +11,7 @@ og_image: og/og-skribble-identification.jpg
 
 {{% content %}}
 {{% heading %}}
-# Identitätsprüfung für die QES - <br class="hide-for-mobile">Skribble macht es einfach
+# Identitätsprüfung für die QES &ndash; <br class="hide-for-mobile">Skribble macht es einfach
 Für die qualifizierte elektronische Signatur (QES) muss der Unterzeichnende seine Identität beweisen. Skribble bietet für jeden Geschäftskontext eine passende Identifikationsmöglichkeit an.
 {{% /heading %}}
 {{< picture identification 482 >}}
@@ -30,7 +30,7 @@ Für die qualifizierte elektronische Signatur (QES) muss der Unterzeichnende sei
 
 {{% content %}}
 {{% heading %}}
-# Besitzt du bereits eine elektronische Identität? Melde dich einfach an.
+# Besitzt du bereits eine elektronische Identität (E-ID)? Melde dich einfach an.
 {{% /heading %}}
 
 {{< picture "identification-id" 412 >}}
