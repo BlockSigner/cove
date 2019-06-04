@@ -2,7 +2,7 @@
 Skribble **co**rporate **ve**bsite
 
 ## Status
-Deploy: 
+Deploy:
 [![Netlify Status](https://api.netlify.com/api/v1/badges/7d00ef7a-5c8b-4b90-912f-355470b7d23c/deploy-status)](https://app.netlify.com/sites/skribble/deploys)
 
 ## Use
@@ -17,6 +17,42 @@ Use `yarn` to lock and install dependency versions instead of `npm install`.
 # install dependencies via yarn
 $ yarn
 ```
+
+### Configure a remote for a fork
+https://help.github.com/en/articles/configuring-a-remote-for-a-fork
+
+- open the Terminal
+- list the remote for your fork
+```
+$ git remote -v
+```
+- specify a new remote `upstream`
+```
+$ git remote add upstream https://github.com/ORIGINAL_OWNER/ORIGINAL_REPOSITORY.git
+```
+- verify the new `upstream`
+```
+$ git remote -v
+```
+
+### Syncing the fork
+from https://help.github.com/en/articles/syncing-a-fork
+
+- open the Terminal
+- change to your local project
+- fetch the branches from upstream
+```
+$ git fetch upstream
+```
+- check out your fork's local `master` branch
+```
+$ git checkout master
+```
+- merge changes from `usptream/master` into `master`
+```
+$ git merge upstream/master
+```
+
 
 ### Development
 Use `yarn start` to develop locally.
@@ -36,7 +72,6 @@ Download the GitHub desktop app to easily track changes in the repository: https
 After publishing, your changes appear on the cove GitHub page of BlockSigner: https://github.com/BlockSigner/cove. A yellow bar on top allows you to start a pull request. An open pull request triggers a build on Netlify that generates a preview.
 
 The changes are online after merging into master. Master is automatically built and deployed.
-
 
 ## Frontend components
 Frontend components can be inserted as needed in the markdown files that make up the pages of the website. You cannot add components in the Front Matter. The Front Matter defines page specific meta content. We use it for the meta title and description of the page and for defining open graph images. The Front Matter area is indicated by 3 opening and 3 closing hyphens ( `---` ).
