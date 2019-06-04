@@ -7,19 +7,26 @@
       <![endif]-->
       <script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/v2.js"></script>
       {{ if eq .Site.Language.Lang "de" }}
+        <script>  
+          hbspt.forms.create({
+            portalId: "5051692",
+            formId: "cb565705-2dda-41e1-b87a-1ccc50926592"
+          });
+        </script>
+      {{ else if eq .Site.Language.Lang "fr" }}
         <script>
           hbspt.forms.create({
-          portalId: "5051692",
-          formId: "cb565705-2dda-41e1-b87a-1ccc50926592"
-        });
+            portalId: "5051692",
+            formId: "85ce1ae0-1e11-47f2-b21d-63771362133a"
+          });
         </script>
       {{ else }}
         <!-- english newsletter form as default -->
         <script>
           hbspt.forms.create({
-          portalId: "5051692",
-          formId: "0f6a6ae7-bcc2-471e-8029-94fce80f2380"
-        });
+            portalId: "5051692",
+            formId: "0f6a6ae7-bcc2-471e-8029-94fce80f2380"
+          });
         </script>
       {{ end }}
     <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
