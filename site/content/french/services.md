@@ -67,7 +67,7 @@ Convient si vous utilisez la QES avec un nombre de personnes prédéfini.
 
 {{% cta
   "Plus d'informations sur l'identification"
-  "/identification"
+  "fr/identification"
   "_blank"
 %}}
 {{% richtext %}}

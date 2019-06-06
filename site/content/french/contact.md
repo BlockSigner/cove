@@ -1,6 +1,6 @@
 ---
-title: Skribble – Kontakt
-description: Du möchtest gerne elektronisch Signieren oder hast eine Frage? Dann kannst du dich gerne per Telefon oder E-Mail bei uns melden.
+title: Skribble – Contact
+description: Vous souhaitez signer électroniquement ou vous avez une question ? N'hésitez pas à nous contacter par téléphone ou par e-mail.
 draft: false
 slug: contact
 type: contact
