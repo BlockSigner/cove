@@ -19,7 +19,7 @@ Pour utiliser la signature électronique qualifiée (QES), le signataire doit pr
 
 {{% cta
   "Télécharger la fiche d'informations"
-  "https://cdn2.hubspot.net/hubfs/5051692/Skribble%20Overview%20EN/Skribble_Overview_Identification_EN.pdf"
+  "https://cdn2.hubspot.net/hubfs/5051692/Skribble%20Overview/Skribble_Overview_Identification_FR.pdf"
   "_blank"
 %}}
 {{% richtext %}}
