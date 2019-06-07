@@ -1,1 +1,0 @@
-Some users are currently not able to sign documents due to a problem with Swisscom's identification service. We are working on resolving the issue and will update this message.
