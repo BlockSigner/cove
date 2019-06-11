@@ -10,8 +10,8 @@ og_image: og/og-skribble-mission.jpg
 
 {{% content %}}
 {{% heading %}}
-# Payez par signatures ou forfaitairement et économisez si vous signez plus.
-Skribble propose des offres qui correspondent à vos besoins.
+# Bezahle pro Signatur oder als Flatrate und spare, wenn du mehr signierst
+Skribbles Angebotsstruktur passt sich deinen Bedürfnissen an.
 {{% /heading %}}
 
 {{< picture image15 585 >}}
