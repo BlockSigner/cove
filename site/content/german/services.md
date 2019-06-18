@@ -48,7 +48,7 @@ Je mehr, desto günstiger
 
 {{% heading %}}
 # Identifikation
-Keine E-ID vorhanden? Lass dich von uns identifizieren <br class="hide-for-mobile">oder identifiziere deine Leute selbst
+Keine E-ID vorhanden? Lass dich von uns identifizieren <br class="hide-for-mobile">oder identifiziere deine Leute selbst.
 {{% /heading %}}
 
 {{< picture image6 365 >}}
