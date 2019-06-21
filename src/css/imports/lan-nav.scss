@@ -1,18 +1,26 @@
 .lan-nav {
   @include reset-list-styling;
   display: flex;
+  @include min-width {
+    margin-right: 44px;
+  }
   @include max-width {
     flex-direction: column;
     padding: 6px 24px;
   }
 
-  a {
+  &__link {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: $footer-meta-height;
     padding: 10px;
     text-decoration: none;
     font-size: 1.6rem;
     color: $c-text;
     @include max-width {
-      display: block;
+      justify-content: flex-start;
+      height: 36px;
       padding: 6px 0;
     }
     &:hover {

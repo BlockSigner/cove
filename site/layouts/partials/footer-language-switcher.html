@@ -1,8 +1,8 @@
 <div class="footer">
-  <div class="footer__container container footer__container--stripe">
-    <div class="footer__left">
+  <div class="footer__container container">
+    <div class="footer__meta">
       {{ if ne "404" .Page.Kind  }}
-        <nav>
+        <nav class="">
           <ul class="js-lang-switcher lan-nav">
             {{ $siteLanguages := .Site.Languages}}
             {{ $pageLang := .Page.Lang}}
@@ -11,9 +11,9 @@
               {{ range $siteLanguages }}
                 {{ if eq $translation.Lang .Lang }}
                   {{ if eq $pageLang .Lang}}
-                    <li><a href="{{ $translation.URL }}" class="active language" data-lang="{{.Lang}}">{{ .LanguageName }}</a></li>
+                    <li><a class="lan-nav__link active language" href="{{ $translation.URL }}" data-lang="{{.Lang}}">{{ .LanguageName }}</a></li>
                   {{ else }}
-                    <li><a href="{{ $translation.URL }}" data-lang="{{.Lang}}">{{ .LanguageName }}</a></li>
+                    <li><a class="lan-nav__link" href="{{ $translation.URL }}" data-lang="{{.Lang}}">{{ .LanguageName }}</a></li>
                   {{ end }}
                 {{ end }}
               {{ end }}
@@ -21,17 +21,37 @@
           </ul>
         </nav>
       {{ end }}
-    </div>
-    <div class="footer__right">
-      <nav>
-        <ul class="footer__legal">
+      <nav class="footer__legal">
+        <ul class="footer__legal-list">
           {{ $currentPage := . }}
           {{ range .Site.Menus.footer4 }}
-            <li><a class="footer__legal-item {{ if eq (string .URL) $currentPage.RelPermalink }}active{{ end }}" href="{{ .URL }}">{{ .Name }}</a></li>
+            <li class="footer__legal-item"><a class="{{ if eq (string .URL) $currentPage.RelPermalink }}active{{ end }}" href="{{ .URL }}">{{ .Name }}</a></li>
           {{ end }}
           <li class="footer__legal-item">© 2019 Skribble</li>
         </ul>
       </nav>
     </div>
+    <nav class="footer__social">
+      <a class="footer__social-link lin" href="https://linkedin.com/company/skribble-trustshapers" target="_blank">
+        <svg width="20" height="20" xmlns="http://www.w3.org/2000/svg"><path d="M19.167 0H.833C.333 0 0 .333 0 .833v18.334c0 .5.333.833.833.833h18.334c.5 0 .833-.333.833-.833V.833c0-.5-.333-.833-.833-.833zM5.917 17.083H3V7.5h3v9.583h-.083zm-1.5-10.916c-.917 0-1.75-.75-1.75-1.75 0-.917.75-1.75 1.75-1.75.916 0 1.75.75 1.75 1.75s-.75 1.75-1.75 1.75zm12.666 10.916h-3v-4.666c0-1.084 0-2.5-1.5-2.5-1.583 0-1.75 1.166-1.75 2.416v4.75h-3V7.5h2.834v1.333c.416-.75 1.333-1.5 2.833-1.5 3 0 3.583 2 3.583 4.584v5.166z" fill-rule="nonzero"/></svg>
+      </a>
+      <a class="footer__social-link xin" href="https://www.xing.com/companies/skribble" target="_blank">
+        <svg width="17" height="22" xmlns="http://www.w3.org/2000/svg"><g fill-rule="evenodd"><path d="M1.502 4c-.168 0-.31.067-.381.197-.074.135-.062.308.016.484l1.89 3.69v.018l-2.97 5.912a.542.542 0 0 0 0 .484c.071.13.197.215.365.215H3.22c.418 0 .62-.318.762-.609L7 8.371l-1.922-3.78c-.14-.28-.35-.591-.779-.591H1.502zM13.502 0c-.45 0-.644.299-.806.605 0 0-6.482 12.122-6.696 12.52l4.276 8.27c.15.282.38.605.84.605h3.006c.182 0 .323-.072.4-.203.08-.135.078-.314-.007-.49l-4.242-8.173v-.02L16.936.692c.083-.175.085-.354.006-.49-.077-.13-.219-.202-.4-.202h-3.04z"/></g></svg>
+      </a>
+      <a class="footer__social-link fac" href="https://www.facebook.com/Skribble-1705594576211915/?ref=bookmarks" target="_blank">
+        <svg width="20" height="20" xmlns="http://www.w3.org/2000/svg"><path d="M18.333 0H1.667C.746 0 0 .746 0 1.667v16.666C0 19.254.746 20 1.667 20h9.166v-7.5h-2.5V9.167h2.5V7.01c0-2.584 1.578-3.99 3.883-3.99 1.104 0 2.052.082 2.329.119v2.7h-1.598c-1.254 0-1.496.597-1.496 1.47v1.857h3.7l-.834 3.333h-2.866V20h4.382c.921 0 1.667-.746 1.667-1.667V1.667C20 .746 19.254 0 18.333 0z" fill-rule="evenodd"/></svg>
+      </a>
+      <a class="footer__social-link twi" href="https://twitter.com/SkribbleHQ" target="_blank">
+        <svg width="24" height="19" xmlns="http://www.w3.org/2000/svg"><path d="M24 2.253c-.9.391-1.8.685-2.8.783 1-.588 1.8-1.567 2.2-2.644-1 .587-2 .98-3.1 1.175C19.4.587 18.1 0 16.7 0c-2.7 0-4.9 2.155-4.9 4.799 0 .392 0 .783.1 1.077C7.7 5.68 4.1 3.722 1.7.784 1.2 1.567 1 2.35 1 3.232c0 1.665.9 3.134 2.2 4.015-.8 0-1.6-.195-2.2-.587v.098c0 2.35 1.7 4.309 3.9 4.7-.4.099-.8.197-1.3.197-.3 0-.6 0-.9-.098.6 1.958 2.4 3.33 4.6 3.33-1.7 1.273-3.8 2.056-6.1 2.056-.4 0-.8 0-1.2-.098C2.2 18.216 4.8 19 7.5 19c9.1 0 14-7.345 14-13.711V4.7c1-.686 1.8-1.567 2.5-2.448z" fill-rule="nonzero"/></svg>
+      </a>
+      {{ if false }}
+      <a class="footer__social-link you" href="https://www.youtube.com/channel/UC4nrTkWY33cfNEIEYDIhWKg?view_as=subscriber" target="_blank">
+        <svg width="24" height="16" xmlns="http://www.w3.org/2000/svg"><path d="M23.8 3.429s-.2-1.62-1-2.286C21.9.19 20.9.19 20.4.19 17 0 12 0 12 0S7 0 3.6.19c-.5.096-1.5.096-2.4.953-.7.667-1 2.286-1 2.286S0 5.239 0 7.143v1.714c0 1.81.2 3.714.2 3.714s.2 1.62 1 2.286c.9.953 2.1.857 2.6.953C5.7 16 12 16 12 16s5 0 8.4-.286c.5-.095 1.5-.095 2.4-.952.7-.667 1-2.286 1-2.286s.2-1.81.2-3.714V7.048c0-1.81-.2-3.62-.2-3.62zM9.5 10.952v-6.38L16 7.81l-6.5 3.142z" fill-rule="nonzero"/></svg>
+      </a>
+      <a class="footer__social-link med" href="https://medium.com/skribble" target="_blank">
+        <svg width="20" height="17" xmlns="http://www.w3.org/2000/svg"><path d="M20 .36l-1.597 1.639a.517.517 0 0 0-.177.48v12.043a.517.517 0 0 0 .177.48l1.56 1.638V17h-7.844v-.36l1.613-1.679c.159-.17.159-.22.159-.48V4.749L9.398 16.967h-.606L3.565 4.748v8.185c-.044.344.063.69.289.94L5.955 16.6v.36H0v-.36l2.098-2.728a1.14 1.14 0 0 0 .27-.939V3.47a.863.863 0 0 0-.248-.7L.25.36V0h5.798l4.483 10.524L14.471 0H20v.36z" fill-rule="nonzero"/></svg>
+      </a>
+      {{ end }}
+    </nav>
   </div>
 </div>

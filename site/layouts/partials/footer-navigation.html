@@ -1,6 +1,6 @@
 <div class="footer">
   <div class="footer__container container">
-    <div class="footer__left footer__nav">
+    <div class="footer__nav">
       <div class="footer__nav-col">
         <div class="footer__title">{{ .Site.Params.footer.navigation.titleColumn1 }}</div>
         <ul>
@@ -35,7 +35,7 @@
         </ul>
       </div>
     </div>
-    <div class="footer__right footer__newsletter">
+    <div class="footer__newsletter">
       <div class="footer__title">{{ .Site.Params.footer.newsletterTitle }}</div>
       {{ partial "newsletter" . }}
     </div>

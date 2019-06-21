@@ -1,9 +1,10 @@
+$footer-meta-height: 60px;
+
 .footer {
   width: 100vw;
   border-top: 1px solid #dadee6;
 
   a:not(.btn) {
-    display: block;
     color: $c-text;
     text-decoration: none;
     &:hover {
@@ -36,13 +37,6 @@
       padding-left: 0;
       padding-right: 0;
     }
-
-    &--stripe {
-      align-items: center;
-      @include min-width {
-        height: 60px;
-      }
-    }
   }
 
   &__left {
@@ -64,12 +58,15 @@
   &__nav {
     display: flex;
     align-items: flex-start;
-    flex: 1 0 70%;
+    flex: 1 1 auto;
     padding: 50px 0 40px 0;
     font-size: 1.6rem;
     line-height: 1.75;
     @include min-width {
-      padding-right: 100px;
+      // padding-right: 100px;
+    }
+    @include max-width-md {
+      flex-wrap: wrap;
     }
     @include max-width {
       flex-direction: column;
@@ -79,12 +76,12 @@
     &-col {
       display: flex;
       flex-direction: column;
-      margin: 0 10px;
+      margin: 0 10px 24px;
       @include min-width {
         flex: 0 1 180px;
       }
       @include max-width {
-        margin: 0;
+        margin: 0 0 12px;
       }
 
       ul {
@@ -93,10 +90,10 @@
 
       + .footer__nav-col {
         @include min-width {
-          margin-left: 50px;
+          // margin-left: 50px;
         }
         @include max-width {
-          margin-top: 24px;
+          // margin-top: 24px;
         }
       }
     }
@@ -106,10 +103,12 @@
     display: flex;
     flex-direction: column;
     justify-content: flex-start;
-    flex: 1 0 30%;
     padding: 50px 0 40px 0;
+    @include min-width {
+      flex: 0 1 375px;
+    }
     @include max-width {
-      padding: 12px 24px 24px;
+      padding: 0 24px 24px;
     }
   }
 
@@ -127,18 +126,32 @@
   }
 
   &__legal {
-    @include reset-list-styling;
-    display: flex;
+    flex: 1 1 auto;
     font-size: 1.6rem;
-    @include max-width {
-      flex-direction: column;
-      padding: 6px 24px;
-      border-top: 1px solid $c-border;
+    @include min-width {
+      padding-right: 22px;
+    }
+
+    &-list {
+      @include reset-list-styling;
+      display: flex;
+      flex-wrap: wrap;
+      @include max-width {
+        flex-direction: column;
+        padding: 6px 24px;
+        border-bottom: 1px solid $c-border;
+      }
     }
 
     &-item {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      height: $footer-meta-height;
       padding: 10px;
       @include max-width {
+        justify-content: flex-start;
+        height: 36px;
         padding: 6px 0;
       }
     }
@@ -197,6 +210,74 @@
       @include min-width {
         max-width: 384px;
       }
+    }
+  }
+
+  &__meta {
+    flex: 1 1 auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    @include max-width {
+      flex-direction: column-reverse;
+    }
+  }
+
+  &__social {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    @include min-width {
+      flex: 0 1 375px;
+    }
+    @include max-width {
+      padding: 8px 12px;
+      border-top: 1px solid $c-border;
+    }
+
+    &-link {
+      position: relative;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      width: 44px;
+      height: 44px;
+      &:hover svg {
+        fill: white;
+      }
+      &:before {
+        position: absolute;
+        left: 0;
+        top: 0;
+        z-index: -1;
+        width: 100%;
+        height: 100%;
+        border-radius: 50%;
+        content: '';
+      }
+      &.lin:hover:before {
+        background: #0077B5;
+      }
+      &.xin:hover:before {
+        background: #007575;
+      }
+      &.fac:hover:before {
+        background: #0077B5;
+      }
+      &.twi:hover:before {
+        background: #1DA1F2;
+      }
+      &.you:hover:before {
+        background: #FF0201;
+      }
+      &.med:hover:before {
+        background: #292929;
+      }
+    }
+
+    svg {
+      display: block;
+      fill: $c-text;
     }
   }
 }
