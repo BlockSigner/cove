@@ -203,6 +203,18 @@ A signature with Skribble is equal to the handwritten signature according to Swi
 
 #### {{< outro >}}
 
+#### {{< testimonial >}}
+
+```
+{{< testimonial "foresight.png" "e-foresight Think Tank" >}}
+"Skribble bietet eine kundenfreundliche Lösung zur Qualifizierten Elektronischen Signatur in der Schweiz an."
+{{< /testimonial >}}
+```
+
+**Parameters**
+1. image
+2. footer
+
 ## Outlines
 To show component outlines and component labels, add the following styling to `main.scss`.
 

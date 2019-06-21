@@ -32,6 +32,7 @@
 @import 'imports/side-by-side';
 @import 'imports/step';
 @import 'imports/table';
+@import 'imports/testimonial';
 @import 'imports/title-subtitle';
 
 @import 'imports/hs-cookie-consent';
@@ -117,7 +118,7 @@ img {
     padding-top: $header-height-mobile;
   }
 
-  // first content component shall have a different padding 
+  // first content component shall have a different padding
   .content:first-child {
     padding-top: 44px;
     @include max-width {
