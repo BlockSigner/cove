@@ -125,7 +125,7 @@ Skribble can easily be used outside the company context. If you do not yet have 
 {{< picture "identification-step-1" 252 >}}
 {{% richtext %}}
 **Step 1**<br>
-The user's ID is scanned and checked with Swisscom's ID app.
+The user's ID card is scanned and checked with Swisscom's ID app.
 {{% /richtext %}}
 {{% /step %}}
 
@@ -133,7 +133,7 @@ The user's ID is scanned and checked with Swisscom's ID app.
 {{< picture "identification-step-2" 158 >}}
 {{% richtext %}}
 **Step 2**<br>
-The user's ID is scanned and checked with Swisscom's ID app.
+Swisscom verifies the data and stores it securely.
 {{% /richtext %}}
 {{% /step %}}
 {{< /row >}}
@@ -143,7 +143,7 @@ The user's ID is scanned and checked with Swisscom's ID app.
 {{< picture "identification-step-3" 270 >}}
 {{% richtext %}}
 **Step 3**<br>
-The user's ID is scanned and checked with Swisscom's ID app.
+In Skribble, the status of the user is directly changed to "ready to sign" <br class="hide-for-mobile">in the profile.
 {{% /richtext %}}
 {{% /step %}}
 
@@ -151,7 +151,7 @@ The user's ID is scanned and checked with Swisscom's ID app.
 {{< picture "identification-step-4" 270 >}}
 {{% richtext %}}
 **Step 4**<br>
-The user's ID is scanned and checked with Swisscom's ID app.
+The user can now use Skribble to sign electronically in a qualified manner.
 {{% /richtext %}}
 {{% /step %}}
 {{< /row >}}
