@@ -55,6 +55,18 @@ languages:
         label: Jetzt Termin vereinbaren
         href: https://help.skribble.com/meetings/simon79/beratung-zu-identifikationslsungen
     footer:
+      leftSlot:
+        title: Identität prüfen?
+        text: Hol dir bei Skribble eine E-ID und leg mit dem Signieren los.
+        button:
+          label: Termin vereinbaren
+          href: https://help.skribble.com/meetings/patrick182/call-mit-skribble
+      rightSlot:
+        title: Demo vereinbaren?
+        text: Wir kommen gerne persönlich vorbei um dir Skribble zu zeigen.
+        button:
+          label:  Telefongespräch vereinbaren
+          href: https://help.skribble.com/meetings/patrick182/call-mit-skribble
       navigation:
         titleColumn1: Plattform
         titleColumn2: Über uns
@@ -115,6 +127,18 @@ languages:
         label: Make an appointment
         href: https://help.skribble.com/meetings/simon79/learn-about-skribbles-identification-means
     footer:
+      leftSlot:
+        title: Do you want to verify your identity?
+        text: We verify your identity so that you can start using your QES signature!
+        button:
+          label: Schedule appointment
+          href: https://help.skribble.com/meetings/patrick182/skribble-id-zurich
+      rightSlot:
+        title: Do you want to schedule a demo session?
+        text: We are pleased to come by to introduce you to Skribble.
+        button:
+          label: Arrange a call
+          href: https://help.skribble.com/meetings/patrick182/telephone-consultation-skribble
       navigation:
         titleColumn1: Platform
         titleColumn2: About us
@@ -175,6 +199,18 @@ languages:
         label: Fixer un rendez-vous
         href: https://help.skribble.com/meetings/simon79/conseil
     footer:
+      leftSlot:
+        title: Vérifier l'identité?
+        text: Nous vous identifions afin que vous puissiez utiliser la QES!
+        button:
+          label: Fixer un rendez-vous
+          href: https://help.skribble.com/meetings/patrick182/identification-chez-skribble
+      rightSlot:
+        title: Organiser une démonstration?
+        text: Nous passons volontiers en personne afin de vous présenter Skribble.
+        button:
+          label: Organiser un appel téléphonique
+          href: https://help.skribble.com/meetings/patrick182/consultation-telephone-skribble
       navigation:
         titleColumn1: Plateforme
         titleColumn2: À propos de nous

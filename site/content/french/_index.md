@@ -32,7 +32,7 @@ Réaliser vos processus de signature simplement et <br class="hide-for-mobile">d
 >}}
 
 {{< intro-partner
-  "swisscom.png"
+  "image/swisscom.png"
   "Basé sur la signature électronique qualifiée QES de Swisscom."
 >}}
 
@@ -119,7 +119,7 @@ Le signataire doit prouver son identité pour utiliser la signature électroniqu
 
 {{% content %}}
 {{% heading %}}
-# Les signatures peuvent <br class="hide-for-mobile">être obtenues individuellement <br class="hide-for-mobile">ou sous forme de forfait. 
+# Les signatures peuvent <br class="hide-for-mobile">être obtenues individuellement <br class="hide-for-mobile">ou sous forme de forfait.
 Les offres Skribbles s'adaptent à vos besoins et <br class="hide-for-mobile">peuvent être combinées de manière flexible.
 {{% /heading %}}
 

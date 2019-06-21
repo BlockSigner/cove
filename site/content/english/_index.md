@@ -36,7 +36,7 @@ Easily handle digital signature processes – legally binding <br class="hide-fo
 >}}
 
 {{< intro-partner
-  "swisscom.png"
+  "image/swisscom.png"
   "Based on the qualified electronic signature QES by Swisscom"
 >}}
 

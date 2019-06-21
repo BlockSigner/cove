@@ -2,7 +2,7 @@
   width: 100vw;
   border-top: 1px solid #dadee6;
 
-  a {
+  a:not(.btn) {
     display: block;
     color: $c-text;
     text-decoration: none;
@@ -140,6 +140,62 @@
       padding: 10px;
       @include max-width {
         padding: 6px 0;
+      }
+    }
+  }
+
+  &__slots {
+    justify-content: space-around;
+  }
+
+  &__slot {
+    @include standard-padding;
+    position: relative;
+    flex: 1 1 auto;
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    padding-right: 24px;
+    padding-left: 24px;
+    @include min-width {
+      align-items: center;
+      text-align: center;
+    }
+    @include max-width {
+      font-size: 1.6rem;
+    }
+
+    + .footer__slot:before {
+      position: absolute;
+      left: 0;
+      top: $standard-padding;
+      bottom: $standard-padding;
+      width: 1px;
+      background: $c-border;
+      content: '';
+      @include max-width {
+        top: 0;
+        left: 0;
+        right: 0;
+        bottom: auto;
+        width: auto;
+        height: 1px;
+      }
+    }
+
+    .footer__title {
+      margin-bottom: 0;
+    }
+
+    .footer__text {
+      margin-top: 8px;
+    }
+
+    .btn,
+    .footer__title,
+    .footer__text {
+      @include min-width {
+        max-width: 384px;
       }
     }
   }

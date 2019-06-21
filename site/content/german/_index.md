@@ -32,7 +32,7 @@ Signaturprozesse einfach digital abwickeln – <br class="hide-for-mobile">recht
 >}}
 
 {{< intro-partner
-  "swisscom.png"
+  "image/swisscom.png"
   "Basierend auf der qualifizierten elektronischen Signatur QES der Swisscom"
 >}}
 

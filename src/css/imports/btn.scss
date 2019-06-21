@@ -19,4 +19,14 @@
   &:hover {
     background-color: #338ceb;
   }
+
+  &--outline {
+    border: 2px solid rgba($c-primary, .4);
+    color: $c-primary;
+    background-color: white;
+    &:hover {
+      color: white;
+      background-color: $c-primary;
+    }
+  }
 }
