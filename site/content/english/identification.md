@@ -40,7 +40,7 @@ For you as a company, this means, on the one hand, that you do not have to worry
 
 {{% cta
   "Schedule appointment"
-  "https://help.skribble.com/meetings/simon79/learn-about-skribbles-identification-means"
+  "https://help.skribble.com/meetings/patrick182/telephone-consultation-skribble"
 %}}
 {{% richtext %}}
 **For more information about how to connect E-IDs to Skribble, please schedule a phone call with us.**
@@ -86,7 +86,7 @@ We will come by and identify these people on site. This way, you are quickly and
 
 {{% cta
   "Schedule appointment"
-  "https://help.skribble.com/meetings/simon79/learn-about-skribbles-identification-means"
+  "https://help.skribble.com/meetings/patrick182/telephone-consultation-skribble"
 %}}
 {{% richtext %}}
 **Any questions? We are happy <br class="hide-for-mobile">to help you over the phone.**
@@ -106,7 +106,7 @@ Skribble can easily be used outside the company context. If you do not yet have 
 
 {{% cta
   "Schedule appointment"
-  "https://meetings.hubspot.com/patrick182/meet-the-meade"
+  "https://help.skribble.com/meetings/patrick182/skribble-id-zurich"
 %}}
 {{% richtext %}}
 **Pick an appointment and <br class="hide-for-mobile">we'll identify you.**

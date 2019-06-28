@@ -43,7 +43,7 @@ Für dich als Firma bedeutet das erstens, dass du dich nicht um die Identifikati
 
 {{% cta
   "Termin vereinbaren"
-  "https://help.skribble.com/meetings/simon79/beratung-zu-identifikationslsungen"
+  "https://help.skribble.com/meetings/patrick182/call-mit-skribble"
 %}}
 {{% richtext %}}
 **Gerne informieren wir dich telefonisch zum Thema Anbindung von E-IDs an Skribble.**
@@ -89,7 +89,7 @@ Wir kommen vorbei und identifizieren diese Personen vor Ort. Damit seid ihr schn
 
 {{% cta
   "Termin vereinbaren"
-  "https://help.skribble.com/meetings/simon79/beratung-zu-identifikationslsungen"
+  "https://help.skribble.com/meetings/patrick182/call-mit-skribble"
 %}}
 {{% richtext %}}
 **Hast du Fragen? Wir helfen dir gerne telefonisch weiter.**
@@ -109,7 +109,7 @@ Skribble kann problemlos ausserhalb des Firmenkontextes genutzt werden. Falls du
 
 {{% cta
   "Termin vereinbaren"
-  "https://meetings.hubspot.com/patrick182/meet-the-meade"
+  "https://help.skribble.com/meetings/patrick182/identifikation-bei-skribble"
 %}}
 {{% richtext %}}
 **Suche dir einen Termin aus <br class="hide-for-mobile">und wir identifizieren dich.**

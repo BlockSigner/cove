@@ -115,7 +115,7 @@ En savoir plus sur l'offre.
 
 {{< button
   "Fixer un rendez-vous"
-  "https://help.skribble.com/meetings/simon79/conseil"
+  "https://help.skribble.com/meetings/patrick182/consultation-telephone-skribble"
   "_blank"
 >}}
 <a class="mobile-link" href="tel:+41445051664">

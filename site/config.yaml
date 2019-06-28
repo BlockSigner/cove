@@ -53,7 +53,7 @@ languages:
         href: https://my.skribble.com/signup?lang=de
       makeAnAppointment:
         label: Jetzt Termin vereinbaren
-        href: https://help.skribble.com/meetings/simon79/beratung-zu-identifikationslsungen
+        href: https://help.skribble.com/meetings/patrick182/call-mit-skribble
     footer:
       navigation:
         titleColumn1: Plattform
@@ -113,7 +113,7 @@ languages:
         href: https://my.skribble.com/signup
       makeAnAppointment:
         label: Make an appointment
-        href: https://help.skribble.com/meetings/simon79/learn-about-skribbles-identification-means
+        href: https://help.skribble.com/meetings/patrick182/telephone-consultation-skribble
     footer:
       navigation:
         titleColumn1: Platform
@@ -173,7 +173,7 @@ languages:
         href: https://my.skribble.com/signup?lang=fr
       makeAnAppointment:
         label: Fixer un rendez-vous
-        href: https://help.skribble.com/meetings/simon79/conseil
+        href: https://help.skribble.com/meetings/patrick182/consultation-telephone-skribble
     footer:
       navigation:
         titleColumn1: Plateforme

@@ -115,7 +115,7 @@ Learn more about the offer.
 
 {{< button
   "Make an appointment"
-  "https://help.skribble.com/meetings/simon79/learn-about-skribbles-identification-means"
+  "https://help.skribble.com/meetings/patrick182/telephone-consultation-skribble"
   "_blank"
 >}}
 <a class="mobile-link" href="tel:+41445051664">
