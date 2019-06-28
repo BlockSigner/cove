@@ -137,6 +137,15 @@ The button accepts 3 parameters.
 2. link
 3. target attribute
 
+#### {{< ol >}}
+Use the strong tag to indicate the title of an ordered list item that has a title and a text.
+```
+1. **Wähle den Dokument-Typ:**
+Der eigenhändigen Unterschrift gleichgestellte qualifizierte elektronische Signatur
+2. **Lade dein Dokument hoch**
+3. **Klicke auf Prüfen**
+```
+
 #### {{< picture >}}
 The picture component accepts 2 mandatory parameters. The first one is the first part of the image filename. The second parameter is the natural width of the image. Images have to named with following a specific scheme to be correctly referenced by the `picture` component. Let's have a look at the following example:
 ```

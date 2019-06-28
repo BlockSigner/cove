@@ -44,7 +44,7 @@
     }
 
     + h2 {
-      margin-top: 40px; 
+      margin-top: 40px;
     }
   }
 }
@@ -76,6 +76,21 @@
     + ol,
     + ul {
       margin-top: 0;
+    }
+
+    + hr {
+      margin: 9px 0 0;
+    }
+  }
+
+  hr {
+    border: 0;
+    border-top: 1px solid $c-border;
+
+    + ol,
+    + ul {
+      margin-top: 0;
+      border-top: 0;
     }
   }
 
@@ -120,6 +135,31 @@
         background: $c-text;
         content: '';
       }
+    }
+  }
+
+  ol {
+    border-top: 1px solid $c-border;
+    list-style: none;
+    counter-reset: my-awesome-counter;
+    li {
+      position: relative;
+      margin: 0;
+      padding: 16px 0 16px 28px;
+      border-bottom: 1px solid $c-border;
+      counter-increment: my-awesome-counter;
+      &:before {
+        position: absolute;
+        left: 0;
+        font-weight: bold;
+        color: $c-text-alt;
+        content: counter(my-awesome-counter) ". ";
+      }
+    }
+
+    strong {
+      display: block;
+      width: 100%;
     }
   }
 
