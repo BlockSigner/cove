@@ -60,7 +60,7 @@ languages:
         text: Hol dir bei Skribble eine E-ID und leg mit dem Signieren los.
         button:
           label: Termin vereinbaren
-          href: https://help.skribble.com/meetings/patrick182/call-mit-skribble
+          href: https://help.skribble.com/meetings/patrick182/identifikation-bei-skribble
       rightSlot:
         title: Demo vereinbaren?
         text: Wir kommen gerne persönlich vorbei um dir Skribble zu zeigen.
