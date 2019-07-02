@@ -8,8 +8,8 @@
   <title>{{ .Title }}</title>
 
   <style>
-    @font-face {font-family: 'Averta';src: url('/fonts/hinted-averta-regular.woff') format('woff');font-weight: normal;font-style: normal;}
-    @font-face {font-family: 'Averta';src: url('/fonts/hinted-averta-extrabold.woff') format('woff');font-weight: bold;font-style: normal;}
+    @font-face {font-family: 'Averta';font-display: fallback;src: url('/fonts/hinted-averta-regular.woff') format('woff');font-weight: normal;font-style: normal;}
+    @font-face {font-family: 'Averta';font-display: fallback;src: url('/fonts/hinted-averta-extrabold.woff') format('woff');font-weight: bold;font-style: normal;}
   </style>
 
   {{ partial "language-switch-js" }}
