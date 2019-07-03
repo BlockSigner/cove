@@ -16,7 +16,7 @@ testimonial:
 
 {{< intro >}}
 <div class="hide-for-mobile">
-  {{< picture image1 678 >}}
+  {{< picture image1 678 "Bild mit Mann und Stift" >}}
 </div>
 
 {{% richtext %}}
