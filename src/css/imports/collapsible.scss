@@ -18,20 +18,15 @@
     z-index: 2;
     display: flex;
     align-items: center;
-    padding: 35px 60px 5px 30px;
+    padding: 16px 36px 16px 0;
     cursor: pointer;
     font-weight: bold;
     color: $c-text-alt;
-    @include max-width {
-      padding-left: 5px;
-      padding-right: 40px;
-    }
-
     &:after,
     &:before {
       position: absolute;
-      right: 30px;
-      top: 50px;
+      right: 6px;
+      top: 29px;
       width: 13px;
       height: 3px;
       background-color: $c-text-alt;
@@ -49,7 +44,7 @@
 
   &__icon {
     flex: 0 0 auto;
-    margin-right: 25px;
+    margin-right: 20px;
   }
 
   &__toggle {
@@ -78,24 +73,22 @@
     z-index: -1;
     max-height: 0;
     opacity: 0;
-    padding: 0 85px 35px;
     transition: all .2s;
-    @include max-width {
-      padding-right: 40px;
-      padding-left: 60px;
+    overflow: hidden;
+    @include min-width {
+      padding-right: 50px;
     }
-    &:after {
-      position: absolute;
-      left: 0;
-      right: 0;
-      top: -71px;
-      bottom: -1px;
-      border-radius: 3px;
-      content: '';
+    &.has-icon {
+      @include min-width {
+        padding: 0 50px;
+      }
     }
 
     p {
       margin: 0;
+      &:last-child {
+        margin-bottom: 16px !important;
+      }
     }
   }
 }

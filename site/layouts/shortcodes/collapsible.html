@@ -1,13 +1,15 @@
 <div class="collapsible">
   <input id="c{{.Get 0}}" class="collapsible__toggle" type="checkbox">
   <label class="collapsible__label" for="c{{.Get 0}}">
+    {{ if .Get 2 }}
       <svg class="collapsible__icon" width="30px" height="30px" viewBox="0 0 30 30" xmlns="http://www.w3.org/2000/svg" stroke="none" fill="none" fill-rule="evenodd">
         <circle fill="#03CC81" cx="15" cy="15" r="15"></circle>
         <polyline stroke="#FFFFFF" stroke-width="3.53684211" points="9 15.4773535 14.4784889 20 22 10"></polyline>
-    </svg>
+      </svg>
+    {{ end }}
     {{.Get 1}}
   </label>
-  <div class="collapsible__content">
+  <div class="collapsible__content{{ with .Get 2 }} has-icon {{ end }}">
     {{.Inner}}
   </div>
 </div>

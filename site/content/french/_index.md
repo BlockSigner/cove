@@ -80,15 +80,15 @@ Vous signez légalement par simple pression <br class="hide-for-mobile">d'un bou
 Avec Skribble, vous pouvez signer numériquement et légalement (QES) <br class="hide-for-mobile">et satisfaire aux exigences légales suivantes:
 {{% /heading %}}
 
-{{% collapsible 1 "L'exigence de la forme écrite" %}}
+{{% collapsible 1 "L'exigence de la forme écrite" "check" %}}
 La QES équivaut à la signature manuscrite devant le droit suisse (art. 14, al. 2 bis CO) et européen (eIDAS n° 910/2014 art. 25, al. 2)
 {{% /collapsible %}}
 
-{{% collapsible 2 "La SCSE et l'eIDAS" %}}
+{{% collapsible 2 "La SCSE et l'eIDAS" "check" %}}
 Skribble obtient la QES auprès de Swisscom, un fournisseur de certificats électroniques reconnus par la SCSE et l'eIDAS.
 {{% /collapsible %}}
 
-{{% collapsible 3 "Exigences relatives à la protection des données en Suisse et dans l'UE" %}}
+{{% collapsible 3 "Exigences relatives à la protection des données en Suisse et dans l'UE" "check" %}}
 Skribble et ses partenaires (Swisscom) s'engagent à gérer les données conformément à la LPD et au RGPD.
 {{% /collapsible %}}
 {{% /content %}}

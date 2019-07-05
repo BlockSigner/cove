@@ -84,15 +84,15 @@ You sign legally binding at the push of a button, regardless of time and place, 
 With Skribble you can create digital and legally binding (QES) signatures. <br class="hide-for-mobile">Skribble complies with the following requirements:
 {{% /heading %}}
 
-{{% collapsible 1 "Requirement of written form" %}}
+{{% collapsible 1 "Requirement of written form" "check" %}}
 A signature with Skribble is equal to the handwritten signature according to Swiss (OR Art. 14 Para. 2 bis) and EU law (eIDAS No. 910`/`2014 Art. 25 Para. 2).
 {{% /collapsible %}}
 
-{{% collapsible 2 "Requirements of ZertES and eIDAS" %}}
+{{% collapsible 2 "Requirements of ZertES and eIDAS" "check" %}}
 Skribble obtains QES certificates from Swisscom, a provider of TRUSTED certificates recognised by ZertES and eIDAS.
 {{% /collapsible %}}
 
-{{% collapsible 3 "Requirements of CH and EU data protection regulation" %}}
+{{% collapsible 3 "Requirements of CH and EU data protection regulation" "check" %}}
 Skribble and its partners (Swisscom) manage your data in accordance with the DSG and DSGVO.
 {{% /collapsible %}}
 {{% /content %}}

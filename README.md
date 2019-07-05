@@ -208,7 +208,7 @@ Suitable for single or occasional signing with QES
 #### {{< collapsible >}}
 This collapsible component hides its content and reveals it after clicking on the title.
 ```
-{{% collapsible 1 "Requirement of written form" %}}
+{{% collapsible 1 "Requirement of written form" "" %}}
 A signature with Skribble is equal to the handwritten signature according to Swiss (OR Art. 14 Para. 2 bis) and EU law (eIDAS No. 910`/`2014 Art. 25 Para. 2).
 {{% /collapsible %}}
 ```
@@ -216,6 +216,7 @@ A signature with Skribble is equal to the handwritten signature according to Swi
 **Parameters**
 1. id
 2. title of the collapsible
+3. icon: `check` (optional)
 
 #### {{< outro >}}
 
