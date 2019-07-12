@@ -14,7 +14,7 @@ og_image: og/og-skribble-identification.jpg
 # Identity verification for QES – <br class="hide-for-mobile">Skribble makes it easy
 The qualified electronic signature (QES) requires the signing party to verify his or her identity. Skribble offers suitable means of identification for every business context.
 {{% /heading %}}
-{{< picture identification 482 >}}
+{{< picture identification 482 "The identity of a woman standing in a mobile phone is verified by two persons" >}}
 {{% /content %}}
 
 {{% cta
@@ -32,7 +32,7 @@ The qualified electronic signature (QES) requires the signing party to verify hi
 {{% heading %}}
 # Do you already have an electronic identity? Then sign up now.
 {{% /heading %}}
-{{< picture "identification-id" 412 >}}
+{{< picture "identification-id" 412 "An electronic legally binding identity card" >}}
 A growing number of people in Europe holds a verified electronic identity (E-ID). Skribble can be linked with all relevant E-IDs. Thus, millions of users can sign in a qualified manner without additional identity verification.
 
 For you as a company, this means, on the one hand, that you do not have to worry about the identification of these people. On the other hand, you are always on the safe side, no matter which E-ID prevails among your users.
@@ -53,7 +53,7 @@ For you as a company, this means, on the one hand, that you do not have to worry
 {{% heading %}}
 # No electronic identity yet? <br class="hide-for-mobile">We’ll get you one.
 {{% /heading %}}
-{{< picture "create-identity" 385 >}}
+{{< picture "create-identity" 385 "A magnifying glass enlarges the image of a woman in a passport" >}}
 
 {{< row >}}
 {{% plan
@@ -99,7 +99,7 @@ We will come by and identify these people on site. This way, you are quickly and
 {{% heading %}}
 # Would you like to sign <br class="hide-for-mobile">in a qualified manner electronically <br class="hide-for-mobile">as a private individual?
 {{% /heading %}}
-{{< picture "individual-signing" 448 >}}
+{{< picture "individual-signing" 448 "A woman and a man are sitting in an internet page and the woman hands the man a document to electronically sign" >}}
 Skribble can easily be used outside the company context. If you do not yet have an E-ID, we will be happy to identify you at Bahnhofstrasse 3 in Zurich. It only takes a few minutes.
 
 {{% /content %}}
@@ -122,7 +122,7 @@ Skribble can easily be used outside the company context. If you do not yet have 
 
 {{< row >}}
 {{% step %}}
-{{< picture "identification-step-1" 252 >}}
+{{< picture "identification-step-1" 252 "A magnifying glass magnifies the image of a man in a passport" >}}
 {{% richtext %}}
 **Step 1**<br>
 The user's ID card is scanned and checked with Swisscom's ID app.
@@ -130,7 +130,7 @@ The user's ID card is scanned and checked with Swisscom's ID app.
 {{% /step %}}
 
 {{% step %}}
-{{< picture "identification-step-2" 158 >}}
+{{< picture "identification-step-2" 158 "An electronic identity on a mobile phone" >}}
 {{% richtext %}}
 **Step 2**<br>
 Swisscom verifies the data and stores it securely.
@@ -140,7 +140,7 @@ Swisscom verifies the data and stores it securely.
 
 {{< row >}}
 {{% step %}}
-{{< picture "identification-step-3" 270 >}}
+{{< picture "identification-step-3" 270 "A man who has been successfully identified electronically" >}}
 {{% richtext %}}
 **Step 3**<br>
 In Skribble, the status of the user is directly changed to "ready to sign" <br class="hide-for-mobile">in the profile.
@@ -148,7 +148,7 @@ In Skribble, the status of the user is directly changed to "ready to sign" <br c
 {{% /step %}}
 
 {{% step %}}
-{{< picture "identification-step-4" 270 >}}
+{{< picture "identification-step-4" 270 "A person holds a legal document in his hands. The swisscom logo is in the background" >}}
 {{% richtext %}}
 **Step 4**<br>
 The user can now use Skribble to sign electronically in a qualified manner.
@@ -161,7 +161,7 @@ The user can now use Skribble to sign electronically in a qualified manner.
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
 {{< outro >}}
-{{< picture image8 414 >}}
+{{< picture image8 414 "A man stands next to an electronic document with a giant fountain pen" >}}
 
 {{% richtext %}}
 {{% heading %}}
