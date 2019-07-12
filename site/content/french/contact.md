@@ -29,7 +29,7 @@ map:
 ---
 
 {{< outro >}}
-{{< picture image8 414 >}}
+{{< picture image8 414 "Un homme se tient à côté d'un document électronique avec un stylo plume géant" >}}
 
 {{% richtext %}}
 {{% heading %}}
