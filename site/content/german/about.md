@@ -15,17 +15,17 @@ Es war einmal die Unterschrift &ndash; heute signieren wir mit Skribble.
 {{% /heading %}}
 
 {{% richtext %}}
-{{< picture image9 680 >}}
+{{< picture image9 680 "Ein mann unterschreibt mit einem riesengrossen füller auf den boden, daneben sitzt ein mann auf einem stuhl und signiert online" >}}
 
 ## Aus der Schreibmaschine wurde Microsoft Word, aus der CD Spotify, aus der DVD Netflix.
-{{< picture image10 453 >}}
+{{< picture image10 453 "Eine verstaubte schreibmaschine, darüber die logos von netflix, spotify und word" >}}
 
 Die Digitalisierung macht vieles schneller, günstiger und einfacher. Das gilt auch für den Geschäftsalltag, zumindest bei 90 Prozent der Prozesse.
 
 Bei den übrigen zehn Prozent handelt es sich um Schritte, die ein hohes Mass an Vertrauen verlangen, zum Beispiel das Unterschreiben von Arbeitsverträgen. Hierbei verlassen sich viele Firmen noch auf bewährte analoge Prozesse &ndash; auf dem digitalen Weg ist dieselbe Rechtsgrundlage nicht oder nur mit enormen Mehraufwand garantiert. Zumindest bis anhin.
 
 ## Skribble will das ändern:
-{{< picture image11 512 >}}
+{{< picture image11 512 "Eine frau fliegt mit gestrecktem arm durch eine papier-wolke" >}}
 
 Verträge sollen nicht mehr den Umweg über Drucker und Papier nehmen müssen, um rechtsgültig unterschrieben zu werden:
 
@@ -39,7 +39,7 @@ Der Aufbau von Vertrauen in digitalen Geschäftsbeziehungen soll so einfach und 
 {{% /content %}}
 
 {{< outro >}}
-{{< picture image8 414 >}}
+{{< picture image8 414 "Ein mann steht mit einem riesen füller neben einem elektronischen dokument" >}}
 
 {{% richtext %}}
 {{% heading %}}
