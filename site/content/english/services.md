@@ -13,7 +13,7 @@ og_image: og/og-skribble-mission.jpg
 # Pay per signature or as a flatrate <br class="hide-for-mobile">and save if you sign more
 Skribbles offer structure adapts to your needs.
 {{% /heading %}}
-{{< picture image15 585 >}}
+{{< picture image15 585 "A woman with long red hair chooses an offe" >}}
 
 {{< row >}}
 {{% plan gold "Prepaid Model" "Unit price per signature" %}}
@@ -50,7 +50,7 @@ The more, the less expensive
 No E-ID at hand? Let us verify your identity <br class="hide-for-mobile">or identify your people by yourself.
 {{% /heading %}}
 
-{{< picture image6 365 >}}
+{{< picture image6 365 "A magnifying glass enlarges the image of a woman in a passport" >}}
 
 {{< row >}}
 {{% plan gold "Identification Unlimited" "You identify the signing party" %}}
@@ -74,7 +74,7 @@ Suitable if you use QES in a predefined circle of people.
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
 {{< outro >}}
-{{< picture image8 414 >}}
+{{< picture image8 414 "A man stands next to an electronic document with a giant fountain pen" >}}
 
 {{% richtext %}}
 {{% heading %}}
