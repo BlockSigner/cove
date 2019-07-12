@@ -73,7 +73,7 @@ Define the order in which people should sign and invite them by e-mail.
 You sign legally binding at the push of a button, regardless of time and place, with a qualified electronic signature in accordance with Swiss and EU law (ZertES and eIDAS).
 {{% /richtext %}}
 
-{{< picture image4 391 "Three persons legally sign together an online document" >}}
+{{< picture image4 391 "Three people legally sign a document online" >}}
 {{< /side-by-side >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
@@ -100,7 +100,7 @@ Skribble and its partners (Swisscom) manage your data in accordance with the DSG
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
 {{< side-by-side >}}
-{{< picture image5 430 "A person holds a legal document in his hands. The swisscom logo is in the background" >}}
+{{< picture image5 430 "A person holds a legal document in their hands. The Swisscom logo is in the background" >}}
 
 {{% richtext %}}
 ## Skribble works with government-approved technology from Swisscom

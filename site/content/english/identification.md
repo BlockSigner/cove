@@ -14,7 +14,7 @@ og_image: og/og-skribble-identification.jpg
 # Identity verification for QES – <br class="hide-for-mobile">Skribble makes it easy
 The qualified electronic signature (QES) requires the signing party to verify his or her identity. Skribble offers suitable means of identification for every business context.
 {{% /heading %}}
-{{< picture identification 482 "The identity of a woman standing in a mobile phone is verified by two persons" >}}
+{{< picture identification 482 "The identity of a woman standing in a mobile phone is verified by two people" >}}
 {{% /content %}}
 
 {{% cta
@@ -99,7 +99,7 @@ We will come by and identify these people on site. This way, you are quickly and
 {{% heading %}}
 # Would you like to sign <br class="hide-for-mobile">in a qualified manner electronically <br class="hide-for-mobile">as a private individual?
 {{% /heading %}}
-{{< picture "individual-signing" 448 "A woman and a man are sitting in an internet page and the woman hands the man a document to electronically sign" >}}
+{{< picture "individual-signing" 448 "A woman and a man are sitting in an internet page and the woman hands the man a document to sign electronically" >}}
 Skribble can easily be used outside the company context. If you do not yet have an E-ID, we will be happy to identify you at Bahnhofstrasse 3 in Zurich. It only takes a few minutes.
 
 {{% /content %}}
@@ -148,7 +148,7 @@ In Skribble, the status of the user is directly changed to "ready to sign" <br c
 {{% /step %}}
 
 {{% step %}}
-{{< picture "identification-step-4" 270 "A person holds a legal document in his hands. The swisscom logo is in the background" >}}
+{{< picture "identification-step-4" 270 "A person holds a legal document in their hands. The Swisscom logo is in the background" >}}
 {{% richtext %}}
 **Step 4**<br>
 The user can now use Skribble to sign electronically in a qualified manner.

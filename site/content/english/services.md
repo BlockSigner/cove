@@ -13,7 +13,7 @@ og_image: og/og-skribble-mission.jpg
 # Pay per signature or as a flatrate <br class="hide-for-mobile">and save if you sign more
 Skribbles offer structure adapts to your needs.
 {{% /heading %}}
-{{< picture image15 585 "A woman with long red hair chooses an offe" >}}
+{{< picture image15 585 "A woman with long red hair chooses an offer" >}}
 
 {{< row >}}
 {{% plan gold "Prepaid Model" "Unit price per signature" %}}

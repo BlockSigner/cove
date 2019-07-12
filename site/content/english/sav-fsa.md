@@ -9,7 +9,7 @@ type: blank
 
 {{< intro >}}
 <div class="hide-for-mobile">
-  {{< picture image1 678 "three persons sign an electronic document" >}}
+  {{< picture image1 678 "three people sign an electronic document" >}}
 </div>
 
 {{% richtext %}}
@@ -19,7 +19,7 @@ Easily handle digital signature processes – legally binding in accordance with
 {{% /heading %}}
 
 <div class="hide-for-desktop">
-  {{< picture image1 678 "three persons sign an electronic document" >}}
+  {{< picture image1 678 "three people sign an electronic document" >}}
 </div>
 
 {{< intro-partner
@@ -42,13 +42,13 @@ Easily handle digital signature processes – legally binding in accordance with
 {{% /fancy-list %}}
 {{% /richtext %}}
 
-{{< picture image4 391 "Three persons legally sign together an online document" >}}
+{{< picture image4 391 "Three people legally sign an online document together" >}}
 {{< /side-by-side >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
 {{< side-by-side >}}
-{{< picture image5 430 "A person holds a legal document in his hands. The swisscom logo is in the background" >}}
+{{< picture image5 430 "A person holds a legal document in their hands. The Swisscom logo is in the background" >}}
 
 {{% richtext %}}
 ## Skribble meets the highest legal and technological standards
