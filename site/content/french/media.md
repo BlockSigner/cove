@@ -14,7 +14,7 @@ og_image: og/og-skribble-mission.jpg
 Retrouvez ici tout le nécessaire pour écrire sur Skribble.
 {{% /heading %}}
 
-{{< picture image12 688 >}}
+{{< picture image12 688 "Un astronaute vole avec un stylo plume géant devant un écran et signe électroniquement" >}}
 
 Fondé en mars 2018, Skribble est un fournisseur suisse de signatures électroniques ayant des bureaux à Zurich (CH) et à Karlsruhe (DE). La startup permet de signer des documents électroniques de manière simple et légale. La base est la "signature électronique qualifiée" (QES) – la seule forme de signature électronique qui équivaut à une signature manuscrite devant la loi. Swisscom fournit la technologie de certification homologuée par l'Etat pour la QES. Le canton de Fribourg fait partie de ses clients actuels. Skribble compte 14 employés.
 {{% /content %}}
@@ -26,7 +26,7 @@ Fondé en mars 2018, Skribble est un fournisseur suisse de signatures électroni
   "Kontakt"
 %}}
 
-{{< picture image13 100 >}}
+{{< picture image13 100 "Kira Leuthold Content & Communications à Skribble" >}}
 
 {{% richtext %}}
 **Kira Leuthold**<br>
@@ -41,7 +41,7 @@ Communication & Relations publiques
   "Ensemble de marques"
 %}}
 
-{{< picture image14 106 >}}
+{{< picture image14 106 "Carnet de notes avec beaucoup d'informations sur le skribble" >}}
 
 {{% richtext %}}
 Les atouts les plus importants de Skribble sont à portée de main :
@@ -74,7 +74,7 @@ Les atouts les plus importants de Skribble sont à portée de main :
 
 
 {{< outro >}}
-{{< picture image8 414 >}}
+{{< picture image8 414 "Un homme se tient à côté d'un document électronique avec un stylo plume géant" >}}
 
 {{% richtext %}}
 {{% heading %}}
