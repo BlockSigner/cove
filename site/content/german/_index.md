@@ -22,7 +22,7 @@ Signaturprozesse einfach digital abwickeln – <br class="hide-for-mobile">recht
 {{% /heading %}}
 
 <div class="hide-for-desktop">
-  {{< picture image1 678 >}}
+  {{< picture image1 678 "drei personen signieren ein elektronisches dokument" >}}
 </div>
 
 {{< button
@@ -47,13 +47,13 @@ Signaturprozesse einfach digital abwickeln – <br class="hide-for-mobile">recht
 Lade das signierbereite PDF-Dokument direkt via Browser hoch oder nutze Skribble via API aus deiner Unternehmenssoftware heraus.
 {{% /richtext %}}
 
-{{< picture image2 416 >}}
+{{< picture image2 416 "Eine frau hält ein PDF dokument in den händen und lädt es hoch" >}}
 {{< /side-by-side >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
 {{< side-by-side >}}
-{{< picture image3 400 >}}
+{{< picture image3 400 "Ein mann lädt zwei personen zum signieren ein" >}}
 
 {{% richtext %}}
 ## Zum Signieren einladen
@@ -69,7 +69,7 @@ Lade die signierenden Personen per E-Mail ein und lege die Signatur-Reihenfolge 
 Ihr signiert rechtsgültig per Knopfdruck, unabhängig von Zeit und Ort mit einer qualifizierten elektronischen Signatur nach Schweizer und EU Recht (ZertES und eIDAS).
 {{% /richtext %}}
 
-{{< picture image4 391 >}}
+{{< picture image4 391 "Drei personen signieren rechtsgültig zusammen ein online dokument" >}}
 {{< /side-by-side >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
@@ -96,7 +96,7 @@ Skribble sowie Partner (Swisscom) verpflichten sich, Daten gemäss DSG und DSGVO
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
 {{< side-by-side >}}
-{{< picture image5 430 >}}
+{{< picture image5 430 "Eine person hält ein rechtsgültiges dokument in den händen. Im hintergrund befindet sich das swisscom logo" >}}
 
 {{% richtext %}}
 ## Skribble arbeitet mit staatlich anerkannter Technologie von Swisscom
@@ -112,7 +112,7 @@ Ein wichtiger Bestandteil der elektronischen Signatur (QES) sind entsprechende d
 Für die qualifizierte elektronische Signatur (QES) muss der Unterzeichnende seine Identität beweisen. Personen, die über eine geprüfte E-ID verfügen, können ohne zusätzliche Massnahmen direkt loslegen. Ansonsten bietet Skribble für jeden Geschäftskontext eine passende Identifikationsmöglichkeit an.
 {{% /richtext %}}
 
-{{< picture image6 365 >}}
+{{< picture image6 365 "Eine lupe vergrößert das bild einer frau in einem pass" >}}
 {{< /side-by-side >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
@@ -136,7 +136,7 @@ Geeignet für regelmässiges Signieren mit QES.
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
 {{< outro >}}
-{{< picture image8 414 >}}
+{{< picture image8 414 "Ein mann steht mit einem riesen füller neben einem elektronischen dokument" >}}
 
 {{% richtext %}}
 {{% heading %}}
