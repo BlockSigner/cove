@@ -14,7 +14,7 @@ og_image: og/og-skribble-mission.jpg
 Skribbles Angebotsstruktur passt sich deinen Bedürfnissen an.
 {{% /heading %}}
 
-{{< picture image15 585 >}}
+{{< picture image15 585 "Eine frau mit langen roten haaren wählt ein angebot aus" >}}
 
 {{< row >}}
 {{% plan gold "Prepaid-Modell" "Einzelpreis pro Signatur" %}}
@@ -51,7 +51,7 @@ Je mehr, desto günstiger
 Keine E-ID vorhanden? Lass dich von uns identifizieren <br class="hide-for-mobile">oder identifiziere deine Leute selbst.
 {{% /heading %}}
 
-{{< picture image6 365 >}}
+{{< picture image6 365 "Eine lupe vergrößert das bild einer frau in einem pass" >}}
 
 {{< row >}}
 {{% plan gold "Identification Unlimited" "Du identifizierst die Signierenden" %}}
@@ -74,7 +74,7 @@ Passend, wenn du die QES in einem vordefinierten Personenkreis einsetzt.
 {{% /cta %}}
 
 {{< outro >}}
-{{< picture image8 414 >}}
+{{< picture image8 414 "Ein mann steht mit einem riesen füller neben einem elektronischen dokument" >}}
 
 {{% richtext %}}
 {{% heading %}}
