@@ -16,7 +16,7 @@ testimonial:
 
 {{< intro >}}
 <div class="hide-for-mobile">
-  {{< picture image1 678 "three persons sign an electronic document" >}}
+  {{< picture image1 678 "three people sign an electronic document" >}}
 </div>
 
 {{% richtext %}}
