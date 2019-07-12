@@ -15,17 +15,17 @@ Il était une fois la signature – aujourd'hui, nous signons avec Skribble.
 {{% /heading %}}
 
 {{% richtext %}}
-{{< picture image9 680 >}}
+{{< picture image9 680 "Un homme signe avec un énorme stylo plume sur le sol, à côté, un homme s'assoit sur une chaise et signe en ligne" >}}
 
 ## La machine à écrire est devenue Microsoft Word, le CD Spotify et le DVD Netflix.
-{{< picture image10 453 >}}
+{{< picture image10 453 "Une machine à écrire poussiéreuse, sur laquelle se trouvent les logos de netflix, spotify et word" >}}
 
 La numérisation rend beaucoup de choses plus rapides, moins chères et plus simples. Cela s'applique également aux affaires quotidiennes, dans au moins 90 pour cent des processus.
 
 Les dix pour cent restants sont des étapes qui exigent un degré élevé de confiance, comme la signature de contrats de travail. De nombreuses entreprises s'appuient encore sur des procédés analogiques éprouvés – la même base juridique n'est pas garantie par voie numérique ou seulement avec d'énormes dépenses supplémentaires. Du moins jusqu'à présent.
 
 ## Skribble veut que cela change:
-{{< picture image11 512 >}}
+{{< picture image11 512 "Une femme vole le bras tendu à travers un nuage de papier" >}}
 
 Les contrats ne devraient plus passer par l'imprimante et le papier pour être signés légalement:
 
@@ -39,7 +39,7 @@ Bâtir la confiance dans les relations d'affaires numériques devrait être auss
 {{% /content %}}
 
 {{< outro >}}
-{{< picture image8 414 >}}
+{{< picture image8 414 "Un homme se tient à côté d'un document électronique avec un stylo plume géant" >}}
 
 {{% richtext %}}
 {{% heading %}}
