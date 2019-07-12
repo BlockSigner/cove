@@ -15,11 +15,11 @@ Once upon a time there was the hand-written signature – <br class="hide-for-mo
 {{% /heading %}}
 
 {{% richtext %}}
-{{< picture image9 680 >}}
+{{< picture image9 680 "A man signs with a huge fountain pen on the floor, next to it a man sits on a chair and signs online" >}}
 
 ## The typewriter became Microsoft Word, the CD turned into Spotify, the DVD became Netflix.
 
-{{< picture image10 453 >}}
+{{< picture image10 453 "A dusty typewriter, over it the logos of netflix, spotify and word" >}}
 
 Digitalisation makes many things faster, cheaper and simpler. This also applies to 90 percent of day to day business processes.
 
@@ -27,7 +27,7 @@ The remaining ten percent require a high degree of trust, for example signing em
 
 ## Skribble wants to change this:
 
-{{< picture image11 512 >}}
+{{< picture image11 512 "A woman flies with an outstretched arm through a paper cloud" >}}
 
 Contracts should no longer have to take a detour via the printer and paper in order to be signed:
 
@@ -41,7 +41,7 @@ Building trust in digital business relationships should become as simple and int
 {{% /content %}}
 
 {{< outro >}}
-{{< picture image8 414 >}}
+{{< picture image8 414 "A man stands next to an electronic document with a giant fountain pen" >}}
 
 {{% richtext %}}
 {{% heading %}}
