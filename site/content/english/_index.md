@@ -16,7 +16,7 @@ testimonial:
 
 {{< intro >}}
 <div class="hide-for-mobile">
-  {{< picture image1 678 >}}
+  {{< picture image1 678 "three persons sign an electronic document" >}}
 </div>
 
 {{% richtext %}}
@@ -51,13 +51,13 @@ Easily handle digital signature processes – legally binding <br class="hide-fo
 Upload the signed PDF document directly via browser or use Skribble via API from your business software.
 {{% /richtext %}}
 
-{{< picture image2 416 >}}
+{{< picture image2 416 "A woman holding a PDF document in her hands and uploading it" >}}
 {{< /side-by-side >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
 {{< side-by-side >}}
-{{< picture image3 400 >}}
+{{< picture image3 400 "A man invites two people to sign the document" >}}
 
 {{% richtext %}}
 ## Invite people to sign
@@ -73,7 +73,7 @@ Define the order in which people should sign and invite them by e-mail.
 You sign legally binding at the push of a button, regardless of time and place, with a qualified electronic signature in accordance with Swiss and EU law (ZertES and eIDAS).
 {{% /richtext %}}
 
-{{< picture image4 391 >}}
+{{< picture image4 391 "Three persons legally sign together an online document" >}}
 {{< /side-by-side >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
@@ -100,7 +100,7 @@ Skribble and its partners (Swisscom) manage your data in accordance with the DSG
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
 {{< side-by-side >}}
-{{< picture image5 430 >}}
+{{< picture image5 430 "A person holds a legal document in his hands. The swisscom logo is in the background" >}}
 
 {{% richtext %}}
 ## Skribble works with government-approved technology from Swisscom
@@ -116,7 +116,7 @@ An important component of qualified electronic signatures (QES) are digital cert
 Qualified electronic signatures (QES) require the signatory to verify their identity. People who already have a verified E-ID can start signing straight away. For everyone else Skribble offers a means of identification suitable for every business context.
 {{% /richtext %}}
 
-{{< picture image6 365 >}}
+{{< picture image6 365 "A magnifying glass enlarges the image of a woman in a passport" >}}
 {{< /side-by-side >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
@@ -141,7 +141,7 @@ Suitable for regular signing with QES
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
 {{< outro >}}
-{{< picture image8 414 >}}
+{{< picture image8 414 "A man stands next to an electronic document with a giant fountain pen" >}}
 
 {{% richtext %}}
 {{% heading %}}
