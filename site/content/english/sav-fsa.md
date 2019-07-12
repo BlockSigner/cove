@@ -9,7 +9,7 @@ type: blank
 
 {{< intro >}}
 <div class="hide-for-mobile">
-  {{< picture image1 678 >}}
+  {{< picture image1 678 "three persons sign an electronic document" >}}
 </div>
 
 {{% richtext %}}
@@ -19,7 +19,7 @@ Easily handle digital signature processes – legally binding in accordance with
 {{% /heading %}}
 
 <div class="hide-for-desktop">
-  {{< picture image1 678 >}}
+  {{< picture image1 678 "three persons sign an electronic document" >}}
 </div>
 
 {{< intro-partner
@@ -42,13 +42,13 @@ Easily handle digital signature processes – legally binding in accordance with
 {{% /fancy-list %}}
 {{% /richtext %}}
 
-{{< picture image4 391 >}}
+{{< picture image4 391 "Three persons legally sign together an online document" >}}
 {{< /side-by-side >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
 {{< side-by-side >}}
-{{< picture image5 430 >}}
+{{< picture image5 430 "A person holds a legal document in his hands. The swisscom logo is in the background" >}}
 
 {{% richtext %}}
 ## Skribble meets the highest legal and technological standards
@@ -67,7 +67,7 @@ Easily handle digital signature processes – legally binding in accordance with
 # SAV-FSA members use Skribble at a preferential price
 {{% /heading %}}
 
-{{< picture sav-special 200 >}}
+{{< picture sav-special 200 "Blue circle with the number 12" >}}
 {{% richtext %}}
 
 ## per month / user instead of CHF 25.00
@@ -79,7 +79,7 @@ Signatures can also be obtained independently of the user.
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
 {{< side-by-side >}}
-{{< picture identification 482 >}}
+{{< picture identification 482 "The identity of a woman standing in a mobile phone is verified by two persons" >}}
 
 {{% richtext %}}
 # Ready to sign in 5 minutes
@@ -105,7 +105,7 @@ A law firm may also elect to identify persons itself.
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
 {{< outro >}}
-{{< picture image8 414 >}}
+{{< picture image8 414 "A man stands next to an electronic document with a giant fountain pen" >}}
 
 {{% richtext %}}
 {{% heading %}}
