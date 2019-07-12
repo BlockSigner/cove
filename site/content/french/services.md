@@ -14,7 +14,7 @@ og_image: og/og-skribble-service.jpg
 Skribble propose des offres qui correspondent à vos besoins.
 {{% /heading %}}
 
-{{< picture image15 585 >}}
+{{< picture image15 585 "Une femme aux longs cheveux roux choisit une offre" >}}
 
 {{< row >}}
 {{% plan gold "Modèle prépayé" "Prix unique par signature" %}}
@@ -53,7 +53,7 @@ Vous n'avez pas d'e-ID? Laissez-nous vous identifier <br class="hide-for-mobile"
 
 {{% /heading %}}
 
-{{< picture image6 365 >}}
+{{< picture image6 365 "Une loupe agrandit l'image d'une femme dans un passeport" >}}
 
 {{< row >}}
 {{% plan gold "Identification illimitée" "Vous identifiez les signataires" %}}
@@ -76,7 +76,7 @@ Convient si vous utilisez la QES avec un nombre de personnes prédéfini.
 {{% /cta %}}
 
 {{< outro >}}
-{{< picture image8 414 >}}
+{{< picture image8 414 "Un homme se tient à côté d'un document électronique avec un stylo plume géant" >}}
 
 {{% richtext %}}
 {{% heading %}}
