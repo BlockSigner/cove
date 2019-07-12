@@ -19,7 +19,7 @@ Signaturprozesse einfach digital abwickeln – rechtsgültig nach dem Schweizer 
 {{% /heading %}}
 
 <div class="hide-for-desktop">
-  {{< picture image1 678 >}}
+  {{< picture image1 678 "drei personen signieren ein elektronisches dokument" >}}
 </div>
 
 {{< intro-partner
@@ -42,13 +42,13 @@ Signaturprozesse einfach digital abwickeln – rechtsgültig nach dem Schweizer 
 {{% /fancy-list %}}
 {{% /richtext %}}
 
-{{< picture image4 391 >}}
+{{< picture image4 391 "Drei personen signieren rechtsgültig zusammen ein online dokument" >}}
 {{< /side-by-side >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
 {{< side-by-side >}}
-{{< picture image5 430 >}}
+{{< picture image5 430 "Eine person hält ein rechtsgültiges dokument in den händen. Im hintergrund befindet sich das swisscom logo" >}}
 
 {{% richtext %}}
 ## Skribble erfüllt höchste rechtliche und technologische Standards
@@ -67,7 +67,7 @@ Signaturprozesse einfach digital abwickeln – rechtsgültig nach dem Schweizer 
 # SAV-FSA Mitglieder nutzen Skribble zum Vorzugspreis
 {{% /heading %}}
 
-{{< picture sav-special 200 >}}
+{{< picture sav-special 200 "Blauer kreis mit der nummer 12" >}}
 
 {{% richtext %}}
 ## pro Monat / Nutzer anstatt CHF 25.-
@@ -79,7 +79,7 @@ Signaturen können auch nutzerunabhängig bezogen werden.
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
 {{< side-by-side >}}
-{{< picture identification 482 >}}
+{{< picture identification 482 "Die identität einer frau, die in einem handy steht, wird von zwei personen überprüft" >}}
 
 {{% richtext %}}
 # Bereit zum Signieren in 5 Minuten
@@ -105,7 +105,7 @@ Eine Kanzlei kann auch dazu befähigt werden, selbst Personen zu identifizieren.
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
 {{< outro >}}
-{{< picture image8 414 >}}
+{{< picture image8 414 "Ein mann steht mit einem riesen füller neben einem elektronischen dokument" >}}
 
 {{% richtext %}}
 {{% heading %}}
