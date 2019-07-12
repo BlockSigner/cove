@@ -14,7 +14,7 @@ og_image: og/og-skribble-mission.jpg
 Here you will find everything you need to write about Skribble.
 {{% /heading %}}
 
-{{< picture image12 688 >}}
+{{< picture image12 688 "An astronaut flies with a giant fountain pen in front of a screen and signs electronically" >}}
 
 Skribble, founded in March 2018, is a Swiss provider of electronic signatures with offices in Zurich (CH) and Karlsruhe (DE). The startup enables electronic documents to be signed simply and legally. The basis is the "qualified electronic signature" (QES) - the only form of electronic signature equivalent to a handwritten signature before the law. Swisscom supplies the state-approved certification technology for QES. Existing customers include the Canton of Fribourg. Skribble has 14 employees.
 {{% /content %}}
@@ -26,7 +26,7 @@ Skribble, founded in March 2018, is a Swiss provider of electronic signatures wi
   "Media Contact"
 %}}
 
-{{< picture image13 100 >}}
+{{< picture image13 100 "Kira Leuthold Content & Communications at Skribble" >}}
 
 {{% richtext %}}
 **Kira Leuthold**<br>
@@ -41,7 +41,7 @@ Communications & Public Relations
   "Brand-Assets"
 %}}
 
-{{< picture image14 106 >}}
+{{< picture image14 106 "Notebook with lots of information about skribble" >}}
 
 {{% richtext %}}
 The Most Important Skribble Branding Assets are right here at hand:
@@ -73,7 +73,7 @@ The Most Important Skribble Branding Assets are right here at hand:
 {{% /table %}}
 
 {{< outro >}}
-{{< picture image8 414 >}}
+{{< picture image8 414 "A man stands next to an electronic document with a giant fountain pen" >}}
 
 {{% richtext %}}
 {{% heading %}}
