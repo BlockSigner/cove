@@ -14,7 +14,7 @@ og_image: og/og-skribble-identification.jpg
 # Vérification d'identité pour la QES – Skribble vous facilite la tâche
 Pour utiliser la signature électronique qualifiée (QES), le signataire doit prouver <br class="hide-for-mobile">son identité. Skribble vous offre un moyen d'identification adapté <br class="hide-for-mobile">à chaque contexte commercial.
 {{% /heading %}}
-{{< picture identification 482 >}}
+{{< picture identification 482 "L'identité d'une femme debout dans un téléphone portable est vérifiée par deux personnes" >}}
 {{% /content %}}
 
 {{% cta
@@ -35,7 +35,7 @@ Pour utiliser la signature électronique qualifiée (QES), le signataire doit pr
 
 {{% /heading %}}
 
-{{< picture "identification-id" 412 >}}
+{{< picture "identification-id" 412 "Une carte d'identité électronique juridiquement valable" >}}
 
 En Europe, un nombre croissant de personnes a une identité électronique vérifiée <br class="hide-for-mobile">(e-ID). Skribble les relie. Des millions d'utilisateurs peuvent signer sans vérification d'identité supplémentaire.
 
@@ -60,7 +60,7 @@ Pour vous en tant qu'entreprise, cela signifie d'abord que vous n'avez pas à vo
 # Vous ne possédez pas d'identité électronique? Nous vous en créons une.
 {{% /heading %}}
 
-{{< picture "create-identity" 385 >}}
+{{< picture "create-identity" 385 "Une loupe agrandit l'image d'une femme dans un passeport" >}}
 
 {{< row >}}
 {{% plan
@@ -108,7 +108,7 @@ Nous venons identifier ces personnes sur place. Ainsi, vous êtes rapidement et 
 {{% heading %}}
 # Souhaitez-vous signer électroniquement et de manière qualifiée <br class="hide-for-mobile">en tant que privé?
 {{% /heading %}}
-{{< picture "individual-signing" 448 >}}
+{{< picture "individual-signing" 448 "Une femme et un homme sont assis sur une page Internet et la femme remet à l'homme un document à signer électroniquement" >}}
 
 Skribble s'utilise facilement en dehors du contexte de l'entreprise. Si vous n'avez <br class="hide-for-mobile">pas encore d'e-ID, nous nous ferons un plaisir de vous identifier à la Bahnhofstrasse 3 <br class="hide-for-mobile">à Zurich. Cela ne prend que quelques minutes.
 {{% /content %}}
@@ -133,7 +133,7 @@ Cela ne dure que quelques minutes
 
 {{< row >}}
 {{% step %}}
-{{< picture "identification-step-1" 252 >}}
+{{< picture "identification-step-1" 252 "Une loupe grossit l'image d'un homme dans un col" >}}
 {{% richtext %}}
 **Etape 1**<br>
 La pièce d'identité de l'utilisateur est scannée et vérifiée avec l'ID-app de Swisscom.
@@ -141,7 +141,7 @@ La pièce d'identité de l'utilisateur est scannée et vérifiée avec l'ID-app 
 {{% /step %}}
 
 {{% step %}}
-{{< picture "identification-step-2" 158 >}}
+{{< picture "identification-step-2" 158 "Une identité électronique sur un téléphone portable" >}}
 {{% richtext %}}
 **Etape 2**<br>
 Swisscom vérifie les données et les stocke en toute sécurité.
@@ -151,7 +151,7 @@ Swisscom vérifie les données et les stocke en toute sécurité.
 
 {{< row >}}
 {{% step %}}
-{{< picture "identification-step-3" 270 >}}
+{{< picture "identification-step-3" 270 "Un homme qui a été identifié électroniquement avec succès" >}}
 {{% richtext %}}
 **Etape 3**<br>
 Dans Skribble, le statut de l'utilisateur <br class="hide-for-mobile">est directement modifié en "prêt à signer" dans le profil.
@@ -159,7 +159,7 @@ Dans Skribble, le statut de l'utilisateur <br class="hide-for-mobile">est direct
 {{% /step %}}
 
 {{% step %}}
-{{< picture "identification-step-4" 270 >}}
+{{< picture "identification-step-4" 270 "Une personne tient un document juridique entre ses mains. Le logo de swisscom se trouve à l'arrière-plan" >}}
 {{% richtext %}}
 **Etape 4**<br>
 L'utilisateur peut maintenant utiliser Skribble pour signer électroniquement de manière qualifiée.
@@ -171,7 +171,7 @@ L'utilisateur peut maintenant utiliser Skribble pour signer électroniquement de
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
 {{< outro >}}
-{{< picture image8 414 >}}
+{{< picture image8 414 "Un homme se tient à côté d'un document électronique avec un stylo plume géant" >}}
 
 {{% richtext %}}
 {{% heading %}}
