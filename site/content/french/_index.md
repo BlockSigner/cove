@@ -12,7 +12,7 @@ og_image: og/og-skribble.jpg
 
 {{< intro >}}
 <div class="hide-for-mobile">
-  {{< picture image1 678 >}}
+  {{< picture image1 678 "trois personnes signent un document électronique" >}}
 </div>
 
 {{% richtext %}}
@@ -22,7 +22,7 @@ Réaliser vos processus de signature simplement et <br class="hide-for-mobile">d
 {{% /heading %}}
 
 <div class="hide-for-desktop">
-  {{< picture image1 678 >}}
+  {{< picture image1 678 "trois personnes signent un document électronique" >}}
 </div>
 
 {{< button
@@ -47,13 +47,13 @@ Réaliser vos processus de signature simplement et <br class="hide-for-mobile">d
 Chargez le document PDF à signer directement via votre navigateur ou utilisez Skribble via API depuis votre logiciel de gestion.
 {{% /richtext %}}
 
-{{< picture image2 416 >}}
+{{< picture image2 416 "Une femme tenant un document PDF dans ses mains et le téléchargeant" >}}
 {{< /side-by-side >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
 {{< side-by-side >}}
-{{< picture image3 400 >}}
+{{< picture image3 400 "Un homme invite deux personnes à signer le document" >}}
 
 {{% richtext %}}
 ## Inviter à signer
@@ -69,7 +69,7 @@ Invitez les signataires par e-mail et définissez l'ordre de signature.
 Vous signez légalement par simple pression <br class="hide-for-mobile">d'un bouton, quels que soient l'heure et le lieu, avec une signature électronique qualifiée, conformément au droit suisse et européen <br class="hide-for-mobile">(SCSE et eIDAS).
 {{% /richtext %}}
 
-{{< picture image4 391 >}}
+{{< picture image4 391 "Trois personnes signent légalement ensemble un document en ligne" >}}
 {{< /side-by-side >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
@@ -96,7 +96,7 @@ Skribble et ses partenaires (Swisscom) s'engagent à gérer les données conform
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
 {{< side-by-side >}}
-{{< picture image5 430 >}}
+{{< picture image5 430 "Une personne tient un document juridique entre ses mains. Le logo de swisscom se trouve à l'arrière-plan" >}}
 
 {{% richtext %}}
 ## Skribble fonctionne avec la technologie Swisscom approuvée par l'Etat
@@ -112,7 +112,7 @@ Les certificats numériques correspondants sont un élément important de la sig
 Le signataire doit prouver son identité pour utiliser la signature électronique qualitfiée (QES). Les personnes possédant une e-ID vérifiée peuvent commencer sans mesures supplémentaires. Dans le cas contraire, Skribble offre un moyen d'identification adapté <br class="hide-for-mobile">à chaque contexte commercial.
 {{% /richtext %}}
 
-{{< picture image6 365 >}}
+{{< picture image6 365 "Une loupe agrandit l'image d'une femme dans un passeport" >}}
 {{< /side-by-side >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
@@ -136,7 +136,7 @@ Idéal pour un usage régulier de la QES.
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
 {{< outro >}}
-{{< picture image8 414 >}}
+{{< picture image8 414 "Un homme se tient à côté d'un document électronique avec un stylo plume géant" >}}
 
 {{% richtext %}}
 {{% heading %}}
