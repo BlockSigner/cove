@@ -9,7 +9,7 @@ type: blank
 
 {{< intro >}}
 <div class="hide-for-mobile">
-  {{< picture image1 678 >}}
+  {{< picture image1 678 "trois personnes signent un document électronique" >}}
 </div>
 
 {{% richtext %}}
@@ -19,7 +19,7 @@ Traiter les processus de signature numériquement &ndash; juridiquement valides 
 {{% /heading %}}
 
 <div class="hide-for-desktop">
-  {{< picture image1 678 >}}
+  {{< picture image1 678 "trois personnes signent un document électronique" >}}
 </div>
 
 {{< intro-partner
@@ -42,13 +42,13 @@ Traiter les processus de signature numériquement &ndash; juridiquement valides 
 {{% /fancy-list %}}
 {{% /richtext %}}
 
-{{< picture image4 391 >}}
+{{< picture image4 391 "Trois personnes signent légalement ensemble un document en ligne" >}}
 {{< /side-by-side >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
 {{< side-by-side >}}
-{{< picture image5 430 >}}
+{{< picture image5 430 "Une personne tient un document juridique entre ses mains. Le logo de swisscom se trouve à l'arrière-plan" >}}
 
 {{% richtext %}}
 ## Skribble répond aux normes juridiques et technologiques les plus élevées.
@@ -67,7 +67,7 @@ Traiter les processus de signature numériquement &ndash; juridiquement valides 
 # Les membres de la SAV-FSA utilisent Skribble à un prix préférentiel
 {{% /heading %}}
 
-{{< picture sav-special 200 >}}
+{{< picture sav-special 200 "Cercle bleu avec le chiffre 12" >}}
 {{% richtext %}}
 
 ## par mois / utilisateur au lieu de CHF 25.-
@@ -79,7 +79,7 @@ Les signatures peuvent également être obtenues selon un modèle prépayé.
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
 {{< side-by-side >}}
-{{< picture identification 482 >}}
+{{< picture identification 482 "L'identité d'une femme debout dans un téléphone portable est vérifiée par deux personnes" >}}
 
 {{% richtext %}}
 # Prêt à signer en 5 minutes
@@ -105,7 +105,7 @@ Un cabinet d'avocats peut également être qualifié pour le faire, pour identif
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
 {{< outro >}}
-{{< picture image8 414 >}}
+{{< picture image8 414 "Un homme se tient à côté d'un document électronique avec un stylo plume géan" >}}
 
 {{% richtext %}}
 {{% heading %}}
