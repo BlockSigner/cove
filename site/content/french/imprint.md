@@ -1,6 +1,6 @@
 ---
 title: Skribble – Empreinte
-description: Skribble est exploité par BlockSigner AG. Skribble s'est fixé comme objectif de numériser les processus contractuels. Depuis sa fondation en 2018, une équipe croissante de Trust Shapers travaille à cet avenir.
+description: Skribble est exploité par Skribble SA. Skribble s'est fixé comme objectif de numériser les processus contractuels. Depuis sa fondation en 2018, une équipe croissante de Trust Shapers travaille à cet avenir.
 draft: false
 slug: impressum
 type: narrow
@@ -11,7 +11,7 @@ type: narrow
 # Impressum
 
 ## Société
-BlockSigner AG
+Skribble SA
 
 ## Adresse
 Trust Square
@@ -31,12 +31,12 @@ CH-020.3.045.842-4
 CHE-397.613.998
 
 ## Conception, conception et réalisation
-BlockSigner AG
+Skribble SA
 
 ## Content
-BlockSigner AG est responsable de ce site Web et de son contenu au sens du § 3 alinéa 1 UWG, sauf indication contraire directement sous les articles et pages.
+Skribble SA est responsable de ce site Web et de son contenu au sens du § 3 alinéa 1 UWG, sauf indication contraire directement sous les articles et pages.
 
 ## Copyright
-Les droits d'auteur et tous les autres droits sur le contenu, les images, les photos ou autres fichiers du site Internet appartiennent exclusivement à BlockSigner AG. La reproduction de tout élément doit faire l'objet d'une autorisation écrite préalable du détenteur des droits d'auteur.
+Les droits d'auteur et tous les autres droits sur le contenu, les images, les photos ou autres fichiers du site Internet appartiennent exclusivement à Skribble SA. La reproduction de tout élément doit faire l'objet d'une autorisation écrite préalable du détenteur des droits d'auteur.
 {{% /richtext %}}
 {{% /content %}}

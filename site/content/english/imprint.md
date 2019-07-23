@@ -1,6 +1,6 @@
 ---
 title: Skribble – Imprint
-description: Skribble is operated by BlockSigner AG. Skribble has made it its goal to digitalize contract processes. In 2018 we formed a team of Trust Shapers that has been working towards this future.
+description: Skribble is operated by Skribble AG. Skribble has made it its goal to digitalize contract processes. In 2018 we formed a team of Trust Shapers that has been working towards this future.
 draft: false
 slug: imprint
 ---
@@ -10,7 +10,7 @@ slug: imprint
 # Imprint
 
 ## Company
-BlockSigner AG
+Skribble AG
 
 ## Address
 Trust Square
@@ -30,12 +30,12 @@ CH-020.3.045.842-4
 CHE-397.613.998
 
 ## Conception, design and implementation
-BlockSigner AG
+Skribble AG
 
 ## Content
-BlockSigner AG is responsible for this website and its content within the meaning of § 3 para. 1 UWG, unless otherwise stated directly under the articles and pages.
+Skribble AG is responsible for this website and its content within the meaning of § 3 para. 1 UWG, unless otherwise stated directly under the articles and pages.
 
 ## Copyright
-The copyright and all other rights to content, images, photos or other files on the website belong exclusively to BlockSigner AG. The written consent of the copyright holder must be obtained in advance for the reproduction of any elements.
+The copyright and all other rights to content, images, photos or other files on the website belong exclusively to Skribble AG. The written consent of the copyright holder must be obtained in advance for the reproduction of any elements.
 {{% /richtext %}}
 {{% /content %}}

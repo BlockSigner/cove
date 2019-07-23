@@ -7,7 +7,7 @@ description: Nutzungsbedingungen meta description
 
 {{% content %}}
 {{% richtext %}}
-# Skribble Nutzungsbedingungen<br>von BlockSigner AG
+# Skribble Nutzungsbedingungen<br>von Skribble AG
 (Version 2018.10.18)
 
 Als Systemnutzer von Skribble sind Sie verpflichtet, die nachstehenden Grundsätze rechtmässiger Nutzung
@@ -17,7 +17,7 @@ einzuhalten:
 <ol>
   <li>Um ein Dokument qualifiziert elektronisch zu unterzeichnen, wird eine starke Authentifizierung des
       Unterzeichnenden und eine durch einen zertifizierten Service, eine sogenannte Anbieterin von
-      Zertifizierungsdiensten ("C ertification Authority") , erstellte Signatur benötigt. Skribble wird diese
+      Zertifizierungsdiensten ("Certification Authority") , erstellte Signatur benötigt. Skribble wird diese
       beiden Komponente mit verschiedenen vertrauensvollen Partnern, welche die Anforderungen von
       ZertES und/oder eIDAS erfüllen, in seinen Service integrieren, um damit auf einfachste Art und
       Weise QES zu erstellen.</li>
@@ -56,9 +56,9 @@ einzuhalten:
     <li>Systemnutzer dürfen sich nicht als eine fremde Person oder sich fälschlicherweise als zu einer
         Organisation ausgeben oder ihre Zugehörigkeit bzw. Beziehung zu einer solchen falsch angeben
         oder auf andere Art falsch darstellen.</li>
-    <li>Systemnutzer sorgen selbständig für die Sicherung von Daten in ihrem Account. BlockSigner
+    <li>Systemnutzer sorgen selbständig für die Sicherung von Daten in ihrem Account. Skribble
         schuldet keine Datenverfügbarkeit.</li>
-    <li>Systemnutzer anerkennen das Recht von BlockSigner, Daten aus ihrem Nutzeraccount dem Kunden
+    <li>Systemnutzer anerkennen das Recht von Skribble, Daten aus ihrem Nutzeraccount dem Kunden
         (üblicherweise der Arbeitgeber des Systemnutzers) offenzulegen, wenn der Anschein besteht, dass
         der betreffende Systemnutzer Skribble missbraucht hat, um strafrechtlich oder rechtsverletzende
         Informationen zu verbreiten.</li>

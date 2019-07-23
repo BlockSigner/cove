@@ -11,7 +11,7 @@ description: Politique de Confidentialité méta-description
 
 <small>Date de prise d'effet: October 11, 2018</small>
 
-<p class="lead">BlockSigner AG ("nous", "notre", "nos") exploite le site web <a href="https://www.skribble.com" target="_blank">www.skribble.com</a> (ci-après désigné par le terme "Service").</p>
+<p class="lead">Skribble SA ("nous", "notre", "nos") exploite le site web <a href="https://www.skribble.com" target="_blank">www.skribble.com</a> (ci-après désigné par le terme "Service").</p>
 
 Cette page vous explique nos politiques en matière de collecte, d'utilisation et de communication des données à caractère personnel lorsque vous utilisez notre Service ainsi que les choix qui s'offrent à vous en ce qui concerne ces données.
 
@@ -20,7 +20,7 @@ Nous utilisons vos données pour fournir et améliorer le Service. En utilisant 
 ## Définitions
 
 ### Service
-Par Service on entend le site web <a href="https://www.skribble.com" target="_blank">www.skribble.com</a> exploité par BlockSigner AG.
+Par Service on entend le site web <a href="https://www.skribble.com" target="_blank">www.skribble.com</a> exploité par Skribble SA.
 
 ### Données à caractère personnel
 Données à Caractère Personnel désigne des données concernant un individu vivant qui peut être identifié à partir de ces données (ou à partir de ces données et d'autres informations en notre possession ou susceptibles d'entrer en notre possession).
@@ -76,7 +76,7 @@ Exemples de cookies que nous utilisons :
 -	**Cookies de Sécurité.** Nous utilisons des Cookies de Sécurité pour des raisons de sécurité.
 
 ## Utilisation des données
-BlockSigner AG utilise les données recueillies à des fins diverses:
+Skribble SA utilise les données recueillies à des fins diverses:
 
 -	Pour fournir et assurer notre Service
 -	Pour vous faire part des changements apportés à notre Service
@@ -88,9 +88,9 @@ BlockSigner AG utilise les données recueillies à des fins diverses:
 -	Pour vous faire part de l'actualité, d'offres spéciales et d'informations d'ordre général concernant d'autres marchandises, services et événements que nous proposons et qui sont similaires à ceux que vous avez déjà achetés ou au sujet desquels vous vous êtes déjà renseigné, sauf si vous avez déjà indiqué que vous ne voulez pas recevoir d'informations de cette nature.
 
 ## Fondement juridique du traitement des données à caractère personnel en vertu du Règlement Général relatif à la Protection des Données (RGPD)
-Si vous résidez dans l'Espace économique européen (EEE), le fondement juridique de BlockSigner AG en ce qui concerne la collecte et l'utilisation des données personnelles décrites dans la présente Politique de Confidentialité dépend des Données à Caractère Personnel que nous recueillons et du contexte précis dans lequel nous les recueillons.
+Si vous résidez dans l'Espace économique européen (EEE), le fondement juridique de Skribble SA en ce qui concerne la collecte et l'utilisation des données personnelles décrites dans la présente Politique de Confidentialité dépend des Données à Caractère Personnel que nous recueillons et du contexte précis dans lequel nous les recueillons.
 
-BlockSigner AG peut traiter vos Données à Caractère Personnel:
+Skribble SA peut traiter vos Données à Caractère Personnel:
 -	Parce que nous avons besoin d'exécuter un contrat passé avec vous
 -	Parce que vous nous avez autorisés à le faire
 -	Parce que nous avons un intérêt légitime à effectuer ce traitement et que vos droits ne priment pas sur cet intérêt légitime
@@ -98,9 +98,9 @@ BlockSigner AG peut traiter vos Données à Caractère Personnel:
 -	Pour respecter la loi
 
 ## Conservation des données
-BlockSigner AG ne conservera vos Données à Caractère Personnel que tant que cela sera nécessaire aux fins stipulées dans la présente Politique de Confidentialité. Nous conserverons et utiliserons vos Données à Caractère Personnel dans la mesure où cela sera nécessaire pour que nous puissions nous acquitter de nos obligations légales (par exemple, pour respecter la législation en vigueur), résoudre des différends et appliquer nos accords et nos politiques.
+Skribble SA ne conservera vos Données à Caractère Personnel que tant que cela sera nécessaire aux fins stipulées dans la présente Politique de Confidentialité. Nous conserverons et utiliserons vos Données à Caractère Personnel dans la mesure où cela sera nécessaire pour que nous puissions nous acquitter de nos obligations légales (par exemple, pour respecter la législation en vigueur), résoudre des différends et appliquer nos accords et nos politiques.
 
-BlockSigner AG conservera également les Données d'Utilisation à des fins d'analyses internes. Les Données d'Utilisation sont généralement conservées pour une période plus courte, sauf lorsque ces données sont utilisées pour renforcer la sécurité ou pour améliorer les fonctionnalités de notre Service, ou si nous sommes légalement tenus de conserver ces données plus longtemps.
+Skribble SA conservera également les Données d'Utilisation à des fins d'analyses internes. Les Données d'Utilisation sont généralement conservées pour une période plus courte, sauf lorsque ces données sont utilisées pour renforcer la sécurité ou pour améliorer les fonctionnalités de notre Service, ou si nous sommes légalement tenus de conserver ces données plus longtemps.
 
 ### Transfert des données
 Les informations vous concernant, notamment vos Données à Caractère Personnel, peuvent être transférées de votre région, province, pays, ou autre division territoriale vers des ordinateurs – et stockées sur ces derniers – situés à un endroit où la législation relative à la protection des données diffère de celle du territoire où vous résidez.
@@ -108,20 +108,20 @@ Les informations vous concernant, notamment vos Données à Caractère Personnel
 Si vous résidez hors de/du Switzerland et que vous choisissez de nous communiquer des informations, sachez que nous transférons les données, y compris les Données à Caractère Personnel, vers le/la Switzerland et que nous les y traitons.
 En acceptant la présente Politique de Confidentialité puis en soumettant ces informations, vous consentez à ce transfert.
 
-BlockSigner AG prendra toutes les mesures raisonnablement nécessaires pour faire en sorte que vos données soient traitées de manière sécurisée et conformément à la présente Politique de Confidentialité et vos Données à Caractère Personnel ne seront transférées vers aucune organisation ni aucun pays à moins que des contrôles adéquats ne soient en place, notamment en ce qui concerne la sécurité de vos données et d'autres données personnelles.
+Skribble SA prendra toutes les mesures raisonnablement nécessaires pour faire en sorte que vos données soient traitées de manière sécurisée et conformément à la présente Politique de Confidentialité et vos Données à Caractère Personnel ne seront transférées vers aucune organisation ni aucun pays à moins que des contrôles adéquats ne soient en place, notamment en ce qui concerne la sécurité de vos données et d'autres données personnelles.
 
 ## Communication de données
 
 ### Opération commerciale
-Si BlockSigner AG est impliquée dans une fusion, une acquisition ou une vente d'actifs, il se peut que vos Données à Caractère Personnel soient transférées. Avant que vos Données à Caractère Personnel ne soient transférées et ne soient soumises à une Politique de Confidentialité différente, nous vous en aviserons.
+Si Skribble SA est impliquée dans une fusion, une acquisition ou une vente d'actifs, il se peut que vos Données à Caractère Personnel soient transférées. Avant que vos Données à Caractère Personnel ne soient transférées et ne soient soumises à une Politique de Confidentialité différente, nous vous en aviserons.
 
 ### Communication de données aux forces de l'ordre
-Dans certaines circonstances, BlockSigner AG peut être tenue de communiquer vos Données à Caractère Personnel si la loi l'exige ou en réponse à des demandes valides émanant de pouvoirs publics (par ex. un tribunal ou un organisme gouvernemental).
+Dans certaines circonstances, Skribble SA peut être tenue de communiquer vos Données à Caractère Personnel si la loi l'exige ou en réponse à des demandes valides émanant de pouvoirs publics (par ex. un tribunal ou un organisme gouvernemental).
 
 ### Exigences légales
-BlockSigner AG peut communiquer vos Données à Caractère Personnel si elle estime de bonne foi que cela est nécessaire pour:
+Skribble SA peut communiquer vos Données à Caractère Personnel si elle estime de bonne foi que cela est nécessaire pour:
 -	S'acquitter d'une obligation légale
--	Protéger et défendre les droits ou les biens de BlockSigner AG
+-	Protéger et défendre les droits ou les biens de Skribble SA
 -	Prévenir d'éventuels actes répréhensibles ou enquêter sur de tels actes dans le cadre du Service
 -	Assurer la sécurité personnelle des utilisateurs du Service ou du public
 -	Se protéger contre la responsabilité civile
@@ -130,7 +130,7 @@ BlockSigner AG peut communiquer vos Données à Caractère Personnel si elle est
 La sécurité de vos données nous tient à cœur. Toutefois, n'oubliez pas qu'aucune méthode de transmission de données par Internet ou méthode de stockage électronique n'est sûre à 100 %. Bien que nous nous efforcions d'utiliser des méthodes commercialement acceptables pour protéger vos Données à Caractère Personnel, nous ne pouvons pas leur garantir une sécurité absolue.
 
 ## Droits à la protection des données qui vous sont accordés par le Règlement Général relatif à la Protection des Données (RGPD)
-Si vous résidez dans l'Espace économique européen (EEE), vous avez certains droits en matière de protection des données. BlockSigner AG entend prendre des mesures raisonnables pour vous permettre de corriger, de modifier, ou de supprimer vos Données à Caractère Personnel ou d'en limiter l'utilisation.
+Si vous résidez dans l'Espace économique européen (EEE), vous avez certains droits en matière de protection des données. Skribble SA entend prendre des mesures raisonnables pour vous permettre de corriger, de modifier, ou de supprimer vos Données à Caractère Personnel ou d'en limiter l'utilisation.
 Si vous souhaitez savoir quelles Données à Caractère Personnel nous détenons à votre sujet et voulez qu'elles soient supprimées de nos systèmes, veuillez nous contacter.
 
 Dans certaines circonstances, vous avez les droits suivants en matière de protection des données:
@@ -140,7 +140,7 @@ Dans certaines circonstances, vous avez les droits suivants en matière de prote
 -	**Droit d'opposition.** Vous avez le droit de vous opposer à ce que nous traitions vos Données à Caractère Personnel.
 -	**Droit de limitation.** Vous avez le droit de nous demander de limiter le traitement de vos données personnelles.
 -	**Le droit à la portabilité des données.** Vous avez le droit de recevoir une copie des informations que nous détenons à votre sujet dans un format couramment utilisé, structuré et lisible par une machine.
--	**Droit au retrait du consentement.** Vous avez également le droit de retirer votre consentement à tout moment si BlockSigner AG s'est appuyé sur votre consentement pour traiter vos données personnelles.
+-	**Droit au retrait du consentement.** Vous avez également le droit de retirer votre consentement à tout moment si Skribble SA s'est appuyé sur votre consentement pour traiter vos données personnelles.
 
 Veuillez noter que nous pouvons vous demander de prouver votre identité avant de répondre à des demandes de cette nature.
 
@@ -161,7 +161,7 @@ Vous pouvez empêcher que vos activités dans le cadre du Service ne soient mise
 Pour plus de précisions sur les pratiques de confidentialité de Google, merci de consulter la page web Protection de la vie privée et conditions de Google: <a href="https://policies.google.com/privacy?hl=en" target="_blank">policies.google.com/privacy?hl=en</a>
 
 ## Remarketing comportemental
-BlockSigner AG fait appel à des services de remarketing pour vous présenter des annonces sur des sites de tiers après que vous ayez consulté notre Service. Nous et nos fournisseurs tiers utilisons des cookies pour façonner, optimiser et diffuser des annonces en fonction de votre fréquentation antérieure de notre Service.
+Skribble AG fait appel à des services de remarketing pour vous présenter des annonces sur des sites de tiers après que vous ayez consulté notre Service. Nous et nos fournisseurs tiers utilisons des cookies pour façonner, optimiser et diffuser des annonces en fonction de votre fréquentation antérieure de notre Service.
 
 ### Google Ads (AdWords)
 Le service de remarketing Google Ads (AdWords) est fourni par Google Inc.

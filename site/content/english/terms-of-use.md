@@ -7,7 +7,7 @@ description: terms-of-use meta description
 
 {{% content %}}
 {{% richtext %}}
-# Skribble Terms of Use<br>by BlockSigner AG
+# Skribble Terms of Use<br>by Skribble AG
 (Version 2018.10.18)
 
 As a Skribble user, you must comply with the following principles of lawful use:
@@ -34,8 +34,8 @@ As a Skribble user, you must comply with the following principles of lawful use:
       </ul>
     </li>
     <li>Users may not impersonate any person or falsely impersonate any organization. Neither may they falsely state or otherwise misrepresent their affiliation with or relationship to any organization.</li>
-    <li>Users independently secure data in their account. BlockSigner does not owe any data availability.</li>
-    <li>Users acknowledge the right of BlockSigner to disclose data from their user account to the customer (usually the employer of the user) if it appears that the user in question has misused Skribble to disseminate criminal or infringing information.</li>
+    <li>Users independently secure data in their account. Skribble does not owe any data availability.</li>
+    <li>Users acknowledge the right of Skribble to disclose data from their user account to the customer (usually the employer of the user) if it appears that the user in question has misused Skribble to disseminate criminal or infringing information.</li>
 </ol>
 {{% /richtext %}}
 {{% /content %}}

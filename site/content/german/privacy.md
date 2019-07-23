@@ -11,7 +11,7 @@ description: Privacy policy meta description
 
 <small>Datum des Inkrafttretens: 11. Oktober 2018</small>
 
-BlockSigner AG ("wir", "uns", "unser" usw.) betreibt die Website <a href="https://www.skribble.com" target="_blank">www.skribble.com</a> (nachstehend als "Dienst" bezeichnet).
+Skribble AG ("wir", "uns", "unser" usw.) betreibt die Website <a href="https://www.skribble.com" target="_blank">www.skribble.com</a> (nachstehend als "Dienst" bezeichnet).
 
 Diese Seite enthält Informationen zu der Art und Weise, auf welche wir personenbezogene Daten erfassen, nutzen und offenlegen, wenn Sie unseren Dienst nutzen, sowie zu den Optionen, die Ihnen im Zusammenhang mit diesen Daten zur Verfügung stehen.
 
@@ -20,7 +20,7 @@ Wir nutzen Ihre Daten zur Bereitstellung und Verbesserung unseres Dienstes. Durc
 ## Begriffsbestimmungen
 
 ### Dienst
-Der Dienst ist die von dem BlockSigner AG betriebene Website <a href="https://www.skribble.com" target="_blank">www.skribble.com</a>
+Der Dienst ist die von dem Skribble AG betriebene Website <a href="https://www.skribble.com" target="_blank">www.skribble.com</a>
 
 ### Personenbezogene Daten
 Personenbezogene Daten sind Nutzungsdaten, die sich auf eine lebende Person beziehen, welche anhand dieser Daten (bzw. anhand dieser Daten in Kombination mit weiteren Informationen, die sich bereits in unserem Besitz befinden oder mit Wahrscheinlichkeit in unseren Besitz gelangen werden) und identifizierbar ist.
@@ -77,7 +77,7 @@ Beispiele für von uns eingesetzte Cookies:
 -	**Sicherheits-Cookies.** Wir setzen Sicherheits-Cookies für Sicherheitszwecke ein.
 
 ## Datennutzung
-Wir bei BlockSigner AG nutzen die erfassten Daten für verschiedene Zwecke, beispielsweise um:
+Wir bei Skribble AG nutzen die erfassten Daten für verschiedene Zwecke, beispielsweise um:
 
 -	Ihnen unseren Dienst zur Verfügung zu stellen und diesen aufrecht zu erhalten;
 -	Ihnen Änderungen in Bezug auf unseren Dienst mitzuteilen;
@@ -89,9 +89,9 @@ Wir bei BlockSigner AG nutzen die erfassten Daten für verschiedene Zwecke, beis
 -	Ihnen Neuigkeiten, Sonderangebote und allgemeine Informationen zu sonstigen von uns angebotenen Produkten, Dienstleistungen und Veranstaltungen mitzuteilen, soweit sie denjenigen ähneln, die Sie bereits von uns erworben oder bei uns angefragt haben und Sie solche Mitteilungen nicht deaktiviert haben.
 
 ## Rechtliche Grundlage für die Verarbeitung personenbezogener Daten nach Maßgabe der Datenschutz-Grundverordnung (DSGVO)
-Falls sich Ihr Wohnsitz innerhalb des Europäischen Wirtschaftsraums (EWR) befindet, hängt die rechtliche Grundlage von BlockSigner AG für die Erfassung und Nutzung der in dieser Datenschutz-Richtlinie beschriebenen personenbezogenen Daten von den von uns erfassten personenbezogenen Daten sowie von dem erfassungsspezifischen Kontext ab.
+Falls sich Ihr Wohnsitz innerhalb des Europäischen Wirtschaftsraums (EWR) befindet, hängt die rechtliche Grundlage von Skribble AG für die Erfassung und Nutzung der in dieser Datenschutz-Richtlinie beschriebenen personenbezogenen Daten von den von uns erfassten personenbezogenen Daten sowie von dem erfassungsspezifischen Kontext ab.
 
-Wir bei BlockSigner AG können Ihre personenbezogenen Daten aus folgenden Gründen verarbeiten:
+Wir bei Skribble AG können Ihre personenbezogenen Daten aus folgenden Gründen verarbeiten:
 -	Wir müssen einen mit Ihnen eingegangen Vertrag erfüllen.
 -	Sie haben uns hierzu Ihre Zustimmung erteilt.
 -	Die Verarbeitung dient unseren legitimen Interessen, und diese sind Ihren Rechten gegenüber nicht nachrangig.
@@ -99,9 +99,9 @@ Wir bei BlockSigner AG können Ihre personenbezogenen Daten aus folgenden Gründ
 -	Die Verarbeitung dient der Einhaltung der gesetzlichen Bestimmungen.
 
 ## Aufbewahrung von Daten
-BlockSigner AG wird Ihre personenbezogenen Daten nur so lange aufbewahren, wie dies für die Zwecke dieser Datenschutz-Richtlinie erforderlich ist. Wir werden Ihre personenbezogenen Daten in dem Umfang aufbewahren und nutzen, wie es für die Erfüllung unserer gesetzlichen Pflichten (falls wir Ihre Daten beispielsweise zur Einhaltung anwendbarer Gesetze aufbewahren müssen), zur Beilegung von Streitigkeiten sowie zur Durchsetzung unserer rechtlichen Vereinbarungen und Richtlinien erforderlich ist.
+Skribble AG wird Ihre personenbezogenen Daten nur so lange aufbewahren, wie dies für die Zwecke dieser Datenschutz-Richtlinie erforderlich ist. Wir werden Ihre personenbezogenen Daten in dem Umfang aufbewahren und nutzen, wie es für die Erfüllung unserer gesetzlichen Pflichten (falls wir Ihre Daten beispielsweise zur Einhaltung anwendbarer Gesetze aufbewahren müssen), zur Beilegung von Streitigkeiten sowie zur Durchsetzung unserer rechtlichen Vereinbarungen und Richtlinien erforderlich ist.
 
-BlockSigner AG wird außerdem Nutzungsdaten für interne Analysezwecke aufbewahren. Nutzungsdaten werden üblicherweise für kürzere Zeiträume aufbewahrt, soweit diese nicht für eine Verstärkung unserer Sicherheitsvorkehrungen oder eine Verbesserung der Funktionalität unseres Dienstes eingesetzt werden oder wir nicht gesetzlich zu einer längeren Aufbewahrung verpflichtet sind.
+Skribble AG wird außerdem Nutzungsdaten für interne Analysezwecke aufbewahren. Nutzungsdaten werden üblicherweise für kürzere Zeiträume aufbewahrt, soweit diese nicht für eine Verstärkung unserer Sicherheitsvorkehrungen oder eine Verbesserung der Funktionalität unseres Dienstes eingesetzt werden oder wir nicht gesetzlich zu einer längeren Aufbewahrung verpflichtet sind.
 
 ### Übertragung von Daten
 Ihre Daten, einschließlich personenbezogener Daten, können auf Computer übertragen – und auf solchen aufbewahrt – werden, die sich außerhalb Ihres Heimatstaates, Ihrer Heimatprovinz, Ihres Heimatlandes oder einer sonstigen Rechtsordnung befinden und somit Datenschutzgesetzen unterliegen, die sich von den Datenschutzgesetzen in Ihrer Rechtsordnung unterscheiden.
@@ -110,21 +110,21 @@ Falls Sie sich außerhalb von Switzerland befinden und sich dazu entscheiden, Da
 
 Ihre Zustimmung zu dieser Datenschutz-Richtlinie und eine nachfolgende Übermittlung von Daten Ihrerseits stellt eine Einverständniserklärung Ihrerseits zu der genannten Übertragung dar.
 
-BlockSigner AG wird alle im zumutbaren Rahmen erforderlichen Schritte unternehmen um sicherzustellen, dass Ihre Daten auf sichere Weise sowie in Übereinstimmung mit dieser Datenschutz-Richtlinie behandelt werden, und dass Ihre personenbezogenen Daten nicht an Organisationen oder in Länder übertragen werden, hinsichtlich welcher keine hinreichenden Kontrollmechanismen in Bezug auf die Sicherheit Ihrer Daten und sonstigen personenbezogenen Informationen vorliegen.
+Skribble AG wird alle im zumutbaren Rahmen erforderlichen Schritte unternehmen um sicherzustellen, dass Ihre Daten auf sichere Weise sowie in Übereinstimmung mit dieser Datenschutz-Richtlinie behandelt werden, und dass Ihre personenbezogenen Daten nicht an Organisationen oder in Länder übertragen werden, hinsichtlich welcher keine hinreichenden Kontrollmechanismen in Bezug auf die Sicherheit Ihrer Daten und sonstigen personenbezogenen Informationen vorliegen.
 
 ## Offenlegung von Daten
 
 ### Geschäftstransaktion
-Falls BlockSigner AG an einem Zusammenschluss, einem Unternehmenserwerb oder einem Verkauf von Vermögenswerten beteiligt ist, kann dies zu einer Übertragung Ihrer personenbezogenen Daten führen. Wir werden Sie vor einer solchen Übertragung Ihrer personenbezogenen Daten, die dann einer anderen Datenschutz-Richtlinie unterliegen, entsprechend informieren.
+Falls Skribble AG an einem Zusammenschluss, einem Unternehmenserwerb oder einem Verkauf von Vermögenswerten beteiligt ist, kann dies zu einer Übertragung Ihrer personenbezogenen Daten führen. Wir werden Sie vor einer solchen Übertragung Ihrer personenbezogenen Daten, die dann einer anderen Datenschutz-Richtlinie unterliegen, entsprechend informieren.
 
 ### Offenlegung für Justizvollzugszwecke
-Unter bestimmten Umständen ist BlockSigner AG gegebenenfalls verpflichtet, Ihre personenbezogenen Daten im Rahmen einer gesetzlichen Pflicht oder aufgrund einer gerichtlichen oder behördlichen Aufforderung offenzulegen.
+Unter bestimmten Umständen ist Skribble AG gegebenenfalls verpflichtet, Ihre personenbezogenen Daten im Rahmen einer gesetzlichen Pflicht oder aufgrund einer gerichtlichen oder behördlichen Aufforderung offenzulegen.
 
 ### Gesetzliche Anforderungen
-BlockSigner AG kann Ihre personenbezogenen Daten unter Umständen offenlegen, wenn es unter Beachtung der Grundsätze von Treu und Glauben der Ansicht ist, dass dies zur Erreichung der nachfolgenden Zielsetzungen erforderlich ist:
+Skribble AG kann Ihre personenbezogenen Daten unter Umständen offenlegen, wenn es unter Beachtung der Grundsätze von Treu und Glauben der Ansicht ist, dass dies zur Erreichung der nachfolgenden Zielsetzungen erforderlich ist:
 
 -	zur Erfüllung einer gesetzlichen Pflicht
--	zum Schutz und zur Verteidigung der Rechte oder des Eigentums von BlockSigner AG
+-	zum Schutz und zur Verteidigung der Rechte oder des Eigentums von Skribble AG
 -	zur Vermeidung oder Untersuchung möglicher Fehlverhaltensweisen in Bezug auf den Dienst
 -	zum Schutz der persönlichen Sicherheit der Nutzer des Dienstes oder der Öffentlichkeit
 -	zur Vermeidung von Haftungsansprüchen
@@ -133,7 +133,7 @@ BlockSigner AG kann Ihre personenbezogenen Daten unter Umständen offenlegen, we
 Die Sicherheit Ihrer Daten ist uns wichtig. Bitte vergessen Sie jedoch nicht, dass es keine Übertragungsmethoden über das Internet und keine elektronischen Speichermedien gibt, die 100 % sicher sind. Obwohl wir stets bemüht sind, kommerziell annehmbare Maßnahmen zum Schutz Ihrer personenbezogenen Daten umzusetzen, können wir eine absolute Sicherheit nicht garantieren.
 
 ## Ihre Datenschutzrechte im Rahmen der Datenschutz-Grundverordnung (DSGVO)
-Soweit sich Ihr Wohnsitz innerhalb des Europäischen Wirtschaftsraums (EWR) befindet, haben Sie bestimmte Datenschutzrechte. BlockSigner AG ist bestrebt, zumutbare Maßnahmen umzusetzen, die es Ihnen erlauben, Ihre personenbezogenen Daten zu korrigieren, zu ändern, zu löschen oder deren Nutzung zu beschränken.
+Soweit sich Ihr Wohnsitz innerhalb des Europäischen Wirtschaftsraums (EWR) befindet, haben Sie bestimmte Datenschutzrechte. Skribble AG ist bestrebt, zumutbare Maßnahmen umzusetzen, die es Ihnen erlauben, Ihre personenbezogenen Daten zu korrigieren, zu ändern, zu löschen oder deren Nutzung zu beschränken.
 
 Falls Sie in Erfahrung bringen möchten, welche personenbezogenen Daten wir zu Ihnen gespeichert haben, und falls Sie eine Löschung Ihrer Daten aus unserem System wünschen, nehmen Sie bitte Kontakt zu uns auf.
 
@@ -144,7 +144,7 @@ Unter bestimmten Umständen haben Sie die folgenden Datenschutzrechte:
 -	**Das Recht auf Widerspruch.** Sie haben das Recht, einer Verarbeitung Ihrer personenbezogenen Daten durch uns zu widersprechen.
 -	**Das Recht auf Beschränkung.** Sie haben das Recht, die Verarbeitung Ihrer personenbezogenen Daten durch uns zu beschränken.
 -	**Das Recht auf Datenportabilität.** Sie haben das Recht, von uns die Aushändigung einer Abschrift der Daten, die wir zu Ihnen gespeichert haben, in einem strukturierten, maschinenlesbaren und üblichen Format zu verlangen.
--	**Das Recht auf Zustimmungsrücknahme.** Sie haben außerdem das Recht, Ihre Zustimmung in Fällen, in denen BlockSigner AG rsich auf Ihre Zustimmung zur Verarbeitung Ihrer personenbezogenen Daten verlassen hat, jederzeit zurückzunehmen.
+-	**Das Recht auf Zustimmungsrücknahme.** Sie haben außerdem das Recht, Ihre Zustimmung in Fällen, in denen Skribble AG rsich auf Ihre Zustimmung zur Verarbeitung Ihrer personenbezogenen Daten verlassen hat, jederzeit zurückzunehmen.
 
 Bitte nehmen Sie zur Kenntnis, dass wir vor einer Bearbeitung solcher Anfragen gegebenenfalls Ihre Identität überprüfen.
 
@@ -164,7 +164,7 @@ Sie können die Übertragung Ihrer Aktivität innerhalb unseres Dienstes an Goog
 Weitere Informationen zu den Datenschutzmaßnahmen von Google können Sie auf Googles Webseite zu seinen Datenschutzbestimmungen (Privacy Terms) einsehen: <a href="https://policies.google.com/privacy?hl=en" target="_blank">policies.google.com/privacy?hl=en</a>
 
 ## Verhaltensbasierte Wiedervermarktung
-BlockSigner AG setzt Wiedervermarktungsdienste ein, um Ihnen auf Websites Dritter Werbung anzuzeigen, nachdem Sie unseren Dienst besucht haben. Wir und unsere Drittanbieter setzen Cookies ein, um Werbung auf Grundlage Ihrer früheren Besuche innerhalb unseres Dienstes zu erstellen, zu optimieren und anzuzeigen.
+Skribble AG setzt Wiedervermarktungsdienste ein, um Ihnen auf Websites Dritter Werbung anzuzeigen, nachdem Sie unseren Dienst besucht haben. Wir und unsere Drittanbieter setzen Cookies ein, um Werbung auf Grundlage Ihrer früheren Besuche innerhalb unseres Dienstes zu erstellen, zu optimieren und anzuzeigen.
 
 ### Google Ads (AdWords)
 Google Ads (AdWords) ist ein von Google Inc. angebotener Wiedervermarktungsdienst.

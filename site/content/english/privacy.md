@@ -11,7 +11,7 @@ description: Privacy policy meta description
 
 <small>Effective date: October 11, 2018</small>
 
-<p class="lead">BlockSigner AG ("us", "we", or "our") operates the <a href="https://www.skribble.com" target="_blank">www.skribble.com</a> website (hereinafter referred to as the "Service").</p>
+<p class="lead">Skribble AG ("us", "we", or "our") operates the <a href="https://www.skribble.com" target="_blank">www.skribble.com</a> website (hereinafter referred to as the "Service").</p>
 
 This page informs you of our policies regarding the collection, use and disclosure of personal data when you use our Service and the choices you have associated with that data.
 
@@ -20,7 +20,7 @@ We use your data to provide and improve the Service. By using the Service, you a
 ## Definitions
 
 ### Service
-Service is the <a href="https://www.skribble.com" target="_blank">www.skribble.com</a> website operated by BlockSigner AG
+Service is the <a href="https://www.skribble.com" target="_blank">www.skribble.com</a> website operated by Skribble AG
 
 ### Personal Data
 Personal Data means data about a living individual who can be identified from those data (or from those and other information either in our possession or likely to come into our possession).
@@ -79,7 +79,7 @@ Examples of Cookies we use:
 -	**Security Cookies.** We use Security Cookies for security purposes.
 
 ## Use of Data
-BlockSigner AG uses the collected data for various purposes:
+Skribble AG uses the collected data for various purposes:
 
 -	To provide and maintain our Service
 -	To notify you about changes to our Service
@@ -91,9 +91,9 @@ BlockSigner AG uses the collected data for various purposes:
 -	To provide you with news, special offers and general information about other goods, services and events which we offer that are similar to those that you have already purchased or enquired about unless you have opted not to receive such information
 
 ## Legal Basis for Processing Personal Data under the General Data Protection Regulation (GDPR)
-If you are from the European Economic Area (EEA), BlockSigner AG legal basis for collecting and using the personal information described in this Privacy Policy depends on the Personal Data we collect and the specific context in which we collect it.
+If you are from the European Economic Area (EEA), Skribble AG legal basis for collecting and using the personal information described in this Privacy Policy depends on the Personal Data we collect and the specific context in which we collect it.
 
-BlockSigner AG may process your Personal Data because:
+Skribble AG may process your Personal Data because:
 
 -	We need to perform a contract with you
 -	You have given us permission to do so
@@ -102,9 +102,9 @@ BlockSigner AG may process your Personal Data because:
 -	To comply with the law
 
 ## Retention of Data
-BlockSigner AG will retain your Personal Data only for as long as is necessary for the purposes set out in this Privacy Policy. We will retain and use your Personal Data to the extent necessary to comply with our legal obligations (for example, if we are required to retain your data to comply with applicable laws), resolve disputes and enforce our legal agreements and policies.
+Skribble AG will retain your Personal Data only for as long as is necessary for the purposes set out in this Privacy Policy. We will retain and use your Personal Data to the extent necessary to comply with our legal obligations (for example, if we are required to retain your data to comply with applicable laws), resolve disputes and enforce our legal agreements and policies.
 
-BlockSigner AG will also retain Usage Data for internal analysis purposes. Usage Data is generally retained for a shorter period of time, except when this data is used to strengthen the security or to improve the functionality of our Service, or we are legally obligated to retain this data for longer periods.
+Skribble AG will also retain Usage Data for internal analysis purposes. Usage Data is generally retained for a shorter period of time, except when this data is used to strengthen the security or to improve the functionality of our Service, or we are legally obligated to retain this data for longer periods.
 
 ## Transfer of Data
 Your information, including Personal Data, may be transferred to — and maintained on — computers located outside of your state, province, country or other governmental jurisdiction where the data protection laws may differ from those of your jurisdiction.
@@ -113,21 +113,21 @@ If you are located outside Switzerland and choose to provide information to us, 
 
 Your consent to this Privacy Policy followed by your submission of such information represents your agreement to that transfer.
 
-BlockSigner AG will take all the steps reasonably necessary to ensure that your data is treated securely and in accordance with this Privacy Policy and no transfer of your Personal Data will take place to an organisation or a country unless there are adequate controls in place including the security of your data and other personal information.
+Skribble AG will take all the steps reasonably necessary to ensure that your data is treated securely and in accordance with this Privacy Policy and no transfer of your Personal Data will take place to an organisation or a country unless there are adequate controls in place including the security of your data and other personal information.
 
 ## Disclosure of Data
 
 ### Business Transaction
-If BlockSigner AG is involved in a merger, acquisition or asset sale, your Personal Data may be transferred. We will provide notice before your Personal Data is transferred and becomes subject to a different Privacy Policy.
+If Skribble AG is involved in a merger, acquisition or asset sale, your Personal Data may be transferred. We will provide notice before your Personal Data is transferred and becomes subject to a different Privacy Policy.
 
 ### Disclosure for Law Enforcement
-Under certain circumstances, BlockSigner AG may be required to disclose your Personal Data if required to do so by law or in response to valid requests by public authorities (e.g. a court or a government agency).
+Under certain circumstances, Skribble AG may be required to disclose your Personal Data if required to do so by law or in response to valid requests by public authorities (e.g. a court or a government agency).
 
 ### Legal Requirements
-BlockSigner AG may disclose your Personal Data in the good faith belief that such action is necessary to:
+Skribble AG may disclose your Personal Data in the good faith belief that such action is necessary to:
 
 -	To comply with a legal obligation
--	To protect and defend the rights or property of BlockSigner AG
+-	To protect and defend the rights or property of Skribble AG
 -	To prevent or investigate possible wrongdoing in connection with the Service
 -	To protect the personal safety of users of the Service or the public
 -	To protect against legal liability
@@ -136,7 +136,7 @@ BlockSigner AG may disclose your Personal Data in the good faith belief that suc
 The security of your data is important to us but remember that no method of transmission over the Internet or method of electronic storage is 100% secure. While we strive to use commercially acceptable means to protect your Personal Data, we cannot guarantee its absolute security.
 
 ## Your Data Protection Rights under the General Data Protection Regulation (GDPR)
-If you are a resident of the European Economic Area (EEA), you have certain data protection rights. BlockSigner AG aims to take reasonable steps to allow you to correct, amend, delete or limit the use of your Personal Data.
+If you are a resident of the European Economic Area (EEA), you have certain data protection rights. Skribble AG aims to take reasonable steps to allow you to correct, amend, delete or limit the use of your Personal Data.
 
 If you wish to be informed about what Personal Data we hold about you and if you want it to be removed from our systems, please contact us.
 
@@ -147,7 +147,7 @@ In certain circumstances, you have the following data protection rights:
 **The right to object.** You have the right to object to our processing of your Personal Data.
 **The right of restriction.** You have the right to request that we restrict the processing of your personal information.
 **The right to data portability.** You have the right to be provided with a copy of the information we have on you in a structured, machine-readable and commonly used format.
-**The right to withdraw consent.** You also have the right to withdraw your consent at any time where BlockSigner AG relied on your consent to process your personal information.
+**The right to withdraw consent.** You also have the right to withdraw your consent at any time where Skribble AG relied on your consent to process your personal information.
 
 Please note that we may ask you to verify your identity before responding to such requests.
 
@@ -167,7 +167,7 @@ You can opt-out of having made your activity on the Service available to Google 
 For more information on the privacy practices of Google, please visit the Google Privacy Terms web page: <a href="https://policies.google.com/privacy?hl=en" target="_blank">policies.google.com/privacy?hl=en</a>
 
 ## Behavioral Remarketing
-BlockSigner AG uses remarketing services to advertise on third party websites to you after you visited our Service. We and our third-party vendors use cookies to inform, optimise and serve ads based on your past visits to our Service.
+Skribble AG uses remarketing services to advertise on third party websites to you after you visited our Service. We and our third-party vendors use cookies to inform, optimise and serve ads based on your past visits to our Service.
 
 ### Google Ads (AdWords)
 Google Ads (AdWords) remarketing service is provided by Google Inc.
