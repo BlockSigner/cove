@@ -12,7 +12,7 @@ draft: false
 
 {{< intro >}}
 <div class="hide-for-mobile">
-  {{< picture image1 678 >}}
+  {{< picture image1 678 "drei personen signieren ein elektronisches dokument" >}}
 </div>
 
 {{% richtext %}}
