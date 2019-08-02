@@ -8,9 +8,3 @@
 
 [context.deploy-preview]
   command = "yarn run build:preview"
-
-[[headers]]
-  for = "/my.skribble/status.txt"
-  [headers.values]
-    X-Frame-Options = "DENY"
-    Access-Control-Allow-Origin = "https://my.scribital.com"
