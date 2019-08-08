@@ -11,7 +11,7 @@ map:
   subtitle: Right on Bahnhofstrasse, in the heart of Zurich
   columns:
     - title: Company
-      text: BlockSigner AG
+      text: Skribble AG
     - title: Address
       text: |
         Trust Square
