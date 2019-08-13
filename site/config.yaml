@@ -69,8 +69,9 @@ languages:
           href: https://help.skribble.com/meetings/patrick182/call-mit-skribble
       navigation:
         titleColumn1: Plattform
-        titleColumn2: Über uns
+        titleColumn2: Lösungen
         titleColumn3: Ressourcen
+        titleColumn4: Über uns
       newsletterTitle: Newsletter
       newsletterText: Elektronische Signaturen und digitales Vertrauen sind brandaktuelle Themen. Bleibe auf dem Laufenden! <br class="hide-for-mobile">Siehe unsere <a href="/de/datenschutz">Datenschutzerklärungen</a>.
   en:
@@ -95,6 +96,9 @@ languages:
         - name: Identification
           url: /identification/
           weight: 10
+        - name: QES-Explained
+          url: /explainer-qes/
+          weight: 15
       footer2:
         - name: Mission
           url: /about/
@@ -141,8 +145,9 @@ languages:
           href: https://help.skribble.com/meetings/patrick182/telephone-consultation-skribble
       navigation:
         titleColumn1: Platform
-        titleColumn2: About us
-        titleColumn3: Resources
+        titleColumn2: Solutions
+        titleColumn3: Resource
+        titleColumn4: About us
       newsletterTitle: Newsletter
       newsletterText: Electronic signatures and digital trust are hot topics. <br class="hide-for-mobile">Stay up to date! See our <a href="/privacy">privacy policy</a>.
   fr:
@@ -213,7 +218,8 @@ languages:
           href: https://help.skribble.com/meetings/patrick182/consultation-telephone-skribble
       navigation:
         titleColumn1: Plateforme
-        titleColumn2: À propos de nous
+        titleColumn2: Solutions
         titleColumn3: Ressources
+        titleColumn3: À propos de nous
       newsletterTitle: Newsletter
       newsletterText: Les signatures électroniques et la confiance numérique sont des sujets d'actualité. Restez au courant ! <br class="hide-for-mobile">Consultez notre <a href="/fr/politique-de-confidentialite/" target="_blank">politique de confidentialité</a>.
