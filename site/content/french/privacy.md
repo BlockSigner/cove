@@ -158,33 +158,33 @@ Google Analytics est un service d'analyse web proposé par Google qui assure le 
 
 Vous pouvez empêcher que vos activités dans le cadre du Service ne soient mises à la disposition de Google Analytics en installant le plug-in pour navigateur Analytics Opt out browser add-on de Google Analytics. Ce plug-in empêche le code JavaScript de Google Analytics JavaScript (ga.js, analytics.js et dc.js) de partager les informations concernant les activités liées aux visites avec Google Analytics.
 
-Pour plus de précisions sur les pratiques de confidentialité de Google, merci de consulter la page web Protection de la vie privée et conditions de Google: <a href="https://policies.google.com/privacy?hl=en" target="_blank">policies.google.com/privacy?hl=en</a>
+Pour plus de précisions sur les pratiques de confidentialité de Google, merci de consulter la page web Protection de la vie privée et conditions de Google: <a href="https://policies.google.com/privacy?hl=en" rel="noopener" target="_blank">policies.google.com/privacy?hl=en</a>
 
 ## Remarketing comportemental
 Skribble AG fait appel à des services de remarketing pour vous présenter des annonces sur des sites de tiers après que vous ayez consulté notre Service. Nous et nos fournisseurs tiers utilisons des cookies pour façonner, optimiser et diffuser des annonces en fonction de votre fréquentation antérieure de notre Service.
 
 ### Google Ads (AdWords)
 Le service de remarketing Google Ads (AdWords) est fourni par Google Inc.
-Vous pouvez refuser Google Analytics for Display Advertising et personnaliser les annonces Google Display Network en vous rendant sur la page Google Ads Settings (paramètres de Google Ads): <a href="http://www.google.com/settings/ads" target="_blank">www.google.com/settings/ads</a>
+Vous pouvez refuser Google Analytics for Display Advertising et personnaliser les annonces Google Display Network en vous rendant sur la page Google Ads Settings (paramètres de Google Ads): <a href="http://www.google.com/settings/ads" rel="noopener" target="_blank">www.google.com/settings/ads</a>
 
-Google recommande également d'installer le plug-in Google Analytics Opt-out Browser Add-on - <a href="https://tools.google.com/dlpage/gaoptout" target="_blank">tools.google.com/dlpage/gaoptout</a> - dans votre navigateur web. Le plug-in Google Analytics Opt-out Browser Add-on permet aux visiteurs d'empêcher Google Analytics de recueillir et d'utiliser leur données.
-Pour plus de précisions sur les pratiques de confidentialité de Google, merci de consulter la page web Protection de la vie privée et conditions de Google: <a href="https://policies.google.com/privacy?hl=en" target="_blank">policies.google.com/privacy?hl=en</a>
+Google recommande également d'installer le plug-in Google Analytics Opt-out Browser Add-on - <a href="https://tools.google.com/dlpage/gaoptout" rel="noopener" target="_blank">tools.google.com/dlpage/gaoptout</a> - dans votre navigateur web. Le plug-in Google Analytics Opt-out Browser Add-on permet aux visiteurs d'empêcher Google Analytics de recueillir et d'utiliser leur données.
+Pour plus de précisions sur les pratiques de confidentialité de Google, merci de consulter la page web Protection de la vie privée et conditions de Google: <a href="https://policies.google.com/privacy?hl=en" rel="noopener" target="_blank">policies.google.com/privacy?hl=en</a>
 
 ### Twitter
 Le service de remarketing Twitter est fourni par Twitter Inc.
-Vous pouvez refuser les annonces de Twitter basées sur les centres d'intérêt en suivant les instructions de Twitter: <a href="https://support.twitter.com/articles/20170405" target="_blank">support.twitter.com/articles/20170405</a> Pour en apprendre davantage sur les pratiques et politiques de confidentialité de Twitter, veuillez consulter la page de sa politique de confidentialité: <a href="https://twitter.com/privacy" target="_blank">twitter.com/privacy</a>
+Vous pouvez refuser les annonces de Twitter basées sur les centres d'intérêt en suivant les instructions de Twitter: <a href="https://support.twitter.com/articles/20170405" rel="noopener" target="_blank">support.twitter.com/articles/20170405</a> Pour en apprendre davantage sur les pratiques et politiques de confidentialité de Twitter, veuillez consulter la page de sa politique de confidentialité: <a href="https://twitter.com/privacy" rel="noopener" target="_blank">twitter.com/privacy</a>
 
 ### Facebook
 Le service de remarketing Facebook est fourni par Facebook Inc.
-Vous pouvez en savoir plus sur les publicités Facebook basées sur les centres d'intérêt en consultant cette page <a href="https://www.facebook.com/help/164968693837950" target="_blank">www.facebook.com/help/164968693837950</a>
-Pour refuser les publicités Facebook basées sur les centres d'intérêt, suivez ces instructions de Facebook: <a href="https://www.facebook.com/help/568137493302217" target="_blank">www.facebook.com/help/568137493302217</a>
-Facebook respecte les Principes d'autorégulation en matière de publicité comportementale en ligne établis par la Digital Advertising Alliance. Vous pouvez aussi refuser Facebook et d'autres sociétés participantes par le biais de Digital Advertising Alliance aux États-Unis <a href="http://www.aboutads.info/choices/" target="_blank">www.aboutads.info/choices/</a>, de Digital Advertising Alliance of Canada au Canada <a href="http://youradchoices.ca/" target="_blank">youradchoices.ca/</a> ou de European Interactive Digital Advertising Alliance en Europ <a href="http://www.youronlinechoices.eu/" target="_blank">www.youronlinechoices.eu/</a>, ou en utilisant les paramètres de votre dispositif mobile.
-Pour plus de précisions sur les pratiques de confidentialité de Facebook, merci de consulter la politique de Facebook en matière de données: <a href="https://www.facebook.com/privacy/explanation" target="_blank">www.facebook.com/privacy/explanation</a>
+Vous pouvez en savoir plus sur les publicités Facebook basées sur les centres d'intérêt en consultant cette page <a href="https://www.facebook.com/help/164968693837950" rel="noopener" target="_blank">www.facebook.com/help/164968693837950</a>
+Pour refuser les publicités Facebook basées sur les centres d'intérêt, suivez ces instructions de Facebook: <a href="https://www.facebook.com/help/568137493302217" rel="noopener" target="_blank">www.facebook.com/help/568137493302217</a>
+Facebook respecte les Principes d'autorégulation en matière de publicité comportementale en ligne établis par la Digital Advertising Alliance. Vous pouvez aussi refuser Facebook et d'autres sociétés participantes par le biais de Digital Advertising Alliance aux États-Unis <a href="http://www.aboutads.info/choices/" rel="noopener" target="_blank">www.aboutads.info/choices/</a>, de Digital Advertising Alliance of Canada au Canada <a href="http://youradchoices.ca/" rel="noopener" target="_blank">youradchoices.ca/</a> ou de European Interactive Digital Advertising Alliance en Europ <a href="http://www.youronlinechoices.eu/" rel="noopener" target="_blank">www.youronlinechoices.eu/</a>, ou en utilisant les paramètres de votre dispositif mobile.
+Pour plus de précisions sur les pratiques de confidentialité de Facebook, merci de consulter la politique de Facebook en matière de données: <a href="https://www.facebook.com/privacy/explanation" rel="noopener" target="_blank">www.facebook.com/privacy/explanation</a>
 
 ### Pinterest
 Le service de remarketing Pinterest est fourni par Pinterest Inc.
-Vous pouvez refuser les annonces de Pinterest basées sur les centres d'intérêt en activant la fonctionnalité "Ne pas me suivre" de votre navigateur web ou en suivant les instructions de Pinterest: <a href="http://help.pinterest.com/en/articles/personalization-and-data" target="_blank">help.pinterest.com/en/articles/personalization-and-data</a>
-Pour en apprendre davantage sur les pratiques et politiques de confidentialité de Pinterest, veuillez consulter la page de sa politique de confidentialité: <a href="https://about.pinterest.com/en/privacy-policy" target="_blank">about.pinterest.com/en/privacy-policy</a>
+Vous pouvez refuser les annonces de Pinterest basées sur les centres d'intérêt en activant la fonctionnalité "Ne pas me suivre" de votre navigateur web ou en suivant les instructions de Pinterest: <a href="http://help.pinterest.com/en/articles/personalization-and-data" rel="noopener" target="_blank">help.pinterest.com/en/articles/personalization-and-data</a>
+Pour en apprendre davantage sur les pratiques et politiques de confidentialité de Pinterest, veuillez consulter la page de sa politique de confidentialité: <a href="https://about.pinterest.com/en/privacy-policy" rel="noopener" target="_blank">about.pinterest.com/en/privacy-policy</a>
 
 ## Paiements
 Il se peut que nous proposions des produits et/ ou services payants dans le cadre du Service. En pareil cas, nous ferons appel à des services de tiers pour le traitement des paiements (c.-à-d. à des sociétés de traitement des paiements).
@@ -193,7 +193,7 @@ Nous ne recueillerons pas et ne conserverons pas les données de votre carte de 
 Les sociétés de traitement de paiements avec lesquelles nous travaillons sont:
 
 ### Stripe
-Leur politique de confidentialité est disponible sur le site <a href="https://stripe.com/us/privacy" target="_blank">stripe.com/us/privacy</a>
+Leur politique de confidentialité est disponible sur le site <a href="https://stripe.com/us/privacy" rel="noopener" target="_blank">stripe.com/us/privacy</a>
 
 ## Liens pointant vers d'autres sites
 Il se peut que notre Service contienne des liens pointant vers d'autres sites que nous n'exploitons pas. Si vous cliquez sur un lien de tiers, vous serez redirigé vers le site de ce tiers. Nous vous recommandons vivement d'examiner la politique de confidentialité de chacun des sites que vous consultez.

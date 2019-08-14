@@ -216,4 +216,4 @@ languages:
         titleColumn2: À propos de nous
         titleColumn3: Ressources
       newsletterTitle: Newsletter
-      newsletterText: Les signatures électroniques et la confiance numérique sont des sujets d'actualité. Restez au courant ! <br class="hide-for-mobile">Consultez notre <a href="/fr/politique-de-confidentialite/" target="_blank">politique de confidentialité</a>.
+      newsletterText: Les signatures électroniques et la confiance numérique sont des sujets d'actualité. Restez au courant ! <br class="hide-for-mobile">Consultez notre <a href="/fr/politique-de-confidentialite/">politique de confidentialité</a>.

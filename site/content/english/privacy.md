@@ -164,37 +164,37 @@ We may use third-party Service Providers to monitor and analyse the use of our S
 ## Google Analytics
 Google Analytics is a web analytics service offered by Google that tracks and reports website traffic. Google uses the data collected to track and monitor the use of our Service. This data is shared with other Google services. Google may use the collected data to contextualise and personalise the ads of its own advertising network.
 You can opt-out of having made your activity on the Service available to Google Analytics by installing the Google Analytics opt-out browser add-on. The add-on prevents the Google Analytics JavaScript (ga.js, analytics.js and dc.js) from sharing information with Google Analytics about visits activity.
-For more information on the privacy practices of Google, please visit the Google Privacy Terms web page: <a href="https://policies.google.com/privacy?hl=en" target="_blank">policies.google.com/privacy?hl=en</a>
+For more information on the privacy practices of Google, please visit the Google Privacy Terms web page: <a href="https://policies.google.com/privacy?hl=en" rel="noopener" target="_blank">policies.google.com/privacy?hl=en</a>
 
 ## Behavioral Remarketing
 Skribble AG uses remarketing services to advertise on third party websites to you after you visited our Service. We and our third-party vendors use cookies to inform, optimise and serve ads based on your past visits to our Service.
 
 ### Google Ads (AdWords)
 Google Ads (AdWords) remarketing service is provided by Google Inc.
-You can opt-out of Google Analytics for Display Advertising and customise the Google Display Network ads by visiting the Google Ads Settings page: <a href="http://www.google.com/settings/ads" target="_blank">www.google.com/settings/ads</a>
+You can opt-out of Google Analytics for Display Advertising and customise the Google Display Network ads by visiting the Google Ads Settings page: <a href="http://www.google.com/settings/ads" rel="noopener" target="_blank">www.google.com/settings/ads</a>
 
-Google also recommends installing the Google Analytics Opt-out Browser Add-on - <a href="https://tools.google.com/dlpage/gaoptout" target="_blank">tools.google.com/dlpage/gaoptout</a> - for your web browser. Google Analytics Opt-out Browser Add-on provides visitors with the ability to prevent their data from being collected and used by Google Analytics.
-For more information on the privacy practices of Google, please visit the Google Privacy Terms web page: <a href="https://policies.google.com/privacy?hl=en" target="_blank">policies.google.com/privacy?hl=en</a>
+Google also recommends installing the Google Analytics Opt-out Browser Add-on - <a href="https://tools.google.com/dlpage/gaoptout" rel="noopener" target="_blank">tools.google.com/dlpage/gaoptout</a> - for your web browser. Google Analytics Opt-out Browser Add-on provides visitors with the ability to prevent their data from being collected and used by Google Analytics.
+For more information on the privacy practices of Google, please visit the Google Privacy Terms web page: <a href="https://policies.google.com/privacy?hl=en" rel="noopener" target="_blank">policies.google.com/privacy?hl=en</a>
 
 ### Twitter
 Twitter remarketing service is provided by Twitter Inc.
-You can opt-out from Twitter's interest-based ads by following their instructions: <a href="https://support.twitter.com/articles/20170405" target="_blank">support.twitter.com/articles/20170405</a>
+You can opt-out from Twitter's interest-based ads by following their instructions: <a href="https://support.twitter.com/articles/20170405" rel="noopener" target="_blank">support.twitter.com/articles/20170405</a>
 
-You can learn more about the privacy practices and policies of Twitter by visiting their Privacy Policy page: <a href="https://twitter.com/privacy" target="_blank">twitter.com/privacy</a>
+You can learn more about the privacy practices and policies of Twitter by visiting their Privacy Policy page: <a href="https://twitter.com/privacy" rel="noopener" target="_blank">twitter.com/privacy</a>
 
 ### Facebook
 Facebook remarketing service is provided by Facebook Inc.
-You can learn more about interest-based advertising from Facebook by visiting this page: <a href="https://www.facebook.com/help/164968693837950" target="_blank">www.facebook.com/help/164968693837950</a>
+You can learn more about interest-based advertising from Facebook by visiting this page: <a href="https://www.facebook.com/help/164968693837950" rel="noopener" target="_blank">www.facebook.com/help/164968693837950</a>
 
-To opt-out from Facebook's interest-based ads, follow these instructions from Facebook: <a href="https://www.facebook.com/help/568137493302217" target="_blank">www.facebook.com/help/568137493302217</a>
+To opt-out from Facebook's interest-based ads, follow these instructions from Facebook: <a href="https://www.facebook.com/help/568137493302217" rel="noopener" target="_blank">www.facebook.com/help/568137493302217</a>
 
-Facebook adheres to the Self-Regulatory Principles for Online Behavioural Advertising established by the Digital Advertising Alliance. You can also opt-out from Facebook and other participating companies through the Digital Advertising Alliance in the USA <a href="http://www.aboutads.info/choices/" target="_blank">www.aboutads.info/choices/</a>, the Digital Advertising Alliance of Canada in Canada <a href="http://youradchoices.ca/" target="_blank">youradchoices.ca/</a> or the European Interactive Digital Advertising Alliance in Europe <a href="http://www.youronlinechoices.eu/" target="_blank">www.youronlinechoices.eu/</a>, or opt-out using your mobile device settings.
-For more information on the privacy practices of Facebook, please visit Facebook's Data Policy: <a href="https://www.facebook.com/privacy/explanation" target="_blank">www.facebook.com/privacy/explanation</a>
+Facebook adheres to the Self-Regulatory Principles for Online Behavioural Advertising established by the Digital Advertising Alliance. You can also opt-out from Facebook and other participating companies through the Digital Advertising Alliance in the USA <a href="http://www.aboutads.info/choices/" rel="noopener" target="_blank">www.aboutads.info/choices/</a>, the Digital Advertising Alliance of Canada in Canada <a href="http://youradchoices.ca/" rel="noopener" target="_blank">youradchoices.ca/</a> or the European Interactive Digital Advertising Alliance in Europe <a href="http://www.youronlinechoices.eu/" rel="noopener" target="_blank">www.youronlinechoices.eu/</a>, or opt-out using your mobile device settings.
+For more information on the privacy practices of Facebook, please visit Facebook's Data Policy: <a href="https://www.facebook.com/privacy/explanation" rel="noopener" target="_blank">www.facebook.com/privacy/explanation</a>
 
 ### Pinterest
 Pinterest remarketing service is provided by Pinterest Inc.
-You can opt-out from Pinterest's interest-based ads by enabling the "Do Not Track" functionality of your web browser or by following Pinterest instructions: <a href="http://help.pinterest.com/en/articles/personalization-and-data" target="_blank">help.pinterest.com/en/articles/personalization-and-data</a>
-You can learn more about the privacy practices and policies of Pinterest by visiting their Privacy Policy page: <a href="https://about.pinterest.com/en/privacy-policy" target="_blank">about.pinterest.com/en/privacy-policy</a>
+You can opt-out from Pinterest's interest-based ads by enabling the "Do Not Track" functionality of your web browser or by following Pinterest instructions: <a href="http://help.pinterest.com/en/articles/personalization-and-data" rel="noopener" target="_blank">help.pinterest.com/en/articles/personalization-and-data</a>
+You can learn more about the privacy practices and policies of Pinterest by visiting their Privacy Policy page: <a href="https://about.pinterest.com/en/privacy-policy" rel="noopener" target="_blank">about.pinterest.com/en/privacy-policy</a>
 
 ## Payments
 We may provide paid products and/or services within the Service. In that case, we use third-party services for payment processing (e.g. payment processors).
@@ -204,7 +204,7 @@ We will not store or collect your payment card details. That information is prov
 The payment processors we work with are:
 
 ### Stripe
-Their Privacy Policy can be viewed at <a href="https://stripe.com/us/privacy" target="_blank">stripe.com/us/privacy</a>
+Their Privacy Policy can be viewed at <a href="https://stripe.com/us/privacy" rel="noopener" target="_blank">stripe.com/us/privacy</a>
 
 ## Links to Other Sites
 Our Service may contain links to other sites that are not operated by us. If you click a third party link, you will be directed to that third party's site. We strongly advise you to review the Privacy Policy of every site you visit.

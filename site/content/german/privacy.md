@@ -161,35 +161,35 @@ Wir beauftragen gegebenenfalls dritte Leistungsanbieter mit der Überwachung und
 ### Google Analytics
 Google Analytics ist ein von Google angebotener Web-Analytics-Dienst, der Zugriffe auf Websites nachverfolgt und meldet. Google nutzt die gewonnenen Daten zur Nachverfolgung und Überwachung der Nutzung unseres Dienstes. Diese Daten werden mit anderen Google-Diensten geteilt. Google kann die gewonnenen Daten zur Kontextualisierung und Personalisierung der Werbeanzeigen innerhalb seines eigenen Werbenetzwerks nutzen.
 Sie können die Übertragung Ihrer Aktivität innerhalb unseres Dienstes an Google Analytics abschalten, indem Sie das Browser-Add-on zur Deaktivierung von Google Analytics installieren. Das Add-on verhindert eine Datenübertragung an Google Analytics zu Besuchen bzw. Aktivität über das JavaScript von Google Analytics (ga.js, analytics.js und dc.js).
-Weitere Informationen zu den Datenschutzmaßnahmen von Google können Sie auf Googles Webseite zu seinen Datenschutzbestimmungen (Privacy Terms) einsehen: <a href="https://policies.google.com/privacy?hl=en" target="_blank">policies.google.com/privacy?hl=en</a>
+Weitere Informationen zu den Datenschutzmaßnahmen von Google können Sie auf Googles Webseite zu seinen Datenschutzbestimmungen (Privacy Terms) einsehen: <a href="https://policies.google.com/privacy?hl=en" rel="noopener" target="_blank">policies.google.com/privacy?hl=en</a>
 
 ## Verhaltensbasierte Wiedervermarktung
 Skribble AG setzt Wiedervermarktungsdienste ein, um Ihnen auf Websites Dritter Werbung anzuzeigen, nachdem Sie unseren Dienst besucht haben. Wir und unsere Drittanbieter setzen Cookies ein, um Werbung auf Grundlage Ihrer früheren Besuche innerhalb unseres Dienstes zu erstellen, zu optimieren und anzuzeigen.
 
 ### Google Ads (AdWords)
 Google Ads (AdWords) ist ein von Google Inc. angebotener Wiedervermarktungsdienst.
-Sie können Google Analytics für die Anzeige von Werbung deaktivieren und die Google Display Network-Werbung personalisieren, indem Sie die Seite mit den Einstellungen für Google Ads besuchen: <a href="http://www.google.com/settings/ads" target="_blank">www.google.com/settings/ads</a>
+Sie können Google Analytics für die Anzeige von Werbung deaktivieren und die Google Display Network-Werbung personalisieren, indem Sie die Seite mit den Einstellungen für Google Ads besuchen: <a href="http://www.google.com/settings/ads" rel="noopener" target="_blank">www.google.com/settings/ads</a>
 
-Google empfiehlt außerdem die Installation des Browser-Add-ons für die Deaktivierung von Google Analytics - <a href="https://tools.google.com/dlpage/gaoptout" target="_blank">tools.google.com/dlpage/gaoptout</a> - für Ihren Web-Browser. Das Browser-Add-on für die Deaktivierung von Google Analytics ermöglicht es Besuchern, die Erfassung und Nutzung ihrer Daten durch Google Analytics zu verhindern.
-Weitere Informationen zu den Datenschutzmaßnahmen von Google können Sie auf Googles Webseite zu seinen Datenschutzbestimmungen (Privacy Terms) einsehen: <a href="https://policies.google.com/privacy?hl=en" target="_blank">policies.google.com/privacy?hl=en</a>
+Google empfiehlt außerdem die Installation des Browser-Add-ons für die Deaktivierung von Google Analytics - <a href="https://tools.google.com/dlpage/gaoptout" rel="noopener" target="_blank">tools.google.com/dlpage/gaoptout</a> - für Ihren Web-Browser. Das Browser-Add-on für die Deaktivierung von Google Analytics ermöglicht es Besuchern, die Erfassung und Nutzung ihrer Daten durch Google Analytics zu verhindern.
+Weitere Informationen zu den Datenschutzmaßnahmen von Google können Sie auf Googles Webseite zu seinen Datenschutzbestimmungen (Privacy Terms) einsehen: <a href="https://policies.google.com/privacy?hl=en" rel="noopener" target="_blank">policies.google.com/privacy?hl=en</a>
 
 ### Twitter
 Twitters Wiedervermarktungsdienst wird von Twitter Inc. angeboten.
-Sie können die interessenbasierte Werbung von Twitter deaktivieren, indem Sie den entsprechenden Anweisungen Folge leisten: <a href="https://support.twitter.com/articles/20170405" target="_blank">support.twitter.com/articles/20170405</a> Weitere Informationen zu den Datenschutzmaßnahmen und -vorschriften von Twitter können Sie Twitters Datenschutz-Richtlinie (Privacy Policy) entnehmen: <a href="https://twitter.com/privacy" target="_blank">twitter.com/privacy</a>
+Sie können die interessenbasierte Werbung von Twitter deaktivieren, indem Sie den entsprechenden Anweisungen Folge leisten: <a href="https://support.twitter.com/articles/20170405" rel="noopener" target="_blank">support.twitter.com/articles/20170405</a> Weitere Informationen zu den Datenschutzmaßnahmen und -vorschriften von Twitter können Sie Twitters Datenschutz-Richtlinie (Privacy Policy) entnehmen: <a href="https://twitter.com/privacy" rel="noopener" target="_blank">twitter.com/privacy</a>
 
 ### Facebook
 Facebooks Wiedervermarktungsdienst wird von Facebook Inc. angeboten.
 Weitere Informationen zu Facebooks interessenbasierter Werbung sind der folgenden Seite zu entnehmen:
-<a href="https://www.facebook.com/help/164968693837950" target="_blank">www.facebook.com/help/164968693837950</a>
-Sie können die interessenbasierte Werbung von Facebook deaktivieren, indem Sie den entsprechenden Anweisungen Folge leisten: <a href="https://www.facebook.com/help/568137493302217" target="_blank">www.facebook.com/help/568137493302217</a>
-Facebook hält sich an die von der Digital Advertising Alliance erstellten "Selbstregelnden Grundsätze für verhaltensbasierte Online-Werbung" (Self-Regulatory Principles for Online Behavioural Advertising). Sie können Facebook und andere teilnehmende Unternehmen in den USA außerdem über die Digital Advertising Alliance <a href="http://www.aboutads.info/choices/" target="_blank">www.aboutads.info/choices/</a>, in Kanada über die Digital Advertising Alliance of Canada <a href="http://youradchoices.ca/" target="_blank">youradchoices.ca/</a> oder in Europa über die European Interactive Digital Advertising Alliance <a href="http://www.youronlinechoices.eu/" target="_blank">www.youronlinechoices.eu/</a>, deaktivieren; alternativ können Sie die Einstellungen Ihres mobilen Endgeräts entsprechend anpassen.
-Weitere Informationen zu den Datenschutzvorschriften von Facebook sind aus Facebooks Datenschutz-Richtlinie (Data Policy) ersichtlich: <a href="https://www.facebook.com/privacy/explanation" target="_blank">www.facebook.com/privacy/explanation</a>
+<a href="https://www.facebook.com/help/164968693837950" rel="noopener" target="_blank">www.facebook.com/help/164968693837950</a>
+Sie können die interessenbasierte Werbung von Facebook deaktivieren, indem Sie den entsprechenden Anweisungen Folge leisten: <a href="https://www.facebook.com/help/568137493302217" rel="noopener" target="_blank">www.facebook.com/help/568137493302217</a>
+Facebook hält sich an die von der Digital Advertising Alliance erstellten "Selbstregelnden Grundsätze für verhaltensbasierte Online-Werbung" (Self-Regulatory Principles for Online Behavioural Advertising). Sie können Facebook und andere teilnehmende Unternehmen in den USA außerdem über die Digital Advertising Alliance <a href="http://www.aboutads.info/choices/" rel="noopener" target="_blank">www.aboutads.info/choices/</a>, in Kanada über die Digital Advertising Alliance of Canada <a href="http://youradchoices.ca/" rel="noopener" target="_blank">youradchoices.ca/</a> oder in Europa über die European Interactive Digital Advertising Alliance <a href="http://www.youronlinechoices.eu/" rel="noopener" target="_blank">www.youronlinechoices.eu/</a>, deaktivieren; alternativ können Sie die Einstellungen Ihres mobilen Endgeräts entsprechend anpassen.
+Weitere Informationen zu den Datenschutzvorschriften von Facebook sind aus Facebooks Datenschutz-Richtlinie (Data Policy) ersichtlich: <a href="https://www.facebook.com/privacy/explanation" rel="noopener" target="_blank">www.facebook.com/privacy/explanation</a>
 
 ### Pinterest
 Pinterests Wiedervermarktungsdienst wird von Pinterest Inc. angeboten.
 Sie können die interessenbasierte Werbung von Pinterest deaktivieren, indem Sie die "Do Not Track"-Funktionalität Ihres Browsers einschalten oder den entsprechenden Anweisungen von Pinterest Folge leisten:
-<a href="http://help.pinterest.com/en/articles/personalization-and-data" target="_blank">help.pinterest.com/en/articles/personalization-and-data</a>
-Weitere Informationen zu den Datenschutzmaßnahmen und -vorschriften von Pinterest können Sie Pinterests Datenschutz-Richtlinie (Privacy Policy) entnehmen: <a href="https://about.pinterest.com/en/privacy-policy" target="_blank">about.pinterest.com/en/privacy-policy</a>
+<a href="http://help.pinterest.com/en/articles/personalization-and-data" rel="noopener" target="_blank">help.pinterest.com/en/articles/personalization-and-data</a>
+Weitere Informationen zu den Datenschutzmaßnahmen und -vorschriften von Pinterest können Sie Pinterests Datenschutz-Richtlinie (Privacy Policy) entnehmen: <a href="https://about.pinterest.com/en/privacy-policy" rel="noopener" target="_blank">about.pinterest.com/en/privacy-policy</a>
 
 ## Zahlungen
 Wir stellen gegebenenfalls entgeltliche Produkte und/oder Dienstleistungen innerhalb unseres Dienstes zur Verfügung. In diesem Fall setzen wir dritte Zahlungsanbieter für die Zahlungsbearbeitung ein.
@@ -199,7 +199,7 @@ Wir werden Ihre Zahlungskartenangaben weder speichern noch erfassen. Diese Daten
 Bei den von uns eingesetzten Zahlungsanbietern handelt es sich um:
 
 ### Stripe
-Die Datenschutz-Richtlinie (Privacy Policy) von Stripe können Sie hier einsehen <a href="https://stripe.com/us/privacy" target="_blank">stripe.com/us/privacy</a>
+Die Datenschutz-Richtlinie (Privacy Policy) von Stripe können Sie hier einsehen <a href="https://stripe.com/us/privacy" rel="noopener" target="_blank">stripe.com/us/privacy</a>
 
 ## Links zu anderen Websites
 Unser Dienst kann Links zu anderen Websites enthalten, die nicht von uns betrieben werden. Wenn Sie auf einen Drittlink klicken, werden Sie direkt auf die Website des betreffenden Dritten weitergeleitet. Wir empfehlen Ihnen dringend, sich jeweils die Datenschutz-Richtlinien aller von Ihnen besuchten Websites durchzulesen.
