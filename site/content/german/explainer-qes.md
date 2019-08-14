@@ -1,10 +1,8 @@
 ---
-title: "TODO: SEO title"
-description: "TODO: SEO description"
+title: 100% Rechtssicherheit beim Signieren
+description: Skribble hat dieselbe Rechtssicherheit wie das Unterschreiben von Hand und bietet 100% Rechtssicherheit vor Gericht.
 draft: false
 slug: explainer-qes
-# opengraph image (for facebook and twitter)
-og_image: "TODO:"
 
 ---
 
@@ -32,7 +30,7 @@ Skribble arbeitet mit der QES. Damit sind Dokumente, die mit Skribble signiert w
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< testimonial "or-logo-202w.png" "Artikel 14 Absatz 2bis des Schweizer Obligationenrechts (OR)" >}}
+{{< testimonial "testimonial/or-logo-de-202w.png" "Artikel 14 Absatz 2bis des Schweizer Obligationenrechts (OR)" >}}
 "Der eigenhändigen Unterschrift gleichgestellt ist die mit einem qualifizierten Zeitstempel verbundene qualifizierte elektronische Signatur gemäss Bundesgesetz vom 18. März 2016 über die elektronische Signatur."
 {{< /testimonial >}}
 

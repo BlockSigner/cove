@@ -1,10 +1,8 @@
 ---
-title: "TODO: SEO title"
-description: "TODO: SEO description"
+title: 100% legal certainty in court
+description: Skribble has the same legal certainty as signing by hand and offers 100% legal certainty in court.
 draft: false
 slug: explainer-qes
-# opengraph image (for facebook and twitter)
-og_image: "TODO:"
 
 ---
 
@@ -32,7 +30,7 @@ Skribble works with QES. This means that documents signed with Skribble <br clas
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< testimonial "or-logo-202w.png" "Article 14 paragraph 2bis of the Swiss Code of Obligations (OR)" >}}
+{{< testimonial "testimonial/or-logo-en-160w.png" "Article 14 paragraph 2bis of the Swiss Code of Obligations (OR)" >}}
 "An authenticated electronic signature combined with an authenticated time stamp within the meaning of the Federal Act of 18 March 20161 on Electronic Signatures is deemed equivalent to a handwritten signature, subject to any statutory or contractual provision to the contrary."
 {{< /testimonial >}}
 

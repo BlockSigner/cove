@@ -1,10 +1,8 @@
 ---
-title: "TODO: SEO title"
-description: "TODO: SEO description"
+title: Skribble offre 100% de sécurité juridique devant les tribunaux
+description: Skribble travaille avec la QES. Ainsi, les documents signés avec Skribble sont juridiquement contraignants.
 draft: false
 slug: explainer-qes
-# opengraph image (for facebook and twitter)
-og_image: "TODO:"
 
 ---
 
@@ -32,7 +30,7 @@ Skribble travaille avec la QES. Ainsi, les documents signés avec Skribble sont 
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< testimonial "or-logo-202w.png" "Article 14, alinéa 2bis du Code des obligations (CO)" >}}
+{{< testimonial "testimonial/or-logo-fr-168w.png" "Article 14, alinéa 2bis du Code des obligations (CO)" >}}
 "La signature électronique qualifiée avec horodatage électronique qualifié au sens de la loi du 18 mars 2016 sur la signature électronique est assimilée à la signature manuscrite."
 {{< /testimonial >}}
 
