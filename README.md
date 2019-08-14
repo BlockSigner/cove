@@ -123,19 +123,21 @@ Applies styling for headings, paragraphs, links, and lists (ul, ol, dl).
 Components that are rather simple and used in various places throughout the website.
 
 #### {{< button >}}
-The button accepts 3 parameters.
+The button accepts 4 parameters.
 ```
 {{< button
   "Try it now"
   "https://www.skribble.com"
   "_blank"
+  "outline"
 >}}
 ```
 
 **Parameters**
 1. label
 2. link
-3. target attribute
+3. target attribute (optional)
+4. style (optional)
 
 #### {{< ol >}}
 Use the strong tag to indicate the title of an ordered list item that has a title and a text.
@@ -182,7 +184,8 @@ A little component with dividers at the top and bottom that is used to focus the
 1. CTA label
 2. CTA href
 3. CTA target attribute (optional)
-3. titel (optional)
+4. titel (optional)
+5. style (optional)
 
 #### {{< plan >}}
 The `plan` consists of the upper part with 2 titles and the lower part with any number of paragraphs. Paragraphs are divided by a horizontal line.

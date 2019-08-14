@@ -55,6 +55,8 @@ Le validateur de l'administration fédérale suisse vous permet de vérifier si 
   "Vers le validateur fédéral"
   "https://www.e-service.admin.ch/validator/upload/all/fr"
   "_blank"
+  ""
+  outline
 %}}
 {{< picture ch-logo 54 >}}
 {{% richtext %}}

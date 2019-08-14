@@ -55,6 +55,8 @@ The Validator service of the Swiss Federal Administration allows you to check wh
   "To the Validator"
   "https://www.e-service.admin.ch/validator/upload/all/en"
   "_blank"
+  ""
+  outline
 %}}
 {{< picture ch-logo 54 >}}
 {{% richtext %}}

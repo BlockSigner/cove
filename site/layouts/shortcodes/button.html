@@ -1,1 +1,1 @@
-<a class="btn" target="{{.Get 2}}" href="{{.Get 1}}">{{.Get 0}}</a>
+<a class="btn {{ cond (eq (.Get 3) "outline") "btn--outline" "" }}" target="{{.Get 2}}" href="{{.Get 1}}">{{.Get 0}}</a>
