@@ -24,7 +24,7 @@ languages:
           url: /de/identifikation/
           weight: 10
         - name: QES erklärt
-          url: /de/explainer-qes/
+          url: /de/qes-erklaert/
           weight: 15
       footer2:
         - name: Mission
@@ -100,7 +100,7 @@ languages:
           url: /identification/
           weight: 10
         - name: QES explained
-          url: /explainer-qes/
+          url: /qes-explained/
           weight: 15
       footer2:
         - name: Mission
@@ -175,8 +175,8 @@ languages:
         - name: Identification
           url: /fr/identification/
           weight: 10
-        - name: Explication de l'EQS
-          url: /fr/explainer-qes/
+        - name: QES expliqué
+          url: /fr/qes-explique/
           weight: 15
       footer2:
         - name: Mission

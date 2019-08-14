@@ -2,7 +2,7 @@
 title: Skribble offre 100% de sécurité juridique devant les tribunaux
 description: Skribble travaille avec la QES. Ainsi, les documents signés avec Skribble sont juridiquement contraignants.
 draft: false
-slug: explainer-qes
+slug: qes-explique
 
 ---
 

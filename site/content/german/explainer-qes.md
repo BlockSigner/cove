@@ -2,7 +2,7 @@
 title: 100% Rechtssicherheit beim Signieren
 description: Skribble hat dieselbe Rechtssicherheit wie das Unterschreiben von Hand und bietet 100% Rechtssicherheit vor Gericht.
 draft: false
-slug: explainer-qes
+slug: qes-erklaert
 
 ---
 
