@@ -38,6 +38,9 @@
       flex: 0 1 150px;
       padding-right: 30px;
     }
+    @include max-width {
+      padding-bottom: 22px;
+    }
 
     img {
       display: block;
