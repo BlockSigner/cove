@@ -7,14 +7,16 @@ type: identification
 # opengraph image (for facebook and twitter)
 og_image: og/og-skribble-identification.jpg
 
+
 ---
 
 {{% content %}}
 {{% heading %}}
-# Identity verification for QES – <br class="hide-for-mobile">Skribble makes it easy
-The qualified electronic signature (QES) requires the signing party to verify his or her identity. Skribble offers suitable means of identification for every business context.
+# Identity verification for QES
+For the qualified electronic signature (QES), the signatory must <br class="hide-for-mobile">verify his or her identity. Skribble will help with this.
 {{% /heading %}}
-{{< picture identification 482 "The identity of a woman standing in a mobile phone is verified by two people" >}}
+{{< picture identification 482 "he identity of a woman standing in a mobile phone is verified by two people" >}}
+&nbsp;
 {{% /content %}}
 
 {{% cta
@@ -25,7 +27,7 @@ The qualified electronic signature (QES) requires the signing party to verify hi
   "outline"
 %}}
 {{% richtext %}}
-**You can find all details about the identity check for QES with Skribble here in our factsheet.**
+**Identity verification for QES – <br class="hide-for-mobile">Skribble makes it easy**
 {{% /richtext %}}
 {{% /cta %}}
 
@@ -33,23 +35,39 @@ The qualified electronic signature (QES) requires the signing party to verify hi
 
 {{% content %}}
 {{% heading %}}
-# Do you already have an electronic identity? Then sign up now.
+# Use your existing e-ID
+Persons who have a verified e-ID can legally sign on Skribble without additional identity verification.
 {{% /heading %}}
-{{< picture "identification-id" 412 "An electronic legally binding identity card" >}}
-A growing number of people in Europe holds a verified electronic identity (E-ID). Skribble can be linked with all relevant E-IDs. Thus, millions of users can sign in a qualified manner without additional identity verification.
 
-For you as a company, this means, on the one hand, that you do not have to worry about the identification of these people. On the other hand, you are always on the safe side, no matter which E-ID prevails among your users.
+{{< picture "identification-id" 412 "An electronic legally binding identity card" >}}
+
+A growing number of people in Europe have a verified electronic identity (e-ID). Skribble links them all so that millions of users can start signing immediately.
+
+{{% richtext %}}
+**The following e-IDs allow you to sign with Skribble shortly**
+{{% /richtext %}}
+
+{{< picture eid_swissid 570 "Die identität einer frau, die in einem handy steht, wird von zwei personen überprüft" >}}
+
+{{% richtext %}}
+**More e-IDs will follow this year.**
+{{% /richtext %}}
 
 &nbsp;
+
 {{% /content %}}
+
+
 
 {{% cta
   "Schedule appointment"
   "https://help.skribble.com/meetings/patrick182/telephone-consultation-skribble"
   "_blank"
+  ""
 %}}
 {{% richtext %}}
-**For more information about how to connect E-IDs to Skribble, please schedule a phone call with us.**
+**Identification with Skribble**<br>
+Let Skribble identify you and start signing immediately.
 {{% /richtext %}}
 {{% /cta %}}
 
@@ -62,116 +80,56 @@ For you as a company, this means, on the one hand, that you do not have to worry
 
 {{% content %}}
 {{% heading %}}
-# No electronic identity yet? <br class="hide-for-mobile">We’ll get you one.
+# Get identified
+If you do not have an e-ID, Skribble can identify you within minutes.
 {{% /heading %}}
+
 {{< picture "create-identity" 385 "A magnifying glass enlarges the image of a woman in a passport" >}}
 
 {{< row >}}
 {{% plan
   gold
-  "Identification Unlimited"
-  "You identify the signing party"
-  "Download Factsheet"
-  "https://cdn2.hubspot.net/hubfs/5051692/Skribble%20Overview%20EN/Skribble_Overview_Identification%20Unlimited_EN.pdf"
-  "_blank"
-  "outline"
-%}}
-Suitable if new signees are constantly being added.
-
-With the ID app by Swisscom, you independently verify and record the identity data of the signing parties during personal contact. This allows you to enable people to sign in a qualified manner indefinitely and flexibly.
-{{% /plan %}}
-
-{{% plan
-  purple
+  "Identification-Service"
   "Identification Easy"
-  "We identify the signing party"
   "Download Factsheet"
   "https://cdn2.hubspot.net/hubfs/5051692/Skribble%20Overview%20EN/Skribble_Factsheet_Identification%20Easy_EN.pdf"
   "_blank"
   "outline"
 %}}
+**We** identify the signatories.
+
+
+Suitable if new signees are constantly being added.
+
+{{% /plan %}}
+
+{{% plan
+  purple
+  "Identification-Service"
+  "Identification Unlimited"
+  "Download Factsheet"
+  "https://cdn2.hubspot.net/hubfs/5051692/Skribble%20Overview%20EN/Skribble_Overview_Identification%20Unlimited_EN.pdf"
+  "_blank"
+  "outline"
+%}}
+**You** identify the signatories.
+
 Suitable if you use QES in a predefined circle of people.
 
-We will come by and identify these people on site. This way, you are quickly and easily ready to use QES and don't have to worry about identification.
 {{% /plan %}}
 {{< /row >}}
 {{% /content %}}
 
-{{% cta
-  "Schedule appointment"
-  "https://help.skribble.com/meetings/patrick182/telephone-consultation-skribble"
-  "_blank"
-%}}
-{{% richtext %}}
-**Any questions? We are happy <br class="hide-for-mobile">to help you over the phone.**
-{{% /richtext %}}
-{{% /cta %}}
-
-[//]: # (--------------------------------------------------------------------------------------------------------------)
-
-{{% content %}}
-{{% heading %}}
-# Would you like to sign <br class="hide-for-mobile">in a qualified manner electronically <br class="hide-for-mobile">as a private individual?
-{{% /heading %}}
-{{< picture "individual-signing" 448 "A woman and a man are sitting in an internet page and the woman hands the man a document to sign electronically" >}}
-Skribble can easily be used outside the company context. If you do not yet have an E-ID, we will be happy to identify you at Bahnhofstrasse 3 in Zurich. It only takes a few minutes.
-
-{{% /content %}}
 
 {{% cta
-  "Schedule appointment"
+  "Schedule a phone call"
   "https://help.skribble.com/meetings/patrick182/skribble-id-zurich"
   "_blank"
 %}}
 {{% richtext %}}
-**Pick an appointment and <br class="hide-for-mobile">we'll identify you.**
+**Any questions?<br>We are happy to help you**
 {{% /richtext %}}
 {{% /cta %}}
-
-[//]: # (--------------------------------------------------------------------------------------------------------------)
-
-{{% content %}}
-{{% heading %}}
-# This is how identification <br class="hide-for-mobile">with the ID app of Swisscom works
-{{% /heading %}}
-
-{{< row >}}
-{{% step %}}
-{{< picture "identification-step-1" 252 "A magnifying glass magnifies the image of a man in a passport" >}}
-{{% richtext %}}
-**Step 1**<br>
-The user's ID card is scanned and checked with Swisscom's ID app.
-{{% /richtext %}}
-{{% /step %}}
-
-{{% step %}}
-{{< picture "identification-step-2" 158 "An electronic identity on a mobile phone" >}}
-{{% richtext %}}
-**Step 2**<br>
-Swisscom verifies the data and stores it securely.
-{{% /richtext %}}
-{{% /step %}}
-{{< /row >}}
-
-{{< row >}}
-{{% step %}}
-{{< picture "identification-step-3" 270 "A man who has been successfully identified electronically" >}}
-{{% richtext %}}
-**Step 3**<br>
-In Skribble, the status of the user is directly changed to "ready to sign" <br class="hide-for-mobile">in the profile.
-{{% /richtext %}}
-{{% /step %}}
-
-{{% step %}}
-{{< picture "identification-step-4" 270 "A person holds a legal document in their hands. The Swisscom logo is in the background" >}}
-{{% richtext %}}
-**Step 4**<br>
-The user can now use Skribble to sign electronically in a qualified manner.
-{{% /richtext %}}
-{{% /step %}}
-{{< /row >}}
-
-{{% /content %}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 

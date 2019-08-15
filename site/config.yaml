@@ -102,9 +102,12 @@ languages:
         - name: Identification
           url: /identification/
           weight: 10
+        - name: Identify
+          url: /identify/
+          weight: 15
         - name: QES explained
           url: /qes-explained/
-          weight: 15
+          weight: 20
       footer2:
         - name: Mission
           url: /about/
@@ -178,9 +181,12 @@ languages:
         - name: Identification
           url: /fr/identification/
           weight: 10
+        - name: Identifions
+          url: /fr/identifions/
+          weight: 15
         - name: QES expliqué
           url: /fr/qes-explique/
-          weight: 15
+          weight: 20
       footer2:
         - name: Mission
           url: /fr/mission/

@@ -11,8 +11,8 @@ og_image: og/og-skribble-identification.jpg
 
 {{% content %}}
 {{% heading %}}
-# So funktioniert die Identifikation <br class="hide-for-mobile">mit der ID-App von Swisscom
-Es dauert nur wenige Minuten
+# Wir identifizieren dich <br class="hide-for-mobile">mit der ID-App von Swisscom
+Vier kurze Schritte, und du kannst mit dem Sigieren loslegen.
 {{% /heading %}}
 
 {{< row >}}

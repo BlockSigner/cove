@@ -46,7 +46,7 @@ Eine wachsende Anzahl Menschen in Europa verfügt über eine geprüfte elektroni
 **Mit folgenden E-IDs kannst du in kürze bei Skribble signieren:**
 {{% /richtext %}}
 
-{{< picture eid_swissid 620 "Die identität einer frau, die in einem handy steht, wird von zwei personen überprüft" >}}
+{{< picture eid_swissid 570 "Die identität einer frau, die in einem handy steht, wird von zwei personen überprüft" >}}
 
 {{% richtext %}}
 **Weitere E-IDs folgen in diesem Jahr.**
@@ -63,11 +63,10 @@ Eine wachsende Anzahl Menschen in Europa verfügt über eine geprüfte elektroni
   "https://help.skribble.com/meetings/patrick182/call-mit-skribble"
   "_blank"
   ""
-  "outline"
 %}}
 {{% richtext %}}
 **Identifikation mit Skribble**<br>
-Lass dich von Skribble identizieren und leg sofort mit dem Signieren los.
+Lass dich von Skribble identifizieren und leg sofort mit dem Signieren los.
 {{% /richtext %}}
 {{% /cta %}}
 
@@ -89,10 +88,10 @@ Wer über keine E-ID verfügt, kann das mit Skribble in Minutenschnelle nachhole
 {{< row >}}
 {{% plan
   gold
-  "Identifikations-Service"
+  "Identifications-Service"
   "Identification Easy"
   "Download Factsheet"
-  "https://cdn2.hubspot.net/hubfs/5051692/Skribble%20Overview/Skribble_Overview_Identification%20Unlimited.pdf"
+  "https://cdn2.hubspot.net/hubfs/5051692/Skribble%20Overview/Skribble_Overview_Identification%20Easy.pdf"
   "_blank"
   "outline"
 %}}
@@ -108,7 +107,7 @@ Passend, wenn du die QES <br class="hide-for-mobile">in einem vordefinierten Per
   "Identifikations-Service"
   "Identification Unlimited"
   "Download Factsheet"
-  "https://cdn2.hubspot.net/hubfs/5051692/Skribble%20Overview/Skribble_Overview_Identification%20Easy.pdf"
+  "https://cdn2.hubspot.net/hubfs/5051692/Skribble%20Overview/Skribble_Overview_Identification%20Unlimited.pdf"
   "_blank"
   "outline"
 %}}
@@ -128,29 +127,6 @@ Passend, wenn laufend <br class="hide-for-mobile">neue Signierende <br class="hi
 %}}
 {{% richtext %}}
 **Hast du Fragen? <br class="hide-for-mobile">Wir helfen dir gerne telefonisch weiter.**
-{{% /richtext %}}
-{{% /cta %}}
-
-[//]: # (--------------------------------------------------------------------------------------------------------------)
-
-{{% content %}}
-{{% heading %}}
-# Möchtest Du als Privatperson qualifiziert elektronisch signieren?
-{{% /heading %}}
-{{< picture "individual-signing" 448 "Eine frau und ein mann sitzen in einer internetseite und die frau reicht dem mann ein dokument zum elektronisch unterschreiben" >}}
-
-Skribble kann problemlos ausserhalb des Firmenkontextes genutzt werden. Falls du noch über keine E-ID verfügst, identifizieren wir dich gerne an der Bahnhofstrasse 3 in Zürich. Es dauert nur wenige Minuten.
-
-&nbsp;
-{{% /content %}}
-
-{{% cta
-  "Termin vereinbaren"
-  "https://help.skribble.com/meetings/patrick182/identifikation-bei-skribble"
-  "_blank"
-%}}
-{{% richtext %}}
-**Suche dir einen Termin aus <br class="hide-for-mobile">und wir identifizieren dich.**
 {{% /richtext %}}
 {{% /cta %}}
 
