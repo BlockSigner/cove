@@ -47,7 +47,7 @@ The Validator service of the Swiss Federal Administration allows you to check wh
 ### Here's how to do it:
 1. **Select document type: <br class="hide-for-mobile">Qualified electronic signature deemed equivalent to handwritten signature**
 2. **Upload your document**
-3. **Click on "Check document**
+3. **Click on "Check document"**
 {{% /richtext %}}
 {{% /content %}}
 
