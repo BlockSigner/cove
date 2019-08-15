@@ -74,6 +74,12 @@ Ihr signiert rechtsgültig per Knopfdruck, unabhängig von Zeit und Ort mit eine
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
+{{< testimonial "testimonial/e-forsight-146w.png" "e-foresight Think Tank" >}}
+"Skribble bietet eine kundenfreundliche Lösung für die qualifizierte elektronische Signatur in der Schweiz an."
+{{< /testimonial >}}
+
+[//]: # (--------------------------------------------------------------------------------------------------------------)
+
 {{% content %}}
 {{% heading %}}
 # Skribble erfüllt die rechtlichen Bestimmungen

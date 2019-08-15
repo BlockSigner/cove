@@ -11,18 +11,22 @@ og_image: og/og-skribble-identification.jpg
 
 {{% content %}}
 {{% heading %}}
-# Identitätsprüfung für die QES &ndash; <br class="hide-for-mobile">Skribble macht es einfach
-Für die qualifizierte elektronische Signatur (QES) muss der Unterzeichnende seine Identität beweisen. Skribble bietet für jeden Geschäftskontext eine passende Identifikationsmöglichkeit an.
+# Identitätsprüfung für die QES
+Für die qualifizierte elektronische Signatur (QES) muss der Unterzeichnende <br class="hide-for-mobile">seine Identität beweisen. Skribble hilft dir dabei.
 {{% /heading %}}
 {{< picture identification 482 "Die identität einer frau, die in einem handy steht, wird von zwei personen überprüft" >}}
+&nbsp;
 {{% /content %}}
 
 {{% cta
   "Download Factsheet"
   "https://cdn2.hubspot.net/hubfs/5051692/Skribble%20Overview/Skribble_Overview_Identification.pdf"
+  "_blank"
+  ""
+  "outline"
 %}}
 {{% richtext %}}
-**Die Details zur Identitätsprüfung <br class="hide-for-mobile">für das Signieren mit Skribble findest du <br class="hide-for-mobile">in unserem Factsheet.**
+**Identitätsprüfung für die QES – <br class="hide-for-mobile">Skribble macht es einfach**
 {{% /richtext %}}
 {{% /cta %}}
 
@@ -30,31 +34,54 @@ Für die qualifizierte elektronische Signatur (QES) muss der Unterzeichnende sei
 
 {{% content %}}
 {{% heading %}}
-# Besitzt du bereits eine elektronische Identität (E-ID)? Melde dich einfach an.
+# Bestehende E-ID nutzen
+Personen, die über eine geprüfte E-ID verfügen, können auf Skribble ohne zusätzliche Identitätsprüfung rechtsgültig signieren.
 {{% /heading %}}
 
 {{< picture "identification-id" 412 "Eine elektronische rechtsgültige identitätskarte" >}}
 
-Eine wachsende Anzahl Menschen in Europa verfügt über eine geprüfte elektronische Identität (E-ID). Skribble bindet diese an. So können Millionen von Nutzern ohne zusätzliche Identitätsprüfung qualifiziert signieren.
+Eine wachsende Anzahl Menschen in Europa verfügt über eine geprüfte elektronische Identität (E-ID). Skribble bindet diese an. So können Millionen von Nutzern sofort mit dem Signieren loslegen.
 
-Für dich als Firma bedeutet das erstens, dass du dich nicht um die Identifikation dieser Personen kümmern musst. Zweitens bist du auf jeden Fall auf der sicheren Seite, egal, welche E-ID sich bei deinen Nutzern durchsetzt.
+{{% richtext %}}
+**Mit folgenden E-IDs kannst du in kürze bei Skribble signieren:**
+{{% /richtext %}}
+
+{{< picture eid_swissid 620 "Die identität einer frau, die in einem handy steht, wird von zwei personen überprüft" >}}
+
+{{% richtext %}}
+**Weitere E-IDs folgen in diesem Jahr.**
+{{% /richtext %}}
+
+&nbsp;
 
 {{% /content %}}
 
+
+
 {{% cta
-  "Termin vereinbaren"
+  "Telefonat vereinbaren"
   "https://help.skribble.com/meetings/patrick182/call-mit-skribble"
+  "_blank"
+  ""
+  "outline"
 %}}
 {{% richtext %}}
-**Gerne informieren wir dich telefonisch zum Thema Anbindung von E-IDs an Skribble.**
+**Identifikation mit Skribble**<br>
+Lass dich von Skribble identizieren und leg sofort mit dem Signieren los.
 {{% /richtext %}}
 {{% /cta %}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
+{{< testimonial "testimonial/e-forsight-146w.png" "e-foresight Think Tank" >}}
+"Da sich noch kein Standard betreffend <br class="hide-for-mobile">der E-ID in der Schweiz abzeichnet, ist <br class="hide-for-mobile">die Interoperabilität der digitalen Identitäten essentiell, um das Risiko von Investitionsruinen zu minimieren." {{< /testimonial >}}
+
+[//]: # (--------------------------------------------------------------------------------------------------------------)
+
 {{% content %}}
 {{% heading %}}
-# Besitzt du keine elektronische Identität? Wir erstellen dir eine.
+# Identifizieren lassen
+Wer über keine E-ID verfügt, kann das mit Skribble in Minutenschnelle nachholen.
 {{% /heading %}}
 
 {{< picture "create-identity" 385 "Eine lupe vergrößert das bild einer frau in einem pass" >}}
@@ -62,37 +89,45 @@ Für dich als Firma bedeutet das erstens, dass du dich nicht um die Identifikati
 {{< row >}}
 {{% plan
   gold
-  "Identification Unlimited"
-  "Du identifizierst die Signierenden"
+  "Identifikations-Service"
+  "Identification Easy"
   "Download Factsheet"
   "https://cdn2.hubspot.net/hubfs/5051692/Skribble%20Overview/Skribble_Overview_Identification%20Unlimited.pdf"
-  "" %}}
-Passend, wenn laufend neue Signierende hinzukommen.
+  "_blank"
+  "outline"
+%}}
+**Wir** identifizieren<br class="hide-for-mobile">
+die Signierenden.
 
-Mit der ID-App von Swisscom prüft und erfasst ihr die Identitätsdaten der signierenden Personen selbstständig im persönlichen Kontakt. So kannst du unbegrenzt und flexibel Personen zum Signieren befähigen.
+Passend, wenn du die QES <br class="hide-for-mobile">in einem vordefinierten Personenkreis einsetzt.
+
 {{% /plan %}}
 
 {{% plan
   purple
-  "Identification Easy"
-  "Wir identifizieren die Signierenden"
+  "Identifikations-Service"
+  "Identification Unlimited"
   "Download Factsheet"
   "https://cdn2.hubspot.net/hubfs/5051692/Skribble%20Overview/Skribble_Overview_Identification%20Easy.pdf"
-  "" %}}
-Passend, wenn du die QES in einem vordefinierten Personenkreis einsetzt.
+  "_blank"
+  "outline"
+%}}
+**Du** identifizierst<br class="hide-for-mobile">
+die Signierenden.
 
-Wir kommen vorbei und identifizieren diese Personen vor Ort. Damit seid ihr schnell und unkompliziert bereit für den Einsatz der QES und müsst euch nicht um die Identifikation kümmern.
+Passend, wenn laufend <br class="hide-for-mobile">neue Signierende <br class="hide-for-mobile">hinzukommen.
 {{% /plan %}}
 {{< /row >}}
 {{% /content %}}
 
 
 {{% cta
-  "Termin vereinbaren"
+  "Telefonat vereinbaren"
   "https://help.skribble.com/meetings/patrick182/call-mit-skribble"
+  "_blank"
 %}}
 {{% richtext %}}
-**Hast du Fragen? Wir helfen dir gerne telefonisch weiter.**
+**Hast du Fragen? <br class="hide-for-mobile">Wir helfen dir gerne telefonisch weiter.**
 {{% /richtext %}}
 {{% /cta %}}
 
@@ -105,61 +140,19 @@ Wir kommen vorbei und identifizieren diese Personen vor Ort. Damit seid ihr schn
 {{< picture "individual-signing" 448 "Eine frau und ein mann sitzen in einer internetseite und die frau reicht dem mann ein dokument zum elektronisch unterschreiben" >}}
 
 Skribble kann problemlos ausserhalb des Firmenkontextes genutzt werden. Falls du noch über keine E-ID verfügst, identifizieren wir dich gerne an der Bahnhofstrasse 3 in Zürich. Es dauert nur wenige Minuten.
+
+&nbsp;
 {{% /content %}}
 
 {{% cta
   "Termin vereinbaren"
   "https://help.skribble.com/meetings/patrick182/identifikation-bei-skribble"
+  "_blank"
 %}}
 {{% richtext %}}
 **Suche dir einen Termin aus <br class="hide-for-mobile">und wir identifizieren dich.**
 {{% /richtext %}}
 {{% /cta %}}
-
-[//]: # (--------------------------------------------------------------------------------------------------------------)
-
-{{% content %}}
-{{% heading %}}
-# So funktioniert die Identifikation <br class="hide-for-mobile">mit der ID-App von Swisscom
-Es dauert nur wenige Minuten
-{{% /heading %}}
-
-{{< row >}}
-{{% step %}}
-{{< picture "identification-step-1" 252 "Eine lupe vergrößert das bild eines mannes in einem pass" >}}
-{{% richtext %}}
-**Schritt 1**<br>
-Der Ausweis des Nutzers wird mit der ID-App von Swisscom gescannt und geprüft.
-{{% /richtext %}}
-{{% /step %}}
-
-{{% step %}}
-{{< picture "identification-step-2" 158 "Eine elektronische identität auf einem mobiltelefon" >}}
-{{% richtext %}}
-**Schritt 2**<br>
-Swisscom verifiziert die Daten und legt sie sicher ab.
-{{% /richtext %}}
-{{% /step %}}
-{{< /row >}}
-
-{{< row >}}
-{{% step %}}
-{{< picture "identification-step-3" 270 "Ein mann der erfolgreich elektronisch identifiziert ist" >}}
-{{% richtext %}}
-**Schritt 3**<br>
-Der Status des Nutzers wird bei Skribble im Profil direkt auf “signierbereit” geändert.
-{{% /richtext %}}
-{{% /step %}}
-
-{{% step %}}
-{{< picture "identification-step-4" 270 "Eine person hält ein rechtsgültiges dokument in den händen. Im hintergrund befindet sich das swisscom logo" >}}
-{{% richtext %}}
-**Schritt 4**<br>
-Der Nutzer kann mit Skribble fortan qualifiziert elektronisch signieren.
-{{% /richtext %}}
-{{% /step %}}
-{{< /row >}}
-{{% /content %}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 

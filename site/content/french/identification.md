@@ -21,6 +21,8 @@ Pour utiliser la signature électronique qualifiée (QES), le signataire doit pr
   "Télécharger la fiche d'informations"
   "https://cdn2.hubspot.net/hubfs/5051692/Skribble%20Overview/Skribble_Overview_Identification_FR.pdf"
   "_blank"
+  ""
+  "outline"
 %}}
 {{% richtext %}}
 **Vous trouverez les détails sur la vérification d'identité pour signer avec Skribble dans notre fiche d'informations.**
@@ -41,6 +43,7 @@ En Europe, un nombre croissant de personnes a une identité électronique vérif
 
 Pour vous en tant qu'entreprise, cela signifie d'abord que vous n'avez pas à vous soucier de l'identification de ces personnes. Deuxièmement, vous êtes toujours <br class="hide-for-mobile">du bon côté, quel que soit l'e-ID acceptée par vos utilisateurs.
 
+&nbsp;
 {{% /content %}}
 
 {{% cta
@@ -52,6 +55,12 @@ Pour vous en tant qu'entreprise, cela signifie d'abord que vous n'avez pas à vo
 **Nous vous informons volontiers <br class="hide-for-mobile">par téléphone au sujet de la connexion <br class="hide-for-mobile">des e-IDs à Skribble.**
 {{% /richtext %}}
 {{% /cta %}}
+
+[//]: # (--------------------------------------------------------------------------------------------------------------)
+
+{{< testimonial "testimonial/e-forsight-146w.png" "Think tank e-foresight" >}}
+"Comme aucune norme sur l'e-ID n'est encore émergente en Suisse, compatibilité des identités numériques est essentielle pour minimiser le risque d'investissement <br class="hide-for-mobile">à perte." 
+{{< /testimonial >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
@@ -70,7 +79,8 @@ Pour vous en tant qu'entreprise, cela signifie d'abord que vous n'avez pas à vo
   "Télécharger la fiche d'informations"
   "https://cdn2.hubspot.net/hubfs/5051692/Skribble%20Overview%20EN/Skribble_Overview_Identification%20Unlimited_EN.pdf"
   "_blank"
-  "" %}}
+  "outline"
+%}}
 Convient si de nouveaux signataires sont constamment ajoutés.
 
 Avec l'ID-app de Swisscom, vous vérifiez et enregistrez de manière indépendante les données d'identité des signataires dans vos contacts personnels. Cela vous permet d'autoriser librement les gens à signer indéfiniment.
@@ -83,7 +93,8 @@ Avec l'ID-app de Swisscom, vous vérifiez et enregistrez de manière indépendan
   "Télécharger la fiche d'informations"
   "https://cdn2.hubspot.net/hubfs/5051692/Skribble%20Overview%20EN/Skribble_Factsheet_Identification%20Easy_EN.pdf"
   "_blank"
-  "" %}}
+  "outline"
+%}}
 Convient si vous utilisez la QES avec un nombre de personnes prédéfini.
 
 Nous venons identifier ces personnes sur place. Ainsi, vous êtes rapidement et facilement prêt à utiliser la QES et n'avez pas à vous soucier de l'identification.

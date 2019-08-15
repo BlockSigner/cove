@@ -20,6 +20,9 @@ The qualified electronic signature (QES) requires the signing party to verify hi
 {{% cta
   "Download Factsheet"
   "https://cdn2.hubspot.net/hubfs/5051692/Skribble%20Overview%20EN/Skribble_Overview_Identification_EN.pdf"
+  "_blank"
+  ""
+  "outline"
 %}}
 {{% richtext %}}
 **You can find all details about the identity check for QES with Skribble here in our factsheet.**
@@ -36,16 +39,24 @@ The qualified electronic signature (QES) requires the signing party to verify hi
 A growing number of people in Europe holds a verified electronic identity (E-ID). Skribble can be linked with all relevant E-IDs. Thus, millions of users can sign in a qualified manner without additional identity verification.
 
 For you as a company, this means, on the one hand, that you do not have to worry about the identification of these people. On the other hand, you are always on the safe side, no matter which E-ID prevails among your users.
+
+&nbsp;
 {{% /content %}}
 
 {{% cta
   "Schedule appointment"
   "https://help.skribble.com/meetings/patrick182/telephone-consultation-skribble"
+  "_blank"
 %}}
 {{% richtext %}}
 **For more information about how to connect E-IDs to Skribble, please schedule a phone call with us.**
 {{% /richtext %}}
 {{% /cta %}}
+
+[//]: # (--------------------------------------------------------------------------------------------------------------)
+
+{{< testimonial "testimonial/e-forsight-146w.png" "e-foresight Think Tank" >}}
+"Since there is as yet no standard e-ID in Switzerland, the interoperability of digital identities is essential in order to minimise the risk of investment ruins." {{< /testimonial >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
@@ -62,7 +73,8 @@ For you as a company, this means, on the one hand, that you do not have to worry
   "You identify the signing party"
   "Download Factsheet"
   "https://cdn2.hubspot.net/hubfs/5051692/Skribble%20Overview%20EN/Skribble_Overview_Identification%20Unlimited_EN.pdf"
-  ""
+  "_blank"
+  "outline"
 %}}
 Suitable if new signees are constantly being added.
 
@@ -75,7 +87,8 @@ With the ID app by Swisscom, you independently verify and record the identity da
   "We identify the signing party"
   "Download Factsheet"
   "https://cdn2.hubspot.net/hubfs/5051692/Skribble%20Overview%20EN/Skribble_Factsheet_Identification%20Easy_EN.pdf"
-  ""
+  "_blank"
+  "outline"
 %}}
 Suitable if you use QES in a predefined circle of people.
 
@@ -87,6 +100,7 @@ We will come by and identify these people on site. This way, you are quickly and
 {{% cta
   "Schedule appointment"
   "https://help.skribble.com/meetings/patrick182/telephone-consultation-skribble"
+  "_blank"
 %}}
 {{% richtext %}}
 **Any questions? We are happy <br class="hide-for-mobile">to help you over the phone.**
@@ -107,6 +121,7 @@ Skribble can easily be used outside the company context. If you do not yet have 
 {{% cta
   "Schedule appointment"
   "https://help.skribble.com/meetings/patrick182/skribble-id-zurich"
+  "_blank"
 %}}
 {{% richtext %}}
 **Pick an appointment and <br class="hide-for-mobile">we'll identify you.**

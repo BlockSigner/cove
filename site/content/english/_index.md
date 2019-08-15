@@ -78,6 +78,12 @@ You sign legally binding at the push of a button, regardless of time and place, 
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
+{{< testimonial "testimonial/e-forsight-146w.png" "e-foresight Think Tank" >}}
+"Skribble offers a customer-friendly <br class="hide-for-mobile">solution for qualified electronic signatures in Switzerland."
+{{< /testimonial >}}
+
+[//]: # (--------------------------------------------------------------------------------------------------------------)
+
 {{% content %}}
 {{% heading %}}
 # Skribble complies with legal requirements

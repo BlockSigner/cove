@@ -74,6 +74,12 @@ Vous signez légalement par simple pression <br class="hide-for-mobile">d'un bou
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
+{{< testimonial "testimonial/e-forsight-146w.png" "Think tank e-foresight" >}}
+"Skribble offre une solution conviviale <br class="hide-for-mobile">pour des signatures électroniques qualifiées en Suisse."
+{{< /testimonial >}}
+
+[//]: # (--------------------------------------------------------------------------------------------------------------)
+
 {{% content %}}
 {{% heading %}}
 # Skribble répond aux exigences légales

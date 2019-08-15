@@ -23,9 +23,12 @@ languages:
         - name: Identifikation
           url: /de/identifikation/
           weight: 10
+        - name: Identitätsprüfung
+          url: /de/identitaetspruefung/
+          weight: 15
         - name: QES erklärt
           url: /de/qes-erklaert/
-          weight: 15
+          weight: 20
       footer2:
         - name: Mission
           url: /de/ueber-uns/
