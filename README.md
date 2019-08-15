@@ -136,8 +136,8 @@ The button accepts 4 parameters.
 **Parameters**
 1. label
 2. link
-3. target attribute (optional)
-4. style (optional)
+3. target attribute (optional): `_blank_`
+4. style (optional): `outline`
 
 #### {{< ol >}}
 Use the strong tag to indicate the title of an ordered list item that has a title and a text.
@@ -185,7 +185,7 @@ A little component with dividers at the top and bottom that is used to focus the
 2. CTA href
 3. CTA target attribute (optional)
 4. titel (optional)
-5. style (optional)
+5. style (optional): `outline`
 
 #### {{< plan >}}
 The `plan` consists of the upper part with 2 titles and the lower part with any number of paragraphs. Paragraphs are divided by a horizontal line.
@@ -200,6 +200,10 @@ Suitable for single or occasional signing with QES
 1. color: `gold` or `purple`
 2. first and smaller title
 3. the second and larger title
+4. button label (optional)
+5. button href (optional)
+6. button target attribute (optional)
+7. button style (optional): `outline`
 
 #### {{< collapsible >}}
 This collapsible component hides its content and reveals it after clicking on the title.
@@ -216,9 +220,10 @@ A signature with Skribble is equal to the handwritten signature according to Swi
 #### {{< outro >}}
 
 #### {{< testimonial >}}
+To provide a little bit of structure, we add the testimonial images in a folder testimonial.
 
 ```
-{{< testimonial "foresight.png" "e-foresight Think Tank" >}}
+{{< testimonial "testimonial/foresight.png" "e-foresight Think Tank" >}}
 "Skribble bietet eine kundenfreundliche Lösung zur Qualifizierten Elektronischen Signatur in der Schweiz an."
 {{< /testimonial >}}
 ```
