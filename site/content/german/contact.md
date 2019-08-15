@@ -11,7 +11,7 @@ map:
   subtitle: Gleich an der Bahnhofstrasse, im Herzen von Zürich
   columns:
     - title: Firma
-      text: BlockSigner AG
+      text: Skribble AG
     - title: Adresse
       text: |
         Trust Square

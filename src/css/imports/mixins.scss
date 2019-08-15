@@ -139,6 +139,7 @@
   }
 
   ol {
+    margin-bottom: 0;
     border-top: 1px solid $c-border;
     list-style: none;
     counter-reset: my-awesome-counter;

@@ -14,7 +14,7 @@
     max-width: 490px;
     margin: 0;
     font-weight: bold;
-    font-size: 2.4rem;
+    font-size: 2rem;
     line-height: 1.35;
     color: $c-text-alt;
     @include max-width {
@@ -25,7 +25,7 @@
   &__footer {
     margin-top: 6px;
     font-weight: normal;
-    font-size: 1.8rem;
+    font-size: 1.6rem;
     line-height: 1.44444;
     color: $c-text;
   }
@@ -37,6 +37,9 @@
     @include min-width {
       flex: 0 1 150px;
       padding-right: 30px;
+    }
+    @include max-width {
+      padding-bottom: 22px;
     }
 
     img {

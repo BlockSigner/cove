@@ -4,8 +4,18 @@
   @include min-width {
     padding-top: 88px;
   }
-  
+
   p:last-child {
     margin-bottom: 0;
+  }
+
+  + .cta {
+    // subtract 1 additional px to make possible borders fall on top of
+    // each other
+    margin-top: -$standard-padding - 1px;
+
+    .cta__title {
+      margin-top: $standard-padding;
+    }
   }
 }

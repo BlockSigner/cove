@@ -35,11 +35,14 @@
   }
 
   &__title {
-    margin-bottom: 4px;
     font: bold 2rem/1.4 $averta;
     color: $c-text-alt;
     @include max-width {
       font-size: 1.8rem;
+    }
+
+    + .cta__content {
+      margin-top: 4px;
     }
   }
 

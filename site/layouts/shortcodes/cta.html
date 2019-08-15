@@ -1,11 +1,13 @@
 <div class="cta">
-  <div class="cta__title">{{.Get 3}}</div>
+  {{ if (.Get 3) }}
+    <div class="cta__title">{{.Get 3}}</div>
+  {{ end }}
   <div class="cta__content">
     <div class="cta__left">
       {{.Inner}}
     </div>
     <div class="cta__right">
-      <a class="cta__btn btn" target="{{.Get 2}}" href="{{.Get 1}}">{{.Get 0}}</a>
+      <a class="cta__btn btn {{ cond (eq (.Get 4) "outline") "btn--outline" "" }}" target="{{.Get 2}}" href="{{.Get 1}}">{{.Get 0}}</a>
     </div>
   </div>
 </div>
