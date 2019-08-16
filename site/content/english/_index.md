@@ -105,6 +105,24 @@ Skribble and its partners (Swisscom) manage your data in accordance with the DSG
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
+{{% cta
+  "Learn more"
+  "qes-explained"
+  ""
+  ""
+  "outline"
+%}}
+
+{{< picture qes-erklaert 122 "Signed with Skribble means legally signed according to Swiss and EU law." >}}
+
+{{% richtext %}}
+**Signed with Skribble means:**<br>
+Legally signed according to Swiss and EU law.
+{{% /richtext %}}
+{{% /cta %}}
+
+[//]: # (--------------------------------------------------------------------------------------------------------------)
+
 {{< side-by-side >}}
 {{< picture image5 430 "A person holds a legal document in their hands. The Swisscom logo is in the background" >}}
 
@@ -116,16 +134,44 @@ An important component of qualified electronic signatures (QES) are digital cert
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< side-by-side >}}
+{{% content %}}
+{{% heading %}}
+# How to use Skribble to ensure <br class="hide-for-mobile">the identity of the signatories
+Those who have a verified e-ID can sign on Skribble <br class="hide-for-mobile">without additional measures.<br><br> 
+**The following e-IDs allow you to sign with Skribble shortly:**
+{{% /heading %}}
 {{% richtext %}}
-## Skribble verifies your identity so that you can be sure your electronic signature is legally binding
-Qualified electronic signatures (QES) require the signatory to verify their identity. People who already have a verified E-ID can start signing straight away. For everyone else Skribble offers a means of identification suitable for every business context.
 {{% /richtext %}}
 
-{{< picture image6 365 "A magnifying glass enlarges the image of a woman in a passport" >}}
-{{< /side-by-side >}}
+{{< picture e-id-map 826 "E-ID, where you can sign Skribble soon." >}}
+The integration of further e-IDs will follow this year.
+{{% richtext %}}
+{{% /richtext %}}
+{{% /content %}}
+{{% cta
+  "Learn more"
+  "de/identifikation"
+  ""
+  "For everyone else, Skribble offers a suitable identification solution."
+  "outline"
+%}}
+
+{{< picture identifizieren 112 "Signed with Skribble means legally signed according to Swiss and EU law." >}}
+
+{{% richtext %}}
+**Identification with Skribble**<br>
+Let Skribble identify you and start signing immediately.
+{{% /richtext %}}
+{{% /cta %}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
+
+{{< testimonial "testimonial/logo-fr-110w.png" "Stéphane Schwab – Canton of Fribourg" >}}
+"Skribble offers a customer-friendly <br class="hide-for-mobile">solution for qualified electronic signatures in Switzerland." 
+{{< /testimonial >}}
+
+[//]: # (--------------------------------------------------------------------------------------------------------------)
+
 
 {{% content %}}
 {{% heading %}}

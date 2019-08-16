@@ -46,7 +46,7 @@ Eine wachsende Anzahl Menschen in Europa verfügt über eine geprüfte elektroni
 **Mit folgenden E-IDs kannst du in kürze bei Skribble signieren:**
 {{% /richtext %}}
 
-{{< picture eid_swissid 570 "Die identität einer frau, die in einem handy steht, wird von zwei personen überprüft" >}}
+{{< picture e-id-map 826 "E-ID, wo du in kürze bei Skribble signieren kannst." >}}
 
 {{% richtext %}}
 **Weitere E-IDs folgen in diesem Jahr.**
@@ -55,8 +55,6 @@ Eine wachsende Anzahl Menschen in Europa verfügt über eine geprüfte elektroni
 &nbsp;
 
 {{% /content %}}
-
-
 
 {{% cta
   "Telefonat vereinbaren"

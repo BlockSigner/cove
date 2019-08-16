@@ -48,7 +48,7 @@ Un nombre croissant de personnes en Europe a une identité électronique <br cla
 **Vous pouvez signer avec Skribble grâce aux e-ID suivantes sous peu:**
 {{% /richtext %}}
 
-{{< picture eid_swissid 570 "L'identité d'une femme debout dans un téléphone portable est vérifiée par deux personnes" >}}
+{{< picture e-id-map 826 "E-ID, où vous pourrez bientôt signer Skribble." >}}
 
 {{% richtext %}}
 **Plus d'e-ID suivront cette année.**

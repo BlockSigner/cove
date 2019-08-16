@@ -47,7 +47,7 @@ A growing number of people in Europe have a verified electronic identity (e-ID).
 **The following e-IDs allow you to sign with Skribble shortly:**
 {{% /richtext %}}
 
-{{< picture eid_swissid 570 "The identity of a woman standing in a mobile phone is verified by two people" >}}
+{{< picture e-id-map 826 "E-ID, where you can sign Skribble soon." >}}
 
 {{% richtext %}}
 **More e-IDs will follow this year.**
