@@ -65,3 +65,22 @@ einzuhalten:
 </ol>
 {{% /richtext %}}
 {{% /content %}}
+
+[//]: # (--------------------------------------------------------------------------------------------------------------)
+
+{{< outro >}}
+{{< picture image8 414 "Ein mann steht mit einem riesen füller neben einem elektronischen dokument" >}}
+
+{{% richtext %}}
+{{% heading %}}
+# Jetzt rechtsgültig elektronisch signieren!
+Keine Kreditkarte, Eintrittsgebühr oder <br class="hide-for-mobile">Verpflichtung erforderlich.
+{{% /heading %}}
+
+{{< button
+  "Jetzt ausprobieren"
+  "https://my.skribble.com/signup?lang=de"
+  "_blank"
+>}}
+{{% /richtext %}}
+{{< /outro >}}

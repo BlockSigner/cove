@@ -12,7 +12,7 @@ og_image: og/og-skribble-identification.jpg
 {{% content %}}
 {{% heading %}}
 # Wir identifizieren dich <br class="hide-for-mobile">mit der ID-App von Swisscom
-Vier kurze Schritte, und du kannst mit dem Sigieren loslegen.
+Vier kurze Schritte, und du kannst mit dem Signieren loslegen.
 {{% /heading %}}
 
 {{< row >}}
@@ -20,7 +20,7 @@ Vier kurze Schritte, und du kannst mit dem Sigieren loslegen.
 {{< picture "identification-step-1" 252 "Eine lupe vergrößert das bild eines mannes in einem pass" >}}
 {{% richtext %}}
 **Schritt 1**<br>
-Der Ausweis des Nutzers wird mit der ID-App von Swisscom gescannt und geprüft.
+Der Ausweis des Nutzers wird mit <br class="hide-for-mobile">der ID-App von Swisscom gescannt <br class="hide-for-mobile">und geprüft.
 {{% /richtext %}}
 {{% /step %}}
 
@@ -56,7 +56,7 @@ Der Nutzer kann mit Skribble fortan qualifiziert elektronisch signieren.
 
 {{% content %}}
 {{% heading %}}
-# In 5 Minuten bereit zum Signieren
+# In wenigen Minuten bereit <br class="hide-for-mobile">zum Signieren
 Du benötigst nur ein Mobiltelefon und ein gültiges Reisedokument <br class="hide-for-mobile">(Pass oder Identitätskarte).
 {{% /heading %}}
 {{< picture "create-identity" 385 "Eine lupe vergrößert das bild einer frau in einem pass" >}}
@@ -87,7 +87,7 @@ Bei Skribble signierst du mit der qualifizierten elektronischen Signatur (QES). 
 Nein. Deine E-ID ist 5 Jahre lang gültig oder bis zum Ablauf des Ausweises, <br class="hide-for-mobile">den du bei der Identifikation vorgewiesen hast.
 {{% /collapsible %}}
 
-{{% collapsible 3 "Welche Ausweisdokumente kann ich für die dentifikation nutzen?" %}}
+{{% collapsible 3 "Welche Ausweisdokumente kann ich für die Identifikation nutzen?" %}}
 Ein gültiger Pass oder eine gültige Identitätskarte. Alle anderen Ausweise wie <br class="hide-for-mobile">der Ausländerausweis oder Führerschein reichen nicht aus.
 {{% /collapsible %}}
 

@@ -39,3 +39,23 @@ Skribble AG is responsible for this website and its content within the meaning o
 The copyright and all other rights to content, images, photos or other files on the website belong exclusively to Skribble AG. The written consent of the copyright holder must be obtained in advance for the reproduction of any elements.
 {{% /richtext %}}
 {{% /content %}}
+
+[//]: # (--------------------------------------------------------------------------------------------------------------)
+
+
+{{< outro >}}
+{{< picture image8 414 >}}
+
+{{% richtext %}}
+{{% heading %}}
+# Sign now, legally and electronically!
+No credit card, entrance fee or commitment required.
+{{% /heading %}}
+
+{{< button
+  "Try it now"
+  "https://my.skribble.com/signup?lang=en"
+  "_blank"
+>}}
+{{% /richtext %}}
+{{< /outro >}}

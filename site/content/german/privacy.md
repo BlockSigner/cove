@@ -222,3 +222,22 @@ Falls Sie Fragen zu dieser Datenschutz-Richtlinie haben, können Sie wie folgt K
 -	Durch Besuch der folgenden Seite unserer Website: <a href="https://www.skribble.com" target="_blank">www.skribble.com</a>"
 {{% /richtext %}}
 {{% /content %}}
+
+[//]: # (--------------------------------------------------------------------------------------------------------------)
+
+{{< outro >}}
+{{< picture image8 414 "Ein mann steht mit einem riesen füller neben einem elektronischen dokument" >}}
+
+{{% richtext %}}
+{{% heading %}}
+# Jetzt rechtsgültig elektronisch signieren!
+Keine Kreditkarte, Eintrittsgebühr oder <br class="hide-for-mobile">Verpflichtung erforderlich.
+{{% /heading %}}
+
+{{< button
+  "Jetzt ausprobieren"
+  "https://my.skribble.com/signup?lang=de"
+  "_blank"
+>}}
+{{% /richtext %}}
+{{< /outro >}}

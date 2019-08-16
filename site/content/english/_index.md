@@ -151,8 +151,8 @@ Suitable for regular signing with QES
 
 {{% richtext %}}
 {{% heading %}}
-# Sign now, legally valid electronically!
-No credit card, entrance fee or commitment required.
+# Sign now, legally and electronically!
+No credit card, sign-up fee or commitment required.
 {{% /heading %}}
 
 {{< button

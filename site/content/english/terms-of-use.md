@@ -39,3 +39,22 @@ As a Skribble user, you must comply with the following principles of lawful use:
 </ol>
 {{% /richtext %}}
 {{% /content %}}
+
+[//]: # (--------------------------------------------------------------------------------------------------------------)
+
+{{< outro >}}
+{{< picture image8 414 >}}
+
+{{% richtext %}}
+{{% heading %}}
+# Sign now, legally and electronically!
+No credit card, entrance fee or commitment required.
+{{% /heading %}}
+
+{{< button
+  "Try it now"
+  "https://my.skribble.com/signup?lang=en"
+  "_blank"
+>}}
+{{% /richtext %}}
+{{< /outro >}}

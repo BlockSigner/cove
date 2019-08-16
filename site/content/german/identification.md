@@ -130,6 +130,24 @@ Passend, wenn laufend <br class="hide-for-mobile">neue Signierende <br class="hi
 {{% /richtext %}}
 {{% /cta %}}
 
+{{% content %}}
+{{% heading %}}
+# Möchtest Du als Privatperson <br class="hide-for-mobile">qualifiziert elektronisch signieren?
+Skribble kann problemlos ausserhalb des Firmenkontextes genutzt werden. <br class="hide-for-mobile">Falls du noch über keine E-ID verfügst, identifizieren wir dich gerne. <br class="hide-for-mobile">Es dauert nur wenige Minuten.
+{{% /heading %}}
+{{< picture individual-signing 448 "Die identität einer frau, die in einem handy steht, wird von zwei personen überprüft" >}}
+&nbsp;
+{{% /content %}}
+
+{{% cta
+  "Jetzt E-ID holen"
+  "identitaetspruefung"
+%}}
+{{% richtext %}}
+**Erfahre mehr, wie Du in wenigen Minuten <br class="hide-for-mobile">zu deiner E-ID kommst!**
+{{% /richtext %}}
+{{% /cta %}}
+
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
 {{< outro >}}

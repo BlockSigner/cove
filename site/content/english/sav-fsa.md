@@ -109,7 +109,7 @@ A law firm may also elect to identify persons itself.
 
 {{% richtext %}}
 {{% heading %}}
-# Sign now, legally valid electronically!
+# Sign now, legally and electronically!
 Learn more about the offer.
 {{% /heading %}}
 

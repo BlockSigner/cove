@@ -56,10 +56,10 @@ L'utilisateur peut maintenant utiliser Skribble pour signer électroniquement de
 
 {{% content %}}
 {{% heading %}}
-# Prêt à signer en 5 minutes
-Il vous suffit d'avoir un téléphone mobile et un document de voyage valide <br class="hide-for-mobile">(passeport ou carte d'identité).
+# Prêt à signer <br class="hide-for-mobile">dans quelques minutes
+Il vous suffit d'avoir un téléphone mobile et un document <br class="hide-for-mobile">de voyage valide (passeport ou carte d'identité).
 {{% /heading %}}
-{{< picture "create-identity" 385 "Eine lupe vergrößert das bild einer frau in einem pass" >}}
+{{< picture "create-identity" 385 "Une loupe agrandit l'image d'une femme dans un passeport" >}}
 &nbsp;
 {{% /content %}}
 

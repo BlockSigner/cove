@@ -71,7 +71,7 @@ The Validator service of the Swiss Federal Administration allows you to check wh
 
 {{% richtext %}}
 {{% heading %}}
-# Sign now, legally valid electronically!
+# Sign now, legally and electronically!
 No credit card, entrance fee or commitment required.
 {{% /heading %}}
 

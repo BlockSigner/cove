@@ -20,7 +20,7 @@ Four short steps to get you started signing.
 {{< picture "identification-step-1" 252 "A magnifying glass magnifies the image of a man in a passport" >}}
 {{% richtext %}}
 **Step 1**<br>
-We scan and check your identification document using Swisscom's ID app.
+We scan and check your ID card or passport using Swisscom's ID app.
 {{% /richtext %}}
 {{% /step %}}
 
@@ -56,10 +56,10 @@ You can now use Skribble to sign electronically in a qualified manner.
 
 {{% content %}}
 {{% heading %}}
-# Ready to sign in 5 minutes
-All you need is a mobile phone and a valid travel document <br class="hide-for-mobile">(passport or identity card).
+# Ready to sign <br class="hide-for-mobile">in a few minutes
+All you need is a mobile phone and a valid travel document <br class="hide-for-mobile">(Valid passport or identity card).
 {{% /heading %}}
-{{< picture "create-identity" 385 "Eine lupe vergrößert das bild einer frau in einem pass" >}}
+{{< picture "create-identity" 385 "A magnifying glass enlarges the image of a woman in a passport" >}}
 &nbsp;
 {{% /content %}}
 
@@ -147,7 +147,7 @@ CH-8001 Zürich
 
 {{% richtext %}}
 {{% heading %}}
-# Sign now, legally valid electronically!
+# Sign now, legally and electronically!
 No credit card, entrance fee or commitment required.
 {{% /heading %}}
 

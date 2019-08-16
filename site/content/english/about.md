@@ -33,7 +33,7 @@ Contracts should no longer have to take a detour via the printer and paper in or
 
 With Skribble signature processes are 100% digital, based on the qualified electronic signature "QES" - the e-signature, which is equivalent to your hand-written signature according to Swiss and EU law.
 
-Security does not come at the expense of simplicity: every company, regardless of size and technology know-how, should be able to benefit from the advantages of this digital transformation.
+Security does not come at the expense of simplicity: every company, regardless of size and technical know-how, should be able to benefit from the advantages of this digital transformation.
 
 ## And that's just the beginning:
 Building trust in digital business relationships should become as simple and intuitive as toasting bread. In 2018 we formed a team of Trust Shapers that has been working towards this future.
@@ -45,7 +45,7 @@ Building trust in digital business relationships should become as simple and int
 
 {{% richtext %}}
 {{% heading %}}
-# Sign now, legally valid electronically!
+# Sign now, legally and electronically!
 No credit card, entrance fee or commitment required.
 {{% /heading %}}
 

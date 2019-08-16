@@ -27,7 +27,7 @@ Pour la signature électronique qualifiée (QES), le signataire <br class="hide-
 %}}
 {{% richtext %}}
 **Utiliser une e-ID existante**<br>
-Les personnes qui ont une e-ID vérifiée peuvent légalement signer sur Skribble <br class="hide-for-mobile">sans contrôle d'identité supplémentaire.
+Les personnes qui ont une e-ID vérifiée peuvent légalement signer sur Skribble sans contrôle d'identité supplémentaire.
 
 {{% /richtext %}}
 {{% /cta %}}
@@ -37,7 +37,7 @@ Les personnes qui ont une e-ID vérifiée peuvent légalement signer sur Skribbl
 {{% content %}}
 {{% heading %}}
 # Utiliser une e-ID existante
-Les personnes qui ont une e-ID vérifiée peuvent légalement signer sur Skribble sans contrôle d'identité supplémentaire.
+Les personnes qui ont une e-ID vérifiée peuvent légalement signer <br class="hide-for-mobile">sur Skribble sans contrôle d'identité supplémentaire.
 {{% /heading %}}
 
 {{< picture "identification-id" 412 "Une carte d'identité électronique juridiquement valable" >}}
@@ -48,14 +48,13 @@ Un nombre croissant de personnes en Europe a une identité électronique <br cla
 **Vous pouvez signer avec Skribble grâce aux e-ID suivantes sous peu:**
 {{% /richtext %}}
 
-{{< picture eid_swissid 570 "Die identität einer frau, die in einem handy steht, wird von zwei personen überprüft" >}}
+{{< picture eid_swissid 570 "L'identité d'une femme debout dans un téléphone portable est vérifiée par deux personnes" >}}
 
 {{% richtext %}}
 **Plus d'e-ID suivront cette année.**
 
 &nbsp;
 {{% /richtext %}}
-
 {{% /content %}}
 
 
@@ -82,10 +81,10 @@ Laissez Skribble vous identifier et commencez à signer immédiatement.
 {{% content %}}
 {{% heading %}}
 # Se laisser identifier
-Si vous n'avez pas d'e-ID, vous pouvez en créer une avec Skribble en quelques minutes.
+Si vous n'avez pas d'e-ID, vous pouvez en créer <br class="hide-for-mobile">une avec Skribble en quelques minutes.
 {{% /heading %}}
 
-{{< picture "create-identity" 385 "Eine lupe vergrößert das bild einer frau in einem pass" >}}
+{{< picture "create-identity" 385 "Une loupe agrandit l'image d'une femme dans un passeport" >}}
 
 {{< row >}}
 {{% plan
@@ -128,6 +127,25 @@ Approprié si de nouveaux signataires sont constamment ajoutés.
 %}}
 {{% richtext %}}
 **Des questions?<br>Nous nous ferons un plaisir de vous aider.**
+{{% /richtext %}}
+{{% /cta %}}
+
+
+{{% content %}}
+{{% heading %}}
+# Souhaitez-vous signer <br class="hide-for-mobile">électroniquement et de manière qualifiée en tant que privé?
+Skribble s’utilise facilement en dehors du contexte de l’entreprise. <br class="hide-for-mobile">Si vous n’avez pas encore d’e-ID, nous nous ferons un plaisir de vous identifier. <br class="hide-for-mobile">Cela ne prend que quelques minutes.
+{{% /heading %}}
+{{< picture individual-signing 448 "L'identité d'une femme debout dans un téléphone portable est vérifiée par deux personnes" >}}
+&nbsp;
+{{% /content %}}
+
+{{% cta
+  "Obtenez une e-ID maintenant"
+  "fr/identifions"
+%}}
+{{% richtext %}}
+**Choisissez un rendez-vous <br class="hide-for-mobile">et nous vous identifierons.**
 {{% /richtext %}}
 {{% /cta %}}
 

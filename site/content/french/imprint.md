@@ -40,3 +40,22 @@ Skribble SA est responsable de ce site Web et de son contenu au sens du § 3 ali
 Les droits d'auteur et tous les autres droits sur le contenu, les images, les photos ou autres fichiers du site Internet appartiennent exclusivement à Skribble SA. La reproduction de tout élément doit faire l'objet d'une autorisation écrite préalable du détenteur des droits d'auteur.
 {{% /richtext %}}
 {{% /content %}}
+
+[//]: # (--------------------------------------------------------------------------------------------------------------)
+
+{{< outro >}}
+{{< picture image8 414 "Un homme se tient à côté d'un document électronique avec un stylo plume géant" >}}
+
+{{% richtext %}}
+{{% heading %}}
+# Signer légalement <br class="hide-for-mobile">et numériquement maintenant!
+Aucune carte de crédit, aucun droit d'entrée <br class="hide-for-mobile">ou engagement n'est requis.
+{{% /heading %}}
+
+{{< button
+  "Essayer maintenant"
+  "https://my.skribble.com/signup?lang=fr"
+  "_blank"
+>}}
+{{% /richtext %}}
+{{< /outro >}}

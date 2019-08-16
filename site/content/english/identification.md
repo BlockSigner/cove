@@ -36,7 +36,7 @@ For the qualified electronic signature (QES), the signatory must <br class="hide
 {{% content %}}
 {{% heading %}}
 # Use your existing e-ID
-Persons who have a verified e-ID can legally sign on Skribble without additional identity verification.
+Persons who have a verified e-ID can legally sign on Skribble <br class="hide-for-mobile">without additional identity verification.
 {{% /heading %}}
 
 {{< picture "identification-id" 412 "An electronic legally binding identity card" >}}
@@ -44,10 +44,10 @@ Persons who have a verified e-ID can legally sign on Skribble without additional
 A growing number of people in Europe have a verified electronic identity (e-ID). Skribble links them all so that millions of users can start signing immediately.
 
 {{% richtext %}}
-**The following e-IDs allow you to sign with Skribble shortly**
+**The following e-IDs allow you to sign with Skribble shortly:**
 {{% /richtext %}}
 
-{{< picture eid_swissid 570 "Die identität einer frau, die in einem handy steht, wird von zwei personen überprüft" >}}
+{{< picture eid_swissid 570 "The identity of a woman standing in a mobile phone is verified by two people" >}}
 
 {{% richtext %}}
 **More e-IDs will follow this year.**
@@ -131,6 +131,25 @@ Suitable if you use QES in a predefined circle of people.
 {{% /richtext %}}
 {{% /cta %}}
 
+{{% content %}}
+{{% heading %}}
+# Would you like to sign <br class="hide-for-mobile">in a qualified manner electronically <br class="hide-for-mobile">as a private individual?
+Skribble can easily be used outside the company context. If you do not yet have <br class="hide-for-mobile">an E-ID, we will be happy to identify you. It only takes a few minutes.
+{{% /heading %}}
+{{< picture individual-signing 448 "The identity of a woman standing in a mobile phone is verified by two people" >}}
+&nbsp;
+{{% /content %}}
+
+{{% cta
+  "Get E-ID now"
+  "identify"
+%}}
+{{% richtext %}}
+**Learn more about how to get <br class="hide-for-mobile">your E-ID in a few minutes!**
+{{% /richtext %}}
+{{% /cta %}}
+
+
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
 {{< outro >}}
@@ -138,7 +157,7 @@ Suitable if you use QES in a predefined circle of people.
 
 {{% richtext %}}
 {{% heading %}}
-# Sign now, legally valid electronically!
+# Sign now, legally and electronically!
 No credit card, entrance fee or commitment required.
 {{% /heading %}}
 
