@@ -1,3 +1,35 @@
+{{ if .IsNamedParams }}
+<div class="picture">
+  {{ if .Get "href" }}
+    <a href="{{.Get "href"}}" target="{{.Get "target"}}">
+  {{ else}}
+    <div class="picture">
+  {{ end }}
+      <picture>
+        {{ $width_x2 := mul (int (.Get "w")) 2 }}
+        <source
+          type="image/webp"
+          srcset="image/{{.Get "name"}}-{{.Get "w"}}w.webp {{.Get "w"}}w, image/{{.Get "name"}}-{{$width_x2}}w.webp {{$width_x2}}w"
+          sizes="(max-width: 767px) 100vw, 620px"
+        />
+        <source
+          type="image/jpeg"
+          srcset="image/{{.Get "name"}}-{{.Get "w"}}w.jpg {{.Get "w"}}w, image/{{.Get "name"}}-{{$width_x2}}w.jpg {{$width_x2}}w"
+          sizes="(max-width: 767px) 100vw, 620px"
+        />
+        <img
+          src="image/{{.Get "name"}}-{{.Get "w"}}w.jpg"
+          alt="{{ .Get "alt" }}"
+          style="width:{{ .Get "w" }}px;"
+        />
+      </picture>
+  {{ if .Get "href" }}
+    </a>
+  {{ else}}
+    </div>
+  {{ end }}
+</div>
+{{ else }}
 <div class="picture">
   <picture>
     {{ $width_x2 := mul (int (.Get 1)) 2 }}
@@ -18,3 +50,4 @@
     />
   </picture>
 </div>
+{{ end }}

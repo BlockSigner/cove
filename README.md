@@ -163,8 +163,11 @@ image8-828w.wepb
 The `-` and the `w` in the filename are added by the component. You have to add the part before the hyphen as the first parameter and the width between the hyphen and the `w` as the second parameter.
 
 **Parameters**
-1. part of filename before the hyphen
-2. natural width of the image
+- `name` The filename before suffix (the suffix being a hyphen, the width, and a w)
+- `w` Natural width of the image
+- `alt` Adds an alt text to the image
+- `href` Adds a link around the image
+- `target` Sets the target attribute
 
 ### Custom components
 
@@ -181,20 +184,12 @@ The heading component is used to arrange a title and a lead text. It centers its
 A little component with dividers at the top and bottom that is used to focus the attention on a single call to action.
 
 **Parameters**
-<<<<<<< HEAD
-1. CTA label
-2. CTA href
-3. CTA target attribute (optional)
-4. titel (optional)
-5. style (optional): `outline`
-=======
 - `label` Adds a label to the button
 - `href` Defines the link href
 - `target` Sets the target attribute
 - `outlined="true"` Applies the outline style to the button
 - `title` Adds a title above the border
 - `floating="true"` Removes the borders around the cta
->>>>>>> feat(CTA): Switch to named parameters
 
 #### {{< plan >}}
 The `plan` consists of the upper part with 2 titles and the lower part with any number of paragraphs. Paragraphs are divided by a horizontal line.

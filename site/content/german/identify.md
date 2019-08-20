@@ -109,11 +109,17 @@ Komm vorbei und lass dich kostenlos identifzieren.
 {{% cta
   label="Termin vereinbaren"
   href="https://natelprofi.ch/"
-  tarbet="_blank"
+  target="_blank"
   title="Belp"
 %}}
 
-{{< picture map-natelprofi 120 "Natel Profi, Dorfstrasse 6, CH-3123 Belp" >}}
+{{< picture
+  name="map-natelprofi"
+  w="120"
+  alt="Natel Profi, Dorfstrasse 6, CH-3123 Belp"
+  href="https://goo.gl/maps/bpgSo63dvfcasoqh8"
+  target="_target"
+>}}
 
 {{% richtext %}}
 **Natel Profi**<br>
