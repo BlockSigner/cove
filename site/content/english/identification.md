@@ -44,7 +44,7 @@ Persons who have a verified e-ID can legally sign on Skribble <br class="hide-fo
 A growing number of people in Europe have a verified electronic identity (e-ID). Skribble links them all so that millions of users can start signing immediately.
 
 {{% richtext %}}
-**The following e-IDs allow you to sign with Skribble shortly:**
+{{% center %}}**The following e-IDs allow you to sign with Skribble shortly:**{{% /center %}}
 {{% /richtext %}}
 
 {{< picture e-id-map 826 "E-ID, where you can sign Skribble soon." >}}
