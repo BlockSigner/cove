@@ -24,7 +24,7 @@
       <nav class="footer__legal">
         <ul class="footer__legal-list">
           {{ $currentPage := . }}
-          {{ range .Site.Menus.footer4 }}
+          {{ range .Site.Menus.meta }}
             <li class="footer__legal-item"><a class="{{ if eq (string .URL) $currentPage.RelPermalink }}active{{ end }}" href="{{ .URL }}">{{ .Name }}</a></li>
           {{ end }}
           <li class="footer__legal-item">© 2019 Skribble</li>

@@ -43,7 +43,7 @@ languages:
         - name: Help-Center
           url: https://help.skribble.com/deutsch
           weight: 5
-      footer4:
+      meta:
         - name: Datenschutzbestimmungen
           url: /de/datenschutz
           weight: 10
@@ -122,7 +122,7 @@ languages:
         - name: Help-Center
           url: https://help.skribble.com/english
           weight: 5
-      footer4:
+      meta:
         - name: Privacy Policy
           url: /privacy/
           weight: 10
@@ -201,7 +201,7 @@ languages:
         - name: Centre d'assistance
           url: https://help.skribble.com/francais
           weight: 5
-      footer4:
+      meta:
         - name: Politique de Confidentialité
           url: /fr/politique-de-confidentialite
           weight: 10
