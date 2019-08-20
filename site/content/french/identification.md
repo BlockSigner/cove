@@ -19,11 +19,10 @@ Pour la signature électronique qualifiée (QES), le signataire <br class="hide-
 {{% /content %}}
 
 {{% cta
-  "Télécharger factsheet"
-  "https://cdn2.hubspot.net/hubfs/5051692/Skribble%20Overview/Skribble_Overview_Identification_FR.pdf"
-  "_blank"
-  ""
-  "outline"
+  label="Télécharger factsheet"
+  href="https://cdn2.hubspot.net/hubfs/5051692/Skribble%20Overview/Skribble_Overview_Identification_FR.pdf"
+  target="_blank"
+  outlined="true"
 %}}
 {{% richtext %}}
 **Utiliser une e-ID existante**<br>
@@ -60,10 +59,10 @@ Un nombre croissant de personnes en Europe a une identité électronique <br cla
 
 
 {{% cta
-  "Fixer un rendez-vous"
-  "https://help.skribble.com/meetings/patrick182/consultation-telephone-skribble"
-  "_blank"
-  ""
+  label="Fixer un rendez-vous"
+  href="https://help.skribble.com/meetings/patrick182/consultation-telephone-skribble"
+  target="_blank"
+  outlined="true"
 %}}
 {{% richtext %}}
 **Identification avec Skribble**<br>
@@ -121,9 +120,9 @@ Approprié si de nouveaux signataires sont constamment ajoutés.
 
 
 {{% cta
-  "Organiser un appel"
-  "https://help.skribble.com/meetings/patrick182/identification-chez-skribble"
-  "_blank"
+  label="Organiser un appel"
+  href="https://help.skribble.com/meetings/patrick182/identification-chez-skribble"
+  target="_blank"
 %}}
 {{% richtext %}}
 **Des questions?<br>Nous nous ferons un plaisir de vous aider.**
@@ -141,8 +140,8 @@ Skribble s’utilise facilement en dehors du contexte de l’entreprise. <br cla
 {{% /content %}}
 
 {{% cta
-  "Obtenez une e-ID maintenant"
-  "fr/identifions"
+  label="Obtenez une e-ID maintenant"
+  href="fr/identifions"
 %}}
 {{% richtext %}}
 **Choisissez un rendez-vous <br class="hide-for-mobile">et nous vous identifierons.**

@@ -20,10 +20,9 @@ Skribble, gegründet im März 2018, ist ein Schweizer Anbieter von elektronische
 {{% /content %}}
 
 {{% cta
-  "Kontakt"
-  "mailto:kira@skribble.com"
-  ""
-  "Medienkontakt"
+  label="Kontakt"
+  href="mailto:kira@skribble.com"
+  title="Medienkontakt"
 %}}
 
 {{< picture image13 100 "Kira Leuthold Content & Communications bei Skribble" >}}
@@ -35,10 +34,9 @@ Communications & Public Relations
 {{% /cta %}}
 
 {{% cta
-  "Download"
-  "downloads/Skribble-Brand-Assets.zip"
-  ""
-  "Brand-Assets"
+  label="Download"
+  href="downloads/Skribble-Brand-Assets.zip"
+  title="Brand-Assets"
 %}}
 
 {{< picture image14 106 "Notizbuch mit vielen informationen über skribble" >}}

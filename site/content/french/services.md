@@ -36,9 +36,9 @@ Plus vous achetez de signatures dans un forfait prépayé, plus le prix unitaire
 {{% /content %}}
 
 {{% cta
-  "Demander un devis maintenant"
-  "mailto:info@skribble.com"
-  "_blank"
+  label="Demander un devis maintenant"
+  href="mailto:info@skribble.com"
+  target="_blank"
 %}}
 {{% richtext %}}
 **Vous souhaitez en savoir plus sur nos tarifs?**
@@ -66,9 +66,9 @@ Convient si vous utilisez la QES avec un nombre de personnes prédéfini.
 {{% /content %}}
 
 {{% cta
-  "Plus d'informations sur l'identification"
-  "fr/identification"
-  "_blank"
+  label="Plus d'informations sur l'identification"
+  href="fr/identification"
+  target="_blank"
 %}}
 {{% richtext %}}
 **Le contrôle d'identité ne se fait qu'une fois, directement par l'ID-app de Swisscom.**

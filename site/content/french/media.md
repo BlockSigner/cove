@@ -20,10 +20,9 @@ Fondé en mars 2018, Skribble est un fournisseur suisse de signatures électroni
 {{% /content %}}
 
 {{% cta
-  "Contact"
-  "mailto:kira@skribble.com"
-  ""
-  "Kontakt"
+  label="Contact"
+  href="mailto:kira@skribble.com"
+  title="Kontakt"
 %}}
 
 {{< picture image13 100 "Kira Leuthold Content & Communications à Skribble" >}}
@@ -35,10 +34,9 @@ Communication & Relations publiques
 {{% /cta %}}
 
 {{% cta
-  "Télécharger"
-  "downloads/Skribble-Brand-Assets.zip"
-  ""
-  "Ensemble de marques"
+  label="Télécharger"
+  href="downloads/Skribble-Brand-Assets.zip"
+  title="Ensemble de marques"
 %}}
 
 {{< picture image14 106 "Carnet de notes avec beaucoup d'informations sur le skribble" >}}

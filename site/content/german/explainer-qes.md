@@ -52,11 +52,10 @@ Mit dem Validator der Schweizer Bundesverwaltung kannst du prüfen, ob dein Doku
 {{% /content %}}
 
 {{% cta
-  "Zum Bundes-Validator"
-  "https://www.e-service.admin.ch/validator/upload/all/de"
-  "_blank"
-  ""
-  outline
+  label="Zum Bundes-Validator"
+  href="https://www.e-service.admin.ch/validator/upload/all/de"
+  target="_blank"
+  outlined="true"
 %}}
 {{< picture "ch-logo" 54 >}}
 {{% richtext %}}

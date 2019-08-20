@@ -35,9 +35,9 @@ Je mehr, desto günstiger
 {{% /content %}}
 
 {{% cta
-  "Jetzt Offerte anfordern"
-  "mailto:info@skribble.com"
-  "_blank"
+  label="Jetzt Offerte anfordern"
+  href="mailto:info@skribble.com"
+  target="_blank"
 %}}
 {{% richtext %}}
 **Möchtest du mehr über unsere Preise erfahren?**
@@ -64,9 +64,9 @@ Passend, wenn du die QES in einem vordefinierten Personenkreis einsetzt.
 {{% /content %}}
 
 {{% cta
-  "Weitere Infos zur Identifikation"
-  "/identification"
-  "_blank"
+  label="Weitere Infos zur Identifikation"
+  href="/identification"
+  target="_blank"
 %}}
 {{% richtext %}}
 **Die Identitätsprüfung erfolgt einmalig im persönlichen Kontakt mit der ID-App von Swisscom.**

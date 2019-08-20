@@ -34,9 +34,8 @@ More signatures, better value
 {{% /content %}}
 
 {{% cta
-  "Get offer now"
-  "mailto:info@skribble.com"
-  "_blank"
+  label="Get offer now"
+  href="mailto:info@skribble.com"
 %}}
 {{% richtext %}}
 **Would you like to know more about our prices?**
@@ -63,8 +62,8 @@ Suitable if you use QES in a predefined circle of people.
 {{% /content %}}
 
 {{% cta
-  "More about identification"
-  "/identification"
+  label="More about identification"
+  href="/identification"
 %}}
 {{% richtext %}}
 **The identity check is carried out once upon personal contact with the ID app provided by Swisscom.**

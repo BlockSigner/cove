@@ -102,11 +102,9 @@ Skribble sowie Partner (Swisscom) verpflichten sich, Daten gemäss DSG und DSGVO
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
 {{% cta
-  "Mehr erfahren"
-  "de/qes-erklaert"
-  ""
-  ""
-  "outline"
+  label="Mehr erfahren"
+  href="de/qes-erklaert"
+  outlined="true"
 %}}
 
 {{< picture qes-erklaert 122 "Signiert mit Skribble bedeutet rechtsgültig (QES) signiert nach Schweizer und EU-Gesetz." >}}
@@ -145,11 +143,10 @@ Weitere E-IDs folgen in diesem Jahr.
 {{% /richtext %}}
 {{% /content %}}
 {{% cta
-  "Mehr erfahren"
-  "de/identifikation"
-  ""
-  "Für alle anderen bietet Skribble eine passende Identifikationslösung an."
-  "outline"
+  label="Mehr erfahren"
+  href="de/identifikation"
+  title="Für alle anderen bietet Skribble eine passende Identifikationslösung an."
+  outlined="true"
 %}}
 
 {{< picture identifizieren 112 "Signiert mit Skribble bedeutet rechtsgültig (QES) signiert nach Schweizer und EU-Gesetz." >}}

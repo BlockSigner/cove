@@ -64,9 +64,9 @@ Il vous suffit d'avoir un téléphone mobile et un document <br class="hide-for-
 {{% /content %}}
 
 {{% cta
-  "Organiser un rendez-vous"
-  "https://help.skribble.com/meetings/patrick182/consultation-telephone-skribble"
-  "_blank"
+  label="Organiser un rendez-vous"
+  href="https://help.skribble.com/meetings/patrick182/consultation-telephone-skribble"
+  target="_blank"
 %}}
 {{% richtext %}}
 **Choisissez un rendez-vous <br class="hide-for-mobile">et laissez-nous vous identifier**
@@ -108,10 +108,10 @@ Venez vous identifier gratuitement.
 {{% /content %}}
 
 {{% cta
-  "Organiser un rendez-vous"
-  "https://natelprofi.ch/"
-  "_blank"
-  "Belp"
+  label="Organiser un rendez-vous"
+  href="https://natelprofi.ch/"
+  target="_blank"
+  title="Belp"
 %}}
 
 {{< picture map-natelprofi 120 "Natel Profi, Dorfstrasse 6, CH-3123 Belp" >}}
@@ -125,10 +125,10 @@ CH-3123 Belp
 {{% /cta %}}
 
 {{% cta
-  "Organiser un rendez-vous"
-  "https://help.skribble.com/meetings/patrick182/consultation-telephone-skribble"
-  "_blank"
-  "Zürich"
+  label="Organiser un rendez-vous"
+  href="https://help.skribble.com/meetings/patrick182/consultation-telephone-skribble"
+  target="_blank"
+  title="Zürich"
 %}}
 
 {{< picture map-trustsquare 121 "TrustSquare, Bahnhofstrasse 3, CH-8001 Zürich" >}}

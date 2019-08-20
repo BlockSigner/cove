@@ -102,11 +102,9 @@ Skribble et ses partenaires (Swisscom) s'engagent à gérer les données conform
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
 {{% cta
-  "Apprendre plus"
-  "fr/qes-explique"
-  ""
-  ""
-  "outline"
+  label="Apprendre plus"
+  href="fr/qes-explique"
+  outlined="true"
 %}}
 
 {{< picture qes-erklaert 122 "Signé avec Skribble signifie légalement signé selon le droit suisse et européen." >}}
@@ -145,11 +143,10 @@ L'intégration d'autres e-IDs suivra cette année.
 {{% /richtext %}}
 {{% /content %}}
 {{% cta
-  "Apprendre plus"
-  "fr/identification"
-  ""
-  "Pour tous les autres, Skribble offre une solution d'identification adaptée.        "
-  "outline"
+  label="Apprendre plus"
+  href="fr/identification"
+  title="Pour tous les autres, Skribble offre une solution d'identification adaptée."
+  outlined="true"
 %}}
 
 {{< picture identifizieren 112 "Signé avec Skribble signifie légalement signé selon le droit suisse et européen." >}}

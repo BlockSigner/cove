@@ -64,9 +64,9 @@ All you need is a mobile phone and a valid travel document <br class="hide-for-m
 {{% /content %}}
 
 {{% cta
-  "Schedule an appointment"
-  "https://help.skribble.com/meetings/patrick182/identifikation-bei-skribble"
-  "_blank"
+  label="Schedule an appointment"
+  href="https://help.skribble.com/meetings/patrick182/identifikation-bei-skribble"
+  target="_blank"
 %}}
 {{% richtext %}}
 **Make an appointment<br>and get identified**
@@ -107,10 +107,10 @@ Come by and get identified for free.
 {{% /content %}}
 
 {{% cta
-  "Schedule an appointment"
-  "https://natelprofi.ch/"
-  "_blank"
-  "Belp"
+  label="Schedule an appointment"
+  href="https://natelprofi.ch/"
+  target="_blank"
+  title="Belp"
 %}}
 
 {{< picture map-natelprofi 120 "Natel Profi, Dorfstrasse 6, CH-3123 Belp" >}}
@@ -124,10 +124,10 @@ CH-3123 Belp
 {{% /cta %}}
 
 {{% cta
-  "Schedule an appointment"
-  "https://help.skribble.com/meetings/patrick182/telephone-consultation-skribble"
-  "_blank"
-  "Zurich"
+  label="Schedule an appointment"
+  href="https://help.skribble.com/meetings/patrick182/telephone-consultation-skribble"
+  target="_blank"
+  title="Zurich"
 %}}
 
 {{< picture map-trustsquare 121 "TrustSquare, Bahnhofstrasse 3, CH-8001 Zürich" >}}

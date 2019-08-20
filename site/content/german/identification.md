@@ -19,11 +19,10 @@ Für die qualifizierte elektronische Signatur (QES) muss der Unterzeichnende <br
 {{% /content %}}
 
 {{% cta
-  "Download Factsheet"
-  "https://cdn2.hubspot.net/hubfs/5051692/Skribble%20Overview/Skribble_Overview_Identification.pdf"
-  "_blank"
-  ""
-  "outline"
+  label="Download Factsheet"
+  href="https://cdn2.hubspot.net/hubfs/5051692/Skribble%20Overview/Skribble_Overview_Identification.pdf"
+  target="_blank"
+  outlined="true"
 %}}
 {{% richtext %}}
 **Identitätsprüfung für die QES – <br class="hide-for-mobile">Skribble macht es einfach**
@@ -57,10 +56,9 @@ Eine wachsende Anzahl Menschen in Europa verfügt über eine geprüfte elektroni
 {{% /content %}}
 
 {{% cta
-  "Telefonat vereinbaren"
-  "https://help.skribble.com/meetings/patrick182/call-mit-skribble"
-  "_blank"
-  ""
+  label="Telefonat vereinbaren"
+  href="https://help.skribble.com/meetings/patrick182/call-mit-skribble"
+  target="_blank"
 %}}
 {{% richtext %}}
 **Identifikation mit Skribble**<br>
@@ -119,9 +117,9 @@ Passend, wenn laufend <br class="hide-for-mobile">neue Signierende <br class="hi
 
 
 {{% cta
-  "Telefonat vereinbaren"
-  "https://help.skribble.com/meetings/patrick182/call-mit-skribble"
-  "_blank"
+  label="Telefonat vereinbaren"
+  href="https://help.skribble.com/meetings/patrick182/call-mit-skribble"
+  target="_blank"
 %}}
 {{% richtext %}}
 **Hast du Fragen? <br class="hide-for-mobile">Wir helfen dir gerne telefonisch weiter.**
@@ -138,8 +136,8 @@ Skribble kann problemlos ausserhalb des Firmenkontextes genutzt werden. <br clas
 {{% /content %}}
 
 {{% cta
-  "Jetzt E-ID holen"
-  "identitaetspruefung"
+  label="Jetzt E-ID holen"
+  href="identitaetspruefung"
 %}}
 {{% richtext %}}
 **Erfahre mehr, wie Du in wenigen Minuten <br class="hide-for-mobile">zu deiner E-ID kommst!**

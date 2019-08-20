@@ -109,6 +109,7 @@ Skribble and its partners (Swisscom) manage your data in accordance with the DSG
   label="Learn more"
   href="qes-explained"
   target="_blank"
+  outlined="true"
 %}}
 
 {{< picture qes-erklaert 122 "Signed with Skribble means legally signed according to Swiss and EU law." >}}

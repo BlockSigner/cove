@@ -64,9 +64,9 @@ Du benötigst nur ein Mobiltelefon und ein gültiges Reisedokument <br class="hi
 {{% /content %}}
 
 {{% cta
-  "Termin vereinbaren"
-  "https://help.skribble.com/meetings/patrick182/identifikation-bei-skribble"
-  "_blank"
+  label="Termin vereinbaren"
+  href="https://help.skribble.com/meetings/patrick182/identifikation-bei-skribble"
+  target="_blank"
 %}}
 {{% richtext %}}
 **Wähle einen Termin aus <br class="hide-for-mobile">und lass dich identifizieren**
@@ -107,10 +107,10 @@ Komm vorbei und lass dich kostenlos identifzieren.
 {{% /content %}}
 
 {{% cta
-  "Termin vereinbaren"
-  "https://natelprofi.ch/"
-  "_blank"
-  "Belp"
+  label="Termin vereinbaren"
+  href="https://natelprofi.ch/"
+  tarbet="_blank"
+  title="Belp"
 %}}
 
 {{< picture map-natelprofi 120 "Natel Profi, Dorfstrasse 6, CH-3123 Belp" >}}
@@ -124,10 +124,10 @@ CH-3123 Belp
 {{% /cta %}}
 
 {{% cta
-  "Termin vereinbaren"
-  "https://help.skribble.com/meetings/patrick182/identifikation-bei-skribble"
-  "_blank"
-  "Zürich"
+  label="Termin vereinbaren"
+  href="https://help.skribble.com/meetings/patrick182/identifikation-bei-skribble"
+  target="_blank"
+  title="Zürich"
 %}}
 
 {{< picture map-trustsquare 121 "TrustSquare, Bahnhofstrasse 3, CH-8001 Zürich" >}}

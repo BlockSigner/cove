@@ -20,11 +20,10 @@ For the qualified electronic signature (QES), the signatory must <br class="hide
 {{% /content %}}
 
 {{% cta
-  "Download Factsheet"
-  "https://cdn2.hubspot.net/hubfs/5051692/Skribble%20Overview%20EN/Skribble_Overview_Identification_EN.pdf"
-  "_blank"
-  ""
-  "outline"
+  label="Download Factsheet"
+  href="https://cdn2.hubspot.net/hubfs/5051692/Skribble%20Overview%20EN/Skribble_Overview_Identification_EN.pdf"
+  target="_blank"
+  outlined="true"
 %}}
 {{% richtext %}}
 **Identity verification for QES – <br class="hide-for-mobile">Skribble makes it easy**
@@ -60,10 +59,9 @@ A growing number of people in Europe have a verified electronic identity (e-ID).
 
 
 {{% cta
-  "Schedule appointment"
-  "https://help.skribble.com/meetings/patrick182/telephone-consultation-skribble"
-  "_blank"
-  ""
+  label="Schedule appointment"
+  href="https://help.skribble.com/meetings/patrick182/telephone-consultation-skribble"
+  target="_blank"
 %}}
 {{% richtext %}}
 **Identification with Skribble**<br>
@@ -122,9 +120,9 @@ Suitable if you use QES in a predefined circle of people.
 
 
 {{% cta
-  "Schedule a phone call"
-  "https://help.skribble.com/meetings/patrick182/skribble-id-zurich"
-  "_blank"
+  label="Schedule a phone call"
+  href="https://help.skribble.com/meetings/patrick182/skribble-id-zurich"
+  target="_blank"
 %}}
 {{% richtext %}}
 **Any questions?<br>We are happy to help you**
@@ -141,8 +139,8 @@ Skribble can easily be used outside the company context. If you do not yet have 
 {{% /content %}}
 
 {{% cta
-  "Get E-ID now"
-  "identify"
+  label="Get E-ID now"
+  href="identify"
 %}}
 {{% richtext %}}
 **Learn more about how to get <br class="hide-for-mobile">your E-ID in a few minutes!**

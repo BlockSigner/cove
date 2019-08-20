@@ -52,11 +52,10 @@ Le validateur de l'administration fédérale suisse vous permet de vérifier si 
 {{% /content %}}
 
 {{% cta
-  "Vers le validateur fédéral"
-  "https://www.e-service.admin.ch/validator/upload/all/fr"
-  "_blank"
-  ""
-  outline
+  label="Vers le validateur fédéral"
+  href="https://www.e-service.admin.ch/validator/upload/all/fr"
+  target="_blank"
+  outlined="true"
 %}}
 {{< picture ch-logo 54 >}}
 {{% richtext %}}
