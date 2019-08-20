@@ -181,11 +181,20 @@ The heading component is used to arrange a title and a lead text. It centers its
 A little component with dividers at the top and bottom that is used to focus the attention on a single call to action.
 
 **Parameters**
+<<<<<<< HEAD
 1. CTA label
 2. CTA href
 3. CTA target attribute (optional)
 4. titel (optional)
 5. style (optional): `outline`
+=======
+- `label` Adds a label to the button
+- `href` Defines the link href
+- `target` Sets the target attribute
+- `outlined="true"` Applies the outline style to the button
+- `title` Adds a title above the border
+- `floating="true"` Removes the borders around the cta
+>>>>>>> feat(CTA): Switch to named parameters
 
 #### {{< plan >}}
 The `plan` consists of the upper part with 2 titles and the lower part with any number of paragraphs. Paragraphs are divided by a horizontal line.

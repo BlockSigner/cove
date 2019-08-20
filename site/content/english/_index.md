@@ -106,11 +106,9 @@ Skribble and its partners (Swisscom) manage your data in accordance with the DSG
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
 {{% cta
-  "Learn more"
-  "qes-explained"
-  ""
-  ""
-  "outline"
+  label="Learn more"
+  href="qes-explained"
+  target="_blank"
 %}}
 
 {{< picture qes-erklaert 122 "Signed with Skribble means legally signed according to Swiss and EU law." >}}
@@ -137,7 +135,7 @@ An important component of qualified electronic signatures (QES) are digital cert
 {{% content %}}
 {{% heading %}}
 # How to use Skribble to ensure <br class="hide-for-mobile">the identity of the signatories
-Those who have a verified e-ID can sign on Skribble <br class="hide-for-mobile">without additional measures.<br><br> 
+Those who have a verified e-ID can sign on Skribble <br class="hide-for-mobile">without additional measures.<br><br>
 **The following e-IDs allow you to sign with Skribble shortly:**
 {{% /heading %}}
 {{% richtext %}}
@@ -149,11 +147,10 @@ The integration of further e-IDs will follow this year.
 {{% /richtext %}}
 {{% /content %}}
 {{% cta
-  "Learn more"
-  "de/identifikation"
-  ""
-  "For everyone else, Skribble offers a suitable identification solution."
-  "outline"
+  label="Learn more"
+  href="de/identifikation"
+  title="For everyone else, Skribble offers a suitable identification solution."
+  outlined="true"
 %}}
 
 {{< picture identifizieren 112 "Signed with Skribble means legally signed according to Swiss and EU law." >}}
@@ -167,7 +164,7 @@ Let Skribble identify you and start signing immediately.
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
 {{< testimonial "testimonial/logo-fr-110w.png" "Stéphane Schwab – Canton of Fribourg" >}}
-"Skribble offers a customer-friendly <br class="hide-for-mobile">solution for qualified electronic signatures in Switzerland." 
+"Skribble offers a customer-friendly <br class="hide-for-mobile">solution for qualified electronic signatures in Switzerland."
 {{< /testimonial >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
