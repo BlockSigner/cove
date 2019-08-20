@@ -93,6 +93,8 @@ body {
 // as hugo sometimes adds empty paragraphs
 p:empty {
   display: none;
+  margin: 0;
+  padding: 0;
 }
 
 img {

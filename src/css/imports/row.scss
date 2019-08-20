@@ -14,15 +14,10 @@
     @include min-width {
       margin: 0 16px;
       align-self: stretch;
-      &:first-child {
-        margin-left: 0;
-      }
-      &:last-child {
-        margin-right: 0;
-      }
     }
 
     &-inner {
+      width: 100%;
       height: 100%;
     }
   }

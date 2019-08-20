@@ -95,9 +95,7 @@ Wer über keine E-ID verfügt, kann das mit Skribble in Minutenschnelle nachhole
 die Signierenden.
 
 Passend, wenn du die QES <br class="hide-for-mobile">in einem vordefinierten Personenkreis einsetzt.
-
 {{% /plan %}}
-
 {{% plan
   purple
   "Identifikations-Service"
@@ -114,7 +112,6 @@ Passend, wenn laufend <br class="hide-for-mobile">neue Signierende <br class="hi
 {{% /plan %}}
 {{< /row >}}
 {{% /content %}}
-
 
 {{% cta
   label="Telefonat vereinbaren"
