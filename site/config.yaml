@@ -77,7 +77,6 @@ languages:
         titleColumn1: Plattform
         titleColumn2: Lösungen
         titleColumn3: Ressourcen
-        titleColumn4: Über uns
       newsletterTitle: Newsletter
       newsletterText: Elektronische Signaturen und digitales Vertrauen sind brandaktuelle Themen. Bleibe auf dem Laufenden! <br class="hide-for-mobile">Siehe unsere <a href="/de/datenschutz">Datenschutzerklärungen</a>.
   en:
@@ -156,7 +155,6 @@ languages:
         titleColumn1: Platform
         titleColumn2: Solutions
         titleColumn3: Resource
-        titleColumn4: About us
       newsletterTitle: Newsletter
       newsletterText: Electronic signatures and digital trust are hot topics. <br class="hide-for-mobile">Stay up to date! See our <a href="/privacy">privacy policy</a>.
   fr:
@@ -235,6 +233,5 @@ languages:
         titleColumn1: Plateforme
         titleColumn2: Solutions
         titleColumn3: Ressources
-        titleColumn3: À propos de nous
       newsletterTitle: Newsletter
       newsletterText: Les signatures électroniques et la confiance numérique sont des sujets d'actualité. Restez au courant ! <br class="hide-for-mobile">Consultez notre <a href="/fr/politique-de-confidentialite/">politique de confidentialité</a>.
