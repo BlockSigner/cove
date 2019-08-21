@@ -93,7 +93,7 @@ Un passeport ou une carte d'identité en cours de validité. Toutes les autres f
 {{% /collapsible %}}
 
 {{% collapsible 4 "Où sont stockées les données des personnes identifiées?" %}}
-Les données collectées sont stockées sur les serveurs haute sécurité <br class="hide-for-mobile">de Swisscom en Suisse (certification Tier IV). 
+Les données collectées sont stockées sur les serveurs haute sécurité <br class="hide-for-mobile">de Swisscom en Suisse (certification Tier IV).
 {{% /collapsible %}}
 
 {{% /content %}}
@@ -103,7 +103,7 @@ Les données collectées sont stockées sur les serveurs haute sécurité <br cl
 {{% content %}}
 {{% heading %}}
 # Sites d'identification
-Venez vous identifier gratuitement.        
+Venez vous identifier gratuitement.
 {{% /heading %}}
 {{% /content %}}
 
@@ -114,7 +114,13 @@ Venez vous identifier gratuitement.
   title="Belp"
 %}}
 
-{{< picture map-natelprofi 120 "Natel Profi, Dorfstrasse 6, CH-3123 Belp" >}}
+{{< picture
+  name="map-natelprofi"
+  w="120"
+  alt="Natel Profi, Dorfstrasse 6, CH-3123 Belp"
+  href="https://goo.gl/maps/UvxKGxgQ5eooKsA29"
+  target="_target"
+>}}
 
 {{% richtext %}}
 **Natel Profi**<br>
@@ -131,7 +137,13 @@ CH-3123 Belp
   title="Zürich"
 %}}
 
-{{< picture map-trustsquare 121 "TrustSquare, Bahnhofstrasse 3, CH-8001 Zürich" >}}
+{{< picture
+  name="map-trustsquare"
+  w="121"
+  alt="TrustSquare, Bahnhofstrasse 3, CH-8001 Zürich"
+  href="https://goo.gl/maps/PfkFALpqq89meyYf9"
+  target="_blank"
+>}}
 
 {{% richtext %}}
 **TrustSquare**<br>

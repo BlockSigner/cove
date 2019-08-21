@@ -92,7 +92,7 @@ A valid passport or identity card. All other forms of identification <br class="
 {{% /collapsible %}}
 
 {{% collapsible 4 "Where are the data of the identified users stored?" %}}
-The data collected are stored on Swisscom's high-security servers <br class="hide-for-mobile">in Switzerland (Tier IV certification). 
+The data collected are stored on Swisscom's high-security servers <br class="hide-for-mobile">in Switzerland (Tier IV certification).
 {{% /collapsible %}}
 
 {{% /content %}}
@@ -113,7 +113,13 @@ Come by and get identified for free.
   title="Belp"
 %}}
 
-{{< picture map-natelprofi 120 "Natel Profi, Dorfstrasse 6, CH-3123 Belp" >}}
+{{< picture
+  name="map-natelprofi"
+  w="120"
+  alt="Natel Profi, Dorfstrasse 6, CH-3123 Belp"
+  href="https://goo.gl/maps/UvxKGxgQ5eooKsA29"
+  target="_target"
+>}}
 
 {{% richtext %}}
 **Natel Profi**<br>
@@ -130,7 +136,13 @@ CH-3123 Belp
   title="Zurich"
 %}}
 
-{{< picture map-trustsquare 121 "TrustSquare, Bahnhofstrasse 3, CH-8001 Zürich" >}}
+{{< picture
+  name="map-trustsquare"
+  w="121"
+  alt="TrustSquare, Bahnhofstrasse 3, CH-8001 Zürich"
+  href="https://goo.gl/maps/PfkFALpqq89meyYf9"
+  target="_blank"
+>}}
 
 {{% richtext %}}
 **TrustSquare**<br>

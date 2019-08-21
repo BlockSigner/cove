@@ -26,9 +26,6 @@ languages:
         - name: Identitätsprüfung
           url: /de/identitaetspruefung/
           weight: 15
-        - name: QES erklärt
-          url: /de/qes-erklaert/
-          weight: 20
       footer2:
         - name: Mission
           url: /de/ueber-uns/
@@ -43,6 +40,9 @@ languages:
         - name: Help-Center
           url: https://help.skribble.com/deutsch
           weight: 5
+        - name: QES erklärt
+          url: /de/qes-erklaert/
+          weight: 20
       meta:
         - name: Datenschutzbestimmungen
           url: /de/datenschutz
@@ -75,7 +75,7 @@ languages:
           href: https://help.skribble.com/meetings/patrick182/call-mit-skribble
       navigation:
         titleColumn1: Plattform
-        titleColumn2: Lösungen
+        titleColumn2: Über uns
         titleColumn3: Ressourcen
       newsletterTitle: Newsletter
       newsletterText: Elektronische Signaturen und digitales Vertrauen sind brandaktuelle Themen. Bleibe auf dem Laufenden! <br class="hide-for-mobile">Siehe unsere <a href="/de/datenschutz">Datenschutzerklärungen</a>.
@@ -104,9 +104,6 @@ languages:
         - name: Identify
           url: /identify/
           weight: 15
-        - name: QES explained
-          url: /qes-explained/
-          weight: 20
       footer2:
         - name: Mission
           url: /about/
@@ -121,6 +118,9 @@ languages:
         - name: Help-Center
           url: https://help.skribble.com/english
           weight: 5
+        - name: QES explained
+          url: /qes-explained/
+          weight: 20
       meta:
         - name: Privacy Policy
           url: /privacy/
@@ -153,7 +153,7 @@ languages:
           href: https://help.skribble.com/meetings/patrick182/telephone-consultation-skribble
       navigation:
         titleColumn1: Platform
-        titleColumn2: Solutions
+        titleColumn2: About us
         titleColumn3: Resource
       newsletterTitle: Newsletter
       newsletterText: Electronic signatures and digital trust are hot topics. <br class="hide-for-mobile">Stay up to date! See our <a href="/privacy">privacy policy</a>.
@@ -182,9 +182,6 @@ languages:
         - name: Identifions
           url: /fr/identifions/
           weight: 15
-        - name: QES expliqué
-          url: /fr/qes-explique/
-          weight: 20
       footer2:
         - name: Mission
           url: /fr/mission/
@@ -199,6 +196,9 @@ languages:
         - name: Centre d'assistance
           url: https://help.skribble.com/francais
           weight: 5
+        - name: QES expliqué
+          url: /fr/qes-explique/
+          weight: 20
       meta:
         - name: Politique de Confidentialité
           url: /fr/politique-de-confidentialite
@@ -231,7 +231,7 @@ languages:
           href: https://help.skribble.com/meetings/patrick182/consultation-telephone-skribble
       navigation:
         titleColumn1: Plateforme
-        titleColumn2: Solutions
+        titleColumn2: À propos de nous
         titleColumn3: Ressources
       newsletterTitle: Newsletter
       newsletterText: Les signatures électroniques et la confiance numérique sont des sujets d'actualité. Restez au courant ! <br class="hide-for-mobile">Consultez notre <a href="/fr/politique-de-confidentialite/">politique de confidentialité</a>.

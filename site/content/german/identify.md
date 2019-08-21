@@ -117,7 +117,7 @@ Komm vorbei und lass dich kostenlos identifzieren.
   name="map-natelprofi"
   w="120"
   alt="Natel Profi, Dorfstrasse 6, CH-3123 Belp"
-  href="https://goo.gl/maps/bpgSo63dvfcasoqh8"
+  href="https://goo.gl/maps/UvxKGxgQ5eooKsA29"
   target="_target"
 >}}
 
@@ -136,7 +136,13 @@ CH-3123 Belp
   title="Zürich"
 %}}
 
-{{< picture map-trustsquare 121 "TrustSquare, Bahnhofstrasse 3, CH-8001 Zürich" >}}
+{{< picture
+  name="map-trustsquare"
+  w="121"
+  alt="TrustSquare, Bahnhofstrasse 3, CH-8001 Zürich"
+  href="https://goo.gl/maps/PfkFALpqq89meyYf9"
+  target="_blank"
+>}}
 
 {{% richtext %}}
 **TrustSquare**<br>
