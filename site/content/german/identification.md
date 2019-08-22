@@ -134,7 +134,7 @@ Skribble kann problemlos ausserhalb des Firmenkontextes genutzt werden. <br clas
 
 {{% cta
   label="Jetzt E-ID holen"
-  href="identitaetspruefung"
+  href="de/identitaetspruefung"
 %}}
 {{% richtext %}}
 **Erfahre mehr, wie Du in wenigen Minuten <br class="hide-for-mobile">zu deiner E-ID kommst!**

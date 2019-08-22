@@ -10,8 +10,6 @@
   }
 
   + .cta {
-    // subtract 1 additional px to make possible borders fall on top of
-    // each other
     margin-top: -$standard-padding - 1px;
 
     .cta__title {

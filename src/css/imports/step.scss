@@ -8,7 +8,7 @@
   padding: 0 10px;
   @include max-width {
     flex: 1 1 100%;
-    max-width: none;
+    max-width: 340px;
     margin-bottom: 40px;
   }
 
@@ -20,6 +20,7 @@
 
   .richtext {
     flex: 0 0 150px;
+    max-width: 100%;
     padding: 20px 0;
     border-top: 1px solid $c-border;
     border-bottom: 1px solid $c-border;

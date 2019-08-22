@@ -30,7 +30,7 @@ Combinable de manière flexible
 : Les deux offres sont combinables: par exemple, si Monsieur Rochat signe quotidiennement des contrats impliquants différentes parties externes, nous recommandons le modèle forfaitaire pour Monsieur Rochat, et le modèle prépayé pour les parties externes.
 
 Plus il y en a, moins c'est cher
-: Nous avons un barème de prix basé sur le volume: 
+: Nous avons un barème de prix basé sur le volume:
 Plus vous achetez de signatures dans un forfait prépayé, plus le prix unitaire sera bas. Plus vous enregistrez de personnes pour le modèle forfaitaire, plus le prix mensuel par personne sera bas.
 {{% /richtext %}}
 {{% /content %}}

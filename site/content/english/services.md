@@ -36,6 +36,7 @@ More signatures, better value
 {{% cta
   label="Get offer now"
   href="mailto:info@skribble.com"
+  target="_blank"
 %}}
 {{% richtext %}}
 **Would you like to know more about our prices?**
