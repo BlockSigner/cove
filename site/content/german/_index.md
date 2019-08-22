@@ -110,8 +110,7 @@ Skribble sowie Partner (Swisscom) verpflichten sich, Daten gemäss DSG und DSGVO
 {{< picture qes-erklaert 122 "Signiert mit Skribble bedeutet rechtsgültig (QES) signiert nach Schweizer und EU-Gesetz." >}}
 
 {{% richtext %}}
-**Signiert mit Skribble bedeutet:**<br>
-Rechtsgültig signiert nach Schweizer und EU-Gesetz.
+**Warum erfüllt die qualifizierte elektronische Signatur (QES) – den rechtlichen Standard?**<br>
 {{% /richtext %}}
 {{% /cta %}}
 
@@ -138,7 +137,7 @@ Personen mit einer geprüften E-ID können auf Skribble <br class="hide-for-mobi
 {{% /richtext %}}
 
 {{< picture e-id-map 826 "E-ID, wo du in kürze bei Skribble signieren kannst." >}}
-Weitere E-IDs folgen in diesem Jahr.
+{{% center %}}Weitere E-IDs folgen in diesem Jahr.{{% / center %}}
 {{% richtext %}}
 {{% /richtext %}}
 {{% /content %}}

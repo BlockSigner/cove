@@ -44,13 +44,13 @@ Les personnes qui ont une e-ID vérifiée peuvent légalement signer <br class="
 Un nombre croissant de personnes en Europe a une identité électronique <br class="hide-for-mobile">vérifiée (e-ID). Skribble les relie. Des millions d'utilisateurs peuvent commencer <br class="hide-for-mobile">à signer immédiatement.
 
 {{% richtext %}}
-**Vous pouvez signer avec Skribble grâce aux e-ID suivantes sous peu:**
+{{% center %}}**Vous pouvez signer avec Skribble grâce aux e-ID suivantes sous peu:**{{% / center %}}
 {{% /richtext %}}
 
 {{< picture e-id-map 826 "E-ID, où vous pourrez bientôt signer Skribble." >}}
 
 {{% richtext %}}
-**Plus d'e-ID suivront cette année.**
+{{% center %}}**Plus d'e-ID suivront cette année.**{{% / center %}}
 
 &nbsp;
 {{% /richtext %}}

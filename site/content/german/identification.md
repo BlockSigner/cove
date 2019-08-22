@@ -42,13 +42,13 @@ Personen, die über eine geprüfte E-ID verfügen, können auf Skribble ohne zus
 Eine wachsende Anzahl Menschen in Europa verfügt über eine geprüfte elektronische Identität (E-ID). Skribble bindet diese an. So können Millionen von Nutzern sofort mit dem Signieren loslegen.
 
 {{% richtext %}}
-**Mit folgenden E-IDs kannst du in kürze bei Skribble signieren:**
+{{% center %}}**Mit folgenden E-IDs kannst du in kürze bei Skribble signieren:**{{% / center %}}
 {{% /richtext %}}
 
 {{< picture e-id-map 826 "E-ID, wo du in kürze bei Skribble signieren kannst." >}}
 
 {{% richtext %}}
-**Weitere E-IDs folgen in diesem Jahr.**
+{{% center %}}**Weitere E-IDs folgen in diesem Jahr.**{{% / center %}}
 {{% /richtext %}}
 
 &nbsp;

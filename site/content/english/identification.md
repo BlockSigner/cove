@@ -49,7 +49,7 @@ A growing number of people in Europe have a verified electronic identity (e-ID).
 {{< picture e-id-map 826 "E-ID, where you can sign Skribble soon." >}}
 
 {{% richtext %}}
-**More e-IDs will follow this year.**
+{{% center %}}**More e-IDs will follow this year.**{{% /center %}}
 {{% /richtext %}}
 
 &nbsp;
