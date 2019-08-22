@@ -96,8 +96,7 @@ If you do not have an e-ID, Skribble can identify you within minutes.
 %}}
 **We** identify the signatories.
 
-
-Suitable if new signees are constantly being added.
+Suitable if you use QES in a predefined circle of people.
 
 {{% /plan %}}
 
@@ -112,7 +111,7 @@ Suitable if new signees are constantly being added.
 %}}
 **You** identify the signatories.
 
-Suitable if you use QES in a predefined circle of people.
+Suitable if new signees are constantly being added.
 
 {{% /plan %}}
 {{< /row >}}
