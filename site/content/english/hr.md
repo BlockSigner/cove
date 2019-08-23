@@ -113,7 +113,7 @@ All you need is a mobile phone and a valid travel document <br class="hide-for-m
 
 {{% cta
   label="Schedule an appointment"
-  href="https://help.skribble.com/meetings/patrick182/identifikation-bei-skribble"
+  href="https://help.skribble.com/meetings/patrick182/skribble-id-zurich"
   target="_blank"
 %}}
 {{% richtext %}}

@@ -67,28 +67,6 @@ Restez avec des outils familiers: signez à partir de vos programmes existants, 
 
 {{% content %}}
 {{% heading %}}
-# Prêt à signer <br class="hide-for-mobile">dans quelques minutes
-Il vous suffit d'avoir un téléphone mobile et un document <br class="hide-for-mobile">de voyage valide (passeport ou carte d'identité).
-{{% /heading %}}
-{{< picture "create-identity" 385 "Une loupe agrandit l'image d'une femme dans un passeport" >}}
-&nbsp;
-{{% /content %}}
-
-{{% cta
-  label="Organiser un rendez-vous"
-  href="https://help.skribble.com/meetings/patrick182/consultation-telephone-skribble"
-  target="_blank"
-%}}
-{{% richtext %}}
-**Choisissez un rendez-vous <br class="hide-for-mobile">et laissez-nous vous identifier**
-{{% /richtext %}}
-{{% /cta %}}
-
-[//]: # (--------------------------------------------------------------------------------------------------------------)
-
-
-{{% content %}}
-{{% heading %}}
 # Skribble répond <br class="hide-for-mobile">aux exigences légales
 Avec Skribble, vous pouvez signer numériquement <br class="hide-for-mobile">et légalement (QES) et satisfaire aux exigences légales suivantes:
 {{% /heading %}}
