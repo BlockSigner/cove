@@ -130,7 +130,7 @@ Les certificats numériques correspondants sont un élément important de la sig
 {{% content %}}
 {{% heading %}}
 # Comment utiliser Skribble pour s'assurer de l'identité des signataires
-Les personnes ayant une e-ID vérifiée peuvent signer sur Skribble sans mesures supplémentaires. 
+Les personnes ayant une e-ID vérifiée peuvent signer sur Skribble sans mesures supplémentaires.
 **The following e-IDs allow you to sign with Skribble shortly:**
 {{% /heading %}}
 {{% richtext %}}
@@ -155,6 +155,12 @@ Les personnes ayant une e-ID vérifiée peuvent signer sur Skribble sans mesures
 Laissez Skribble vous identifier et commencez à signer immédiatement.
 {{% /richtext %}}
 {{% /cta %}}
+
+[//]: # (--------------------------------------------------------------------------------------------------------------)
+
+{{< testimonial "testimonial/procivis-146w.png" "Daniel Gasteiger, Fondateur et CEO de Procivis (eID+)" >}}
+"La signature électronique des documents devient une fonction essentielle des identités numériques de confiance."
+{{< /testimonial >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 

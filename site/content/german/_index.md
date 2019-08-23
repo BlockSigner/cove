@@ -130,7 +130,7 @@ Ein wichtiger Bestandteil der elektronischen Signatur (QES) sind entsprechende d
 {{% content %}}
 {{% heading %}}
 # So stellst du mit Skribble <br class="hide-for-mobile">die Identität der Signierenden sicher
-Personen mit einer geprüften E-ID können auf Skribble <br class="hide-for-mobile">ohne zusätzliche Massnahmen signieren.<br><br> 
+Personen mit einer geprüften E-ID können auf Skribble <br class="hide-for-mobile">ohne zusätzliche Massnahmen signieren.<br><br>
 **Mit folgenden E-IDs kannst du in kürze bei Skribble signieren:**
 {{% /heading %}}
 {{% richtext %}}
@@ -157,6 +157,13 @@ Lass dich von Skribble identifizieren und leg sofort mit dem Signieren los.
 {{% /cta %}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
+
+{{< testimonial "testimonial/procivis-146w.png" "Daniel Gasteiger, Gründer und CEO von Procivis (eID+)" >}}
+«Das elektronische Signieren von Dokumenten wird eine Kernfunktion vertrauenswürdiger digitaler Identitäten»
+{{< /testimonial >}}
+
+[//]: # (--------------------------------------------------------------------------------------------------------------)
+
 
 {{% content %}}
 {{% heading %}}

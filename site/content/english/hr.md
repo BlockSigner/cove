@@ -11,46 +11,94 @@ og_image: og/og-skribble-identification.jpg
 
 {{% content %}}
 {{% heading %}}
-# We identify you <br class="hide-for-mobile">with the ID app by Swisscom
-Four short steps to get you started signing.
+# Sign electronically in HR
+With Skribble you sign legally and easily<br class="hide-for-mobile"> in a digital way – from employment contracts<br class="hide-for-mobile"> to certificates and wage statements.
+{{% /heading %}}
+{{< picture vertical-hr-main 570 "Three women holding a document in their hands" >}}
+{{% /content %}}
+
+[//]: # (--------------------------------------------------------------------------------------------------------------)
+
+{{< side-by-side >}}
+{{< picture batch-signature 367 "Three contracts signed with batch processing" >}}
+{{% richtext %}}
+## Finish the pile <br class="hide-for-mobile">with only one signature
+New employment contracts for everyone: the authorised signatory no longer signs hundreds of contracts by hand, but signs them all at once with Skribble's batch signature.
+{{% /richtext %}}
+{{< /side-by-side >}}
+
+[//]: # (--------------------------------------------------------------------------------------------------------------)
+
+{{< side-by-side >}}
+{{% richtext %}}
+## Candidates sign <br class="hide-for-mobile">digitally without delay
+Efficient onboarding: You have a better chance of being chosen as an employer and HR administration becomes easier, faster and cheaper.
+{{% /richtext %}}
+{{< picture candidate-sign-digital 392 "A woman sits in a deck chair and signs her employment contract on her tablet" >}}
+{{< /side-by-side >}}
+
+[//]: # (--------------------------------------------------------------------------------------------------------------)
+
+{{< side-by-side >}}
+{{< picture more-efficiency 430 "Man with fountain pen would like to sign three contracts" >}}
+{{% richtext %}}
+## Empower employees <br class="hide-for-mobile">to work more efficiently
+Digitalisation enabler: HR enables the workforce to sign electronically and can manage their everyday work with less bureaucracy.
+{{% /richtext %}}
+{{< /side-by-side >}}
+
+[//]: # (--------------------------------------------------------------------------------------------------------------)
+
+{{< side-by-side >}}
+{{% richtext %}}
+## Sign within <br class="hide-for-mobile">your existing HR software
+Stay with familiar tools: Sign from your existing systems, e.g. Google Drive, One Drive, Drop Box or Secure Safe. Alternatively, you can sign directly via your browser. (Coming end of 2019)
+{{% /richtext %}}
+{{< picture integrations 381 "Man with fountain pen would like to sign three contracts" >}}
+{{< /side-by-side >}}
+
+[//]: # (--------------------------------------------------------------------------------------------------------------)
+
+{{< testimonial "testimonial/e-forsight-146w.png" "e-foresight Think Tank" >}}
+"Skribble offers a customer-friendly solution for qualified electronic signatures in Switzerland."
+{{< /testimonial >}}
+
+[//]: # (--------------------------------------------------------------------------------------------------------------)
+
+{{% content %}}
+{{% heading %}}
+# Skribble complies <br class="hide-for-mobile">with legal requirements
+With Skribble you can create digital and legally binding (QES) signatures. <br class="hide-for-mobile">Skribble complies with the following requirements:
 {{% /heading %}}
 
-{{< row >}}
-{{% step %}}
-{{< picture "identification-step-1" 252 "A magnifying glass magnifies the image of a man in a passport" >}}
-{{% richtext %}}
-**Step 1**<br>
-We scan and check your ID card or passport using Swisscom's ID app.
-{{% /richtext %}}
-{{% /step %}}
+{{% collapsible 1 "Requirement of written form" "check" %}}
+A signature with Skribble is equal to the handwritten signature according to Swiss (OR Art. 14 Para. 2 bis) and EU law (eIDAS No. 910`/`2014 Art. 25 Para. 2).
+{{% /collapsible %}}
 
-{{% step %}}
-{{< picture "identification-step-2" 158 "An electronic identity on a mobile phone" >}}
-{{% richtext %}}
-**Step 2**<br>
-Swisscom verifies the data and stores them securely.
-{{% /richtext %}}
-{{% /step %}}
-{{< /row >}}
+{{% collapsible 2 "Requirements of ZertES and eIDAS" "check" %}}
+Skribble obtains QES certificates from Swisscom, a provider of TRUSTED certificates recognised by ZertES and eIDAS.
+{{% /collapsible %}}
 
-{{< row >}}
-{{% step %}}
-{{< picture "identification-step-3" 270 "A man who has been successfully identified electronically" >}}
-{{% richtext %}}
-**Step 3**<br>
-We update your status to "ready to sign".
-{{% /richtext %}}
-{{% /step %}}
-
-{{% step %}}
-{{< picture "identification-step-4" 270 "A person holds a legal document in their hands. The Swisscom logo is in the background" >}}
-{{% richtext %}}
-**Step 4**<br>
-You can now use Skribble to sign electronically in a qualified manner.
-{{% /richtext %}}
-{{% /step %}}
-{{< /row >}}
+{{% collapsible 3 "Requirements of CH and EU data protection regulation" "check" %}}
+Skribble and its partners (Swisscom) manage your data in accordance with the DSG and DSGVO.
+{{% /collapsible %}}
 {{% /content %}}
+
+[//]: # (--------------------------------------------------------------------------------------------------------------)
+
+{{% cta
+  label="Learn more"
+  href="qes-explained"
+  target="_blank"
+  outlined="true"
+%}}
+
+{{< picture qes-erklaert 122 "Signed with Skribble means legally signed according to Swiss and EU law." >}}
+
+{{% richtext %}}
+**Why does the qualified electronic signature (QES) sets a digital standard by the law?**<br>
+{{% /richtext %}}
+{{% /cta %}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
@@ -75,87 +123,43 @@ All you need is a mobile phone and a valid travel document <br class="hide-for-m
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
+{{< testimonial "testimonial/procivis-146w.png" "Daniel Gasteiger, founder and CEO of Procivis (eID+)" >}}
+"The electronic signing of documents becomes a core function of trusted digital identities"
+{{< /testimonial >}}
+
+[//]: # (--------------------------------------------------------------------------------------------------------------)
+
 {{% content %}}
 {{% heading %}}
 # All clear?
 {{% /heading %}}
 
-{{% collapsible 1 "Why do I need to be identified?" %}}
-At Skribble you sign with the qualified electronic signature (QES). This is the highest e-signature standard. For this, the law requires an identity verification through personal contact. Exceptions are financial intermediaries who may <br class="hide-for-mobile">carry out identity verification using video identification.{{% /collapsible %}}
-
-{{% collapsible 2 "Do I have to be identified again before each signature?" %}}
-No. Your e-ID is valid for 5 years or until the expiry of the document of identification you presented during identification.
+{{% collapsible 10 "Where are the documents signed with Skribble stored?" %}}
+Skribble' s data centre is located in Switzerland and is ISO 270001 certified (according to banking standards).         
 {{% /collapsible %}}
 
-{{% collapsible 3 "Which identification documents can I use for identification?" %}}
-A valid passport or identity card. All other forms of identification <br class="hide-for-mobile">such as a residence permit or driving licence are not sufficient.
+{{% collapsible 11 "How can Skribble be sure that the right person has signed?" %}}
+All signatories are identified in advance. During signing, the signing person confirms his or her identity in two steps, the so-called two-factor authentication. This includes an SMS with a one-time password or the Mobile ID. The process is similar to logging into e-banking.
 {{% /collapsible %}}
 
-{{% collapsible 4 "Where are the data of the identified users stored?" %}}
-The data collected are stored on Swisscom's high-security servers <br class="hide-for-mobile">in Switzerland (Tier IV certification).
+{{% collapsible 12 "Is signing with Skribble legally binding?" %}}
+Yes, Skribble is based on the qualified electronic signature (QES). The QES is the only form of electronic signature that is equivalent to the handwritten signature before Swiss (OR Art. 14 Para. 2 bis) and EU law (eIDAS No. 910/2014 Art. 25 Para. 2). 
+{{% /collapsible %}}
+
+{{% collapsible 13 "Can I store the digitally signed contract in paper form?" %}}
+Not exclusively. Thanks to the visual signature, it can be seen on the printed contract that it has been digitally signed. However, since the digital certificates are lost when printed out, the traceability of the signature and thus the corresponding conclusiveness is not given. A contract signed with a qualified electronic signature must therefore always be stored in electronic form.
+{{% /collapsible %}}
+
+{{% collapsible 14 "How long is a Skribble signature legally binding?" %}}
+The QES is legally valid for an unlimited period of time.                
 {{% /collapsible %}}
 
 {{% /content %}}
-
-[//]: # (--------------------------------------------------------------------------------------------------------------)
-
-{{% content %}}
-{{% heading %}}
-# Identifcation sites
-Come by and get identified for free.
-{{% /heading %}}
-{{% /content %}}
-
-{{% cta
-  label="Schedule an appointment"
-  href="https://natelprofi.ch/"
-  target="_blank"
-  title="Belp"
-%}}
-
-{{< picture
-  name="map-natelprofi"
-  w="120"
-  alt="Natel Profi, Dorfstrasse 6, CH-3123 Belp"
-  href="https://goo.gl/maps/UvxKGxgQ5eooKsA29"
-  target="_target"
->}}
-
-{{% richtext %}}
-**Natel Profi**<br>
-Dorfstrasse 6<br>
-CH-3123 Belp
-
-{{% /richtext %}}
-{{% /cta %}}
-
-{{% cta
-  label="Schedule an appointment"
-  href="https://help.skribble.com/meetings/patrick182/telephone-consultation-skribble"
-  target="_blank"
-  title="Zurich"
-%}}
-
-{{< picture
-  name="map-trustsquare"
-  w="121"
-  alt="TrustSquare, Bahnhofstrasse 3, CH-8001 Zürich"
-  href="https://goo.gl/maps/PfkFALpqq89meyYf9"
-  target="_blank"
->}}
-
-{{% richtext %}}
-**TrustSquare**<br>
-Bahnhofstrasse 3<br>
-CH-8001 Zürich
-
-{{% /richtext %}}
-{{% /cta %}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
 {{< outro >}}
-{{< picture image8 414 "A man stands next to an electronic document with a giant fountain pen" >}}
+{{< picture image8 414 >}}
 
 {{% richtext %}}
 {{% heading %}}
