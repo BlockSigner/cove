@@ -66,17 +66,17 @@ Mit dem Validator der Schweizer Bundesverwaltung kannst du prüfen, ob dein Doku
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
 {{< outro >}}
-{{< picture image8 414 >}}
+{{< picture image8 414 "Ein mann steht mit einem riesen füller neben einem elektronischen dokument" >}}
 
 {{% richtext %}}
 {{% heading %}}
-# Sign now, legally valid electronically!
-No credit card, entrance fee or commitment required.
+# Jetzt rechtsgültig elektronisch signieren!
+Keine Kreditkarte, Eintrittsgebühr oder Verpflichtung erforderlich.
 {{% /heading %}}
 
 {{< button
-  "Try it now"
-  "https://my.skribble.com/signup?lang=en"
+  "Jetzt ausprobieren"
+  "https://my.skribble.com/signup?lang=de"
   "_blank"
 >}}
 {{% /richtext %}}

@@ -66,17 +66,17 @@ Le validateur de l'administration fédérale suisse vous permet de vérifier si 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
 {{< outro >}}
-{{< picture image8 414 >}}
+{{< picture image8 414 "Un homme se tient à côté d'un document électronique avec un stylo plume géant" >}}
 
 {{% richtext %}}
 {{% heading %}}
-# Sign now, legally valid electronically!
-No credit card, entrance fee or commitment required.
+# Signer légalement <br class="hide-for-mobile">et numériquement maintenant!
+Aucune carte de crédit, aucun droit d'entrée <br class="hide-for-mobile">ou engagement n'est requis.
 {{% /heading %}}
 
 {{< button
-  "Try it now"
-  "https://my.skribble.com/signup?lang=en"
+  "Essayer maintenant"
+  "https://my.skribble.com/signup?lang=fr"
   "_blank"
 >}}
 {{% /richtext %}}
