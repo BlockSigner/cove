@@ -82,20 +82,20 @@ Vous signez légalement par simple pression <br class="hide-for-mobile">d'un bou
 
 {{% content %}}
 {{% heading %}}
-# Skribble répond aux exigences légales
-Avec Skribble, vous pouvez signer numériquement et légalement (QES) <br class="hide-for-mobile">et satisfaire aux exigences légales suivantes:
+# Avec Skribble, vous remplissez les exigences légales
+Avec Skribble, vous signez légalement et en toute sécurité en remplissant les conditions suivantes:
 {{% /heading %}}
 
-{{% collapsible 1 "L'exigence de la forme écrite" "check" %}}
-La QES équivaut à la signature manuscrite devant le droit suisse (art. 14, al. 2 bis CO) et européen (eIDAS n° 910/2014 art. 25, al. 2)
+{{% collapsible 1 "Exigence de la forme écrite selon le CO/ eIDAS" "check" %}}
+Skribble se base sur la signature électronique qualifiée QES. Celle-ci équivaut à une signature manuscrite devant le droit suisse et européen.
 {{% /collapsible %}}
 
-{{% collapsible 2 "La SCSE et l'eIDAS" "check" %}}
-Skribble obtient la QES auprès de Swisscom, un fournisseur de certificats électroniques reconnus par la SCSE et l'eIDAS.
+{{% collapsible 2 "Signature électronique qualifiée selon SCSE/ eIDAS " "check" %}}
+Skribble obtient la QES de Swisscom, un fournisseur de certificats électroniques agréé par l'Etat selon la SCSE et l'eIDAS.
 {{% /collapsible %}}
 
-{{% collapsible 3 "Exigences relatives à la protection des données en Suisse et dans l'UE" "check" %}}
-Skribble et ses partenaires (Swisscom) s'engagent à gérer les données conformément à la LPD et au RGPD.
+{{% collapsible 3 "Protection des données selon LPD/ RGPD" "check" %}}
+Skribble et ses partenaires gèrent leurs données conformément à la loi fédérale sur la protection des données (LPD) et au réglement européen sur la protection des données (RGPD) et les hébergent en Suisse conformément aux normes bancaires.
 {{% /collapsible %}}
 {{% /content %}}
 

@@ -2,7 +2,7 @@
 title:
 description:
 draft: false
-slug: ressources-humaines
+slug: juristes
 
 # opengraph image (for facebook and twitter)
 og_image: og/og-skribble-identification.jpg
@@ -11,19 +11,19 @@ og_image: og/og-skribble-identification.jpg
 
 {{% content %}}
 {{% heading %}}
-# Signer électroniquement <br class="hide-for-mobile">dans les RH
-Avec Skribble, vous signez en toute sécurité juridique et en toute simplicité <br class="hide-for-mobile">par voie numérique – des contrats de travail aux références en passant <br class="hide-for-mobile">par les certificats de salaire.
+# Signature électronique pour juristes
+Avec Skribble vous signez sans matériel supplémentaire <br class="hide-for-mobile">avec la signature électronique qualifiée (QES).
 {{% /heading %}}
-{{< picture vertical-hr-main 570 "Trois femmes tenant un contrat entre leurs mains" >}}
+{{< picture vertical-lawyer-main 560 "L'un traite de différents processus contractuels" >}}
 {{% /content %}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
 {{< side-by-side >}}
-{{< picture batch-signature 367 "Trois contrats sont signés par lots" >}}
+{{< picture sign-parallel 387 "L'homme signe un contrat avec deux autres personnes" >}}
 {{% richtext %}}
-## Compléter le lot <br class="hide-for-mobile">avec une seule signature
-De nouveaux contrats de travail pour tous: le signataire autorisé ne signe plus des centaines de contrats à la main, mais les signe tous à la fois avec la signature par lots de Skribble.
+## Toutes les parties contractantes signent en parallèle
+Parties contractantes multiples: au lieu de s'envoyer des contrats par la poste, elles signent toutes en ligne, ce qui leur fait gagner du temps.
 {{% /richtext %}}
 {{< /side-by-side >}}
 
@@ -31,19 +31,19 @@ De nouveaux contrats de travail pour tous: le signataire autorisé ne signe plus
 
 {{< side-by-side >}}
 {{% richtext %}}
-## Signature numérique <br class="hide-for-mobile">sans délai des candidats 
-Une intégration efficace: vous avez plus de chances d'être choisi comme employeur et l'administration des RH devient plus facile, plus rapide et moins coûteuse.
+## Complétez la pile <br class="hide-for-mobile">avec une seule signature
+Dossier de signature numérique: collectez vos contrats numériquement et signez-les simultanément en quelques clics. Grâce au standard QES, vous n'avez pas besoin d'une clé USB ou d'un lecteur de carte.
 {{% /richtext %}}
-{{< picture candidate-sign-digital 392 "Une femme s'assoit sur une chaise longue et signe un contrat sur sa tablette." >}}
+{{< picture batch-process 380 "Une agrafe de documents peut être signée en un seul clic" >}}
 {{< /side-by-side >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
 {{< side-by-side >}}
-{{< picture more-efficiency 430 "Homme signé avec un stylo plume trois contrats" >}}
+{{< picture authorities-input 394 "Deux personnes interviennent pas à pas auprès des autorités" >}}
 {{% richtext %}}
-## Habiliter les employés <br class="hide-for-mobile">pour plus d'efficacité
-Facilitateur de la numérisation: les RH permettent au personnel de signer électroniquement et de faire face au travail quotidien avec moins de bureaucratie.
+## Faites des soumissions <br class="hide-for-mobile">aux autorités en ligne.
+Des inscriptions au registre du commerce aux inscriptions notariales: il n'est pas nécessaire d'imprimer, d'envoyer ou de scanner. (A venir fin 2019)
 {{% /richtext %}}
 {{< /side-by-side >}}
 
@@ -51,36 +51,36 @@ Facilitateur de la numérisation: les RH permettent au personnel de signer élec
 
 {{< side-by-side >}}
 {{% richtext %}}
-## Signez directement <br class="hide-for-mobile">dans vos logiciels RH
+## Signer directement depuis le logiciel de votre cabinet d'avocats
 Restez avec des outils familiers: signez à partir de vos programmes existants, par exemple Google Drive, One Drive, Drop Box ou Secure Safe. Vous pouvez également vous connecter directement via votre navigateur. (A venir fin 2019)
 {{% /richtext %}}
-{{< picture integrations 381 "Un homme signé avec un stylo plume aimerait trois contrats" >}}
+{{< picture crm-systeme-lawyer 421 "Signez à partir de vos systèmes existants, par exemple WinJur ou Vertec." >}}
 {{< /side-by-side >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
 {{< testimonial "testimonial/e-forsight-146w.png" "Think tank e-foresight" >}}
-"Skribble offre une solution <br class="hide-for-mobile">conviviale pour des signatures électroniques qualifiées en Suisse."
+"Skribble offre une solution conviviale <br class="hide-for-mobile">pour des signatures électroniques qualifiées en Suisse."
 {{< /testimonial >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
 {{% content %}}
 {{% heading %}}
-# Skribble répond <br class="hide-for-mobile">aux exigences légales
-Avec Skribble, vous pouvez signer numériquement <br class="hide-for-mobile">et légalement (QES) et satisfaire aux exigences légales suivantes:
+# Avec Skribble, vous répondez aux exigences des procédures légales.
+Avec Skribble, vous signez légalement et en toute sécurité <br class="hide-for-mobile">en remplissant les conditions suivantes:
 {{% /heading %}}
 
-{{% collapsible 1 "L'exigence de la forme écrite" "check" %}}
-La QES équivaut à la signature manuscrite devant le droit suisse (art. 14, al. 2 bis CO) et européen (eIDAS n° 910/2014 art. 25, al. 2)
+{{% collapsible 1 "Exigence de la forme écrite selon le CO/ eIDAS" "check" %}}
+Skribble se base sur la signature électronique qualifiée QES. Celle-ci équivaut à une signature manuscrite devant le droit suisse et européen.
 {{% /collapsible %}}
 
-{{% collapsible 2 "La SCSE et l'eIDAS" "check" %}}
-Skribble obtient la QES auprès de Swisscom, un fournisseur de certificats électroniques reconnus par la SCSE et l'eIDAS.
+{{% collapsible 2 "Signature électronique qualifiée selon SCSE/ eIDAS " "check" %}}
+Skribble obtient la QES de Swisscom, un fournisseur de certificats électroniques agréé par l'Etat selon la SCSE et l'eIDAS.
 {{% /collapsible %}}
 
-{{% collapsible 3 "Exigences relatives à la protection des données en Suisse et dans l'UE" "check" %}}
-Skribble et ses partenaires (Swisscom) s'engagent à gérer les données conformément à la LPD et au RGPD.
+{{% collapsible 3 "Protection des données selon LPD/ RGPD" "check" %}}
+Skribble et ses partenaires gèrent leurs données conformément à la loi fédérale sur la protection des données (LPD) et au réglement européen sur la protection des données (RGPD) et les hébergent en Suisse conformément aux normes bancaires.
 {{% /collapsible %}}
 {{% /content %}}
 
@@ -99,7 +99,7 @@ Skribble et ses partenaires (Swisscom) s'engagent à gérer les données conform
 {{% /richtext %}}
 {{% /cta %}}
 
-[[//]: # (--------------------------------------------------------------------------------------------------------------)
+[//]: # (--------------------------------------------------------------------------------------------------------------)
 
 {{% content %}}
 {{% heading %}}
@@ -126,6 +126,7 @@ Il vous suffit d'avoir un téléphone mobile et un document <br class="hide-for-
 "La signature électronique des documents devient une fonction essentielle des identités numériques de confiance." 
 {{< /testimonial >}}
 
+
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
 
@@ -142,8 +143,8 @@ Le centre de données Skribble est situé en Suisse et est certifié ISO 270001 
 Tous les signataires sont identifiés à l'avance. Lors de la signature, le signataire confirme son identité en deux étapes, appelées authentification à deux facteurs. Cela inclut un SMS avec un mot de passe unique ou l'identifiant Mobile ID. Le processus s'apparente à la connexion à un e-banking.
 {{% /collapsible %}}
 
-{{% collapsible 12 "Est-ce que signer avec Skribble est légalement sécurisé?" %}}
-Oui, Skribble est basé sur la signature électronique qualifiée (QES). La QES est la seule forme de signature électronique équivalente à la signature manuscrite devant le droit suisse (art. 14 2bis CO) et européen (art. 25 al. 2 eIDAS). 
+{{% collapsible 12 "Ai-je besoin de matérield'un hardware supplémentaire pour signer avec Skribble?" %}}
+Non. Vous n'avez ni besoin d'une clé USB ni d'un lecteur de carte pour signer avec Skribble. L'authentification à deux facteurs s'effectue avec Skribble via téléphone mobile (Mobile ID ou mot de passe à usage unique).
 {{% /collapsible %}}
 
 {{% collapsible 13 "Puis-je conserver le contrat signé numériquement sur papier?" %}}

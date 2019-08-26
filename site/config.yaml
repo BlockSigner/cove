@@ -30,6 +30,9 @@ languages:
         - name: HR
           url: /de/hr/
           weight: 5
+        - name: Anwälte
+          url: /de/anwaelte/
+          weight: 10
       footer3:
         - name: Mission
           url: /de/ueber-uns/
@@ -117,6 +120,9 @@ languages:
         - name: HR
           url: /hr/
           weight: 5
+        - name: Lawyer
+          url: /lawyer/
+          weight: 10
       footer3:
         - name: Mission
           url: /about/
@@ -203,6 +209,9 @@ languages:
         - name: Ressources humaines
           url: /fr/ressources-humaines/
           weight: 5
+        - name: Juristes
+          url: /fr/juristes/
+          weight: 10
       footer3:
         - name: Mission
           url: /fr/mission/

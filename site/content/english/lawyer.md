@@ -2,7 +2,7 @@
 title:
 description:
 draft: false
-slug: hr
+slug: lawyer
 
 # opengraph image (for facebook and twitter)
 og_image: og/og-skribble-identification.jpg
@@ -11,19 +11,39 @@ og_image: og/og-skribble-identification.jpg
 
 {{% content %}}
 {{% heading %}}
-# Sign electronically in HR
-With Skribble you sign legally and easily<br class="hide-for-mobile"> in a digital way – from employment contracts<br class="hide-for-mobile"> to certificates and wage statements.
+# Electronic signature for lawyers
+With Skribble you sign without additional hardware <br class="hide-for-mobile">with the qualified electronic signature (QES).
 {{% /heading %}}
-{{< picture vertical-hr-main 570 "Three women holding a document in their hands" >}}
+{{< picture vertical-lawyer-main 560 "man handle different document processes" >}}
 {{% /content %}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
 {{< side-by-side >}}
-{{< picture batch-signature 367 "Three contracts signed with batch processing" >}}
+{{< picture sign-parallel 387 "Man sign a contract with two other people at the same time" >}}
+{{% richtext %}}
+## All contractual parties <br class="hide-for-mobile">sign electronically
+Multiple contractual parties: Instead of sending contracts by post from one person to the next, everyone signs online, saving time.
+{{% /richtext %}}
+{{< /side-by-side >}}
+
+[//]: # (--------------------------------------------------------------------------------------------------------------)
+
+{{< side-by-side >}}
 {{% richtext %}}
 ## Finish the pile <br class="hide-for-mobile">with only one signature
-New employment contracts for everyone: the authorised signatory no longer signs hundreds of contracts by hand, but signs them all at once with Skribble's batch signature.
+Digital signature folder: Collect your contracts digitally and sign them simultaneously with just a few clicks. Despite the QES standard, you don't need a USB stick or card reader.
+{{% /richtext %}}
+{{< picture batch-process 380 "A stack of documents is signed with one click" >}}
+{{< /side-by-side >}}
+
+[//]: # (--------------------------------------------------------------------------------------------------------------)
+
+{{< side-by-side >}}
+{{< picture authorities-input 394 "Two people make step-by-step entries to authorities." >}}
+{{% richtext %}}
+## Entries with authorities made online
+From commercial register to notarial entries: Printing, sending and scanning are no longer necessary. (Coming end of 2019)
 {{% /richtext %}}
 {{< /side-by-side >}}
 
@@ -31,30 +51,10 @@ New employment contracts for everyone: the authorised signatory no longer signs 
 
 {{< side-by-side >}}
 {{% richtext %}}
-## Candidates sign <br class="hide-for-mobile">digitally without delay
-Efficient onboarding: You have a better chance of being chosen as an employer and HR administration becomes easier, faster and cheaper.
+## Sign within your law firm software
+Stay with familiar tools: Sign from your existing systems, e.g. WinJur oder Vertec. Alternatively, you can sign directly via your browser. (Coming end of 2019)
 {{% /richtext %}}
-{{< picture candidate-sign-digital 392 "A woman sits in a deck chair and signs her employment contract on her tablet" >}}
-{{< /side-by-side >}}
-
-[//]: # (--------------------------------------------------------------------------------------------------------------)
-
-{{< side-by-side >}}
-{{< picture more-efficiency 430 "Man with fountain pen would like to sign three contracts" >}}
-{{% richtext %}}
-## Empower employees <br class="hide-for-mobile">to work more efficiently
-Digitalisation enabler: HR enables the workforce to sign electronically and can manage their everyday work with less bureaucracy.
-{{% /richtext %}}
-{{< /side-by-side >}}
-
-[//]: # (--------------------------------------------------------------------------------------------------------------)
-
-{{< side-by-side >}}
-{{% richtext %}}
-## Sign within <br class="hide-for-mobile">your existing HR software
-Stay with familiar tools: Sign from your existing systems, e.g. Google Drive, One Drive, Drop Box or Secure Safe. Alternatively, you can sign directly via your browser. (Coming end of 2019)
-{{% /richtext %}}
-{{< picture integrations 381 "Existing systems, e.g. Google Drive, One Drive, Drop Box or Secure Safe" >}}
+{{< picture crm-systeme-lawyer 421 "Existing systems, e.g. Google Drive, One Drive, Drop Box or Secure Safe" >}}
 {{< /side-by-side >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
@@ -67,20 +67,20 @@ Stay with familiar tools: Sign from your existing systems, e.g. Google Drive, On
 
 {{% content %}}
 {{% heading %}}
-# Skribble complies with the legal requirements for HR processes
+# Skribble complies with the legal requirements for court processes
 You sign with legal effect and securely in accordance with the following requirements:
 {{% /heading %}}
 
-{{% collapsible 1 "Requirement of written form" "check" %}}
-A signature with Skribble is equal to the handwritten signature according to Swiss (OR Art. 14 Para. 2 bis) and EU law (eIDAS No. 910`/`2014 Art. 25 Para. 2).
+{{% collapsible 1 "Requirement of written form according to OR/eIDAS" "check" %}}
+Skribble is based on the qualified electronic signature (QES). The QES is equivalent to a handwritten signature according to Swiss and EU law.
 {{% /collapsible %}}
 
-{{% collapsible 2 "Requirements of ZertES and eIDAS" "check" %}}
-Skribble obtains QES certificates from Swisscom, a provider of TRUSTED certificates recognised by ZertES and eIDAS.
+{{% collapsible 2 "Qualified electronic signature according to ZertES/eIDAS" "check" %}}
+Skribble obtains QES from Swisscom, a provider of electronic certificates recognised under ZertES and eIDAS.
 {{% /collapsible %}}
 
-{{% collapsible 3 "Requirements of CH and EU data protection regulation" "check" %}}
-Skribble and its partners (Swisscom) manage your data in accordance with the DSG and DSGVO.
+{{% collapsible 3 "Data protection according to FADP/GDPR" "check" %}}
+Skribble and its signing partner Swisscom commit to manage data in accordance with the Federal Act on Data Protection (FADP) and the General Data Protection Regulation (GDPR). Moreover, all data is hosted <br class="hide-for-mobile">in Switzerland according to banking standards.
 {{% /collapsible %}}
 {{% /content %}}
 
@@ -142,8 +142,8 @@ Skribble' s data centre is located in Switzerland and is ISO 270001 certified (a
 All signatories are identified in advance. During signing, the signing person confirms his or her identity in two steps, the so-called two-factor authentication. This includes an SMS with a one-time password or the Mobile ID. The process is similar to logging into e-banking.
 {{% /collapsible %}}
 
-{{% collapsible 12 "Is signing with Skribble legally binding?" %}}
-Yes, Skribble is based on the qualified electronic signature (QES). The QES is the only form of electronic signature that is equivalent to the handwritten signature before Swiss (OR Art. 14 Para. 2 bis) and EU law (eIDAS No. 910/2014 Art. 25 Para. 2). 
+{{% collapsible 12 "Do I need additional hardware for signing with Skribble?" %}}
+No. You don't need a USB stick or a card reader to sign with Skribble. The two-factor authentication takes place with Skribble via mobile phone (Mobile ID or one time password).
 {{% /collapsible %}}
 
 {{% collapsible 13 "Can I store the digitally signed contract in paper form?" %}}

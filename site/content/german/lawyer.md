@@ -2,7 +2,7 @@
 title:
 description:
 draft: false
-slug: hr
+slug: anwaelte
 
 # opengraph image (for facebook and twitter)
 og_image: og/og-skribble-identification.jpg
@@ -11,19 +11,19 @@ og_image: og/og-skribble-identification.jpg
 
 {{% content %}}
 {{% heading %}}
-# Elektronisch signieren im HR
-Mit Skribble signierst du rechtssicher und einfach auf digitalem Weg – von Arbeitsverträgen über Zeugnisse bis hin zu Lohnausweisen
+# Elektronische Signatur für Anwälte
+Über Skribble signiertst du ohne zusätzliche Hardware <br class="hide-for-mobile">mit der qualifizierten elektronischen Signatur (QES).
 {{% /heading %}}
-{{< picture vertical-hr-main 570 "Drei Frauen halten einen Vertrag in der Hand" >}}
+{{< picture vertical-lawyer-main 560 "Man erledigt verschiedene Vertragprozesse" >}}
 {{% /content %}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
 {{< side-by-side >}}
-{{< picture batch-signature 367 "Drei Verträge werden mit dem Stapelverfahren signiert" >}}
+{{< picture sign-parallel 387 "Mann signiert mit zwei weiteren Personen einen Vertrag" >}}
 {{% richtext %}}
-## Erledige den Stapel <br class="hide-for-mobile">mit nur einer Signatur
-Neue Arbeitsverträge für alle: der Unterschriftsberechtigte unterzeichnet nicht mehr hunderte Verträge von Hand, sondern signiert alle auf einmal mit der Stapelsignatur von Skribble.
+## Alle Vertragsparteien signieren parallel
+Mehrere Vertragsparteien: Statt Verträge per Post von einer Person zur nächsten zu schicken, signieren alle zeitsparend online.
 {{% /richtext %}}
 {{< /side-by-side >}}
 
@@ -31,30 +31,30 @@ Neue Arbeitsverträge für alle: der Unterschriftsberechtigte unterzeichnet nich
 
 {{< side-by-side >}}
 {{% richtext %}}
-## Kandidaten signieren <br class="hide-for-mobile">ohne Verzögerung digital
-Effizientes Onboarding: Du hast bessere Chancen, als Arbeitgeber gewählt zu werden und die HR-Administration wird einfacher, schneller und günstiger.
+## Erledige den Stapel mit nur einer Signatur
+Digitale Unterschriftsmappe: Sammle deine Verträge digital und signiere sie gleichzeitig mit wenigen Klicks. Einen USB-Stick oder Card-Reader brauchst du trotz QES-Standard nicht.
 {{% /richtext %}}
-{{< picture candidate-sign-digital 392 "Eine Frau sitzt auf einem Liegestuhl und unterzeichnet auf ihrem Tablet einen Vertrag" >}}
+{{< picture batch-process 380 "Ein Stappel Dokumente werden mit einem Klick signiert" >}}
+{{< /side-by-side >}} 
+
+[//]: # (--------------------------------------------------------------------------------------------------------------)
+
+{{< side-by-side >}}
+{{< picture authorities-input 394 "Zwei Leute machen Schritt-für Schritt eine Behörden Eingabe" >}}
+{{% richtext %}}
+## Eingaben bei Behörden machst du online
+Von Handelsregistereinträgen bis Notariatseingaben: Das Ausdrucken, Versenden und Einscannen entfällt. (Kommt Ende 2019)
+{{% /richtext %}}
 {{< /side-by-side >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
 {{< side-by-side >}}
-{{< picture more-efficiency 430 "Mann unterzeichnet mit einem Füllfederhalter drei Verträge" >}}
 {{% richtext %}}
-## Befähige Mitarbeitende <br class="hide-for-mobile">zu mehr Effizienz
-Digitalisierungs-Enabler: Die Belegschaft wird durch das HR zum elektronsichen Signieren befähigt und kann den Arbeitsalltag mit weniger Bürokratie bestreiten.
+## Signiere innerhalb deiner Kanzlei-Software
+Bei gewohnten Tools bleiben: Signiere aus deinen bestehenden Systemen heraus, z.B. WinJur oder Vertec. Alternativ signierst du direkt über den Browser. (Kommt Ende 2019)
 {{% /richtext %}}
-{{< /side-by-side >}}
-
-[//]: # (--------------------------------------------------------------------------------------------------------------)
-
-{{< side-by-side >}}
-{{% richtext %}}
-## Signiere innerhalb <br class="hide-for-mobile">deines bestehenden HRMs
-Bei gewohnten Tools bleiben: Signiere aus deinen bestehenden Systemen heraus, z.B. Google Drive, One Drive, Drop Box oder Secure Safe. Alternativ signierst du direkt über den Browser. (Kommt Ende 2019)
-{{% /richtext %}}
-{{< picture integrations 381 "Mann unterzeichnet mit einem Füllfederhalter möchte drei Verträg" >}}
+{{< picture crm-systeme-lawyer 421 "Signiere aus deinen gewohnten Tools heraus, beispielsweise WinJur oder Vertec. " >}}
 {{< /side-by-side >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
@@ -67,20 +67,20 @@ Bei gewohnten Tools bleiben: Signiere aus deinen bestehenden Systemen heraus, z.
 
 {{% content %}}
 {{% heading %}}
-# Skribble erfüllt die rechtlichen Bestimmungen
-Mit Skribble kannst du digital und rechtsgültig (QES) signieren und <br class="hide-for-mobile">erfüllst dabei die folgenden gesetzlichen Anforderungen:
+# Mit Skribble erfüllst du die rechtlichen Anforderungen an Legal-Prozessen
+Du signierst rechtsgültig und sicher gemäss folgenden Erfordernissen:
 {{% /heading %}}
 
-{{% collapsible 1 "Schriftlichkeitserfordernis" "check" %}}
-die QES ist der handschriftlichen Unterschrift vor Schweizer (OR Art. 14 Abs. 2 bis) und EU-Gesetz (eIDAS Nr. 910`/`2014 Art. 25 Abs. 2) gleichgestellt.
+{{% collapsible 1 "Schriftlichkeitserfordernis gemäss OR/eIDAS" "check" %}}
+Skribble basiert auf der qualifizierten elektronischen Signatur (QES). <br class="hide-for-mobile">Diese ist der handschriftlichen Unterschrift vor Schweizer und EU-Gesetz gleichgestellt.
 {{% /collapsible %}}
 
-{{% collapsible 2 "ZertES und eIDAS" "check" %}}
-Skribble bezieht die QES von der Swisscom, einer nach ZertES und eIDAS anerkannten Anbieterin von elektronischen Zertifikaten.
+{{% collapsible 2 "Qualifizierte elektronische Signatur (QES) gemäss ZertES/eIDAS " "check" %}}
+Skribble bezieht die QES von Swisscom, einer staatlich anerkannten Anbieterin elektronischer Zertifikate nach ZertES und eIDAS.
 {{% /collapsible %}}
 
-{{% collapsible 3 "Schweizer- und EU-Datenschutzverordnung" "check" %}}
-Skribble sowie Partner (Swisscom) verpflichten sich, Daten gemäss DSG und DSGVO zu verwalten.
+{{% collapsible 3 "Datenschutz gemäss DSG/DSGVO" "check" %}}
+Skribble sowie Partner verwalten ihre Daten gemäss dem Bundesgesetz über den Datenschutz (DSG) sowie der europäischen Datenschutz-Grundverordnung (DSGVO) und hosten diese in der Schweiz nach Bankenstandard.
 {{% /collapsible %}}
 {{% /content %}}
 
@@ -98,12 +98,6 @@ Skribble sowie Partner (Swisscom) verpflichten sich, Daten gemäss DSG und DSGVO
 **Warum erfüllt die qualifizierte elektronische Signatur (QES) – den rechtlichen Standard?**<br>
 {{% /richtext %}}
 {{% /cta %}}
-
-[//]: # (--------------------------------------------------------------------------------------------------------------)
-
-{{< testimonial "testimonial/procivis-146w.png" "Daniel Gasteiger, Gründer und CEO von Procivis (eID+)" >}}
-"Das elektronische Signieren von Dokumenten wird eine Kernfunktion vertrauenswürdiger digitaler Identitäten"
-{{< /testimonial >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
@@ -129,7 +123,7 @@ Du benötigst nur ein Mobiltelefon und ein gültiges Reisedokument <br class="hi
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
 {{< testimonial "testimonial/procivis-146w.png" "Daniel Gasteiger, Gründer und CEO von Procivis (eID+)" >}}
-«Das elektronische Signieren von Dokumenten wird eine Kernfunktion vertrauenswürdiger digitaler Identitäten»
+"Das elektronische Signieren von Dokumenten wird eine Kernfunktion vertrauenswürdiger digitaler Identitäten"
 {{< /testimonial >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
@@ -147,12 +141,12 @@ Das Datenzentrum von Skribble ist in der Schweiz und nach ISO 270001 zertifizier
 Alle Signierenden werden im Voraus identifziert. Während dem Signieren bestätigt die signierende Person ihre Identität über zwei Schritte, die sogenannte Zwei-Faktor-Authentifizierung. Diese beinhaltet ein SMS mit One-Time-Password oder die Mobile ID. Der Prozess ist vergleichbar mit dem Login ins E-Banking.
 {{% /collapsible %}}
 
-{{% collapsible 12 "Ist das Signieren mit Skribble rechtssicher?" %}}
-Ja. Skribble basiert auf der qualifizierten elektronischen Signatur (QES). Die QES ist die einzige Form der elektronischen Signatur, welche der handschriftlichen Signatur vor Schweizer (Art. 14 2bis OR) und EU-Gesetz (Art. 25 (2) eIDAS) gleichgestellt ist. 
+{{% collapsible 12 "Brauche ich für das Signieren mit Skribble zusätzliche Hardware?" %}}
+Nein. Du brauchst weder einen USB-Stick noch ein Kartenlesegerät für da Signieren mit Skribble. Die Zwei-Faktor-Authentifizierung findet bei Skribble via Handy statt (Mobile ID oder One-Time-Password).
 {{% /collapsible %}}
 
 {{% collapsible 13 "Kann ich den digital signierten Vertrag in Papierform aufbewahren?" %}}
-Nicht ausschliesslich. Dank der visuellen Signatur ist auf dem ausgedruckten Vertrag ersichtlich, dass er digital signiert wurde. Da die digitalen Zertifikate mit dem Ausdrucken aber verloren gehen, ist die Nachvollziehbarkeit der Signatur und damit die entsprechende Beweiskraft nicht gegeben. Ein Vertrag, welcher mit einer qualifizierten elektronischen Signatur unterschrieben ist, muss deshalb immer in elektronischer Form gespeichert werden.               
+Nicht ausschliesslich. Dank der visuellen Signatur ist auf dem ausgedruckten Vertrag ersichtlich, dass er digital signiert wurde. Da die digitalen Zertifikate mit dem Ausdrucken aber verloren gehen, ist die Nachvollziehbarkeit der Signatur und damit die entsprechende Beweiskraft nicht gegeben. Ein Vertrag, welcher mit einer qualifizierten elektronischen Signatur unterschrieben ist, muss deshalb immer in elektronischer Form gespeichert werden.             
 {{% /collapsible %}}
 
 {{% collapsible 14 "Wie lange ist die Skribble Signatur rechtsgültig?" %}}

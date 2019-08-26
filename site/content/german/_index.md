@@ -82,20 +82,20 @@ Ihr signiert rechtsgültig per Knopfdruck, unabhängig von Zeit und Ort mit eine
 
 {{% content %}}
 {{% heading %}}
-# Skribble erfüllt die rechtlichen Bestimmungen
-Mit Skribble kannst du digital und rechtsgültig (QES) signieren und <br class="hide-for-mobile">erfüllst dabei die folgenden gesetzlichen Anforderungen:
+# Mit Skribble erfüllst du <br class="hide-for-mobile">die rechtlichen Anforderungen
+Du signierst rechtsgültig und sicher gemäss folgenden Erfordernissen:
 {{% /heading %}}
 
-{{% collapsible 1 "Schriftlichkeitserfordernis" "check" %}}
-die QES ist der handschriftlichen Unterschrift vor Schweizer (OR Art. 14 Abs. 2 bis) und EU-Gesetz (eIDAS Nr. 910`/`2014 Art. 25 Abs. 2) gleichgestellt.
+{{% collapsible 1 "Schriftlichkeitserfordernis gemäss OR/eIDAS" "check" %}}
+Skribble basiert auf der qualifizierten elektronischen Signatur (QES). Diese ist der handschriftlichen Unterschrift vor Schweizer und EU-Gesetz gleichgestellt.
 {{% /collapsible %}}
 
-{{% collapsible 2 "ZertES und eIDAS" "check" %}}
-Skribble bezieht die QES von der Swisscom, einer nach ZertES und eIDAS anerkannten Anbieterin von elektronischen Zertifikaten.
+{{% collapsible 2 "Qualifizierte elektronische Signatur (QES) gemäss ZertES/eIDAS " "check" %}}
+Skribble bezieht die QES von Swisscom, einer staatlich anerkannten Anbieterin elektronischer Zertifikate nach ZertES und eIDAS.
 {{% /collapsible %}}
 
-{{% collapsible 3 "Schweizer- und EU-Datenschutzverordnung" "check" %}}
-Skribble sowie Partner (Swisscom) verpflichten sich, Daten gemäss DSG und DSGVO zu verwalten.
+{{% collapsible 3 "Datenschutz gemäss DSG/DSGVO" "check" %}}
+Skribble sowie Partner verwalten ihre Daten gemäss dem Bundesgesetz über den Datenschutz (DSG) sowie der europäischen Datenschutz-Grundverordnung (DSGVO) und hosten diese in der Schweiz nach Bankenstandard.
 {{% /collapsible %}}
 {{% /content %}}
 
