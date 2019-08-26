@@ -110,7 +110,7 @@ Skribble sowie Partner (Swisscom) verpflichten sich, Daten gemäss DSG und DSGVO
 {{< picture qes-erklaert 122 "Signiert mit Skribble bedeutet rechtsgültig (QES) signiert nach Schweizer und EU-Gesetz." >}}
 
 {{% richtext %}}
-**Warum erfüllt die qualifizierte elektronische Signatur (QES) – den rechtlichen Standard?**<br>
+**Warum erfüllt die qualifizierte elektronische Signatur (QES) den rechtlichen Standard?**<br>
 {{% /richtext %}}
 {{% /cta %}}
 
@@ -157,13 +157,6 @@ Lass dich von Skribble identifizieren und leg sofort mit dem Signieren los.
 {{% /cta %}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
-
-{{< testimonial "testimonial/logo-fr-110w.png" "Stéphane Schwab – Kanton Fribourg" >}}
-"Skribble bietet eine kundenfreundliche Lösung für die qualifizierte elektronischen Signatur in der Schweiz an." 
-{{< /testimonial >}}
-
-[//]: # (--------------------------------------------------------------------------------------------------------------)
-
 
 {{% content %}}
 {{% heading %}}

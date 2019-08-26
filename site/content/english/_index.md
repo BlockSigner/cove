@@ -115,7 +115,7 @@ Skribble and its partners (Swisscom) manage your data in accordance with the DSG
 {{< picture qes-erklaert 122 "Signed with Skribble means legally signed according to Swiss and EU law." >}}
 
 {{% richtext %}}
-**Why does the qualified electronic signature (QES) sets a digital standard by the law?**<br>
+**Why does the qualified electronic signature (QES) set a digital standard by the law?**<br>
 {{% /richtext %}}
 {{% /cta %}}
 
@@ -136,7 +136,7 @@ An important component of qualified electronic signatures (QES) are digital cert
 {{% heading %}}
 # How to use Skribble to ensure <br class="hide-for-mobile">the identity of the signatories
 Those who have a verified e-ID can sign on Skribble <br class="hide-for-mobile">without additional measures.<br><br>
-**The following e-IDs allow you to sign with Skribble shortly:**
+**Shortly you will be able to sign on Skribble with the following e-IDs:**
 {{% /heading %}}
 {{% richtext %}}
 {{% /richtext %}}
@@ -162,13 +162,6 @@ Let Skribble identify you and start signing immediately.
 {{% /cta %}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
-
-{{< testimonial "testimonial/logo-fr-110w.png" "Stéphane Schwab – Canton of Fribourg" >}}
-"Skribble offers a customer-friendly <br class="hide-for-mobile">solution for qualified electronic signatures in Switzerland."
-{{< /testimonial >}}
-
-[//]: # (--------------------------------------------------------------------------------------------------------------)
-
 
 {{% content %}}
 {{% heading %}}

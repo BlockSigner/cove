@@ -158,12 +158,6 @@ Laissez Skribble vous identifier et commencez à signer immédiatement.
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< testimonial "testimonial/logo-fr-110w.png" "Stéphane Schwab – canton de Fribourg" >}}
-"Skribble offre une solution conviviale <br class="hide-for-mobile">pour les signatures électroniques qualifiées en Suisse." 
-{{< /testimonial >}}
-
-[//]: # (--------------------------------------------------------------------------------------------------------------)
-
 {{% content %}}
 {{% heading %}}
 # Les signatures peuvent <br class="hide-for-mobile">être obtenues individuellement <br class="hide-for-mobile">ou sous forme de forfait.
