@@ -44,7 +44,7 @@ languages:
           url: /de/medien/
           weight: 15
       footer4:
-        - name: Skribble News
+        - name: News
           url: https://news.skribble.com
           weight: 5
         - name: Help-Center
@@ -134,7 +134,7 @@ languages:
           url: /pressroom/
           weight: 15
       footer4:
-        - name: Skribble News
+        - name: News
           url: https://news.skribble.com
           weight: 5
         - name: Help-Center
@@ -223,7 +223,7 @@ languages:
           url: /fr/medias/
           weight: 15
       footer4:
-        - name: Skribble News
+        - name: News
           url: https://news.skribble.com
           weight: 5
         - name: Centre d'assistance

@@ -82,19 +82,19 @@ Vous signez légalement par simple pression <br class="hide-for-mobile">d'un bou
 
 {{% content %}}
 {{% heading %}}
-# Avec Skribble, vous remplissez les exigences légales
-Avec Skribble, vous signez légalement et en toute sécurité en remplissant les conditions suivantes:
+# Avec Skribble, vous remplissez <br class="hide-for-mobile">les exigences légales
+Avec Skribble, vous signez légalement et en toute sécurité <br class="hide-for-mobile">en remplissant les conditions suivantes:
 {{% /heading %}}
 
-{{% collapsible 1 "Exigence de la forme écrite selon le CO/ eIDAS" "check" %}}
+{{% collapsible 1 "Exigence de la forme écrite selon le CO/eIDAS" "check" %}}
 Skribble se base sur la signature électronique qualifiée QES. Celle-ci équivaut à une signature manuscrite devant le droit suisse et européen.
 {{% /collapsible %}}
 
-{{% collapsible 2 "Signature électronique qualifiée selon SCSE/ eIDAS " "check" %}}
+{{% collapsible 2 "Signature électronique qualifiée selon SCSE/eIDAS " "check" %}}
 Skribble obtient la QES de Swisscom, un fournisseur de certificats électroniques agréé par l'Etat selon la SCSE et l'eIDAS.
 {{% /collapsible %}}
 
-{{% collapsible 3 "Protection des données selon LPD/ RGPD" "check" %}}
+{{% collapsible 3 "Protection des données selon LPD/RGPD" "check" %}}
 Skribble et ses partenaires gèrent leurs données conformément à la loi fédérale sur la protection des données (LPD) et au réglement européen sur la protection des données (RGPD) et les hébergent en Suisse conformément aux normes bancaires.
 {{% /collapsible %}}
 {{% /content %}}
@@ -130,15 +130,15 @@ Les certificats numériques correspondants sont un élément important de la sig
 {{% content %}}
 {{% heading %}}
 # Comment utiliser Skribble pour s'assurer de l'identité des signataires
-Les personnes ayant une e-ID vérifiée peuvent signer sur Skribble sans mesures supplémentaires.
+Les personnes ayant une e-ID vérifiée peuvent signer sur Skribble <br class="hide-for-mobile">sans mesures supplémentaires.<br><br>
 **The following e-IDs allow you to sign with Skribble shortly:**
 {{% /heading %}}
 {{% richtext %}}
 {{% /richtext %}}
 
 {{< picture e-id-map 826 "E-ID, where you can sign Skribble soon." >}}
-{{% center %}}L'intégration d'autres e-IDs suivra cette année.{{% / center %}}
 {{% richtext %}}
+{{% center %}}**L'intégration d'autres e-IDs suivra cette année.**{{% / center %}}
 {{% /richtext %}}
 {{% /content %}}
 {{% cta

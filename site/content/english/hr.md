@@ -12,7 +12,7 @@ og_image: og/og-skribble-identification.jpg
 {{% content %}}
 {{% heading %}}
 # Sign electronically in HR
-With Skribble you sign legally and easily<br class="hide-for-mobile"> in a digital way – from employment contracts<br class="hide-for-mobile"> to certificates and wage statements.
+With Skribble you sign legally and easily in a digital way – <br class="hide-for-mobile">from employment contracts to certificates and wage statements.
 {{% /heading %}}
 {{< picture vertical-hr-main 570 "Three women holding a document in their hands" >}}
 {{% /content %}}
@@ -51,7 +51,7 @@ Digitalisation enabler: HR enables the workforce to sign electronically and can 
 
 {{< side-by-side >}}
 {{% richtext %}}
-## Sign within <br class="hide-for-mobile">your existing HR software
+## Sign within your existing <br class="hide-for-mobile">HR software
 Stay with familiar tools: Sign from your existing systems, e.g. Google Drive, One Drive, Drop Box or Secure Safe. Alternatively, you can sign directly via your browser. (Coming end of 2019)
 {{% /richtext %}}
 {{< picture integrations 381 "Existing systems, e.g. Google Drive, One Drive, Drop Box or Secure Safe" >}}
@@ -60,27 +60,27 @@ Stay with familiar tools: Sign from your existing systems, e.g. Google Drive, On
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
 {{< testimonial "testimonial/e-forsight-146w.png" "e-foresight Think Tank" >}}
-"Skribble offers a customer-friendly solution for qualified electronic signatures in Switzerland."
+"Skribble offers a customer-friendly <br class="hide-for-mobile">solution for qualified electronic signatures in Switzerland."
 {{< /testimonial >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
 {{% content %}}
 {{% heading %}}
-# Skribble complies with the legal requirements for HR processes
-You sign with legal effect and securely in accordance with the following requirements:
+# Skribble complies <br class="hide-for-mobile">with the legal requirements <br class="hide-for-mobile">for HR processes
+You sign with legal effect and securely in accordance <br class="hide-for-mobile">with the following requirements:
 {{% /heading %}}
 
-{{% collapsible 1 "Requirement of written form" "check" %}}
-A signature with Skribble is equal to the handwritten signature according to Swiss (OR Art. 14 Para. 2 bis) and EU law (eIDAS No. 910`/`2014 Art. 25 Para. 2).
+{{% collapsible 1 "Requirement of written form according to OR/eIDAS" "check" %}}
+Skribble is based on the qualified electronic signature (QES). The QES is equivalent to a handwritten signature according to Swiss and EU law.
 {{% /collapsible %}}
 
-{{% collapsible 2 "Requirements of ZertES and eIDAS" "check" %}}
-Skribble obtains QES certificates from Swisscom, a provider of TRUSTED certificates recognised by ZertES and eIDAS.
+{{% collapsible 2 "Qualified electronic signature according to ZertES/eIDAS" "check" %}}
+Skribble obtains QES from Swisscom, a provider of electronic certificates recognised under ZertES and eIDAS.
 {{% /collapsible %}}
 
-{{% collapsible 3 "Requirements of CH and EU data protection regulation" "check" %}}
-Skribble and its partners (Swisscom) manage your data in accordance with the DSG and DSGVO.
+{{% collapsible 3 "Data protection according to FADP/GDPR" "check" %}}
+Skribble and its signing partner Swisscom commit to manage data in accordance with the Federal Act on Data Protection (FADP) and the General Data Protection Regulation (GDPR). Moreover, all data is hosted in Switzerland according to banking standards.
 {{% /collapsible %}}
 {{% /content %}}
 
@@ -124,7 +124,7 @@ All you need is a mobile phone and a valid travel document <br class="hide-for-m
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
 {{< testimonial "testimonial/procivis-146w.png" "Daniel Gasteiger, founder and CEO of Procivis (eID+)" >}}
-"The electronic signing of documents becomes a core function of trusted digital identities"
+"The electronic signing of documents becomes a core function of trusted <br class="hide-for-mobile">digital identities"
 {{< /testimonial >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)

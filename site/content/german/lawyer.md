@@ -22,7 +22,7 @@ og_image: og/og-skribble-identification.jpg
 {{< side-by-side >}}
 {{< picture sign-parallel 387 "Mann signiert mit zwei weiteren Personen einen Vertrag" >}}
 {{% richtext %}}
-## Alle Vertragsparteien signieren parallel
+## Alle Vertragsparteien <br class="hide-for-mobile">signieren parallel
 Mehrere Vertragsparteien: Statt Verträge per Post von einer Person zur nächsten zu schicken, signieren alle zeitsparend online.
 {{% /richtext %}}
 {{< /side-by-side >}}
@@ -31,7 +31,7 @@ Mehrere Vertragsparteien: Statt Verträge per Post von einer Person zur nächste
 
 {{< side-by-side >}}
 {{% richtext %}}
-## Erledige den Stapel mit nur einer Signatur
+## Erledige den Stapel <br class="hide-for-mobile">mit nur einer Signatur
 Digitale Unterschriftsmappe: Sammle deine Verträge digital und signiere sie gleichzeitig mit wenigen Klicks. Einen USB-Stick oder Card-Reader brauchst du trotz QES-Standard nicht.
 {{% /richtext %}}
 {{< picture batch-process 380 "Ein Stappel Dokumente werden mit einem Klick signiert" >}}
@@ -42,7 +42,7 @@ Digitale Unterschriftsmappe: Sammle deine Verträge digital und signiere sie gle
 {{< side-by-side >}}
 {{< picture authorities-input 394 "Zwei Leute machen Schritt-für Schritt eine Behörden Eingabe" >}}
 {{% richtext %}}
-## Eingaben bei Behörden machst du online
+## Eingaben bei Behörden <br class="hide-for-mobile">machst du online
 Von Handelsregistereinträgen bis Notariatseingaben: Das Ausdrucken, Versenden und Einscannen entfällt. (Kommt Ende 2019)
 {{% /richtext %}}
 {{< /side-by-side >}}
@@ -51,7 +51,7 @@ Von Handelsregistereinträgen bis Notariatseingaben: Das Ausdrucken, Versenden u
 
 {{< side-by-side >}}
 {{% richtext %}}
-## Signiere innerhalb deiner Kanzlei-Software
+## Signiere innerhalb <br class="hide-for-mobile">deiner Kanzlei-Software
 Bei gewohnten Tools bleiben: Signiere aus deinen bestehenden Systemen heraus, z.B. WinJur oder Vertec. Alternativ signierst du direkt über den Browser. (Kommt Ende 2019)
 {{% /richtext %}}
 {{< picture crm-systeme-lawyer 421 "Signiere aus deinen gewohnten Tools heraus, beispielsweise WinJur oder Vertec. " >}}
@@ -67,7 +67,7 @@ Bei gewohnten Tools bleiben: Signiere aus deinen bestehenden Systemen heraus, z.
 
 {{% content %}}
 {{% heading %}}
-# Mit Skribble erfüllst du die rechtlichen Anforderungen an Legal-Prozessen
+# Mit Skribble erfüllst du <br class="hide-for-mobile">die rechtlichen Anforderungen <br class="hide-for-mobile">an Anwalts-Prozessen
 Du signierst rechtsgültig und sicher gemäss folgenden Erfordernissen:
 {{% /heading %}}
 

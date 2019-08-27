@@ -87,7 +87,7 @@ Du signierst rechtsgültig und sicher gemäss folgenden Erfordernissen:
 {{% /heading %}}
 
 {{% collapsible 1 "Schriftlichkeitserfordernis gemäss OR/eIDAS" "check" %}}
-Skribble basiert auf der qualifizierten elektronischen Signatur (QES). Diese ist der handschriftlichen Unterschrift vor Schweizer und EU-Gesetz gleichgestellt.
+Skribble basiert auf der qualifizierten elektronischen Signatur (QES). <br class="hide-for-mobile">Diese ist der handschriftlichen Unterschrift vor Schweizer und EU-Gesetz gleichgestellt.
 {{% /collapsible %}}
 
 {{% collapsible 2 "Qualifizierte elektronische Signatur (QES) gemäss ZertES/eIDAS " "check" %}}
@@ -133,12 +133,10 @@ Ein wichtiger Bestandteil der elektronischen Signatur (QES) sind entsprechende d
 Personen mit einer geprüften E-ID können auf Skribble <br class="hide-for-mobile">ohne zusätzliche Massnahmen signieren.<br><br>
 **Mit folgenden E-IDs kannst du in kürze bei Skribble signieren:**
 {{% /heading %}}
-{{% richtext %}}
-{{% /richtext %}}
 
 {{< picture e-id-map 826 "E-ID, wo du in kürze bei Skribble signieren kannst." >}}
-{{% center %}}Weitere E-IDs folgen in diesem Jahr.{{% / center %}}
 {{% richtext %}}
+{{% center %}}**Weitere E-IDs folgen in diesem Jahr.**{{% / center %}}
 {{% /richtext %}}
 {{% /content %}}
 {{% cta

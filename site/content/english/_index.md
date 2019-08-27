@@ -142,8 +142,8 @@ Those who have a verified e-ID can sign on Skribble <br class="hide-for-mobile">
 {{% /richtext %}}
 
 {{< picture e-id-map 826 "E-ID, where you can sign Skribble soon." >}}
-{{% center %}}The integration of further e-IDs will follow this year.{{% / center %}}
 {{% richtext %}}
+{{% center %}}**The integration of further e-IDs will follow this year.**{{% / center %}}
 {{% /richtext %}}
 {{% /content %}}
 {{% cta

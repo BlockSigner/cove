@@ -42,7 +42,7 @@ Digital signature folder: Collect your contracts digitally and sign them simulta
 {{< side-by-side >}}
 {{< picture authorities-input 394 "Two people make step-by-step entries to authorities." >}}
 {{% richtext %}}
-## Entries with authorities made online
+## Entries with authorities <br class="hide-for-mobile">made online
 From commercial register to notarial entries: Printing, sending and scanning are no longer necessary. (Coming end of 2019)
 {{% /richtext %}}
 {{< /side-by-side >}}
@@ -51,7 +51,7 @@ From commercial register to notarial entries: Printing, sending and scanning are
 
 {{< side-by-side >}}
 {{% richtext %}}
-## Sign within your law firm software
+## Sign within <br class="hide-for-mobile">your law firm software
 Stay with familiar tools: Sign from your existing systems, e.g. WinJur oder Vertec. Alternatively, you can sign directly via your browser. (Coming end of 2019)
 {{% /richtext %}}
 {{< picture crm-systeme-lawyer 421 "Existing systems, e.g. Google Drive, One Drive, Drop Box or Secure Safe" >}}
@@ -60,15 +60,15 @@ Stay with familiar tools: Sign from your existing systems, e.g. WinJur oder Vert
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
 {{< testimonial "testimonial/e-forsight-146w.png" "e-foresight Think Tank" >}}
-"Skribble offers a customer-friendly solution for qualified electronic signatures in Switzerland."
+"Skribble offers a customer-friendly <br class="hide-for-mobile">solution for qualified electronic signatures in Switzerland."
 {{< /testimonial >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
 {{% content %}}
 {{% heading %}}
-# Skribble complies with the legal requirements for court processes
-You sign with legal effect and securely in accordance with the following requirements:
+# Skribble complies <br class="hide-for-mobile">with the legal requirements <br class="hide-for-mobile">for court processes
+You sign with legal effect and securely in accordance <br class="hide-for-mobile">with the following requirements:
 {{% /heading %}}
 
 {{% collapsible 1 "Requirement of written form according to OR/eIDAS" "check" %}}
@@ -80,7 +80,7 @@ Skribble obtains QES from Swisscom, a provider of electronic certificates recogn
 {{% /collapsible %}}
 
 {{% collapsible 3 "Data protection according to FADP/GDPR" "check" %}}
-Skribble and its signing partner Swisscom commit to manage data in accordance with the Federal Act on Data Protection (FADP) and the General Data Protection Regulation (GDPR). Moreover, all data is hosted <br class="hide-for-mobile">in Switzerland according to banking standards.
+Skribble and its signing partner Swisscom commit to manage data in accordance with the Federal Act on Data Protection (FADP) and the General Data Protection Regulation (GDPR). Moreover, all data is hosted in Switzerland according to banking standards.
 {{% /collapsible %}}
 {{% /content %}}
 
@@ -124,7 +124,7 @@ All you need is a mobile phone and a valid travel document <br class="hide-for-m
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
 {{< testimonial "testimonial/procivis-146w.png" "Daniel Gasteiger, founder and CEO of Procivis (eID+)" >}}
-"The electronic signing of documents becomes a core function of trusted digital identities"
+"The electronic signing of documents becomes a core function of trusted <br class="hide-for-mobile">digital identities"
 {{< /testimonial >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)

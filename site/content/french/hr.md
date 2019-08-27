@@ -60,27 +60,27 @@ Restez avec des outils familiers: signez à partir de vos programmes existants, 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
 {{< testimonial "testimonial/e-forsight-146w.png" "Think tank e-foresight" >}}
-"Skribble offre une solution <br class="hide-for-mobile">conviviale pour des signatures électroniques qualifiées en Suisse."
+"Skribble offre une solution conviviale <br class="hide-for-mobile">pour des signatures électroniques qualifiées en Suisse."
 {{< /testimonial >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
 {{% content %}}
 {{% heading %}}
-# Skribble répond <br class="hide-for-mobile">aux exigences légales
+# Avec Skribble, vous répondez <br class="hide-for-mobile">aux exigences légales <br class="hide-for-mobile">des processus RH
 Avec Skribble, vous pouvez signer numériquement <br class="hide-for-mobile">et légalement (QES) et satisfaire aux exigences légales suivantes:
 {{% /heading %}}
 
-{{% collapsible 1 "L'exigence de la forme écrite" "check" %}}
-La QES équivaut à la signature manuscrite devant le droit suisse (art. 14, al. 2 bis CO) et européen (eIDAS n° 910/2014 art. 25, al. 2)
+{{% collapsible 1 "Exigence de la forme écrite selon le CO/eIDAS" "check" %}}
+Skribble se base sur la signature électronique qualifiée QES. Celle-ci équivaut à une signature manuscrite devant le droit suisse et européen.
 {{% /collapsible %}}
 
-{{% collapsible 2 "La SCSE et l'eIDAS" "check" %}}
-Skribble obtient la QES auprès de Swisscom, un fournisseur de certificats électroniques reconnus par la SCSE et l'eIDAS.
+{{% collapsible 2 "Signature électronique qualifiée selon SCSE/eIDAS " "check" %}}
+Skribble obtient la QES de Swisscom, un fournisseur de certificats électroniques agréé par l'Etat selon la SCSE et l'eIDAS.
 {{% /collapsible %}}
 
-{{% collapsible 3 "Exigences relatives à la protection des données en Suisse et dans l'UE" "check" %}}
-Skribble et ses partenaires (Swisscom) s'engagent à gérer les données conformément à la LPD et au RGPD.
+{{% collapsible 3 "Protection des données selon LPD/RGPD" "check" %}}
+Skribble et ses partenaires gèrent leurs données conformément à la loi fédérale sur la protection des données (LPD) et au réglement européen sur la protection des données (RGPD) et les hébergent en Suisse conformément aux normes bancaires.
 {{% /collapsible %}}
 {{% /content %}}
 
@@ -122,8 +122,8 @@ Il vous suffit d'avoir un téléphone mobile et un document <br class="hide-for-
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< testimonial "testimonial/procivis-146w.png" "Daniel Gasteiger, Fondateur et CEO de Procivis (eID+)" >}}
-"La signature électronique des documents devient une fonction essentielle des identités numériques de confiance." 
+{{< testimonial "testimonial/logo-fr-110w.png" "Stéphane Schwab – canton de Fribourg" >}}
+"Grâce à Skribble, nous pouvons numériser les processus administratifs de A à Z. Cela facilite notre vie quotidienne et celle de nos clients." 
 {{< /testimonial >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)

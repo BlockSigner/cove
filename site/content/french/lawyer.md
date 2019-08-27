@@ -52,7 +52,7 @@ Des inscriptions au registre du commerce aux inscriptions notariales: il n'est p
 {{< side-by-side >}}
 {{% richtext %}}
 ## Signer directement depuis le logiciel de votre cabinet d'avocats
-Restez avec des outils familiers: signez à partir de vos programmes existants, par exemple Google Drive, One Drive, Drop Box ou Secure Safe. Vous pouvez également vous connecter directement via votre navigateur. (A venir fin 2019)
+Restez avec des outils familiers: signez à partir de vos programmes existants, par example WinJur, Vertec, Google Drive ou One Drive. Vous pouvez également vous connecter directement via votre navigateur. (A venir fin 2019)
 {{% /richtext %}}
 {{< picture crm-systeme-lawyer 421 "Signez à partir de vos systèmes existants, par exemple WinJur ou Vertec." >}}
 {{< /side-by-side >}}
@@ -60,26 +60,26 @@ Restez avec des outils familiers: signez à partir de vos programmes existants, 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
 {{< testimonial "testimonial/e-forsight-146w.png" "Think tank e-foresight" >}}
-"Skribble offre une solution conviviale <br class="hide-for-mobile">pour des signatures électroniques qualifiées en Suisse."
+"Skribble offre une solution conviviale <br class="hide-for-mobile">pour des signatures électroniques <br class="hide-for-mobile">qualifiées en Suisse."
 {{< /testimonial >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
 {{% content %}}
 {{% heading %}}
-# Avec Skribble, vous répondez aux exigences des procédures légales.
+# Avec Skribble, <br class="hide-for-mobile">vous répondez aux exigences <br class="hide-for-mobile">des procédures légales
 Avec Skribble, vous signez légalement et en toute sécurité <br class="hide-for-mobile">en remplissant les conditions suivantes:
 {{% /heading %}}
 
-{{% collapsible 1 "Exigence de la forme écrite selon le CO/ eIDAS" "check" %}}
+{{% collapsible 1 "Exigence de la forme écrite selon le CO/eIDAS" "check" %}}
 Skribble se base sur la signature électronique qualifiée QES. Celle-ci équivaut à une signature manuscrite devant le droit suisse et européen.
 {{% /collapsible %}}
 
-{{% collapsible 2 "Signature électronique qualifiée selon SCSE/ eIDAS " "check" %}}
+{{% collapsible 2 "Signature électronique qualifiée selon SCSE/eIDAS " "check" %}}
 Skribble obtient la QES de Swisscom, un fournisseur de certificats électroniques agréé par l'Etat selon la SCSE et l'eIDAS.
 {{% /collapsible %}}
 
-{{% collapsible 3 "Protection des données selon LPD/ RGPD" "check" %}}
+{{% collapsible 3 "Protection des données selon LPD/RGPD" "check" %}}
 Skribble et ses partenaires gèrent leurs données conformément à la loi fédérale sur la protection des données (LPD) et au réglement européen sur la protection des données (RGPD) et les hébergent en Suisse conformément aux normes bancaires.
 {{% /collapsible %}}
 {{% /content %}}
@@ -123,7 +123,7 @@ Il vous suffit d'avoir un téléphone mobile et un document <br class="hide-for-
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
 {{< testimonial "testimonial/procivis-146w.png" "Daniel Gasteiger, Fondateur et CEO de Procivis (eID+)" >}}
-"La signature électronique des documents devient une fonction essentielle des identités numériques de confiance." 
+"La signature électronique des documents devient une fonction essentielle <br class="hide-for-mobile">des identités numériques de confiance." 
 {{< /testimonial >}}
 
 
