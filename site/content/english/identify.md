@@ -12,7 +12,7 @@ og_image: og/og-skribble-identification.jpg
 {{% content %}}
 {{% heading %}}
 # We identify you <br class="hide-for-mobile">with the ID app by Swisscom
-Four short steps to get you started signing.
+Four short steps to get you started signing. All you need is a mobile phone <br class="hide-for-mobile">and a valid travel document (Valid passport or identity card).
 {{% /heading %}}
 
 {{< row >}}
@@ -54,26 +54,6 @@ You can now use Skribble to sign electronically in a qualified manner.
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{% content %}}
-{{% heading %}}
-# Ready to sign <br class="hide-for-mobile">in a few minutes
-All you need is a mobile phone and a valid travel document <br class="hide-for-mobile">(Valid passport or identity card).
-{{% /heading %}}
-{{< picture "create-identity" 385 "A magnifying glass enlarges the image of a woman in a passport" >}}
-&nbsp;
-{{% /content %}}
-
-{{% cta
-  label="Schedule an appointment"
-  href="https://help.skribble.com/meetings/patrick182/identifikation-bei-skribble"
-  target="_blank"
-%}}
-{{% richtext %}}
-**Make an appointment<br>and get identified**
-{{% /richtext %}}
-{{% /cta %}}
-
-[//]: # (--------------------------------------------------------------------------------------------------------------)
 
 {{% content %}}
 {{% heading %}}
@@ -107,7 +87,7 @@ Come by and get identified for free.
 {{% /content %}}
 
 {{% cta
-  label="Schedule an appointment"
+  label="Schedule an E-ID appointment"
   href="https://natelprofi.ch/"
   target="_blank"
   title="Belp"
@@ -130,7 +110,7 @@ CH-3123 Belp
 {{% /cta %}}
 
 {{% cta
-  label="Schedule an appointment"
+  label="Schedule an E-ID appointment"
   href="https://help.skribble.com/meetings/patrick182/telephone-consultation-skribble"
   target="_blank"
   title="Zurich"
