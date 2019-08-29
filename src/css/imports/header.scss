@@ -15,6 +15,14 @@
     margin-right: 3px;
   }
 
+  .icon-spaced {
+    margin-right: 8px;
+  }
+
+  .icon-caret {
+    vertical-align: bottom;
+  }
+
   &__container {
     display: flex;
     justify-content: space-between;
@@ -57,6 +65,25 @@
       @include max-width {
         height: 26px;
       }
+    }
+  }
+
+  &__phone {
+    align-items: center;
+    display: flex;
+    padding-right: 15px; 
+    font-size: 1.8rem; 
+    color: #60718e;
+    @include max-width-md {
+      display: none;
+    }
+  }
+
+  &__separator {
+    margin: 10px; 
+    border-left: 1.5px solid #dbdfe7;
+    @include max-width-md {
+      display: none;
     }
   }
 
@@ -151,4 +178,49 @@
       }
     }
   }
+}
+
+/* Styling the sub menu */
+
+.submenu {
+  position: relative;
+}
+
+.submenu:hover {
+  position: relative;
+  font-weight: bold;
+}
+
+.submenu ul {
+  position: absolute;
+  background: white;
+  padding: 5px 10px; 
+  margin: 5px 0px 0px -10px;
+  display: none;
+  box-shadow: 3px 3px 2px #DDD;
+}
+
+.submenu li{
+  display: block;
+  background: white;
+  color: white;
+  float: none;
+  width: 100%;
+  font-weight: normal;
+}
+
+/* Styling drop down links */
+.submenu li a {
+  background: transparent;
+  padding:10px;
+  display: block;
+}
+
+// .submenu li a:hover {
+//   background: gray;
+// }
+
+/* Showing Submenu on hover*/
+.submenu:hover ul {
+  display: block;
 }

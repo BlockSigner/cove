@@ -1,0 +1,22 @@
+.logos-item {
+    .logos-flex-item {
+        width: 200px;
+        height: 80px;
+        margin: 10px;
+        text-align: center;
+    }
+    
+    @media screen and (max-width: 970px) {
+        .logos-flex-item {
+        width: 140px;
+        height: 80px;
+        margin-top: 10px;
+        text-align: center;
+    }
+    }
+    
+    /* .flex-item img {
+        width:200px;
+    }
+    */
+}

@@ -45,6 +45,13 @@ Easily handle digital signature processes – legally binding <br class="hide-fo
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
+{{< logos-container >}}
+  {{< logos-item src="logos/app-advice-vector-svg-logo.svg" link="http://google.com" alt="Company logo">}}
+  {{< logos-item src="logos/forbes-vector-svg-logo-image.svg" link="http://google.com" alt="Company logo">}}
+  {{< logos-item src="logos/khoi-vihn-subtraction-vector-svg-logo.svg" link="http://google.com" alt="Company logo">}}
+  {{< logos-item src="logos/webdesigner-depot-vector-svg-logo.svg" alt="Company logo">}}
+{{< /logos-container >}}
+
 {{< side-by-side >}}
 {{% richtext %}}
 ## Upload documents as PDFs

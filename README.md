@@ -18,6 +18,12 @@ Use `yarn` to lock and install dependency versions instead of `npm install`.
 $ yarn
 ```
 
+If you are using windows, you will have to install [node-gyp's windows build tools](https://github.com/nodejs/node-gyp/blob/master/README.md#option-1)
+```
+# in a cmd or powershell terminal with administrator rights, run:
+ yarn global add windows-build-tools
+```
+
 ### Configure a remote for a fork
 https://help.github.com/en/articles/configuring-a-remote-for-a-fork
 
@@ -171,14 +177,17 @@ The `-` and the `w` in the filename are added by the component. You have to add 
 
 ### Custom components
 
-#### {{< heading >}}
-The heading component is used to arrange a title and a lead text. It centers its content by default. You can left align the content by passing the `left` paramter.
+#### {{< collapsible >}}
+This collapsible component hides its content and reveals it after clicking on the title.
+```
+{{% collapsible 1 "Requirement of written form" %}}
+A signature with Skribble is equal to the handwritten signature according to Swiss (OR Art. 14 Para. 2 bis) and EU law (eIDAS No. 910`/`2014 Art. 25 Para. 2).
+{{% /collapsible %}}
+```
 
 **Parameters**
-1. left (optional)
-
-#### {{< intro >}}
-#### {{< intro-partner >}}
+1. id
+2. title of the collapsible
 
 #### {{< cta >}}
 A little component with dividers at the top and bottom that is used to focus the attention on a single call to action.
@@ -190,6 +199,43 @@ A little component with dividers at the top and bottom that is used to focus the
 - `outlined="true"` Applies the outline style to the button
 - `title` Adds a title above the border
 - `floating="true"` Removes the borders around the cta
+
+#### {{< features-container >}} and {{< features-item >}}
+The features component allows you to present a responsive grid of images with a headline and description. It is composed of two shortcodes to be used nested, as in the following example:
+
+```
+{{< features-container >}}
+  {{< features-item src="features/window-dev.svg" headline="Moderne Schnittstelle mit detaillierter Dokumentation" description="Die moderne JSON REST-API ist einfach und schnell integriert. Unsere API-Dokumentation liefert dir alle Details, die du Brauchst.">}}
+  {{< features-item src="features/note-code.svg" headline="API-Testing mit Demo-Account" description="Mit unserem Demo-Account testest du die API unverbindlich und kostenlos.">}}
+  {{< features-item src="features/hybrid-car.svg" headline="Plugin für DMS und Branchenlösungen" description="Integriere Skribble als Plugin in Dokumenten-Management-Systeme wie OneDrive und SharePoint, oder in Branchen-Lösungen wie Abacus un SAP.">}}
+  {{< features-item src="features/webpage.svg" headline="Optimiertes Webinterface für die Nutzung via Browser" description="Skribbles optimierte Benutzeroberfläche liefert dir ein intuitives Benutzererlebnis für alle modernen Browser und Geräte.">}}
+{{< /features-container >}}
+```
+
+#### {{< heading >}}
+The heading component is used to arrange a title and a lead text. It centers its content by default. You can left align the content by passing the `left` paramter.
+
+**Parameters**
+1. left (optional)
+
+#### {{< intro >}}
+#### {{< intro-partner >}}
+
+#### {{< logos-container >}} and {{< logos-item >}}
+The logos component allows you to present responsive rows of logos or pictures. It is composed of two shortcodes to be used nested, as in the following example:
+```
+{{< logos-container >}}
+  {{< logos-item src="logos/app-advice-vector-svg-logo.svg" link="http://google.com" alt="Company logo">}}
+  {{< logos-item src="logos/forbes-vector-svg-logo-image.svg" link="http://google.com" alt="Company logo">}}
+  {{< logos-item src="logos/khoi-vihn-subtraction-vector-svg-logo.svg" link="http://google.com" alt="Company logo">}}
+  {{< logos-item src="logos/webdesigner-depot-vector-svg-logo.svg" alt="Company logo">}}
+{{< /logos-container >}}
+```
+**Parameters**
+
+- src: the path to the image to be used
+- link: (optional) a link to be opened in a new tab. If there is no link defined, the logo will not be clickable
+- alt: (optional) alternate text for the image, if the image cannot be displayed
 
 #### {{< plan >}}
 The `plan` consists of the upper part with 2 titles and the lower part with any number of paragraphs. Paragraphs are divided by a horizontal line.

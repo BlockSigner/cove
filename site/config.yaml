@@ -3,6 +3,7 @@ title: Skribble
 languages:
   de:
     languageName: Deutsch
+    flagCode: DE
     weight: 2
     contentDir: content/german
     menu:
@@ -81,19 +82,74 @@ languages:
       newsletterText: Elektronische Signaturen und digitales Vertrauen sind brandaktuelle Themen. Bleibe auf dem Laufenden! <br class="hide-for-mobile">Siehe unsere <a href="/de/datenschutz">Datenschutzerklärungen</a>.
   en:
     languageName: English
+    flagCode: GB
     weight: 1
     contentDir: content/english
     menu:
       main:
-        - name: Services
-          url: /services/
+        # Platform dropdown
+        - name: Platform
+          url: "#"
           weight: 10
-        - name: Identification
-          url: /identification/
+          identifier: platform
+        - name: Features
+          url: "/features/"
+          weight: 10
+          parent: platform
+        - name: Integration
+          url: "/integration/"
           weight: 15
-        - name: Contact
-          url: /contact/
+          parent: platform
+        - name: Security
+          url: "/security/"
           weight: 20
+          parent: platform
+        - name: Proof of Identity
+          url: "/proofofidentity/"
+          weight: 25
+          parent: platform
+        - name: Identification
+          url: "/identification/"
+          weight: 30
+          parent: platform
+        # Solutions dropdown
+        - name: Solutions
+          url: "#"
+          weight: 15
+          identifier: solutions
+        - name: HR
+          url: "/hr/"
+          weight: 10
+          parent: solutions
+        - name: Legal
+          url: "/legal/"
+          weight: 15
+          parent: solutions
+        - name: Insurance
+          url: "/insurance/"
+          weight: 20
+          parent: solutions
+        - name: Authority
+          url: "/authority/"
+          weight: 25
+          parent: solutions
+        - name: Trust
+          url: "/trust/"
+          weight: 30
+          parent: solutions
+        # Pricing
+        - name: Pricing
+          url: "/pricing/"
+          weight: 20     
+        # - name: Services
+        #   url: /services/
+        #   weight: 10
+        # - name: Identification
+        #   url: /identification/
+        #   weight: 15
+        # - name: Contact
+        #   url: /contact/
+        #   weight: 20
       footer1:
         - name: Services
           url: /services/
@@ -128,6 +184,13 @@ languages:
         - name: Imprint
           url: /imprint/
           weight: 15
+      footermobile:
+        - name: Impressum
+          url: /impressum/
+          weight: 5
+        - name: Data Protection
+          url: /dataprotection/
+          weight: 10
     header:
       login:
         label: Login
@@ -159,6 +222,7 @@ languages:
       newsletterText: Electronic signatures and digital trust are hot topics. <br class="hide-for-mobile">Stay up to date! See our <a href="/privacy">privacy policy</a>.
   fr:
     languageName: Français
+    flagCode: FR
     weight: 3
     contentDir: content/french
     menu:
