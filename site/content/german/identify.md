@@ -12,7 +12,8 @@ og_image: og/og-skribble-identification.jpg
 {{% content %}}
 {{% heading %}}
 # Wir identifizieren dich <br class="hide-for-mobile">mit der ID-App von Swisscom
-Vier kurze Schritte, und du kannst mit dem Signieren loslegen.
+In 4 Schritten machen wir dich signierbereit. Du benötigst nur ein Mobiltelefon <br class="hide-for-mobile">und ein gültiges Reisedokument 
+(Pass oder Identitätskarte).
 {{% /heading %}}
 
 {{< row >}}
@@ -20,7 +21,7 @@ Vier kurze Schritte, und du kannst mit dem Signieren loslegen.
 {{< picture "identification-step-1" 252 "Eine lupe vergrößert das bild eines mannes in einem pass" >}}
 {{% richtext %}}
 **Schritt 1**<br>
-Der Ausweis des Nutzers wird mit <br class="hide-for-mobile">der ID-App von Swisscom gescannt <br class="hide-for-mobile">und geprüft.
+Wir scannen und prüfen deinen Ausweis mit der ID-App von Swisscom.
 {{% /richtext %}}
 {{% /step %}}
 
@@ -28,7 +29,7 @@ Der Ausweis des Nutzers wird mit <br class="hide-for-mobile">der ID-App von Swis
 {{< picture "identification-step-2" 158 "Eine elektronische identität auf einem mobiltelefon" >}}
 {{% richtext %}}
 **Schritt 2**<br>
-Swisscom verifiziert die Daten und legt sie sicher ab.
+Swisscom verifiziert deine Daten und legt sie sicher ab.
 {{% /richtext %}}
 {{% /step %}}
 {{< /row >}}
@@ -38,7 +39,7 @@ Swisscom verifiziert die Daten und legt sie sicher ab.
 {{< picture "identification-step-3" 270 "Ein mann der erfolgreich elektronisch identifiziert ist" >}}
 {{% richtext %}}
 **Schritt 3**<br>
-Der Status des Nutzers wird bei Skribble im Profil direkt auf “signierbereit” geändert.
+Wir setzen deinen Profilstatus direkt auf “signierbereit”.
 {{% /richtext %}}
 {{% /step %}}
 
@@ -46,32 +47,11 @@ Der Status des Nutzers wird bei Skribble im Profil direkt auf “signierbereit�
 {{< picture "identification-step-4" 270 "Eine person hält ein rechtsgültiges dokument in den händen. Im hintergrund befindet sich das swisscom logo" >}}
 {{% richtext %}}
 **Schritt 4**<br>
-Der Nutzer kann mit Skribble fortan qualifiziert elektronisch signieren.
+Ab sofort signierst du elektronisch mit QES.
 {{% /richtext %}}
 {{% /step %}}
 {{< /row >}}
 {{% /content %}}
-
-[//]: # (--------------------------------------------------------------------------------------------------------------)
-
-{{% content %}}
-{{% heading %}}
-# In wenigen Minuten bereit <br class="hide-for-mobile">zum Signieren
-Du benötigst nur ein Mobiltelefon und ein gültiges Reisedokument <br class="hide-for-mobile">(Pass oder Identitätskarte).
-{{% /heading %}}
-{{< picture "create-identity" 385 "Eine lupe vergrößert das bild einer frau in einem pass" >}}
-&nbsp;
-{{% /content %}}
-
-{{% cta
-  label="Termin vereinbaren"
-  href="https://help.skribble.com/meetings/patrick182/identifikation-bei-skribble"
-  target="_blank"
-%}}
-{{% richtext %}}
-**Wähle einen Termin aus <br class="hide-for-mobile">und lass dich identifizieren**
-{{% /richtext %}}
-{{% /cta %}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
@@ -101,13 +81,13 @@ Die erfassten Daten werden auf den Hochsicherheitsservern der Swisscom in <br cl
 
 {{% content %}}
 {{% heading %}}
-# Identifkations-Standorte
+# Standorte für die Identitätsprüfung
 Komm vorbei und lass dich kostenlos identifzieren.
 {{% /heading %}}
 {{% /content %}}
 
 {{% cta
-  label="Termin vereinbaren"
+  label="E-ID-Termin vereinbaren"
   href="https://natelprofi.ch/"
   target="_blank"
   title="Belp"
@@ -130,7 +110,7 @@ CH-3123 Belp
 {{% /cta %}}
 
 {{% cta
-  label="Termin vereinbaren"
+  label="E-ID-Termin vereinbaren"
   href="https://help.skribble.com/meetings/patrick182/identifikation-bei-skribble"
   target="_blank"
   title="Zürich"

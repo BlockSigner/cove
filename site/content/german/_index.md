@@ -66,7 +66,7 @@ Lade die signierenden Personen per E-Mail ein und lege die Signatur-Reihenfolge 
 {{< side-by-side >}}
 {{% richtext %}}
 ## Rechtsgültig signieren
-Ihr signiert rechtsgültig per Knopfdruck, unabhängig von Zeit und Ort mit einer qualifizierten elektronischen Signatur nach Schweizer und EU Recht (ZertES und eIDAS).
+Signiere rechtsgültig per Knopfdruck, unabhängig von Zeit und Ort mit einer qualifizierten elektronischen Signatur nach Schweizer und EU-Recht (ZertES und eIDAS).
 {{% /richtext %}}
 
 {{< picture image4 391 "Drei personen signieren rechtsgültig zusammen ein online dokument" >}}
@@ -75,7 +75,7 @@ Ihr signiert rechtsgültig per Knopfdruck, unabhängig von Zeit und Ort mit eine
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
 {{< testimonial "testimonial/e-forsight-146w.png" "e-foresight Think Tank" >}}
-"Skribble bietet eine kundenfreundliche Lösung für die qualifizierte elektronische Signatur in der Schweiz an."
+"Skribble bietet eine kundenfreundliche Lösung für die QES in der Schweiz an."
 {{< /testimonial >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
@@ -83,11 +83,11 @@ Ihr signiert rechtsgültig per Knopfdruck, unabhängig von Zeit und Ort mit eine
 {{% content %}}
 {{% heading %}}
 # Mit Skribble erfüllst du <br class="hide-for-mobile">die rechtlichen Anforderungen
-Du signierst rechtsgültig und sicher gemäss folgenden Erfordernissen:
+Signiere rechtsgültig und sicher gemäss folgenden Erfordernissen:
 {{% /heading %}}
 
 {{% collapsible 1 "Schriftlichkeitserfordernis gemäss OR/eIDAS" "check" %}}
-Skribble basiert auf der qualifizierten elektronischen Signatur (QES). <br class="hide-for-mobile">Diese ist der handschriftlichen Unterschrift vor Schweizer und EU-Gesetz gleichgestellt.
+Skribble basiert auf der QES. Diese ist der handschriftlichen Unterschrift vor Schweizer und EU-Gesetz gleichgestellt.
 {{% /collapsible %}}
 
 {{% collapsible 2 "Qualifizierte elektronische Signatur (QES) gemäss ZertES/eIDAS " "check" %}}
@@ -110,7 +110,7 @@ Skribble sowie Partner verwalten ihre Daten gemäss dem Bundesgesetz über den D
 {{< picture qes-erklaert 122 "Signiert mit Skribble bedeutet rechtsgültig (QES) signiert nach Schweizer und EU-Gesetz." >}}
 
 {{% richtext %}}
-**Warum erfüllt die qualifizierte elektronische Signatur (QES) den rechtlichen Standard?**<br>
+**Warum erfüllt die QES <br class="hide-for-mobile">den rechtlichen Standard?**<br>
 {{% /richtext %}}
 {{% /cta %}}
 
