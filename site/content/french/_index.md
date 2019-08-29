@@ -158,9 +158,8 @@ Laissez Skribble vous identifier et commencez à signer immédiatement.
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< testimonial "testimonial/procivis-146w.png" "Daniel Gasteiger, Fondateur et CEO de Procivis (eID+)" >}}
-"La signature électronique des documents devient une fonction essentielle des identités numériques de confiance."
-{{< /testimonial >}}
+{{< testimonial "testimonial/logo-fr-110w.png" "Stéphane Schwab – canton de Fribourg" >}}
+"Grâce à Skribble, nous pouvons numériser les processus administratifs de A à Z. <br class="hide-for-mobile">Cela facilite notre vie quotidienne et celle de nos clients." {{< /testimonial >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 

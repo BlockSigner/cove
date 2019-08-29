@@ -122,8 +122,8 @@ Il vous suffit d'avoir un téléphone mobile et un document <br class="hide-for-
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< testimonial "testimonial/logo-fr-110w.png" "Stéphane Schwab – canton de Fribourg" >}}
-"Grâce à Skribble, nous pouvons numériser les processus administratifs de A à Z. Cela facilite notre vie quotidienne et celle de nos clients." 
+{{< testimonial "testimonial/procivis-146w.png" "Daniel Gasteiger, Fondateur et CEO de Procivis (eID+)" >}}
+"La signature électronique des documents devient une fonction essentielle <br class="hide-for-mobile">des identités numériques de confiance." 
 {{< /testimonial >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)

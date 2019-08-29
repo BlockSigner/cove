@@ -163,9 +163,8 @@ Let Skribble identify you and start signing immediately.
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< testimonial "testimonial/procivis-146w.png" "Daniel Gasteiger, founder and CEO of Procivis (eID+)" >}}
-"The electronic signing of documents becomes a core function of trusted digital identities"
-{{< /testimonial >}}
+{{< testimonial "testimonial/logo-fr-110w.png" "Stéphane Schwab, Head of E-Government, Canton of Fribourg" >}}
+"Thanks to Skribble, we can digitize administrative processes from A to Z. <br class="hide-for-mobile">This makes everyday life easier for <br class="hide-for-mobile">us and our customers." {{< /testimonial >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
