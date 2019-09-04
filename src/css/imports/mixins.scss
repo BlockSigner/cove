@@ -138,11 +138,12 @@
     }
   }
 
-  ol {
+  > ol {
     margin-bottom: 0;
     border-top: 1px solid $c-border;
     list-style: none;
     counter-reset: my-awesome-counter;
+
     li {
       position: relative;
       margin: 0;
@@ -161,6 +162,29 @@
     strong {
       display: block;
       width: 100%;
+    }
+
+    // ordered list for legal documents like terms of use
+    &.legal {
+      border: 0;
+      counter-reset: none;
+
+      h1, h2, h3 {
+        margin: -1px 0 0;
+      }
+
+      li {
+        padding: 16px 0;
+        list-style-position: inside;
+        &:empty {
+          padding: 16px 0 16px 28px;
+        }
+      }
+
+      .legal__title {
+        padding-bottom: 0;
+      }
+
     }
   }
 
