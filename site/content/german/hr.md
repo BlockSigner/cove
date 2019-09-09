@@ -1,6 +1,6 @@
 ---
-title:
-description:
+title: Die digitale Unterschrift im Human Resources von Skribble
+description:Unkompliziert und rechtsicher Arbeitsverträge, Arbeitszeugnisse und Lohnausweise signieren. Mit der Stapelsignatur kannst du alle PDfs mit einem Klick unterschreiben.
 draft: false
 slug: hr
 
@@ -54,7 +54,7 @@ Digitalisierungs-Enabler: Die Belegschaft wird durch das HR zum elektronsichen S
 ## Signiere innerhalb <br class="hide-for-mobile">deines bestehenden HRMs
 Bei gewohnten Tools bleiben: Signiere aus deinen bestehenden Systemen heraus, z.B. Google Drive, One Drive, Drop Box oder Secure Safe. Alternativ signierst du direkt über den Browser. (Kommt Ende 2019)
 {{% /richtext %}}
-{{< picture integrations 381 "Mann unterzeichnet mit einem Füllfederhalter möchte drei Verträg" >}}
+{{< picture integrations 381 "Verbindung der unterschiedlichen Beteiligten bei Gebrauch von Skribble aus einem HRM visuell dargestellt" >}}
 {{< /side-by-side >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
@@ -107,7 +107,7 @@ Skribble sowie Partner verwalten ihre Daten gemäss dem Bundesgesetz über den D
 # In wenigen Minuten bereit <br class="hide-for-mobile">zum Signieren
 Du benötigst nur ein Mobiltelefon und ein gültiges Reisedokument <br class="hide-for-mobile">(Pass oder Identitätskarte).
 {{% /heading %}}
-{{< picture "create-identity" 385 "A magnifying glass enlarges the image of a woman in a passport" >}}
+{{< picture "create-identity" 385 "Eine Lupe vergrössert das Bild einer Frau in einem Pass" >}}
 &nbsp;
 {{% /content %}}
 
