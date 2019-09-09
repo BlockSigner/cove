@@ -11,7 +11,7 @@ slug: qes-erklaert
 # Skribble hat dieselbe Rechtssicherheit wie das Unterschreiben von Hand
 Signiert mit Skribble bedeutet rechtsgültig signiert nach Schweizer und EU-Gesetz.
 {{% /heading %}}
-{{< picture rechtssicherheit-wie-hand 665 >}}
+{{< picture rechtssicherheit-wie-hand 665 "Ein Mann unterschreibt mit einem Füller digitale Dokumente nach Schweizer und Europäischen Recht" >}}
 {{% richtext %}}
 **Das Gesetz erlaubt das Signieren von Dokumenten auf elektronischem Weg**<br>
 Bei Verträgen, die die Schriftlichkeit verlangen – in der physischen Welt also von Hand unterschrieben werden müssen – gibt das Gesetz einen digitalen Standard vor: Die qualifizierte elektronischee Signatur (QES).
@@ -25,7 +25,7 @@ Bei Verträgen, die die Schriftlichkeit verlangen – in der physischen Welt als
 # Skribble bietet 100% Rechtssicherheit vor Gericht
 Skribble arbeitet mit der QES. Damit sind Dokumente, die mit Skribble signiert wurden, rechtlich vollends bindend.
 {{% /heading %}}
-{{< picture image5 430 >}}
+{{< picture image5 430 "Eine person hält ein rechtsgültiges dokument in den händen. Im hintergrund befindet sich das swisscom logo" >}}
 {{% /content %}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
@@ -41,7 +41,7 @@ Skribble arbeitet mit der QES. Damit sind Dokumente, die mit Skribble signiert w
 # So prüfst du, ob dein Dokument <br class="hide-for-mobile">mit der QES signiert wurde
 Mit dem Validator der Schweizer Bundesverwaltung kannst du prüfen, ob dein Dokument mit einer QES nach Schweizer Recht signiert wurde.*
 {{% /heading %}}
-{{< picture "qes-pruefen" 474 >}}
+{{< picture "qes-pruefen" 474 "Ein Mann lädt ein Dokument in den Validator der Schweizer Bundesverwaltung" >}}
 {{% richtext %}}
 <small>* funktioniert für QES nach Schweizer Recht, nicht aber nach EU-Recht (eIDAS).</small>
 ### So gehst du vor:
