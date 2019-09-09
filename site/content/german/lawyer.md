@@ -1,6 +1,6 @@
 ---
-title:
-description:
+title:Die digitale Unterschrift für Anwälte von Skribble
+description:Ohne zusätzliche Hardware kannst Dokumente mit der qualifizierten elektronischen Signatur (QES) signieren. Vertragsparteien unterschreiben zeitsparend parallel.
 draft: false
 slug: anwaelte
 
@@ -106,7 +106,7 @@ Skribble sowie Partner verwalten ihre Daten gemäss dem Bundesgesetz über den D
 # In wenigen Minuten bereit <br class="hide-for-mobile">zum Signieren
 Du benötigst nur ein Mobiltelefon und ein gültiges Reisedokument <br class="hide-for-mobile">(Pass oder Identitätskarte).
 {{% /heading %}}
-{{< picture "create-identity" 385 "A magnifying glass enlarges the image of a woman in a passport" >}}
+{{< picture "create-identity" 385 "Eine Lupe vergrössert das Bild einer Frau in einem Pass" >}}
 &nbsp;
 {{% /content %}}
 
