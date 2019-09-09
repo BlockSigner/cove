@@ -1,6 +1,6 @@
 ---
-title:
-description:
+title:Signer électroniquement dans les RH
+description:Avec Skribble, vous signez en toute sécurité juridique et en toute simplicité par voie numérique – des contrats de travail aux références en passant par les certificats de salaire.
 draft: false
 slug: ressources-humaines
 
@@ -54,7 +54,7 @@ Facilitateur de la numérisation: les RH permettent au personnel de signer élec
 ## Signez directement <br class="hide-for-mobile">dans vos logiciels RH
 Restez avec des outils familiers: signez à partir de vos programmes existants, par exemple Google Drive, One Drive, Drop Box ou Secure Safe. Vous pouvez également vous connecter directement via votre navigateur. (A venir fin 2019)
 {{% /richtext %}}
-{{< picture integrations 381 "Un homme signé avec un stylo plume aimerait trois contrats" >}}
+{{< picture integrations 381 "Signez directement dans vos logiciels RH" >}}
 {{< /side-by-side >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
