@@ -11,7 +11,7 @@ slug: qes-explained
 # Skribble has the same legal certainty <br class="hide-for-mobile">as signing by hand
 Signed with Skribble means legally signed according to Swiss and EU law.
 {{% /heading %}}
-{{< picture rechtssicherheit-wie-hand 665 >}}
+{{< picture rechtssicherheit-wie-hand 665 "A man signs digital documents according to Swiss and European law with a pen" >}}
 {{% richtext %}}
 **The law allows documents to be signed electronically**<br>
 For contracts that require the written form and must be signed by hand in the physical world, the law sets a digital standard: The qualified electronic signature QES.
@@ -25,7 +25,7 @@ For contracts that require the written form and must be signed by hand in the ph
 # Skribble offers 100% legal <br class="hide-for-mobile">certainty in court
 Skribble works with QES. This means that documents signed with Skribble <br class="hide-for-mobile">are legally binding.
 {{% /heading %}}
-{{< picture image5 430 >}}
+{{< picture image5 430 "A person holds a legal document in his hands. The swisscom logo is in the background" >}}
 {{% /content %}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
@@ -41,7 +41,7 @@ Skribble works with QES. This means that documents signed with Skribble <br clas
 # Check whether your document <br class="hide-for-mobile">has been signed with QES
 The Validator service of the Swiss Federal Administration allows you to check whether your document has been signed with a QES according to Swiss law.*
 {{% /heading %}}
-{{< picture "qes-pruefen" 474 >}}
+{{< picture "qes-pruefen" 474 "A man loads a document into the validator of the Swiss federal administration" >}}
 {{% richtext %}}
 <small>* works for QES according to Swiss law, but not according to EU law (eIDAS).</small>
 ### Here's how to do it:
@@ -57,7 +57,7 @@ The Validator service of the Swiss Federal Administration allows you to check wh
   target="_blank"
   outlined="true"
 %}}
-{{< picture ch-logo 54 >}}
+{{< picture ch-logo 54 "Logo of the swiss federal administration" >}}
 {{% richtext %}}
 **A service of the Swiss Federal Administration.**
 {{% /richtext %}}
