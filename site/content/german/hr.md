@@ -1,6 +1,6 @@
 ---
 title: Die digitale Unterschrift im Human Resources von Skribble
-description:Unkompliziert und rechtsicher Arbeitsverträge, Arbeitszeugnisse und Lohnausweise signieren. Mit der Stapelsignatur kannst du alle PDfs mit einem Klick unterschreiben.
+description: Unkompliziert und rechtsicher Arbeitsverträge, Arbeitszeugnisse und Lohnausweise signieren. Mit der Stapelsignatur kannst du alle PDfs mit einem Klick unterschreiben.
 draft: false
 slug: hr
 
