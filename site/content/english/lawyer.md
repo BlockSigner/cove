@@ -1,6 +1,6 @@
 ---
-title:The Electronic signature for lawyers from Skribble
-description:With Skribble you sign without additional hardware with the qualified electronic signature (QES). All contractual parties sign electronically.
+title: The Electronic signature for lawyers from Skribble
+description: With Skribble you sign without additional hardware with the qualified electronic signature (QES). All contractual parties sign electronically.
 draft: false
 slug: lawyer
 
