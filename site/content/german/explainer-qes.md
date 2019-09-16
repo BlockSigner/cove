@@ -14,7 +14,7 @@ Signiert mit Skribble bedeutet rechtsgültig signiert nach Schweizer und EU-Gese
 {{< picture rechtssicherheit-wie-hand 665 >}}
 {{% richtext %}}
 **Das Gesetz erlaubt das Signieren von Dokumenten auf elektronischem Weg**<br>
-Bei Verträgen, die die Schriftlichkeit verlangen – in der physischen Welt also von Hand unterschrieben werden müssen – gibt das Gesetz einen digitalen Standard vor: Die qualifizierte elektronischee Signatur (QES).
+Bei Verträgen, die die Schriftlichkeit verlangen – in der physischen Welt also von Hand unterschrieben werden müssen – gibt das Gesetz einen digitalen Standard vor: Die qualifizierte elektronische Signatur (QES).
 {{% /richtext %}}
 {{% /content %}}
 
