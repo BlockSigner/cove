@@ -1,6 +1,6 @@
 ---
-title:Die digitale Unterschrift für Anwälte von Skribble
-description:Ohne zusätzliche Hardware kannst Dokumente mit der qualifizierten elektronischen Signatur (QES) signieren. Vertragsparteien unterschreiben zeitsparend parallel.
+title: Die digitale Unterschrift für Anwälte von Skribble
+description: Ohne zusätzliche Hardware kannst Dokumente mit der qualifizierten elektronischen Signatur (QES) signieren. Vertragsparteien unterschreiben zeitsparend parallel.
 draft: false
 slug: anwaelte
 
