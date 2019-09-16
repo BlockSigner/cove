@@ -1,6 +1,6 @@
 ---
-title:Signature électronique pour juristes
-description:Avec Skribble vous signez sans matériel supplémentaire avec la signature électronique qualifiée (QES). Toutes les parties contractantes signent en parallèle.
+title: Signature électronique pour juristes
+description: Avec Skribble vous signez sans matériel supplémentaire avec la signature électronique qualifiée (QES). Toutes les parties contractantes signent en parallèle.
 draft: false
 slug: juristes
 
