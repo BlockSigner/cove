@@ -23,7 +23,7 @@ Easily handle digital signature processes – legally binding in accordance with
 </div>
 
 {{< intro-partner
-  "swisscom.png"
+  "image/swisscom.png"
   "Based on the qualified electronic signature QES by Swisscom"
 >}}
 
@@ -95,7 +95,7 @@ All you need is a mobile phone and a valid identification document (passport or 
 A law firm may also elect to identify persons itself.
 
 {{< intro-partner
-  "swisscom.png"
+  "image/swisscom.png"
   "Official identification partner of Swisscom"
 >}}
 

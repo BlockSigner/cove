@@ -23,7 +23,7 @@ Traiter les processus de signature numériquement &ndash; juridiquement valides 
 </div>
 
 {{< intro-partner
-  "swisscom.png"
+  "image/swisscom.png"
   "Basé sur la signature électronique qualifiée QES de Swisscom"
 >}}
 
@@ -95,7 +95,7 @@ Tout ce dont tu as besoin c'est d'un téléphone portable et un document d'ident
 Un entreprise peut également être qualifié pour le faire, pour identifier les gens vous-même.
 
 {{< intro-partner
-  "swisscom.png"
+  "image/swisscom.png"
   "Partenaire officiel d'identification de Swisscom"
 >}}
 
