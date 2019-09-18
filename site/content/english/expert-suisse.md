@@ -92,7 +92,7 @@ All you need is a mobile phone and a valid identification document (passport or 
 - **You're ready to sign right away**
 {{% /fancy-list %}}
 
-A law firm may also elect to identify persons itself.
+A firm may also elect to identify persons itself.
 
 {{< intro-partner
   "swisscom.png"

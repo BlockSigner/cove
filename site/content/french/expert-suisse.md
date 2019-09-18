@@ -92,7 +92,7 @@ Tout ce dont tu as besoin c'est d'un téléphone portable et un document d'ident
 - **Vous êtes prêt à signer tout de suite**
 {{% /fancy-list %}}
 
-Un cabinet d'avocats peut également être qualifié pour le faire, pour identifier les gens vous-même.
+Un entreprise peut également être qualifié pour le faire, pour identifier les gens vous-même.
 
 {{< intro-partner
   "swisscom.png"

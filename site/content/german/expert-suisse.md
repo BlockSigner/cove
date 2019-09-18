@@ -92,7 +92,7 @@ Du benötigst nur ein Mobiltelefon und ein gültiges Ausweispapier (Pass oder Id
 - **Du bist sofort signierbereit**
 {{% /fancy-list %}}
 
-Eine Kanzlei kann auch dazu befähigt werden, selbst Personen zu identifizieren.
+Eine Firma kann auch dazu befähigt werden, selbst Personen zu identifizieren.
 
 {{< intro-partner
   "swisscom.png"
