@@ -1,8 +1,8 @@
 ---
-title: Nutzungsbedingungen
-slug: nutzungsbedingungen
+title: Allgemeine Geschäftsbedingungen (AGB) der Skribble AG
+slug: agbs
 draft: false
-description: Nutzungsbedingungen meta description
+description: Allgemeine Geschäftsbedingungen (AGB) der Skribble AG
 ---
 
 {{% content %}}
