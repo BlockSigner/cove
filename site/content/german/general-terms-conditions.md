@@ -12,19 +12,19 @@ description: Allgemeine Geschäftsbedingungen (AGB) der Skribble AG
 
 Zwischen Ihnen als Kunde (Sie, Ihnen, etc. oder Kunde) der Skribble E-Signing-Plattform (Skribble-Dienste) und Skribble AG, Bahnhofstrasse 3, 8001 Zürich, Schweiz, respektive Skribble Deutschland GmbH, Pforzheimer Straße 128a, 76275 Ettlingen, Deutschland (Skribble) gilt Folgendes:
 
-{{% legal-list %}}
+{{% legal-list-three %}}
 ### Allgemeine Bestimmungen
-1. Geltungsbereich und Vertragsschluss
-1.1. Diese AGB sind anwendbar auf sämtliche Dienstleistungen, die Skribble dem Kunden erbringt.
-1.1. Wenn Sie als Kunde Ihr Domizil oder ihren Sitz in der Schweiz oder ausserhalb der EU haben, gehen Sie eine Rechtsbeziehung mit Skribble AG, Bahnhofstrasse 3, 8001 Zürich, ein. Wenn Sie als Kunde Ihr Domizil oder Ihren Sitz in der EU haben, gehen Sie eine Rechtsbeziehung mit Skribble Deutschland GmbH, Pforzheimer Straße 128a, 76275 Ettlingen, Deutschland, ein.
-1.1. Der Kunde stimmt der Geltung dieser AGB zu, indem er das Angebot von Skribble akzeptiert, den Deckblattvertrag unterzeichnet oder über die Skribble-Dienste einen Vertrag abschliesst, wodurch ein Kundenvertrag zwischen dem Kunden und Skribble zu Stande kommt. Rechtlichen Bedingungen, die der Kunde allenfalls ergänzend zur Anwendung bringen will, wird hiermit widersprochen, womit diese nicht zur Anwendung kommen. Vorbehalten ist eine ausdrückliche abweichende Regelung, wenn beide Parteien sie unterzeichnen.
-1.1. Die Nutzung der Skribble-Dienste durch die Systemnutzer richtet sich nach separaten Bestimmungen (siehe Ziffer 5).
+#### Geltungsbereich und Vertragsschluss
+1. Diese AGB sind anwendbar auf sämtliche Dienstleistungen, die Skribble dem Kunden erbringt.
+2. Wenn Sie als Kunde Ihr Domizil oder ihren Sitz in der Schweiz oder ausserhalb der EU haben, gehen Sie eine Rechtsbeziehung mit Skribble AG, Bahnhofstrasse 3, 8001 Zürich, ein. Wenn Sie als Kunde Ihr Domizil oder Ihren Sitz in der EU haben, gehen Sie eine Rechtsbeziehung mit Skribble Deutschland GmbH, Pforzheimer Straße 128a, 76275 Ettlingen, Deutschland, ein.
+3. Der Kunde stimmt der Geltung dieser AGB zu, indem er das Angebot von Skribble akzeptiert, den Deckblattvertrag unterzeichnet oder über die Skribble-Dienste einen Vertrag abschliesst, wodurch ein Kundenvertrag zwischen dem Kunden und Skribble zu Stande kommt. Rechtlichen Bedingungen, die der Kunde allenfalls ergänzend zur Anwendung bringen will, wird hiermit widersprochen, womit diese nicht zur Anwendung kommen. Vorbehalten ist eine ausdrückliche abweichende Regelung, wenn beide Parteien sie unterzeichnen.
+4. Die Nutzung der Skribble-Dienste durch die Systemnutzer richtet sich nach separaten Bestimmungen (siehe Ziffer 5).
 
-1. Gegenstand
-1.1. Diese AGB sind anwendbar auf sämtliche Dienstleistungen, die Skribble dem Kunden erbringt.
-1.1. Wenn Sie als Kunde Ihr Domizil oder ihren Sitz in der Schweiz oder ausserhalb der EU haben, gehen Sie eine Rechtsbeziehung mit Skribble AG, Bahnhofstrasse 3, 8001 Zürich, ein. Wenn Sie als Kunde Ihr Domizil oder Ihren Sitz in der EU haben, gehen Sie eine Rechtsbeziehung mit Skribble Deutschland GmbH, Pforzheimer Straße 128a, 76275 Ettlingen, Deutschland, ein.
-1.1. Der Kunde stimmt der Geltung dieser AGB zu, indem er das Angebot von Skribble akzeptiert, den Deckblattvertrag unterzeichnet oder über die Skribble-Dienste einen Vertrag abschliesst, wodurch ein Kundenvertrag zwischen dem Kunden und Skribble zu Stande kommt. Rechtlichen Bedingungen, die der Kunde allenfalls ergänzend zur Anwendung bringen will, wird hiermit widersprochen, womit diese nicht zur Anwendung kommen. Vorbehalten ist eine ausdrückliche abweichende Regelung, wenn beide Parteien sie unterzeichnen.
-1.1. Die Nutzung der Skribble-Dienste durch die Systemnutzer richtet sich nach separaten Bestimmungen (siehe Ziffer 5).
+#### Gegenstand
+1. Diese AGB sind anwendbar auf sämtliche Dienstleistungen, die Skribble dem Kunden erbringt.
+2. Wenn Sie als Kunde Ihr Domizil oder ihren Sitz in der Schweiz oder ausserhalb der EU haben, gehen Sie eine Rechtsbeziehung mit Skribble AG, Bahnhofstrasse 3, 8001 Zürich, ein. Wenn Sie als Kunde Ihr Domizil oder Ihren Sitz in der EU haben, gehen Sie eine Rechtsbeziehung mit Skribble Deutschland GmbH, Pforzheimer Straße 128a, 76275 Ettlingen, Deutschland, ein.
+3. Der Kunde stimmt der Geltung dieser AGB zu, indem er das Angebot von Skribble akzeptiert, den Deckblattvertrag unterzeichnet oder über die Skribble-Dienste einen Vertrag abschliesst, wodurch ein Kundenvertrag zwischen dem Kunden und Skribble zu Stande kommt. Rechtlichen Bedingungen, die der Kunde allenfalls ergänzend zur Anwendung bringen will, wird hiermit widersprochen, womit diese nicht zur Anwendung kommen. Vorbehalten ist eine ausdrückliche abweichende Regelung, wenn beide Parteien sie unterzeichnen.
+4. Die Nutzung der Skribble-Dienste durch die Systemnutzer richtet sich nach separaten Bestimmungen (siehe Ziffer 5).
 
 
 ### Allgemeine Regeln im Umgang mit dem Account
@@ -40,7 +40,7 @@ Zwischen Ihnen als Kunde (Sie, Ihnen, etc. oder Kunde) der Skribble E-Signing-Pl
 6. Systemnutzer dürfen sich nicht als eine fremde Person oder sich fälschlicherweise als zu einer Organisation ausgeben oder ihre Zugehörigkeit bzw. Beziehung zu einer solchen falsch angeben oder auf andere Art falsch darstellen.
 7. Systemnutzer sorgen selbständig für die Sicherung von Daten in ihrem Account. Skribble schuldet keine Datenverfügbarkeit.
 8. Systemnutzer anerkennen das Recht von Skribble, Daten aus ihrem Nutzeraccount dem Kunden (üblicherweise der Arbeitgeber des Systemnutzers) offenzulegen, wenn der Anschein besteht, dass der betreffende Systemnutzer Skribble missbraucht hat, um strafrechtlich oder rechtsverletzende Informationen zu verbreiten.
-{{% /legal-list %}}
+{{% /legal-list-three %}}
 
 {{% /richtext %}}
 {{% /content %}}

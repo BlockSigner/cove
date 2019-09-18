@@ -1,0 +1,52 @@
+.legal-list-three {
+  counter-reset: section subsection;
+
+  h1, h2, h3 {
+    border-bottom: 1px solid $c-border;
+    &:before {
+      margin: 0 0.5em 0 0;
+      counter-increment: section;
+      content: counter(section) ". ";
+    }
+  }
+
+  h4 {
+    border-bottom: 1px solid $c-border;
+    &:before {
+      margin: 0 0.5em 0 0;
+      counter-increment: subsection;
+      content: counter(section) "." counter(subsection) ". ";
+    }
+  }
+
+  ol {
+    counter-reset: clause;
+    list-style: none inside none;
+
+    li {
+      padding: 16px 0;
+      margin: 0;
+      border-bottom: 1px solid $c-border;
+      counter-increment: clause;
+      &:before {
+        margin: 0 0.5em 0 0;
+        font-weight: bold;
+        color: $c-text-alt;
+        content: counter(section) "." counter(subsection) "." counter(clause) ". ";
+      }
+
+      &:last-child {
+        border-bottom: 0;
+      }
+
+      > ol {
+        margin-top: 16px;
+        border-top: 1px solid $c-border;
+      }
+
+      li {
+        padding-left: 16px;
+      }
+    }
+  }
+}
