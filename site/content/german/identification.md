@@ -84,7 +84,7 @@ Wer über keine E-ID verfügt, kann das mit Skribble in Minutenschnelle nachhole
 {{< row >}}
 {{% plan
   gold
-  "Identifications-Service"
+  "Identifikations-Service"
   "Identification Easy"
   "Download Factsheet"
   "https://cdn2.hubspot.net/hubfs/5051692/Skribble%20Overview/Skribble_Overview_Identification%20Easy.pdf"
