@@ -71,7 +71,7 @@ Traiter les processus de signature numériquement &ndash; juridiquement valides 
 {{% richtext %}}
 
 ## par mois / utilisateur au lieu de CHF 25.-
-Les signatures peuvent également être obtenues selon un modèle prépayé.
+Signature gratuite avec Skribble jusqu'à la fin de l'année pour les membres EXPERTsuisse.
 {{% /richtext %}}
 
 {{% /content %}}

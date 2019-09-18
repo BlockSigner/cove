@@ -71,7 +71,7 @@ Signaturprozesse einfach digital abwickeln – rechtsgültig nach dem Schweizer 
 
 {{% richtext %}}
 ## pro Monat / Nutzer anstatt CHF 25.-
-Signaturen können auch nutzerunabhängig bezogen werden.
+Kostenlos Signieren mit Skribble bis Ende Jahr für Mitglieder von EXPERTsuisse.
 {{% /richtext %}}
 
 {{% /content %}}

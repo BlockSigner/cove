@@ -71,7 +71,7 @@ Easily handle digital signature processes – legally binding in accordance with
 {{% richtext %}}
 
 ## per month / user instead of CHF 25.00
-Signatures can also be obtained independently of the user.
+Free signing with Skribble until end of year for EXPERTsuisse members.
 {{% /richtext %}}
 
 {{% /content %}}
