@@ -2,7 +2,7 @@
 title: Skribble – Signature électronique légalement valide
 description: Traiter les processus de signature numériquement - juridiquement valides selon le droit suisse et européen.
 draft: false
-slug: expert-suisse
+slug: expertsuisse
 type: blank
 
 ---
