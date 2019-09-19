@@ -2,7 +2,7 @@
 title: Skribble – Rechtsgültig elektronisch signieren
 description: Signaturprozesse einfach digital abwickeln – Rechtsgültig nach dem Schweizer & EU-Gesetz.
 draft: false
-slug: expert-suisse
+slug: expertsuisse
 type: blank
 
 ---
@@ -15,7 +15,7 @@ type: blank
 {{% richtext %}}
 {{% heading left %}}
 # Rechtsgültig elektronisch signieren mit Skribble
-Signaturprozesse einfach digital abwickeln – rechtsgültig nach dem Schweizer & EU Gesetz.
+Signaturprozesse einfach digital abwickeln – <br class="hide-for-mobile">rechtsgültig nach dem Schweizer & EU Gesetz.
 {{% /heading %}}
 
 <div class="hide-for-desktop">
@@ -64,16 +64,15 @@ Signaturprozesse einfach digital abwickeln – rechtsgültig nach dem Schweizer 
 
 {{% content %}}
 {{% heading %}}
-# EXPERTsuisse Mitglieder nutzen Skribble zum Vorzugspreis
+# Kostenlos Signieren mit Skribble <br class="hide-for-mobile">bis Ende Jahr für Mitglieder <br class="hide-for-mobile">von EXPERTsuisse
 {{% /heading %}}
-
 {{< picture sav-special 200 "Blauer kreis mit der nummer 12" >}}
-
-{{% richtext %}}
+{{% heading %}}
 ## pro Monat / Nutzer anstatt CHF 25.-
-Kostenlos Signieren mit Skribble bis Ende Jahr für Mitglieder von EXPERTsuisse.
-{{% /richtext %}}
+Exklusiv für EXPERTsuisse Mitglieder:
+{{< picture expertsuisse-logo 250 "EXPERTsuisse Logo" >}}
 
+{{% /heading %}}
 {{% /content %}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
@@ -84,7 +83,7 @@ Kostenlos Signieren mit Skribble bis Ende Jahr für Mitglieder von EXPERTsuisse.
 {{% richtext %}}
 # Bereit zum Signieren in 5 Minuten
 
-Du benötigst nur ein Mobiltelefon und ein gültiges Ausweispapier (Pass oder Identitätskarte).
+Du benötigst nur ein Mobiltelefon und ein gültiges Ausweis (Pass oder Identitätskarte).
 
 {{% fancy-list %}}
 - **Skribble kommt bei dir vorbei**
@@ -92,7 +91,7 @@ Du benötigst nur ein Mobiltelefon und ein gültiges Ausweispapier (Pass oder Id
 - **Du bist sofort signierbereit**
 {{% /fancy-list %}}
 
-Eine Firma kann auch dazu befähigt werden, selbst Personen zu identifizieren.
+Deine Firma kann auch dazu befähigt werden, selbst Personen zu identifizieren.
 
 {{< intro-partner
   "image/swisscom.png"
@@ -101,6 +100,34 @@ Eine Firma kann auch dazu befähigt werden, selbst Personen zu identifizieren.
 
 {{% /richtext %}}
 {{< /side-by-side >}}
+
+[//]: # (--------------------------------------------------------------------------------------------------------------)
+
+{{% content %}}
+{{% heading %}}
+# Alles klar?
+{{% /heading %}}
+
+{{% collapsible 10 "Wo sind Dokumente, die mit Skribble signiert wurden, gespeichert?" %}}
+Das Datenzentrum von Skribble ist in der Schweiz und nach ISO 270001 zertifiziert (Hosting nach Bankenstandard).      
+{{% /collapsible %}}
+
+{{% collapsible 11 "Wie stellt Skribble sicher, dass die richtige Person signiert?" %}}
+Alle Signierenden werden im Voraus identifziert. Während dem Signieren bestätigt die signierende Person ihre Identität über zwei Schritte, die sogenannte Zwei-Faktor-Authentifizierung. Diese beinhaltet ein SMS mit One-Time-Password oder die Mobile ID. Der Prozess ist vergleichbar mit dem Login ins E-Banking.
+{{% /collapsible %}}
+
+{{% collapsible 12 "Ist das Signieren mit Skribble rechtssicher?" %}}
+Ja. Skribble basiert auf der qualifizierten elektronischen Signatur (QES). <br class="hide-for-mobile">Die QES ist die einzige Form der elektronischen Signatur, welche der handschriftlichen Signatur vor Schweizer (Art. 14 2bis OR) und EU-Gesetz <br class="hide-for-mobile">(Art. 25 (2) eIDAS) gleichgestellt ist. 
+{{% /collapsible %}}
+
+{{% collapsible 13 "Kann ich den digital signierten Vertrag in Papierform aufbewahren?" %}}
+Nicht ausschliesslich. Dank der visuellen Signatur ist auf dem ausgedruckten Vertrag ersichtlich, dass er digital signiert wurde. Da die digitalen Zertifikate mit dem Ausdrucken aber verloren gehen, ist die Nachvollziehbarkeit der Signatur und damit die entsprechende Beweiskraft nicht gegeben. Ein Vertrag, welcher mit einer qualifizierten elektronischen Signatur unterschrieben ist, muss deshalb immer in elektronischer Form gespeichert werden.               
+{{% /collapsible %}}
+
+{{% collapsible 1 "Warum muss ich mich identifizieren lassen?" %}}
+Bei Skribble signierst du mit der qualifizierten elektronischen Signatur (QES). <br class="hide-for-mobile">Das ist der höchste E-Signatur-Standard. Für diesen verlangt das Gesetz eine Identitätsprüfung im persönlichen Kontakt. Ausnahme bilden Finanzintermediäre, welche die Identitiätsprüfung mittels Video-Identifikation vornehmen dürfen.
+{{% /collapsible %}}
+{{% /content %}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
