@@ -64,7 +64,7 @@ Easily handle digital signature processes – <br class="hide-for-mobile">legall
 
 {{% content %}}
 {{% heading %}}
-# Free signing with Skribble until end of year for EXPERTsuisse members
+# Free signing with Skribble <br class="hide-for-mobile">until end of year for EXPERTsuisse members
 {{% /heading %}}
 
 {{< picture sav-special 200 "Blue circle with the number 12" >}}

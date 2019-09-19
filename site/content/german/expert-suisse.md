@@ -83,7 +83,7 @@ Exklusiv für EXPERTsuisse Mitglieder:
 {{% richtext %}}
 # Bereit zum Signieren in 5 Minuten
 
-Du benötigst nur ein Mobiltelefon und ein gültiges Ausweis (Pass oder Identitätskarte).
+Du benötigst nur ein Mobiltelefon und einen gültigen Ausweis (Pass oder Identitätskarte).
 
 {{% fancy-list %}}
 - **Skribble kommt bei dir vorbei**
