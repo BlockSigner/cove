@@ -42,7 +42,7 @@ Personen, die über eine geprüfte E-ID verfügen, können auf Skribble ohne zus
 Eine wachsende Anzahl Menschen in Europa verfügt über eine geprüfte elektronische Identität (E-ID). Skribble bindet diese an. So können Millionen von Nutzern sofort mit dem Signieren loslegen.
 
 {{% richtext %}}
-{{% center %}}**Mit folgenden E-IDs kannst du in kürze bei Skribble signieren:**{{% / center %}}
+{{% center %}}**Mit folgenden E-IDs kannst du in Kürze bei Skribble signieren:**{{% / center %}}
 {{% /richtext %}}
 
 {{< picture e-id-map 826 "E-ID, wo du in kürze bei Skribble signieren kannst." >}}
@@ -56,7 +56,7 @@ Eine wachsende Anzahl Menschen in Europa verfügt über eine geprüfte elektroni
 {{% /content %}}
 
 {{% cta
-  label="Telefonat vereinbaren"
+  label="Telefontermin vereinbaren"
   href="https://help.skribble.com/meetings/patrick182/call-mit-skribble"
   target="_blank"
 %}}
@@ -84,7 +84,7 @@ Wer über keine E-ID verfügt, kann das mit Skribble in Minutenschnelle nachhole
 {{< row >}}
 {{% plan
   gold
-  "Identifications-Service"
+  "Identifikations-Service"
   "Identification Easy"
   "Download Factsheet"
   "https://cdn2.hubspot.net/hubfs/5051692/Skribble%20Overview/Skribble_Overview_Identification%20Easy.pdf"
@@ -114,7 +114,7 @@ Passend, wenn laufend <br class="hide-for-mobile">neue Signierende <br class="hi
 {{% /content %}}
 
 {{% cta
-  label="Telefonat vereinbaren"
+  label="Telefontermin vereinbaren"
   href="https://help.skribble.com/meetings/patrick182/call-mit-skribble"
   target="_blank"
 %}}
@@ -125,7 +125,7 @@ Passend, wenn laufend <br class="hide-for-mobile">neue Signierende <br class="hi
 
 {{% content %}}
 {{% heading %}}
-# Möchtest Du als Privatperson <br class="hide-for-mobile">qualifiziert elektronisch signieren?
+# Möchtest du als Privatperson <br class="hide-for-mobile">qualifiziert elektronisch signieren?
 Skribble kann problemlos ausserhalb des Firmenkontextes genutzt werden. <br class="hide-for-mobile">Falls du noch über keine E-ID verfügst, identifizieren wir dich gerne. <br class="hide-for-mobile">Es dauert nur wenige Minuten.
 {{% /heading %}}
 {{< picture individual-signing 448 "Die identität einer frau, die in einem handy steht, wird von zwei personen überprüft" >}}
@@ -137,7 +137,7 @@ Skribble kann problemlos ausserhalb des Firmenkontextes genutzt werden. <br clas
   href="de/identitaetspruefung"
 %}}
 {{% richtext %}}
-**Erfahre mehr, wie Du in wenigen Minuten <br class="hide-for-mobile">zu deiner E-ID kommst!**
+**Erfahre mehr, wie du in wenigen Minuten <br class="hide-for-mobile">zu deiner E-ID kommst!**
 {{% /richtext %}}
 {{% /cta %}}
 

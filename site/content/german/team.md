@@ -88,6 +88,13 @@ groups:
           retina_portrait: team/patrick-meade-p@2x
           regular_landscape: team/patrick-meade-l
           retina_landscape: team/patrick-meade-l@2x
+      - name: Dominik Kumpf
+        position: Engineering & Testing
+        images:
+          regular_portrait: team/dominik-kumpf-l
+          retina_portrait: team/dominik-kumpf-l@2x
+          regular_landscape: team/dominik-kumpf-l
+          retina_landscape: team/dominik-kumpf-l@2x
       - name: Luc Lippuner
         position: Content & Communications
         images:
@@ -95,6 +102,20 @@ groups:
           retina_portrait: team/luc-lippuner-l@2x
           regular_landscape: team/luc-lippuner-l
           retina_landscape: team/luc-lippuner-l@2x
+      - name: João Bárcia
+        position: Engineering
+        images:
+          regular_portrait: team/joao-barcia-p
+          retina_portrait: team/joao-barcia-p@2x
+          regular_landscape: team/joao-barcia-l
+          retina_landscape: team/joao-barcia-l@2x
+      - name: Rainer Görmann
+        position: Engineering
+        images:
+          regular_portrait: team/rainer-goermann-l
+          retina_portrait: team/rainer-goermann-l@2x
+          regular_landscape: team/rainer-goermann-l
+          retina_landscape: team/rainer-goermann-l@2x
   - title: Advisors
     text: Die Berater hinter Skribble
     people:

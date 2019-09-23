@@ -10,7 +10,7 @@
     flex-direction: column;
     margin-bottom: 45px;
     @include max-width {
-      flex: 1 0 50%;
+      flex: 0 1 50%;
       align-items: stretch;
       height: auto;
     }

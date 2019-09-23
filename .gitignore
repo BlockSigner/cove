@@ -7,3 +7,6 @@ yarn-error.log
 
 # hugo build
 dist
+
+# OSX files
+.DS_Store

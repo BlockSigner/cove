@@ -23,7 +23,7 @@ Signaturprozesse einfach digital abwickeln – rechtsgültig nach dem Schweizer 
 </div>
 
 {{< intro-partner
-  "swisscom.png"
+  "image/swisscom.png"
   "Basierend auf der qualifizierten elektronischen Signatur QES der Swisscom"
 >}}
 
@@ -95,7 +95,7 @@ Du benötigst nur ein Mobiltelefon und ein gültiges Ausweispapier (Pass oder Id
 Eine Kanzlei kann auch dazu befähigt werden, selbst Personen zu identifizieren.
 
 {{< intro-partner
-  "swisscom.png"
+  "image/swisscom.png"
   "Offizieller Identifikations-Partner von Swisscom"
 >}}
 

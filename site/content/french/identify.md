@@ -12,7 +12,7 @@ og_image: og/og-skribble-identification.jpg
 {{% content %}}
 {{% heading %}}
 # Nous vous identifions <br class="hide-for-mobile">avec l'ID-app de Swisscom
-Quatre petites étapes et vous pouvez commencer à signer.
+Quatre petites étapes et vous pouvez commencer à signer. <br class="hide-for-mobile">Il vous suffit d'avoir un téléphone mobile et un document <br class="hide-for-mobile">de voyage valide (passeport ou carte d'identité).
 {{% /heading %}}
 
 {{< row >}}
@@ -56,27 +56,6 @@ L'utilisateur peut maintenant utiliser Skribble pour signer électroniquement de
 
 {{% content %}}
 {{% heading %}}
-# Prêt à signer <br class="hide-for-mobile">dans quelques minutes
-Il vous suffit d'avoir un téléphone mobile et un document <br class="hide-for-mobile">de voyage valide (passeport ou carte d'identité).
-{{% /heading %}}
-{{< picture "create-identity" 385 "Une loupe agrandit l'image d'une femme dans un passeport" >}}
-&nbsp;
-{{% /content %}}
-
-{{% cta
-  label="Organiser un rendez-vous"
-  href="https://help.skribble.com/meetings/patrick182/consultation-telephone-skribble"
-  target="_blank"
-%}}
-{{% richtext %}}
-**Choisissez un rendez-vous <br class="hide-for-mobile">et laissez-nous vous identifier**
-{{% /richtext %}}
-{{% /cta %}}
-
-[//]: # (--------------------------------------------------------------------------------------------------------------)
-
-{{% content %}}
-{{% heading %}}
 # Tout va bien?
 {{% /heading %}}
 
@@ -108,7 +87,7 @@ Venez vous identifier gratuitement.
 {{% /content %}}
 
 {{% cta
-  label="Organiser un rendez-vous"
+  label="Organiser un rendez-vous E-ID"
   href="https://natelprofi.ch/"
   target="_blank"
   title="Belp"
@@ -131,7 +110,7 @@ CH-3123 Belp
 {{% /cta %}}
 
 {{% cta
-  label="Organiser un rendez-vous"
+  label="Organiser un rendez-vous E-ID"
   href="https://help.skribble.com/meetings/patrick182/consultation-telephone-skribble"
   target="_blank"
   title="Zürich"

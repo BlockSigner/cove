@@ -93,20 +93,20 @@ You sign legally binding at the push of a button, regardless of time and place, 
 
 {{% content %}}
 {{% heading %}}
-# Skribble complies with legal requirements
-With Skribble you can create digital and legally binding (QES) signatures. <br class="hide-for-mobile">Skribble complies with the following requirements:
+# Skribble complies <br class="hide-for-mobile">with legal requirements
+With Skribble you sign legally and securely according to the following requirements:
 {{% /heading %}}
 
-{{% collapsible 1 "Requirement of written form" "check" %}}
-A signature with Skribble is equal to the handwritten signature according to Swiss (OR Art. 14 Para. 2 bis) and EU law (eIDAS No. 910`/`2014 Art. 25 Para. 2).
+{{% collapsible 1 "Requirement of written form according to OR/eIDAS" "check" %}}
+Skribble is based on the qualified electronic signature (QES). The QES is equivalent to a handwritten signature according to Swiss and EU law.
 {{% /collapsible %}}
 
-{{% collapsible 2 "Requirements of ZertES and eIDAS" "check" %}}
-Skribble obtains QES certificates from Swisscom, a provider of TRUSTED certificates recognised by ZertES and eIDAS.
+{{% collapsible 2 "Qualified electronic signature according to ZertES/eIDAS" "check" %}}
+Skribble obtains QES from Swisscom, a provider of electronic certificates recognised under ZertES and eIDAS.
 {{% /collapsible %}}
 
-{{% collapsible 3 "Requirements of CH and EU data protection regulation" "check" %}}
-Skribble and its partners (Swisscom) manage your data in accordance with the DSG and DSGVO.
+{{% collapsible 3 "Data protection according to FADP/GDPR" "check" %}}
+Skribble and its signing partner Swisscom commit to manage data in accordance with the Federal Act on Data Protection (FADP) and the General Data Protection Regulation (GDPR). Moreover, all data is hosted in Switzerland according to banking standards.
 {{% /collapsible %}}
 {{% /content %}}
 
@@ -145,12 +145,10 @@ An important component of qualified electronic signatures (QES) are digital cert
 Those who have a verified e-ID can sign on Skribble <br class="hide-for-mobile">without additional measures.<br><br>
 **Shortly you will be able to sign on Skribble with the following e-IDs:**
 {{% /heading %}}
-{{% richtext %}}
-{{% /richtext %}}
 
 {{< picture e-id-map 826 "E-ID, where you can sign Skribble soon." >}}
-{{% center %}}The integration of further e-IDs will follow this year.{{% / center %}}
 {{% richtext %}}
+{{% center %}}**The integration of further e-IDs will follow this year.**{{% / center %}}
 {{% /richtext %}}
 {{% /content %}}
 {{% cta
@@ -169,6 +167,12 @@ Let Skribble identify you and start signing immediately.
 {{% /cta %}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
+
+{{< testimonial "testimonial/logo-fr-110w.png" "Stéphane Schwab, Head of E-Government, Canton of Fribourg" >}}
+"Thanks to Skribble, we can digitize administrative processes from A to Z. <br class="hide-for-mobile">This makes everyday life easier for <br class="hide-for-mobile">us and our customers." {{< /testimonial >}}
+
+[//]: # (--------------------------------------------------------------------------------------------------------------)
+
 
 {{% content %}}
 {{% heading %}}

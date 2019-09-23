@@ -56,13 +56,10 @@ Un nombre croissant de personnes en Europe a une identité électronique <br cla
 {{% /richtext %}}
 {{% /content %}}
 
-
-
 {{% cta
   label="Fixer un rendez-vous"
   href="https://help.skribble.com/meetings/patrick182/consultation-telephone-skribble"
   target="_blank"
-  outlined="true"
 %}}
 {{% richtext %}}
 **Identification avec Skribble**<br>

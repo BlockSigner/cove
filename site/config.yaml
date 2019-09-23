@@ -13,10 +13,10 @@ languages:
           weight: 5
         - name: Identifikation
           url: /de/identifikation/
-          weight: 15
+          weight: 10
         - name: Kontakt
           url: /de/kontakt/
-          weight: 20
+          weight: 15
       footer1:
         - name: Angebot
           url: /de/angebot/
@@ -28,6 +28,13 @@ languages:
           url: /de/identitaetspruefung/
           weight: 15
       footer2:
+        - name: HR
+          url: /de/hr/
+          weight: 5
+        - name: Anwälte
+          url: /de/anwaelte/
+          weight: 10
+      footer3:
         - name: Mission
           url: /de/ueber-uns/
           weight: 5
@@ -37,13 +44,17 @@ languages:
         - name: Medien
           url: /de/medien/
           weight: 15
-      footer3:
+      footer4:
+        - name: News
+          url: https://news.skribble.com
+          weight: 5
         - name: Help-Center
           url: https://help.skribble.com/deutsch
-          weight: 5
+          weight: 10
         - name: QES erklärt
           url: /de/qes-erklaert/
-          weight: 20
+          weight: 15
+      
       meta:
         - name: Datenschutzbestimmungen
           url: /de/datenschutz
@@ -76,8 +87,9 @@ languages:
           href: https://help.skribble.com/meetings/patrick182/call-mit-skribble
       navigation:
         titleColumn1: Plattform
-        titleColumn2: Über uns
-        titleColumn3: Ressourcen
+        titleColumn2: Lösungen
+        titleColumn3: Über uns
+        titleColumn4: Ressourcen
       newsletterTitle: Newsletter
       newsletterText: Elektronische Signaturen und digitales Vertrauen sind brandaktuelle Themen. Bleibe auf dem Laufenden! <br class="hide-for-mobile">Siehe unsere <a href="/de/datenschutz">Datenschutzerklärungen</a>.
   en:
@@ -161,6 +173,13 @@ languages:
           url: /identify/
           weight: 15
       footer2:
+        - name: HR
+          url: /hr/
+          weight: 5
+        - name: Lawyer
+          url: /lawyer/
+          weight: 10
+      footer3:
         - name: Mission
           url: /about/
           weight: 5
@@ -170,13 +189,16 @@ languages:
         - name: Press room
           url: /pressroom/
           weight: 15
-      footer3:
+      footer4:
+        - name: News
+          url: https://news.skribble.com
+          weight: 5
         - name: Help-Center
           url: https://help.skribble.com/english
-          weight: 5
+          weight: 10
         - name: QES explained
           url: /qes-explained/
-          weight: 20
+          weight: 15
       meta:
         - name: Privacy Policy
           url: /privacy/
@@ -216,8 +238,9 @@ languages:
           href: https://help.skribble.com/meetings/patrick182/telephone-consultation-skribble
       navigation:
         titleColumn1: Platform
-        titleColumn2: About us
-        titleColumn3: Resource
+        titleColumn2: Solutions
+        titleColumn3: About us
+        titleColumn4: Resource
       newsletterTitle: Newsletter
       newsletterText: Electronic signatures and digital trust are hot topics. <br class="hide-for-mobile">Stay up to date! See our <a href="/privacy">privacy policy</a>.
   fr:
@@ -232,10 +255,10 @@ languages:
           weight: 5
         - name: Identification
           url: /fr/identification/
-          weight: 15
+          weight: 10
         - name: Contact
           url: /fr/contact/
-          weight: 20
+          weight: 15
       footer1:
         - name: Offre
           url: /fr/offre/
@@ -247,6 +270,13 @@ languages:
           url: /fr/identifions/
           weight: 15
       footer2:
+        - name: Ressources humaines
+          url: /fr/ressources-humaines/
+          weight: 5
+        - name: Juristes
+          url: /fr/juristes/
+          weight: 10
+      footer3:
         - name: Mission
           url: /fr/mission/
           weight: 5
@@ -255,14 +285,17 @@ languages:
           weight: 10
         - name: Médias
           url: /fr/medias/
-          weight: 20
-      footer3:
+          weight: 15
+      footer4:
+        - name: News
+          url: https://news.skribble.com
+          weight: 5
         - name: Centre d'assistance
           url: https://help.skribble.com/francais
-          weight: 5
+          weight: 10
         - name: QES expliqué
           url: /fr/qes-explique/
-          weight: 20
+          weight: 15
       meta:
         - name: Politique de Confidentialité
           url: /fr/politique-de-confidentialite
@@ -295,7 +328,8 @@ languages:
           href: https://help.skribble.com/meetings/patrick182/consultation-telephone-skribble
       navigation:
         titleColumn1: Plateforme
-        titleColumn2: À propos de nous
-        titleColumn3: Ressources
+        titleColumn2: Les solutions
+        titleColumn3: À propos de nous
+        titleColumn4: Ressources
       newsletterTitle: Newsletter
       newsletterText: Les signatures électroniques et la confiance numérique sont des sujets d'actualité. Restez au courant ! <br class="hide-for-mobile">Consultez notre <a href="/fr/politique-de-confidentialite/">politique de confidentialité</a>.
