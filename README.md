@@ -103,7 +103,7 @@ See how we used the `%` delimiter here? It interprets the content of the `conten
 ### Menu component
 The main, header and footer menus are defined in the file `site/config.yaml`. 
 
-The top level structure of the file is by language:
+The top level structure of the file is divided by language.
 ```
 baseurl: /
 title: Skribble
@@ -113,9 +113,12 @@ languages:
   fr:...
 ```
 
-Inside each language you can define your menus - currently `main`, `header` and `footer`.
+Inside each language you can define the content of your menus - currently `main`, `header` and `footer`.
 
-If you want to define submenus (or dropdown menus): define an `identifier` for the parent item and specify it as `parent` in the respective children items.
+If you want to create submenus (or dropdown menus):
+  - In the parent item define an attribute `identifier`
+  - In the children item define an attribute `parent` with the same value
+
 ```
 en:
     languageName: English
