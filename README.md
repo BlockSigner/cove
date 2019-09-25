@@ -100,6 +100,49 @@ Skribbles' pricing adapts to your needs and can be flexibly configured.
 ```
 See how we used the `%` delimiter here? It interprets the content of the `content` component as markdown. The closing tag of our `heading` component has a leading `/` before the name to indicate the end of the component.
 
+### Menu component
+The main, header and footer menus are defined in the file `site/config.yaml`. 
+
+The top level structure of the file is by language:
+```
+baseurl: /
+title: Skribble
+languages:
+  de:...
+  en:...
+  fr:...
+```
+
+Inside each language you can define your menus - currently `main`, `header` and `footer`.
+
+If you want to define submenus (or dropdown menus): define an `identifier` for the parent item and specify it as `parent` in the respective children items.
+```
+en:
+    languageName: English
+    flagCode: GB
+    weight: 1
+    contentDir: content/english
+    menu:
+      main:
+
+        # Platform dropdown parent
+        - name: Platform
+          url: "#"
+          weight: 10
+          identifier: platform
+      
+        # Platform dropdown children
+        - name: Features
+          url: "/features/"
+          weight: 10
+          parent: platform
+        - name: Integration
+          url: "/integration/"
+          weight: 15
+          parent: platform
+    ...
+```
+
 ### Layout components
 Skribble Cove uses layout components to structure or layout a web page. There are 2 main layout components: `side-by-side` and `content`.
 
