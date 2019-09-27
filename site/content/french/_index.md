@@ -41,6 +41,19 @@ Réaliser vos processus de signature simplement et <br class="hide-for-mobile">d
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
+{{% richtext %}}
+<small>Skribble in den Medien</small>
+{{% /richtext %}}
+
+{{< logos-container >}}
+  {{< logos-item src="logos/srf-logo-170w.png" alt="SRF-Schweizer Radio und Fernsehen">}}
+  {{< logos-item src="logos/hr-today-logo-162w.png" alt="HR-Today">}}
+  {{< logos-item src="logos/gruenderszene-logo-220w.png" alt="Gründerszene">}}
+  {{< logos-item src="logos/netzwoche-logo-150w.png" alt="Netzwoche">}}
+{{< /logos-container >}}
+
+[//]: # (--------------------------------------------------------------------------------------------------------------)
+
 {{< side-by-side >}}
 {{% richtext %}}
 ## Charger un document PDF

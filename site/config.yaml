@@ -8,15 +8,39 @@ languages:
     contentDir: content/german
     menu:
       main:
-        - name: Angebot
-          url: /de/angebot/
+        # Platform dropdown
+        - name: Plattform
+          url: "#"
           weight: 5
-        - name: Identifikation
-          url: /de/identifikation/
+          identifier: plattform
+        - name: Angebot
+          url: "de/angebot/"
           weight: 10
-        - name: Kontakt
-          url: /de/kontakt/
+          parent: plattform
+        - name: Identifikation
+          url: "/de/identifikation/"
           weight: 15
+          parent: plattform
+        - name: Identitätsprüfung
+          url: "de/identitaetspruefung/"
+          weight: 20
+          parent: plattform
+        # Solutions dropdown
+        - name: Lösungen
+          url: "#"
+          weight: 15
+          identifier: solutions
+        - name: HR
+          url: "de/hr/"
+          weight: 10
+          parent: solutions
+        - name: Anwälte
+          url: "de/anwaelte/"
+          weight: 15
+          parent: solutions
+        - name: Kontakt
+          url: "de/kontakt/"
+          weight: 20  
       footer1:
         - name: Angebot
           url: /de/angebot/
@@ -102,27 +126,19 @@ languages:
         # Platform dropdown
         - name: Platform
           url: "#"
-          weight: 10
+          weight: 5
           identifier: platform
-        - name: Features
-          url: "/features/"
+        - name: Services
+          url: "/Services/"
           weight: 10
-          parent: platform
-        - name: Integration
-          url: "/integration/"
-          weight: 15
-          parent: platform
-        - name: Security
-          url: "/security/"
-          weight: 20
-          parent: platform
-        - name: Proof of Identity
-          url: "/proofofidentity/"
-          weight: 25
           parent: platform
         - name: Identification
           url: "/identification/"
-          weight: 30
+          weight: 15
+          parent: platform
+        - name: Identify
+          url: "/identify/"
+          weight: 20
           parent: platform
         # Solutions dropdown
         - name: Solutions
@@ -133,35 +149,13 @@ languages:
           url: "/hr/"
           weight: 10
           parent: solutions
-        - name: Legal
-          url: "/legal/"
+        - name: Lawyer
+          url: "/Lawyer/"
           weight: 15
           parent: solutions
-        - name: Insurance
-          url: "/insurance/"
-          weight: 20
-          parent: solutions
-        - name: Authority
-          url: "/authority/"
-          weight: 25
-          parent: solutions
-        - name: Trust
-          url: "/trust/"
-          weight: 30
-          parent: solutions
-        # Pricing
-        - name: Pricing
-          url: "/pricing/"
+        - name: Contact
+          url: "/contact/"
           weight: 20     
-        # - name: Services
-        #   url: /services/
-        #   weight: 10
-        # - name: Identification
-        #   url: /identification/
-        #   weight: 15
-        # - name: Contact
-        #   url: /contact/
-        #   weight: 20
       footer1:
         - name: Services
           url: /services/
@@ -250,15 +244,39 @@ languages:
     contentDir: content/french
     menu:
       main:
-        - name: Offre
-          url: /fr/offre/
+        # Platform dropdown
+        - name: Platform
+          url: "#"
           weight: 5
-        - name: Identification
-          url: /fr/identification/
+          identifier: platform
+        - name: Offre
+          url: "/fr/offre/"
           weight: 10
-        - name: Contact
-          url: /fr/contact/
+          parent: platform
+        - name: Identification
+          url: "/fr/identification/"
           weight: 15
+          parent: platform
+        - name: Identifions
+          url: "fr/identifions/"
+          weight: 20
+          parent: platform
+        # Solutions dropdown
+        - name: Solutions
+          url: "#"
+          weight: 15
+          identifier: solutions
+        - name: Ressources humaines
+          url: "fr/ressources-humaines/"
+          weight: 10
+          parent: solutions
+        - name: Juristes
+          url: "/fr/juristes/"
+          weight: 15
+          parent: solutions
+        - name: Contact
+          url: "/fr/contact/"
+          weight: 20     
       footer1:
         - name: Offre
           url: /fr/offre/

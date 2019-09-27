@@ -25,7 +25,7 @@ map:
       picture:      
         name: map-karlsruhe
         alt: Map of office location in Karlsruhe
-        url: https://goo.gl/maps/mcshQKtXwzYcDfd89
+        url: https://g.page/skribble-ettlingen?share
       address:
         title: Skribble Signing GmbH
         full: |

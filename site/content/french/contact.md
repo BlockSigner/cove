@@ -11,20 +11,27 @@ map:
   title: Bureau de Skribble
   subtitle: En plein dans la Bahnhofstrasse, au cœur de Zurich
   columns:
-    - title: Entreprise
-      text: Skribble AG
-    - title: Adresse
-      text: |
-        Trust Square
-        Bahnhofstrasse 3
-        CH-8001 Zurich
-    - title: Téléphone
-      text: +41 44 505 16 64
-      type: phone
-      href: 41445051664
-    - title: E-mail
-      text: info@skribble.com
-      type: email
+    - title: Zürich
+      picture:      
+        name: map-zurich
+        alt: Plan du bureau Skribble à Zurich
+        url: https://goo.gl/maps/NJSREpn9FSnUTJYMA
+      address:
+        title: Skribble AG
+        full: |
+          Trust Square
+          Bahnhofstrasse 3
+          CH-8001 Zurich      
+    - title: Karlsruhe (Ettlingen)
+      picture:      
+        name: map-karlsruhe
+        alt: Plan du bureau Skribble à Karlsruhe
+        url: https://g.page/skribble-ettlingen?share
+      address:
+        title: Skribble Signing GmbH
+        full: |
+          Pforzheimer Str. 128
+          DE-76275 Ettlingen
 
 ---
 

@@ -45,12 +45,19 @@ Easily handle digital signature processes – legally binding <br class="hide-fo
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
+{{% richtext %}}
+<small>Skribble in den Medien</small>
+{{% /richtext %}}
+
 {{< logos-container >}}
-  {{< logos-item src="logos/app-advice-vector-svg-logo.svg" link="http://google.com" alt="Company logo">}}
-  {{< logos-item src="logos/forbes-vector-svg-logo-image.svg" link="http://google.com" alt="Company logo">}}
-  {{< logos-item src="logos/khoi-vihn-subtraction-vector-svg-logo.svg" link="http://google.com" alt="Company logo">}}
-  {{< logos-item src="logos/webdesigner-depot-vector-svg-logo.svg" alt="Company logo">}}
+  {{< logos-item src="logos/srf-logo-170w.png" alt="SRF-Schweizer Radio und Fernsehen">}}
+  {{< logos-item src="logos/hr-today-logo-162w.png" alt="HR-Today">}}
+  {{< logos-item src="logos/gruenderszene-logo-220w.png" alt="Gründerszene">}}
+  {{< logos-item src="logos/netzwoche-logo-150w.png" alt="Netzwoche">}}
 {{< /logos-container >}}
+
+[//]: # (--------------------------------------------------------------------------------------------------------------)
+
 
 {{< side-by-side >}}
 {{% richtext %}}

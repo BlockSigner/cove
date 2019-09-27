@@ -1,6 +1,7 @@
 ---
-title: XXX
-description: XXX
+title: Skribble – Legally binding electronic signatures with Skribble
+description: Easily handle digital signature processes – legally binding in accordance with Swiss & EU law.
+
 draft: false
 slug: features
 type: features
@@ -11,18 +12,75 @@ type: features
 
 {{% content %}}
 {{% heading %}}
-# Skribble Features
-XXX
+# Skribble features
+With Skribble you not only sign legally, but also with ease.
 {{% /heading %}}
-{{< picture identification 482 "The identity of a woman standing in a mobile phone is verified by two people" >}}
 {{% /content %}}
+{{< picture skribble-ui-en 1020 "Skribble plattform - user interface" >}}
 
 {{< features-container >}}
-  {{< features-item src="features/window-dev.svg" headline="Moderne Schnittstelle mit detaillierter Dokumentation" description="Die moderne JSON REST-API ist einfach und schnell integriert. Unsere API-Dokumentation liefert dir alle Details, die du Brauchst.">}}
-  {{< features-item src="features/note-code.svg" headline="API-Testing mit Demo-Account" description="Mit unserem Demo-Account testest du die API unverbindlich und kostenlos.">}}
-  {{< features-item src="features/hybrid-car.svg" headline="Plugin für DMS und Branchenlösungen" description="Integriere Skribble als Plugin in Dokumenten-Management-Systeme wie OneDrive und SharePoint, oder in Branchen-Lösungen wie Abacus un SAP.">}}
-  {{< features-item src="features/webpage.svg" headline="Optimiertes Webinterface für die Nutzung via Browser" description="Skribbles optimierte Benutzeroberfläche liefert dir ein intuitives Benutzererlebnis für alle modernen Browser und Geräte.">}}
+
+  {{< features-item src="features/window-dev.svg" 
+    headline="Upload via drag & drop" 
+    description="Invite the signatories by e-mail and define the order of the signatures.">}}
+
+  {{< features-item src="features/note-code.svg" 
+    headline="Invite to sign" 
+    description="Invite the signatories by e-mail and define the order of the signatures.">}}
+
+  {{< features-item src="features/hybrid-car.svg" 
+    headline="Confirm with mobile phone" 
+    description="Confirm the signature via Mobile ID or one-time passowrd (OTP) – no additional hardware required.">}}
+
+  {{< features-item src="features/webpage.svg" 
+    headline="Batch signature" 
+    description="Select multiple documents and sign them all with a single signature process.">}}
+
+  {{< features-item src="features/webpage.svg" 
+    headline="Decline document" 
+    description="Reject the signature invitation with one click if you do not agree with the content.">}}
+
 {{< /features-container >}}
+
+[//]: # (--------------------------------------------------------------------------------------------------------------)
+
+{{< testimonial "testimonial/logo-fr-110w.png" "Stéphane Schwab, Head of E-Government, Canton of Fribourg" >}}
+"Thanks to Skribble, we can digitize administrative processes from A to Z. <br class="hide-for-mobile">This makes everyday life easier for <br class="hide-for-mobile">us and our customers." {{< /testimonial >}}
+
+[//]: # (--------------------------------------------------------------------------------------------------------------)
+
+
+{{% heading %}}
+# Coming soon
+Our vision is great. We develop Skribble day by day.
+{{% /heading %}}
+
+{{< features-container >}}
+
+  {{< features-item src="features/window-dev.svg" 
+    headline="Signing with SwissID/ eID+" 
+    description="If you have a verified e-ID, you can sign in a qualified manner without additional identity verification.">}}
+
+  {{< features-item src="features/note-code.svg" 
+    headline="Stay with your familiar tools" 
+    description="Sign from your existing systems, e.g. Google Drive, One Drive, Drop Box or Secure Safe.">}}
+
+  {{< features-item src="features/hybrid-car.svg" 
+    headline="Confirm with mobile phone" 
+    description="Confirm the signature via Mobile ID or one-time passowrd (OTP) – no additional hardware required.">}}
+
+  {{< features-item src="features/webpage.svg" 
+    headline="Automatic reminders" 
+    description="Don't chase after outstanding signatures - send automated reminder e-mails instead.">}}
+
+{{< /features-container >}}
+
+[//]: # (--------------------------------------------------------------------------------------------------------------)
+
+{{< testimonial "testimonial/btov-logo-96w.png" "Nicole Herzog, investor and member of the board of btov" >}}
+"Until now, e-signing solutions were either legally binding and not very user-friendly or they were easy-to-use but not legally binding. Skribble combines both advantages for the first time: It is easy to use and legally binding." {{< /testimonial >}}
+
+[//]: # (--------------------------------------------------------------------------------------------------------------)
 
 {{< outro >}}
 {{< picture image8 414 "A man stands next to an electronic document with a giant fountain pen" >}}
