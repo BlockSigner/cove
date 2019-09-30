@@ -46,7 +46,7 @@ Easily handle digital signature processes – legally binding <br class="hide-fo
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
 {{% richtext %}}
-<small>Skribble in den Medien</small>
+<small>Skribble in the press</small>
 {{% /richtext %}}
 
 {{< logos-container >}}

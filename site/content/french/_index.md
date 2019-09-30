@@ -42,7 +42,7 @@ Réaliser vos processus de signature simplement et <br class="hide-for-mobile">d
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
 {{% richtext %}}
-<small>Skribble in den Medien</small>
+<small>Connu depuis les médias</small>
 {{% /richtext %}}
 
 {{< logos-container >}}
