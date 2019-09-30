@@ -11,7 +11,7 @@ og_image: og/og-skribble-mission.jpg
 {{% content %}}
 {{% heading %}}
 # Skribble schafft Vertrauen <br class="hide-for-mobile">in der digitalen Welt
-Es war einmal die Unterschrift &ndash; heute signieren wir mit Skribble.
+Es war einmal die Unterschrift &ndash; heute signieren wir mit Tim.
 {{% /heading %}}
 
 {{% richtext %}}
