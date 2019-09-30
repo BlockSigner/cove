@@ -1,6 +1,6 @@
 ---
-title: Skribble – Rechtsgültig elektronisch signieren
-description: Signaturprozesse einfach digital abwickeln – Rechtsgültig nach dem Schweizer & EU-Gesetz.
+title: Mitglieder von Expert-Suisse profitieren von einem tollen Angebot
+description: Rechtsgültig elektronisch signieren mit Skribble. Signaturprozesse einfach digital abwickeln – rechtsgültig nach dem Schweizer & EU Gesetz.
 draft: false
 slug: expertsuisse
 type: blank
