@@ -1,6 +1,6 @@
 ---
-title: We identify you with the ID app by Swisscom
-description: The qualified electronic signature (QES) requires the signing party to verify his or her identity. Skribble offers suitable means of identification for every business context.
+title: This is how we check your Identity and get you started signing
+description: Four short steps to get you started signing. All you need is a mobile phone and a valid travel document.
 draft: false
 slug: identify
 
@@ -88,7 +88,7 @@ Come by and get identified for free.
 
 {{% cta
   label="Schedule an E-ID appointment"
-  href="https://natelprofi.ch/"
+  href="https://4ndl.bookafy.com/service/e-id-fur-skribble-in-belp"
   target="_blank"
   title="Belp"
 %}}
@@ -105,9 +105,33 @@ Come by and get identified for free.
 **Natel Profi**<br>
 Dorfstrasse 6<br>
 CH-3123 Belp
-
 {{% /richtext %}}
 {{% /cta %}}
+
+
+{{% cta
+  label="Schedule an E-ID appointment"
+  href="https://4ndl.bookafy.com/service/e-id-fur-skribble-in-bern"
+  target="_blank"
+  title="Bern"
+%}}
+
+{{< picture
+  name="map-natelspycher"
+  w="120"
+  alt="Natel Spycher, Belpstrasse 45, CH-3007 Bern"
+  href="https://goo.gl/maps/DooeRbjvdNkVeXuS6"
+  target="_target"
+>}}
+
+{{% richtext %}}
+**Natel Spycher**<br>
+Belpstrasse 45<br>
+CH-3007 Bern
+{{% /richtext %}}
+{{% /cta %}}
+
+
 
 {{% cta
   label="Schedule an E-ID appointment"

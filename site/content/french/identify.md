@@ -1,6 +1,6 @@
 ---
 title: Contrôle d'identité pour la QES
-description: Pour la signature électronique qualifiée (QES), le signataire doit prouver son identité. Skribble vous aidera.
+description: Signature électronique légalement valide avec Skribble. Traiter les processus de signature numériquement – juridiquement valides selon le droit suisse et européen.
 draft: false
 slug: identifions
 
@@ -86,9 +86,10 @@ Venez vous identifier gratuitement.
 {{% /heading %}}
 {{% /content %}}
 
+
 {{% cta
   label="Organiser un rendez-vous E-ID"
-  href="https://natelprofi.ch/"
+  href="https://4ndl.bookafy.com/service/e-id-fur-skribble-in-belp"
   target="_blank"
   title="Belp"
 %}}
@@ -105,9 +106,32 @@ Venez vous identifier gratuitement.
 **Natel Profi**<br>
 Dorfstrasse 6<br>
 CH-3123 Belp
-
 {{% /richtext %}}
 {{% /cta %}}
+
+
+{{% cta
+  label="Organiser un rendez-vous E-ID"
+  href="https://4ndl.bookafy.com/service/e-id-fur-skribble-in-bern"
+  target="_blank"
+  title="Bern"
+%}}
+
+{{< picture
+  name="map-natelspycher"
+  w="120"
+  alt="Natel Spycher, Belpstrasse 45, CH-3007 Bern"
+  href="https://goo.gl/maps/DooeRbjvdNkVeXuS6"
+  target="_target"
+>}}
+
+{{% richtext %}}
+**Natel Spycher**<br>
+Belpstrasse 45<br>
+CH-3007 Bern
+{{% /richtext %}}
+{{% /cta %}}
+
 
 {{% cta
   label="Organiser un rendez-vous E-ID"

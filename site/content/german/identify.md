@@ -1,6 +1,6 @@
 ---
 title: Identitätsprüfung für die QES - Skribble macht es einfach
-description: Für die qualifizierte elektronische Signatur (QES) muss der Unterzeichnende seine Identität beweisen. Skribble bietet für jeden Geschäftskontext eine passende Identifikationsmöglichkeit an.
+description: In 4 Schritten machen wir dich signierbereit. Du benötigst nur ein Mobiltelefon und ein gültiges Reisedokument.
 draft: false
 slug: identitaetspruefung
 
@@ -88,7 +88,7 @@ Komm vorbei und lass dich kostenlos identifzieren.
 
 {{% cta
   label="E-ID-Termin vereinbaren"
-  href="https://natelprofi.ch/"
+  href="https://4ndl.bookafy.com/service/e-id-fur-skribble-in-belp"
   target="_blank"
   title="Belp"
 %}}
@@ -105,9 +105,33 @@ Komm vorbei und lass dich kostenlos identifzieren.
 **Natel Profi**<br>
 Dorfstrasse 6<br>
 CH-3123 Belp
-
 {{% /richtext %}}
 {{% /cta %}}
+
+
+{{% cta
+  label="E-ID-Termin vereinbaren"
+  href="https://4ndl.bookafy.com/service/e-id-fur-skribble-in-bern"
+  target="_blank"
+  title="Bern"
+%}}
+
+{{< picture
+  name="map-natelspycher"
+  w="120"
+  alt="Natel Spycher, Belpstrasse 45, CH-3007 Bern"
+  href="https://goo.gl/maps/DooeRbjvdNkVeXuS6"
+  target="_target"
+>}}
+
+{{% richtext %}}
+**Natel Spycher**<br>
+Belpstrasse 45<br>
+CH-3007 Bern
+{{% /richtext %}}
+{{% /cta %}}
+
+
 
 {{% cta
   label="E-ID-Termin vereinbaren"
