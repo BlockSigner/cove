@@ -1,6 +1,6 @@
 ---
-title: Skribble – Legally binding electronic signatures with Skribble
-description: Easily handle digital signature processes – legally binding in accordance with Swiss & EU law.
+title: Preferential price for Expert-Suisse members
+description: Legally binding electronic signatures with Skribble. Easily handle digital signature processes – legally binding in accordance with Swiss & EU law.
 draft: false
 slug: expertsuisse
 type: blank
