@@ -1,6 +1,6 @@
 ---
 title: Contrôle d'identité pour la QES
-description: Pour la signature électronique qualifiée (QES), le signataire doit prouver son identité. Skribble vous aidera.
+description: Signature électronique légalement valide avec Skribble. Traiter les processus de signature numériquement – juridiquement valides selon le droit suisse et européen.
 draft: false
 slug: identifions
 
