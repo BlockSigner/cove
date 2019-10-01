@@ -8,7 +8,7 @@ description: Nutzungsbedingungen meta description
 {{% content %}}
 {{% richtext %}}
 # Nutzungsbedingungen<br>von Skribble AG
-(Version 2018.10.18)
+(Version 2018.10.18 – gültig bis 30.09.19)
 
 Als Systemnutzer von Skribble sind Sie verpflichtet, die nachstehenden Grundsätze rechtmässiger Nutzung
 einzuhalten:
