@@ -12,30 +12,30 @@ og_image: og/og-skribble-identification.jpg
 {{% content %}}
 {{% heading %}}
 # Fonctionnalités de Skribble
-Avec Skribble, votre signature est non seulement légalement valable, mais aussi simple.
+Avec Skribble, votre signature est non seulement <br class="hide-for-mobile">légalement valable, mais aussi simple.
 {{% /heading %}}
 {{% /content %}}
-{{< picture skribble-ui-en 1020 "Skribble plattform - user interface" >}}
+{{< picture skribble-ui-fr 1020 "Skribble plattform - user interface" >}}
 
 {{< features-container >}}
 
-  {{< features-item src="features/window-dev.svg" 
+  {{< features-item src="features/dragdrop.svg" 
     headline="Télécharger par cliquer-glisser" 
     description="Téléchargez le document PDF signé via un navigateur ou utilisez Skribble via API depuis votre logiciel de gestion.">}}
 
-  {{< features-item src="features/note-code.svg" 
+  {{< features-item src="features/invitesign.svg" 
     headline="Inviter à signer" 
     description="Invitez les signataires par e-mail et définissez l'ordre de signature.">}}
 
-  {{< features-item src="features/hybrid-car.svg" 
+  {{< features-item src="features/confirm_mobile.svg" 
     headline="Confirmer avec votre mobile" 
     description="Confirmez la signature via MobileID ou mot de passe à usage unique (OTP)  – aucun matériel supplémentaire requis.">}}
 
-  {{< features-item src="features/webpage.svg" 
+  {{< features-item src="features/batch-process.svg" 
     headline="Signature par lots" 
     description="Sélectionnez plusieurs documents et signez-les tous avec un seul processus de signature.">}}
 
-  {{< features-item src="features/webpage.svg" 
+  {{< features-item src="features/decline.svg" 
     headline="Rejetter des documents" 
     description="Refusez l'invitation à signer d'un seul clic si vous n'êtes pas d'accord avec le contenu.">}}
 
@@ -56,19 +56,19 @@ Notre vision est grande. Nous développons Skribble jour après jour.
 
 {{< features-container >}}
 
-  {{< features-item src="features/window-dev.svg" 
+  {{< features-item src="features/eid-sign.svg" 
     headline="Signer avec SwissID/e-ID+" 
     description="Si vous avez une e-ID vérifiée, vous pouvez signer électroniquement sans vérification d'identité supplémentaire.">}}
 
-  {{< features-item src="features/note-code.svg" 
+  {{< features-item src="features/reminder.svg" 
     headline="Rester avec des outils familiers" 
     description="Signez à partir de vos systèmes existants, par exemple Google Drive, One Drive, Drop Box ou Secure Safe.">}}
 
-  {{< features-item src="features/hybrid-car.svg" 
+  {{< features-item src="features/tools.svg" 
     headline="Rappel automatisé" 
     description="Ne faites pas la course aux signatures en suspens, mais envoyez des courriels de rappel automatisés.">}}
 
-  {{< features-item src="features/webpage.svg" 
+  {{< features-item src="features/archive.svg" 
     headline="Téléchargement prêt pour l'archivage" 
     description="Téléchargez les documents signés dans un format PDF X/A reconnu pour un archivage juridiquement valable.">}}
 

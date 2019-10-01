@@ -52,8 +52,8 @@ Easily handle digital signature processes – legally binding <br class="hide-fo
 {{< logos-container >}}
   {{< logos-item src="logos/srf-logo-170w.png" alt="SRF-Schweizer Radio und Fernsehen">}}
   {{< logos-item src="logos/hr-today-logo-162w.png" alt="HR-Today">}}
+  {{< logos-item src="logos/eforesight-logo-185w.png" alt="e-foresight">}}
   {{< logos-item src="logos/gruenderszene-logo-220w.png" alt="Gründerszene">}}
-  {{< logos-item src="logos/netzwoche-logo-150w.png" alt="Netzwoche">}}
 {{< /logos-container >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)

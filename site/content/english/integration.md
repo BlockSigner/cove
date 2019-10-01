@@ -11,11 +11,11 @@ og_image: og/og-skribble-identification.jpg
 
 {{% content %}}
 {{% heading %}}
-# Skribble integration
+# Skribble Integration
 With Skribble, you choose a cloud platform that combines <br class="hide-for-mobile">technological security with simplicity.
 {{% /heading %}}
 
-{{< picture skribble-ui-en 1020 "Skribble plattform - user interface" >}}
+{{< picture integration-visual 494 "Skribble plattform - user interface" >}}
 
 {{% heading %}}
 ## Use Skribble via your browser or integrate the platform <br class="hide-for-mobile">into your existing software environment via API
@@ -23,19 +23,19 @@ With Skribble, you choose a cloud platform that combines <br class="hide-for-mob
 {{% /content %}}
 {{< features-container >}}
 
-  {{< features-item src="features/window-dev.svg" 
+ {{< features-item src="integrations/api.svg" 
     headline="Modern interface with detailed documentation" 
     description="The modern JSON REST API is easy and quick to integrate. Our API documentation gives you all the details you need.">}}
 
-  {{< features-item src="features/note-code.svg" 
+ {{< features-item src="integrations/api-testing.svg" 
     headline="API testing with demo account" 
     description="With our demo account you can test our API without obligation and free of charge.">}}
 
-  {{< features-item src="features/hybrid-car.svg" 
+  {{< features-item src="integrations/plugin-dms.svg" 
     headline="Plug-in for DMS and industry solutions" 
     description="Integrate Skribble as a plug-in into document management systems such as OneDrive and SharePoint, or into industry solutions such as Abacus and SAP.">}}
 
-  {{< features-item src="features/webpage.svg" 
+  {{< features-item src="integrations/web-ui.svg" 
     headline="Optimised web interface to be used via browser" 
     description="Skribble's optimised user interface gives you an intuitive user experience for all modern browsers and devices.">}}
 
@@ -51,33 +51,33 @@ With Skribble, you choose a cloud platform that combines <br class="hide-for-mob
 
 {{% content %}}
 {{% heading %}}
-# With Skribble you benefit <br class="hide-for-mobile">from the highest standards of technology and security
+# With Skribble you benefit from <br class="hide-for-mobile">the highest standards of technology <br class="hide-for-mobile">and security
 {{% /heading %}}
 {{% /content %}}
 
 {{< features-container >}}
 
-  {{< features-item src="features/window-dev.svg" 
+  {{< features-item src="integrations/http-web.svg" 
     headline="HTTPS web communication" 
     description="All web communication at Skribble is protected by HTTPS.">}}
 
-  {{< features-item src="features/note-code.svg" 
+  {{< features-item src="integrations/aes-encrypt.svg" 
     headline="AES-256 encryption" 
     description="Documents are encrypted with an individual AES-256 key, which is assigned to the user on the basis of asymmetric cryptography.">}}
 
-  {{< features-item src="features/hybrid-car.svg" 
+  {{< features-item src="integrations/key-management.svg" 
     headline="Key management system" 
     description="Skribble uses a key management system to manage and securely store all cryptographic keys.">}}
 
-  {{< features-item src="features/webpage.svg" 
+  {{< features-item src="integrations/open-id.svg" 
     headline="OpenID Connect user access" 
     description="Login based on OpenID Connect with support of User Storage Federation (AD, LDAP or OAuth 2.0)">}}
 
-  {{< features-item src="features/hybrid-car.svg" 
+  {{< features-item src="integrations/hosting.svg" 
     headline="ISO 27001 hosting in Switzerland" 
     description="Skribble data is hosted in Switzerland at Tier IV level. The data center is certified according to ISO 27001 (FINMA compliant).">}}
 
-  {{< features-item src="features/webpage.svg" 
+  {{< features-item src="integrations/support.svg" 
     headline="Monitoring and support" 
     description="Help base, FAQ, chat bot, live chat, hotline (9.00–  12.00 and 14.00– 17.00). Monitoring and management of the server is guaranteed 24/7.">}}
 

@@ -12,7 +12,7 @@ type: features
 
 {{% content %}}
 {{% heading %}}
-# Skribble features
+# Skribble Features
 With Skribble you not only sign legally, but also with ease.
 {{% /heading %}}
 {{% /content %}}
@@ -20,23 +20,23 @@ With Skribble you not only sign legally, but also with ease.
 
 {{< features-container >}}
 
-  {{< features-item src="features/window-dev.svg" 
+  {{< features-item src="features/dragdrop.svg" 
     headline="Upload via drag & drop" 
     description="Invite the signatories by e-mail and define the order of the signatures.">}}
 
-  {{< features-item src="features/note-code.svg" 
+  {{< features-item src="features/invitesign.svg" 
     headline="Invite to sign" 
     description="Invite the signatories by e-mail and define the order of the signatures.">}}
 
-  {{< features-item src="features/hybrid-car.svg" 
+  {{< features-item src="features/confirm_mobile.svg" 
     headline="Confirm with mobile phone" 
     description="Confirm the signature via Mobile ID or one-time passowrd (OTP) – no additional hardware required.">}}
 
-  {{< features-item src="features/webpage.svg" 
+  {{< features-item src="features/batch-process.svg" 
     headline="Batch signature" 
     description="Select multiple documents and sign them all with a single signature process.">}}
 
-  {{< features-item src="features/webpage.svg" 
+  {{< features-item src="features/decline.svg" 
     headline="Decline document" 
     description="Reject the signature invitation with one click if you do not agree with the content.">}}
 
@@ -57,19 +57,19 @@ Our vision is great. We develop Skribble day by day.
 
 {{< features-container >}}
 
-  {{< features-item src="features/window-dev.svg" 
+  {{< features-item src="features/eid-sign.svg" 
     headline="Signing with SwissID/ eID+" 
     description="If you have a verified e-ID, you can sign in a qualified manner without additional identity verification.">}}
 
-  {{< features-item src="features/note-code.svg" 
+  {{< features-item src="features/reminder.svg" 
     headline="Stay with your familiar tools" 
     description="Sign from your existing systems, e.g. Google Drive, One Drive, Drop Box or Secure Safe.">}}
 
-  {{< features-item src="features/hybrid-car.svg" 
+  {{< features-item src="features/tools.svg" 
     headline="Confirm with mobile phone" 
     description="Confirm the signature via Mobile ID or one-time passowrd (OTP) – no additional hardware required.">}}
 
-  {{< features-item src="features/webpage.svg" 
+  {{< features-item src="features/archive.svg" 
     headline="Automatic reminders" 
     description="Don't chase after outstanding signatures - send automated reminder e-mails instead.">}}
 

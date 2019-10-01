@@ -17,12 +17,12 @@ languages:
           url: "de/angebot/"
           weight: 10
           parent: plattform
-        - name: Funktion
+        - name: Funktionen
           url: "de/funktionen/"
           weight: 15
           parent: plattform
-        - name: Integration
-          url: "de/integration/"
+        - name: Integrationen
+          url: "de/integrationen/"
           weight: 20
           parent: plattform
         - name: Identifikation
@@ -53,12 +53,18 @@ languages:
         - name: Angebot
           url: /de/angebot/
           weight: 5
+        - name: Funktionen
+          url: /de/funktionen/
+          weight: 10
+        - name: Integrationen
+          url: /de/integrationen/
+          weight: 15
         - name: Identifikation
           url: /de/identifikation/
-          weight: 10
+          weight: 20
         - name: Identitätsprüfung
           url: /de/identitaetspruefung/
-          weight: 15
+          weight: 25
       footer2:
         - name: HR
           url: /de/hr/
@@ -144,7 +150,7 @@ languages:
           url: "features/"
           weight: 15
           parent: platform
-        - name: Integration
+        - name: Integrations
           url: "integrations/"
           weight: 20
           parent: platform
@@ -176,12 +182,18 @@ languages:
         - name: Services
           url: /services/
           weight: 5
+        - name: Features
+          url: /features/
+          weight: 10
+        - name: Integrations
+          url: /integrations/
+          weight: 15
         - name: Identification
           url: /identification/
-          weight: 10
+          weight: 20
         - name: Identify
           url: /identify/
-          weight: 15
+          weight: 25
       footer2:
         - name: HR
           url: /hr/
@@ -305,12 +317,18 @@ languages:
         - name: Offre
           url: /fr/offre/
           weight: 5
+        - name: Fonctionnalités
+          url: "fr/fonctionnalites/"
+          weight: 10
+        - name: Integrations
+          url: "fr/integrations/"
+          weight: 15
         - name: Identification
           url: /fr/identification/
-          weight: 10
+          weight: 20
         - name: Identifions
           url: /fr/identifions/
-          weight: 15
+          weight: 25
       footer2:
         - name: Ressources humaines
           url: /fr/ressources-humaines/
