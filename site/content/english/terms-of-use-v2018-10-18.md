@@ -8,7 +8,7 @@ description: terms-of-use meta description
 {{% content %}}
 {{% richtext %}}
 # Skribble Terms of Use<br>by Skribble AG
-(Version 2018.10.18)
+(Version 2018.10.18 – valid until 30.09.19)
 
 As a Skribble user, you must comply with the following principles of lawful use:
 
