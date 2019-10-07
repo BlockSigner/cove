@@ -7,6 +7,9 @@ languages:
     weight: 2
     contentDir: content/german
     menu:
+      phone:
+        number: +41 44 505 16 64
+        link: 
       main:
         # Platform dropdown
         - name: Plattform
@@ -136,6 +139,9 @@ languages:
     weight: 1
     contentDir: content/english
     menu:
+      phone:
+        number: +41 44 505 16 64
+        link:
       main:
         # Platform dropdown
         - name: Platform
@@ -271,6 +277,9 @@ languages:
     weight: 3
     contentDir: content/french
     menu:
+      phone:
+        number: +41 44 505 16 64
+        link:
       main:
         # Platform dropdown
         - name: Platform
