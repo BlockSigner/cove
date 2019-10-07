@@ -66,9 +66,9 @@
          L14.1,5.4c-0.4-0.9-1.3-1.3-2.2-1.1L3.4,6.6C2.6,6.8,2,7.6,2,8.5c0.5,9.8,4.6,19.1,11.5,26.1c7,6.9,16.3,10.9,26.1,11.5
          c0.9,0,1.7-0.6,1.9-1.4l2.2-8.4C43.9,35.2,43.4,34.3,42.6,33.9z"/>
           </svg> 
-          {{ if $.Site.Params.menu.phone.link}}<a class="header__phone__number" href="{{ $.Site.Params.menu.phone.link }}" target="_blank">{{ end }}
-          {{ $.Site.Params.menu.phone.number }}
-          {{ if $.Site.Params.menu.phone.link}}</a>{{ end }}
+          {{ if $.Site.Params.phone.link}}<a class="header__phone__number" href="{{ $.Site.Params.phone.link }}" target="_blank">{{ end }}
+          {{ $.Site.Params.phone.number }}
+          {{ if $.Site.Params.phone.link}}</a>{{ end }}
         </p>
         <div class="header__separator"></div>
         <a href="{{ $.Site.Params.header.login.href }}" class="header__link">

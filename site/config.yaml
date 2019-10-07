@@ -6,10 +6,10 @@ languages:
     flagCode: DE
     weight: 2
     contentDir: content/german
+    phone:
+      number: +41 44 505 16 64
+      link:
     menu:
-      phone:
-        number: +41 44 505 16 64
-        link: 
       main:
         # Platform dropdown
         - name: Plattform
@@ -138,10 +138,10 @@ languages:
     flagCode: GB
     weight: 1
     contentDir: content/english
+    phone:
+      number: +41 44 505 16 64
+      link:
     menu:
-      phone:
-        number: +41 44 505 16 64
-        link:
       main:
         # Platform dropdown
         - name: Platform
@@ -276,10 +276,10 @@ languages:
     flagCode: FR
     weight: 3
     contentDir: content/french
+    phone:
+      number: +41 44 505 16 64
+      link:
     menu:
-      phone:
-        number: +41 44 505 16 64
-        link:
       main:
         # Platform dropdown
         - name: Platform
