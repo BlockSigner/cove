@@ -9,13 +9,14 @@ og_image: og/og-skribble-identification.jpg
 
 ---
 
-{{% content %}}
+{{% content class="no-bottom-padding" %}}
 {{% heading %}}
 # Skribble Features
 Mit Skribble signierst du nicht nur rechtsgültig, sondern auch einfach.
 {{% /heading %}}
-{{< picture skribble-ui-de 1020 "Skribble plattform - user interface" >}}
 {{% /content %}}
+
+{{< picture skribble-ui-de 1020 "Skribble plattform - user interface" >}}
 
 {{< features-container >}}
 
