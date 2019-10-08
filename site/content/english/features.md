@@ -10,13 +10,14 @@ type: features
 
 ---
 
-{{% content %}}
+{{% content class="no-bottom-padding" %}}
 {{% heading %}}
 # Skribble Features
 With Skribble you not only sign legally, but also with ease.
 {{% /heading %}}
-{{< picture skribble-ui-en 1020 "Skribble plattform - user interface" >}}
 {{% /content %}}
+
+{{< picture skribble-ui-en 1020 "Skribble plattform - user interface" >}}
 
 {{< features-container >}}
 
