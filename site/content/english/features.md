@@ -15,8 +15,8 @@ type: features
 # Skribble Features
 With Skribble you not only sign legally, but also with ease.
 {{% /heading %}}
-{{% /content %}}
 {{< picture skribble-ui-en 1020 "Skribble plattform - user interface" >}}
+{{% /content %}}
 
 {{< features-container >}}
 

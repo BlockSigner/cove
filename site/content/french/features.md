@@ -14,8 +14,8 @@ og_image: og/og-skribble-identification.jpg
 # Fonctionnalités de Skribble
 Avec Skribble, votre signature est non seulement <br class="hide-for-mobile">légalement valable, mais aussi simple.
 {{% /heading %}}
-{{% /content %}}
 {{< picture skribble-ui-fr 1020 "Skribble plattform - user interface" >}}
+{{% /content %}}
 
 {{< features-container >}}
 
