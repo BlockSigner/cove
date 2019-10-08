@@ -270,7 +270,7 @@ The heading component is used to arrange a title and a lead text. It centers its
 #### {{< logos-container >}} and {{< logos-item >}}
 The logos component allows you to present responsive rows of logos or pictures. It is composed of two shortcodes to be used nested, as in the following example:
 ```
-{{< logos-container >}}
+{{< logos-container title="Skribble in the press">}}
   {{< logos-item src="logos/app-advice-vector-svg-logo.svg" link="http://google.com" alt="Company logo">}}
   {{< logos-item src="logos/forbes-vector-svg-logo-image.svg" link="http://google.com" alt="Company logo">}}
   {{< logos-item src="logos/khoi-vihn-subtraction-vector-svg-logo.svg" link="http://google.com" alt="Company logo">}}

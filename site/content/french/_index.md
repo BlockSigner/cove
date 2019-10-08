@@ -41,11 +41,7 @@ Réaliser vos processus de signature simplement et <br class="hide-for-mobile">d
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{% richtext %}}
-<small>Connu depuis les médias</small>
-{{% /richtext %}}
-
-{{< logos-container >}}
+{{< logos-container title="Connu depuis les médias">}}
   {{< logos-item src="logos/srf-logo-170w.png" alt="SRF-Schweizer Radio und Fernsehen">}}
   {{< logos-item src="logos/hr-today-logo-162w.png" alt="HR-Today">}}
   {{< logos-item src="logos/eforesight-logo-185w.png" alt="e-foresight">}}

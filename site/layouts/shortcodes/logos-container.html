@@ -1,4 +1,5 @@
 <div class="logos-container">
+    {{ with .Get "title"}}<small><strong>{{.}}</strong></small>{{ end }}
     <ul class="logos-flex-container">
         {{.Inner}}
       </ul>

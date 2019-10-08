@@ -41,11 +41,7 @@ Signaturprozesse einfach digital abwickeln – <br class="hide-for-mobile">recht
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{% richtext %}}
-<small>Skribble in den Medien</small>
-{{% /richtext %}}
-
-{{< logos-container >}}
+{{< logos-container title="Skribble in den Medien">}}
   {{< logos-item src="logos/srf-logo-170w.png" alt="SRF-Schweizer Radio und Fernsehen">}}
   {{< logos-item src="logos/hr-today-logo-162w.png" alt="HR-Today">}}
   {{< logos-item src="logos/eforesight-logo-185w.png" alt="e-foresight">}}
