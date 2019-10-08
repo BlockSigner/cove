@@ -17,7 +17,7 @@
         box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
         display: flex;
         flex-grow: 0;
-        filter: invert(0.4) sepia(1) hue-rotate(180deg);
+        filter: invert(0.12) sepia(1) hue-rotate(190deg) saturate(4) brightness(1.1);
         align-items: center;
         justify-content: center;
     }
@@ -30,8 +30,13 @@
     }
     
     p {
-        margin-top: 0px;
+        margin-top: 5px;
+        margin-bottom: 5px;
         font-size: 90%;
+    }
+
+    strong {
+        color: #293d66;
     }
 
     img {
@@ -65,6 +70,9 @@
             height: 32px;
         }
 
+        p {
+            margin-top: 0px;
+        }
     }
 
 
