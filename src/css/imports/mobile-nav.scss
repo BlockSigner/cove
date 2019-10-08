@@ -208,7 +208,7 @@
   
     ul {
       list-style-type: none;
-      padding: 0px;
+      padding: 15px 0px;
     }
 
     &__label {
@@ -263,7 +263,6 @@
       max-height: 0;
       opacity: 0;
       visibility: hidden;
-      padding: 0px 10px;
       transition: all .2s;
 
       &__subitems {
