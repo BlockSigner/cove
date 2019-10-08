@@ -27,7 +27,7 @@ map:
         alt: Map of office location in Karlsruhe
         url: https://g.page/skribble-ettlingen?share
       address:
-        title: Skribble Signing GmbH
+        title: Skribble Deutschland GmbH
         full: |
           Pforzheimer Str. 128A
           DE-76275 Ettlingen  
