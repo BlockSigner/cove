@@ -1,4 +1,7 @@
 .features-item {
+    @media screen and (max-width: 1200px) {
+        width: 100%;
+    }
     .features-flex-item {
         flex-basis: 500px;
         display: flex;
@@ -29,6 +32,10 @@
         flex: 1;
     }
     
+    p:first-child {
+        margin-top: 15px;
+    }
+
     p {
         margin-top: 5px;
         margin-bottom: 5px;
@@ -68,6 +75,10 @@
         img {
             width: 32px;
             height: 32px;
+        }
+
+        p:first-child {
+            margin-top: 5px;
         }
 
         p {
