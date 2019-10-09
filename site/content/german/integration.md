@@ -28,7 +28,7 @@ Mit Skribble wählst du eine Cloud-Plattform, die technologische Sicherheit <br 
 
   {{< features-item src="integrations/api-testing.svg" 
     headline="API-Testing mit Demo-Account" 
-    description="Mit unserem Demo-Account testetst du die API unverbindlich und kostenlos.">}}
+    description="Mit unserem Demo-Account testest du die API unverbindlich und kostenlos.">}}
 
   {{< features-item src="integrations/plugin-dms.svg" 
     headline="Plug-in für DMS und Branchenlösungen" 
