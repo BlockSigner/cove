@@ -10,7 +10,7 @@ map:
   title: Skribble Offices
   subtitle: We have our offices in Switzerland and Germany
   columns:
-    - title: Zürich
+    - title: Zurich
       picture:      
         name: map-zurich
         alt: Map of office location in Zürich

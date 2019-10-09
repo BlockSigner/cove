@@ -20,8 +20,8 @@ languages:
           url: "de/angebot/"
           weight: 10
           parent: plattform
-        - name: Funktionen
-          url: "de/funktionen/"
+        - name: Features
+          url: "de/features/"
           weight: 15
           parent: plattform
         - name: Integrationen
@@ -311,7 +311,7 @@ languages:
           url: "#"
           weight: 15
           identifier: solutions
-        - name: Ressources humaines
+        - name: RH
           url: "fr/ressources-humaines/"
           weight: 10
           parent: solutions
@@ -339,7 +339,7 @@ languages:
           url: /fr/identifions/
           weight: 25
       footer2:
-        - name: Ressources humaines
+        - name: RH
           url: /fr/ressources-humaines/
           weight: 5
         - name: Juristes

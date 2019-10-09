@@ -21,7 +21,7 @@ map:
         full: |
           Trust Square
           Bahnhofstrasse 3
-          CH-8001 Zurich      
+          CH-8001 Zürich      
     - title: Karlsruhe (Ettlingen)
       picture:      
         name: map-karlsruhe
