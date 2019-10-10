@@ -11,7 +11,7 @@ slug: preise
 # Signiere einfacher </br> mit dem passenden Preismodell
 Skribble eignet sich sowohl für gelegentliches wie auch für häufiges Signieren.
 {{% /heading %}}
-{{% action-card title="Free" %}}
+{{% action-card title="Free" action-link="https://my.skribble.com/signup?lang=de" %}}
     {{< picture free-visual 232 "" >}}
 {{% /action-card %}}
 
@@ -20,7 +20,7 @@ Skribble eignet sich sowohl für gelegentliches wie auch für häufiges Signiere
 Nach dem Registrieren kannst du jederzeit auf </br> eines der folgenden Modelle umstellen:
 {{% /heading %}}
 
-{{% action-card title="Fair Flat" %}}
+{{% action-card title="Fair Flat" action-link="https://my.skribble.com/signup?lang=de" %}}
     {{< picture fair-flat-visual 290 "" >}}
 {{% /action-card %}}
 
@@ -29,7 +29,7 @@ Nach dem Registrieren kannst du jederzeit auf </br> eines der folgenden Modelle 
 ## oder
 {{% /heading %}}
 
-{{% action-card title="Business" %}}
+{{% action-card title="Business" action-link="https://help.skribble.com/meetings/patrick182/call-mit-skribble" %}}
     {{< picture business-visual 270 "" >}}
 {{% /action-card %}}
 
