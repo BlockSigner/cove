@@ -1,0 +1,13 @@
+<div class="action-card">
+    <div class="action-card-content">
+        <div class="action-card-top">
+            {{ with .Get "title"}}<h2 class="title">{{.}}</h2>{{ end }}
+            <div class="action-card-description"><p>Du signierst:</p><p><strong>2 Mal pro Monat kostenlos.</strong></p></div>
+            <div class="action-card-image">{{.Inner}}</div>
+        </div>
+        <div class="action-card-button">
+            <a class="btn" href="{{ .Get "action-link" }}">Jetz kostenlos ausprobieren</a>
+        </div>
+        <div class="action-card-subtext">Konto jederzeit löschbar</div>
+    </div>
+</div>

@@ -49,8 +49,8 @@ languages:
           url: "de/anwaelte/"
           weight: 15
           parent: solutions
-        - name: Kontakt
-          url: "de/kontakt/"
+        - name: Preise
+          url: "de/preise/"
           weight: 20
       footer1:
         - name: Angebot
