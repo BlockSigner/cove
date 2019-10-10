@@ -1,0 +1,7 @@
+<div class="logos-item">
+    <li class="logos-flex-item">
+        {{ with .Get "link"}}<a href="{{.}}" target="_blank"  >{{ end }}
+            <img src="{{ .Get "src" }}" {{ if .Get "alt"}} alt="{{ .Get "alt"}}" {{ end }}/></a>
+        {{ if .Get "link"}}</a>{{ end }}
+    </li>
+</div>

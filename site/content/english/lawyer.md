@@ -12,7 +12,7 @@ og_image: og/og-skribble-identification.jpg
 {{% content %}}
 {{% heading %}}
 # Electronic signature for lawyers
-With Skribble you sign without additional hardware <br class="hide-for-mobile">with the qualified electronic signature (QES).
+With Skribble you sign without USB stick or card reader <br class="hide-for-mobile">with the hightest e-signing standard (QES).
 {{% /heading %}}
 {{< picture vertical-lawyer-main 560 "man handle different document processes" >}}
 {{% /content %}}
@@ -22,8 +22,13 @@ With Skribble you sign without additional hardware <br class="hide-for-mobile">w
 {{< side-by-side >}}
 {{< picture sign-parallel 387 "Man sign a contract with two other people at the same time" >}}
 {{% richtext %}}
-## All contractual parties <br class="hide-for-mobile">sign electronically
+## All contractual parties sign digitally
 Multiple contractual parties: Instead of sending contracts by post from one person to the next, everyone signs online, saving time.
+
+- **<small>Automatically invite people to <br class="hide-for-mobile">sign by e-mail</small>**
+- **<small>Overview of all completed and outstanding <br class="hide-for-mobile">signatures</small>**
+- **<small>Get notified automatically when <br class="hide-for-mobile">the contract is signed</small>**
+
 {{% /richtext %}}
 {{< /side-by-side >}}
 
@@ -33,6 +38,11 @@ Multiple contractual parties: Instead of sending contracts by post from one pers
 {{% richtext %}}
 ## Finish the pile <br class="hide-for-mobile">with only one signature
 Digital signature folder: Collect your contracts digitally and sign them simultaneously with just a few clicks. Despite the QES standard, you don't need a USB stick or card reader.
+
+- **<small>Batch signature for any number of contracts</small>**
+- **<small>Two factor authentication via mobile phone - <br class="hide-for-mobile">no external hardware required</small>**
+- **<small>Independent of time and place</small>**
+
 {{% /richtext %}}
 {{< picture batch-process 380 "A stack of documents is signed with one click" >}}
 {{< /side-by-side >}}
@@ -42,8 +52,13 @@ Digital signature folder: Collect your contracts digitally and sign them simulta
 {{< side-by-side >}}
 {{< picture authorities-input 394 "Two people make step-by-step entries to authorities." >}}
 {{% richtext %}}
-## Entries with authorities <br class="hide-for-mobile">made online
-From commercial register to notarial entries: Printing, sending and scanning are no longer necessary. (Coming end of 2019)
+## Entries with authorities made online
+From changes to the commercial register to court submissions: Printing, sending and scanning are no longer necessary.
+
+- **<small>Seamless integration with PrivaSphere <br class="hide-for-mobile">(coming soon)</small>**
+- **<small>Recognised for communication between <br class="hide-for-mobile">law firms and authorities/courts in Switzerland</small>**
+- **<small>Saves time and money</small>**
+
 {{% /richtext %}}
 {{< /side-by-side >}}
 
@@ -51,8 +66,13 @@ From commercial register to notarial entries: Printing, sending and scanning are
 
 {{< side-by-side >}}
 {{% richtext %}}
-## Sign within <br class="hide-for-mobile">your law firm software
-Stay with familiar tools: Sign from your existing systems, e.g. WinJur oder Vertec. Alternatively, you can sign directly via your browser. (Coming end of 2019)
+## No new software required
+Stay with familiar tools: Sign directly via your browser or from your existing software.
+
+- **<small>Sign directly via your browser</small>**
+- **<small>Integrate Skribble as a plug-in into <br class="hide-for-mobile">industry software solutions </small>**
+- **<small>Seamless integration via modern APIs</small>**
+
 {{% /richtext %}}
 {{< picture crm-systeme-lawyer 421 "Existing systems, e.g. Google Drive, One Drive, Drop Box or Secure Safe" >}}
 {{< /side-by-side >}}

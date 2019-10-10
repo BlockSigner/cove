@@ -2,29 +2,31 @@
 {{ block "header" . }}{{ partial "header" . }}{{end}}
 <!-- wide page template -->
 <div class="wrapper">
-  <main class="main main--contact">
+  <main class="main main--contact" style="padding-left: 24px; padding-right: 24px">
     <div class="title-subtitle align-center is-wide">
       <h1>{{ .Params.map.title }}</h1>
       <p>{{ .Params.map.subtitle }}</p>
     </div>
-    <div id="map" class="maps"></div>
     <div class="contact__columns">
       <div class="contact__inner container">
         {{ range .Params.map.columns }}
-          <div class="contact__column">
-            <h2 class="contact__column-title">{{ .title }}</h2>
-            {{ if eq .type "email" }}
-              <a href="mailto:{{ .text }}">{{ .text }}</a>
-            {{ else if eq .type "phone" }}
-              <a href="tel:+{{ .href }}">{{ .text }}</a>
-            {{ else }}
-              <p>
-                {{/*  TODO: range w/o last instead of first 3  */}}
-                {{ range first 3 (split .text "\n") }}
-                  {{ printf "%s" . }}<br>
-                {{ end }}
-              </p>
-            {{ end }}
+          <div class="contact__column" style="margin: 0px 10px">
+            <h2 class="contact__column-title" style="padding-bottom: 10px">{{ .title }}</h2>
+            {{ partial "picture" (dict "alt" .picture.alt "filename" .picture.name "natural_width" "492" "url" .picture.url) }}
+            <div style="display: flex; flex-flow: row wrap; padding-top: 20px; max-width: 492px; padding-bottom: 30px">
+              <div style="flex:1 ; min-width: 220px;">
+                <p style="font-weight: bold;">{{ .address.title}}</p>
+                <p>
+                  {{ range (split .address.full "\n") }}
+                    {{ printf "%s" . }}<br>
+                  {{ end }}
+                </p>
+              </div>
+              <div style="padding-right: 20px">
+                <p style="font-weight: bold;">Email</p>
+                <p><a href="mailto:info@skribble.com">info@skribble.com</a></p>
+              </div>
+            </div>
           </div>
         {{ end }}
       </div>

@@ -1,6 +1,6 @@
 ---
 title: Identitätsprüfung für die QES - Skribble macht es einfach
-description: Für die qualifizierte elektronische Signatur (QES) muss der Unterzeichnende seine Identität beweisen. Skribble bietet für jeden Geschäftskontext eine passende Identifikationsmöglichkeit an.
+description: In 4 Schritten machen wir dich signierbereit. Du benötigst nur ein Mobiltelefon und ein gültiges Reisedokument.
 draft: false
 slug: identitaetspruefung
 

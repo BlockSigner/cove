@@ -24,6 +24,11 @@ With Skribble you sign legally and easily in a digital way – <br class="hide-f
 {{% richtext %}}
 ## Finish the pile <br class="hide-for-mobile">with only one signature
 New employment contracts for everyone: the authorised signatory no longer signs hundreds of contracts by hand, but signs them all at once with Skribble's batch signature.
+
+- **<small>Batch signature for any number <br class="hide-for-mobile">of employment contracts</small>**
+- **<small>Automatically invite employees <br class="hide-for-mobile">to sign employment contracts by e-mail</small>**
+- **<small>Overview of all completed <br class="hide-for-mobile">and outstanding signatures</small>**
+
 {{% /richtext %}}
 {{< /side-by-side >}}
 
@@ -32,7 +37,12 @@ New employment contracts for everyone: the authorised signatory no longer signs 
 {{< side-by-side >}}
 {{% richtext %}}
 ## Candidates sign <br class="hide-for-mobile">digitally without delay
-Efficient onboarding: You have a better chance of being chosen as an employer and HR administration becomes easier, faster and cheaper.
+Efficient onboarding: you have a better chance of being chosen as an employer and HR administration becomes easier, faster and cheaper.
+
+- **<small>Legally valid for any type of <br class="hide-for-mobile">employment contract</small>**
+- **<small>No loss of time due to postal mailing</small>**
+- **<small>Get notified automatically when <br class="hide-for-mobile">the employment contract has been signed</small>**
+
 {{% /richtext %}}
 {{< picture candidate-sign-digital 392 "A woman sits in a deck chair and signs her employment contract on her tablet" >}}
 {{< /side-by-side >}}
@@ -44,6 +54,11 @@ Efficient onboarding: You have a better chance of being chosen as an employer an
 {{% richtext %}}
 ## Empower employees <br class="hide-for-mobile">to work more efficiently
 Digitalisation enabler: HR enables the workforce to sign electronically and can manage their everyday work with less bureaucracy.
+
+- **<small>Digital processing of work reports, <br class="hide-for-mobile">layoffs, applications, etc.</small>**
+- **<small>Get signatures from authorised <br class="hide-for-mobile">signatories via e-mail</small>**
+- **<small>Download contracts ready for archiving<br class="hide-for-mobile"> in recognized PDF X/A format </small>**
+
 {{% /richtext %}}
 {{< /side-by-side >}}
 
@@ -51,8 +66,13 @@ Digitalisation enabler: HR enables the workforce to sign electronically and can 
 
 {{< side-by-side >}}
 {{% richtext %}}
-## Sign within your existing <br class="hide-for-mobile">HR software
-Stay with familiar tools: Sign from your existing systems, e.g. Google Drive, One Drive, Drop Box or Secure Safe. Alternatively, you can sign directly via your browser. (Coming end of 2019)
+## No new software required
+Stay with familiar tools: sign directly via your browser or from your existing software. <br class="hide-for-mobile">(Coming end of 2019)
+
+- **<small>Sign directly via your browser</small>**
+- **<small>Integrate Skribble as a plug-in into SAP <br class="hide-for-mobile">and other industry solutions</small>**
+- **<small>Seamless integration via modern APIs</small>**
+
 {{% /richtext %}}
 {{< picture integrations 381 "Existing systems, e.g. Google Drive, One Drive, Drop Box or Secure Safe" >}}
 {{< /side-by-side >}}

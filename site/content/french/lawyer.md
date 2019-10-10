@@ -12,7 +12,7 @@ og_image: og/og-skribble-identification.jpg
 {{% content %}}
 {{% heading %}}
 # Signature électronique pour juristes
-Avec Skribble vous signez sans matériel supplémentaire <br class="hide-for-mobile">avec la signature électronique qualifiée (QES).
+Avec Skribble vous signez sans clé USB ou lecteur de carte <br class="hide-for-mobile">avec la plus haute norme de signature électronique (QES).
 {{% /heading %}}
 {{< picture vertical-lawyer-main 560 "L'un traite de différents processus contractuels" >}}
 {{% /content %}}
@@ -22,8 +22,13 @@ Avec Skribble vous signez sans matériel supplémentaire <br class="hide-for-mob
 {{< side-by-side >}}
 {{< picture sign-parallel 387 "L'homme signe un contrat avec deux autres personnes" >}}
 {{% richtext %}}
-## Toutes les parties contractantes signent en parallèle
+## Toutes les parties contractantes signent numériquement
 Parties contractantes multiples: au lieu de s'envoyer des contrats par la poste, elles signent toutes en ligne, ce qui leur fait gagner du temps.
+
+- **<small>Inviter à signer automatiquement <br class="hide-for-mobile">par e-mail (bientôt disponible)</small>**
+- **<small>Vue d'ensemble de toutes les signatures <br class="hide-for-mobile">entrantes et sortantes</small>**
+- **<small>Etre averti automatiquement lorsque <br class="hide-for-mobile">le contrat a été signé</small>**
+
 {{% /richtext %}}
 {{< /side-by-side >}}
 
@@ -33,6 +38,11 @@ Parties contractantes multiples: au lieu de s'envoyer des contrats par la poste,
 {{% richtext %}}
 ## Complétez la pile <br class="hide-for-mobile">avec une seule signature
 Dossier de signature numérique: collectez vos contrats numériquement et signez-les simultanément en quelques clics. Grâce au standard QES, vous n'avez pas besoin d'une clé USB ou d'un lecteur de carte.
+
+- **<small>Signature par lots pour un nombre <br class="hide-for-mobile">quelconque de contrats </small>**
+- **<small>Authentification à deux facteurs par téléphone <br class="hide-for-mobile">mobile – aucun matériel externe requis</small>**
+- **<small>Indépendamment de l'heure et du lieu</small>**
+
 {{% /richtext %}}
 {{< picture batch-process 380 "Une agrafe de documents peut être signée en un seul clic" >}}
 {{< /side-by-side >}}
@@ -42,8 +52,13 @@ Dossier de signature numérique: collectez vos contrats numériquement et signez
 {{< side-by-side >}}
 {{< picture authorities-input 394 "Deux personnes interviennent pas à pas auprès des autorités" >}}
 {{% richtext %}}
-## Faites des soumissions <br class="hide-for-mobile">aux autorités en ligne.
-Des inscriptions au registre du commerce aux inscriptions notariales: il n'est pas nécessaire d'imprimer, d'envoyer ou de scanner. (A venir fin 2019)
+## Faites des soumissions <br class="hide-for-mobile">aux autorités en ligne
+Des modifications du registre du commerce <br class="hide-for-mobile">aux requêtes judiciaires: il n'est pas nécessaire d'imprimer, d'envoyer ou de scanner.
+
+- **<small>Intégration parfaite avec PrivaSphere <br class="hide-for-mobile">(A venir fin 2019)</small>**
+- **<small>Reconnu pour la communication entre les cabinets d'avocats et les autorités/ tribunaux en Suisse</small>**
+- **<small>Economiser du temps et de l'argent</small>**
+
 {{% /richtext %}}
 {{< /side-by-side >}}
 
@@ -51,8 +66,13 @@ Des inscriptions au registre du commerce aux inscriptions notariales: il n'est p
 
 {{< side-by-side >}}
 {{% richtext %}}
-## Signer directement depuis le logiciel de votre cabinet d'avocats
-Restez avec des outils familiers: signez à partir de vos programmes existants, par example WinJur, Vertec, Google Drive ou One Drive. Vous pouvez également vous connecter directement via votre navigateur. (A venir fin 2019)
+## Aucun nouveau logiciel requis
+Restez avec des outils familiers: connectez-vous directement via votre navigateur ou signez <br class="hide-for-mobile">à partir de vos programmes existants.
+
+- **<small>Signer directement via le navigateur</small>**
+- **<small>Intégrer Skribble comme plug-in dans <br class="hide-for-mobile">les solutions sectorielles</small>**
+- **<small>Intégrer parfaitement via des API modernes</small>**
+
 {{% /richtext %}}
 {{< picture crm-systeme-lawyer 421 "Signez à partir de vos systèmes existants, par exemple WinJur ou Vertec." >}}
 {{< /side-by-side >}}

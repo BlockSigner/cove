@@ -7,23 +7,30 @@ type: contact
 
 # map component
 map:
-  title: Skribble Office
-  subtitle: Right on Bahnhofstrasse, in the heart of Zurich
+  title: Skribble Offices
+  subtitle: We have our offices in Switzerland and Germany
   columns:
-    - title: Company
-      text: Skribble AG
-    - title: Address
-      text: |
-        Trust Square
-        Bahnhofstrasse 3
-        CH-8001 Zurich
-    - title: Phone
-      text: +41 44 505 16 64
-      type: phone
-      href: 41445051664
-    - title: Email
-      text: info@skribble.com
-      type: email
+    - title: Zurich
+      picture:      
+        name: map-zurich
+        alt: Map of office location in Zürich
+        url: https://goo.gl/maps/NJSREpn9FSnUTJYMA
+      address:
+        title: Skribble AG
+        full: |
+          Trust Square
+          Bahnhofstrasse 3
+          CH-8001 Zurich      
+    - title: Karlsruhe (Ettlingen)
+      picture:      
+        name: map-karlsruhe
+        alt: Map of office location in Karlsruhe
+        url: https://g.page/skribble-ettlingen?share
+      address:
+        title: Skribble Deutschland GmbH
+        full: |
+          Pforzheimer Str. 128A
+          DE-76275 Ettlingen  
 ---
 
 {{< outro >}}
