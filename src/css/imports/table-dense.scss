@@ -1,7 +1,7 @@
 .table-dense-container{
   margin: auto;
   margin-bottom: 88px;
-  max-width: 95%;
+  max-width: 90%;
   // display: flex;
   justify-content: center;
   overflow: auto;
@@ -50,31 +50,6 @@
       th {
         padding: 15px 0px;
         color: $c-text-alt;
-      }
-    
-      th:first-child, td:first-child {
-        width: 80px;
-      }
-    
-      th:nth-child(2), td:nth-child(2) {
-        width: 100px;
-      }
-    
-      th:nth-child(3), td:nth-child(3) {
-        max-width: 100px;
-      }
-    
-      th:nth-child(4), td:nth-child(4) {
-        max-width: 100px;
-      }
-    
-      th:nth-child(5), td:nth-child(5) {
-        max-width: 100px;
-      }
-    
-      td:first-child {
-
-        padding-top: 12px;
       }
 
       td {

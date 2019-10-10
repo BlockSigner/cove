@@ -47,7 +47,7 @@ Nach dem Registrieren kannst du jederzeit auf </br> eines der folgenden Modelle 
   comparison-title="Wähle für jeden Kontext das passende Modell:"
   comparison-first="<p><strong>Pay-Per-Use</strong></p><p>Für Mitarbeitende, die <strong>weniger</strong> als 12 Mal pro Monat signieren und für Firmen-Externe.</p><p class='top-spaced'>Maximal</p><p><strong>CHF <span class='large'>2.50</strong></span></p><p>pro Signatur</p>"
   or="Oder"
-  comparison-second="<p><strong>Flatrate</strong></p><p>Für Mitarbeitende, die <strong>mehr</strong> als 12 Mal pro Monat signieren.</p><p class='top-spaced'>Maximal</p><p><strong>CHF <span class='large'>2.50</strong></span></p><p>pro Signatur</p>"
+  comparison-second="<p><strong>Flatrate</strong></p><p>Für Mitarbeitende, die <strong>mehr</strong> als 12 Mal pro Monat signieren.</p><p class='top-spaced'>Maximal</p><p><strong>CHF <span class='large'>25</strong></span></p><p>pro Nutzer / Monat</p>"
   comparison-caption="Die Preise sinken deutlich, wenn mehr signiert wird oder mit einem anderen Standard."
   button-text="Jetzt beraten lassen" 
   button-link="https://help.skribble.com/meetings/patrick182/call-mit-skribble" 
@@ -55,14 +55,61 @@ Nach dem Registrieren kannst du jederzeit auf </br> eines der folgenden Modelle 
     {{< picture business-visual 270 "" >}}
 {{% /action-card %}}
 
-{{< button
-  "Preismodelle im Detail vergleichen"
-  "https://my.skribble.com/signup?lang=en"
-  "_blank"
->}}
-
-
 {{% /content %}}
+
+{{% show-hide-button button-text="Preismodelle im Detail vergleichen"%}}
+{{% table-dense %}}
+<thead>
+<tr>
+<th style="width: 33%;"><h2>Free</h2></th>
+<th style="width: 33%;"><h2>Fair Flat</h2></th>
+<th style="width: 33%;"><h2>Business</h2></th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+<td>Du signierst 2 Mal pro Monat kostenlos</td>
+<td>Du signierst mehr als 2 Mal pro Monat selbst oder holst Signaturen ein. Du hinterlegst eine Kreditkarte und bezahlst Ende Monat nur, was du tatsächlich gebraucht hast.</td>
+<td>Ihr nutzt Skribble gemeinsam in eurer Organisation. Die Nutzerverwaltung ist zentriert., abgerechnet wird einheitlich per Rechnung. Die Signaturplattform bindet ihr via API an eure eigenen Systeme an.</td>
+</tr>
+
+<tr>
+<td><strong>Funktionen</strong></td>
+<td><strong>Funktionen</strong></td>
+<td><strong>Funktionen</strong></td>
+</tr>
+
+<tr>
+<td>PDF per Drag & Drop hochladen</td>
+<td>PDF per Drag & Drop hochladen</td>
+<td>PDF per Drag & Drop hochladen</td>
+</tr>
+
+<tr>
+<td>Andere zum Signieren einladen</td>
+<td>Andere zum Signieren einladen</td>
+<td>Andere zum Signieren einladen</td>
+</tr>
+
+<tr>
+<td>Stapelsignatur anbringen</td>
+<td>Stapelsignatur anbringen</td>
+<td>Stapelsignatur anbringen</td>
+</tr>
+
+<tr>
+<td>Signatur per Handy bestätigen</td>
+<td>Signatur per Handy bestätigen</td>
+<td>Signatur per Handy bestätigen</td>
+</tr>
+
+</tbody>
+
+{{% /table-dense %}}
+
+{{% /show-hide-button %}}
+
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 

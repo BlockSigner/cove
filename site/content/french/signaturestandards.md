@@ -90,17 +90,17 @@ Sur Skribble, vous pouvez choisir entre les deux.
 
 <thead>
 <tr>
-<th>Norme</th>
-<th>Force probante</th>
-<th>Prérequis</th>
-<th>Champ d'application	</th>
-<th>Exemples d'application</th>
+<th style="width: 80px;">Norme</th>
+<th style="width: 100px;">Force probante</th>
+<th style="max-width: 100px;">Prérequis</th>
+<th style="max-width: 100px;">Champ d'application	</th>
+<th style="max-width: 100px;">Exemples d'application</th>
 </tr>
 </thead>
 
 <tbody>
 <tr>
-<td><div class="icon-qes">SEQ</div></td>
+<td style="padding-top: 12px;"><div class="icon-qes">SEQ</div></td>
 <td><strong>Très haute</strong></td>
 <td><ul><li>Identification personnelle ou e-ID</li><li>Numéro de téléphone mobile</li></ul></td>
 <td><ul><li>Contrats avec exigence de forme écrite</li><li>Maximiser la force probante des contrats informels (minimisation des risques)</li></ul></td>
@@ -108,7 +108,7 @@ Sur Skribble, vous pouvez choisir entre les deux.
 </tr>
 
 <tr>
-<td><div class="icon-fes">SEA</div></td>
+<td style="padding-top: 12px;"><div class="icon-fes">SEA</div></td>
 <td><strong>Haute</strong></td>
 <td><ul><li>Numéro de téléphone mobile suisse</li></ul></td>
 <td><ul><li>Contrats sans exigence de forme</li></ul></td>

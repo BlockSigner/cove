@@ -92,17 +92,17 @@ Anyone who has a Swiss mobile phone number can start signing with AES on Skribbl
 
 <thead>
 <tr>
-<th>Standard</th>
-<th>Legal weight </th>
-<th>Requirements</th>
-<th>Area of application</th>
-<th>Examples</th>
+<th style="width: 80px;">Standard</th>
+<th style="width: 100px;">Legal weight </th>
+<th style="max-width: 100px;">Requirements</th>
+<th style="max-width: 100px;">Area of application</th>
+<th style="max-width: 100px;">Examples</th>
 </tr>
 </thead>
 
 <tbody>
 <tr>
-<td><div class="icon-qes">QES</div></td>
+<td style="padding-top: 12px;"><div class="icon-qes">QES</div></td>
 <td><strong>Very high</strong></td>
 <td><ul><li>Personal identification or e-ID</li><li>Mobile phone number</li></ul></td>
 <td><ul><li>Contracts requiring the written form</li><li>Maximising the legal weight of contracts without formal requirement (risk minimisation)</li></ul></td>
@@ -110,7 +110,7 @@ Anyone who has a Swiss mobile phone number can start signing with AES on Skribbl
 </tr>
 
 <tr>
-<td><div class="icon-fes">FES</div></td>
+<td style="padding-top: 12px;"><div class="icon-fes">FES</div></td>
 <td><strong>High</strong></td>
 <td><ul><li>Swiss mobile phone number</li></ul></td>
 <td><ul><li>Contracts without formal requirement</li></ul></td>

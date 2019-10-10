@@ -89,17 +89,17 @@ Das trifft für die meisten Vertragsarten zu, so zum Beispiel bei Miet-, Kauf- o
 
 <thead>
 <tr>
-<th>Standard</th>
-<th>Beweiskraft</th>
-<th>Voraussetzungen</th>
-<th>Anwendungsbereich</th>
-<th>Anwendungsbeispiele</th>
+<th style="width: 80px;">Standard</th>
+<th style="width: 100px;">Beweiskraft</th>
+<th style="max-width: 100px;">Voraussetzungen</th>
+<th style="max-width: 100px;">Anwendungsbereich</th>
+<th style="max-width: 100px;">Anwendungsbeispiele</th>
 </tr>
 </thead>
 
 <tbody>
 <tr>
-<td><div class="icon-qes">QES</div></td>
+<td style="padding-top: 12px;"><div class="icon-qes">QES</div></td>
 <td><strong>Sehr Hoch</strong></td>
 <td><ul><li>Persönliche Identifikation oder E-ID</li><li>Mobiltelefonnumer</li></ul></td>
 <td><ul><li>Verträge mit Schriftlichkeitserfordernis</li><li>Maximierung der Beweiskraft formfreier Verträge (Risikominimierung)</li></ul></td>
@@ -107,7 +107,7 @@ Das trifft für die meisten Vertragsarten zu, so zum Beispiel bei Miet-, Kauf- o
 </tr>
 
 <tr>
-<td><div class="icon-fes">FES</div></td>
+<td style="padding-top: 12px;"><div class="icon-fes">FES</div></td>
 <td><strong>Hoch</strong></td>
 <td><ul><li>Schweizer Mobiltelefonnummer</li></ul></td>
 <td><ul><li>Formfreie Verträge</li></ul></td>

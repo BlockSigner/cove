@@ -1,0 +1,12 @@
+.show-hide-button {
+    text-align: center;
+    margin: 44px 24px;
+
+    #show, .show-content {
+        display: none;
+    }
+
+    #show:checked ~ .show-content {
+        display: block;
+    }
+}
