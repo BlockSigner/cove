@@ -44,7 +44,7 @@ Nach dem Registrieren kannst du jederzeit auf </br> eines der folgenden Modelle 
   title="Business" 
   description="<p>Ihr nutzt Skribble gemeinsam in eurer Organisation. Die Nutzerverwaltung ist zentriert</p>" 
   caption="Lädst du andere zum Signieren ein, kommen weitere 2.50.- pro Signatur dazu."
-  button-text="Jetz kostenlos ausprobieren" 
+  button-text="Jetzt beraten lassen" 
   button-link="https://help.skribble.com/meetings/patrick182/call-mit-skribble" 
   subtext="Keine Abonnementsverpflichtungen"%}}
     {{< picture business-visual 270 "" >}}
