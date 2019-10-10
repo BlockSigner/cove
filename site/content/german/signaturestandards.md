@@ -9,8 +9,8 @@ slug: signaturstandards
 {{% content %}}
 {{% heading %}}
 # Wie viel Beweiskraft brauchst du?
-Das Gesetz unterscheidet zwischen der qualifizierten E-Signatur (QES) <br class="hide-for-mobile">und der fortgeschrittenen E-Signatur (FES). 
-Die beiden Standards <br class="hide-for-mobile">variieren punkto Einsatzgebiet und Beweiskraft. 
+Das Gesetz unterscheidet zwischen der qualifizierten E-Signatur (QES) <br class="hide-for-mobile">und der fortgeschrittenen E-Signatur (FES).
+Die beiden Standards <br class="hide-for-mobile">variieren punkto Einsatzgebiet und Beweiskraft.
 Auf Skribble kannst du wählen.
 {{% /heading %}}
 
@@ -25,8 +25,8 @@ Die rundum-sorglos-Signatur für höchste Ansprüche
 
 {{% richtext %}}
 **Die qualifizierte elektronische Signatur (QES) ist der handschriftlichen Signatur rechtlich gleichgestellt.**<br>
-Du setzt die QES ein, um die Beweiskraft deiner Verträge zu maximieren oder wenn das Gesetz die Schriftlichkeit verlangt. 
-Letzteres triff z.B. bei Kredit- oder Arbeitsverträgen mit Konkurrenzklausel zu. 
+Du setzt die QES ein, um die Beweiskraft deiner Verträge zu maximieren oder wenn das Gesetz die Schriftlichkeit verlangt.
+Letzteres trifft z.B. bei Kredit- oder Arbeitsverträgen mit Konkurrenzklausel zu.
 Für das Signieren mit QES auf Skribble wird eine vorgängige Identitätsprüfung im persönlichen Kontakt oder eine E-ID vorausgesetzt.
 {{% /richtext %}}
 {{% /content %}}
