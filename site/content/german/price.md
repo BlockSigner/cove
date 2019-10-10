@@ -11,7 +11,12 @@ slug: preise
 # Signiere einfacher </br> mit dem passenden Preismodell
 Skribble eignet sich sowohl für gelegentliches wie auch für häufiges Signieren.
 {{% /heading %}}
-{{% action-card title="Free" action-link="https://my.skribble.com/signup?lang=de" %}}
+{{% action-card 
+  title="Free" 
+  description="<p>Du signierst:</br><strong>2 Mal pro Monat kostenlos.</strong></p>" 
+  button-text="Jetz kostenlos ausprobieren" 
+  button-link="https://my.skribble.com/signup?lang=de" 
+  subtext="Konto jederzeit löschbar"%}}
     {{< picture free-visual 232 "" >}}
 {{% /action-card %}}
 
@@ -20,7 +25,13 @@ Skribble eignet sich sowohl für gelegentliches wie auch für häufiges Signiere
 Nach dem Registrieren kannst du jederzeit auf </br> eines der folgenden Modelle umstellen:
 {{% /heading %}}
 
-{{% action-card title="Fair Flat" action-link="https://my.skribble.com/signup?lang=de" %}}
+{{% action-card 
+  title="Fair Flat" 
+  description="<p>Du signierst <strong>mehr als 2 Mal pro Monat</strong> selbst oder holst Signaturen ein.</p><p class='top-spaced'>Maximal</p><p><strong>CHF <span class='large'>2.50</span> pro Signatur</strong></p><p>bis zu einer Obergrenze von</p><p><strong>CHF <span class='large'>30.-</span> pro Monat</strong></p>" 
+  caption="Lädst du andere zum Signieren ein, kommen weitere 2.50.- pro Signatur dazu."
+  button-text="Jetz kostenlos ausprobieren" 
+  button-link="https://my.skribble.com/signup?lang=de" 
+  subtext="Keine Abonnementsverpflichtungen"%}}
     {{< picture fair-flat-visual 290 "" >}}
 {{% /action-card %}}
 
@@ -29,7 +40,13 @@ Nach dem Registrieren kannst du jederzeit auf </br> eines der folgenden Modelle 
 ## oder
 {{% /heading %}}
 
-{{% action-card title="Business" action-link="https://help.skribble.com/meetings/patrick182/call-mit-skribble" %}}
+{{% action-card 
+  title="Business" 
+  description="<p>Ihr nutzt Skribble gemeinsam in eurer Organisation. Die Nutzerverwaltung ist zentriert</p>" 
+  caption="Lädst du andere zum Signieren ein, kommen weitere 2.50.- pro Signatur dazu."
+  button-text="Jetz kostenlos ausprobieren" 
+  button-link="https://help.skribble.com/meetings/patrick182/call-mit-skribble" 
+  subtext="Keine Abonnementsverpflichtungen"%}}
     {{< picture business-visual 270 "" >}}
 {{% /action-card %}}
 
