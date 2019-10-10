@@ -4,18 +4,35 @@
     margin-bottom: 24px;
     max-width: 650px;
     display: flex;
+    flex-flow: row wrap;
     box-shadow: 0px 0px 10px #DDD;
     font-size: 1.6rem;
+    
+
+    p {
+        margin: 0px;
+    }
+
+    .top-spaced {
+        margin-top: 24px;
+    }
+    
     strong {
         color: $c-text-alt;
     }
+
+    .large {
+        font-size: 150%;
+    }
+
+    
 
     .content {
         width: 100%;
         padding: 24px 24px 12px 24px !important;
 
         .top {
-            max-height: 280px;
+            max-height: 300px;
             flex-grow: 1;
             display: flex;
             flex-flow: column wrap;
@@ -37,8 +54,11 @@
             .description {
                 order: 10;
                 width: 40%;
+                flex-grow: 1;
+                min-height: 100px;
                 @media only screen and (max-width: 720px) {
                     width: 100%;
+                    min-height: 0px;
                 }
             }
 
@@ -58,18 +78,6 @@
                     width: 100%
                 }
             }
-        }
-
-        p {
-            margin: 0px;
-        }
-
-        .large {
-            font-size: 150%;
-        }
-
-        .top-spaced {
-            margin-top: 24px;
         }
 
         .button {
@@ -100,4 +108,85 @@
             }
         }
     }
+
+    .no-top-padding {
+        padding-top: 0px !important; 
+    }
+
+    .comparison {
+        margin-top: 24px;
+        display: flex;
+        flex-flow: row wrap;
+
+        .comparison-title {
+            margin-bottom: 12px;
+            padding: 0px 24px;
+        }
+
+        .comparison-container {
+            display: flex;
+            flex-flow: row wrap;
+        }
+
+        .comparison-first {
+            width: 49%;
+            padding: 12px 48px 12px 24px;
+            border-top: 1px solid #DADEE6;
+            border-bottom: 1px solid #DADEE6;
+            @media only screen and (max-width: 720px) {
+                padding: 24px 24px 40px 24px;
+                width: 100%
+            }
+        }
+
+        .comparison-separator {
+            width: 1px;
+            height: 100%;
+            align-items: center;
+            display: flex;
+            overflow: visible;
+            align-items: center;
+            justify-items: center;
+            background: #DADEE6;
+            @media only screen and (max-width: 720px) {
+                width: 100%;
+                height: 0px;
+            }
+
+            .separator-text {
+                background: white;
+                border: 1px solid #DADEE6;
+                border-radius: 20px;
+                padding: 5px 15px;
+                position: absolute;
+                transform: translateX(-50%);
+                
+                @media only screen and (max-width: 720px) {
+                    transform: none;
+                    position: relative;
+                    margin-inline: auto;
+                }
+            }
+        }
+
+        .comparison-second {
+            width: 49%;
+            padding: 12px 24px 12px 48px;
+            border-top: 1px solid #DADEE6;
+            border-bottom: 1px solid #DADEE6;
+            @media only screen and (max-width: 720px) {
+                border-top: none;
+                padding: 40px 24px 24px 24px;
+                width: 100%;
+            }
+        }
+
+        .comparison-caption {
+            text-align: center;
+            font-size: 70%;
+            padding: 24px;
+        }
+    }
+
+
 }

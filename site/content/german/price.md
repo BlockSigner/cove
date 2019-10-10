@@ -9,7 +9,7 @@ slug: preise
 {{% content %}}
 {{% heading %}}
 # Signiere einfacher </br> mit dem passenden Preismodell
-Skribble eignet sich sowohl für gelegentliches wie auch für häufiges Signieren.
+Skribble eignet sich sowohl für gelegentliches</br>wie auch für häufiges Signieren.
 {{% /heading %}}
 {{% action-card 
   title="Free" 
@@ -42,8 +42,13 @@ Nach dem Registrieren kannst du jederzeit auf </br> eines der folgenden Modelle 
 
 {{% action-card 
   title="Business" 
-  description="<p>Ihr nutzt Skribble gemeinsam in eurer Organisation. Die Nutzerverwaltung ist zentriert</p>" 
-  caption="Lädst du andere zum Signieren ein, kommen weitere 2.50.- pro Signatur dazu."
+  description="<p>Ihr nutzt Skribble gemeinsam in eurer Organisation. Die Nutzerverwaltung ist zentriert</p>"
+  has-comparison="true"
+  comparison-title="Wähle für jeden Kontext das passende Modell:"
+  comparison-first="<p><strong>Pay-Per-Use</strong></p><p>Für Mitarbeitende, die <strong>weniger</strong> als 12 Mal pro Monat signieren und für Firmen-Externe.</p><p class='top-spaced'>Maximal</p><p><strong>CHF <span class='large'>2.50</strong></span></p><p>pro Signatur</p>"
+  or="Oder"
+  comparison-second="<p><strong>Flatrate</strong></p><p>Für Mitarbeitende, die <strong>mehr</strong> als 12 Mal pro Monat signieren.</p><p class='top-spaced'>Maximal</p><p><strong>CHF <span class='large'>2.50</strong></span></p><p>pro Signatur</p>"
+  comparison-caption="Die Preise sinken deutlich, wenn mehr signiert wird oder mit einem anderen Standard."
   button-text="Jetzt beraten lassen" 
   button-link="https://help.skribble.com/meetings/patrick182/call-mit-skribble" 
   subtext="Keine Abonnementsverpflichtungen"%}}
