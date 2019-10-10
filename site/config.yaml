@@ -56,8 +56,8 @@ languages:
         - name: Angebot
           url: /de/angebot/
           weight: 5
-        - name: Funktionen
-          url: /de/funktionen/
+        - name: Features
+          url: /de/features/
           weight: 10
         - name: Integrationen
           url: /de/integrationen/
