@@ -8,3 +8,27 @@
 
 [context.deploy-preview]
   command = "yarn run build:preview"
+
+[[redirects]]
+  from = "/de/identitaetspruefung/"
+  to = "/de/qes-freischalten/"
+
+[[redirects]]
+  from = "/de/qes-erklaert/"
+  to = "/de/signaturstandards/"
+
+[[redirects]]
+  from = "/identify/"
+  to = "/enable-qes/"
+
+[[redirects]]
+  from = "/qes-explained/"
+  to = "/signaturestandards/"
+
+[[redirects]]
+  from = "/fr/identifions/"
+  to = "/fr/debloquez-qes/"
+
+[[redirects]]
+  from = "/fr/qes-explique/"
+  to = "/fr/normessignature/"
