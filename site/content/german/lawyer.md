@@ -12,7 +12,7 @@ og_image: og/og-skribble-identification.jpg
 {{% content %}}
 {{% heading %}}
 # Elektronische Signatur für Anwälte
-Über Skribble signiertst du ohne USB-Stick oder Card-Reader <br class="hide-for-mobile">mit dem höchsten verfügnaren E-Signatur-Standard (QES).
+Über Skribble signierst du ohne USB-Stick oder Card-Reader <br class="hide-for-mobile">mit dem höchsten verfügbaren E-Signatur-Standard (QES).
 {{% /heading %}}
 {{< picture vertical-lawyer-main 560 "Man erledigt verschiedene Vertragprozesse" >}}
 {{% /content %}}
@@ -45,7 +45,7 @@ Digitale Unterschriftsmappe: Sammle deine Verträge digital und signiere sie gle
 
 {{% /richtext %}}
 {{< picture batch-process 380 "Ein Stappel Dokumente werden mit einem Klick signiert" >}}
-{{< /side-by-side >}} 
+{{< /side-by-side >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
