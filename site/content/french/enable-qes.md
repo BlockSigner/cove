@@ -1,5 +1,5 @@
 ---
-title: Contrôle d'identité pour la QES
+title: Contrôle d'identité pour la SEQ
 description: Pour signer avec la plus haute norme de signature électronique (SEQ), les signataires doivent faire vérifier leur identité. Ceci est possible via e-ID ou avec notre service d'identification.
 draft: false
 slug: debloquez-qes
