@@ -67,7 +67,7 @@ Unsere Vision ist gross. Wir entwickeln Skribble Tag für Tag weiter.
 
   {{< features-item src="features/tools.svg" 
     headline="Automatisiert erinnern" 
-    description="Renne ausstehenden Signaturen nicht nach sondern versende automatisiert Erinnerungs-E-Mails.">}}
+    description="Renne ausstehenden Signaturen nicht nach, sondern versende automatisiert Erinnerungs-E-Mails.">}}
 
   {{< features-item src="features/archive.svg" 
     headline="Archivierbereit herunterladen" 
