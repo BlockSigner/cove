@@ -140,7 +140,7 @@ CH-8001 Zurich
 # All clear?
 {{% /heading %}}
 
-{{% collapsible 1 "Maximise the legal weight of your elecotrinic signature" %}}
+{{% collapsible 1 "Maximise the legal weight of your electronic signature" %}}
 At Skribble you sign with the qualified electronic signature (QES). This is [the highest e-signature standard](/signaturestandards). For this, the law requires an identity verification through personal contact. Exceptions are financial intermediaries who may <br class="hide-for-mobile">carry out identity verification using video identification.{{% /collapsible %}}
 
 {{% collapsible 2 "Do I have to be identified again before each QES signature?" %}}
