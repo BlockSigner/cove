@@ -32,8 +32,8 @@ languages:
           url: "/de/identifikation/"
           weight: 25
           parent: plattform
-        - name: Identitätsprüfung
-          url: "de/identitaetspruefung/"
+        - name: QES freischalten
+          url: "/de/qes-freischalten/"
           weight: 30
           parent: plattform
         # Solutions dropdown
@@ -166,8 +166,8 @@ languages:
           url: "/identification/"
           weight: 25
           parent: platform
-        - name: Identify
-          url: "/identify/"
+        - name: Enable QES
+          url: "/enable-qes/"
           weight: 30
           parent: platform
         # Solutions dropdown
@@ -307,8 +307,8 @@ languages:
           url: "/fr/identification/"
           weight: 25
           parent: platform
-        - name: Identifions
-          url: "fr/identifions/"
+        - name: Débloquez QES
+          url: "/fr/debloquez-qes/"
           weight: 30
           parent: platform
         # Solutions dropdown
