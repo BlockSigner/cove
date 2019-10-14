@@ -129,25 +129,6 @@ Approprié si de nouveaux signataires SEQ sont constamment ajoutés.
 {{% /richtext %}}
 {{% /cta %}}
 
-
-{{% content %}}
-{{% heading %}}
-# Souhaitez-vous signer <br class="hide-for-mobile">électroniquement et de manière qualifiée en tant que privé?
-Skribble s’utilise facilement en dehors du contexte de l’entreprise. <br class="hide-for-mobile">Si vous n’avez pas encore d’e-ID, nous nous ferons un plaisir de vous identifier. <br class="hide-for-mobile">Cela ne prend que quelques minutes.
-{{% /heading %}}
-{{< picture individual-signing 448 "L'identité d'une femme debout dans un téléphone portable est vérifiée par deux personnes" >}}
-&nbsp;
-{{% /content %}}
-
-{{% cta
-  label="Obtenez une e-ID maintenant"
-  href="fr/debloquez-qes"
-%}}
-{{% richtext %}}
-**Choisissez un rendez-vous <br class="hide-for-mobile">et nous vous identifierons.**
-{{% /richtext %}}
-{{% /cta %}}
-
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
 {{< outro >}}
