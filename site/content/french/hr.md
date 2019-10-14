@@ -115,7 +115,7 @@ Skribble et ses partenaires gèrent leurs données conformément à la loi féd�
 {{< picture qes-erklaert 122 "Signé avec Skribble signifie légalement signé selon le droit suisse et européen." >}}
 
 {{% richtext %}}
-**Pourquoi la signature électronique qualifiée (QES) fixe une norme numérique à la loi?**<br>
+**Pourquoi la signature électronique qualifiée (SEQ) fixe une norme numérique à la loi?**<br>
 {{% /richtext %}}
 {{% /cta %}}
 
@@ -163,7 +163,7 @@ Tous les signataires sont identifiés à l'avance. Lors de la signature, le sign
 {{% /collapsible %}}
 
 {{% collapsible 12 "Est-ce que signer avec Skribble est légalement sécurisé?" %}}
-Oui, Skribble est basé sur la signature électronique qualifiée (QES). La QES est la seule forme de signature électronique équivalente à la signature manuscrite devant le droit suisse (art. 14 2bis CO) et européen (art. 25 al. 2 eIDAS). 
+Oui, Skribble est basé sur la signature électronique qualifiée (SEQ). La SEQ est la seule forme de signature électronique équivalente à la signature manuscrite devant le droit suisse (art. 14 2bis CO) et européen (art. 25 al. 2 eIDAS). 
 {{% /collapsible %}}
 
 {{% collapsible 13 "Puis-je conserver le contrat signé numériquement sur papier?" %}}
@@ -171,7 +171,7 @@ Pas uniquement. Grâce à la signature visuelle, on peut voir sur le contrat imp
 {{% /collapsible %}}
 
 {{% collapsible 14 "Quelle est la durée de validité de la signature Skribble? " %}}
-La QES est légalement valide pour une durée illimitée.
+La SEQ est légalement valide pour une durée illimitée.
 {{% /collapsible %}}
 {{% /content %}}
 
