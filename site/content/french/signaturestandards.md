@@ -72,7 +72,7 @@ Vérifiez si un document a été signé avec la SEQ
 
 {{% content %}}
 {{% heading %}}
-# La loi établit une distinction <br class="hide-for-mobile">entre les signatures électroniques qualifiées (SEQ) et les signatures électroniques avancées (AES). 
+# La loi établit une distinction <br class="hide-for-mobile">entre les signatures électroniques qualifiées (SEQ) et les signatures électroniques avancées (SEA). 
 Les deux normes varient en termes de domaine d'application et de force probante.<br class="hide-for-mobile"> 
 Sur Skribble, vous pouvez choisir entre les deux.
 {{% /heading %}}
@@ -80,7 +80,7 @@ Sur Skribble, vous pouvez choisir entre les deux.
 {{< picture aes-fr 320 "Une personne tient un document juridique entre ses mains. Le logo de swisscom se trouve à l'arrière-plan." >}}
 
 {{% richtext %}}
-**La loi établit une distinction entre les signatures électroniques qualifiées (SEQ) et les signatures électroniques avancées (AES).**<br>
+**La loi établit une distinction entre les signatures électroniques qualifiées (SEQ) et les signatures électroniques avancées (SEA).**<br>
 Les deux normes varient en termes de domaine d'application et de force probante. 
 Sur Skribble, vous pouvez choisir entre les deux.
 {{% /richtext %}}
