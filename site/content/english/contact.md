@@ -13,7 +13,7 @@ map:
     - title: Zurich
       picture:      
         name: map-zurich
-        alt: Map of office location in Zürich
+        alt: Map of office location in Zurich
         url: https://goo.gl/maps/NJSREpn9FSnUTJYMA
       address:
         title: Skribble AG

@@ -147,7 +147,7 @@ CH-3007 Bern
 {{< picture
   name="map-trustsquare"
   w="121"
-  alt="TrustSquare, Bahnhofstrasse 3, CH-8001 Zürich"
+  alt="TrustSquare, Bahnhofstrasse 3, CH-8001 Zurich"
   href="https://goo.gl/maps/PfkFALpqq89meyYf9"
   target="_blank"
 >}}
@@ -155,7 +155,7 @@ CH-3007 Bern
 {{% richtext %}}
 **TrustSquare**<br>
 Bahnhofstrasse 3<br>
-CH-8001 Zürich
+CH-8001 Zurich
 
 {{% /richtext %}}
 {{% /cta %}}
