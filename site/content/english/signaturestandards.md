@@ -78,7 +78,7 @@ Check whether a document has been signed with QES
 Instantly operational thanks to lower requirements
 {{% /heading %}}
 
-{{< picture aes-en 320 "A woman is holding an FES contract in her hand under Swiss law." >}}
+{{< picture aes-en 320 "A woman is holding an AES contract in her hand under Swiss law." >}}
 
 {{% richtext %}}
 **The advanced electronic signature (AES) is legally valid for contracts where the law does not prescribe a specific form.**<br>
@@ -88,7 +88,7 @@ Anyone who has a Swiss mobile phone number can start signing with AES on Skribbl
 {{% /content %}}
 
 
-{{% table-dense "QES vs. FES at a glance" %}}
+{{% table-dense "QES vs. AES at a glance" %}}
 
 <thead>
 <tr>
