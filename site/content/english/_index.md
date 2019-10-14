@@ -201,11 +201,11 @@ Skribbles' pricing adapts to your needs and can be flexibly configured.
 
 {{< row >}}
 {{% plan gold "Prepaid" "Pay per signature" %}}
-Suitable for single or occasional signing with QES
+Suitable for single or occasional signing
 {{% /plan %}}
 
 {{% plan purple "Flat rate" "Pay per user" %}}
-Suitable for regular signing with QES
+Suitable for regular signing
 {{% /plan %}}
 {{< /row >}}
 {{% /content %}}
