@@ -18,10 +18,10 @@ Skribble propose des offres qui correspondent à vos besoins.
 
 {{< row >}}
 {{% plan gold "Modèle prépayé" "Prix unique par signature" %}}
-Idéal pour signer une fois ou occasionnellement avec la SEQ.
+Idéal pour signer une fois ou occasionnellement.
 {{% /plan %}}
 {{% plan purple "Modèle forfaitaire" "Forfait par personne" %}}
-Idéal pour un usage régulier de la SEQ.
+Idéal pour un usage régulier.
 {{% /plan %}}
 {{< /row >}}
 
