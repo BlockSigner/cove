@@ -60,7 +60,7 @@ La force probante de votre signature est portée à 100% (niveau SEQ)
 {{% /heading %}}
 
 {{% collapsible 1 "Que m'apporte l'identification?" %}}
-Sur Skribble, vous avez la possibilité de signer avec la plus haute norme de signature électronique disponible: la signature électronique qualifiée (SEQ). <br class="hide-for-mobile">Elle a une force probante de 100% et peut être utilisée pour les contrats qui nécessitent la forme écrite. Pour la SEQ, la loi exige un contrôle d'identité.
+Sur Skribble, vous avez la possibilité de signer avec [la plus haute norme de signature électronique](/fr/normessignature) disponible: la signature électronique qualifiée (SEQ). <br class="hide-for-mobile">Elle a une force probante de 100% et peut être utilisée pour les contrats qui nécessitent la forme écrite. Pour la SEQ, la loi exige un contrôle d'identité.
 {{% /collapsible %}}
 
 {{% collapsible 2 "Dois-je être identifié à nouveau avant chaque signature SEQ?" %}}
