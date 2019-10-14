@@ -76,7 +76,7 @@ The data collected are stored on Swisscom's high-security servers <br class="hid
 {{% /collapsible %}}
 
 {{% collapsible 5 "Does QES require a Mobile ID?" %}}
-No. But a Mobile ID makes signing faster and easier, which is why we recommend it. On https://www.mobileid.ch/en you can check whether your smartphone already has a Mobile ID and whether the function is activated. <br class="hide-for-mobile">If this is not the case, a new SIM card with Mobile ID can be ordered<br class="hide-for-mobile"> free of charge from most providers.
+No. But a Mobile ID makes signing faster and easier, which is why we recommend it. On Mobile-ID.ch you can check whether your smartphone already has a Mobile ID and whether the function is activated. <br class="hide-for-mobile">If this is not the case, a new SIM card with Mobile ID can be ordered<br class="hide-for-mobile"> free of charge from most providers.
 {{% /collapsible %}}
 
 {{% /content %}}
