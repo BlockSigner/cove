@@ -194,10 +194,10 @@ Skribbles Angebotsstruktur passt sich deinen Bedürfnissen an <br class="hide-fo
 
 {{< row >}}
 {{% plan gold "Prepaid-Modell" "Einzelpreis pro Signatur" %}}
-Geeignet für einmaliges oder gelegentliches Signieren mit QES.
+Geeignet für einmaliges oder gelegentliches Signieren.
 {{% /plan %}}
 {{% plan purple "Flatrate-Modell" "Pauschalpreis pro Person" %}}
-Geeignet für regelmässiges Signieren mit QES.
+Geeignet für regelmässiges Signieren.
 {{% /plan %}}
 {{< /row >}}
 {{% /content %}}
