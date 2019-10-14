@@ -194,10 +194,10 @@ Les offres Skribbles s'adaptent à vos besoins et <br class="hide-for-mobile">pe
 
 {{< row >}}
 {{% plan gold "Modèle prépayé" "Prix unique par signature" %}}
-Idéal pour signer une fois ou occasionnellement avec la SEQ.
+Idéal pour signer une fois ou occasionnellement.
 {{% /plan %}}
 {{% plan purple "Modèle forfaitaire" "Forfait par personne" %}}
-Idéal pour un usage régulier de la SEQ.
+Idéal pour un usage régulier.
 {{% /plan %}}
 {{< /row >}}
 {{% /content %}}
