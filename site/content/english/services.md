@@ -17,10 +17,10 @@ Skribble's pricing structure adapts to your needs
 
 {{< row >}}
 {{% plan gold "Prepaid Model" "Unit price per signature" %}}
-Suitable for single or occasional signing with QES
+Suitable for single or occasional signing
 {{% /plan %}}
 {{% plan purple "Flat rate-Model" "Package price per person" %}}
-Suitable for regular signing with QES
+Suitable for regular signing
 {{% /plan %}}
 {{< /row >}}
 
