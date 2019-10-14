@@ -101,7 +101,7 @@ Das trifft für die meisten Vertragsarten zu, so zum Beispiel bei Miet-, Kauf- o
 <tr>
 <td><div class="icon-qes">QES</div></td>
 <td><strong>Sehr Hoch</strong></td>
-<td><ul><li>Persönliche Identifikation oder E-ID</li><li>Mobiltelefonnumer</li></ul></td>
+<td><ul><li>Persönliche Identifikation oder E-ID</li><li>Mobiltelefonnummer</li></ul></td>
 <td><ul><li>Verträge mit Schriftlichkeitserfordernis</li><li>Maximierung der Beweiskraft formfreier Verträge (Risikominimierung)</li></ul></td>
 <td><ul><li>Kreditvertrag</li><li>Arbeitsvertrag mit Konkurrenzklausel</li><li>heikler formfreier Vertrag</li></ul></td>
 </tr>
@@ -111,7 +111,7 @@ Das trifft für die meisten Vertragsarten zu, so zum Beispiel bei Miet-, Kauf- o
 <td><strong>Hoch</strong></td>
 <td><ul><li>Schweizer Mobiltelefonnummer</li></ul></td>
 <td><ul><li>Formfreie Verträge</li></ul></td>
-<td><ul><li>Mietverträge</li><li>Kauferträge</li><li>Hypotheken</li><li>einfacher Arbeitsvertrag</li></ul></td>
+<td><ul><li>Mietverträge</li><li>Kaufverträge</li><li>Hypotheken</li><li>einfacher Arbeitsvertrag</li></ul></td>
 </tr>
 </tbody>
 
@@ -125,7 +125,7 @@ Das trifft für die meisten Vertragsarten zu, so zum Beispiel bei Miet-, Kauf- o
   outlined=""
 %}}
 
-{{< picture "contact" 92 "Hast du fragen? Wir helfen dir gerne weiter." >}}
+{{< picture "contact" 92 "Hast du Fragen? Wir helfen dir gerne weiter." >}}
 
 {{% richtext %}}
 **Hast du fragen? <br class="hide-for-mobile">Wir helfen dir gerne weiter.**<br>
