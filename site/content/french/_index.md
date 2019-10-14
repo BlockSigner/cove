@@ -174,7 +174,7 @@ Laissez Skribble vous identifier et augmentez la force probante de votre signatu
 {{< picture AES 100 "Signé avec Skribble signifie légalement signé selon le droit suisse et européen." >}}
 
 {{% richtext %}}
-**Signier avec AES**<br>
+**Signier avec SEA**<br>
 Pour la signature électronique avancée (SEA), aucune identification n'est requise.
 {{% /richtext %}}
 {{% /cta %}}
