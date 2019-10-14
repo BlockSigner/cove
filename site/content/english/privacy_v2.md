@@ -180,11 +180,11 @@ Skribble AG uses remarketing services to advertise on third party websites to yo
 Google Ads (AdWords) remarketing service is provided by Google Inc.
 You can opt-out of Google Analytics for Display Advertising and customise the Google Display Network ads by visiting the Google Ads Settings page: <a href="http://www.google.com/settings/ads" rel="noopener" target="_blank">www.google.com/settings/ads</a>
 
-### Bing Ads Remarketing
-Bing Ads remarketing service is provided by Microsoft Inc. You can opt-out of Bing Ads interest-based ads by following their instructions: <a href="https://about.ads.microsoft.com/en-us/resources/policies/personalized-ads" rel="noopener" target="_blank">advertise.bingads.microsoft.com/en-us/resources/policies/personalized-ads</a>. You can learn more about the privacy practices and policies of Microsoft by visiting their Privacy Policy page: <a href="https://privacy.microsoft.com/en-us/PrivacyStatement" rel="noopener" target="_blank">privacy.microsoft.com/en-us/PrivacyStatement</a>
-
 Google also recommends installing the Google Analytics Opt-out Browser Add-on - <a href="https://tools.google.com/dlpage/gaoptout" rel="noopener" target="_blank">tools.google.com/dlpage/gaoptout</a> - for your web browser. Google Analytics Opt-out Browser Add-on provides visitors with the ability to prevent their data from being collected and used by Google Analytics.
 For more information on the privacy practices of Google, please visit the Google Privacy Terms web page: <a href="https://policies.google.com/privacy?hl=en" rel="noopener" target="_blank">policies.google.com/privacy?hl=en</a>
+
+### Bing Ads Remarketing
+Bing Ads remarketing service is provided by Microsoft Inc. You can opt-out of Bing Ads interest-based ads by following their instructions: <a href="https://about.ads.microsoft.com/en-us/resources/policies/personalized-ads" rel="noopener" target="_blank">advertise.bingads.microsoft.com/en-us/resources/policies/personalized-ads</a>. You can learn more about the privacy practices and policies of Microsoft by visiting their Privacy Policy page: <a href="https://privacy.microsoft.com/en-us/PrivacyStatement" rel="noopener" target="_blank">privacy.microsoft.com/en-us/PrivacyStatement</a>
 
 ### Twitter
 Twitter remarketing service is provided by Twitter Inc.
