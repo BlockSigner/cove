@@ -124,8 +124,8 @@ Skribble and its signing partner Swisscom commit to manage data in accordance wi
 
 {{% content %}}
 {{% heading %}}
-# Ready to sign <br class="hide-for-mobile">in a few minutes
-All you need is a mobile phone and a valid travel document <br class="hide-for-mobile">(Valid passport or identity card).
+# Maximise the legal weight <br class="hide-for-mobile">of your signature
+Get identified. This will unlock the highest e-signature standard available – QES. <br class="hide-for-mobile">All you need is a valid travel document (ID or passport).                                
 {{% /heading %}}
 {{< picture "create-identity" 385 "A magnifying glass enlarges the image of a woman in a passport" >}}
 &nbsp;
@@ -133,8 +133,7 @@ All you need is a mobile phone and a valid travel document <br class="hide-for-m
 
 {{% cta
   label="Schedule an appointment"
-  href="https://help.skribble.com/meetings/patrick182/skribble-id-zurich"
-  target="_blank"
+  href="enable-qes"
 %}}
 {{% richtext %}}
 **Make an appointment<br>and get identified**

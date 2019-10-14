@@ -123,8 +123,8 @@ Skribble sowie Partner verwalten ihre Daten gemäss dem Bundesgesetz über den D
 
 {{% content %}}
 {{% heading %}}
-# In wenigen Minuten bereit <br class="hide-for-mobile">zum Signieren
-Du benötigst nur ein Mobiltelefon und ein gültiges Reisedokument <br class="hide-for-mobile">(Pass oder Identitätskarte).
+# Maximiere die Beweiskraft <br class="hide-for-mobile">deiner E-Signatur
+Lass dich identifizieren. Damit schaltest du den höchsten verfügbaren <br class="hide-for-mobile">E-Signatur-Standard QES frei. Du benötigst nur ein gültiges Reisedokument <br class="hide-for-mobile">(ID oder Pass).
 {{% /heading %}}
 {{< picture "create-identity" 385 "Eine Lupe vergrössert das Bild einer Frau in einem Pass" >}}
 &nbsp;
@@ -132,8 +132,8 @@ Du benötigst nur ein Mobiltelefon und ein gültiges Reisedokument <br class="hi
 
 {{% cta
   label="Termin vereinbaren"
-  href="https://help.skribble.com/meetings/patrick182/identifikation-bei-skribble"
-  target="_blank"
+  href="/de/qes-freischalten/"
+
 %}}
 {{% richtext %}}
 **Wähle einen Termin <br class="hide-for-mobile">aus und lass dich identifizieren**

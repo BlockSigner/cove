@@ -123,8 +123,8 @@ Skribble et ses partenaires gèrent leurs données conformément à la loi féd�
 
 {{% content %}}
 {{% heading %}}
-# Prêt à signer <br class="hide-for-mobile">dans quelques minutes
-Il vous suffit d'avoir un téléphone mobile et un document <br class="hide-for-mobile">de voyage valide (passeport ou carte d'identité).
+# Maximisez la force probante <br class="hide-for-mobile">de votre signature électronique 
+Laissez-vous identifier. Cela débloque la norme de signature électronique <br class="hide-for-mobile">la plus élevée du marché: la SEQ. Vous n'avez besoin que d'un document <br class="hide-for-mobile">de voyage valide (pièce d'identité ou passeport).
 {{% /heading %}}
 {{< picture "create-identity" 385 "Une loupe agrandit l'image d'une femme dans un passeport" >}}
 &nbsp;
@@ -132,8 +132,7 @@ Il vous suffit d'avoir un téléphone mobile et un document <br class="hide-for-
 
 {{% cta
   label="Organiser un rendez-vous"
-  href="https://help.skribble.com/meetings/patrick182/consultation-telephone-skribble"
-  target="_blank"
+  href="/fr/debloquez-qes/"
 %}}
 {{% richtext %}}
 **Choisissez un rendez-vous <br class="hide-for-mobile">et laissez-nous vous identifier**
