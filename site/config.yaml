@@ -121,7 +121,7 @@ languages:
         text: Lass dich identifzieren und schalte den höchsten E-Signatur-Standard frei.
         button:
           label: Identifizieren lassen
-          href: https://help.skribble.com/meetings/patrick182/identifikation-bei-skribble
+          href: /de/qes-freischalten/
       rightSlot:
         title: Demo vereinbaren?
         text: Wir kommen gerne persönlich vorbei um dir Skribble zu zeigen.
@@ -262,7 +262,7 @@ languages:
         text: Get identified and unlock the highest e-signature standard.
         button:
           label: Get identified
-          href: https://help.skribble.com/meetings/patrick182/skribble-id-zurich
+          href: /enable-qes/
       rightSlot:
         title: Do you want to schedule a demo session?
         text: We are pleased to come by to introduce you to Skribble.
@@ -397,7 +397,7 @@ languages:
         text: Identifiez-vous et débloquez le standard de signature électronique le plus élevé.
         button:
           label: S'identifier
-          href: https://help.skribble.com/meetings/patrick182/identification-chez-skribble
+          href: /fr/debloquez-qes/
       rightSlot:
         title: Organiser une démonstration?
         text: Nous passons volontiers en personne afin de vous présenter Skribble.
