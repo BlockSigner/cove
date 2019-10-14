@@ -57,35 +57,6 @@ Die Beweiskraft deiner Signatur wird auf 100% angehoben (QES-Level)
 
 {{% content %}}
 {{% heading %}}
-# Alles klar?
-{{% /heading %}}
-
-{{% collapsible 1 "Was bringt mir die Identifikation?" %}}
-Auf Skribble hast du die Möglichkeit, mit dem [höchsten verfügbaren E-Signatur-Standard](/de/signaturstandards) zu signieren: Die qualifizierten elektronischen Signatur (QES). Diese hat eine Beweiskraft von 100% und kann für Verträge eingesetzt werden, die die Schriftlichkeit verlangen. Für die QES verlangt das Gesetz eine Identitätsprüfung. 
-{{% /collapsible %}}
-
-{{% collapsible 2 "Muss ich mich vor jeder QES-Signatur neu identifizieren lassen?" %}}
-Nein. Deine E-ID ist 5 Jahre lang gültig oder bis zum Ablauf des Ausweises, den du bei der Identifikation vorgewiesen hast.
-{{% /collapsible %}}
-
-{{% collapsible 3 "Welche Ausweisdokumente kann ich für die Identifikation nutzen?" %}}
-Ein gültiger Pass oder eine gültige Identitätskarte. Alle anderen Ausweise wie <br class="hide-for-mobile">der Ausländerausweis oder Führerschein reichen nicht aus.
-{{% /collapsible %}}
-
-{{% collapsible 4 "Wo werden die Daten der identifizierten Personen gespeichert?" %}}
-Die erfassten Daten werden auf den Hochsicherheitsservern der Swisscom in <br class="hide-for-mobile">der Schweiz gespeichert (Tier IV-Zertifizierung).
-{{% /collapsible %}}
-
-{{% collapsible 5 "Braucht es für die QES eine Mobile ID?" %}}
-Nein. Aber mit einer Mobile-ID geht das Signieren schneller und einfacher, daher empfehlen wir sie. Auf Mobile-ID.ch kann überprüft werden ob das eigene Smartphone bereits eine Mobile-ID hat und ob die Funktion bereits aktiviert ist. Wenn dies nicht der Fall ist, kann bei den meisten Anbietern kostenlos eine neue SIM-Karte mit Mobile-ID bestellt werden.
-{{% /collapsible %}}
-
-{{% /content %}}
-
-[//]: # (--------------------------------------------------------------------------------------------------------------)
-
-{{% content %}}
-{{% heading %}}
 # Standorte für die Identitätsprüfung
 Komm vorbei und lass dich kostenlos identifzieren.
 {{% /heading %}}
@@ -160,6 +131,36 @@ CH-8001 Zürich
 
 {{% /richtext %}}
 {{% /cta %}}
+
+[//]: # (--------------------------------------------------------------------------------------------------------------)
+
+
+{{% content %}}
+{{% heading %}}
+# Alles klar?
+{{% /heading %}}
+
+{{% collapsible 1 "Was bringt mir die Identifikation?" %}}
+Auf Skribble hast du die Möglichkeit, mit dem [höchsten verfügbaren E-Signatur-Standard](/de/signaturstandards) zu signieren: Die qualifizierten elektronischen Signatur (QES). Diese hat eine Beweiskraft von 100% und kann für Verträge eingesetzt werden, die die Schriftlichkeit verlangen. Für die QES verlangt das Gesetz eine Identitätsprüfung. 
+{{% /collapsible %}}
+
+{{% collapsible 2 "Muss ich mich vor jeder QES-Signatur neu identifizieren lassen?" %}}
+Nein. Deine E-ID ist 5 Jahre lang gültig oder bis zum Ablauf des Ausweises, den du bei der Identifikation vorgewiesen hast.
+{{% /collapsible %}}
+
+{{% collapsible 3 "Welche Ausweisdokumente kann ich für die Identifikation nutzen?" %}}
+Ein gültiger Pass oder eine gültige Identitätskarte. Alle anderen Ausweise wie <br class="hide-for-mobile">der Ausländerausweis oder Führerschein reichen nicht aus.
+{{% /collapsible %}}
+
+{{% collapsible 4 "Wo werden die Daten der identifizierten Personen gespeichert?" %}}
+Die erfassten Daten werden auf den Hochsicherheitsservern der Swisscom in <br class="hide-for-mobile">der Schweiz gespeichert (Tier IV-Zertifizierung).
+{{% /collapsible %}}
+
+{{% collapsible 5 "Braucht es für die QES eine Mobile ID?" %}}
+Nein. Aber mit einer Mobile-ID geht das Signieren schneller und einfacher, daher empfehlen wir sie. Auf Mobile-ID.ch kann überprüft werden ob das eigene Smartphone bereits eine Mobile-ID hat und ob die Funktion bereits aktiviert ist. Wenn dies nicht der Fall ist, kann bei den meisten Anbietern kostenlos eine neue SIM-Karte mit Mobile-ID bestellt werden.
+{{% /collapsible %}}
+
+{{% /content %}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
