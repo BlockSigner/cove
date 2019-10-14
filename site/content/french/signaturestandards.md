@@ -1,6 +1,6 @@
 ---
 title: Skribble offre 100% de sécurité juridique devant les tribunaux
-description: Skribble travaille avec la QES. Ainsi, les documents signés avec Skribble sont juridiquement contraignants.
+description: Skribble travaille avec la SEQ. Ainsi, les documents signés avec Skribble sont juridiquement contraignants.
 draft: false
 slug: normessignature
 
@@ -9,24 +9,24 @@ slug: normessignature
 {{% content %}}
 {{% heading %}}
 # De combien de force probante <br class="hide-for-mobile">avez-vous besoin?
-La loi établit une distinction entre les signatures électroniques qualifiées (QES) <br class="hide-for-mobile">et les signatures électroniques avancées (SEA). Les deux normes varient <br class="hide-for-mobile">en termes de domaine d'application et de force probante. 
+La loi établit une distinction entre les signatures électroniques qualifiées (SEQ) <br class="hide-for-mobile">et les signatures électroniques avancées (SEA). Les deux normes varient <br class="hide-for-mobile">en termes de domaine d'application et de force probante. 
 Sur Skribble, vous pouvez choisir entre les deux.
 {{% /heading %}}
 
 {{< picture force_probante 664 "Force_Probante" >}}
 
 {{% heading %}}
-# QES: La même sécurité juridique que la signature manuscrite
+# SEQ: La même sécurité juridique que la signature manuscrite
 La signature complète et sans souci pour les exigences les plus élevées
 {{% /heading %}}
 
 {{< picture qes-fr 758 "Deux mains - Un contrat est signé à la main et un autre avec un téléphone portable." >}}
 
 {{% richtext %}}
-**La signature électronique qualifiée (QES) équivaut légalement à la signature manuscrite.**<br>
-Vous utilisez la QES pour maximiser la force probante de vos contrats ou lorsque la loi exige la forme écrite. 
+**La signature électronique qualifiée (SEQ) équivaut légalement à la signature manuscrite.**<br>
+Vous utilisez la SEQ pour maximiser la force probante de vos contrats ou lorsque la loi exige la forme écrite. 
 Cette dernière s'applique, par exemple, aux accords de crédit ou contrats de travail comportant une clause de concurrence. 
-Pour signer avec la QES sur Skribble, un contrôle d'identité préalable avec contact personnel ou une e-ID est nécessaire.
+Pour signer avec la SEQ sur Skribble, un contrôle d'identité préalable avec contact personnel ou une e-ID est nécessaire.
 {{% /richtext %}}
 {{% /content %}}
 
@@ -48,22 +48,22 @@ Pour signer avec la QES sur Skribble, un contrôle d'identité préalable avec c
 
 {{% richtext %}}
 **Vérification d'identité**<br>
-Comment déverrouiller la QES sur Skribble
+Comment déverrouiller la SEQ sur Skribble
 {{% /richtext %}}
 {{% /cta %}}
 
 
 {{% cta
-  label="Vers le validateur QES"
+  label="Vers le validateur SEQ"
   href="fr/validateur-qes"
   outlined="true"
 %}}
 
-{{< picture "qes-erklaert" 122 "Valider la QES" >}}
+{{< picture "qes-erklaert" 122 "Valider la SEQ" >}}
 
 {{% richtext %}}
-**Valider la QES**<br>
-Vérifiez si un document a été signé avec la QES
+**Valider la SEQ**<br>
+Vérifiez si un document a été signé avec la SEQ
 {{% /richtext %}}
 {{% /cta %}}
 
@@ -72,7 +72,7 @@ Vérifiez si un document a été signé avec la QES
 
 {{% content %}}
 {{% heading %}}
-# La loi établit une distinction <br class="hide-for-mobile">entre les signatures électroniques qualifiées (QES) et les signatures électroniques avancées (AES). 
+# La loi établit une distinction <br class="hide-for-mobile">entre les signatures électroniques qualifiées (SEQ) et les signatures électroniques avancées (AES). 
 Les deux normes varient en termes de domaine d'application et de force probante.<br class="hide-for-mobile"> 
 Sur Skribble, vous pouvez choisir entre les deux.
 {{% /heading %}}
@@ -80,7 +80,7 @@ Sur Skribble, vous pouvez choisir entre les deux.
 {{< picture aes-fr 320 "Une personne tient un document juridique entre ses mains. Le logo de swisscom se trouve à l'arrière-plan." >}}
 
 {{% richtext %}}
-**La loi établit une distinction entre les signatures électroniques qualifiées (QES) et les signatures électroniques avancées (AES).**<br>
+**La loi établit une distinction entre les signatures électroniques qualifiées (SEQ) et les signatures électroniques avancées (AES).**<br>
 Les deux normes varient en termes de domaine d'application et de force probante. 
 Sur Skribble, vous pouvez choisir entre les deux.
 {{% /richtext %}}
