@@ -1,6 +1,6 @@
 ---
 title: Skribble crée la confiance dans le monde digital
-description: Avec Skribble, les processus de signature sont gérés à 100% numériquement, sur la base de la signature électronique qualifiée "QES" – la signature électronique qui équivaut à une signature manuscrite, selon la loi suisse et européenne.
+description: Avec Skribble, les processus de signature sont gérés à 100% numériquement, sur la base de la signature électronique qualifiée "SEQ" – la signature électronique qui équivaut à une signature manuscrite, selon la loi suisse et européenne.
 draft: false
 slug: mission
 # opengraph image (for facebook and twitter)
@@ -29,7 +29,7 @@ Les dix pour cent restants sont des étapes qui exigent un degré élevé de con
 
 Les contrats ne devraient plus passer par l'imprimante et le papier pour être signés légalement:
 
-Avec Skribble, les processus de signature sont gérés à 100% numériquement, sur la base de la signature électronique qualifiée "QES" – la signature électronique qui équivaut à une signature manuscrite, selon la loi suisse et européenne.
+Avec Skribble, les processus de signature sont gérés à 100% numériquement, sur la base de la signature électronique qualifiée "SEQ" – la signature électronique qui équivaut à une signature manuscrite, selon la loi suisse et européenne.
 
 La sécurité ne se fait pas au détriment de la simplicité: toute entreprise, quelle que soient sa taille et son savoir-faire technologique, doit pouvoir bénéficier des avantages de la transformation numérique.
 

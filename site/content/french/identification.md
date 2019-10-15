@@ -1,6 +1,6 @@
 ---
-title: Contrôle d'identité pour la QES
-description: Pour la signature électronique qualifiée (QES), le signataire doit prouver son identité. Skribble vous aidera.
+title: Contrôle d'identité pour la SEQ
+description: Pour la signature électronique qualifiée (SEQ), le signataire doit prouver son identité. Skribble vous aidera.
 draft: false
 slug: identification
 type: identification
@@ -11,13 +11,13 @@ og_image: og/og-skribble-identification.jpg
 
 {{% content %}}
 {{% heading %}}
-# Contrôle d'identité pour la QES
-Pour la signature électronique qualifiée (QES), le signataire <br class="hide-for-mobile">doit prouver son identité. Skribble vous aidera.
+# Contrôle d'identité pour la SEQ
+Pour la signature électronique qualifiée (SEQ), <br class="hide-for-mobile">le signataire doit prouver son identité. Skribble vous aidera.
 {{% /heading %}}
+
 {{< picture identification 482 "L'identité d'une femme debout dans un téléphone portable est vérifiée par deux personnes" >}}
 &nbsp;
 {{% /content %}}
-
 {{% cta
   label="Télécharger factsheet"
   href="https://cdn2.hubspot.net/hubfs/5051692/Skribble%20Overview/Skribble_Overview_Identification_FR.pdf"
@@ -25,9 +25,7 @@ Pour la signature électronique qualifiée (QES), le signataire <br class="hide-
   outlined="true"
 %}}
 {{% richtext %}}
-**Utiliser une e-ID existante**<br>
-Les personnes qui ont une e-ID vérifiée peuvent légalement signer sur Skribble sans contrôle d'identité supplémentaire.
-
+**Vérification d'identité pour SEQ - Skribble rend l'utilisation facile**<br>
 {{% /richtext %}}
 {{% /cta %}}
 
@@ -36,34 +34,39 @@ Les personnes qui ont une e-ID vérifiée peuvent légalement signer sur Skribbl
 {{% content %}}
 {{% heading %}}
 # Utiliser une e-ID existante
-Les personnes qui ont une e-ID vérifiée peuvent légalement signer <br class="hide-for-mobile">sur Skribble sans contrôle d'identité supplémentaire.
+Les personnes qui ont une e-ID vérifiée peuvent signer avec SEQ <br class="hide-for-mobile">sur Skribble sans contrôle d'identité supplémentaire.
+
 {{% /heading %}}
 
 {{< picture "identification-id" 412 "Une carte d'identité électronique juridiquement valable" >}}
 
-Un nombre croissant de personnes en Europe a une identité électronique <br class="hide-for-mobile">vérifiée (e-ID). Skribble les relie. Des millions d'utilisateurs peuvent commencer <br class="hide-for-mobile">à signer immédiatement.
-
 {{% richtext %}}
-{{% center %}}**Vous pouvez signer avec Skribble grâce aux e-ID suivantes sous peu:**{{% / center %}}
+Un nombre croissant de personnes en Europe a une identité électronique vérifiée (e-ID). Skribble les relie. Des millions d'utilisateurs peuvent commencer à signer avec SEQ immédiatement.
+
+
+{{% center %}}**Les personnes qui se connectent avec une e-ID  <br class="hide-for-mobile">activent automatiquement la SEQ.**{{% / center %}}
 {{% /richtext %}}
 
 {{< picture e-id-map 826 "E-ID, où vous pourrez bientôt signer Skribble." >}}
 
 {{% richtext %}}
 {{% center %}}**Plus d'e-ID suivront cette année.**{{% / center %}}
-
-&nbsp;
 {{% /richtext %}}
+&nbsp;
 {{% /content %}}
+
 
 {{% cta
   label="Fixer un rendez-vous"
   href="https://help.skribble.com/meetings/patrick182/consultation-telephone-skribble"
   target="_blank"
 %}}
+
+{{< picture consult 92 "Identification pour l'EQS. Laissez-nous vous conseiller et trouver la bonne solution d'identification pour votre entreprise." >}}
+
 {{% richtext %}}
-**Identification avec Skribble**<br>
-Laissez Skribble vous identifier et commencez à signer immédiatement.
+**Identification pour la SEQ**<br>
+Laissez-nous vous conseiller et trouvez <br class="hide-for-mobile">la solution d'identification idéale pour votre entreprise.
 {{% /richtext %}}
 {{% /cta %}}
 
@@ -76,8 +79,8 @@ Laissez Skribble vous identifier et commencez à signer immédiatement.
 
 {{% content %}}
 {{% heading %}}
-# Se laisser identifier
-Si vous n'avez pas d'e-ID, vous pouvez en créer <br class="hide-for-mobile">une avec Skribble en quelques minutes.
+# Utiliser la service <br class="hide-for-mobile">d'identification de Skribble
+Si vous n'avez pas d'e-ID, l'identification peut se faire à l'aide de Skribble.
 {{% /heading %}}
 
 {{< picture "create-identity" 385 "Une loupe agrandit l'image d'une femme dans un passeport" >}}
@@ -94,7 +97,7 @@ Si vous n'avez pas d'e-ID, vous pouvez en créer <br class="hide-for-mobile">une
 %}}
 **Nous** identifions les signataires.
 
-Approprié si vous utilisez la QES pour un cercle prédéfini de personnes.
+Approprié si vous utilisez la SEQ pour un cercle prédéfini de personnes.
 
 {{% /plan %}}
 
@@ -109,7 +112,7 @@ Approprié si vous utilisez la QES pour un cercle prédéfini de personnes.
 %}}
 **Vous** identifiez les signataires
 
-Approprié si de nouveaux signataires sont constamment ajoutés.
+Approprié si de nouveaux signataires SEQ sont constamment ajoutés.
 
 {{% /plan %}}
 {{< /row >}}
@@ -123,25 +126,6 @@ Approprié si de nouveaux signataires sont constamment ajoutés.
 %}}
 {{% richtext %}}
 **Des questions?<br>Nous nous ferons un plaisir de vous aider.**
-{{% /richtext %}}
-{{% /cta %}}
-
-
-{{% content %}}
-{{% heading %}}
-# Souhaitez-vous signer <br class="hide-for-mobile">électroniquement et de manière qualifiée en tant que privé?
-Skribble s’utilise facilement en dehors du contexte de l’entreprise. <br class="hide-for-mobile">Si vous n’avez pas encore d’e-ID, nous nous ferons un plaisir de vous identifier. <br class="hide-for-mobile">Cela ne prend que quelques minutes.
-{{% /heading %}}
-{{< picture individual-signing 448 "L'identité d'une femme debout dans un téléphone portable est vérifiée par deux personnes" >}}
-&nbsp;
-{{% /content %}}
-
-{{% cta
-  label="Obtenez une e-ID maintenant"
-  href="fr/identifions"
-%}}
-{{% richtext %}}
-**Choisissez un rendez-vous <br class="hide-for-mobile">et nous vous identifierons.**
 {{% /richtext %}}
 {{% /cta %}}
 

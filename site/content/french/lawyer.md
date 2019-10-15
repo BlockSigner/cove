@@ -1,6 +1,6 @@
 ---
 title: Signature électronique pour juristes
-description: Avec Skribble vous signez sans matériel supplémentaire avec la signature électronique qualifiée (QES). Toutes les parties contractantes signent en parallèle.
+description: Avec Skribble vous signez sans matériel supplémentaire avec la signature électronique qualifiée (SEQ). Toutes les parties contractantes signent en parallèle.
 draft: false
 slug: juristes
 
@@ -12,7 +12,7 @@ og_image: og/og-skribble-identification.jpg
 {{% content %}}
 {{% heading %}}
 # Signature électronique pour juristes
-Avec Skribble vous signez sans clé USB ou lecteur de carte <br class="hide-for-mobile">avec la plus haute norme de signature électronique (QES).
+Avec Skribble vous signez sans clé USB ou lecteur de carte avec la plus haute norme de signature électronique (SEQ).
 {{% /heading %}}
 {{< picture vertical-lawyer-main 560 "L'un traite de différents processus contractuels" >}}
 {{% /content %}}
@@ -37,7 +37,7 @@ Parties contractantes multiples: au lieu de s'envoyer des contrats par la poste,
 {{< side-by-side >}}
 {{% richtext %}}
 ## Complétez la pile <br class="hide-for-mobile">avec une seule signature
-Dossier de signature numérique: collectez vos contrats numériquement et signez-les simultanément en quelques clics. Grâce au standard QES, vous n'avez pas besoin d'une clé USB ou d'un lecteur de carte.
+Dossier de signature numérique: collectez vos contrats numériquement et signez-les simultanément en quelques clics. Grâce au standard SEQ, vous n'avez pas besoin d'une clé USB ou d'un lecteur de carte.
 
 - **<small>Signature par lots pour un nombre <br class="hide-for-mobile">quelconque de contrats </small>**
 - **<small>Authentification à deux facteurs par téléphone <br class="hide-for-mobile">mobile – aucun matériel externe requis</small>**
@@ -92,11 +92,11 @@ Avec Skribble, vous signez légalement et en toute sécurité <br class="hide-fo
 {{% /heading %}}
 
 {{% collapsible 1 "Exigence de la forme écrite selon le CO/eIDAS" "check" %}}
-Skribble se base sur la signature électronique qualifiée QES. Celle-ci équivaut à une signature manuscrite devant le droit suisse et européen.
+Skribble se base sur la signature électronique qualifiée SEQ. Celle-ci équivaut à une signature manuscrite devant le droit suisse et européen.
 {{% /collapsible %}}
 
 {{% collapsible 2 "Signature électronique qualifiée selon SCSE/eIDAS " "check" %}}
-Skribble obtient la QES de Swisscom, un fournisseur de certificats électroniques agréé par l'Etat selon la SCSE et l'eIDAS.
+Skribble obtient la SEQ de Swisscom, un fournisseur de certificats électroniques agréé par l'Etat selon la SCSE et l'eIDAS.
 {{% /collapsible %}}
 
 {{% collapsible 3 "Protection des données selon LPD/RGPD" "check" %}}
@@ -115,7 +115,7 @@ Skribble et ses partenaires gèrent leurs données conformément à la loi féd�
 {{< picture qes-erklaert 122 "Signé avec Skribble signifie légalement signé selon le droit suisse et européen." >}}
 
 {{% richtext %}}
-**Pourquoi la signature électronique qualifiée (QES) fixe une norme numérique à la loi?**<br>
+**Pourquoi la signature électronique qualifiée (SEQ) fixe une norme numérique à la loi?**<br>
 {{% /richtext %}}
 {{% /cta %}}
 
@@ -123,8 +123,8 @@ Skribble et ses partenaires gèrent leurs données conformément à la loi féd�
 
 {{% content %}}
 {{% heading %}}
-# Prêt à signer <br class="hide-for-mobile">dans quelques minutes
-Il vous suffit d'avoir un téléphone mobile et un document <br class="hide-for-mobile">de voyage valide (passeport ou carte d'identité).
+# Maximisez la force probante <br class="hide-for-mobile">de votre signature électronique 
+Laissez-vous identifier. Cela débloque la norme de signature électronique <br class="hide-for-mobile">la plus élevée du marché: la SEQ. Vous n'avez besoin que d'un document <br class="hide-for-mobile">de voyage valide (pièce d'identité ou passeport).
 {{% /heading %}}
 {{< picture "create-identity" 385 "Une loupe agrandit l'image d'une femme dans un passeport" >}}
 &nbsp;
@@ -132,8 +132,7 @@ Il vous suffit d'avoir un téléphone mobile et un document <br class="hide-for-
 
 {{% cta
   label="Organiser un rendez-vous"
-  href="https://help.skribble.com/meetings/patrick182/consultation-telephone-skribble"
-  target="_blank"
+  href="/fr/debloquez-qes/"
 %}}
 {{% richtext %}}
 **Choisissez un rendez-vous <br class="hide-for-mobile">et laissez-nous vous identifier**
@@ -143,7 +142,7 @@ Il vous suffit d'avoir un téléphone mobile et un document <br class="hide-for-
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
 {{< testimonial "testimonial/procivis-146w.png" "Daniel Gasteiger, Fondateur et CEO de Procivis (eID+)" >}}
-"La signature électronique des documents devient une fonction essentielle <br class="hide-for-mobile">des identités numériques de confiance." 
+"La signature électronique des documents devient une fonction essentielle <br class="hide-for-mobile">des identités numériques de confiance."
 {{< /testimonial >}}
 
 
@@ -156,7 +155,7 @@ Il vous suffit d'avoir un téléphone mobile et un document <br class="hide-for-
 {{% /heading %}}
 
 {{% collapsible 10 "Où sont stockés les documents signés avec Skribble?" %}}
-Le centre de données Skribble est situé en Suisse et est certifié ISO 270001 (hébergement bancaire standard). 
+Le centre de données Skribble est situé en Suisse et est certifié ISO 270001 (hébergement bancaire standard).
 {{% /collapsible %}}
 
 {{% collapsible 11 "Comment Skribble s'assure-t-il que la bonne personne signe?" %}}
@@ -168,11 +167,11 @@ Non. Vous n'avez ni besoin d'une clé USB ni d'un lecteur de carte pour signer a
 {{% /collapsible %}}
 
 {{% collapsible 13 "Puis-je conserver le contrat signé numériquement sur papier?" %}}
-Pas uniquement. Grâce à la signature visuelle, on peut voir sur le contrat imprimé qu'il a été signé numériquement. Cependant, comme les certificats numériques sont perdus lors de l'impression, la traçabilité de la signature et donc le caractère concluant correspondant ne sont pas donnés. Un contrat signé avec une signature électronique qualifiée doit donc toujours être conservé sous forme électronique.           
+Pas uniquement. Grâce à la signature visuelle, on peut voir sur le contrat imprimé qu'il a été signé numériquement. Cependant, comme les certificats numériques sont perdus lors de l'impression, la traçabilité de la signature et donc le caractère concluant correspondant ne sont pas donnés. Un contrat signé avec une signature électronique qualifiée doit donc toujours être conservé sous forme électronique.
 {{% /collapsible %}}
 
 {{% collapsible 14 "Quelle est la durée de validité de la signature Skribble? " %}}
-La QES est légalement valide pour une durée illimitée.
+La SEQ est légalement valide pour une durée illimitée.
 {{% /collapsible %}}
 {{% /content %}}
 

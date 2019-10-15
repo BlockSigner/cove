@@ -1,6 +1,6 @@
 ---
 title: Skribble crée la confiance dans le monde digital
-description: Avec Skribble, les processus de signature sont gérés à 100% numériquement, sur la base de la signature électronique qualifiée "QES" – la signature électronique qui équivaut à une signature manuscrite, selon la loi suisse et européenne.
+description: Avec Skribble, les processus de signature sont gérés à 100% numériquement, sur la base de la signature électronique qualifiée "SEQ" – la signature électronique qui équivaut à une signature manuscrite, selon la loi suisse et européenne.
 draft: false
 slug: offre
 # opengraph image (for facebook and twitter)
@@ -18,10 +18,10 @@ Skribble propose des offres qui correspondent à vos besoins.
 
 {{< row >}}
 {{% plan gold "Modèle prépayé" "Prix unique par signature" %}}
-Idéal pour signer une fois ou occasionnellement avec la QES.
+Idéal pour signer une fois ou occasionnellement
 {{% /plan %}}
 {{% plan purple "Modèle forfaitaire" "Forfait par personne" %}}
-Idéal pour un usage régulier de la QES.
+Idéal pour un usage régulier
 {{% /plan %}}
 {{< /row >}}
 
@@ -57,10 +57,10 @@ Vous n'avez pas d'e-ID? Laissez-nous vous identifier <br class="hide-for-mobile"
 
 {{< row >}}
 {{% plan gold "Identification illimitée" "Vous identifiez les signataires" %}}
-Idéal pour signer une fois ou occasionnellement avec la QES.
+Idéal pour signer une fois ou occasionnellement avec la SEQ.
 {{% /plan %}}
 {{% plan purple "Identification facile" "Nous identifions les signataires" %}}
-Convient si vous utilisez la QES avec un nombre de personnes prédéfini.
+Convient si vous utilisez la SEQ avec un nombre de personnes prédéfini.
 {{% /plan %}}
 {{< /row >}}
 {{% /content %}}

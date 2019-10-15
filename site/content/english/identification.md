@@ -13,7 +13,7 @@ og_image: og/og-skribble-identification.jpg
 {{% content %}}
 {{% heading %}}
 # Identity verification for QES
-For the qualified electronic signature (QES), the signatory must <br class="hide-for-mobile">verify his or her identity. Skribble will help with this.
+For signing with the highest e-signature standard (QES), <br class="hide-for-mobile">signatories must have their identity checked. This is done via e-ID <br class="hide-for-mobile">or with our identification service.
 {{% /heading %}}
 {{< picture identification 482 "he identity of a woman standing in a mobile phone is verified by two people" >}}
 &nbsp;
@@ -35,15 +35,15 @@ For the qualified electronic signature (QES), the signatory must <br class="hide
 {{% content %}}
 {{% heading %}}
 # Use your existing e-ID
-Persons who have a verified e-ID can legally sign on Skribble <br class="hide-for-mobile">without additional identity verification.
+Persons who have a verified e-ID can sign with QES on Skribble <br class="hide-for-mobile">without additional identity verification.
 {{% /heading %}}
 
 {{< picture "identification-id" 412 "An electronic legally binding identity card" >}}
 
-A growing number of people in Europe have a verified electronic identity (e-ID). Skribble links them all so that millions of users can start signing immediately.
+A growing number of people in Europe have a verified electronic identity (e-ID). Skribble links them all so that millions of users can start signing with QES immediately.
 
 {{% richtext %}}
-{{% center %}}**The following e-IDs allow you to sign with Skribble shortly:**{{% /center %}}
+{{% center %}}**Individuals who log in with an e-ID automatically activate QES.**{{% /center %}}
 {{% /richtext %}}
 
 {{< picture e-id-map 826 "E-ID, where you can sign Skribble soon." >}}
@@ -63,9 +63,12 @@ A growing number of people in Europe have a verified electronic identity (e-ID).
   href="https://help.skribble.com/meetings/patrick182/telephone-consultation-skribble"
   target="_blank"
 %}}
+
+{{< picture consult 92 "Identification for the QES. Let us advise you and find the right identification solution for your company." >}}
+
 {{% richtext %}}
 **Identification with Skribble**<br>
-Let Skribble identify you and start signing immediately.
+Let us advise you and find the right identification solution for your company.
 {{% /richtext %}}
 {{% /cta %}}
 
@@ -124,28 +127,9 @@ Suitable if new signees are constantly being added.
   target="_blank"
 %}}
 {{% richtext %}}
-**Any questions?<br>We are happy to help you**
+**Any questions?<br>We are happy to help you.**
 {{% /richtext %}}
 {{% /cta %}}
-
-{{% content %}}
-{{% heading %}}
-# Would you like to sign <br class="hide-for-mobile">in a qualified manner electronically <br class="hide-for-mobile">as a private individual?
-Skribble can easily be used outside the company context. If you do not yet have <br class="hide-for-mobile">an E-ID, we will be happy to identify you. It only takes a few minutes.
-{{% /heading %}}
-{{< picture individual-signing 448 "The identity of a woman standing in a mobile phone is verified by two people" >}}
-&nbsp;
-{{% /content %}}
-
-{{% cta
-  label="Get E-ID now"
-  href="identify"
-%}}
-{{% richtext %}}
-**Learn more about how to get <br class="hide-for-mobile">your E-ID in a few minutes!**
-{{% /richtext %}}
-{{% /cta %}}
-
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 

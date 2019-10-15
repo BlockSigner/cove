@@ -1,6 +1,6 @@
 ---
 title: Skribble crée la confiance dans le monde digital
-description: Avec Skribble, les processus de signature sont gérés à 100% numériquement, sur la base de la signature électronique qualifiée "QES" – la signature électronique qui équivaut à une signature manuscrite, selon la loi suisse et européenne.
+description: Avec Skribble, les processus de signature sont gérés à 100% numériquement, sur la base de la signature électronique qualifiée "SEQ" – la signature électronique qui équivaut à une signature manuscrite, selon la loi suisse et européenne.
 draft: false
 slug: medias
 # opengraph image (for facebook and twitter)
@@ -16,7 +16,7 @@ Retrouvez ici tout le nécessaire pour écrire sur Skribble.
 
 {{< picture image12 688 "Un astronaute vole avec un stylo plume géant devant un écran et signe électroniquement" >}}
 
-Fondé en mars 2018, Skribble est un fournisseur suisse de signatures électroniques ayant des bureaux à Zurich (CH) et à Karlsruhe (DE). La startup permet de signer des documents électroniques de manière simple et légale. La base est la "signature électronique qualifiée" (QES) – la seule forme de signature électronique qui équivaut à une signature manuscrite devant la loi. Swisscom fournit la technologie de certification homologuée par l'Etat pour la QES. Le canton de Fribourg fait partie de ses clients actuels. Skribble compte 14 employés.
+Fondé en mars 2018, Skribble est un fournisseur suisse de signatures électroniques ayant des bureaux à Zurich (CH) et à Karlsruhe (DE). La startup permet de signer des documents électroniques de manière simple et légale. La base est la "signature électronique qualifiée" (SEQ) – la seule forme de signature électronique qui équivaut à une signature manuscrite devant la loi. Swisscom fournit la technologie de certification homologuée par l'Etat pour la SEQ. Le canton de Fribourg fait partie de ses clients actuels. Skribble compte 14 employés.
 {{% /content %}}
 
 {{% cta

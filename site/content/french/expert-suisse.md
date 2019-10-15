@@ -24,7 +24,7 @@ Traiter les processus de signature numériquement &ndash; <br class="hide-for-mo
 
 {{< intro-partner
   "image/swisscom.png"
-  "Basé sur la signature électronique qualifiée QES de Swisscom"
+  "Basé sur la signature électronique qualifiée SEQ de Swisscom"
 >}}
 
 {{% /richtext %}}
@@ -53,8 +53,8 @@ Traiter les processus de signature numériquement &ndash; <br class="hide-for-mo
 {{% richtext %}}
 ## Skribble répond aux normes juridiques et technologiques les plus élevées.
 {{% fancy-list %}}
-- **SCSE & eIDAS** Certificats QES de Swisscom
-- **LPD/ RGDP** Chiffrement AES-256
+- **SCSE & eIDAS** Certificats SEQ de Swisscom
+- **LPD/ RGDP** Chiffrement SEA-256
 - **Hébergement en Suisse** Conforme FINMA, certifié ISO 27001
 {{% /fancy-list %}}
 {{% /richtext %}}
@@ -120,7 +120,7 @@ Tous les signataires sont identifiés à l'avance. Lors de la signature, le sign
 {{% /collapsible %}}
 
 {{% collapsible 12 "Est-ce que signer avec Skribble est légalement sécurisé?" %}}
-Oui, Skribble est basé sur la signature électronique qualifiée (QES). La QES est la seule forme de signature électronique équivalente à la signature manuscrite devant le droit suisse (art. 14 2bis CO) et européen (art. 25 al. 2 eIDAS). 
+Oui, Skribble est basé sur la signature électronique qualifiée (SEQ). La SEQ est la seule forme de signature électronique équivalente à la signature manuscrite devant le droit suisse (art. 14 2bis CO) et européen (art. 25 al. 2 eIDAS). 
 {{% /collapsible %}}
 
 {{% collapsible 13 "Puis-je conserver le contrat signé numériquement sur papier?" %}}
@@ -128,7 +128,7 @@ Pas uniquement. Grâce à la signature visuelle, on peut voir sur le contrat imp
 {{% /collapsible %}}
 
 {{% collapsible 1 "Pourquoi dois-je être identifié?" %}}
-Avec Skribble vous signez avec la signature électronique qualifiée (QES). <br class="hide-for-mobile">Il s'agit de la norme de signature électronique la plus élevée. Pour cela, <br class="hide-for-mobile">la loi exige un contrôle d'identité avec un contact personnel. Les exceptions <br class="hide-for-mobile">sont les intermédiaires financiers qui sont autorisés à effectuer <br class="hide-for-mobile">une vérification d'identité par identification vidéo.
+Avec Skribble vous signez avec la signature électronique qualifiée (SEQ). <br class="hide-for-mobile">Il s'agit de la norme de signature électronique la plus élevée. Pour cela, <br class="hide-for-mobile">la loi exige un contrôle d'identité avec un contact personnel. Les exceptions <br class="hide-for-mobile">sont les intermédiaires financiers qui sont autorisés à effectuer <br class="hide-for-mobile">une vérification d'identité par identification vidéo.
 {{% /collapsible %}}
 {{% /content %}}
 

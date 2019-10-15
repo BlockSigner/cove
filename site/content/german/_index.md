@@ -33,13 +33,23 @@ Signaturprozesse einfach digital abwickeln – <br class="hide-for-mobile">recht
 
 {{< intro-partner
   "image/swisscom.png"
-  "Basierend auf der qualifizierten elektronischen Signatur QES der Swisscom"
+  "Basierend auf Signaturzertifikaten der Swisscom"
 >}}
 
 {{% /richtext %}}
 {{< /intro >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
+
+{{< logos-container title="">}}
+  {{< logos-item src="logos/srf-logo-180w.svg" alt="SRF-Schweizer Radio und Fernsehen">}}
+  {{< logos-item src="logos/handelszeitung-logo-240w.svg" alt="Handelszeitung">}}
+  {{< logos-item src="logos/hr-today-logo-173w.svg" alt="HR-Today">}}
+  {{< logos-item src="logos/gruenderszene-logo-216w.svg" alt="Gründerszene">}}
+{{< /logos-container >}}
+
+[//]: # (--------------------------------------------------------------------------------------------------------------)
+
 
 {{< side-by-side >}}
 {{% richtext %}}
@@ -63,10 +73,31 @@ Lade die signierenden Personen per E-Mail ein und lege die Signatur-Reihenfolge 
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
+{{% content %}}
+{{% heading %}}
+# Signierst du mit Skribble, <br class="hide-for-mobile">sparst du Zeit im Arbeitsalltag.
+{{% /heading %}}
+{{% /content %}}
+
+{{< picture skribble-ui-de 1020 "Skribble plattform - user interface" >}}
+
+{{% cta
+  label="Alle Funktionen ansehen"
+  href="de/features"
+  outlined="true"
+%}}
+
+{{% richtext %}}
+**Mit Skribble signierst du nicht nur rechtsgültig, sondern auch einfach.**<br>
+{{% /richtext %}}
+{{% /cta %}}
+
+[//]: # (--------------------------------------------------------------------------------------------------------------)
+
 {{< side-by-side >}}
 {{% richtext %}}
 ## Rechtsgültig signieren
-Signiere rechtsgültig per Knopfdruck, unabhängig von Zeit und Ort mit einer qualifizierten elektronischen Signatur nach Schweizer und EU-Recht (ZertES und eIDAS).
+Signiere per Knopfdruck, unabhängig <br class="hide-for-mobile">von Zeit und Ort, rechtsgültig nach Schweizer <br class="hide-for-mobile">und EU-Recht.
 {{% /richtext %}}
 
 {{< picture image4 391 "Drei personen signieren rechtsgültig zusammen ein online dokument" >}}
@@ -86,12 +117,12 @@ Signiere rechtsgültig per Knopfdruck, unabhängig von Zeit und Ort mit einer qu
 Signiere rechtsgültig und sicher gemäss folgenden Erfordernissen:
 {{% /heading %}}
 
-{{% collapsible 1 "Schriftlichkeitserfordernis gemäss OR/eIDAS" "check" %}}
-Skribble basiert auf der QES. Diese ist der handschriftlichen Unterschrift vor Schweizer und EU-Gesetz gleichgestellt.
+{{% collapsible 1 "E-Signatur-Standards QES und FES gemäss ZertES/eIDAS" "check" %}}
+Skribble arbeitet ausschliesslich mit gesetzlich definierten E-Signatur-Standards: Die qualifizierte elektronische Signatur (QES) und die fortgeschrittene elektronische Signatur (FES).
 {{% /collapsible %}}
 
-{{% collapsible 2 "Qualifizierte elektronische Signatur (QES) gemäss ZertES/eIDAS " "check" %}}
-Skribble bezieht die QES von Swisscom, einer staatlich anerkannten Anbieterin elektronischer Zertifikate nach ZertES und eIDAS.
+{{% collapsible 2 "Schriftlichkeitserfordernis gemäss OR/eIDAS" "check" %}}
+Die auf Skribble verfügbare qualifizierte elektronische Signatur (QES) ist der handschriftlichen Signatur vor Schweizer und EU-Gesetz gleichgestellt.
 {{% /collapsible %}}
 
 {{% collapsible 3 "Datenschutz gemäss DSG/DSGVO" "check" %}}
@@ -103,11 +134,11 @@ Skribble sowie Partner verwalten ihre Daten gemäss dem Bundesgesetz über den D
 
 {{% cta
   label="Mehr erfahren"
-  href="de/qes-erklaert"
-  outlined="true"
+  href="de/signaturstandards"
+  outlined=""
 %}}
 
-{{< picture qes-erklaert 122 "Signiert mit Skribble bedeutet rechtsgültig (QES) signiert nach Schweizer und EU-Gesetz." >}}
+{{< picture qes-erklaert 122 "Das Gesetz unterscheidet zwischen verschiedenen E-Signatur-Standards." >}}
 
 {{% richtext %}}
 **Warum erfüllt die QES <br class="hide-for-mobile">den rechtlichen Standard?**<br>
@@ -120,8 +151,8 @@ Skribble sowie Partner verwalten ihre Daten gemäss dem Bundesgesetz über den D
 {{< picture image5 430 "Eine person hält ein rechtsgültiges dokument in den händen. Im hintergrund befindet sich das swisscom logo" >}}
 
 {{% richtext %}}
-## Skribble arbeitet mit staatlich anerkannter Technologie von Swisscom
-Ein wichtiger Bestandteil der elektronischen Signatur (QES) sind entsprechende digitale Zertifikate. Skribble bezieht diese von Swisscom, einer staatlich anerkannten Zertifizierungsstelle. Damit sind Signaturen, die über Skribble erstellt werden, der handschriftlichen Signatur nach Schweizer und EU Gesetz gleichgestellt.
+## Skribble arbeitet mit staatlich anerkannter Technologie
+Die Zertifikate für die elektronischen Signaturen bezieht Skribble von Swisscom, einer staatlich anerkannten Zertifizierungsstelle.
 {{% /richtext %}}
 {{< /side-by-side >}}
 
@@ -129,11 +160,15 @@ Ein wichtiger Bestandteil der elektronischen Signatur (QES) sind entsprechende d
 
 {{% content %}}
 {{% heading %}}
-# So stellst du mit Skribble <br class="hide-for-mobile">die Identität der Signierenden sicher
-**Mit folgenden E-IDs kannst du in Kürze bei Skribble signieren:**
+# Mit Skribble maximierst du <br class="hide-for-mobile">die Beweiskraft deiner Signatur
+Identifizierte Personen signieren auf Skribble mit dem höchsten verfügbaren <br class="hide-for-mobile">E-Signatur-Standard QES. Dieser hat eine Beweiskraft von 100%.
+
+**Personen, die sich mit einer E-ID anmelden, schalten die QES automatisch frei.**
 {{< picture e-id-map 826 "E-ID, wo du in kürze bei Skribble signieren kannst." >}}
+**Die Integration weiterer E-IDs folgt in diesem Jahr.**
 {{% /heading %}}
 {{% /content %}}
+
 {{% cta
   label="Mehr erfahren"
   href="de/identifikation"
@@ -144,8 +179,23 @@ Ein wichtiger Bestandteil der elektronischen Signatur (QES) sind entsprechende d
 {{< picture identifizieren 112 "Signiert mit Skribble bedeutet rechtsgültig (QES) signiert nach Schweizer und EU-Gesetz." >}}
 
 {{% richtext %}}
-**Identifikation mit Skribble**<br>
-Lass dich von Skribble identifizieren und leg sofort mit dem Signieren los.
+**Skribbles Identifikations-Service**<br>
+Lass dich von Skribble identifizieren und erhöhe die Beweiskraft deiner E-Signatur.
+{{% /richtext %}}
+{{% /cta %}}
+
+{{% cta
+  label="Mehr erfahren"
+  href="de/signaturstandards"
+  title="Ohne Identifikation loslegen"
+  outlined="true"
+%}}
+
+{{< picture AES 100 "Signed with Skribble means legally signed according to Swiss and EU law." >}}
+
+{{% richtext %}}
+**Signieren mit der FES**<br>
+Für die fortgeschrittene elektronische Signatur (FES) ist keine Identifikation notwendig.
 {{% /richtext %}}
 {{% /cta %}}
 
@@ -165,10 +215,10 @@ Skribbles Angebotsstruktur passt sich deinen Bedürfnissen an <br class="hide-fo
 
 {{< row >}}
 {{% plan gold "Prepaid-Modell" "Einzelpreis pro Signatur" %}}
-Geeignet für einmaliges oder gelegentliches Signieren mit QES.
+Geeignet für einmaliges oder gelegentliches Signieren.
 {{% /plan %}}
 {{% plan purple "Flatrate-Modell" "Pauschalpreis pro Person" %}}
-Geeignet für regelmässiges Signieren mit QES.
+Geeignet für regelmässiges Signieren.
 {{% /plan %}}
 {{< /row >}}
 {{% /content %}}

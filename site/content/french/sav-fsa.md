@@ -24,7 +24,7 @@ Traiter les processus de signature numériquement &ndash; juridiquement valides 
 
 {{< intro-partner
   "image/swisscom.png"
-  "Basé sur la signature électronique qualifiée QES de Swisscom"
+  "Basé sur la signature électronique qualifiée SEQ de Swisscom"
 >}}
 
 {{% /richtext %}}
@@ -53,7 +53,7 @@ Traiter les processus de signature numériquement &ndash; juridiquement valides 
 {{% richtext %}}
 ## Skribble répond aux normes juridiques et technologiques les plus élevées.
 {{% fancy-list %}}
-- **SCSE & eIDAS** Certificats QES de Swisscom
+- **SCSE & eIDAS** Certificats SEQ de Swisscom
 - **LPD/ RGDP** Chiffrement AES-256
 - **Hébergement en Suisse** Conforme FINMA, certifié ISO 27001
 {{% /fancy-list %}}

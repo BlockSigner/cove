@@ -7,7 +7,7 @@ description: Privacy policy meta description
 
 {{% content %}}
 {{% richtext %}}
-# Datenschutzbestimmungen
+# Datenschutz&shy;bestimmungen
 
 <small>Datum des Inkrafttretens: 21. Oktober 2019</small>
 
@@ -190,15 +190,15 @@ Sie können die interessenbasierte Werbung von Twitter deaktivieren, indem Sie d
 ### Facebook
 Facebooks Wiedervermarktungsdienst wird von Facebook Inc. angeboten.
 Weitere Informationen zu Facebooks interessenbasierter Werbung sind der folgenden Seite zu entnehmen:
-<a href="https://www.facebook.com/help/164968693837950" rel="noopener" target="_blank">www.facebook.com/help/164968693837950</a>
-Sie können die interessenbasierte Werbung von Facebook deaktivieren, indem Sie den entsprechenden Anweisungen Folge leisten: <a href="https://www.facebook.com/help/568137493302217" rel="noopener" target="_blank">www.facebook.com/help/568137493302217</a>
+<a href="https://www.facebook.com/help/164968693837950" rel="noopener" target="_blank" style="word-break:break-all">www.facebook.com/help/164968693837950</a>
+Sie können die interessenbasierte Werbung von Facebook deaktivieren, indem Sie den entsprechenden Anweisungen Folge leisten: <a href="https://www.facebook.com/help/568137493302217" rel="noopener" target="_blank" style="word-break:break-all">www.facebook.com/help/568137493302217</a>
 Facebook hält sich an die von der Digital Advertising Alliance erstellten "Selbstregelnden Grundsätze für verhaltensbasierte Online-Werbung" (Self-Regulatory Principles for Online Behavioural Advertising). Sie können Facebook und andere teilnehmende Unternehmen in den USA außerdem über die Digital Advertising Alliance <a href="http://www.aboutads.info/choices/" rel="noopener" target="_blank">www.aboutads.info/choices/</a>, in Kanada über die Digital Advertising Alliance of Canada <a href="http://youradchoices.ca/" rel="noopener" target="_blank">youradchoices.ca/</a> oder in Europa über die European Interactive Digital Advertising Alliance <a href="http://www.youronlinechoices.eu/" rel="noopener" target="_blank">www.youronlinechoices.eu/</a>, deaktivieren; alternativ können Sie die Einstellungen Ihres mobilen Endgeräts entsprechend anpassen.
 Weitere Informationen zu den Datenschutzvorschriften von Facebook sind aus Facebooks Datenschutz-Richtlinie (Data Policy) ersichtlich: <a href="https://www.facebook.com/privacy/explanation" rel="noopener" target="_blank">www.facebook.com/privacy/explanation</a>
 
 ### Pinterest
 Pinterests Wiedervermarktungsdienst wird von Pinterest Inc. angeboten.
 Sie können die interessenbasierte Werbung von Pinterest deaktivieren, indem Sie die "Do Not Track"-Funktionalität Ihres Browsers einschalten oder den entsprechenden Anweisungen von Pinterest Folge leisten:
-<a href="http://help.pinterest.com/en/articles/personalization-and-data" rel="noopener" target="_blank">help.pinterest.com/en/articles/personalization-and-data</a>
+<a href="http://help.pinterest.com/en/articles/personalization-and-data" rel="noopener" target="_blank" style="word-break:break-all">help.pinterest.com/en/articles/personalization-and-data</a>
 Weitere Informationen zu den Datenschutzmaßnahmen und -vorschriften von Pinterest können Sie Pinterests Datenschutz-Richtlinie (Privacy Policy) entnehmen: <a href="https://about.pinterest.com/en/privacy-policy" rel="noopener" target="_blank">about.pinterest.com/en/privacy-policy</a>
 
 ### AdRoll

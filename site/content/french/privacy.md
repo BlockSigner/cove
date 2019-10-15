@@ -186,14 +186,14 @@ Vous pouvez refuser les annonces de Twitter basées sur les centres d'intérêt 
 
 ### Facebook
 Le service de remarketing Facebook est fourni par Facebook Inc.
-Vous pouvez en savoir plus sur les publicités Facebook basées sur les centres d'intérêt en consultant cette page <a href="https://www.facebook.com/help/164968693837950" rel="noopener" target="_blank">www.facebook.com/help/164968693837950</a>
-Pour refuser les publicités Facebook basées sur les centres d'intérêt, suivez ces instructions de Facebook: <a href="https://www.facebook.com/help/568137493302217" rel="noopener" target="_blank">www.facebook.com/help/568137493302217</a>
+Vous pouvez en savoir plus sur les publicités Facebook basées sur les centres d'intérêt en consultant cette page <a href="https://www.facebook.com/help/164968693837950" rel="noopener" target="_blank" style="word-break:break-all">www.facebook.com/help/164968693837950</a>
+Pour refuser les publicités Facebook basées sur les centres d'intérêt, suivez ces instructions de Facebook: <a href="https://www.facebook.com/help/568137493302217" rel="noopener" target="_blank" style="word-break:break-all">www.facebook.com/help/568137493302217</a>
 Facebook respecte les Principes d'autorégulation en matière de publicité comportementale en ligne établis par la Digital Advertising Alliance. Vous pouvez aussi refuser Facebook et d'autres sociétés participantes par le biais de Digital Advertising Alliance aux États-Unis <a href="http://www.aboutads.info/choices/" rel="noopener" target="_blank">www.aboutads.info/choices/</a>, de Digital Advertising Alliance of Canada au Canada <a href="http://youradchoices.ca/" rel="noopener" target="_blank">youradchoices.ca/</a> ou de European Interactive Digital Advertising Alliance en Europ <a href="http://www.youronlinechoices.eu/" rel="noopener" target="_blank">www.youronlinechoices.eu/</a>, ou en utilisant les paramètres de votre dispositif mobile.
 Pour plus de précisions sur les pratiques de confidentialité de Facebook, merci de consulter la politique de Facebook en matière de données: <a href="https://www.facebook.com/privacy/explanation" rel="noopener" target="_blank">www.facebook.com/privacy/explanation</a>
 
 ### Pinterest
 Le service de remarketing Pinterest est fourni par Pinterest Inc.
-Vous pouvez refuser les annonces de Pinterest basées sur les centres d'intérêt en activant la fonctionnalité "Ne pas me suivre" de votre navigateur web ou en suivant les instructions de Pinterest: <a href="http://help.pinterest.com/en/articles/personalization-and-data" rel="noopener" target="_blank">help.pinterest.com/en/articles/personalization-and-data</a>
+Vous pouvez refuser les annonces de Pinterest basées sur les centres d'intérêt en activant la fonctionnalité "Ne pas me suivre" de votre navigateur web ou en suivant les instructions de Pinterest: <a href="http://help.pinterest.com/en/articles/personalization-and-data" rel="noopener" target="_blank" style="word-break:break-all">help.pinterest.com/en/articles/personalization-and-data</a>
 Pour en apprendre davantage sur les pratiques et politiques de confidentialité de Pinterest, veuillez consulter la page de sa politique de confidentialité: <a href="https://about.pinterest.com/en/privacy-policy" rel="noopener" target="_blank">about.pinterest.com/en/privacy-policy</a>
 
 ### AdRoll

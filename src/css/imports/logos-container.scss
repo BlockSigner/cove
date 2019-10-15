@@ -1,0 +1,21 @@
+.logos-container {
+  padding-right: 44px;
+  padding-left: 44px;
+  padding-top: 44px;
+  padding-bottom: 44px;
+  margin-left: 15px;
+  margin-right: 15px;
+    .logos-flex-container {
+        padding: 0px 0px 0px 0px;
+        list-style: none;
+        display: -webkit-box;
+        display: -moz-box;
+        display: -ms-flexbox;
+        display: -webkit-flex;
+        display: flex;
+        
+        flex-flow: wrap;
+        -webkit-flex-flow: row wrap;
+        justify-content: space-around;
+      }
+}

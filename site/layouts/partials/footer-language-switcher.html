@@ -3,7 +3,7 @@
     <div class="footer__meta">
       {{ if ne "404" .Page.Kind  }}
         <nav class="">
-          <ul class="js-lang-switcher lan-nav">
+          <ul class="lan-nav">
             {{ $siteLanguages := .Site.Languages}}
             {{ $pageLang := .Page.Lang}}
             {{ range .Page.AllTranslations }}
@@ -11,9 +11,9 @@
               {{ range $siteLanguages }}
                 {{ if eq $translation.Lang .Lang }}
                   {{ if eq $pageLang .Lang}}
-                    <li><a class="lan-nav__link active language" href="{{ $translation.URL }}" data-lang="{{.Lang}}">{{ .LanguageName }}</a></li>
+                    <li><a class="lan-nav__link active language" href="{{ $translation.URL }}">{{ .LanguageName }}</a></li>
                   {{ else }}
-                    <li><a class="lan-nav__link" href="{{ $translation.URL }}" data-lang="{{.Lang}}">{{ .LanguageName }}</a></li>
+                    <li><a class="lan-nav__link" href="{{ $translation.URL }}">{{ .LanguageName }}</a></li>
                   {{ end }}
                 {{ end }}
               {{ end }}

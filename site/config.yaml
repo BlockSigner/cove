@@ -3,29 +3,71 @@ title: Skribble
 languages:
   de:
     languageName: Deutsch
+    flagCode: DE
     weight: 2
     contentDir: content/german
+    phone:
+      number: +41 44 505 16 64
+      link:
     menu:
       main:
-        - name: Angebot
-          url: /de/angebot/
+        # Platform dropdown
+        - name: Plattform
+          url: "#"
           weight: 5
-        - name: Identifikation
-          url: /de/identifikation/
+          identifier: plattform
+        - name: Angebot
+          url: "de/angebot/"
           weight: 10
-        - name: Kontakt
-          url: /de/kontakt/
+          parent: plattform
+        - name: Features
+          url: "de/features/"
           weight: 15
+          parent: plattform
+        - name: Integrationen
+          url: "de/integrationen/"
+          weight: 20
+          parent: plattform
+        - name: Identifikation
+          url: "/de/identifikation/"
+          weight: 25
+          parent: plattform
+        - name: QES freischalten
+          url: "/de/qes-freischalten/"
+          weight: 30
+          parent: plattform
+        # Solutions dropdown
+        - name: Lösungen
+          url: "#"
+          weight: 15
+          identifier: solutions
+        - name: HR
+          url: "de/hr/"
+          weight: 10
+          parent: solutions
+        - name: Anwälte
+          url: "de/anwaelte/"
+          weight: 15
+          parent: solutions
+        - name: Kontakt
+          url: "de/kontakt/"
+          weight: 20
       footer1:
         - name: Angebot
           url: /de/angebot/
           weight: 5
+        - name: Features
+          url: /de/features/
+          weight: 10
+        - name: Integrationen
+          url: /de/integrationen/
+          weight: 15
         - name: Identifikation
           url: /de/identifikation/
-          weight: 10
-        - name: Identitätsprüfung
-          url: /de/identitaetspruefung/
-          weight: 15
+          weight: 20
+        - name: QES freischalten
+          url: /de/qes-freischalten/
+          weight: 25
       footer2:
         - name: HR
           url: /de/hr/
@@ -50,17 +92,26 @@ languages:
         - name: Help-Center
           url: https://help.skribble.com/deutsch
           weight: 10
-        - name: QES erklärt
-          url: /de/qes-erklaert/
+        - name: Signaturstandards
+          url: /de/signaturstandards/
           weight: 15
-      
+        - name: QES-Validator
+          url: /de/qes-validator/
+          weight: 20
       meta:
         - name: Datenschutzbestimmungen
-          url: /de/datenschutz
+          url: /de/datenschutz/
           weight: 10
         - name: Impressum
-          url: /de/impressum
+          url: /de/impressum/
           weight: 15
+      footermobile:
+        - name: Impressum
+          url: /de/impressum/
+          weight: 5
+        - name: Datenschutzbestimmungen
+          url: /de/datenschutz/
+          weight: 10
     header:
       login:
         label: Login
@@ -73,11 +124,11 @@ languages:
         href: https://help.skribble.com/meetings/patrick182/call-mit-skribble
     footer:
       leftSlot:
-        title: Identität prüfen?
-        text: Hol dir bei Skribble eine E-ID und leg mit dem Signieren los.
+        title: Beweiskraft maximieren?
+        text: Lass dich identifzieren und schalte den höchsten E-Signatur-Standard frei.
         button:
-          label: Termin vereinbaren
-          href: https://help.skribble.com/meetings/patrick182/identifikation-bei-skribble
+          label: Identifizieren lassen
+          href: /de/qes-freischalten/
       rightSlot:
         title: Demo vereinbaren?
         text: Wir kommen gerne persönlich vorbei um dir Skribble zu zeigen.
@@ -93,29 +144,71 @@ languages:
       newsletterText: Elektronische Signaturen und digitales Vertrauen sind brandaktuelle Themen. Bleibe auf dem Laufenden! <br class="hide-for-mobile">Siehe unsere <a href="/de/datenschutz">Datenschutzerklärungen</a>.
   en:
     languageName: English
+    flagCode: GB
     weight: 1
     contentDir: content/english
+    phone:
+      number: +41 44 505 16 64
+      link:
     menu:
       main:
+        # Platform dropdown
+        - name: Platform
+          url: "#"
+          weight: 5
+          identifier: platform
         - name: Services
-          url: /services/
+          url: "/Services/"
           weight: 10
-        - name: Identification
-          url: /identification/
+          parent: platform
+        - name: Features
+          url: "features/"
           weight: 15
+          parent: platform
+        - name: Integrations
+          url: "integrations/"
+          weight: 20
+          parent: platform
+        - name: Identification
+          url: "/identification/"
+          weight: 25
+          parent: platform
+        - name: Enable QES
+          url: "/enable-qes/"
+          weight: 30
+          parent: platform
+        # Solutions dropdown
+        - name: Solutions
+          url: "#"
+          weight: 15
+          identifier: solutions
+        - name: HR
+          url: "/hr/"
+          weight: 10
+          parent: solutions
+        - name: Lawyer
+          url: "/Lawyer/"
+          weight: 15
+          parent: solutions
         - name: Contact
-          url: /contact/
+          url: "/contact/"
           weight: 20
       footer1:
         - name: Services
           url: /services/
           weight: 5
+        - name: Features
+          url: /features/
+          weight: 10
+        - name: Integrations
+          url: /integrations/
+          weight: 15
         - name: Identification
           url: /identification/
-          weight: 10
-        - name: Identify
-          url: /identify/
-          weight: 15
+          weight: 20
+        - name: Enable QES
+          url: /enable-qes/
+          weight: 25
       footer2:
         - name: HR
           url: /hr/
@@ -140,9 +233,12 @@ languages:
         - name: Help-Center
           url: https://help.skribble.com/english
           weight: 10
-        - name: QES explained
-          url: /qes-explained/
+        - name: Signature standards
+          url: /signaturestandards/
           weight: 15
+        - name: QES validator
+          url: /qes-validator/
+          weight: 20
       meta:
         - name: Privacy Policy
           url: /privacy/
@@ -150,6 +246,13 @@ languages:
         - name: Imprint
           url: /imprint/
           weight: 15
+      footermobile:
+        - name: Imprint
+          url: /imprint/
+          weight: 5
+        - name: Privacy Policy
+          url: /privacy/
+          weight: 10
     header:
       login:
         label: Login
@@ -162,11 +265,11 @@ languages:
         href: https://help.skribble.com/meetings/patrick182/telephone-consultation-skribble
     footer:
       leftSlot:
-        title: Do you want to verify your identity?
-        text: We verify your identity so that you can start using your QES signature!
+        title: Do you want to maximise legal weight?
+        text: Get identified and unlock the highest e-signature standard.
         button:
-          label: Schedule appointment
-          href: https://help.skribble.com/meetings/patrick182/skribble-id-zurich
+          label: Get identified
+          href: /enable-qes/
       rightSlot:
         title: Do you want to schedule a demo session?
         text: We are pleased to come by to introduce you to Skribble.
@@ -182,31 +285,73 @@ languages:
       newsletterText: Electronic signatures and digital trust are hot topics. <br class="hide-for-mobile">Stay up to date! See our <a href="/privacy">privacy policy</a>.
   fr:
     languageName: Français
+    flagCode: FR
     weight: 3
     contentDir: content/french
+    phone:
+      number: +41 44 505 16 64
+      link:
     menu:
       main:
-        - name: Offre
-          url: /fr/offre/
+        # Platform dropdown
+        - name: Platform
+          url: "#"
           weight: 5
-        - name: Identification
-          url: /fr/identification/
+          identifier: platform
+        - name: Offre
+          url: "/fr/offre/"
           weight: 10
-        - name: Contact
-          url: /fr/contact/
+          parent: platform
+        - name: Fonctionnalités
+          url: "fr/fonctionnalites/"
           weight: 15
+          parent: platform
+        - name: Integrations
+          url: "fr/integrations/"
+          weight: 20
+          parent: platform
+        - name: Identification
+          url: "/fr/identification/"
+          weight: 25
+          parent: platform
+        - name: Débloquez QES
+          url: "/fr/debloquez-qes/"
+          weight: 30
+          parent: platform
+        # Solutions dropdown
+        - name: Solutions
+          url: "#"
+          weight: 15
+          identifier: solutions
+        - name: RH
+          url: "fr/ressources-humaines/"
+          weight: 10
+          parent: solutions
+        - name: Juristes
+          url: "/fr/juristes/"
+          weight: 15
+          parent: solutions
+        - name: Contact
+          url: "/fr/contact/"
+          weight: 20
       footer1:
         - name: Offre
           url: /fr/offre/
           weight: 5
+        - name: Fonctionnalités
+          url: "fr/fonctionnalites/"
+          weight: 10
+        - name: Integrations
+          url: "fr/integrations/"
+          weight: 15
         - name: Identification
           url: /fr/identification/
-          weight: 10
-        - name: Identifions
-          url: /fr/identifions/
-          weight: 15
+          weight: 20
+        - name: Débloquez QES
+          url: /fr/debloquez-qes/
+          weight: 25
       footer2:
-        - name: Ressources humaines
+        - name: RH
           url: /fr/ressources-humaines/
           weight: 5
         - name: Juristes
@@ -229,16 +374,27 @@ languages:
         - name: Centre d'assistance
           url: https://help.skribble.com/francais
           weight: 10
-        - name: QES expliqué
-          url: /fr/qes-explique/
+        - name: Normes de signature
+          url: /fr/normessignature/
           weight: 15
+        - name: Validateur QES
+          url: /fr/validateur-qes/
+          weight: 20
+
       meta:
         - name: Politique de Confidentialité
-          url: /fr/politique-de-confidentialite
+          url: /fr/politique-de-confidentialite/
           weight: 10
         - name: Impressum
-          url: /fr/impressum
+          url: /fr/impressum/
           weight: 15
+      footermobile:
+        - name: Impressum
+          url: /fr/impressum/
+          weight: 5
+        - name: Politique de Confidentialité
+          url: /fr/politique-de-confidentialite/
+          weight: 10
     header:
       login:
         label: Login
@@ -251,11 +407,11 @@ languages:
         href: https://help.skribble.com/meetings/patrick182/consultation-telephone-skribble
     footer:
       leftSlot:
-        title: Vérifier l'identité?
-        text: Nous vous identifions afin que vous puissiez utiliser la QES!
+        title: Maximiser la force probante?
+        text: Identifiez-vous et débloquez le standard de signature électronique le plus élevé.
         button:
-          label: Fixer un rendez-vous
-          href: https://help.skribble.com/meetings/patrick182/identification-chez-skribble
+          label: S'identifier
+          href: /fr/debloquez-qes/
       rightSlot:
         title: Organiser une démonstration?
         text: Nous passons volontiers en personne afin de vous présenter Skribble.

@@ -1,6 +1,6 @@
 ---
 title: Skribble offre 100% de sécurité juridique devant les tribunaux
-description: Skribble travaille avec la QES. Ainsi, les documents signés avec Skribble sont juridiquement contraignants.
+description: Skribble travaille avec la SEQ. Ainsi, les documents signés avec Skribble sont juridiquement contraignants.
 draft: false
 slug: qes-explique
 
@@ -14,7 +14,7 @@ Signé avec Skribble signifie légalement signé selon le droit suisse et europ�
 {{< picture rechtssicherheit-wie-hand 665 "Un homme signe au stylo des documents numériques selon le droit suisse et européen" >}}
 {{% richtext %}}
 **La loi autorise la signature électronique de documents**<br>
-Pour les contrats qui exigent la forme écrite – c'est-à-dire qui doivent être signés à la main dans le monde physique – la loi fixe une norme numérique: la signature électronique qualifiée (QES).
+Pour les contrats qui exigent la forme écrite – c'est-à-dire qui doivent être signés à la main dans le monde physique – la loi fixe une norme numérique: la signature électronique qualifiée (SEQ).
 {{% /richtext %}}
 {{% /content %}}
 
@@ -23,7 +23,7 @@ Pour les contrats qui exigent la forme écrite – c'est-à-dire qui doivent êt
 {{% content %}}
 {{% heading %}}
 # Skribble offre 100% de sécurité juridique devant les tribunaux
-Skribble travaille avec la QES. Ainsi, les documents signés avec Skribble sont juridiquement contraignants.
+Skribble travaille avec la SEQ. Ainsi, les documents signés avec Skribble sont juridiquement contraignants.
 {{% /heading %}}
 {{< picture image5 430 "Une personne tient un document juridique entre ses mains. Le logo de swisscom se trouve à l'arrière-plan" >}}
 {{% /content %}}
@@ -38,12 +38,12 @@ Skribble travaille avec la QES. Ainsi, les documents signés avec Skribble sont 
 
 {{% content %}}
 {{% heading %}}
-# Vérifiez si votre document a été signé avec la QES
-Le validateur de l'administration fédérale suisse vous permet de vérifier si votre document a été signé avec une QES selon le droit suisse.*
+# Vérifiez si votre document a été signé avec la SEQ
+Le validateur de l'administration fédérale suisse vous permet de vérifier si votre document a été signé avec une SEQ selon le droit suisse.*
 {{% /heading %}}
 {{< picture "qes-pruefen" 474 "Un homme charge un document dans le validateur de l'administration fédérale suisse" >}}
 {{% richtext %}}
-<small>* fonctionne pour la QES selon le droit suisse, mais pas selon le droit européen (eIDAS).</small>
+<small>* fonctionne pour la SEQ selon le droit suisse, mais pas selon le droit européen (eIDAS).</small>
 ### Procédez ainsi:
 1. **Choisissez votre type de document: <br class="hide-for-mobile">Signature électronique qualifiée équivalente à une signature manuscrite**
 2. **Téléchargez votre document**
