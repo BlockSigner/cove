@@ -16,13 +16,14 @@ Here you will find everything you need to write about Skribble.
 
 {{< picture image12 688 "An astronaut flies with a giant fountain pen in front of a screen and signs electronically" >}}
 
-Skribble, founded in March 2018, is a Swiss provider of electronic signatures with offices in Zurich (CH) and Karlsruhe (DE). The startup enables electronic documents to be signed simply and legally. The basis is the "qualified electronic signature" (QES) - the only form of electronic signature equivalent to a handwritten signature before the law. Swisscom supplies the state-approved certification technology for QES. Existing customers include the Canton of Fribourg. Skribble has 14 employees.
+Skribble, founded in March 2018, is a Swiss provider of electronic signatures with offices in Zurich (CH) and Karlsruhe (DE). The TrustTech company enables electronic documents to be signed easily and with legal validity. Built on legally regulated standards, including the qualified electronic signature (QES) - the only form of electronic signature that is equivalent to a handwritten signature before the law, Skribble partners with Swisscom to supply the state-approved certification technology for QES. Existing customers include the Canton of Fribourg. Skribble has 15 employees.
 {{% /content %}}
 
 {{% cta
   label="Contact"
   href="mailto:kira@skribble.com"
   title="Media Contact"
+  outlined="true"
 %}}
 
 {{< picture image13 100 "Kira Leuthold Content & Communications at Skribble" >}}
@@ -37,6 +38,7 @@ Communications & Public Relations
   label="Download"
   href="downloads/Skribble-Brand-Assets.zip"
   title="Brand-Assets"
+  outlined="true"
 %}}
 
 {{< picture image14 106 "Notebook with lots of information about skribble" >}}
@@ -48,26 +50,53 @@ The Most Important Skribble Branding Assets are right here at hand:
 
 {{% table "Media releases" %}}
 <tr>
+  <td>19.09.2019</td>
+  <td>**EXPERTsuisse cooperates with Skribble (in German)**</td>
+  <td>
+    [Download](downloads/20190919-Medienmitteilung-EXPERTsuisse-kooperiert-mit-Skribble.pdf)
+  </td>
+</tr>
+<tr>
+  <td>11.09.2019</td>
+  <td>**ZKB invests in Skribble (in German)**</td>
+  <td>
+    [Download](downloads/20190911-Medienmitteilung-ZKB-investiert-in-Skribble.pdf)
+  </td>
+</tr>
+<tr>
+  <td>03.09.2019</td>
+  <td>**Momentum for e-signature has arrived (in German)**</td>
+  <td>
+    [Download](downloads/20190903-Das-Momentum-für-die-elektronische-Signatur-ist-da.pdf)
+  </td>
+</tr>
+<tr>
+  <td>26.08.2019</td>
+  <td>**Open House in Trust Square (in German)**</td>
+  <td>
+    [Download](downloads/20190826-Digitaltag-im-Trust-Square-mit-Skribble.pdf)
+  </td>
+</tr>
+<tr>
   <td>22.05.2019</td>
-  <td>**Closing of Financing (only in german)**</td>
+  <td>**Closing of Financing (in German)**</td>
   <td>
     [Download](downloads/20190522-medienmitteilung-skribble-abschluss-finanzierungsrunde.pdf)
   </td>
 </tr>
   <td>09.04.2019</td>
-  <td>**Collaboration with Procivis**</td>
+  <td>**Collaboration with Procivis (in German)**</td>
   <td>
     [Download](downloads/20190409-press-release-procivis-skribble-collaboration.pdf)
   </td>
 </tr>
 <tr>
   <td style="width:10%;">27.03.2019</td>
-  <td style="width:80%;">**Skribble Go-Live**</td>
+  <td style="width:80%;">**Skribble Go-Live (in German)**</td>
   <td style="width:10%;">
     [Download](downloads/20190327-medienmitteilung-skribble-go-live.pdf)
   </td>
 </tr>
-<tr>
 {{% /table %}}
 
 {{< outro >}}
