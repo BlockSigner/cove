@@ -70,33 +70,34 @@ After registering, you can switch to one of the following plans at any time:
 
 <tbody>
 <tr>
-<td>Du signierst 2 Mal pro Monat kostenlos</td>
-<td>Du signierst mehr als 2 Mal pro Monat selbst oder holst Signaturen ein. Du hinterlegst eine Kreditkarte und bezahlst Ende Monat nur, was du tatsächlich gebraucht hast.</td>
-<td>Ihr nutzt Skribble gemeinsam in eurer Organisation. Die Nutzerverwaltung ist zentriert., abgerechnet wird einheitlich per Rechnung. Die Signaturplattform bindet ihr via API an eure eigenen Systeme an.</td>
+<td>You can sign or request a signature twice per month free of charge.</td>
+<td>You sign or request more than two signatures per month.</td>
+<td>You use Skribble in your organisation. The user administration is centrally located.</td>
+</tr>
+
+
+<tr>
+<td><strong>Functions</strong></td>
+<td><strong>Functions</strong></td>
+<td><strong>Functions</strong></td>
 </tr>
 
 <tr>
-<td><strong>Funktionen</strong></td>
-<td><strong>Funktionen</strong></td>
-<td><strong>Funktionen</strong></td>
+<td>Upload PDF via drag & drop</td>
+<td>Upload PDF via drag & drop</td>
+<td>Upload PDF via drag & drop</td>
 </tr>
 
 <tr>
-<td>PDF per Drag & Drop hochladen</td>
-<td>PDF per Drag & Drop hochladen</td>
-<td>PDF per Drag & Drop hochladen</td>
+<td>Invite others to sign</td>
+<td>Invite others to sign</td>
+<td>Invite others to sign</td>
 </tr>
 
 <tr>
-<td>Andere zum Signieren einladen</td>
-<td>Andere zum Signieren einladen</td>
-<td>Andere zum Signieren einladen</td>
-</tr>
-
-<tr>
-<td>Stapelsignatur anbringen</td>
-<td>Stapelsignatur anbringen</td>
-<td>Stapelsignatur anbringen</td>
+<td>Apply batch signature</td>
+<td>Apply batch signature</td>
+<td>Apply batch signature</td>
 </tr>
 
 <tr>
@@ -104,6 +105,130 @@ After registering, you can switch to one of the following plans at any time:
 <td>Signatur per Handy bestätigen</td>
 <td>Signatur per Handy bestätigen</td>
 </tr>
+
+<tr>
+<td>Confirm signature on mobile phone</td>
+<td>Confirm signature on mobile phone</td>
+<td>Confirm signature on mobile phone</td>
+</tr>
+
+<tr>
+<td>Decline signature request</td>
+<td>Decline signature request</td>
+<td>Decline signature request</td>
+</tr>
+
+<tr>
+<td></td>
+<td>Billing history</td>
+<td>Billing history</td>
+</tr>
+
+
+<tr>
+<td></td>
+<td></td>
+<td>Add/remove users</td>
+</tr>
+
+<tr>
+<td></td>
+<td></td>
+<td>Assign user to plan </td>
+</tr>
+
+
+<tr>
+<td></td>
+<td></td>
+<td>Activity overview</td>
+</tr>
+
+<tr>
+<td></td>
+<td></td>
+<td>Integration via API</td>
+</tr>
+
+<tr>
+<td></td>
+<td></td>
+<td>Direct Sign</td>
+</tr>
+
+<tr>
+<td><strong>Billing</strong></td>
+<td><strong>Billing</strong></td>
+<td><strong>Billing</strong></td>
+</tr>
+
+<tr>
+<td>Free of charge - no billing</td>
+<td>At the end of the month by credit card </td>
+<td>At the end of the month by credit card or invoice</td>
+</tr>
+
+<tr>
+<td></td>
+<td>For your own and requested signatures</td>
+<td>For your own and requested signatures</td>
+</tr>
+
+<tr>
+<td></td>
+<td></td>
+<td>Joint billing for multiple users</td>
+</tr>
+
+<tr>
+<td><strong>Price scale</strong></td>
+<td><strong>Price scale</strong></td>
+<td><strong>Price scale</strong></td>
+</tr>
+
+<tr>
+<td></td>
+<td>Lower costs when using the lower e-signature standard (AES)</td>
+<td>Lower costs when using the lower e-signature standard (AES)</td>
+</tr>
+
+<tr>
+<td></td>
+<td></td>
+<td>The more signatures, the cheaper the unit price</td>
+</tr>
+
+<tr>
+<td></td>
+<td></td>
+<td>The more users, the lower the flat rate</td>
+</tr>
+
+<tr>
+<td><strong>Price range</strong></td>
+<td><strong>Price range</strong></td>
+<td><strong>Price range</strong></td>
+</tr>
+
+<tr>
+<td></td>
+<td>CHF 2.00 oder CHF 2.50 pro Signatur (inkl. MwSt.)</td>
+<td><strong>Pay-per-use</strong><br>CHF 0.60 up to a max. of 2.50 per signature (excl. VAT)</td>
+</tr>
+
+<tr>
+<td></td>
+<td></td>
+<td><strong>Flat rate
+</strong><br>CHF 10.- up to a max. of 25.- per user (excl. VAT)</td>
+</tr>
+
+<tr>
+<td>No credit card reuired<br>Your account can be deleted at any time</td>
+<td>No subscription commitment<br>Your account can be deleted at any time</td>
+<td>Monthly or yearly notice</td>
+</tr>
+
 
 </tbody>
 
