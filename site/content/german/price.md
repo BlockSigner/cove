@@ -14,7 +14,7 @@ Skribble eignet sich sowohl für gelegentliches</br>wie auch für häufiges Sign
 {{% action-card 
   title="Free" 
   description="<p>Du signierst:</br><strong>2 Mal pro Monat kostenlos.</strong></p>" 
-  button-text="Jetz kostenlos ausprobieren" 
+  button-text="Jetzt kostenlos ausprobieren" 
   button-link="https://my.skribble.com/signup?lang=de" 
   subtext="Konto jederzeit löschbar"%}}
     {{< picture free-visual 232 "" >}}
@@ -29,7 +29,7 @@ Nach dem Registrieren kannst du jederzeit auf </br> eines der folgenden Modelle 
   title="Fair Flat" 
   description="<p>Du signierst <strong>mehr als 2 Mal pro Monat</strong> selbst oder holst Signaturen ein.</p><p class='top-spaced'>Maximal</p><p><strong>CHF <span class='large'>2.50</span> pro Signatur</strong></p><p>bis zu einer Obergrenze von</p><p><strong>CHF <span class='large'>30.-</span> pro Monat</strong></p>" 
   caption="Lädst du andere zum Signieren ein, kommen weitere 2.50.- pro Signatur dazu."
-  button-text="Jetz kostenlos ausprobieren" 
+  button-text="Jetzt kostenlos ausprobieren" 
   button-link="https://my.skribble.com/signup?lang=de" 
   subtext="Keine Abonnementsverpflichtungen"%}}
     {{< picture fair-flat-visual 290 "" >}}
@@ -47,7 +47,7 @@ Nach dem Registrieren kannst du jederzeit auf </br> eines der folgenden Modelle 
   comparison-title="Wähle für jeden Kontext das passende Modell:"
   comparison-first="<p><strong>Pay-Per-Use</strong></p><p>Für Mitarbeitende, die <strong>weniger</strong> als 12 Mal pro Monat signieren und für Firmen-Externe.</p><p class='top-spaced'>Maximal</p><p><strong>CHF <span class='large'>2.50</strong></span></p><p>pro Signatur</p>"
   or="Oder"
-  comparison-second="<p><strong>Flatrate</strong></p><p>Für Mitarbeitende, die <strong>mehr</strong> als 12 Mal pro Monat signieren.</p><p class='top-spaced'>Maximal</p><p><strong>CHF <span class='large'>25</strong></span></p><p>pro Nutzer / Monat</p>"
+  comparison-second="<p><strong>Flatrate</strong></p><p>Für Mitarbeitende, die <strong>mehr</strong> als 12 Mal pro Monat signieren.</p><br><p class='top-spaced'>Maximal</p><p><strong>CHF <span class='large'>25</strong></span></p><p>pro Nutzer / Monat</p>"
   comparison-caption="Die Preise sinken deutlich, wenn mehr signiert wird oder mit einem anderen Standard."
   button-text="Jetzt beraten lassen" 
   button-link="https://help.skribble.com/meetings/patrick182/call-mit-skribble" 
@@ -104,6 +104,121 @@ Nach dem Registrieren kannst du jederzeit auf </br> eines der folgenden Modelle 
 <td>Signatur per Handy bestätigen</td>
 </tr>
 
+<tr>
+<td>Signaturanfrage ablehnen</td>
+<td>Signaturanfrage ablehnen</td>
+<td>Signaturanfrage ablehnen</td>
+</tr>
+
+<tr>
+<td></td>
+<td>Rechnungshistorie</td>
+<td>Rechnungshistorie</td>
+</tr>
+
+<tr>
+<td></td>
+<td></td>
+<td>Nutzer hinzufügen/ entfernen</td>
+</tr>
+
+<tr>
+<td></td>
+<td></td>
+<td>Nutzer einem Preismodell zuordnen</td>
+</tr>
+
+<tr>
+<td></td>
+<td></td>
+<td>Aktivitätsübersicht</td>
+</tr>
+
+<tr>
+<td></td>
+<td></td>
+<td>Anbindung via API</td>
+</tr>
+
+<tr>
+<td></td>
+<td></td>
+<td>Direct Sign</td>
+</tr>
+
+<tr>
+<td><strong>Abrechnung</strong></td>
+<td><strong>Abrechnung</strong></td>
+<td><strong>Abrechnung</strong></td>
+</tr>
+
+<tr>
+<td>Kostenlos - keine Abrechnung</td>
+<td>Ende Monat per Kreditkarte </td>
+<td>Ende Monat per Kreditkarte oder Rechnung</td>
+</tr>
+
+<tr>
+<td></td>
+<td>Für eigene und eingeholte Signaturen</td>
+<td>Für eigene und eingeholte Signaturen</td>
+</tr>
+
+<tr>
+<td></td>
+<td></td>
+<td>Gemeinsame Abrechnung für mehrere Nutzer</td>
+</tr>
+
+<tr>
+<td><strong>Preisentwicklung</strong></td>
+<td><strong>Preisentwicklung</strong></td>
+<td><strong>Preisentwicklung</strong></td>
+</tr>
+
+<tr>
+<td></td>
+<td>Tiefere Kosten bei der Nutzung des tieferen E-Signatur-Standards (FES)</td>
+<td>Tiefere Kosten bei der Nutzung des tieferen E-Signatur-Standards (FES)</td>
+</tr>
+
+<tr>
+<td></td>
+<td></td>
+<td>Je mehr Signaturen, desto günstiger das Stück</td>
+</tr>
+
+<tr>
+<td></td>
+<td></td>
+<td>Je mehr Flat-Nutzer, desto günstiger die Flatrate</td>
+</tr>
+
+<tr>
+<td><strong>Preisspanne</strong></td>
+<td><strong>Preisspanne</strong></td>
+<td><strong>Preisspanne</strong></td>
+</tr>
+
+<tr>
+<td></td>
+<td>CHF 2.00 oder CHF 2.50 pro Signatur (inkl. MwSt.)</td>
+<td><strong>Pay-Per-Use</strong><br>CHF 0.60 bis max. 2.50 pro Signatur (exkl. MwSt.)</td>
+</tr>
+
+<tr>
+<td></td>
+<td></td>
+<td><strong>Flatrate</strong><br>CHF 10.- bis max. 25.- pro Nutzer (exkl. MwSt.)</td>
+</tr>
+
+<tr>
+<td>Keine Kreditkarte notwendig<br>Konto jederzeit löschbar</td>
+<td>Keine Abonnementsverpflichtungen<br>Konto jederzeit löschbar</td>
+<td>Monatlich oder jährlich kündbar</td>
+</tr>
+
+
 </tbody>
 
 {{% /table-dense %}}
@@ -115,7 +230,7 @@ Nach dem Registrieren kannst du jederzeit auf </br> eines der folgenden Modelle 
 
 {{% cta
   label="Mehr erfahren"
-  href="de/qes-erklaert"
+  href="de/signaturstandards"
   outlined="true"
 %}}
 
@@ -127,7 +242,7 @@ Nach dem Registrieren kannst du jederzeit auf </br> eines der folgenden Modelle 
 {{% /cta %}}
 {{% cta
   label="Mehr erfahren"
-  href="de/qes-erklaert"
+  href="de/identifikation"
   outlined="true"
 %}}
 
