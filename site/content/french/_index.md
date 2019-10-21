@@ -41,14 +41,20 @@ Réaliser vos processus de signature simplement et <br class="hide-for-mobile">d
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< logos-container title="Connu depuis les médias">}}
-  {{< logos-item src="logos/srf-logo-170w.png" alt="SRF-Schweizer Radio und Fernsehen">}}
-  {{< logos-item src="logos/hr-today-logo-162w.png" alt="HR-Today">}}
-  {{< logos-item src="logos/eforesight-logo-185w.png" alt="e-foresight">}}
-  {{< logos-item src="logos/gruenderszene-logo-220w.png" alt="Gründerszene">}}
+{{< logos-container title="">}}
+  {{< logos-item src="logos/srf-logo-180w.svg" alt="SRF-Schweizer Radio und Fernsehen">}}
+  {{< logos-item src="logos/handelszeitung-logo-240w.svg" alt="Handelszeitung">}}
+  {{< logos-item src="logos/hr-today-logo-173w.svg" alt="HR-Today">}}
+  {{< logos-item src="logos/gruenderszene-logo-216w.svg" alt="Gründerszene">}}
 {{< /logos-container >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
+
+{{% content %}}
+{{% heading %}}
+# Signer légalement en trois étapes
+{{% /heading %}}
+{{% /content %}}
 
 {{< side-by-side >}}
 {{% richtext %}}
@@ -83,9 +89,24 @@ Signez par simple pression d'un bouton, indépendamment de l'heure et du lieu, d
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< testimonial "testimonial/e-forsight-146w.png" "Think tank e-foresight" >}}
-"Skribble offre une solution conviviale <br class="hide-for-mobile">pour des signatures électroniques qualifiées en Suisse."
-{{< /testimonial >}}
+{{% content %}}
+{{% heading %}}
+# En signant avec Skribble, <br class="hide-for-mobile">vous gagnez du temps au travail
+{{% /heading %}}
+{{% /content %}}
+
+{{< picture skribble-ui-fr 1020 "Skribble plattform - user interface" >}}
+
+{{% cta
+  label="Afficher toutes les fonctions"
+  href="/fr/fonctionnalites/"
+  outlined="true"
+%}}
+
+{{% richtext %}}
+**Avec Skribble vous signez non seulement légalement, mais aussi simplement.**<br>
+{{% /richtext %}}
+{{% /cta %}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
@@ -99,8 +120,8 @@ Avec Skribble, vous signez légalement et en toute sécurité <br class="hide-fo
 Skribble travaille exclusivement avec des standards de signature électronique légalement définis: la signature électronique qualifiée (SEQ) et la signature électronique avancée (SEA).
 {{% /collapsible %}}
 
-{{% collapsible 2 "Exigence de la forme écrite selon le CO/eIDAS" "check" %}}
-La signature électronique qualifiée (SEQ) de Skribble équivaut à la signature manuscrite devant le droit suisse et européen.
+{{% collapsible 2 "Exigence de la forme écrite selon le CO/BGB" "check" %}}
+La signature électronique qualifiée (SEQ) de Skribble équivaut à la signature manuscrite devant les lois nationales suisses et celles de l'UE (par ex. CO en Suisse ou BGB en Allemagne).
 {{% /collapsible %}}
 
 {{% collapsible 3 "Protection des données selon LPD/RGPD" "check" %}}
@@ -110,78 +131,30 @@ Skribble et ses partenaires gèrent leurs données conformément à la loi féd�
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{% cta
-  label="En savoir plus"
-  href="fr/debloquez-qes"
-  outlined=""
-%}}
-
-{{< picture qes-erklaert 122 "Signé avec Skribble signifie légalement signé selon le droit suisse et européen." >}}
-
-{{% richtext %}}
-**La loi établit une distinction entre les différentes normes de signature électronique.**<br>
-{{% /richtext %}}
-{{% /cta %}}
-
-[//]: # (--------------------------------------------------------------------------------------------------------------)
-
-{{< side-by-side >}}
-{{< picture image5 430 "Une personne tient un document juridique entre ses mains. Le logo de swisscom se trouve à l'arrière-plan" >}}
-
-{{% richtext %}}
-## Skribble travaille avec une technologie approuvée par l'État
-Skribble obtient les certificats pour les signatures électroniques auprès de Swisscom, un organisme de certification reconnu par l'Etat.
-{{% /richtext %}}
-{{< /side-by-side >}}
-
-[//]: # (--------------------------------------------------------------------------------------------------------------)
-
 {{% content %}}
 {{% heading %}}
 # Utilisez Skribble pour maximiser la force probante de votre signature
-Les personnes identifiées signent sur Skribble avec la plus haute norme de signature électronique disponible: la SEQ. Celle-ci a une force probante de 100%.<br><br>
-**Les personnes se connectant avec une e-ID activent automatiquement la SEQ.**
+La loi établit une distinction entre les signatures électroniques qualifiées (SEQ) <br class="hide-for-mobile">et les signatures électroniques avancées (SEA). Les deux normes varient <br class="hide-for-mobile">en termes de domaine d'application et de force probante.
+Sur Skribble, vous pouvez choisir entre les deux.
 {{% /heading %}}
-
-{{< picture e-id-map 826 "E-ID, where you can sign Skribble soon." >}}
-{{% richtext %}}
-{{% center %}}**L'intégration d'autres e-IDs suivra cette année.**{{% / center %}}
-{{% /richtext %}}
 {{% /content %}}
 
-{{% cta
-  label="Apprendre plus"
-  href="fr/identification"
-  title="Pour tous les autres, Skribble offre une solution d'identification adaptée."
-  outlined="true"
-%}}
-
-{{< picture identifizieren 112 "Signé avec Skribble signifie légalement signé selon le droit suisse et européen." >}}
-
-{{% richtext %}}
-**Service d'identification de Skribble**<br>
-Laissez Skribble vous identifier et augmentez la force probante de votre signature électronique.
-{{% /richtext %}}
-{{% /cta %}}
+{{< picture force_probante 664 "Force_Probante" >}}
 
 {{% cta
   label="En savoir plus"
-  href="fr/debloquez-qes"
-  title="Démarrer sans identification"
+  href="/fr/normessignature/"
   outlined="true"
 %}}
 
-{{< picture AES 100 "Signé avec Skribble signifie légalement signé selon le droit suisse et européen." >}}
-
 {{% richtext %}}
-**Signier avec AES**<br>
-Pour la signature électronique avancée (SEA), aucune identification n'est requise.
+**Chez Skribble vous avez le choix entre les normes de signature SEA et SEQ.**<br>
 {{% /richtext %}}
 {{% /cta %}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< testimonial "testimonial/logo-fr-110w.png" "Stéphane Schwab – canton de Fribourg" >}}
+{{< testimonial "testimonial/fr-logo-99w.svg" "Stéphane Schwab – canton de Fribourg" >}}
 "Grâce à Skribble, nous pouvons numériser les processus administratifs de A à Z. <br class="hide-for-mobile">Cela facilite notre vie quotidienne et celle de nos clients." {{< /testimonial >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
@@ -194,10 +167,10 @@ Les offres Skribbles s'adaptent à vos besoins et <br class="hide-for-mobile">pe
 
 {{< row >}}
 {{% plan gold "Modèle prépayé" "Prix unique par signature" %}}
-Idéal pour signer une fois ou occasionnellement avec la SEQ.
+Idéal pour signer une fois ou occasionnellement.
 {{% /plan %}}
 {{% plan purple "Modèle forfaitaire" "Forfait par personne" %}}
-Idéal pour un usage régulier de la SEQ.
+Idéal pour un usage régulier.
 {{% /plan %}}
 {{< /row >}}
 {{% /content %}}

@@ -14,13 +14,14 @@ og_image: og/og-skribble-identification.jpg
 # Intégration de Skribble
 Avec Skribble, vous choisissez une plate-forme de cloud <br class="hide-for-mobile">qui allie sécurité technologique et simplicité. 
 {{% /heading %}}
+{{% /content %}}
 
 {{< picture integration-visual 494 "Skribble plattform - user interface" >}}
 
 {{% heading %}}
-## Utilisez Skribble via le navigateur ou intégrez <br class="hide-for-mobile">la plate-forme dans votre environnement logiciel <br class="hide-for-mobile">existant via API.
+### Utilisez Skribble via le navigateur ou intégrez <br class="hide-for-mobile">la plate-forme dans votre environnement logiciel existant via API.
 {{% /heading %}}
-{{% /content %}}
+
 {{< features-container >}}
 
   {{< features-item src="integrations/api.svg" 

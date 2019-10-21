@@ -22,7 +22,7 @@ testimonial:
 {{% richtext %}}
 {{% heading left %}}
 # Legally binding electronic signatures with Skribble
-Easily handle digital signature processes – legally binding <br class="hide-for-mobile">in accordance with Swiss & EU law.
+Easily handle digital signature processes – <br class="hide-for-mobile">legally binding in accordance with Swiss & EU law.
 {{% /heading %}}
 
 <div class="hide-for-desktop">
@@ -45,15 +45,20 @@ Easily handle digital signature processes – legally binding <br class="hide-fo
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< logos-container title="Skribble in the press">}}
-  {{< logos-item src="logos/srf-logo-170w.png" alt="SRF-Schweizer Radio und Fernsehen">}}
-  {{< logos-item src="logos/hr-today-logo-162w.png" alt="HR-Today">}}
-  {{< logos-item src="logos/eforesight-logo-185w.png" alt="e-foresight">}}
-  {{< logos-item src="logos/gruenderszene-logo-220w.png" alt="Gründerszene">}}
+{{< logos-container title="">}}
+  {{< logos-item src="logos/srf-logo-180w.svg" alt="SRF-Schweizer Radio und Fernsehen">}}
+  {{< logos-item src="logos/handelszeitung-logo-240w.svg" alt="Handelszeitung">}}
+  {{< logos-item src="logos/hr-today-logo-173w.svg" alt="HR-Today">}}
+  {{< logos-item src="logos/gruenderszene-logo-216w.svg" alt="Gründerszene">}}
 {{< /logos-container >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
+{{% content %}}
+{{% heading %}}
+# Sign legally in three steps
+{{% /heading %}}
+{{% /content %}}
 
 {{< side-by-side >}}
 {{% richtext %}}
@@ -88,9 +93,26 @@ Sign at the push of a button, independent of time and place, legally valid accor
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< testimonial "testimonial/e-forsight-146w.png" "e-foresight Think Tank" >}}
-"Skribble offers a customer-friendly <br class="hide-for-mobile">solution for qualified electronic signatures in Switzerland."
-{{< /testimonial >}}
+{{% content %}}
+{{% heading %}}
+# If you sign with Skribble <br class="hide-for-mobile">you save time at work
+{{% /heading %}}
+{{% /content %}}
+
+{{< picture skribble-ui-en 1020 "Skribble plattform - user interface" >}}
+
+
+{{% cta
+  label="Show all functions"
+  href="features"
+  outlined="true"
+%}}
+
+{{% richtext %}}
+**With Skribble you not only sign <br class="hide-for-mobile">legally, but also simply.**<br>
+{{% /richtext %}}
+{{% /cta %}}
+
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
@@ -100,12 +122,12 @@ Sign at the push of a button, independent of time and place, legally valid accor
 With Skribble you sign legally and securely according to the following requirements:
 {{% /heading %}}
 
-{{% collapsible 1 "E-signature standards QES and FES according to ZertES/eIDAS" "check" %}}
+{{% collapsible 1 "E-signature standards QES and AES according to ZertES/eIDAS" "check" %}}
 Skribble works exclusively with legally defined e-signature standards: The qualified electronic signature (QES) and the advanced electronic signature (AES).
 {{% /collapsible %}}
 
-{{% collapsible 2 "Requirement of written form according to OR/eIDAS" "check" %}}
-The qualified electronic signature (QES) available on Skribble is equivalent to the handwritten signature before Swiss and EU law.
+{{% collapsible 2 "Requirement of written form according to OR/BGB" "check" %}}
+The qualified electronic signature (QES) available on Skribble is equivalent to the handwritten signature before national laws in Switzerland and the EU (e.g. OR in Switzerland or BGB in Germany).
 {{% /collapsible %}}
 
 {{% collapsible 3 "Data protection according to FADP/GDPR" "check" %}}
@@ -115,79 +137,31 @@ Skribble and its signing partner Swisscom commit to manage data in accordance wi
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{% cta
-  label="Learn more"
-  href="signaturestandards"
-  target="_blank"
-  outlined=""
-%}}
-
-{{< picture qes-erklaert 122 "The law distinguishes between different e-signature standards." >}}
-
-{{% richtext %}}
-**Why does the qualified electronic signature (QES) set a digital standard by the law?**<br>
-{{% /richtext %}}
-{{% /cta %}}
-
-[//]: # (--------------------------------------------------------------------------------------------------------------)
-
-{{< side-by-side >}}
-{{< picture image5 430 "A person holds a legal document in their hands. The Swisscom logo is in the background" >}}
-
-{{% richtext %}}
-## Skribble works with state-approved technology
-Skribble obtains the certificates for the electronic signatures from Swisscom, a state-approved certification body.
-{{% /richtext %}}
-{{< /side-by-side >}}
-
-[//]: # (--------------------------------------------------------------------------------------------------------------)
-
 {{% content %}}
 {{% heading %}}
 # Use Skribble to maximise the legal weight of your signature
-Identified individuals sign on Skribble with the highest available e-signature standard QES. It has a legal weight of 100%.<br><br>
-**Those who log in with an e-ID automatically activate QES.**
+The law distinguishes between qualified e-signatures (QES) <br class="hide-for-mobile">and advanced e-signatures (AES).
+The two standards vary in terms of area <br class="hide-for-mobile">of application and legal weight.
 {{% /heading %}}
-
-{{< picture e-id-map 826 "E-ID, where you can sign Skribble soon." >}}
+{{< picture legal_weight 664 "Legal-weight" >}}
 {{% richtext %}}
-{{% center %}}**The integration of further e-IDs will follow this year.**{{% / center %}}
-{{% /richtext %}}
+{{% /heading %}}
 {{% /content %}}
 
 {{% cta
   label="Learn more"
-  href="identification"
-  title="For everyone else, Skribble offers a suitable identification solution."
+  href="/signaturestandards/"
   outlined="true"
 %}}
 
-{{< picture identifizieren 112 "Signed with Skribble means legally signed according to Swiss and EU law." >}}
-
 {{% richtext %}}
-**Skribble's identifiacation services**<br>
-Get identified by Skribble and increase the legal weight of your e-signature.
-{{% /richtext %}}
-{{% /cta %}}
-
-{{% cta
-  label="Learn more"
-  href="signaturestandards"
-  title="Get started without identification"
-  outlined="true"
-%}}
-
-{{< picture AES 100 "Signed with Skribble means legally signed according to Swiss and EU law." >}}
-
-{{% richtext %}}
-**Signing with AES**<br>
-For the advanced electronic signature (AES) no identification is necessary.
+**At Skribble you have the choice <br class="hide-for-mobile">between the signature standards AES and QES.**<br>
 {{% /richtext %}}
 {{% /cta %}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< testimonial "testimonial/logo-fr-110w.png" "Stéphane Schwab, Head of E-Government, Canton of Fribourg" >}}
+{{< testimonial "testimonial/fr-logo-99w.svg" "Stéphane Schwab, Head of E-Government, State of Fribourg" >}}
 "Thanks to Skribble, we can digitize administrative processes from A to Z. <br class="hide-for-mobile">This makes everyday life easier for <br class="hide-for-mobile">us and our customers." {{< /testimonial >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
@@ -201,11 +175,11 @@ Skribbles' pricing adapts to your needs and can be flexibly configured.
 
 {{< row >}}
 {{% plan gold "Prepaid" "Pay per signature" %}}
-Suitable for single or occasional signing with QES
+Suitable for single or occasional signing
 {{% /plan %}}
 
 {{% plan purple "Flat rate" "Pay per user" %}}
-Suitable for regular signing with QES
+Suitable for regular signing
 {{% /plan %}}
 {{< /row >}}
 {{% /content %}}

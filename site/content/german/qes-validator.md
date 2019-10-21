@@ -41,7 +41,7 @@ Mit dem Validator der Schweizer Bundesverwaltung kannst du prüfen, <br class="h
 %}}
 {{< picture "qes-erklaert" 122 >}}
 {{% richtext %}}
-**Was ist die qualifizierte <br class="hide-for-mobile">elektroische Signatur (QES)?**
+**Was ist die qualifizierte <br class="hide-for-mobile">elektronische Signatur (QES)?**
 {{% /richtext %}}
 {{% /cta %}}
 

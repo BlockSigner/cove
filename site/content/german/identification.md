@@ -126,23 +126,6 @@ Passend, wenn laufend <br class="hide-for-mobile">neue Signierende <br class="hi
 {{% /richtext %}}
 {{% /cta %}}
 
-{{% content %}}
-{{% heading %}}
-# Möchtest du als Privatperson <br class="hide-for-mobile">qualifiziert elektronisch signieren?
-Skribble kann problemlos ausserhalb des Firmenkontextes genutzt werden. <br class="hide-for-mobile">Falls du noch über keine E-ID verfügst, identifizieren wir dich gerne. <br class="hide-for-mobile">Es dauert nur wenige Minuten.
-{{% /heading %}}
-{{< picture individual-signing 448 "Die identität einer frau, die in einem handy steht, wird von zwei personen überprüft" >}}
-&nbsp;
-{{% /content %}}
-
-{{% cta
-  label="Jetzt E-ID holen"
-  href="de/qes-freischalten"
-%}}
-{{% richtext %}}
-**Erfahre mehr, wie du in wenigen Minuten <br class="hide-for-mobile">zu deiner E-ID kommst!**
-{{% /richtext %}}
-{{% /cta %}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 

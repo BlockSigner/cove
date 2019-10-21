@@ -9,8 +9,8 @@ slug: signaturstandards
 {{% content %}}
 {{% heading %}}
 # Wie viel Beweiskraft brauchst du?
-Das Gesetz unterscheidet zwischen der qualifizierten E-Signatur (QES) <br class="hide-for-mobile">und der fortgeschrittenen E-Signatur (FES). 
-Die beiden Standards <br class="hide-for-mobile">variieren punkto Einsatzgebiet und Beweiskraft. 
+Das Gesetz unterscheidet zwischen der qualifizierten E-Signatur (QES) <br class="hide-for-mobile">und der fortgeschrittenen E-Signatur (FES).
+Die beiden Standards <br class="hide-for-mobile">variieren punkto Einsatzgebiet und Beweiskraft.
 Auf Skribble kannst du wählen.
 {{% /heading %}}
 
@@ -25,8 +25,8 @@ Die rundum-sorglos-Signatur für höchste Ansprüche
 
 {{% richtext %}}
 **Die qualifizierte elektronische Signatur (QES) ist der handschriftlichen Signatur rechtlich gleichgestellt.**<br>
-Du setzt die QES ein, um die Beweiskraft deiner Verträge zu maximieren oder wenn das Gesetz die Schriftlichkeit verlangt. 
-Letzteres triff z.B. bei Kredit- oder Arbeitsverträgen mit Konkurrenzklausel zu. 
+Du setzt die QES ein, um die Beweiskraft deiner Verträge zu maximieren oder wenn das Gesetz die Schriftlichkeit verlangt.
+Letzteres trifft z.B. bei Kredit- oder Arbeitsverträgen mit Konkurrenzklausel zu.
 Für das Signieren mit QES auf Skribble wird eine vorgängige Identitätsprüfung im persönlichen Kontakt oder eine E-ID vorausgesetzt.
 {{% /richtext %}}
 {{% /content %}}
@@ -89,29 +89,29 @@ Das trifft für die meisten Vertragsarten zu, so zum Beispiel bei Miet-, Kauf- o
 
 <thead>
 <tr>
-<th style="width: 80px;">Standard</th>
-<th style="width: 100px;">Beweiskraft</th>
-<th style="max-width: 100px;">Voraussetzungen</th>
-<th style="max-width: 100px;">Anwendungsbereich</th>
-<th style="max-width: 100px;">Anwendungsbeispiele</th>
+<th>Standard</th>
+<th>Beweiskraft</th>
+<th>Voraussetzungen</th>
+<th>Anwendungsbereich</th>
+<th>Anwendungsbeispiele</th>
 </tr>
 </thead>
 
 <tbody>
 <tr>
-<td style="padding-top: 12px;"><div class="icon-qes">QES</div></td>
+<td><div class="icon-qes">QES</div></td>
 <td><strong>Sehr Hoch</strong></td>
-<td><ul><li>Persönliche Identifikation oder E-ID</li><li>Mobiltelefonnumer</li></ul></td>
+<td><ul><li>Persönliche Identifikation oder E-ID</li><li>Mobiltelefonnummer</li></ul></td>
 <td><ul><li>Verträge mit Schriftlichkeitserfordernis</li><li>Maximierung der Beweiskraft formfreier Verträge (Risikominimierung)</li></ul></td>
 <td><ul><li>Kreditvertrag</li><li>Arbeitsvertrag mit Konkurrenzklausel</li><li>heikler formfreier Vertrag</li></ul></td>
 </tr>
 
 <tr>
-<td style="padding-top: 12px;"><div class="icon-fes">FES</div></td>
+<td><div class="icon-fes">FES</div></td>
 <td><strong>Hoch</strong></td>
 <td><ul><li>Schweizer Mobiltelefonnummer</li></ul></td>
 <td><ul><li>Formfreie Verträge</li></ul></td>
-<td><ul><li>Mietverträge</li><li>Kauferträge</li><li>Hypotheken</li><li>einfacher Arbeitsvertrag</li></ul></td>
+<td><ul><li>Mietverträge</li><li>Kaufverträge</li><li>Hypotheken</li><li>einfacher Arbeitsvertrag</li></ul></td>
 </tr>
 </tbody>
 
@@ -125,7 +125,7 @@ Das trifft für die meisten Vertragsarten zu, so zum Beispiel bei Miet-, Kauf- o
   outlined=""
 %}}
 
-{{< picture "contact" 92 "Hast du fragen? Wir helfen dir gerne weiter." >}}
+{{< picture "contact" 92 "Hast du Fragen? Wir helfen dir gerne weiter." >}}
 
 {{% richtext %}}
 **Hast du fragen? <br class="hide-for-mobile">Wir helfen dir gerne weiter.**<br>

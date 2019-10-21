@@ -14,7 +14,7 @@ og_image: og/og-skribble-identification.jpg
 # Signer électroniquement <br class="hide-for-mobile">dans les RH
 Avec Skribble, vous signez en toute sécurité juridique et en toute simplicité <br class="hide-for-mobile">par voie numérique – des contrats de travail aux références en passant <br class="hide-for-mobile">par les certificats de salaire.
 {{% /heading %}}
-{{< picture vertical-hr-main 570 "Trois femmes tenant un contrat entre leurs mains" >}}
+{{< picture vertical-hr-main 560 "Trois femmes tenant un contrat entre leurs mains" >}}
 {{% /content %}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
@@ -36,7 +36,7 @@ De nouveaux contrats de travail pour tous: le signataire autorisé ne signe plus
 
 {{< side-by-side >}}
 {{% richtext %}}
-## Signature numérique <br class="hide-for-mobile">sans délai des candidats 
+## Signature numérique <br class="hide-for-mobile">sans délai des candidats
 Une intégration efficace: vous avez plus de chances d'être choisi comme employeur et l'administration des RH devient plus facile, plus rapide et moins coûteuse.
 
 - **<small>Juridiquement valable pour tout type <br class="hide-for-mobile">de contrat de travail</small>**
@@ -91,12 +91,12 @@ Restez avec des outils familiers: signez à partir de vos programmes existants, 
 Avec Skribble, vous pouvez signer numériquement <br class="hide-for-mobile">et légalement (SEQ) et satisfaire aux exigences légales suivantes:
 {{% /heading %}}
 
-{{% collapsible 1 "Exigence de la forme écrite selon le CO/eIDAS" "check" %}}
-Skribble se base sur la signature électronique qualifiée SEQ. Celle-ci équivaut à une signature manuscrite devant le droit suisse et européen.
+{{% collapsible 1 "Normes de signature électronique SEQ und SEA selon SCSE/eIDAS" "check" %}}
+Skribble travaille exclusivement avec des standards de signature électronique légalement définis: la signature électronique qualifiée (SEQ) et la signature électronique avancée (SEA).
 {{% /collapsible %}}
 
-{{% collapsible 2 "Signature électronique qualifiée selon SCSE/eIDAS " "check" %}}
-Skribble obtient la SEQ de Swisscom, un fournisseur de certificats électroniques agréé par l'Etat selon la SCSE et l'eIDAS.
+{{% collapsible 2 "Exigence de la forme écrite selon le CO/BGB" "check" %}}
+La signature électronique qualifiée (SEQ) de Skribble équivaut à la signature manuscrite devant les lois nationales suisses et celles de l'UE (par ex. CO en Suisse ou BGB en Allemagne).
 {{% /collapsible %}}
 
 {{% collapsible 3 "Protection des données selon LPD/RGPD" "check" %}}
@@ -106,25 +106,33 @@ Skribble et ses partenaires gèrent leurs données conformément à la loi féd�
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
+{{% content %}}
+{{% heading %}}
+# Utilisez Skribble pour maximiser la force probante de votre signature
+La loi établit une distinction entre les signatures électroniques qualifiées (SEQ) <br class="hide-for-mobile">et les signatures électroniques avancées (SEA). Les deux normes varient <br class="hide-for-mobile">en termes de domaine d'application et de force probante.
+Sur Skribble, vous pouvez choisir entre les deux.
+{{% /heading %}}
+{{% /content %}}
+
+{{< picture force_probante 664 "Force_Probante" >}}
+
 {{% cta
-  label="Apprendre plus"
-  href="fr/qes-explique"
+  label="En savoir plus"
+  href="/fr/normessignature/"
   outlined="true"
 %}}
 
-{{< picture qes-erklaert 122 "Signé avec Skribble signifie légalement signé selon le droit suisse et européen." >}}
-
 {{% richtext %}}
-**Pourquoi la signature électronique qualifiée (QES) fixe une norme numérique à la loi?**<br>
+**Chez Skribble vous avez le choix entre les normes de signature SEA et SEQ.**<br>
 {{% /richtext %}}
 {{% /cta %}}
 
-[[//]: # (--------------------------------------------------------------------------------------------------------------)
+[//]: # (--------------------------------------------------------------------------------------------------------------)
 
 {{% content %}}
 {{% heading %}}
-# Prêt à signer <br class="hide-for-mobile">dans quelques minutes
-Il vous suffit d'avoir un téléphone mobile et un document <br class="hide-for-mobile">de voyage valide (passeport ou carte d'identité).
+# Laissez-vous identifier
+Cela débloque la norme de signature électronique <br class="hide-for-mobile">la plus élevée du marché: la SEQ. Vous n'avez besoin que d'un document <br class="hide-for-mobile">de voyage valide (pièce d'identité ou passeport).
 {{% /heading %}}
 {{< picture "create-identity" 385 "Une loupe agrandit l'image d'une femme dans un passeport" >}}
 &nbsp;
@@ -132,8 +140,7 @@ Il vous suffit d'avoir un téléphone mobile et un document <br class="hide-for-
 
 {{% cta
   label="Organiser un rendez-vous"
-  href="https://help.skribble.com/meetings/patrick182/consultation-telephone-skribble"
-  target="_blank"
+  href="/fr/debloquez-qes/"
 %}}
 {{% richtext %}}
 **Choisissez un rendez-vous <br class="hide-for-mobile">et laissez-nous vous identifier**
@@ -143,7 +150,7 @@ Il vous suffit d'avoir un téléphone mobile et un document <br class="hide-for-
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
 {{< testimonial "testimonial/procivis-146w.png" "Daniel Gasteiger, Fondateur et CEO de Procivis (eID+)" >}}
-"La signature électronique des documents devient une fonction essentielle <br class="hide-for-mobile">des identités numériques de confiance." 
+"La signature électronique des documents devient une fonction essentielle <br class="hide-for-mobile">des identités numériques de confiance."
 {{< /testimonial >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
@@ -155,7 +162,7 @@ Il vous suffit d'avoir un téléphone mobile et un document <br class="hide-for-
 {{% /heading %}}
 
 {{% collapsible 10 "Où sont stockés les documents signés avec Skribble?" %}}
-Le centre de données Skribble est situé en Suisse et est certifié ISO 270001 (hébergement bancaire standard). 
+Le centre de données Skribble est situé en Suisse et est certifié ISO 270001 (hébergement bancaire standard).
 {{% /collapsible %}}
 
 {{% collapsible 11 "Comment Skribble s'assure-t-il que la bonne personne signe?" %}}
@@ -163,15 +170,15 @@ Tous les signataires sont identifiés à l'avance. Lors de la signature, le sign
 {{% /collapsible %}}
 
 {{% collapsible 12 "Est-ce que signer avec Skribble est légalement sécurisé?" %}}
-Oui, Skribble est basé sur la signature électronique qualifiée (QES). La QES est la seule forme de signature électronique équivalente à la signature manuscrite devant le droit suisse (art. 14 2bis CO) et européen (art. 25 al. 2 eIDAS). 
+Oui, Skribble est basé sur la signature électronique qualifiée (SEQ). La SEQ est la seule forme de signature électronique équivalente à la signature manuscrite devant le droit suisse (art. 14 2bis CO) et européen (art. 25 al. 2 eIDAS).
 {{% /collapsible %}}
 
 {{% collapsible 13 "Puis-je conserver le contrat signé numériquement sur papier?" %}}
-Pas uniquement. Grâce à la signature visuelle, on peut voir sur le contrat imprimé qu'il a été signé numériquement. Cependant, comme les certificats numériques sont perdus lors de l'impression, la traçabilité de la signature et donc le caractère concluant correspondant ne sont pas donnés. Un contrat signé avec une signature électronique qualifiée doit donc toujours être conservé sous forme électronique.           
+Pas uniquement. Grâce à la signature visuelle, on peut voir sur le contrat imprimé qu'il a été signé numériquement. Cependant, comme les certificats numériques sont perdus lors de l'impression, la traçabilité de la signature et donc le caractère concluant correspondant ne sont pas donnés. Un contrat signé avec une signature électronique qualifiée doit donc toujours être conservé sous forme électronique.
 {{% /collapsible %}}
 
 {{% collapsible 14 "Quelle est la durée de validité de la signature Skribble? " %}}
-La QES est légalement valide pour une durée illimitée.
+La SEQ est légalement valide pour une durée illimitée.
 {{% /collapsible %}}
 {{% /content %}}
 

@@ -1,6 +1,6 @@
 ---
 title: Skribble offre 100% de sécurité juridique devant les tribunaux
-description: Skribble travaille avec la QES. Ainsi, les documents signés avec Skribble sont juridiquement contraignants.
+description: Skribble travaille avec la SEQ. Ainsi, les documents signés avec Skribble sont juridiquement contraignants.
 draft: false
 slug: validateur-qes
 
@@ -8,12 +8,12 @@ slug: validateur-qes
 
 {{% content %}}
 {{% heading %}}
-# Vérifiez si un document <br class="hide-for-mobile">a été signé avec la QES
+# Vérifiez si un document <br class="hide-for-mobile">a été signé avec la SEQ
 Le validateur de l'administration fédérale suisse vous permet <br class="hide-for-mobile">de vérifier si votre document a été signé avec <br class="hide-for-mobile">une signature électronique qualifiée selon le droit suisse.*
 {{% /heading %}}
 {{< picture "qes-pruefen" 474 "Un homme charge un document dans le validateur de l'administration fédérale suisse" >}}
 {{% richtext %}}
-<small>* fonctionne pour la QES selon le droit suisse, mais pas selon le droit européen (eIDAS).</small>
+<small>* fonctionne pour la SEQ selon le droit suisse, mais pas selon le droit européen (eIDAS).</small>
 ### Procédez ainsi:
 1. **Choisissez votre type de document: <br class="hide-for-mobile">Signature électronique qualifiée <br class="hide-for-mobile">équivalente à une signature manuscrite**
 2. **Téléchargez votre document**
@@ -22,7 +22,7 @@ Le validateur de l'administration fédérale suisse vous permet <br class="hide-
 {{% /content %}}
 
 {{% cta
-  label="Vers le validateur QES"
+  label="Vers le validateur SEQ"
   href="https://www.e-service.admin.ch/validator/upload/all/fr"
   target="_blank"
   outlined="true"
@@ -41,7 +41,7 @@ Le validateur de l'administration fédérale suisse vous permet <br class="hide-
 %}}
 {{< picture "qes-erklaert" 122 >}}
 {{% richtext %}}
-**Qu'est-ce que la signature <br class="hide-for-mobile">électronique qualifiée (QES)?**
+**Qu'est-ce que la signature <br class="hide-for-mobile">électronique qualifiée (SEQ)?**
 {{% /richtext %}}
 {{% /cta %}}
 

@@ -12,7 +12,7 @@ og_image: og/og-skribble-identification.jpg
 {{% content %}}
 {{% heading %}}
 # Elektronische Signatur für Anwälte
-Über Skribble signiertst du ohne USB-Stick oder Card-Reader <br class="hide-for-mobile">mit dem höchsten verfügnaren E-Signatur-Standard (QES).
+Über Skribble signierst du ohne USB-Stick oder Card-Reader <br class="hide-for-mobile">mit dem höchsten verfügbaren E-Signatur-Standard (QES).
 {{% /heading %}}
 {{< picture vertical-lawyer-main 560 "Man erledigt verschiedene Vertragprozesse" >}}
 {{% /content %}}
@@ -45,7 +45,7 @@ Digitale Unterschriftsmappe: Sammle deine Verträge digital und signiere sie gle
 
 {{% /richtext %}}
 {{< picture batch-process 380 "Ein Stappel Dokumente werden mit einem Klick signiert" >}}
-{{< /side-by-side >}} 
+{{< /side-by-side >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
@@ -91,12 +91,12 @@ Bei gewohnten Tools bleiben: Signiere direkt über den Browser oder aus deiner b
 Du signierst rechtsgültig und sicher gemäss folgenden Erfordernissen:
 {{% /heading %}}
 
-{{% collapsible 1 "Schriftlichkeitserfordernis gemäss OR/eIDAS" "check" %}}
-Skribble basiert auf der qualifizierten elektronischen Signatur (QES). <br class="hide-for-mobile">Diese ist der handschriftlichen Unterschrift vor Schweizer und EU-Gesetz gleichgestellt.
+{{% collapsible 1 "E-Signatur-Standards QES und FES gemäss ZertES/eIDAS" "check" %}}
+Skribble arbeitet ausschliesslich mit gesetzlich definierten E-Signatur-Standards: Die qualifizierte elektronische Signatur (QES) und die fortgeschrittene elektronische Signatur (FES).
 {{% /collapsible %}}
 
-{{% collapsible 2 "Qualifizierte elektronische Signatur (QES) gemäss ZertES/eIDAS " "check" %}}
-Skribble bezieht die QES von Swisscom, einer staatlich anerkannten Anbieterin elektronischer Zertifikate nach ZertES und eIDAS.
+{{% collapsible 2 "Schriftlichkeitserfordernis gemäss OR/BGB" "check" %}}
+Die auf Skribble verfügbare qualifizierte elektronische Signatur (QES) ist der handschriftlichen Signatur gleichgestelt gemäss nationalen Gesetzgebungen in der Schweizer und der EU (z.B. OR in der Schweiz oder BGB in Deutschland).
 {{% /collapsible %}}
 
 {{% collapsible 3 "Datenschutz gemäss DSG/DSGVO" "check" %}}
@@ -106,25 +106,33 @@ Skribble sowie Partner verwalten ihre Daten gemäss dem Bundesgesetz über den D
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{% cta
-  label="Mehr erfahren"
-  href="de/qes-erklaert"
-  outlined="true"
-%}}
+{{% content %}}
+{{% heading %}}
+# Mit Skribble maximierst du <br class="hide-for-mobile">die Beweiskraft deiner Signatur
+Das Gesetz unterscheidet zwischen der qualifizierten E-Signatur (QES) <br class="hide-for-mobile">und der fortgeschrittenen E-Signatur (FES).
+Die beiden Standards <br class="hide-for-mobile">variieren punkto Einsatzgebiet und Beweiskraft.
+{{% /heading %}}
 
-{{< picture qes-erklaert 122 "Signiert mit Skribble bedeutet rechtsgültig (QES) signiert nach Schweizer und EU-Gesetz." >}}
-
-{{% richtext %}}
-**Warum erfüllt die qualifizierte elektronische Signatur (QES) – den rechtlichen Standard?**<br>
-{{% /richtext %}}
-{{% /cta %}}
+{{< picture beweiskraft 664 "Ein Mann unterschreibt mit einem Füller digitale Dokumente nach Schweizer und Europäischen Recht" >}}
+{{% /content %}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
+{{% cta
+  label="Erfahre mehr"
+  href="/de/signaturstandards/"
+  outlined="true"
+%}}
+
+{{% richtext %}}
+**Auf Skribble kannst du zwischen <br class="hide-for-mobile">den Signaturstandards FES und QES wählen.**<br>
+{{% /richtext %}}
+{{% /cta %}}
+
 {{% content %}}
 {{% heading %}}
-# In wenigen Minuten bereit <br class="hide-for-mobile">zum Signieren
-Du benötigst nur ein Mobiltelefon und ein gültiges Reisedokument <br class="hide-for-mobile">(Pass oder Identitätskarte).
+# Lass dich identifizieren
+Damit schaltest du den höchsten verfügbaren E-Signatur-Standard QES frei. <br class="hide-for-mobile">Du benötigst nur ein gültiges Reisedokument (ID oder Pass).
 {{% /heading %}}
 {{< picture "create-identity" 385 "Eine Lupe vergrössert das Bild einer Frau in einem Pass" >}}
 &nbsp;
@@ -132,14 +140,13 @@ Du benötigst nur ein Mobiltelefon und ein gültiges Reisedokument <br class="hi
 
 {{% cta
   label="Termin vereinbaren"
-  href="https://help.skribble.com/meetings/patrick182/identifikation-bei-skribble"
-  target="_blank"
+  href="/de/qes-freischalten/"
+
 %}}
 {{% richtext %}}
 **Wähle einen Termin <br class="hide-for-mobile">aus und lass dich identifizieren**
 {{% /richtext %}}
 {{% /cta %}}
-
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
 {{< testimonial "testimonial/procivis-146w.png" "Daniel Gasteiger, Gründer und CEO von Procivis (eID+)" >}}

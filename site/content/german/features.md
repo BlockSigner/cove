@@ -44,7 +44,7 @@ Mit Skribble signierst du nicht nur rechtsgültig, sondern auch einfach.
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< testimonial "testimonial/logo-fr-110w.png" "Stéphane Schwab, Leiter E-Government, Kanton Freiburg" >}}
+{{< testimonial "testimonial/fr-logo-99w.svg" "Stéphane Schwab, Leiter E-Government, Kanton Freiburg" >}}
 "Dank Skribble können wir Administrationsprozesse von A bis Z digitalisieren. Das erleichtert <br class="hide-for-mobile">den Alltag für uns und unseren Kunden." {{< /testimonial >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
@@ -67,7 +67,7 @@ Unsere Vision ist gross. Wir entwickeln Skribble Tag für Tag weiter.
 
   {{< features-item src="features/tools.svg" 
     headline="Automatisiert erinnern" 
-    description="Renne ausstehenden Signaturen nicht nach sondern versende automatisiert Erinnerungs-E-Mails.">}}
+    description="Renne ausstehenden Signaturen nicht nach, sondern versende automatisiert Erinnerungs-E-Mails.">}}
 
   {{< features-item src="features/archive.svg" 
     headline="Archivierbereit herunterladen" 

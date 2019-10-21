@@ -86,26 +86,26 @@
       </ul>
     </nav>
     <nav class="mobile-nav__secondary">
-    <ul class="mobile-nav__footer-nav">
+      <ul class="mobile-nav__footer-nav">
         {{ $currentPage := . }}
         {{ range .Site.Menus.footermobile }}
           <li><a class="{{ if eq (string (.URL | relLangURL)) $currentPage.RelPermalink }}active{{ end }}" href="{{ .URL }}">{{ .Name }}</a></li>
         {{ end }}
       </ul>
-      <ul class="mobile-nav__lan-nav js-lang-switcher">
+      <ul class="mobile-nav__lan-nav">
         {{ $siteLanguages := .Site.Languages}}
         {{ $pageLang := .Page.Lang}}
         {{ range .Page.AllTranslations }}
-            {{ $translation := . }}
-            {{ range $siteLanguages }}
-                {{ if eq $translation.Lang .Lang }}
-                  {{ if eq $pageLang .Lang}}
-                    <li><a href="{{ $translation.URL }}" class="active language" data-lang="{{.Lang}}"><img class="mobile-nav__lan-flag" src="flags/{{ .Params.flagCode }}.svg" alt="{{ .Params.flagCode }} Flag">{{ .LanguageName }}</a></li>
-                  {{ else }}
-                    <li><a href="{{ $translation.URL }}" data-lang="{{.Lang}}"><img class="mobile-nav__lan-flag" src="flags/{{ .Params.flagCode }}.svg" alt="{{ .Params.flagCode }} Flag">{{ .LanguageName }}</a></li>
-                  {{ end }}
+          {{ $translation := . }}
+          {{ range $siteLanguages }}
+              {{ if eq $translation.Lang .Lang }}
+                {{ if eq $pageLang .Lang}}
+                  <li><a href="{{ $translation.URL }}" class="active language"><img class="mobile-nav__lan-flag" src="flags/{{ .Params.flagCode }}.svg" alt="{{ .Params.flagCode }} Flag">{{ .LanguageName }}</a></li>
+                {{ else }}
+                  <li><a href="{{ $translation.URL }}"><img class="mobile-nav__lan-flag" src="flags/{{ .Params.flagCode }}.svg" alt="{{ .Params.flagCode }} Flag">{{ .LanguageName }}</a></li>
                 {{ end }}
-            {{ end }}
+              {{ end }}
+          {{ end }}
         {{ end }}
       </ul>
       <a href="{{ $.Site.Params.header.tryItOut.href }}" class="btn mobile-nav__btn">{{ $.Site.Params.header.tryItOut.label }}</a>

@@ -14,13 +14,13 @@ og_image: og/og-skribble-identification.jpg
 # Skribble Integration
 With Skribble, you choose a cloud platform that combines <br class="hide-for-mobile">technological security with simplicity.
 {{% /heading %}}
+{{% /content %}}
 
 {{< picture integration-visual 494 "Skribble plattform - user interface" >}}
 
 {{% heading %}}
-## Use Skribble via your browser or integrate the platform <br class="hide-for-mobile">into your existing software environment via API
+### Use Skribble via your browser or integrate the platform <br class="hide-for-mobile">into your existing software environment via API
 {{% /heading %}}
-{{% /content %}}
 {{< features-container >}}
 
  {{< features-item src="integrations/api.svg" 

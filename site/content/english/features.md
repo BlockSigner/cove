@@ -45,7 +45,7 @@ With Skribble you not only sign legally, but also with ease.
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< testimonial "testimonial/logo-fr-110w.png" "Stéphane Schwab, Head of E-Government, Canton of Fribourg" >}}
+{{< testimonial "testimonial/fr-logo-99w.svg" "Stéphane Schwab, Head of E-Government, Canton of Fribourg" >}}
 "Thanks to Skribble, we can digitize administrative processes from A to Z. <br class="hide-for-mobile">This makes everyday life easier for <br class="hide-for-mobile">us and our customers." {{< /testimonial >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
@@ -67,8 +67,8 @@ Our vision is great. We develop Skribble day by day.
     description="Sign from your existing systems, e.g. Google Drive, One Drive, Drop Box or Secure Safe.">}}
 
   {{< features-item src="features/tools.svg" 
-    headline="Confirm with mobile phone" 
-    description="Confirm the signature via Mobile ID or one-time passowrd (OTP) – no additional hardware required.">}}
+    headline="Automatic reminders" 
+    description="Don't chase after outstanding signatures - send automated reminder e-mails instead.">}}
 
   {{< features-item src="features/archive.svg" 
     headline="Automatic reminders" 

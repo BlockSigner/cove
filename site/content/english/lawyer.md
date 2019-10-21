@@ -91,12 +91,12 @@ Stay with familiar tools: Sign directly via your browser or from your existing s
 You sign with legal effect and securely in accordance <br class="hide-for-mobile">with the following requirements:
 {{% /heading %}}
 
-{{% collapsible 1 "Requirement of written form according to OR/eIDAS" "check" %}}
-Skribble is based on the qualified electronic signature (QES). The QES is equivalent to a handwritten signature according to Swiss and EU law.
+{{% collapsible 1 "E-signature standards QES and AES according to ZertES/eIDAS" "check" %}}
+Skribble works exclusively with legally defined e-signature standards: The qualified electronic signature (QES) and the advanced electronic signature (AES).
 {{% /collapsible %}}
 
-{{% collapsible 2 "Qualified electronic signature according to ZertES/eIDAS" "check" %}}
-Skribble obtains QES from Swisscom, a provider of electronic certificates recognised under ZertES and eIDAS.
+{{% collapsible 2 "Requirement of written form according to OR/BGB" "check" %}}
+The qualified electronic signature (QES) available on Skribble is equivalent to the handwritten signature before national laws in Switzerland and the EU (e.g. OR in Switzerland or BGB in Germany).
 {{% /collapsible %}}
 
 {{% collapsible 3 "Data protection according to FADP/GDPR" "check" %}}
@@ -106,26 +106,35 @@ Skribble and its signing partner Swisscom commit to manage data in accordance wi
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
+{{% content %}}
+{{% heading %}}
+# Use Skribble to maximise the legal weight of your signature
+The law distinguishes between qualified e-signatures (QES) <br class="hide-for-mobile">and advanced e-signatures (AES). 
+The two standards vary in terms of area <br class="hide-for-mobile">of application and legal weight. 
+{{% /heading %}}
+{{< picture legal_weight 664 "Legal-weight" >}}
+{{% richtext %}}
+{{% /heading %}}
+{{% /content %}}
+
 {{% cta
   label="Learn more"
-  href="qes-explained"
-  target="_blank"
+  href="/signaturestandards/"
   outlined="true"
 %}}
 
-{{< picture qes-erklaert 122 "Signed with Skribble means legally signed according to Swiss and EU law." >}}
-
 {{% richtext %}}
-**Why does the qualified electronic signature (QES) sets a digital standard by the law?**<br>
+**At Skribble you have the choice <br class="hide-for-mobile">between the signature standards AES and QES.**<br>
 {{% /richtext %}}
 {{% /cta %}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
+
 {{% content %}}
 {{% heading %}}
-# Ready to sign <br class="hide-for-mobile">in a few minutes
-All you need is a mobile phone and a valid travel document <br class="hide-for-mobile">(Valid passport or identity card).
+# Get identified
+This will unlock the highest e-signature standard available – QES. <br class="hide-for-mobile">All you need is a valid travel document (ID or passport).                                
 {{% /heading %}}
 {{< picture "create-identity" 385 "A magnifying glass enlarges the image of a woman in a passport" >}}
 &nbsp;
@@ -133,8 +142,7 @@ All you need is a mobile phone and a valid travel document <br class="hide-for-m
 
 {{% cta
   label="Schedule an appointment"
-  href="https://help.skribble.com/meetings/patrick182/skribble-id-zurich"
-  target="_blank"
+  href="enable-qes"
 %}}
 {{% richtext %}}
 **Make an appointment<br>and get identified**

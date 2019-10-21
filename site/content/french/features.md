@@ -44,7 +44,7 @@ Avec Skribble, votre signature est non seulement <br class="hide-for-mobile">lé
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< testimonial "testimonial/logo-fr-110w.png" "Stéphane Schwab – canton de Fribourg" >}}
+{{< testimonial "testimonial/fr-logo-99w.svg" "Stéphane Schwab – canton de Fribourg" >}}
 "Grâce à Skribble, nous pouvons numériser les processus administratifs de A à Z. <br class="hide-for-mobile">Cela facilite notre vie quotidienne et celle de nos clients." {{< /testimonial >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)

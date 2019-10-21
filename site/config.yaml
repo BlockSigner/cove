@@ -17,23 +17,23 @@ languages:
           weight: 5
           identifier: plattform
         - name: Angebot
-          url: "de/angebot/"
+          url: "/de/angebot/"
           weight: 10
           parent: plattform
         - name: Features
-          url: "de/features/"
+          url: "/de/features/"
           weight: 15
           parent: plattform
         - name: Integrationen
-          url: "de/integrationen/"
+          url: "/de/integrationen/"
           weight: 20
           parent: plattform
         - name: Identifikation
           url: "/de/identifikation/"
           weight: 25
           parent: plattform
-        - name: Identitätsprüfung
-          url: "de/identitaetspruefung/"
+        - name: QES freischalten
+          url: "/de/qes-freischalten/"
           weight: 30
           parent: plattform
         # Solutions dropdown
@@ -42,15 +42,15 @@ languages:
           weight: 15
           identifier: solutions
         - name: HR
-          url: "de/hr/"
+          url: "/de/hr/"
           weight: 10
           parent: solutions
         - name: Anwälte
-          url: "de/anwaelte/"
+          url: "/de/anwaelte/"
           weight: 15
           parent: solutions
         - name: Preise
-          url: "de/preise/"
+          url: "/de/preise/"
           weight: 20
       footer1:
         - name: Angebot
@@ -100,11 +100,18 @@ languages:
           weight: 20
       meta:
         - name: Datenschutzbestimmungen
-          url: /de/datenschutz
+          url: /de/datenschutz/
           weight: 10
         - name: Impressum
-          url: /de/impressum
+          url: /de/impressum/
           weight: 15
+      footermobile:
+        - name: Impressum
+          url: /de/impressum/
+          weight: 5
+        - name: Datenschutzbestimmungen
+          url: /de/datenschutz/
+          weight: 10
     header:
       login:
         label: Login
@@ -121,7 +128,7 @@ languages:
         text: Lass dich identifzieren und schalte den höchsten E-Signatur-Standard frei.
         button:
           label: Identifizieren lassen
-          href: https://help.skribble.com/meetings/patrick182/identifikation-bei-skribble
+          href: /de/qes-freischalten/
       rightSlot:
         title: Demo vereinbaren?
         text: Wir kommen gerne persönlich vorbei um dir Skribble zu zeigen.
@@ -155,19 +162,19 @@ languages:
           weight: 10
           parent: platform
         - name: Features
-          url: "features/"
+          url: "/features/"
           weight: 15
           parent: platform
         - name: Integrations
-          url: "integrations/"
+          url: "/integrations/"
           weight: 20
           parent: platform
         - name: Identification
           url: "/identification/"
           weight: 25
           parent: platform
-        - name: Identify
-          url: "/identify/"
+        - name: Enable QES
+          url: "/enable-qes/"
           weight: 30
           parent: platform
         # Solutions dropdown
@@ -240,11 +247,11 @@ languages:
           url: /imprint/
           weight: 15
       footermobile:
-        - name: Impressum
-          url: /impressum/
+        - name: Imprint
+          url: /imprint/
           weight: 5
-        - name: Data Protection
-          url: /dataprotection/
+        - name: Privacy Policy
+          url: /privacy/
           weight: 10
     header:
       login:
@@ -262,7 +269,7 @@ languages:
         text: Get identified and unlock the highest e-signature standard.
         button:
           label: Get identified
-          href: https://help.skribble.com/meetings/patrick182/skribble-id-zurich
+          href: /enable-qes/
       rightSlot:
         title: Do you want to schedule a demo session?
         text: We are pleased to come by to introduce you to Skribble.
@@ -296,46 +303,48 @@ languages:
           weight: 10
           parent: platform
         - name: Fonctionnalités
-          url: "fr/fonctionnalites/"
+          url: "/fr/fonctionnalites/"
           weight: 15
           parent: platform
         - name: Integrations
-          url: "fr/integrations/"
+          url: "/fr/integrations/"
           weight: 20
           parent: platform
         - name: Identification
           url: "/fr/identification/"
           weight: 25
           parent: platform
-        - name: Identifions
-          url: "fr/identifions/"
+        - name: Débloquez QES
+          url: "/fr/debloquez-qes/"
           weight: 30
           parent: platform
         # Solutions dropdown
         - name: Solutions
           url: "#"
-          weight: 15
+          weight: 10
           identifier: solutions
         - name: RH
-          url: "fr/ressources-humaines/"
-          weight: 10
+          url: "/fr/ressources-humaines/"
+          weight: 15
           parent: solutions
         - name: Juristes
           url: "/fr/juristes/"
-          weight: 15
+          weight: 20
           parent: solutions
         - name: Contact
           url: "/fr/contact/"
-          weight: 20
+        - name: Prix
+          url: "/fr/prix/"
+          weight: 25
       footer1:
         - name: Offre
           url: /fr/offre/
           weight: 5
         - name: Fonctionnalités
-          url: "fr/fonctionnalites/"
+          url: "/fr/fonctionnalites/"
           weight: 10
         - name: Integrations
-          url: "fr/integrations/"
+          url: "/fr/integrations/"
           weight: 15
         - name: Identification
           url: /fr/identification/
@@ -376,11 +385,18 @@ languages:
 
       meta:
         - name: Politique de Confidentialité
-          url: /fr/politique-de-confidentialite
+          url: /fr/politique-de-confidentialite/
           weight: 10
         - name: Impressum
-          url: /fr/impressum
+          url: /fr/impressum/
           weight: 15
+      footermobile:
+        - name: Impressum
+          url: /fr/impressum/
+          weight: 5
+        - name: Politique de Confidentialité
+          url: /fr/politique-de-confidentialite/
+          weight: 10
     header:
       login:
         label: Login
@@ -397,7 +413,7 @@ languages:
         text: Identifiez-vous et débloquez le standard de signature électronique le plus élevé.
         button:
           label: S'identifier
-          href: https://help.skribble.com/meetings/patrick182/identification-chez-skribble
+          href: /fr/debloquez-qes/
       rightSlot:
         title: Organiser une démonstration?
         text: Nous passons volontiers en personne afin de vous présenter Skribble.

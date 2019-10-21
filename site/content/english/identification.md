@@ -131,25 +131,6 @@ Suitable if new signees are constantly being added.
 {{% /richtext %}}
 {{% /cta %}}
 
-{{% content %}}
-{{% heading %}}
-# Would you like to sign <br class="hide-for-mobile">in a qualified manner electronically <br class="hide-for-mobile">as a private individual?
-Skribble can easily be used outside the company context. <br class="hide-for-mobile">If you do not yet have an E-ID, we will be happy to identify you. <br class="hide-for-mobile">It only takes a few minutes.
-{{% /heading %}}
-{{< picture individual-signing 448 "The identity of a woman standing in a mobile phone is verified by two people" >}}
-&nbsp;
-{{% /content %}}
-
-{{% cta
-  label="Get E-ID now"
-  href="enable-qes"
-%}}
-{{% richtext %}}
-**Learn more about how to get <br class="hide-for-mobile">your E-ID in a few minutes!**
-{{% /richtext %}}
-{{% /cta %}}
-
-
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
 {{< outro >}}

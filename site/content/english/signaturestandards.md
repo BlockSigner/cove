@@ -9,7 +9,7 @@ slug: signaturestandards
 {{% content %}}
 {{% heading %}}
 # How much legal weight <br class="hide-for-mobile">do you need?
-The law distinguishes between qualified e-signatures (QES) <br class="hide-for-mobile">and advanced e-signatures (AES). 
+The law distinguishes between qualified e-signatures (QES) <br class="hide-for-mobile">and advanced e-signatures (AES).
 The two standards vary in terms of area <br class="hide-for-mobile">of application and legal weight. At Skribble you have the choice.
 {{% /heading %}}
 {{< picture legal_weight 664 "Legal-weight" >}}
@@ -25,8 +25,8 @@ The all-round carefree signature for the highest demands
 
 {{% richtext %}}
 **The qualified electronic signature (QES) is legally equal to the handwritten signature.**<br>
-You use QES to maximise the legal weight of your contracts or when the law requires it to be in writing. 
-The latter applies, for example, to loan or wage agreements with a competition clause. 
+You use QES to maximise the legal weight of your contracts or when the law requires it to be in writing.
+The latter applies, for example, to loan or wage agreements with a competition clause.
 For signing with QES on Skribble, a prior identity check in personal contact or an e-ID is required.
 {{% /richtext %}}
 {{% /content %}}
@@ -78,31 +78,31 @@ Check whether a document has been signed with QES
 Instantly operational thanks to lower requirements
 {{% /heading %}}
 
-{{< picture aes-en 320 "A woman is holding an FES contract in her hand under Swiss law." >}}
+{{< picture aes-en 320 "A woman is holding an AES contract in her hand under Swiss law." >}}
 
 {{% richtext %}}
 **The advanced electronic signature (AES) is legally valid for contracts where the law does not prescribe a specific form.**<br>
-This applies to most types of contracts, such as rental, purchase or mortgage agreements. 
+This applies to most types of contracts, such as rental, purchase or mortgage agreements.
 Anyone who has a Swiss mobile phone number can start signing with AES on Skribble immediately.
 {{% /richtext %}}
 {{% /content %}}
 
 
-{{% table-dense "QES vs. FES at a glance" %}}
+{{% table-dense "QES vs. AES at a glance" %}}
 
 <thead>
 <tr>
-<th style="width: 80px;">Standard</th>
-<th style="width: 100px;">Legal weight </th>
-<th style="max-width: 100px;">Requirements</th>
-<th style="max-width: 100px;">Area of application</th>
-<th style="max-width: 100px;">Examples</th>
+<th>Standard</th>
+<th>Legal weight </th>
+<th>Requirements</th>
+<th>Area of application</th>
+<th>Examples</th>
 </tr>
 </thead>
 
 <tbody>
 <tr>
-<td style="padding-top: 12px;"><div class="icon-qes">QES</div></td>
+<td><div class="icon-qes">QES</div></td>
 <td><strong>Very high</strong></td>
 <td><ul><li>Personal identification or e-ID</li><li>Mobile phone number</li></ul></td>
 <td><ul><li>Contracts requiring the written form</li><li>Maximising the legal weight of contracts without formal requirement (risk minimisation)</li></ul></td>
@@ -110,7 +110,7 @@ Anyone who has a Swiss mobile phone number can start signing with AES on Skribbl
 </tr>
 
 <tr>
-<td style="padding-top: 12px;"><div class="icon-fes">FES</div></td>
+<td><div class="icon-fes">FES</div></td>
 <td><strong>High</strong></td>
 <td><ul><li>Swiss mobile phone number</li></ul></td>
 <td><ul><li>Contracts without formal requirement</li></ul></td>
