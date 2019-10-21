@@ -31,7 +31,7 @@ Après l'enregistrement, vous pouvez à tout moment passer <br class="hide-for-m
   title="Fair Flat" 
   description="<p>Vous signez personnellement ou obtenez plus de deux signatures par mois.</p><p class='top-spaced'>Maximum</p><p><strong>CHF <span class='large'>2.50</span> par signature</strong></p><p>jusqu'à un plafond de</p><p><strong>CHF <span class='large'>30.-</span> par mois</strong></p>" 
   caption="L'invitation de nouveau signataires coûte 2.50.– par signature."
-  button-text="Obtenir des conseils" 
+  button-text="Essayer maintenant" 
   button-link="https://my.skribble.com/signup?lang=fr" 
   subtext="Aucune obligation d'abonnement"%}}
     {{< picture fair-flat-visual 290 "" >}}
@@ -70,33 +70,33 @@ Après l'enregistrement, vous pouvez à tout moment passer <br class="hide-for-m
 
 <tbody>
 <tr>
-<td>Du signierst 2 Mal pro Monat kostenlos</td>
-<td>Du signierst mehr als 2 Mal pro Monat selbst oder holst Signaturen ein. Du hinterlegst eine Kreditkarte und bezahlst Ende Monat nur, was du tatsächlich gebraucht hast.</td>
-<td>Ihr nutzt Skribble gemeinsam in eurer Organisation. Die Nutzerverwaltung ist zentriert., abgerechnet wird einheitlich per Rechnung. Die Signaturplattform bindet ihr via API an eure eigenen Systeme an.</td>
+<td>Deux signatures gratuites par mois.</td>
+<td>Vous signez personnellement ou obtenez plus de deux signatures par mois.</td>
+<td>Vous utilisez Skribble à l'intérieur de votre organisation. L'administration des utilisateurs est centralisée.</td>
 </tr>
 
 <tr>
-<td><strong>Funktionen</strong></td>
-<td><strong>Funktionen</strong></td>
-<td><strong>Funktionen</strong></td>
+<td><strong>Fonctions</strong></td>
+<td><strong>Fonctions</strong></td>
+<td><strong>Fonctions</strong></td>
 </tr>
 
 <tr>
-<td>PDF per Drag & Drop hochladen</td>
-<td>PDF per Drag & Drop hochladen</td>
-<td>PDF per Drag & Drop hochladen</td>
+<td>Charger les PDF par cliquer-glisser</td>
+<td>Charger les PDF par cliquer-glisser</td>
+<td>Charger les PDF par cliquer-glisser</td>
 </tr>
 
 <tr>
-<td>Andere zum Signieren einladen</td>
-<td>Andere zum Signieren einladen</td>
-<td>Andere zum Signieren einladen</td>
+<td>Inviter d'autres personnes à signer</td>
+<td>Inviter d'autres personnes à signer</td>
+<td>Inviter d'autres personnes à signer</td>
 </tr>
 
 <tr>
-<td>Stapelsignatur anbringen</td>
-<td>Stapelsignatur anbringen</td>
-<td>Stapelsignatur anbringen</td>
+<td>Appliquer la signature par lots</td>
+<td>Appliquer la signature par lots</td>
+<td>Appliquer la signature par lots</td>
 </tr>
 
 <tr>
@@ -104,6 +104,115 @@ Après l'enregistrement, vous pouvez à tout moment passer <br class="hide-for-m
 <td>Signatur per Handy bestätigen</td>
 <td>Signatur per Handy bestätigen</td>
 </tr>
+
+<tr>
+<td>Confirmer la signature via mobile</td>
+<td>Confirmer la signature via mobile</td>
+<td>Confirmer la signature via mobile</td>
+</tr>
+
+<tr>
+<td></td>
+<td>Rejeter une demande de signature</td>
+<td>Rejeter une demande de signature</td>
+</tr>
+
+<tr>
+<td></td>
+<td></td>
+<td>Ajouter/supprimer des utilisateurs</td>
+</tr>
+
+<tr>
+<td></td>
+<td></td>
+<td>Affecter des utilisateurs à un modèle tarifaire</td>
+</tr>
+
+<tr>
+<td></td>
+<td></td>
+<td>Historique d'activités</td>
+</tr>
+
+<tr>
+<td></td>
+<td></td>
+<td>Connexion via API</td>
+</tr>
+
+<tr>
+<td></td>
+<td></td>
+<td>Direct Sign</td>
+</tr>
+
+<tr>
+<td><strong>Facturation</strong></td>
+<td><strong>Facturation</strong></td>
+<td><strong>Facturation</strong></td>
+</tr>
+
+<tr>
+<td>Gratuit - pas de facturation</td>
+<td>À la fin du mois, par carte de crédit</td>
+<td>À la fin du mois par carte de crédit ou sur facture</td>
+</tr>
+
+<tr>
+<td></td>
+<td>Pour les signatures propres et collectées</td>
+<td>Pour les signatures propres et collectées</td>
+</tr>
+
+<tr>
+<td></td>
+<td></td>
+<td>Facturation conjointe pour plusieurs utilisateurs</td>
+</tr>
+
+<tr>
+<td><strong>Evolution des prix</strong></td>
+<td><strong>Evolution des prix</strong></td>
+<td><strong>Evolution des prix</strong></td>
+</tr>
+
+<tr>
+<td></td>
+<td>Coûts réduits grâce à l'utilisation de la norme de signature électronique inférieure (SEA)</td>
+<td>Coûts réduits grâce à l'utilisation de la norme de signature électronique inférieure (SEA)</td>
+</tr>
+
+<tr>
+<td></td>
+<td></td>
+<td>Plus il y a de signatures, moins l'unité est chère.<br>Plus il y a de signataires, plus le forfait est avantageux</td>
+</tr>
+
+<tr>
+<td><strong>Gamme de prix</strong></td>
+<td><strong>Gamme de prix</strong></td>
+<td><strong>Gamme de prix</strong></td>
+</tr>
+
+<tr>
+<td></td>
+<td>CHF 2.00 ou CHF 2.50 par signature (TVA incluse)</td>
+<td><strong>Pay-Per-Use</strong><br>CHF 0.60 jusqu'à max. 2.50 par signature (hors TVA)</td>
+</tr>
+
+<tr>
+<td></td>
+<td></td>
+<td><strong>Flat rate</strong><br>CHF 10.- jusqu'à max. 25.- par utilisateur (hors TVA)</td>
+</tr>
+
+<tr>
+<td>Aucune carte de crédit requis<br>Compte supprimable à tout moment</td>
+<td>Aucune carte de crédit requis<br>Compte supprimable à tout moment</td>
+<td>Résiliable mensuellement ou anuellement</td>
+</tr>
+
 
 </tbody>
 

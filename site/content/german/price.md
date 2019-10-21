@@ -13,7 +13,7 @@ Skribble eignet sich sowohl für gelegentliches</br>wie auch für häufiges Sign
 {{% /heading %}}
 {{% action-card 
   title="Free" 
-  description="<p>Du signierst:</br><strong>2 Mal pro Monat kostenlos.</strong></p>" 
+  description="<p><strong>Du signierst: 2 Mal pro Monat kostenlos.</strong><br>Keine Kreditkarte notwendig.</p>" 
   button-text="Jetzt kostenlos ausprobieren" 
   button-link="https://my.skribble.com/signup?lang=de" 
   subtext="Konto jederzeit löschbar"%}}
@@ -37,12 +37,12 @@ Nach dem Registrieren kannst du jederzeit auf </br> eines der folgenden Modelle 
 
 
 {{% heading %}}
-## oder
+## Oder
 {{% /heading %}}
 
 {{% action-card 
   title="Business" 
-  description="<p>Ihr nutzt Skribble gemeinsam in eurer Organisation. Die Nutzerverwaltung ist zentriert</p>"
+  description="<p>Ihr nutzt Skribble gemeinsam in eurer Organisation. Die Nutzerverwaltung ist zentriert.</p>"
   has-comparison="true"
   comparison-title="Wähle für jeden Kontext das passende Modell:"
   comparison-first="<p><strong>Pay-Per-Use</strong></p><p>Für Mitarbeitende, die <strong>weniger</strong> als 12 Mal pro Monat signieren und für Firmen-Externe.</p><p class='top-spaced'>Maximal</p><p><strong>CHF <span class='large'>2.50</strong></span></p><p>pro Signatur</p>"
@@ -119,7 +119,7 @@ Nach dem Registrieren kannst du jederzeit auf </br> eines der folgenden Modelle 
 <tr>
 <td></td>
 <td></td>
-<td>Nutzer hinzufügen/ entfernen</td>
+<td>Nutzer hinzufügen/entfernen</td>
 </tr>
 
 <tr>
@@ -154,7 +154,7 @@ Nach dem Registrieren kannst du jederzeit auf </br> eines der folgenden Modelle 
 
 <tr>
 <td>Kostenlos - keine Abrechnung</td>
-<td>Ende Monat per Kreditkarte </td>
+<td>Ende Monat per Kreditkarte</td>
 <td>Ende Monat per Kreditkarte oder Rechnung</td>
 </tr>
 
@@ -185,13 +185,7 @@ Nach dem Registrieren kannst du jederzeit auf </br> eines der folgenden Modelle 
 <tr>
 <td></td>
 <td></td>
-<td>Je mehr Signaturen, desto günstiger das Stück</td>
-</tr>
-
-<tr>
-<td></td>
-<td></td>
-<td>Je mehr Flat-Nutzer, desto günstiger die Flatrate</td>
+<td>Je mehr Signaturen, desto günstiger das Stück<br>Je mehr Flat-Nutzer, desto günstiger die Flatrate</td>
 </tr>
 
 <tr>
@@ -217,7 +211,6 @@ Nach dem Registrieren kannst du jederzeit auf </br> eines der folgenden Modelle 
 <td>Keine Abonnementsverpflichtungen<br>Konto jederzeit löschbar</td>
 <td>Monatlich oder jährlich kündbar</td>
 </tr>
-
 
 </tbody>
 

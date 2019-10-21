@@ -134,7 +134,7 @@ After registering, you can switch to one of the following plans at any time:
 <tr>
 <td></td>
 <td></td>
-<td>Assign user to plan </td>
+<td>Assign user to plan</td>
 </tr>
 
 
@@ -164,7 +164,7 @@ After registering, you can switch to one of the following plans at any time:
 
 <tr>
 <td>Free of charge - no billing</td>
-<td>At the end of the month by credit card </td>
+<td>At the end of the month by credit card</td>
 <td>At the end of the month by credit card or invoice</td>
 </tr>
 
@@ -195,13 +195,7 @@ After registering, you can switch to one of the following plans at any time:
 <tr>
 <td></td>
 <td></td>
-<td>The more signatures, the cheaper the unit price</td>
-</tr>
-
-<tr>
-<td></td>
-<td></td>
-<td>The more users, the lower the flat rate</td>
+<td>The more signatures, the cheaper the unit price.<br>The more users, the lower the flat rate.</td>
 </tr>
 
 <tr>
