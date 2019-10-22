@@ -9,7 +9,7 @@ description: Privacy policy meta description
 {{% richtext %}}
 # Datenschutz&shy;bestimmungen
 
-<small>Datum des Inkrafttretens: 21. Oktober 2019</small>
+<small>Datum des Inkrafttretens: 22. Oktober 2019</small>
 
 Skribble AG ("wir", "uns", "unser" usw.) betreibt die Website <a href="https://www.skribble.com" target="_blank">www.skribble.com</a> (nachstehend als "Dienst" bezeichnet).
 
