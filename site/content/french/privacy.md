@@ -9,7 +9,7 @@ description: Politique de Confidentialité méta-description
 {{% richtext %}}
 # Politique de Confidentialité
 
-<small>Date de prise d'effet: October 21, 2019</small>
+<small>Date de prise d'effet: October 22, 2019</small>
 
 <p class="lead">Skribble SA ("nous", "notre", "nos") exploite le site web <a href="https://www.skribble.com" target="_blank">www.skribble.com</a> (ci-après désigné par le terme "Service").</p>
 
