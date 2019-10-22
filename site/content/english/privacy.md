@@ -137,7 +137,7 @@ Skribble AG may disclose your Personal Data in the good faith belief that such a
 The security of your data is important to us but remember that no method of transmission over the Internet or method of electronic storage is 100% secure. While we strive to use commercially acceptable means to protect your Personal Data, we cannot guarantee its absolute security.
 
 ## Our Policy on "Do Not Track" Signals under the California Online Protection Act (CalOPPA)
-We do not support Do Not Track ("DNT"). Do Not Track is a preference you can set in your web browser to inform websites that you do not want to be tracked. You can enable or disable Do Not Track by visiting the Preferences or Settings page of your web browser. Your Data Protection Rights under the General Data Protection Regulation (GDPR).
+We do not support Do Not Track ("DNT"). Do Not Track is a preference you can set in your web browser to inform websites that you do not want to be tracked. You can enable or disable Do Not Track by visiting the Preferences or Settings page of your web browser.
 
 ## Your Data Protection Rights under the General Data Protection Regulation (GDPR)
 If you are a resident of the European Economic Area (EEA), you have certain data protection rights. Skribble AG aims to take reasonable steps to allow you to correct, amend, delete or limit the use of your Personal Data.
@@ -169,9 +169,6 @@ We may use third-party Service Providers to monitor and analyse the use of our S
 Google Analytics is a web analytics service offered by Google that tracks and reports website traffic. Google uses the data collected to track and monitor the use of our Service. This data is shared with other Google services. Google may use the collected data to contextualise and personalise the ads of its own advertising network.
 You can opt-out of having made your activity on the Service available to Google Analytics by installing the Google Analytics opt-out browser add-on. The add-on prevents the Google Analytics JavaScript (ga.js, analytics.js and dc.js) from sharing information with Google Analytics about visits activity.
 For more information on the privacy practices of Google, please visit the Google Privacy Terms web page: <a href="https://policies.google.com/privacy?hl=en" rel="noopener" target="_blank">policies.google.com/privacy?hl=en</a>
-
-## Piwik / Matomo
-Piwik or Matomo is a web analytics service. You can visit their Privacy Policy page here: <a href="https://matomo.org/privacy-policy" rel="noopener" target="_blank">matomo.org/privacy-policy</a>
 
 ## Behavioral Remarketing
 Skribble AG uses remarketing services to advertise on third party websites to you after you visited our Service. We and our third-party vendors use cookies to inform, optimise and serve ads based on your past visits to our Service.
