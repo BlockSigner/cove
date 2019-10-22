@@ -167,9 +167,6 @@ Google Analytics ist ein von Google angebotener Web-Analytics-Dienst, der Zugrif
 Sie können die Übertragung Ihrer Aktivität innerhalb unseres Dienstes an Google Analytics abschalten, indem Sie das Browser-Add-on zur Deaktivierung von Google Analytics installieren. Das Add-on verhindert eine Datenübertragung an Google Analytics zu Besuchen bzw. Aktivität über das JavaScript von Google Analytics (ga.js, analytics.js und dc.js).
 Weitere Informationen zu den Datenschutzmaßnahmen von Google können Sie auf Googles Webseite zu seinen Datenschutzbestimmungen (Privacy Terms) einsehen: <a href="https://policies.google.com/privacy?hl=de" rel="noopener" target="_blank">policies.google.com/privacy?hl=de</a>
 
-### Piwik / Matomo
-Piwik oder Matomo ist ein Web-Analytics-Dienst. Die Datenschutz-Richtlinie (Privacy Policy) des Anbieters kann unter folgendem Link eingesehen werden: <a href="https://matomo.org/privacy-policy" rel="noopener" target="_blank">matomo.org/privacy-policy</a>
-
 ## Verhaltensbasierte Wiedervermarktung
 Skribble AG setzt Wiedervermarktungsdienste ein, um Ihnen auf Websites Dritter Werbung anzuzeigen, nachdem Sie unseren Dienst besucht haben. Wir und unsere Drittanbieter setzen Cookies ein, um Werbung auf Grundlage Ihrer früheren Besuche innerhalb unseres Dienstes zu erstellen, zu optimieren und anzuzeigen.
 
