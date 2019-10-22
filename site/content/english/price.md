@@ -14,10 +14,10 @@ Skribble is suitable for both occasional and frequent signing.
 {{% /heading %}}
 {{% action-card 
   title="Free" 
-  description="<p><strong>You can sign or request a signature twice per month free of charge.</strong> <br>No credit card required.</p>" 
+  description="<p>You can sign or request a signature <strong>twice per month free of charge.</strong></p>" 
   button-text="Try it now" 
   button-link="https://my.skribble.com/signup" 
-  subtext="Your account can be deleted at any time"%}}
+  subtext="Your account can be deleted at any time. No credit card required."%}}
     {{< picture free-visual 232 "" >}}
 {{% /action-card %}}
 
@@ -28,7 +28,7 @@ After registering, you can switch to one of the following plans at any time:
 
 {{% action-card 
   title="Fair Flat" 
-  description="<p>You sign or request more than two signatures per month.</p><p class='top-spaced'>Maximum</p><p><strong>CHF <span class='large'>2.50</span> pro Signatur</strong></p><p>up to a maximum of</p><p><strong>CHF <span class='large'>30.-</span> per month</strong></p>" 
+  description="<p>You sign or request <strong>more than two signatures per month.</strong></p><p class='top-spaced'>Maximum</p><p><strong>CHF <span class='large'>2.50</span> pro Signatur</strong></p><p>up to a maximum of</p><p><strong>CHF <span class='large'>30.-</span> per month</strong></p>" 
   caption="If you invite others to sign, another 2.50 per signature request will be added."
   button-text="Try it now"
   button-link="https://my.skribble.com/signup" 

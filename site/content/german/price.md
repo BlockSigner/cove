@@ -13,10 +13,10 @@ Skribble eignet sich sowohl für gelegentliches</br>wie auch für häufiges Sign
 {{% /heading %}}
 {{% action-card 
   title="Free" 
-  description="<p><strong>Du signierst: 2 Mal pro Monat kostenlos.</strong><br>Keine Kreditkarte notwendig.</p>" 
+  description="<p>Du signierst:<br><strong>2 Mal pro Monat kostenlos.</strong></p>" 
   button-text="Jetzt kostenlos ausprobieren" 
   button-link="https://my.skribble.com/signup?lang=de" 
-  subtext="Konto jederzeit löschbar"%}}
+  subtext="Konto jederzeit löschbar. Keine Kreditkarte notwendig."%}}
     {{< picture free-visual 232 "" >}}
 {{% /action-card %}}
 

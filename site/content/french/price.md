@@ -15,10 +15,10 @@ Skribble convient tant aux signatures occasionnelles <br class="hide-for-mobile"
 {{% /heading %}}
 {{% action-card 
   title="Free" 
-  description="<p><strong>Deux signatures gratuites par mois.</strong><br> Aucune carte de crédit requis.</p>" 
+  description="<p><strong>Deux signatures gratuites par mois.</strong><br></p>" 
   button-text="Essayer maintenant" 
   button-link="https://my.skribble.com/signup?lang=fr" 
-  subtext="Le compte peut être supprimé à tout moment"%}}
+  subtext="Le compte peut être supprimé à tout moment. Aucune carte de crédit requis."%}}
     {{< picture free-visual 232 "" >}}
 {{% /action-card %}}
 
@@ -29,7 +29,7 @@ Après l'enregistrement, vous pouvez à tout moment passer <br class="hide-for-m
 
 {{% action-card 
   title="Fair Flat" 
-  description="<p>Vous signez personnellement ou obtenez plus de deux signatures par mois.</p><p class='top-spaced'>Maximum</p><p><strong>CHF <span class='large'>2.50</span> par signature</strong></p><p>jusqu'à un plafond de</p><p><strong>CHF <span class='large'>30.-</span> par mois</strong></p>" 
+  description="<p>Vous signez personnellement ou obtenez <strong>plus de deux signatures par mois.</strong></p><p class='top-spaced'>Maximum</p><p><strong>CHF <span class='large'>2.50</span> par signature</strong></p><p>jusqu'à un plafond de</p><p><strong>CHF <span class='large'>30.-</span> par mois</strong></p>" 
   caption="L'invitation de nouveau signataires coûte 2.50.– par signature."
   button-text="Essayer maintenant" 
   button-link="https://my.skribble.com/signup?lang=fr" 
