@@ -9,7 +9,7 @@ description: Privacy policy meta description
 {{% richtext %}}
 # Privacy Policy
 
-<small>Effective date: October 21, 2019</small>
+<small>Effective date: October 22, 2019</small>
 
 <p class="lead">Skribble AG ("us", "we", or "our") operates the <a href="https://www.skribble.com" target="_blank">www.skribble.com</a> website (hereinafter referred to as the "Service").</p>
 
