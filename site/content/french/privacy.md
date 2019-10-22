@@ -164,9 +164,6 @@ Vous pouvez empêcher que vos activités dans le cadre du Service ne soient mise
 
 Pour plus de précisions sur les pratiques de confidentialité de Google, merci de consulter la page web Protection de la vie privée et conditions de Google: <a href="https://policies.google.com/privacy?hl=fr" rel="noopener" target="_blank">policies.google.com/privacy?hl=fr</a>
 
-### Piwik / Matomo
-Piwik or Matomo est un service d'analyse web. Vous pouvez consulter leur politique de confidentialité ici: <a href="https://matomo.org/privacy-policy" rel="noopener" target="_blank">matomo.org/privacy-policy</a>
-
 ## Remarketing comportemental
 Skribble AG fait appel à des services de remarketing pour vous présenter des annonces sur des sites de tiers après que vous ayez consulté notre Service. Nous et nos fournisseurs tiers utilisons des cookies pour façonner, optimiser et diffuser des annonces en fonction de votre fréquentation antérieure de notre Service.
 
