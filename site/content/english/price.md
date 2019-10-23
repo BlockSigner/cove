@@ -28,11 +28,11 @@ After registering, you can switch to one of the following plans at any time:
 
 {{% action-card 
   title="Fair Flat" 
-  description="<p>You sign or request <strong>more than two signatures per month.</strong></p><p class='top-spaced'>Maximum</p><p><strong>CHF <span class='large'>2.50</span> pro Signatur</strong></p><p>up to a maximum of</p><p><strong>CHF <span class='large'>30.-</span> per month</strong></p>" 
+  description="<p>You sign or request <strong>more than two signatures per month.</strong></p><p class='top-spaced'>Maximum</p><p><strong>CHF <span class='large'>2.50</span> per signature</strong></p><p>up to a maximum of</p><p><strong>CHF <span class='large'>30.-</span> per month</strong></p>" 
   caption="If you invite others to sign, another 2.50 per signature request will be added."
   button-text="Try it now"
   button-link="https://my.skribble.com/signup" 
-  subtext="No subscription commitment"%}}
+  subtext="No subscription commitment. The first two signatures are free each month."%}}
     {{< picture fair-flat-visual 290 "" >}}
 {{% /action-card %}}
 
@@ -45,14 +45,14 @@ After registering, you can switch to one of the following plans at any time:
   title="Business" 
   description="<p>You use Skribble in your organisation. The user administration is centrally located.</p>"
   has-comparison="true"
-  comparison-title="Choose the right plan for each context:"
+  comparison-title="Choose the right plan for each signer:"
   comparison-first="<p><strong>Pay-Per-Use</strong></p><p>For employees who sign <strong>less</strong> than 12 times a month and for people external to the company.</p><p class='top-spaced'>Maximum</p><p><strong>CHF <span class='large'>2.50</strong></span></p><p>per signature</p>"
   or="Or"
   comparison-second="<p><strong>Flat rate</strong></p><p>For employees who sign <strong>more</strong> than 12 times a month.</p><br><p class='top-spaced'>Maximum</p><p><strong>CHF <span class='large'>25</strong></span></p><p>per user/month</p>"
   comparison-caption="The prices decrease significantly if you sign more or with a different standard."
   button-text="Get advice now" 
   button-link="https://help.skribble.com/meetings/patrick182/call-mit-skribble" 
-  subtext="No subscription commitment"%}}
+  subtext=""%}}
     {{< picture business-visual 270 "" >}}
 {{% /action-card %}}
 
@@ -98,12 +98,6 @@ After registering, you can switch to one of the following plans at any time:
 <td>Apply batch signature</td>
 <td>Apply batch signature</td>
 <td>Apply batch signature</td>
-</tr>
-
-<tr>
-<td>Signatur per Handy bestätigen</td>
-<td>Signatur per Handy bestätigen</td>
-<td>Signatur per Handy bestätigen</td>
 </tr>
 
 <tr>
@@ -206,7 +200,7 @@ After registering, you can switch to one of the following plans at any time:
 
 <tr>
 <td></td>
-<td>CHF 2.00 oder CHF 2.50 pro Signatur (inkl. MwSt.)</td>
+<td>CHF 2.00 or CHF 2.50 per signature (excl. VAT)</td>
 <td><strong>Pay-per-use</strong><br>CHF 0.60 up to a max. of 2.50 per signature (excl. VAT)</td>
 </tr>
 
@@ -257,35 +251,6 @@ After registering, you can switch to one of the following plans at any time:
 **Are you interested in additional services in the field of identification?**<br>
 {{% /richtext %}}
 {{% /cta %}}
-
-
-[//]: # (--------------------------------------------------------------------------------------------------------------)
-
-{{% content %}}
-{{% heading %}}
-# All clear?
-{{% /heading %}}
-
-{{% collapsible 1 "Maximise the legal weight of your electronic signature" %}}
-At Skribble you sign with the qualified electronic signature (QES). This is [the highest e-signature standard](/signaturestandards). For this, the law requires an identity verification through personal contact. Exceptions are financial intermediaries who may <br class="hide-for-mobile">carry out identity verification using video identification.{{% /collapsible %}}
-
-{{% collapsible 2 "Do I have to be identified again before each QES signature?" %}}
-No. Your e-ID is valid for 5 years or until the expiry of the document of identification you presented during identification.
-{{% /collapsible %}}
-
-{{% collapsible 3 "Which identification documents can I use for identification?" %}}
-A valid passport or identity card. All other forms of identification <br class="hide-for-mobile">such as a residence permit or driving licence are not sufficient.
-{{% /collapsible %}}
-
-{{% collapsible 4 "Where are the data of the identified users stored?" %}}
-The data collected are stored on Swisscom's high-security servers <br class="hide-for-mobile">in Switzerland (Tier IV certification).
-{{% /collapsible %}}
-
-{{% collapsible 5 "Does QES require a Mobile ID?" %}}
-No. But a Mobile ID makes signing faster and easier, which is why we recommend it. On Mobile-ID.ch you can check whether your smartphone already has a Mobile ID and whether the function is activated. <br class="hide-for-mobile">If this is not the case, a new SIM card with Mobile ID can be ordered<br class="hide-for-mobile"> free of charge from most providers.
-{{% /collapsible %}}
-
-{{% /content %}}
 
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)

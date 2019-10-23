@@ -33,7 +33,7 @@ Après l'enregistrement, vous pouvez à tout moment passer <br class="hide-for-m
   caption="L'invitation de nouveau signataires coûte 2.50.– par signature."
   button-text="Essayer maintenant" 
   button-link="https://my.skribble.com/signup?lang=fr" 
-  subtext="Aucune obligation d'abonnement"%}}
+  subtext="Aucune obligation d'abonnement. Les deux premières signatures sont gratuites tous les mois."%}}
     {{< picture fair-flat-visual 290 "" >}}
 {{% /action-card %}}
 
@@ -43,16 +43,16 @@ Après l'enregistrement, vous pouvez à tout moment passer <br class="hide-for-m
 
 {{% action-card 
   title="Business" 
-  description="<p>Vous utilisez Skribble à l'intérieur de votre organisation. L'administration des utilisateurs est centralisée</p>"
+  description="<p>Vous utilisez Skribble à l'intérieur de votre organisation. L'administration des utilisateurs est centralisée.</p>"
   has-comparison="true"
-  comparison-title="Le bon modèle pour chaque contexte:"
+  comparison-title="Le bon modèle pour chaque signataire:"
   comparison-first="<p><strong>Pay-Per-Use</strong></p><p>Pour les employés qui signent <strong>moins</strong> de 12 fois par mois et pour les personnes externes à l'entreprise.</p><p class='top-spaced'>Maximum</p><p><strong>CHF <span class='large'>2.50</strong></span></p><p> par signature au maximum</p>"
   or="Ou"
   comparison-second="<p><strong>Forfait</strong></p><p>Pour les employés qui signent <strong>plus</strong> de 12 fois par mois.</p><br><br><p class='top-spaced'>Maximum</p><p><strong>CHF <span class='large'>25</strong></span></p><p>par utilisateur/ mois</p>"
   comparison-caption="Les prix diminuent significativement en fonction du volume de signatures ou en signant avec une norme différente."
   button-text="Obtenir des conseils" 
   button-link="https://help.skribble.com/meetings/patrick182/call-mit-skribble" 
-  subtext="Résiliable mensuellement"%}}
+  subtext=""%}}
     {{< picture business-visual 270 "" >}}
 {{% /action-card %}}
 
@@ -97,12 +97,6 @@ Après l'enregistrement, vous pouvez à tout moment passer <br class="hide-for-m
 <td>Appliquer la signature par lots</td>
 <td>Appliquer la signature par lots</td>
 <td>Appliquer la signature par lots</td>
-</tr>
-
-<tr>
-<td>Signatur per Handy bestätigen</td>
-<td>Signatur per Handy bestätigen</td>
-<td>Signatur per Handy bestätigen</td>
 </tr>
 
 <tr>
@@ -248,35 +242,6 @@ Après l'enregistrement, vous pouvez à tout moment passer <br class="hide-for-m
 {{% /richtext %}}
 {{% /cta %}}
 
-
-[//]: # (--------------------------------------------------------------------------------------------------------------)
-
-{{% content %}}
-{{% heading %}}
-# Tout va bien?
-{{% /heading %}}
-
-{{% collapsible 1 "Que m'apporte l'identification?" %}}
-Sur Skribble, vous avez la possibilité de signer avec [la plus haute norme de signature électronique](/fr/normessignature) disponible: la signature électronique qualifiée (SEQ). <br class="hide-for-mobile">Elle a une force probante de 100% et peut être utilisée pour les contrats qui nécessitent la forme écrite. Pour la SEQ, la loi exige un contrôle d'identité.
-{{% /collapsible %}}
-
-{{% collapsible 2 "Dois-je être identifié à nouveau avant chaque signature SEQ?" %}}
-Non. Votre e-ID est valable 5 ans ou jusqu'à l'expiration de la pièce d'identité que vous avez présentée lors de votre identification.
-{{% /collapsible %}}
-
-{{% collapsible 3 "Quels documents d'identité puis-je utiliser pour l'identification ?" %}}
-Un passeport ou une carte d'identité en cours de validité. Toutes les autres formes d'identification telles que le permis de séjour ou le permis de conduire <br class="hide-for-mobile">ne sont pas suffisantes.
-{{% /collapsible %}}
-
-{{% collapsible 4 "Où sont stockées les données des personnes identifiées?" %}}
-Les données collectées sont stockées sur les serveurs haute sécurité <br class="hide-for-mobile">de Swisscom en Suisse (certification Tier IV).
-{{% /collapsible %}}
-
-{{% collapsible 5 "Le QSE nécessite-t-elle un Mobile ID?" %}}
-Non. Mais avec un Mobile ID, la signature est plus rapide et plus facile, c'est pourquoi nous vous le recommandons. Sur Mobile-ID.ch, vous pouvez vérifier si votre smartphone possède déjà un Mobile ID et si la fonction est déjà activée. Si tel n'est pas le cas, une nouvelle carte SIM avec Mobile ID peut être commandée gratuitement auprès de la plupart des fournisseurs.
-{{% /collapsible %}}
-
-{{% /content %}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
