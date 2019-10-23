@@ -29,8 +29,8 @@ Nach dem Registrieren kannst du jederzeit auf </br> eines der folgenden Modelle 
 {{% action-card 
   title="Fair Flat" 
   class="fair" 
-  description="<p>Du signierst <strong>mehr als 2 Mal pro Monat</strong> selbst oder holst Signaturen ein.</p><p class='top-spaced'>Maximal</p><p><strong>CHF <span class='large'>2.50</span> pro Signatur</strong></p><p>bis zu einer Obergrenze von</p><p><strong>CHF <span class='large'>30.-</span> pro Monat</strong></p>" 
-  has-comparison="true"  
+  description="<p>Du signierst <strong>mehr als 2 Mal pro Monat</strong> selbst oder holst Signaturen ein.</p><p class='top-spaced'>Maximal</p><p><strong>CHF <span class='large'>2.50</span> pro Signatur</strong></p><p>bis zu einer Obergrenze von</p><p><strong>CHF <span class='large'>30.-</span> pro Monat</strong></p>"
+  has-comparison="true" 
   comparison-caption="Lädst du andere zum Signieren ein, kommen weitere 2.50.- pro Signatur dazu."
   button-text="Jetzt ausprobieren" 
   button-link="https://my.skribble.com/signup?lang=de" 
@@ -62,7 +62,7 @@ Nach dem Registrieren kannst du jederzeit auf </br> eines der folgenden Modelle 
 {{% /content %}}
 
 {{% show-hide-button button-text="Preismodelle im Detail vergleichen"%}}
-{{% table-dense %}}
+{{< table-dense >}}
 <thead>
 <tr>
 <th style="width: 33%;"><div class="header-with-image"><span><h2>Free</h2></span><span class="header-image">{{< picture free-list 104 "" >}}</span></div></th>
@@ -230,7 +230,7 @@ Nach dem Registrieren kannst du jederzeit auf </br> eines der folgenden Modelle 
 
 </tbody>
 
-{{% /table-dense %}}
+{{< /table-dense >}}
 
 {{% /show-hide-button %}}
 
