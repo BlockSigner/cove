@@ -19,7 +19,14 @@
         margin: 0px 10px;
       }
 
-      
+      .header-with-image {
+        display: flex;
+        justify-content: space-between;
+
+        .header-image {
+          margin-right: 10px;
+        }
+      }
 
       strong {
         font-size: inherit;
@@ -50,7 +57,7 @@
       }
 
       th {
-        padding: 15px 0px;
+        padding: 18px 10px;
         color: $c-text-alt;
 
         h2 {
@@ -84,13 +91,17 @@
 
       td {
         vertical-align: top;
-        padding: 18px 10px 18px 0px;
+        padding: 18px 15px 18px 15px !important;
         white-space: break-spaces;
 
         ul {
           padding: 0px;
           margin: 0px;
           white-space: normal;
+
+          li {
+            margin-left: -10px;
+          }
 
           li:before {
             content: "•";
