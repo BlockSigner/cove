@@ -65,9 +65,9 @@ Après l'enregistrement, vous pouvez à tout moment passer <br class="hide-for-m
 {{% table-dense %}}
 <thead>
 <tr>
-<th style="width: 33%;"><h2>Free</h2></th>
-<th style="width: 33%;"><h2>Fair Flat</h2></th>
-<th style="width: 33%;"><h2>Business</h2></th>
+<th style="width: 33%;"><div class="header-with-image"><span><h2>Free</h2></span><span class="header-image">{{< picture free-list 104 "" >}}</span></div></th>
+<th style="width: 33%;"><div class="header-with-image"><h2>Fair Flat</h2><span class="header-image">{{< picture fair-flat-list 131 "" >}}</span></div></th>
+<th style="width: 33%;"><div class="header-with-image"><h2>Business</h2><span class="header-image">{{< picture business-list 120 "" >}}</span></div></th>
 </tr>
 </thead>
 
@@ -205,11 +205,22 @@ Après l'enregistrement, vous pouvez à tout moment passer <br class="hide-for-m
 </tr>
 
 <tr>
-<td>Aucune carte de crédit requis<br>Compte supprimable à tout moment</td>
-<td>Aucune carte de crédit requis<br>Compte supprimable à tout moment</td>
-<td>Résiliable mensuellement ou anuellement</td>
+<td>{{< button
+  "Essayer maintenant"
+  "https://my.skribble.com/signup?lang=fr"
+  "_blank"
+>}}Aucune carte de crédit requis<br>Compte supprimable à tout moment</td>
+<td>{{< button
+  "Essayer maintenant"
+  "https://my.skribble.com/signup?lang=fr"
+  "_blank"
+>}}Aucune carte de crédit requis<br>Compte supprimable à tout moment</td>
+<td>{{< button
+  "Obtenir des conseils"
+  "https://help.skribble.com/meetings/patrick182/consultation-telephone-skribble"
+  "_blank"
+>}}Résiliable mensuellement ou anuellement</td>
 </tr>
-
 
 </tbody>
 

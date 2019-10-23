@@ -215,12 +215,6 @@ After registering, you can switch to one of the following plans at any time:
 </tr>
 
 <tr>
-<td>No credit card reuired<br>Your account can be deleted at any time</td>
-<td>No subscription commitment<br>Your account can be deleted at any time</td>
-<td>Monthly or yearly notice</td>
-</tr>
-
-<tr>
 <td>{{< button
   "Try it now"
   "https://my.skribble.com/signup"
