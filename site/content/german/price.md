@@ -13,8 +13,8 @@ Skribble eignet sich sowohl für gelegentliches</br>wie auch für häufiges Sign
 {{% /heading %}}
 {{% action-card 
   title="Free" 
-  class="free" 
-  description="<p>Du signierst:<br><strong>2 Mal pro Monat kostenlos.</strong></p>" 
+  class="free"
+  description="<p>Du signierst <strong>2 Mal pro Monat kostenlos.</strong></p>" 
   button-text="Jetzt kostenlos ausprobieren" 
   button-link="https://my.skribble.com/signup?lang=de" 
   subtext="Konto jederzeit löschbar. Keine Kreditkarte notwendig."%}}
@@ -31,9 +31,9 @@ Nach dem Registrieren kannst du jederzeit auf </br> eines der folgenden Modelle 
   class="fair" 
   description="<p>Du signierst <strong>mehr als 2 Mal pro Monat</strong> selbst oder holst Signaturen ein.</p><p class='top-spaced'>Maximal</p><p><strong>CHF <span class='large'>2.50</span> pro Signatur</strong></p><p>bis zu einer Obergrenze von</p><p><strong>CHF <span class='large'>30.-</span> pro Monat</strong></p>" 
   caption="Lädst du andere zum Signieren ein, kommen weitere 2.50.- pro Signatur dazu."
-  button-text="Jetzt kostenlos ausprobieren" 
+  button-text="Jetzt ausprobieren" 
   button-link="https://my.skribble.com/signup?lang=de" 
-  subtext="Keine Abonnementsverpflichtungen"%}}
+  subtext="Keine Abonnementsverpflichtungen. Die ersten zwei Signaturen sind jeden Monat kostenlos."%}}
     {{< picture fair-flat-visual 290 "" >}}
 {{% /action-card %}}
 
@@ -47,14 +47,14 @@ Nach dem Registrieren kannst du jederzeit auf </br> eines der folgenden Modelle 
   class="business" 
   description="<p>Ihr nutzt Skribble gemeinsam in eurer Organisation. Die Nutzerverwaltung ist zentriert.</p>"
   has-comparison="true"
-  comparison-title="Wähle für jeden Kontext das passende Modell:"
+  comparison-title="Wähle für jeden Signierenden das passende Modell:"
   comparison-first="<p><strong>Pay-Per-Use</strong></p><p>Für Mitarbeitende, die <strong>weniger</strong> als 12 Mal pro Monat signieren und für Firmen-Externe.</p><p class='top-spaced'>Maximal</p><p><strong>CHF <span class='large'>2.50</strong></span></p><p>pro Signatur</p>"
   or="Oder"
   comparison-second="<p><strong>Flatrate</strong></p><p>Für Mitarbeitende, die <strong>mehr</strong> als 12 Mal pro Monat signieren.</p><br><p class='top-spaced'>Maximal</p><p><strong>CHF <span class='large'>25</strong></span></p><p>pro Nutzer / Monat</p>"
   comparison-caption="Die Preise sinken deutlich, wenn mehr signiert wird oder mit einem anderen Standard."
   button-text="Jetzt beraten lassen" 
   button-link="https://help.skribble.com/meetings/patrick182/call-mit-skribble" 
-  subtext="Keine Abonnementsverpflichtungen"%}}
+  subtext=""%}}
     {{< picture business-visual 270 "" >}}
 {{% /action-card %}}
 
@@ -251,33 +251,6 @@ Nach dem Registrieren kannst du jederzeit auf </br> eines der folgenden Modelle 
 
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
-
-{{% content %}}
-{{% heading %}}
-# Alles klar?
-{{% /heading %}}
-
-{{% collapsible 1 "Was bringt mir die Identifikation?" %}}
-Auf Skribble hast du die Möglichkeit, mit dem höchsten verfügbaren E-Signatur-Standard zu signieren: Die qualifizierten elektronischen Signatur (QES). Diese hat eine Beweiskraft von 100% und kann für Verträge eingesetzt werden, die die Schriftlichkeit verlangen. Für die QES verlangt das Gesetz eine Identitätsprüfung. 
-{{% /collapsible %}}
-
-{{% collapsible 2 "Muss ich mich vor jeder QES-Signatur neu identifizieren lassen?" %}}
-Nein. Deine E-ID ist 5 Jahre lang gültig oder bis zum Ablauf des Ausweises, den du bei der Identifikation vorgewiesen hast.
-{{% /collapsible %}}
-
-{{% collapsible 3 "Welche Ausweisdokumente kann ich für die Identifikation nutzen?" %}}
-Ein gültiger Pass oder eine gültige Identitätskarte. Alle anderen Ausweise wie <br class="hide-for-mobile">der Ausländerausweis oder Führerschein reichen nicht aus.
-{{% /collapsible %}}
-
-{{% collapsible 4 "Wo werden die Daten der identifizierten Personen gespeichert?" %}}
-Die erfassten Daten werden auf den Hochsicherheitsservern der Swisscom in <br class="hide-for-mobile">der Schweiz gespeichert (Tier IV-Zertifizierung).
-{{% /collapsible %}}
-
-{{% collapsible 5 "Braucht es für die QES eine Mobile ID?" %}}
-Nein. Aber mit einer Mobile-ID geht das Signieren schneller und einfacher, daher empfehlen wir sie. Auf http://www.mobileid.ch/de kann überprüft werden ob das eigene Smartphone bereits eine Mobile-ID hat und ob die Funktion bereits aktiviert ist. Wenn dies nicht der Fall ist, kann bei den meisten Anbietern kostenlos eine neue SIM-Karte mit Mobile-ID bestellt werden.
-{{% /collapsible %}}
-
-{{% /content %}}
 
 {{< outro >}}
 {{< picture image8 414 "Ein mann steht mit einem riesen füller neben einem elektronischen dokument" >}}
