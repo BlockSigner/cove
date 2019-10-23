@@ -30,7 +30,8 @@ Nach dem Registrieren kannst du jederzeit auf </br> eines der folgenden Modelle 
   title="Fair Flat" 
   class="fair" 
   description="<p>Du signierst <strong>mehr als 2 Mal pro Monat</strong> selbst oder holst Signaturen ein.</p><p class='top-spaced'>Maximal</p><p><strong>CHF <span class='large'>2.50</span> pro Signatur</strong></p><p>bis zu einer Obergrenze von</p><p><strong>CHF <span class='large'>30.-</span> pro Monat</strong></p>" 
-  caption="Lädst du andere zum Signieren ein, kommen weitere 2.50.- pro Signatur dazu."
+  has-comparison="true"  
+  comparison-caption="Lädst du andere zum Signieren ein, kommen weitere 2.50.- pro Signatur dazu."
   button-text="Jetzt ausprobieren" 
   button-link="https://my.skribble.com/signup?lang=de" 
   subtext="Keine Abonnementsverpflichtungen. Die ersten zwei Signaturen sind jeden Monat kostenlos."%}}

@@ -30,9 +30,10 @@ After registering, you can switch to one of the following plans at any time:
 
 {{% action-card 
   title="Fair Flat"
-  class="fair" 
-  description="<p>You sign or request <strong>more than two signatures per month.</strong></p><p class='top-spaced'>Maximum</p><p><strong>CHF <span class='large'>2.50</span> per signature</strong></p><p>up to a maximum of</p><p><strong>CHF <span class='large'>30.-</span> per month</strong></p>" 
-  caption="If you invite others to sign, another 2.50 per signature request will be added."
+  class="fair"
+  description="<p>You sign or request <strong>more than two signatures per month.</strong></p><p class='top-spaced'>Maximum</p><p><strong>CHF <span class='large'>2.50</span> per signature</strong></p><p>up to a maximum of</p><p><strong>CHF <span class='large'>30.-</span> per month</strong></p>"
+  has-comparison="true"  
+  comparison-caption="If you invite others to sign, another 2.50 per signature request will be added."
   button-text="Try it now"
   button-link="https://my.skribble.com/signup" 
   subtext="No subscription commitment. The first two signatures are free each month."%}}

@@ -31,8 +31,9 @@ Après l'enregistrement, vous pouvez à tout moment passer <br class="hide-for-m
 {{% action-card 
   title="Fair Flat" 
   class="fair" 
-  description="<p>Vous signez personnellement ou obtenez <strong>plus de deux signatures par mois.</strong></p><p class='top-spaced'>Maximum</p><p><strong>CHF <span class='large'>2.50</span> par signature</strong></p><p>jusqu'à un plafond de</p><p><strong>CHF <span class='large'>30.-</span> par mois</strong></p>" 
-  caption="L'invitation de nouveau signataires coûte 2.50.– par signature."
+  description="<p>Vous signez personnellement ou obtenez <strong>plus de deux signatures par mois.</strong></p><p class='top-spaced'>Maximum</p><p><strong>CHF <span class='large'>2.50</span> par signature</strong></p><p>jusqu'à un plafond de</p><p><strong>CHF <span class='large'>30.-</span> par mois</strong></p>"
+  has-comparison="true"   
+  comparison-caption="L'invitation de nouveau signataires coûte 2.50.– par signature."
   button-text="Essayer maintenant" 
   button-link="https://my.skribble.com/signup?lang=fr" 
   subtext="Aucune obligation d'abonnement. Les deux premières signatures sont gratuites tous les mois."%}}
