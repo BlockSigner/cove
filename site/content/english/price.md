@@ -13,11 +13,13 @@ og_image: og/og-skribble-mission.jpg
 Skribble is suitable for both occasional and frequent signing.
 {{% /heading %}}
 {{% action-card 
-  title="Free" 
+  title="Free"
+  class="free" 
   description="<p>You can sign or request a signature <strong>twice per month free of charge.</strong></p>" 
   button-text="Try it now" 
   button-link="https://my.skribble.com/signup" 
-  subtext="Your account can be deleted at any time. No credit card required."%}}
+  subtext="Your account can be deleted at any time. No credit card required." %}}
+  
     {{< picture free-visual 232 "" >}}
 {{% /action-card %}}
 
@@ -28,11 +30,16 @@ After registering, you can switch to one of the following plans at any time:
 
 {{% action-card 
   title="Fair Flat" 
-  description="<p>You sign or request <strong>more than two signatures per month.</strong></p><p class='top-spaced'>Maximum</p><p><strong>CHF <span class='large'>2.50</span> pro Signatur</strong></p><p>up to a maximum of</p><p><strong>CHF <span class='large'>30.-</span> per month</strong></p>" 
+  class="fair" 
+  description="<p>You sign or request <strong>more than two signatures per month.</strong></p><p class='top-spaced'>Maximum</p><p><strong>CHF <span class='large'>2.50</span> pro Signatur</strong></p><p>up to a maximum of</p><p><strong>CHF <span class='large'>30.-</span> per month</strong></p>"
+  has-comparison="true"
+  comparison-caption="Lädst du andere zum Signieren ein, kommen weitere 2.50.- pro Signatur dazu." 
   caption="If you invite others to sign, another 2.50 per signature request will be added."
   button-text="Try it now"
   button-link="https://my.skribble.com/signup" 
-  subtext="No subscription commitment"%}}
+  subtext="No subscription commitment"
+  spacing-top="44" 
+  spacing-bottom="30" %}}
     {{< picture fair-flat-visual 290 "" >}}
 {{% /action-card %}}
 
@@ -43,6 +50,7 @@ After registering, you can switch to one of the following plans at any time:
 
 {{% action-card 
   title="Business" 
+  class="business" 
   description="<p>You use Skribble in your organisation. The user administration is centrally located.</p>"
   has-comparison="true"
   comparison-title="Choose the right plan for each context:"
@@ -51,20 +59,19 @@ After registering, you can switch to one of the following plans at any time:
   comparison-second="<p><strong>Flat rate</strong></p><p>For employees who sign <strong>more</strong> than 12 times a month.</p><br><p class='top-spaced'>Maximum</p><p><strong>CHF <span class='large'>25</strong></span></p><p>per user/month</p>"
   comparison-caption="The prices decrease significantly if you sign more or with a different standard."
   button-text="Get advice now" 
-  button-link="https://help.skribble.com/meetings/patrick182/call-mit-skribble" 
+  button-link="https://help.skribble.com/meetings/patrick182/telephone-consultation-skribble" 
   subtext="No subscription commitment"%}}
     {{< picture business-visual 270 "" >}}
 {{% /action-card %}}
 
 {{% /content %}}
-
-{{% show-hide-button button-text="Compare plans in detail"%}}
-{{% table-dense %}}
+{{% show-hide-button button-text="Compare plans in detail" %}}
+{{< table-dense >}}
 <thead>
 <tr>
-<th style="width: 33%;"><h2>Free</h2></th>
-<th style="width: 33%;"><h2>Fair Flat</h2></th>
-<th style="width: 33%;"><h2>Business</h2></th>
+<th style="width: 33%;"><div style="display: flex"><span><h2>Free</h2></span><span class="header-image" style="max-width: 120px;">{{< picture business-visual 270 "" >}}</span></div></th>
+<th style="width: 33%;"><div style="display: flex"><h2>Fair Flat</h2><span class="header-image" style="max-width: 120px;">{{< picture business-visual 270 "" >}}</span></div></th>
+<th style="width: 33%;"><div style="display: flex"><h2>Business</h2><span class="header-image" style="max-width: 120px;">{{< picture business-visual 270 "" >}}</span></div></th>
 </tr>
 </thead>
 
@@ -223,10 +230,28 @@ After registering, you can switch to one of the following plans at any time:
 <td>Monthly or yearly notice</td>
 </tr>
 
+<tr>
+<td>{{< button
+  "Try it now"
+  "https://my.skribble.com/signup"
+  "_blank"
+>}}No credit card required</br>Your account can be deleted at any time</td>
+<td>{{< button
+  "Try it now"
+  "https://my.skribble.com/signup"
+  "_blank"
+>}}No subscription commitment</br>Your account can be deleted at any time</td>
+<td>{{< button
+  "Get advice now"
+  "https://help.skribble.com/meetings/patrick182/telephone-consultation-skribble"
+  "_blank"
+>}}Monthly or yearly notice</td>
+</tr>
+
 
 </tbody>
 
-{{% /table-dense %}}
+{{< /table-dense >}}
 
 {{% /show-hide-button %}}
 

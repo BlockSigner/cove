@@ -1,6 +1,6 @@
 .show-hide-button {
     text-align: center;
-    margin: 44px 24px;
+    margin: 6px 24px 100px 24px;
 
     #show, .show-content {
         display: none;
@@ -9,4 +9,9 @@
     #show:checked ~ .show-content {
         display: block;
     }
+
+    #show:checked ~ label {
+        display: none;
+    }
 }
+

@@ -15,6 +15,7 @@ Skribble convient tant aux signatures occasionnelles <br class="hide-for-mobile"
 {{% /heading %}}
 {{% action-card 
   title="Free" 
+  class="free" 
   description="<p><strong>Deux signatures gratuites par mois.</strong><br></p>" 
   button-text="Essayer maintenant" 
   button-link="https://my.skribble.com/signup?lang=fr" 
@@ -29,6 +30,7 @@ Après l'enregistrement, vous pouvez à tout moment passer <br class="hide-for-m
 
 {{% action-card 
   title="Fair Flat" 
+  class="fair" 
   description="<p>Vous signez personnellement ou obtenez <strong>plus de deux signatures par mois.</strong></p><p class='top-spaced'>Maximum</p><p><strong>CHF <span class='large'>2.50</span> par signature</strong></p><p>jusqu'à un plafond de</p><p><strong>CHF <span class='large'>30.-</span> par mois</strong></p>" 
   caption="L'invitation de nouveau signataires coûte 2.50.– par signature."
   button-text="Essayer maintenant" 
@@ -43,6 +45,7 @@ Après l'enregistrement, vous pouvez à tout moment passer <br class="hide-for-m
 
 {{% action-card 
   title="Business" 
+  class="business" 
   description="<p>Vous utilisez Skribble à l'intérieur de votre organisation. L'administration des utilisateurs est centralisée</p>"
   has-comparison="true"
   comparison-title="Le bon modèle pour chaque contexte:"
@@ -51,7 +54,7 @@ Après l'enregistrement, vous pouvez à tout moment passer <br class="hide-for-m
   comparison-second="<p><strong>Forfait</strong></p><p>Pour les employés qui signent <strong>plus</strong> de 12 fois par mois.</p><br><br><p class='top-spaced'>Maximum</p><p><strong>CHF <span class='large'>25</strong></span></p><p>par utilisateur/ mois</p>"
   comparison-caption="Les prix diminuent significativement en fonction du volume de signatures ou en signant avec une norme différente."
   button-text="Obtenir des conseils" 
-  button-link="https://help.skribble.com/meetings/patrick182/call-mit-skribble" 
+  button-link="https://help.skribble.com/meetings/patrick182/consultation-telephone-skribble" 
   subtext="Résiliable mensuellement"%}}
     {{< picture business-visual 270 "" >}}
 {{% /action-card %}}

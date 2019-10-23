@@ -10,7 +10,7 @@
       flex-basis: 960px;
       min-width: 650px;
       border-top: 1px solid $c-border;
-      font-size: 1.4rem;
+      font-size: 16px;
       overflow-wrap: break-word;
       word-wrap: break-word;
       text-align: left;
@@ -19,8 +19,10 @@
         margin: 0px 10px;
       }
 
+      
+
       strong {
-        font-size: 1.4rem;
+        font-size: inherit;
       }
 
       .icon-qes {
@@ -50,6 +52,14 @@
       th {
         padding: 15px 0px;
         color: $c-text-alt;
+
+        h2 {
+          // display: inline-flex;
+        }
+
+        .header-image {
+          // display: inline-flex;
+        }
       }
 
       th:first-child, td:first-child {
@@ -74,7 +84,7 @@
 
       td {
         vertical-align: top;
-        padding: 24px 10px 24px 0px;
+        padding: 18px 10px 18px 0px;
         white-space: break-spaces;
 
         ul {
@@ -86,6 +96,11 @@
             content: "•";
             margin: 0 0.5rem 0 0;
           }
+        }
+
+        .btn {
+          width: 100%;
+          margin-bottom: 9px;
         }
       }
     }

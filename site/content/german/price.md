@@ -13,6 +13,7 @@ Skribble eignet sich sowohl für gelegentliches</br>wie auch für häufiges Sign
 {{% /heading %}}
 {{% action-card 
   title="Free" 
+  class="free" 
   description="<p>Du signierst:<br><strong>2 Mal pro Monat kostenlos.</strong></p>" 
   button-text="Jetzt kostenlos ausprobieren" 
   button-link="https://my.skribble.com/signup?lang=de" 
@@ -27,6 +28,7 @@ Nach dem Registrieren kannst du jederzeit auf </br> eines der folgenden Modelle 
 
 {{% action-card 
   title="Fair Flat" 
+  class="fair" 
   description="<p>Du signierst <strong>mehr als 2 Mal pro Monat</strong> selbst oder holst Signaturen ein.</p><p class='top-spaced'>Maximal</p><p><strong>CHF <span class='large'>2.50</span> pro Signatur</strong></p><p>bis zu einer Obergrenze von</p><p><strong>CHF <span class='large'>30.-</span> pro Monat</strong></p>" 
   caption="Lädst du andere zum Signieren ein, kommen weitere 2.50.- pro Signatur dazu."
   button-text="Jetzt kostenlos ausprobieren" 
@@ -42,6 +44,7 @@ Nach dem Registrieren kannst du jederzeit auf </br> eines der folgenden Modelle 
 
 {{% action-card 
   title="Business" 
+  class="business" 
   description="<p>Ihr nutzt Skribble gemeinsam in eurer Organisation. Die Nutzerverwaltung ist zentriert.</p>"
   has-comparison="true"
   comparison-title="Wähle für jeden Kontext das passende Modell:"

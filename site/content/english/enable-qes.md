@@ -57,7 +57,7 @@ The legal weight of your signature is raised to 100% (QES level)
 
 {{% content %}}
 {{% heading %}}
-# Identifcation sites
+# Identification sites
 Come by and get identified for free.
 {{% /heading %}}
 {{% /content %}}

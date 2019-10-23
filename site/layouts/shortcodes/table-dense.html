@@ -3,7 +3,7 @@
         <h2>{{.Get 0}}</h2>
     </div>
     <table class="table-dense">
-        {{.Inner}}
+        {{.Inner | safeHTML }}
     </table>
 </div>
  
