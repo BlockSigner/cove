@@ -1,6 +1,6 @@
 ---
-title: Sign electronically in HR with Skribble
-description: With Skribble you sign legally and easily in a digital way – from employment contracts to certificates and wage statements.Finish the pile with only one signature!
+title: Use Skribble via your browser or your software
+description: With Skribble, you choose a cloud platform that combines technological security with simplicity. Sign now, legally and electronically!
 draft: false
 slug: integrations
 
