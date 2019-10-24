@@ -1,6 +1,6 @@
 ---
-title: 100% legal certainty in court
-description: Skribble has the same legal certainty as signing by hand and offers 100% legal certainty in court.
+title: QES vs. AES at a glance. At Skribble you have the choice.
+description: How much legal weight do you need? The law distinguishes between qualified e-signatures (QES) and advanced e-signatures (AES).
 draft: false
 slug: signaturestandards
 
