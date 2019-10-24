@@ -12,7 +12,7 @@ slug: signaturestandards
 The law distinguishes between qualified e-signatures (QES) <br class="hide-for-mobile">and advanced e-signatures (AES). 
 The two standards vary in terms of area <br class="hide-for-mobile">of application and legal weight. At Skribble you have the choice.
 {{% /heading %}}
-{{< picture legal_weight 664 "Legal-weight" >}}
+{{< picture legal_weight 664 "Evidential value of the AES and the QES" >}}
 {{% richtext %}}
 {{% /heading %}}
 
@@ -129,7 +129,7 @@ Anyone who has a Swiss mobile phone number can start signing with AES on Skribbl
   outlined=""
 %}}
 
-{{< picture "contact" 92 "Hast du fragen? Wir helfen dir gerne weiter." >}}
+{{< picture "contact" 92 "Do you have any questions? We will be happy to help you." >}}
 
 {{% richtext %}}
 **Any questions? <br class="hide-for-mobile">We are happy to help you.**<br>
