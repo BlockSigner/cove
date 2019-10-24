@@ -1,6 +1,6 @@
 ---
-title: Skribble offre 100% de sécurité juridique devant les tribunaux
-description: Skribble travaille avec la SEQ. Ainsi, les documents signés avec Skribble sont juridiquement contraignants.
+title: SEQ vs SAE en un coup d'œil. Sur Skribble, vous pouvez choisir entre les deux
+description: La loi établit une distinction entre les signatures électroniques qualifiées (SEQ) et les signatures électroniques avancées (SEA).
 draft: false
 slug: normessignature
 
