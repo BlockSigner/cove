@@ -13,7 +13,7 @@ La loi établit une distinction entre les signatures électroniques qualifiées 
 Sur Skribble, vous pouvez choisir entre les deux.
 {{% /heading %}}
 
-{{< picture force_probante 664 "Force_Probante" >}}
+{{< picture force_probante 664 "Force probante de la SEQ et de la SEA" >}}
 
 {{% heading %}}
 # SEQ: La même sécurité juridique que la signature manuscrite
@@ -124,7 +124,7 @@ C'est le cas pour la plupart des types de contrats, tels que les contrats de loc
   outlined=""
 %}}
 
-{{< picture "contact" 92 "Hast du fragen? Wir helfen dir gerne weiter." >}}
+{{< picture "contact" 92 "Vous avez des questions ? Nous nous ferons un plaisir de vous aider." >}}
 
 {{% richtext %}}
 **Vous avez des questions? <br class="hide-for-mobile">Nous nous ferons un plaisir de vous aider.**<br>
