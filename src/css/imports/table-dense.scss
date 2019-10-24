@@ -18,15 +18,6 @@
         margin: 0px 10px;
       }
 
-      .header-with-image {
-        display: flex;
-        justify-content: space-between;
-
-        .header-image {
-          margin-right: 10px;
-        }
-      }
-
       strong {
         font-size: inherit;
       }
@@ -105,11 +96,25 @@
     }
 
     #price-table {
+      min-width: 800px;
       border-top: none;
       border-bottom: none;
       border-collapse: separate;
       border-spacing: 24px 0px;
       
+      .header-with-image {
+        display: flex;
+        justify-content: space-between;
+
+        .header-image {
+          margin-right: 10px;
+        }
+      }
+
+      th {
+        width: 200px;
+      }
+
       td {
         border-top: none;
         border-bottom: 1px solid #DADEE6;

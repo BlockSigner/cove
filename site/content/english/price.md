@@ -66,9 +66,9 @@ After registering, you can switch to one of the following plans at any time:
 {{< table-dense id="price-table" >}}
 <thead>
 <tr>
-<th style="width: 33%;"><div class="header-with-image"><span><h2>Free</h2></span><span class="header-image">{{< picture free-list 104 "" >}}</span></div></th>
-<th style="width: 33%;"><div class="header-with-image"><h2>Fair Flat</h2><span class="header-image">{{< picture fair-flat-list 131 "" >}}</span></div></th>
-<th style="width: 33%;"><div class="header-with-image"><h2>Business</h2><span class="header-image">{{< picture business-list 120 "" >}}</span></div></th>
+<th><div class="header-with-image"><h2>Free</h2><span class="header-image">{{< picture free-list 104 "" >}}</span></div></th>
+<th><div class="header-with-image"><h2>Fair Flat</h2><span class="header-image">{{< picture fair-flat-list 131 "" >}}</span></div></th>
+<th><div class="header-with-image"><h2>Business</h2><span class="header-image">{{< picture business-list 120 "" >}}</span></div></th>
 </tr>
 </thead>
 
