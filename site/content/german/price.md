@@ -75,7 +75,7 @@ Nach dem Registrieren kannst du jederzeit auf </br> eines der folgenden Modelle 
 <tr>
 <td>Du signierst 2 Mal pro Monat kostenlos</td>
 <td>Du signierst mehr als 2 Mal pro Monat selbst oder holst Signaturen ein. Du hinterlegst eine Kreditkarte und bezahlst Ende Monat nur, was du tatsächlich gebraucht hast.</td>
-<td>Ihr nutzt Skribble gemeinsam in eurer Organisation. Die Nutzerverwaltung ist zentriert., abgerechnet wird einheitlich per Rechnung. Die Signaturplattform bindet ihr via API an eure eigenen Systeme an.</td>
+<td>Ihr nutzt Skribble gemeinsam in eurer Organisation. Die Nutzerverwaltung ist zentriert. Abgerechnet wird einheitlich per Rechnung. Die Signaturplattform bindet ihr via API an eure eigenen Systeme an.</td>
 </tr>
 
 <tr>
