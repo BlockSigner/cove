@@ -78,7 +78,7 @@ Our vision is great. We develop Skribble day by day.
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< testimonial "testimonial/btov-logo-96w.png" "Nicole Herzog, investor and member of the board of btov" >}}
+{{< testimonial "testimonial/btov-logo-96w.png" "Logo of btov" >}}
 "Until now, e-signing solutions were either legally binding and not very user-friendly or they were easy-to-use but not legally binding. Skribble combines both advantages for the first time: It is easy to use and legally binding." {{< /testimonial >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
