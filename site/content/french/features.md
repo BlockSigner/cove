@@ -16,7 +16,7 @@ Avec Skribble, votre signature est non seulement <br class="hide-for-mobile">lé
 {{% /heading %}}
 {{% /content %}}
 
-{{< picture skribble-ui-fr 1020 "Skribble plattform - user interface" >}}
+{{< picture skribble-ui-fr 1020 "Skribble plate-forme - interface utilisateur" >}}
 
 {{< features-container >}}
 
@@ -44,7 +44,7 @@ Avec Skribble, votre signature est non seulement <br class="hide-for-mobile">lé
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< testimonial "testimonial/fr-logo-99w.svg" "Stéphane Schwab – canton de Fribourg" >}}
+{{< testimonial "testimonial/fr-logo-99w.svg" "Apostrophe comme symbole d'une recommandation : le canton de Fribourg" >}}
 "Grâce à Skribble, nous pouvons numériser les processus administratifs de A à Z. <br class="hide-for-mobile">Cela facilite notre vie quotidienne et celle de nos clients." {{< /testimonial >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
@@ -77,7 +77,7 @@ Notre vision est grande. Nous développons Skribble jour après jour.
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< testimonial "testimonial/btov-logo-96w.png" "Nicole Herzog, Investisseuse et membre du Conseil d'administration de btov" >}}
+{{< testimonial "testimonial/btov-logo-96w.png" "Logo de btov" >}}
 "Jusqu'à présent, les solutions de signature électronique étaient soit juridiquement contraignantes et moins conviviales, soit faciles à utiliser mais juridiquement non contraignantes. Skribble combine les deux avantages pour la première fois: il est facile à utiliser et juridiquement contraignant." {{< /testimonial >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
