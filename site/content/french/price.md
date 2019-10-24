@@ -23,7 +23,7 @@ Skribble convient tant aux signatures occasionnelles <br class="hide-for-mobile"
     {{< picture free-visual 232 "" >}}
 {{% /action-card %}}
 
-{{% heading %}}
+{{% heading class="price-separator" %}}
 ## Vous signez plus souvent?
 Après l'enregistrement, vous pouvez à tout moment passer <br class="hide-for-mobile">à l'un des modèles tarifaires suivants:
 {{% /heading %}}
@@ -40,7 +40,7 @@ Après l'enregistrement, vous pouvez à tout moment passer <br class="hide-for-m
     {{< picture fair-flat-visual 290 "" >}}
 {{% /action-card %}}
 
-{{% heading %}}
+{{% heading class="price-separator" %}}
 ## Ou
 {{% /heading %}}
 

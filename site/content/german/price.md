@@ -21,7 +21,7 @@ Skribble eignet sich sowohl für gelegentliches</br>wie auch für häufiges Sign
     {{< picture free-visual 232 "" >}}
 {{% /action-card %}}
 
-{{% heading %}}
+{{% heading class="price-separator" %}}
 ## Signierst du häufiger?
 Nach dem Registrieren kannst du jederzeit auf </br> eines der folgenden Modelle umstellen:
 {{% /heading %}}
@@ -39,7 +39,7 @@ Nach dem Registrieren kannst du jederzeit auf </br> eines der folgenden Modelle 
 {{% /action-card %}}
 
 
-{{% heading %}}
+{{% heading class="price-separator" %}}
 ## Oder
 {{% /heading %}}
 

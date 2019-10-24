@@ -23,7 +23,7 @@ Skribble is suitable for both occasional and frequent signing.
     {{< picture free-visual 232 "" >}}
 {{% /action-card %}}
 
-{{% heading %}}
+{{% heading class="price-separator" %}}
 ## Do you sign more frequently?
 After registering, you can switch to one of the following plans at any time:
 {{% /heading %}}
@@ -41,7 +41,7 @@ After registering, you can switch to one of the following plans at any time:
 {{% /action-card %}}
 
 
-{{% heading %}}
+{{% heading class="price-separator"%}}
 ## Or
 {{% /heading %}}
 

@@ -1,4 +1,4 @@
-<div class="heading {{ cond (eq (.Get 0) "left") "heading--left" "" }}">
+<div class="heading {{ cond (eq (.Get 0) "left") "heading--left" "" }} {{if .Get "class"}}{{.Get "class"}}{{end}}" >
   {{.Inner}}
 </div>
 
