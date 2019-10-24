@@ -1,6 +1,6 @@
 ---
-title: Skribble offre 100% de sécurité juridique devant les tribunaux
-description: Skribble travaille avec la SEQ. Ainsi, les documents signés avec Skribble sont juridiquement contraignants.
+title: Vérifiez si un document a été signé avec la SEQ
+description: Le validateur de l’administration fédérale suisse vous permet de vérifier si votre document a été signé avec une signature électronique qualifiée selon le droit suisse.
 draft: false
 slug: validateur-qes
 
