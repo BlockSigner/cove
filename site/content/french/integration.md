@@ -1,6 +1,6 @@
 ---
-title: Signer électroniquement dans les RH
-description: Avec Skribble, vous signez en toute sécurité juridique et en toute simplicité par voie numérique – des contrats de travail aux références en passant par les certificats de salaire.
+title: Utilisez Skribble via le navigateur ou votre logiciel
+description: Avec Skribble, vous choisissez une plate-forme de cloud qui allie sécurité technologique et simplicité.
 draft: false
 slug: integrations
 
