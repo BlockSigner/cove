@@ -243,6 +243,7 @@ After registering, you can switch to one of the following plans at any time:
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
+{{< cta-group >}}
 {{% cta
   label="Learn more"
   href="/signaturestandards/"
@@ -267,7 +268,7 @@ After registering, you can switch to one of the following plans at any time:
 **Are you interested in additional services in the field of identification?**<br>
 {{% /richtext %}}
 {{% /cta %}}
-
+{{< /cta-group >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 

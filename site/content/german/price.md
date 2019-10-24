@@ -237,6 +237,7 @@ Nach dem Registrieren kannst du jederzeit auf </br> eines der folgenden Modelle 
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
+{{< cta-group >}}
 {{% cta
   label="Mehr erfahren"
   href="de/signaturstandards"
@@ -261,6 +262,7 @@ Nach dem Registrieren kannst du jederzeit auf </br> eines der folgenden Modelle 
 **Du interssierst dich für Zusatzservices im Bereich der Identifikation?**<br>
 {{% /richtext %}}
 {{% /cta %}}
+{{< /cta-group >}}
 
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)

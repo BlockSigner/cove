@@ -232,6 +232,7 @@ Après l'enregistrement, vous pouvez à tout moment passer <br class="hide-for-m
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
+{{< cta-group >}}
 {{% cta
   label="En savoir plus"
   href="/fr/normessignature/"
@@ -256,7 +257,7 @@ Après l'enregistrement, vous pouvez à tout moment passer <br class="hide-for-m
 **Vous êtes intéressé par des services complémentaires dans le domaine de l'identification**<br>
 {{% /richtext %}}
 {{% /cta %}}
-
+{{< /cta-group >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 

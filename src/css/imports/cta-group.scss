@@ -1,0 +1,9 @@
+.cta-group {
+    .cta:not(:last-child) {
+        padding-bottom: 0px;
+        // margin-bottom: -1px;
+        .cta__content {
+            border-bottom: none;
+        }
+    }
+}
