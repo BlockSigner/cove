@@ -13,12 +13,12 @@ og_image: og/og-skribble-service.jpg
 # Signez plus facilement <br class="hide-for-mobile">avec le bon modèle tarifaire
 Skribble convient tant aux signatures occasionnelles <br class="hide-for-mobile">qu'aux signatures fréquentes
 {{% /heading %}}
-{{% action-card 
-  title="Free" 
-  class="free" 
-  description="<p><strong>Deux signatures gratuites par mois.</strong><br></p>" 
-  button-text="Essayer maintenant" 
-  button-link="https://my.skribble.com/signup?lang=fr" 
+{{% action-card
+  title="Free"
+  class="free"
+  description="<p>Vous signez <strong>gratuitement jusqu'à 2 fois par mois.</strong> Aucune carte de crédit requis.</p>"
+  button-text="Essayer maintenant"
+  button-link="https://my.skribble.com/signup?lang=fr"
   subtext="Le compte peut être supprimé à tout moment. Aucune carte de crédit requis."%}}
     {{< picture free-visual 232 "" >}}
 {{% /action-card %}}
@@ -28,14 +28,14 @@ Skribble convient tant aux signatures occasionnelles <br class="hide-for-mobile"
 Après l'enregistrement, vous pouvez à tout moment passer <br class="hide-for-mobile">à l'un des modèles tarifaires suivants:
 {{% /heading %}}
 
-{{% action-card 
-  title="Fair Flat" 
-  class="fair" 
+{{% action-card
+  title="Fair Flat"
+  class="fair"
   description="<p>Vous signez personnellement ou obtenez <strong>plus de deux signatures par mois.</strong></p><p class='top-spaced'>Maximum</p><p><strong>CHF <span class='large'>2.50</span> par signature</strong></p><p>jusqu'à un plafond de</p><p><strong>CHF <span class='large'>30.-</span> par mois</strong></p>"
   has-comparison="true"   
   comparison-caption="L'invitation de nouveau signataires coûte 2.50.– par signature."
-  button-text="Essayer maintenant" 
-  button-link="https://my.skribble.com/signup?lang=fr" 
+  button-text="Essayer maintenant"
+  button-link="https://my.skribble.com/signup?lang=fr"
   subtext="Aucune obligation d'abonnement. Les deux premières signatures sont gratuites tous les mois."%}}
     {{< picture fair-flat-visual 290 "" >}}
 {{% /action-card %}}
@@ -44,10 +44,10 @@ Après l'enregistrement, vous pouvez à tout moment passer <br class="hide-for-m
 ## Ou
 {{% /heading %}}
 
-{{% action-card 
+{{% action-card
   title="Business"
-  class="business" 
-  description="<p>Vous utilisez Skribble à l'intérieur de votre organisation. L'administration des utilisateurs est centralisée.</p>"
+  class="business"
+  description="<p>Vous utilisez Skribble dans votre organisation. L'administration des utilisateurs est centrée, la facturation est uniforme par facture.</p>"
   has-comparison="true"
   comparison-title="Le bon modèle pour chaque signataire:"
   comparison-first="<p><strong>Pay-Per-Use</strong></p><p>Pour les employés qui signent <strong>moins</strong> de 12 fois par mois et pour les personnes externes à l'entreprise.</p><p class='top-spaced'>Maximum</p><p><strong>CHF <span class='large'>2.50</strong></span></p><p> par signature au maximum</p>"
