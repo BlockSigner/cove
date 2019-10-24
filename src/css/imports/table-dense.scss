@@ -30,7 +30,7 @@
       td {
         vertical-align: top;
         padding: 18px 15px 18px 15px !important;
-        white-space: break-spaces;
+        white-space: pre-wrap;
 
         .btn {
           width: 100%;
@@ -96,6 +96,7 @@
     }
 
     #price-table {
+      table-layout: fixed;
       min-width: 800px;
       border-top: none;
       border-bottom: none;
@@ -109,10 +110,6 @@
         .header-image {
           margin-right: 10px;
         }
-      }
-
-      th {
-        width: 200px;
       }
 
       td {
