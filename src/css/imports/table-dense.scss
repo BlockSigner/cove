@@ -5,6 +5,12 @@
   justify-content: center;
   overflow: auto;
 
+  @media only screen and (max-width: 640px) {
+    max-width: 100%;
+    margin-left: 10px;
+    margin-right: 10px;
+  }
+
   .table-dense {
       flex-basis: 960px;
       min-width: 650px;
@@ -13,10 +19,6 @@
       overflow-wrap: break-word;
       word-wrap: break-word;
       text-align: left;
-
-      @media only screen and (max-width: 640px) {
-        margin: 0px 10px;
-      }
 
       strong {
         font-size: inherit;
@@ -29,7 +31,7 @@
 
       td {
         vertical-align: top;
-        padding: 18px 15px 18px 15px !important;
+        padding: 18px 15px !important;
         white-space: pre-wrap;
 
         .btn {
@@ -102,6 +104,11 @@
       border-bottom: none;
       border-collapse: separate;
       border-spacing: 24px 0px;
+
+      @media only screen and (max-width: 640px) {
+        margin: 0px;
+        border-spacing: 12px 0px;
+      }
       
       .header-with-image {
         display: flex;
@@ -115,6 +122,10 @@
       td {
         border-top: none;
         border-bottom: 1px solid #DADEE6;
+        
+        @media only screen and (max-width: 640px) {
+          padding: 18px 8px !important;
+        }
       }
 
       tr:last-child td {
