@@ -11,12 +11,12 @@ slug: preise
 # Signiere einfacher </br> mit dem passenden Preismodell
 Skribble eignet sich sowohl für gelegentliches</br>wie auch für häufiges Signieren.
 {{% /heading %}}
-{{% action-card 
-  title="Free" 
+{{% action-card
+  title="Free"
   class="free"
-  description="<p>Du signierst <strong>2 Mal pro Monat kostenlos.</strong></p>" 
-  button-text="Jetzt kostenlos ausprobieren" 
-  button-link="https://my.skribble.com/signup?lang=de" 
+  description="<p>Du signierst <strong>2 Mal pro Monat kostenlos.</strong> Keine Kreditkarte erforderlich.</p>"
+  button-text="Jetzt kostenlos ausprobieren"
+  button-link="https://my.skribble.com/signup?lang=de"
   subtext="Konto jederzeit löschbar. Keine Kreditkarte notwendig."%}}
     {{< picture free-visual 232 "" >}}
 {{% /action-card %}}
@@ -26,14 +26,14 @@ Skribble eignet sich sowohl für gelegentliches</br>wie auch für häufiges Sign
 Nach dem Registrieren kannst du jederzeit auf </br> eines der folgenden Modelle umstellen:
 {{% /heading %}}
 
-{{% action-card 
-  title="Fair Flat" 
-  class="fair" 
-  description="<p>Du signierst <strong>mehr als 2 Mal pro Monat</strong> selbst oder holst Signaturen ein.</p><p class='top-spaced'>Maximal</p><p><strong>CHF <span class='large'>2.50</span> pro Signatur</strong></p><p>bis zu einer Obergrenze von</p><p><strong>CHF <span class='large'>30.-</span> pro Monat</strong></p>"
-  has-comparison="true" 
+{{% action-card
+  title="Fair Flat"
+  class="fair"
+  description="<p>Geeignet für dich, wenn du <strong>mehr als 2 Mal pro Monat</strong> selbst signierst oder andere zum Signieren einlädst.</p><p class='top-spaced'>Maximal</p><p><strong>CHF <span class='large'>2.50</span> pro Signatur</strong></p><p>bis zu einer Obergrenze von</p><p><strong>CHF <span class='large'>30.-</span> pro Monat</strong></p>"
+  has-comparison="true"
   comparison-caption="Lädst du andere zum Signieren ein, kommen weitere 2.50.- pro Signatur dazu."
-  button-text="Jetzt ausprobieren" 
-  button-link="https://my.skribble.com/signup?lang=de" 
+  button-text="Jetzt ausprobieren"
+  button-link="https://my.skribble.com/signup?lang=de"
   subtext="Keine Abonnementsverpflichtungen. Die ersten zwei Signaturen sind jeden Monat kostenlos."%}}
     {{< picture fair-flat-visual 290 "" >}}
 {{% /action-card %}}
@@ -43,18 +43,18 @@ Nach dem Registrieren kannst du jederzeit auf </br> eines der folgenden Modelle 
 ## Oder
 {{% /heading %}}
 
-{{% action-card 
-  title="Business" 
-  class="business" 
-  description="<p>Ihr nutzt Skribble gemeinsam in eurer Organisation. Die Nutzerverwaltung ist zentriert.</p>"
+{{% action-card
+  title="Business"
+  class="business"
+  description="<p>Du nutzt Skribble in deiner Organisation. Die Benutzerverwaltung ist zentralisiert, die Verrechnung erfolgt einheitlich auf Rechnung.</p>"
   has-comparison="true"
   comparison-title="Wähle für jeden Signierenden das passende Modell:"
   comparison-first="<p><strong>Pay-Per-Use</strong></p><p>Für Mitarbeitende, die <strong>weniger</strong> als 12 Mal pro Monat signieren und für Firmen-Externe.</p><p class='top-spaced'>Maximal</p><p><strong>CHF <span class='large'>2.50</strong></span></p><p>pro Signatur</p>"
   or="Oder"
   comparison-second="<p><strong>Flatrate</strong></p><p>Für Mitarbeitende, die <strong>mehr</strong> als 12 Mal pro Monat signieren.</p><br><p class='top-spaced'>Maximal</p><p><strong>CHF <span class='large'>25</strong></span></p><p>pro Nutzer / Monat</p>"
   comparison-caption="Die Preise sinken deutlich, wenn mehr signiert wird oder mit einem anderen Standard."
-  button-text="Jetzt beraten lassen" 
-  button-link="https://help.skribble.com/meetings/patrick182/call-mit-skribble" 
+  button-text="Jetzt beraten lassen"
+  button-link="https://help.skribble.com/meetings/patrick182/call-mit-skribble"
   subtext=""%}}
     {{< picture business-visual 270 "" >}}
 {{% /action-card %}}
