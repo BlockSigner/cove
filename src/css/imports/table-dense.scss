@@ -106,9 +106,17 @@
 
     #price-table {
       border-top: none;
+      border-bottom: none;
+      border-collapse: separate;
+      border-spacing: 24px 0px;
+      
       td {
         border-top: none;
         border-bottom: 1px solid #DADEE6;
+      }
+
+      tr:last-child td {
+        border-bottom: none;
       }
 
       tr:first-child td {
