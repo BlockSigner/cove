@@ -2,7 +2,6 @@
   margin: auto;
   margin-bottom: 88px;
   max-width: 90%;
-  // display: flex;
   justify-content: center;
   overflow: auto;
 
@@ -32,40 +31,55 @@
         font-size: inherit;
       }
 
-      .icon-qes {
-        width: 44px;
-        height: 44px;
-        color: white;
-        font-weight: bold;
-        border-radius: 5px;
-        background-color: #00a671;
-        display: flex;
-        align-items: center;
-        justify-content: center;
-      }
-
-      .icon-fes {
-        width: 44px;
-        height: 44px;
-        color: white;
-        font-weight: bold;
-        border-radius: 5px;
-        background-color: #006fe6;
-        display: flex;
-        align-items: center;
-        justify-content: center;
-      }
-
       th {
         padding: 18px 10px;
         color: $c-text-alt;
+      }
 
-        h2 {
-          // display: inline-flex;
+      td {
+        vertical-align: top;
+        padding: 18px 15px 18px 15px !important;
+        white-space: break-spaces;
+
+        .btn {
+          width: 100%;
+          margin-bottom: 9px;
+        }
+      }
+    }
+
+    #qes-fes-table {
+      .icon-qes, .icon-fes {
+        width: 44px;
+        height: 44px;
+        color: white;
+        font-weight: bold;
+        border-radius: 5px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+      }
+
+      .icon-qes {
+        background-color: #00a671;
+      }
+
+      .icon-fes {
+        background-color: #006fe6;
+      }
+
+      ul {
+        padding: 0px;
+        margin: 0px;
+        white-space: normal;
+
+        li {
+          margin-left: -10px;
         }
 
-        .header-image {
-          // display: inline-flex;
+        li:before {
+          content: "•";
+          margin: 0 0.5rem 0 0;
         }
       }
 
@@ -74,7 +88,7 @@
       }
 
       th:nth-child(2), td:nth-child(2) {
-        width: 100px;
+        width: 140px;
       }
 
       th:nth-child(3), td:nth-child(3) {
@@ -88,31 +102,22 @@
       th:nth-child(5), td:nth-child(5) {
         max-width: 100px;
       }
-
-      td {
-        vertical-align: top;
-        padding: 18px 15px 18px 15px !important;
-        white-space: break-spaces;
-
-        ul {
-          padding: 0px;
-          margin: 0px;
-          white-space: normal;
-
-          li {
-            margin-left: -10px;
-          }
-
-          li:before {
-            content: "•";
-            margin: 0 0.5rem 0 0;
-          }
-        }
-
-        .btn {
-          width: 100%;
-          margin-bottom: 9px;
-        }
-      }
     }
+
+    #price-table {
+      border-top: none;
+      td {
+        border-top: none;
+        border-bottom: 1px solid #DADEE6;
+      }
+
+      tr:first-child td {
+        border-top: none;
+      }
+
+      td:empty {
+        border-bottom: none;
+      };
+    }
+    
 }

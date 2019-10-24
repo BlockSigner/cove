@@ -88,7 +88,7 @@ Anyone who has a Swiss mobile phone number can start signing with AES on Skribbl
 {{% /content %}}
 
 
-{{% table-dense "QES vs. AES at a glance" %}}
+{{% table-dense heading="QES vs. AES at a glance" id="qes-fes-table" %}}
 
 <thead>
 <tr>

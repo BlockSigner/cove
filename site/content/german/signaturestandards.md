@@ -85,7 +85,7 @@ Das trifft für die meisten Vertragsarten zu, so zum Beispiel bei Miet-, Kauf- o
 
 {{% /content %}}
 
-{{% table-dense "QES vs. FES auf einen Blick" %}}
+{{% table-dense heading="QES vs. FES auf einen Blick" id="qes-fes-table" %}}
 
 <thead>
 <tr>

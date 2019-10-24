@@ -84,7 +84,7 @@ C'est le cas pour la plupart des types de contrats, tels que les contrats de loc
 {{% /richtext %}}
 {{% /content %}}
 
-{{% table-dense "SEQ vs SAE en un coup d'œil" %}}
+{{% table-dense heading="SEQ vs SAE en un coup d'œil" id="qes-fes-table" %}}
 
 <thead>
 <tr>

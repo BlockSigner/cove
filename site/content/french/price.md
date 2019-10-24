@@ -63,7 +63,7 @@ Après l'enregistrement, vous pouvez à tout moment passer <br class="hide-for-m
 {{% /content %}}
 
 {{% show-hide-button button-text="Comparer les forfaits en détails"%}}
-{{< table-dense >}}
+{{< table-dense id="price-table" >}}
 <thead>
 <tr>
 <th style="width: 33%;"><div class="header-with-image"><span><h2>Free</h2></span><span class="header-image">{{< picture free-list 104 "" >}}</span></div></th>
