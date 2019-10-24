@@ -16,7 +16,7 @@ With Skribble, you choose a cloud platform that combines <br class="hide-for-mob
 {{% /heading %}}
 {{% /content %}}
 
-{{< picture integration-visual 494 "Skribble plattform - user interface" >}}
+{{< picture integration-visual 494 "A man sits in front of a computer and integrates skribble" >}}
 
 {{% heading %}}
 ### Use Skribble via your browser or integrate the platform <br class="hide-for-mobile">into your existing software environment via API
@@ -43,7 +43,7 @@ With Skribble, you choose a cloud platform that combines <br class="hide-for-mob
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< testimonial "testimonial/btov-logo-96w.png" "Nicole Herzog, investor and btov venture partner" >}}
+{{< testimonial "testimonial/btov-logo-96w.png" "Logo of btvo" >}}
 "Until now, e-signing solutions were either legally binding and not very user-friendly or they were easy-to-use but not legally binding. Skribble combines both advantages for the first time: It is easy to use and legally binding." 
 {{< /testimonial >}}
 
