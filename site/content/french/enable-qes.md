@@ -1,6 +1,6 @@
 ---
-title: Contrôle d'identité pour la SEQ
-description: Pour signer avec la plus haute norme de signature électronique (SEQ), les signataires doivent faire vérifier leur identité. Ceci est possible via e-ID ou avec notre service d'identification.
+title: Nous vous identifions avec l’ID-app de Swisscom
+description: Quatre petites étapes et vous pouvez commencer à signer. Il vous suffit d’avoir un téléphone mobile et un document de voyage valide.
 draft: false
 slug: debloquez-qes
 
