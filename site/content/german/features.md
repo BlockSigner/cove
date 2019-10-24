@@ -16,7 +16,7 @@ Mit Skribble signierst du nicht nur rechtsgültig, sondern auch einfach.
 {{% /heading %}}
 {{% /content %}}
 
-{{< picture skribble-ui-de 1020 "Skribble plattform - user interface" >}}
+{{< picture skribble-ui-de 1020 "Skribble plattform - benutzeroberfläche" >}}
 
 {{< features-container >}}
 
@@ -44,7 +44,7 @@ Mit Skribble signierst du nicht nur rechtsgültig, sondern auch einfach.
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< testimonial "testimonial/fr-logo-99w.svg" "Stéphane Schwab, Leiter E-Government, Kanton Freiburg" >}}
+{{< testimonial "testimonial/fr-logo-99w.svg" "Apostroph als symbol für eine empfehlung: kanton freiburg" >}}
 "Dank Skribble können wir Administrationsprozesse von A bis Z digitalisieren. Das erleichtert <br class="hide-for-mobile">den Alltag für uns und unseren Kunden." {{< /testimonial >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
@@ -77,7 +77,7 @@ Unsere Vision ist gross. Wir entwickeln Skribble Tag für Tag weiter.
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< testimonial "testimonial/btov-logo-96w.png" "Nicole Herzog, Investorin und Member of the Board von btov" >}}
+{{< testimonial "testimonial/btov-logo-96w.png" "Logo von btov" >}}
 "E-Signing-Lösungen waren bisher entweder rechtlich verbindlich und wenig benutzerfreundlich oder sie waren einfach zu bedienen aber rechtlich nicht verbindlich. Skribble verbindet erstmals die beiden Vorteile: Es ist einfach zu bedienen und rechtlich bindend." {{< /testimonial >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
