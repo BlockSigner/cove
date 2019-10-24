@@ -1,6 +1,6 @@
 ---
-title: 100% Rechtssicherheit beim Signieren
-description: Skribble hat dieselbe Rechtssicherheit wie das Unterschreiben von Hand und bietet 100% Rechtssicherheit vor Gericht.
+title: Welches Signatur brauche ich? Auf Skribble kannst du wählen
+description: Wie viel Beweiskraft brauchst du? Das Gesetz unterscheidet zwischen der qualifizierten E-Signatur (QES) und der fortgeschrittenen E-Signatur (FES).
 draft: false
 slug: signaturstandards
 
