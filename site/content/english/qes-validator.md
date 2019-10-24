@@ -1,6 +1,6 @@
 ---
-title: 100% legal certainty in court
-description: Skribble has the same legal certainty as signing by hand and offers 100% legal certainty in court.
+title: Check whether a document has been signed with QES
+description: The Validator service of the Swiss Federal Administration allows you to check whether your document has been signed with a qualified electronic signature (QES).
 draft: false
 slug: qes-validator
 
