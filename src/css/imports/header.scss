@@ -19,11 +19,6 @@
     margin-right: 8px;
   }
 
-  .icon-caret {
-    vertical-align: bottom;
-    margin-left: -5px;
-  }
-
   &__container {
     display: flex;
     justify-content: space-between;
@@ -85,7 +80,7 @@
 
   &__separator {
     margin: 10px; 
-    border-left: 1.5px solid #dbdfe7;
+    border-left: 1px solid #dbdfe7;
     @include max-width-md {
       display: none;
     }

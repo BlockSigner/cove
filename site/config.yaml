@@ -8,7 +8,7 @@ languages:
     contentDir: content/german
     phone:
       number: +41 44 505 16 64
-      link:
+      link: 0041445051664
     menu:
       main:
         # Platform dropdown
@@ -146,7 +146,7 @@ languages:
     contentDir: content/english
     phone:
       number: +41 44 505 16 64
-      link:
+      link: 0041445051664
     menu:
       main:
         # Platform dropdown
@@ -284,7 +284,7 @@ languages:
     contentDir: content/french
     phone:
       number: +41 44 505 16 64
-      link:
+      link: 0041445051664
     menu:
       main:
         # Platform dropdown
