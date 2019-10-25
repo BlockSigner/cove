@@ -185,15 +185,10 @@
   position: relative;
 }
 
-.submenu:hover {
-  position: relative;
-  font-weight: bold;
-}
-
 .submenu ul {
   position: absolute;
   background: white;
-  padding: 5px 10px; 
+  padding: 6px 10px; 
   margin: 5px 0px 0px -10px;
   display: none;
   box-shadow: 0px 0px 10px #DDD;
@@ -211,13 +206,9 @@
 /* Styling drop down links */
 .submenu li a {
   background: transparent;
-  padding:10px;
   display: block;
+  padding: 10px;
 }
-
-// .submenu li a:hover {
-//   background: gray;
-// }
 
 /* Showing Submenu on hover*/
 .submenu:hover ul {
