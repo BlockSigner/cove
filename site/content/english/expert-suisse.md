@@ -1,5 +1,5 @@
 ---
-title: Preferential price for Expert-Suisse members
+title: Preferential price for EXPERTsuisse members
 description: Legally binding electronic signatures with Skribble. Easily handle digital signature processes – legally binding in accordance with Swiss & EU law.
 draft: false
 slug: expertsuisse

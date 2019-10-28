@@ -1,5 +1,5 @@
 ---
-title: Mitglieder von Expert-Suisse profitieren von einem tollen Angebot
+title: Mitglieder von EXPERTsuisse profitieren von einem tollen Angebot
 description: Rechtsgültig elektronisch signieren mit Skribble. Signaturprozesse einfach digital abwickeln – rechtsgültig nach dem Schweizer & EU Gesetz.
 draft: false
 slug: expertsuisse

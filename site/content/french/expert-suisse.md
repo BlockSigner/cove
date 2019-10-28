@@ -1,5 +1,5 @@
 ---
-title: Prix préférentiel pour les membres Expert-Suisse
+title: Prix préférentiel pour les membres EXPERTsuisse
 description: Signature électronique légalement valide avec Skribble. Traiter les processus de signature numériquement – juridiquement valides selon le droit suisse et européen.
 draft: false
 slug: expertsuisse
