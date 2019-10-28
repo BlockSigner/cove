@@ -64,7 +64,7 @@ Easily handle digital signature processes – <br class="hide-for-mobile">legall
 
 {{% content %}}
 {{% heading %}}
-# Free signing with Skribble <br class="hide-for-mobile">until the end of the year for EXPERTsuisse members. From the 1st January 2020
+# Free signing with Skribble <br class="hide-for-mobile">until the end of the year for EXPERTsuisse members. As of January 2020
 {{% /heading %}}
 
 {{< picture sav-special 200 "Blue circle with the number 12" >}}
