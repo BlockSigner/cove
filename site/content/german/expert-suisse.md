@@ -68,7 +68,7 @@ Signaturprozesse einfach digital abwickeln – <br class="hide-for-mobile">recht
 {{% /heading %}}
 {{< picture sav-special 200 "Blauer kreis mit der nummer 12" >}}
 {{% heading %}}
-##  Dannach pro Monat / Nutzer anstatt CHF 25.-
+##  Danach pro Monat / Nutzer anstatt CHF 25.-
 Exklusiv für EXPERTsuisse Mitglieder:
 {{< picture expertsuisse-logo 250 "EXPERTsuisse Logo" >}}
 
