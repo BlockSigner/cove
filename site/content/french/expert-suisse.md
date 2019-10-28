@@ -70,7 +70,7 @@ Traiter les processus de signature numériquement &ndash; <br class="hide-for-mo
 {{< picture sav-special 200 "Cercle bleu avec le chiffre 12" >}}
 
 {{% heading %}}
-## par mois / par utilisateur au lieu de CHF 25.-
+## par mois par utilisateur au lieu de CHF 25.-
 Exclusivement pour les membres EXPERTsuisse :
 {{< picture expertsuisse-logo 250 "EXPERTsuisse Logo" >}}
 {{% /heading %}}
