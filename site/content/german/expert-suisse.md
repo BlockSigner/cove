@@ -64,7 +64,7 @@ Signaturprozesse einfach digital abwickeln – <br class="hide-for-mobile">recht
 
 {{% content %}}
 {{% heading %}}
-# Kostenlos Signieren mit Skribble <br class="hide-for-mobile">bis Ende Jahr für Mitglieder <br class="hide-for-mobile">von EXPERTsuisse. Ab dem 01.01.2020
+# Kostenlos Signieren mit Skribble <br class="hide-for-mobile">bis Ende Jahr für Mitglieder <br class="hide-for-mobile">von EXPERTsuisse. Ab dem 1. Januar 2020
 {{% /heading %}}
 {{< picture sav-special 200 "Blauer kreis mit der nummer 12" >}}
 {{% heading %}}
