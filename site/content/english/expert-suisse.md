@@ -64,14 +64,14 @@ Easily handle digital signature processes – <br class="hide-for-mobile">legall
 
 {{% content %}}
 {{% heading %}}
-# Free signing with Skribble <br class="hide-for-mobile">until end of year for EXPERTsuisse members. From the 1st January 2020
+# Free signing with Skribble <br class="hide-for-mobile">until end of the year for EXPERTsuisse members. From the 1st January 2020
 {{% /heading %}}
 
 {{< picture sav-special 200 "Blue circle with the number 12" >}}
 
 
 {{% heading %}}
-## per month / per user instead of CHF 25.00
+## per month per user instead of CHF 25.00
 Exclusively for EXPERTsuisse members:
 {{% /heading %}}
 {{< picture expertsuisse-logo 250 "EXPERTsuisse Logo" >}}
