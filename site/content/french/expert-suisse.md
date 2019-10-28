@@ -64,7 +64,7 @@ Traiter les processus de signature numériquement &ndash; <br class="hide-for-mo
 
 {{% content %}}
 {{% heading %}}
-# Signature gratuite avec Skribble <br class="hide-for-mobile">jusqu'à la fin de l'année <br class="hide-for-mobile">pour les membres EXPERTsuisse. À partir du 1er janvier 2020
+# Signature gratuite avec Skribble <br class="hide-for-mobile">jusqu'à la fin de l'année <br class="hide-for-mobile">pour les membres EXPERTsuisse. À partir de janvier 2020
 {{% /heading %}}
 
 {{< picture sav-special 200 "Cercle bleu avec le chiffre 12" >}}
