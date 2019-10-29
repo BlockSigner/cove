@@ -170,7 +170,7 @@ Personal identification is only required for signing with the highest e-signatur
 {{% /collapsible %}}
 
 {{% collapsible 12 "Is signing with Skribble legally binding?" %}}
-Yes, Skribble is based on the qualified electronic signature (QES). The QES is the only form of electronic signature that is equivalent to the handwritten signature before Swiss (OR Art. 14 Para. 2 bis) and EU law (eIDAS No. 910/2014 Art. 25 Para. 2). 
+Yes. On Skribble you can choose the highest e-signature standard available: the qualified electronic signature (QES). It has a legal weight of 100% in court.
 {{% /collapsible %}}
 
 {{% collapsible 13 "Can I store the digitally signed contract in paper form?" %}}
