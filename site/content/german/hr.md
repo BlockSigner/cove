@@ -168,7 +168,7 @@ Die persönliche Identifikation wird nur für das Signieren mit dem höchsten E-
 {{% /collapsible %}}
 
 {{% collapsible 12 "Ist das Signieren mit Skribble rechtssicher?" %}}
-Ja. Skribble basiert auf der qualifizierten elektronischen Signatur (QES). <br class="hide-for-mobile">Die QES ist die einzige Form der elektronischen Signatur, welche der handschriftlichen Signatur vor Schweizer (Art. 14 2bis OR) und EU-Gesetz <br class="hide-for-mobile">(Art. 25 (2) eIDAS) gleichgestellt ist. 
+Ja. Auf Skribble kannst du den höchsten verfügbaren E-Signatur-Standard wählen: Die qualifzierte elektronische Signatur QES. Diese hat eine Beweiskraft von 100% vor Gericht.  
 {{% /collapsible %}}
 
 {{% collapsible 13 "Kann ich den digital signierten Vertrag in Papierform aufbewahren?" %}}
