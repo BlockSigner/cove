@@ -170,7 +170,7 @@ L'identification en contact personnel n'est requise que pour signer avec la norm
 {{% /collapsible %}}
 
 {{% collapsible 12 "Est-ce que signer avec Skribble est légalement sécurisé?" %}}
-Oui, Skribble est basé sur la signature électronique qualifiée (SEQ). La SEQ est la seule forme de signature électronique équivalente à la signature manuscrite devant le droit suisse (art. 14 2bis CO) et européen (art. 25 al. 2 eIDAS).
+Oui. Sur Skribble, vous pouvez choisir le standard de signature électronique le plus élevé du marché: la signature électronique qualifiée SEQ. Celle-ci a une valeur probante de 100% devant un tribunal.
 {{% /collapsible %}}
 
 {{% collapsible 13 "Puis-je conserver le contrat signé numériquement sur papier?" %}}
