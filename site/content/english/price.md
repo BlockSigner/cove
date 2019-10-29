@@ -2,7 +2,7 @@
 title: Skribble builds trust in the digital world
 description: With Skribble signature processes are 100% digital, based on the qualified electronic signature “QES” - the e-signature, which is equivalent to your hand-written signature according to Swiss and EU law.
 draft: false
-slug: prices
+slug: pricing
 # opengraph image (for facebook and twitter)
 og_image: og/og-skribble-mission.jpg
 ---

@@ -183,9 +183,9 @@ languages:
           url: "/Lawyer/"
           weight: 15
           parent: solutions
-        # Prices
-        - name: Prices
-          url: "/prices/"
+        # Pricing
+        - name: Pricing
+          url: "/pricing/"
           weight: 20
       footer1:
         - name: Features
