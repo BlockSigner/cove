@@ -111,7 +111,7 @@ Venez vous identifier gratuitement. Apportez votre passeport <br class="hide-for
 
 {{% richtext %}}
 **Swisscom Shop**<br>
-Route de Matran 9<br> 
+Route de Matran 9<br>
 CH-1754 Avry<br>
 
 **Horaires d'ouverture:**<br>
