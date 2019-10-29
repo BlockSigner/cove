@@ -164,8 +164,8 @@ Damit schaltest du den höchsten verfügbaren E-Signatur-Standard QES frei. <br 
 Das Datenzentrum von Skribble ist in der Schweiz und nach ISO 270001 zertifiziert (Hosting nach Bankenstandard).      
 {{% /collapsible %}}
 
-{{% collapsible 11 "Wie stellt Skribble sicher, dass die richtige Person signiert?" %}}
-Alle Signierenden werden im Voraus identifziert. Während dem Signieren bestätigt die signierende Person ihre Identität über zwei Schritte, die sogenannte Zwei-Faktor-Authentifizierung. Diese beinhaltet ein SMS mit One-Time-Password oder die Mobile ID. Der Prozess ist vergleichbar mit dem Login ins E-Banking.
+{{% collapsible 11 "Was, wenn ich noch nicht persönlich identifiziert wurde?" %}}
+Die persönliche Identifikation wird nur für das Signieren mit dem höchsten E-Signatur-Standard (QES) vorausgesetzt. Wurdest du noch nicht persönlich identifiziert, signierst du mit dem zweithöchsten Standard (FES). 
 {{% /collapsible %}}
 
 {{% collapsible 12 "Brauche ich für das Signieren mit Skribble zusätzliche Hardware?" %}}
