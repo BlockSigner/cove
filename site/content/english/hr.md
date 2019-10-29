@@ -166,7 +166,7 @@ Skribble' s data centre is located in Switzerland and is ISO 270001 certified (a
 {{% /collapsible %}}
 
 {{% collapsible 11 "What if I didn't get identified yet?" %}}
-Identification is only required for signing with the highest e-signature standard (QES). If you have not yet been identified, you sign with the second highest standard (FES). 
+Personal identification is only required for signing with the highest e-signature standard (QES). If you have not yet been identified in personal contact, you sign with the second highest standard (FES). 
 {{% /collapsible %}}
 
 {{% collapsible 12 "Is signing with Skribble legally binding?" %}}
