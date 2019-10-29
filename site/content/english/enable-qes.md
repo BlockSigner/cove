@@ -85,7 +85,7 @@ No. But a Mobile ID makes signing faster and easier, which is why we recommend i
 {{% content %}}
 {{% heading %}}
 # Identification sites
-Come by and get identified for free. <br class="hide-for-mobile">Bring a valid passport or your identity card as well as your mobile phone. 
+Come by and get identified for free. <br class="hide-for-mobile">Bring a valid passport or your identity card as well as your mobile phone.
 {{% /heading %}}
 {{% /content %}}
 
@@ -110,7 +110,7 @@ Come by and get identified for free. <br class="hide-for-mobile">Bring a valid p
 
 {{% richtext %}}
 **Swisscom Shop**<br>
-Route de Matran 9<br> 
+Route de Matran 9<br>
 CH-1754 Avry<br>
 
 **Opening hours:**<br>
