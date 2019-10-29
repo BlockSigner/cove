@@ -167,8 +167,8 @@ Cela débloque la norme de signature électronique <br class="hide-for-mobile">l
 Le centre de données Skribble est situé en Suisse et est certifié ISO 270001 (hébergement bancaire standard).
 {{% /collapsible %}}
 
-{{% collapsible 11 "Comment Skribble s'assure-t-il que la bonne personne signe?" %}}
-Tous les signataires sont identifiés à l'avance. Lors de la signature, le signataire confirme son identité en deux étapes, appelées authentification à deux facteurs. Cela inclut un SMS avec un mot de passe unique ou l'identifiant Mobile ID. Le processus s'apparente à la connexion à un e-banking.
+{{% collapsible 11 "Et si je n'ai pas encore été identifié?" %}}
+L'identification n'est requise que pour signer avec la norme la plus élevée de signature électronique (SEQ). Si vous n'avez pas encore été identifié, vous signez avec la deuxième norme la plus élevée (SEA). 
 {{% /collapsible %}}
 
 {{% collapsible 12 "Ai-je besoin de matérield'un hardware supplémentaire pour signer avec Skribble?" %}}
