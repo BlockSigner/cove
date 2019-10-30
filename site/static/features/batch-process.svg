@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <svg version="1.1" id="Ebene_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 44 44" enable-background="new 0 0 44 44" xml:space="preserve">
-<path d="M38.2-0.2H14.5v3.7h21.8v25.7H40V1.7C40,0.6,39.2-0.2,38.2-0.2z M23.6,14.5H1.8c-1,0-1.8,0.8-1.8,1.8V42
+<path fill="#254875" d="M38.2-0.2H14.5v3.7h21.8v25.7H40V1.7C40,0.6,39.2-0.2,38.2-0.2z M23.6,14.5H1.8c-1,0-1.8,0.8-1.8,1.8V42
 	c0,1,0.8,1.8,1.8,1.8h21.8c1,0,1.8-0.8,1.8-1.8V16.3C25.5,15.3,24.6,14.5,23.6,14.5z M30.9,7.2H7.3v3.7h21.8v25.7h3.6V9
 	C32.7,8,31.9,7.2,30.9,7.2z"/>
 </svg>
