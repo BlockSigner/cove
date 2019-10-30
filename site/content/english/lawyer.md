@@ -166,7 +166,7 @@ This will unlock the highest e-signature standard available – QES. <br class="
 Skribble' s data centre is located in Switzerland and is ISO 270001 certified (according to banking standards).         
 {{% /collapsible %}}
 
-{{% collapsible 11 "What if I didn't get identified yet?" %}}
+{{% collapsible 11 "What if I haven't been identified yet?" %}}
 Personal identification is only required for signing with the highest e-signature standard (QES). If you have not yet been identified in personal contact, you sign with the second highest standard (FES).
 {{% /collapsible %}}
 
