@@ -26,7 +26,7 @@
     }
 
     .features-text {
-        padding: 0 20px;
+        padding: 0px 20px 0px 30px;
         max-width: 360px;
         min-width: 280px;
         flex: 1;
@@ -39,10 +39,12 @@
     p {
         margin-top: 5px;
         margin-bottom: 5px;
-        font-size: 90%;
+        font-size: 16px;
+        line-height: 24px;
     }
 
     strong {
+        font-size: 24px;
         color: #293d66;
     }
 
