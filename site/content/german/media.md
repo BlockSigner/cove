@@ -53,49 +53,49 @@ Die wichtigsten Skribble Branding Assets sind gleich hier griffbereit:
   <td>19.09.2019</td>
   <td>**EXPERTsuisse kooperiert mit Skribble**</td>
   <td>
-    [Download](downloads/20190919-Medienmitteilung-EXPERTsuisse-kooperiert-mit-Skribble.pdf)
+    <a href="downloads/20190919-Medienmitteilung-EXPERTsuisse-kooperiert-mit-Skribble.pdf" target="_blank">Download</a>
   </td>
 </tr>
 <tr>
   <td>11.09.2019</td>
   <td>**ZKB Investiert in Skribble**</td>
   <td>
-    [Download](downloads/20190911-Medienmitteilung-ZKB-investiert-in-Skribble.pdf)
+    <a href="downloads/20190911-Medienmitteilung-ZKB-investiert-in-Skribble.pdf" target="_blank">Download</a>
   </td>
 </tr>
 <tr>
   <td>03.09.2019</td>
   <td>**Momentum für E-Signatur ist da**</td>
   <td>
-    [Download](downloads/20190903-Das-Momentum-für-die-elektronische-Signatur-ist-da.pdf)
+    <a href="downloads/20190903-Das-Momentum-für-die-elektronische-Signatur-ist-da.pdf" target="_blank">Download</a>
   </td>
 </tr>
 <tr>
   <td>26.08.2019</td>
   <td>**Open House im Trust Square**</td>
   <td>
-    [Download](downloads/20190826-Digitaltag-im-Trust-Square-mit-Skribble.pdf)
+    <a href="downloads/20190826-Digitaltag-im-Trust-Square-mit-Skribble.pdf" target="_blank">Download</a>
   </td>
 </tr>
 <tr>
   <td>22.05.2019</td>
   <td>**Finanzierungsrunde abgeschlossen**</td>
   <td>
-    [Download](downloads/20190522-medienmitteilung-skribble-abschluss-finanzierungsrunde.pdf)
+    <a href="downloads/20190522-medienmitteilung-skribble-abschluss-finanzierungsrunde.pdf" target="_blank">Download</a>
   </td>
 </tr>
 <tr>
   <td>09.04.2019</td>
   <td>**Partnerschaft mit Procivis**</td>
   <td>
-    [Download](downloads/20190409-press-release-procivis-skribble-collaboration.pdf)
+    <a href="downloads/20190409-press-release-procivis-skribble-collaboration.pdf" target="_blank">Download</a>
   </td>
 </tr>
 <tr>
   <td style="width:10%;">27.03.2019</td>
   <td style="width:80%;">**Skribble Go-Live**</td>
   <td style="width:10%;">
-    [Download](downloads/20190327-medienmitteilung-skribble-go-live.pdf)
+    <a href="downloads/20190327-medienmitteilung-skribble-go-live.pdf" target="_blank">Download</a>
   </td>
 </tr>
 {{% /table %}}

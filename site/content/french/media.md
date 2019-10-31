@@ -53,28 +53,28 @@ Les atouts les plus importants de Skribble sont à portée de main :
   <td>19.09.2019</td>
   <td>**EXPERTsuisse cooperates with Skribble (an allemand)**</td>
   <td>
-    [Télécharger](downloads/20190919-Medienmitteilung-EXPERTsuisse-kooperiert-mit-Skribble.pdf)
+    <a href="downloads/20190919-Medienmitteilung-EXPERTsuisse-kooperiert-mit-Skribble.pdf" target="_blank">Télécharger</a>
   </td>
 </tr>
 <tr>
   <td>11.09.2019</td>
   <td>**La ZKB investit dans Skribble (an allemand)**</td>
   <td>
-    [Télécharger](downloads/20190911-Medienmitteilung-ZKB-investiert-in-Skribble.pdf)
+    <a href="downloads/20190911-Medienmitteilung-ZKB-investiert-in-Skribble.pdf" target="_blank">Télécharger</a>
   </td>
 </tr>
 <tr>
   <td>03.09.2019</td>
   <td>**L'heure de la signature électronique a sonné (an allemand)**</td>
   <td>
-    [Télécharger](downloads/20190903-Das-Momentum-für-die-elektronische-Signatur-ist-da.pdf)
+    <a href="downloads/20190903-Das-Momentum-für-die-elektronische-Signatur-ist-da.pdf" target="_blank">Télécharger</a>
   </td>
 </tr>
 <tr>
   <td>26.08.2019</td>
   <td>**Portes ouvertes au Trust Square (an allemand)**</td>
   <td>
-    [Télécharger](downloads/20190826-Digitaltag-im-Trust-Square-mit-Skribble.pdf)
+    <a href="downloads/20190826-Digitaltag-im-Trust-Square-mit-Skribble.pdf" target="_blank">Télécharger</a>
   </td>
 </tr>
 
@@ -83,21 +83,21 @@ Les atouts les plus importants de Skribble sont à portée de main :
   <td>22.05.2019</td>
   <td>**Cycle de financement terminé (an allemand)**</td>
   <td>
-    [Télécharger](downloads/20190522-medienmitteilung-skribble-abschluss-finanzierungsrunde.pdf)
+    <a href="downloads/20190522-medienmitteilung-skribble-abschluss-finanzierungsrunde.pdf" target="_blank">Télécharger</a>
   </td>
 </tr>
 <tr>
   <td>09.04.2019</td>
   <td>**Partenariat avec Procivis (an allemand)**</td>
   <td>
-    [Télécharger](downloads/20190409-press-release-procivis-skribble-collaboration.pdf)
+    <a href="downloads/20190409-press-release-procivis-skribble-collaboration.pdf" target="_blank">Télécharger</a>
   </td>
 </tr>
 <tr>
   <td style="width:10%;">27.03.2019</td>
   <td style="width:80%;">**Skribble Go-Live (an allemand)**</td>
   <td style="width:10%;">
-    [Télécharger](downloads/20190327-medienmitteilung-skribble-go-live.pdf)
+    <a href="downloads/20190327-medienmitteilung-skribble-go-live.pdf" target="_blank">Télécharger</a>
   </td>
 </tr>
 {{% /table %}}
