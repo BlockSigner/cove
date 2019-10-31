@@ -27,7 +27,7 @@
     .features-text {
         padding: 0px 20px 0px 30px;
         max-width: 360px;
-        min-width: 280px;
+        min-width: 200px;
         flex: 1;
     }
     
@@ -61,7 +61,8 @@
 
     @media screen and (max-width: 750px) {
         .features-flex-item {
-            text-align: center;
+            // text-align: center;
+            padding: 0px;
         }
 
         .features-text {
@@ -84,6 +85,13 @@
 
         p {
             margin-top: 0px;
+        }
+    }
+
+    
+    @media screen and (max-width: 367px) {
+        .features-text {
+            text-align: center;
         }
     }
 
