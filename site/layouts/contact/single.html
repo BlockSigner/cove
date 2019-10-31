@@ -24,7 +24,9 @@
               </div>
               <div style="padding-right: 20px">
                 <p style="font-weight: bold; font-size: 18px; color: #293D66">Email</p>
-                <p><a href="mailto:info@skribble.com">info@skribble.com</a></p>
+                <p><a href="mailto:{{ .address.email}}">{{ .address.email}}</a></p>
+                <p style="font-weight: bold; font-size: 18px; color: #293D66; margin-top: 10px;">{{ .address.opening_hours.title }}</p>
+                <p>{{ .address.opening_hours.description }}</p>
               </div>
             </div>
           </div>

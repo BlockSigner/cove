@@ -21,6 +21,10 @@ map:
           Trust Square
           Bahnhofstrasse 3
           CH-8001 Zurich      
+        email: info@skribble.com
+        opening_hours: 
+          title: Opening Hours
+          description: From 9 to 17
     - title: Karlsruhe (Ettlingen)
       picture:      
         name: map-karlsruhe
@@ -30,7 +34,11 @@ map:
         title: Skribble Deutschland GmbH
         full: |
           Pforzheimer Str. 128A
-          DE-76275 Ettlingen  
+          DE-76275 Ettlingen      
+        email: info@skribble.com  
+        opening_hours: 
+          title: Opening Hours
+          description: From 9 to 17
 ---
 
 {{< outro >}}

@@ -21,7 +21,11 @@ map:
         full: |
           Trust Square
           Bahnhofstrasse 3
-          CH-8001 Zürich      
+          CH-8001 Zürich     
+        email: info@skribble.com 
+        opening_hours: 
+          title: Opening Hours
+          description: From 9 to 17
     - title: Karlsruhe (Ettlingen)
       picture:      
         name: map-karlsruhe
@@ -32,6 +36,10 @@ map:
         full: |
           Pforzheimer Str. 128
           DE-76275 Ettlingen
+        email: info@skribble.com
+        opening_hours: 
+          title: Opening Hours
+          description: From 9 to 17
 
 ---
 
