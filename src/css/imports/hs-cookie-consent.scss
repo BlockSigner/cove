@@ -24,9 +24,12 @@ div#hs-eu-cookie-confirmation.hs-cookie-notification-position-bottom {
     p {
       margin: 0 !important;
       color: white !important;
+      max-width: 750px !important;
     }
 
     div#hs-en-cookie-confirmation-buttons-area {
+      flex-grow: 1 !important;
+      justify-content: flex-end !important;
       @media only screen and (min-width: 960px) {
         display: flex;
       }
