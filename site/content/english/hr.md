@@ -170,7 +170,7 @@ Personal identification is only required for signing with the highest e-signatur
 {{% /collapsible %}}
 
 {{% collapsible 12 "Is signing with Skribble legally binding?" %}}
-Yes. On Skribble you can choose the highest e-signature standard available: the qualified electronic signature (QES). It has a legal weight of 100% in court.
+Yes. On Skribble you can choose the highest e-signature standard available: the qualified electronic signature (QES). It has the highest legal weight in court.
 {{% /collapsible %}}
 
 {{% collapsible 13 "Can I store the digitally signed contract in paper form?" %}}
