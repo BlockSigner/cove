@@ -1,12 +1,20 @@
 .logos-container {
   padding: 44px 120px;
 
+  @media screen and (max-width: 1100px) {
+    padding: 44px 15%;
+  }
+
   @media screen and (max-width: 750px) {
-    padding: 5px 44px;
+    padding: 5px 10%;
   }
 
   .logos-title {
     margin-bottom: 20px;
+    @media screen and (max-width: 600px) {
+      text-align: center;
+      margin-bottom: 40px;
+    }
   }
 
   .logos-flex-container {
