@@ -18,6 +18,7 @@ groups:
           retina_portrait: team/philipp-dick-l@2x
           regular_landscape: team/philipp-dick-l
           retina_landscape: team/philipp-dick-l@2x
+          alt_text:
       - name: Michel Fernandez
         position: CXD & Co-Founder
         images:
@@ -25,6 +26,7 @@ groups:
           retina_portrait: team/michel-fernandez-p@2x
           regular_landscape: team/michel-fernandez-l
           retina_landscape: team/michel-fernandez-l@2x
+          alt_text:
       - name: Roni Oeschger
         position: CTO & Co-Founder
         images:
@@ -32,6 +34,7 @@ groups:
           retina_portrait: team/roni-oeschger-p@2x
           regular_landscape: team/roni-oeschger-l
           retina_landscape: team/roni-oeschger-l@2x
+          alt_text:
       - name: Waldemar Dick
         position: CSO & Co-Founder
         images:
@@ -39,6 +42,7 @@ groups:
           retina_portrait: team/waldemar-dick-l@2x
           regular_landscape: team/waldemar-dick-l
           retina_landscape: team/waldemar-dick-l@2x
+          alt_text:
       - name: David Fürsinger
         position: CXE & Co-Founder
         images:
@@ -46,6 +50,7 @@ groups:
           retina_portrait: team/david-fuersinger-l@2x
           regular_landscape: team/david-fuersinger-l
           retina_landscape: team/david-fuersinger-l@2x
+          alt_text:
       - name: Tim Head
         position: Engineering
         images:
@@ -53,6 +58,7 @@ groups:
           retina_portrait: team/timothy-head-p@2x
           regular_landscape: team/timothy-head-l
           retina_landscape: team/timothy-head-l@2x
+          alt_text:
       - name: Kira Leuthold
         position: Content & Communications
         images:
@@ -60,6 +66,7 @@ groups:
           retina_portrait: team/kira-leuthold-p@2x
           regular_landscape: team/kira-leuthold-l
           retina_landscape: team/kira-leuthold-l@2x
+          alt_text:
       - name: Simon Moser
         position: Business Development
         images:
@@ -67,6 +74,7 @@ groups:
           retina_portrait: team/simon-moser-l@2x
           regular_landscape: team/simon-moser-l
           retina_landscape: team/simon-moser-l@2x
+          alt_text:
       - name: Till Graf
         position: Growth Hacking
         images:
@@ -74,6 +82,7 @@ groups:
           retina_portrait: team/till-graf-l@2x
           regular_landscape: team/till-graf-l
           retina_landscape: team/till-graf-l@2x
+          alt_text:
       - name: Mike Silberman
         position: Customer Growth Execution
         images:
@@ -81,6 +90,7 @@ groups:
           retina_portrait: team/mike-silberman-p@2x
           regular_landscape: team/mike-silberman-l
           retina_landscape: team/mike-silberman-l@2x
+          alt_text:
       - name: Patrick Meade
         position: Happiness Manager
         images:
@@ -88,6 +98,7 @@ groups:
           retina_portrait: team/patrick-meade-p@2x
           regular_landscape: team/patrick-meade-l
           retina_landscape: team/patrick-meade-l@2x
+          alt_text:
       - name: Dominik Kumpf
         position: Engineering & Testing
         images:
@@ -95,6 +106,7 @@ groups:
           retina_portrait: team/dominik-kumpf-l@2x
           regular_landscape: team/dominik-kumpf-l
           retina_landscape: team/dominik-kumpf-l@2x
+          alt_text:
       - name: Luc Lippuner
         position: Content & Communications
         images:
@@ -102,6 +114,7 @@ groups:
           retina_portrait: team/luc-lippuner-l@2x
           regular_landscape: team/luc-lippuner-l
           retina_landscape: team/luc-lippuner-l@2x
+          alt_text:
       - name: João Bárcia
         position: Engineering
         images:
@@ -109,6 +122,7 @@ groups:
           retina_portrait: team/joao-barcia-p@2x
           regular_landscape: team/joao-barcia-l
           retina_landscape: team/joao-barcia-l@2x
+          alt_text:
       - name: Rainer Görmann
         position: Engineering
         images:
@@ -116,6 +130,7 @@ groups:
           retina_portrait: team/rainer-goermann-l@2x
           regular_landscape: team/rainer-goermann-l
           retina_landscape: team/rainer-goermann-l@2x
+          alt_text:
   - title: Advisors
     text: Skribble's advisors
     people:
@@ -126,6 +141,7 @@ groups:
           retina_portrait: team/karl-kagermeier-l@2x
           regular_landscape: team/karl-kagermeier-l
           retina_landscape: team/karl-kagermeier-l@2x
+          alt_text:
       - name: Eric Kuenzi
         position: Legal-Strategic Advisor
         images:
@@ -133,6 +149,7 @@ groups:
           retina_portrait: team/eric-kuenzi-p@2x
           regular_landscape: team/eric-kuenzi-l
           retina_landscape: team/eric-kuenzi-l@2x
+          alt_text:
 
 ---
 
