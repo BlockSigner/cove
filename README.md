@@ -174,6 +174,9 @@ Applies styling for headings, paragraphs, links, and lists (ul, ol, dl).
 ### Atomic components
 Components that are rather simple and used in various places throughout the website.
 
+#### {{% center %}}
+Centers the content placed inside of it.
+
 #### {{< button >}}
 The button accepts 4 parameters.
 ```
