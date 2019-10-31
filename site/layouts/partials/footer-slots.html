@@ -3,12 +3,12 @@
     <div class="footer__slot">
       <div class="footer__title">{{ .Site.Params.footer.leftSlot.title }}</div>
       <p class="footer__text">{{ .Site.Params.footer.leftSlot.text }}</p>
-      <a class="btn btn--outline" target="_blank" rel="noopener" href="{{ .Site.Params.footer.leftSlot.button.href }}">{{ .Site.Params.footer.leftSlot.button.label }}</a>
+      <a class="btn btn--outline" target="{{ .Site.Params.footer.leftSlot.button.target }}" rel="noopener" href="{{ .Site.Params.footer.leftSlot.button.href }}">{{ .Site.Params.footer.leftSlot.button.label }}</a>
     </div>
     <div class="footer__slot">
       <div class="footer__title">{{ .Site.Params.footer.rightSlot.title }}</div>
       <p class="footer__text">{{ .Site.Params.footer.rightSlot.text }}</p>
-      <a class="btn btn--outline" target="_blank" rel="noopener" href="{{ .Site.Params.footer.rightSlot.button.href }}">{{ .Site.Params.footer.rightSlot.button.label }}</a>
+      <a class="btn btn--outline" target="{{ .Site.Params.footer.rightSlot.button.target }}" rel="noopener" href="{{ .Site.Params.footer.rightSlot.button.href }}">{{ .Site.Params.footer.rightSlot.button.label }}</a>
     </div>
   </div>
 </div>
