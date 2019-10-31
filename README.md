@@ -191,6 +191,8 @@ The button accepts 4 parameters.
 3. target attribute (optional): `_blank_`
 4. style (optional): `outline`
 
+Note: if you want to use `outline` and not `blank`, use a 3rd parameter but leave it empty: `""`
+
 #### {{< ol >}}
 Use the strong tag to indicate the title of an ordered list item that has a title and a text.
 ```
