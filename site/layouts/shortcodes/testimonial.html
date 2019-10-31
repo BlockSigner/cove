@@ -1,7 +1,7 @@
 <div class="testimonial">
   {{ if (.Get 0) }}
   <div class="testimonial__image">
-    <img src="image/{{.Get 0}}" alt="" />
+    <img src="image/{{.Get 0}}" alt="{{ if (.Get 2) }}{{.Get 2}}{{end}}" />
   </div>
   {{ end}}
   <blockquote class="testimonial__quote">

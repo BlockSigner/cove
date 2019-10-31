@@ -333,6 +333,7 @@ To provide a little bit of structure, we add the testimonial images in a folder 
 **Parameters**
 1. image
 2. footer
+3. alt (optional)
 
 ## Outlines
 To show component outlines and component labels, add the following styling to `main.scss`.
