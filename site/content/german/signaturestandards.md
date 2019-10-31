@@ -39,6 +39,7 @@ Für das Signieren mit QES auf Skribble wird eine vorgängige Identitätsprüfun
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
+{{< cta-group >}}
 {{% cta
   label="Mehr erfahren"
   href="de/qes-freischalten"
@@ -67,6 +68,7 @@ So schaltest du die QES auf Skribble frei.
 Prüfe, ob ein Dokument mit QES signiert wurde.
 {{% /richtext %}}
 {{% /cta %}}
+{{< /cta-group >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 

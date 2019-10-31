@@ -38,6 +38,7 @@ Pour signer avec la SEQ sur Skribble, un contrôle d'identité préalable avec c
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
+{{< cta-group >}}
 {{% cta
   label="En savoir plus"
   href="fr/debloquez-qes"
@@ -66,6 +67,7 @@ Comment déverrouiller la SEQ sur Skribble
 Vérifiez si un document a été signé avec la SEQ
 {{% /richtext %}}
 {{% /cta %}}
+{{< /cta-group >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 

@@ -40,6 +40,7 @@ For signing with QES on Skribble, a prior identity check in personal contact or 
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
+{{< cta-group >}}
 {{% cta
   label="Learn more"
   href="enable-qes"
@@ -68,6 +69,7 @@ This is how you unlock QES on Skribble
 Check whether a document has been signed with QES
 {{% /richtext %}}
 {{% /cta %}}
+{{< /cta-group >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
