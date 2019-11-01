@@ -109,8 +109,8 @@ Skribble and its signing partner Swisscom commit to manage data in accordance wi
 {{% content %}}
 {{% heading %}}
 # Use Skribble to maximise the legal weight of your signature
-The law distinguishes between qualified e-signatures (QES) <br class="hide-for-mobile">and advanced e-signatures (AES). 
-The two standards vary in terms of area <br class="hide-for-mobile">of application and legal weight. 
+The law distinguishes between qualified e-signatures (QES) <br class="hide-for-mobile">and advanced e-signatures (AES).
+The two standards vary in terms of area <br class="hide-for-mobile">of application and legal weight.
 {{% /heading %}}
 {{< picture legal_weight 664 "Legal-weight" >}}
 {{% richtext %}}
@@ -165,8 +165,8 @@ This will unlock the highest e-signature standard available – QES. <br class="
 Skribble' s data centre is located in Switzerland and is ISO 270001 certified (according to banking standards).         
 {{% /collapsible %}}
 
-{{% collapsible 11 "What if I didn't get identified yet?" %}}
-Personal identification is only required for signing with the highest e-signature standard (QES). If you have not yet been identified in personal contact, you sign with the second highest standard (AES). 
+{{% collapsible 11 "What if I haven't been identified yet?" %}}
+Personal identification is only required for signing with the highest e-signature standard (QES). If you have not yet been identified in personal contact, you sign with the second highest standard (AES).
 {{% /collapsible %}}
 
 {{% collapsible 12 "Is signing with Skribble legally binding?" %}}
