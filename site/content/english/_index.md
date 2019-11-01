@@ -103,16 +103,14 @@ Sign at the push of a button, independent of time and place, legally valid accor
 {{< picture skribble-ui-en 1020 "Skribble plattform - user interface" >}}
 
 
-{{% cta
-  label="Show all functions"
-  href="features"
-  outlined="true"
-%}}
-
-{{% richtext %}}
-**With Skribble you not only sign <br class="hide-for-mobile">legally, but also simply.**<br>
-{{% /richtext %}}
-{{% /cta %}}
+{{% center %}}
+{{< button
+  "Show all functions"
+  "features"
+  ""
+  "outline"
+>}}
+{{% /center %}}
 
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)

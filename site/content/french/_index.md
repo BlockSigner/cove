@@ -98,16 +98,14 @@ Signez par simple pression d'un bouton, indépendamment de l'heure et du lieu, d
 
 {{< picture skribble-ui-fr 1020 "Skribble plattform - user interface" >}}
 
-{{% cta
-  label="Afficher toutes les fonctions"
-  href="/fr/fonctionnalites/"
-  outlined="true"
-%}}
-
-{{% richtext %}}
-**Avec Skribble vous signez non seulement légalement, mais aussi simplement.**<br>
-{{% /richtext %}}
-{{% /cta %}}
+{{% center %}}
+{{< button
+  "Afficher toutes les fonctions"
+  "/fr/fonctionnalites/"
+  ""
+  "outline"
+>}}
+{{% /center %}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
