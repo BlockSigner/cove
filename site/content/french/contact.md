@@ -25,7 +25,7 @@ map:
         email: info@skribble.com 
         opening_hours: 
           title: Horaires d'ouverture
-          description: From 9 to 17
+          description: De 9h à 17h
     - title: Karlsruhe (Ettlingen)
       picture:      
         name: map-karlsruhe
@@ -39,7 +39,7 @@ map:
         email: info@skribble.com
         opening_hours: 
           title: Horaires d'ouverture
-          description: From 9 to 17
+          description: De 9h à 17h
 
 ---
 
