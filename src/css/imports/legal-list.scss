@@ -14,10 +14,16 @@
     counter-reset: clause;
     list-style: none inside none;
 
+    // 1. two immediately following ol should not reset
+    // 2. if another node is in between (like a h3), it should reset
+    // 3. Any ul sibling of an ol followed by a ol should not reset the counter
+    + ol, ~ ul + ol {
+      counter-reset: none;
+    }
+
     li {
       padding: 16px 0;
       margin: 0;
-      border-bottom: 1px solid $c-border;
       counter-increment: clause;
       &:before {
         margin: 0 0.5em 0 0;
@@ -32,7 +38,6 @@
 
       > ol {
         margin-top: 16px;
-        border-top: 1px solid $c-border;
       }
 
       li {
