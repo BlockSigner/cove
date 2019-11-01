@@ -23,7 +23,7 @@ map:
           CH-8001 Zurich      
         email: info@skribble.com
         opening_hours: 
-          title: Opening Hours
+          title: Opening hours
           description: From 9 to 17
     - title: Karlsruhe (Ettlingen)
       picture:      
@@ -37,7 +37,7 @@ map:
           DE-76275 Ettlingen      
         email: info@skribble.com  
         opening_hours: 
-          title: Opening Hours
+          title: Opening hours
           description: From 9 to 17
 ---
 
