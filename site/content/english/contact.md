@@ -34,7 +34,7 @@ map:
         title: Skribble Deutschland GmbH
         full: |
           Pforzheimer Str. 128A
-          DE-76275 Ettlingen      
+          DE-76275 Ettlingen
         email: info@skribble.com  
         opening_hours: 
           title: Opening hours
