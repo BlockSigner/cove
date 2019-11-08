@@ -25,6 +25,7 @@ Deploy:
     - [action card](#action-card)
     - [collapsible](#collapsible)
     - [cta (call to action)](#cta)
+    - [cta-group](#cta-group)
     - [features-container and features-item](#{{<-features-container->}}-and-{{<-features-item->}})
     - [heading](#heading)
     - [intro](#intro)
@@ -311,7 +312,7 @@ A signature with Skribble is equal to the handwritten signature according to Swi
 1. id
 2. title of the collapsible
 
-#### {{< cta >}}
+#### {{< cta >}} 
 A little component with dividers at the top and bottom that is used to focus the attention on a single call to action.
 
 **Parameters**
@@ -321,6 +322,16 @@ A little component with dividers at the top and bottom that is used to focus the
 - `outlined="true"` Applies the outline style to the button
 - `title` Adds a title above the border
 - `floating="true"` Removes the borders around the cta
+
+#### {{< cta-group >}}
+In case you wish to have several cta components vertically stacked with no space between them, use them inside a cta-group
+```
+{{< cta-group >}}
+  {{% cta 1 %}}
+  {{% cta 2 %}}
+  {{% cta 3 %}}
+{{< /cta-group >}}
+```
 
 #### {{< features-container >}} and {{< features-item >}}
 The features component allows you to present a responsive grid of images with a headline and description. It is composed of two shortcodes to be used nested, as in the following example:
