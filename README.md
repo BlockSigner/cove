@@ -22,6 +22,7 @@ Deploy:
     - [ol (ordered list)](#ol)
     - [picture](#picture)
   - [Custom Components](#custom-components)
+    - [action card](#action-card)
     - [collapsible](#collapsible)
     - [cta (call to action)](#cta)
     - [features-container and features-item](#{{<-features-container->}}-and-{{<-features-item->}})
@@ -261,6 +262,43 @@ The `-` and the `w` in the filename are added by the component. You have to add 
 
 ### Custom components
 
+#### {{% action-card %}}
+Creates a large call to action card with several descriptive and interactive elements.
+
+A picture can be inserted inside the shortcode in the regular picture format shortcode.
+
+**Parameters**
+- `title`
+- `class` a CSS class to be applied to the card
+- `description`
+- `button-text`
+- `button-link`
+- `subtext`
+- `has-comparison` (optional) set to `true` in case you want to have an internal comparison panel between two options
+- `comparison-title` (optional) if `has-comparison` is set to true, this text will be the title of the comparison
+- `comparison-first` (optional) if `has-comparison` is set to true, this will be the content of the first element
+- `comparison-second` (optional) if `has-comparison` is set to true, this will be the content of the second element
+- `comparison-caption` (optional) if `has-comparison` is set to true, this text will be the caption of the comparison
+
+Full example:
+```
+{{% action-card
+  title="Business"
+  class="business"
+  description="<p>Skribble for your organisation. User administration is centralised and your organisation is invoiced monthly.</p>"
+  has-comparison="true"
+  comparison-title="Choose the right plan for each signer:"
+  comparison-first="<p><strong>Pay-Per-Use</strong></p><p>For employees who sign <strong>less</strong> than 12 times a month and for people external to the company.</p><p class='top-spaced'>Maximum</p><p><strong>CHF <span class='large'>2.50</strong></span></p><p>per signature</p>"
+  or="Or"
+  comparison-second="<p><strong>Flat rate</strong></p><p>For employees who sign <strong>more</strong> than 12 times a month.</p><br><p class='top-spaced'>Maximum</p><p><strong>CHF <span class='large'>25</strong></span></p><p>per user/month</p>"
+  comparison-caption="The prices decrease significantly if you sign more or with a different standard."
+  button-text="Get advice now"
+  button-link="https://help.skribble.com/meetings/patrick182/telephone-consultation-skribble"
+  subtext=""%}}
+    {{< picture business-visual 270 "" >}}
+{{% /action-card %}}
+```
+ 
 #### {{< collapsible >}}
 This collapsible component hides its content and reveals it after clicking on the title.
 ```
