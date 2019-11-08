@@ -100,7 +100,7 @@ Signiere per Knopfdruck, unabhängig <br class="hide-for-mobile">von Zeit und Or
 
 {{% center %}}
 {{< button
-  "Alle Funktionen anzeigens"
+  "Alle Funktionen anzeigen"
   "de/features"
   ""
   "outline"
