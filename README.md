@@ -270,7 +270,7 @@ A picture can be inserted inside the shortcode in the regular picture format sho
 
 **Parameters**
 - `title`
-- `class` a CSS class to be applied to the card
+- `class` a CSS class to be applied to the component
 - `description`
 - `button-text`
 - `button-link`
@@ -322,6 +322,7 @@ A little component with dividers at the top and bottom that is used to focus the
 - `outlined="true"` Applies the outline style to the button
 - `title` Adds a title above the border
 - `floating="true"` Removes the borders around the cta
+- `class` A CSS class to be applied to the component
 
 #### {{< cta-group >}}
 In case you wish to have several cta components vertically stacked with no space between them, use them inside a cta-group
@@ -350,6 +351,7 @@ The heading component is used to arrange a title and a lead text. It centers its
 
 **Parameters**
 1. left (optional)
+- `class` A CSS class to be applied to the component
 
 #### {{< intro >}}
 #### {{< intro-partner >}}
