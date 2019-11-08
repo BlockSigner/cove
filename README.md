@@ -5,7 +5,38 @@
 Deploy:
 [![Netlify Status](https://api.netlify.com/api/v1/badges/7d00ef7a-5c8b-4b90-912f-355470b7d23c/deploy-status)](https://app.netlify.com/sites/skribble/deploys)
 
-## Use
+# Table of Contents
+- [How to Use](#how-to-use)
+- [Frontend Components](#frontend-components)
+  - [The basics](#the-basics)
+  - [Menu component](#menu-component)
+  - [Layout components](#layout-components)
+    - [side-by-side](#side-by-side)
+    - [content](#content)
+    - [row](#row)
+  - [Markdown wrapper components](#markdown-wrapper-components)
+    - [richtext](#richtext)
+  - [Atomic components](#atomic-components)
+    - [center](#center)
+    - [button](#button)
+    - [ol (ordered list)](#ol)
+    - [picture](#picture)
+  - [Custom Components](#custom-components)
+    - [collapsible](#collapsible)
+    - [cta (call to action)](#cta)
+    - [features-container and features-item](#{{<-features-container->}}-and-{{<-features-item->}})
+    - [heading](#heading)
+    - [intro](#intro)
+    - [intro-partner](#intro-partner)
+    - [logos-container and logos-item](#{{<-logos-container->}}-and-{{<-logos-item->}})
+    - [plan](#plan)
+    - [outro](#outro)
+    - [testimonial](#testimonial)
+- [Outlines](#outlines)
+
+---
+
+## How to Use
 ### Prerequisites
 Install the latest
 - Node.js https://github.com/nodejs/node
@@ -78,6 +109,8 @@ Download the GitHub desktop app to easily track changes in the repository: https
 After publishing, your changes appear on the cove GitHub page of BlockSigner: https://github.com/BlockSigner/cove. A yellow bar on top allows you to start a pull request. An open pull request triggers a build on Netlify that generates a preview.
 
 The changes are online after merging into master. Master is automatically built and deployed.
+
+---
 
 ## Frontend components
 Frontend components can be inserted as needed in the markdown files that make up the pages of the website. You cannot add components in the Front Matter. The Front Matter defines page specific meta content. We use it for the meta title and description of the page and for defining open graph images. The Front Matter area is indicated by 3 opening and 3 closing hyphens ( `---` ).
@@ -163,7 +196,7 @@ This component is a basic building block for Cove. It aligns a picture and a con
 #### {{< content >}}
 The other basic building block `content` building direction is top to down. It usually starts with a heading component its contents are completely free to choose. To horizontally group components within the `content` you can use the `row` component.
 
-##### {{< row >}}
+#### {{< row >}}
 Draws its contents laterally outwards from the center. Its content is horizontally centered, vertically stretched, and never wrapped. Example content: `plan` component.
 
 ### Markdown wrapper components
@@ -306,14 +339,6 @@ Suitable for single or occasional signing with QES
 6. button target attribute (optional)
 7. button style (optional): `outline`
 
-#### {{< collapsible >}}
-This collapsible component hides its content and reveals it after clicking on the title.
-```
-{{% collapsible 1 "Requirement of written form" "" %}}
-A signature with Skribble is equal to the handwritten signature according to Swiss (OR Art. 14 Para. 2 bis) and EU law (eIDAS No. 910`/`2014 Art. 25 Para. 2).
-{{% /collapsible %}}
-```
-
 **Parameters**
 1. id
 2. title of the collapsible
@@ -334,6 +359,8 @@ To provide a little bit of structure, we add the testimonial images in a folder 
 1. image
 2. footer
 3. alt (optional)
+
+---
 
 ## Outlines
 To show component outlines and component labels, add the following styling to `main.scss`.
