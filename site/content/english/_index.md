@@ -105,7 +105,7 @@ Sign at the push of a button, independent of time and place, legally valid accor
 
 {{% center %}}
 {{< button
-  "Show all functions"
+  "Show all features"
   "features"
   ""
   "outline"
