@@ -40,6 +40,10 @@ Avec Skribble, votre signature est non seulement <br class="hide-for-mobile">lé
     headline="Rejetter des documents" 
     description="Refusez l'invitation à signer d'un seul clic si vous n'êtes pas d'accord avec le contenu.">}}
 
+  {{< features-item src="features/visual-signature.svg" 
+    headline="Signature visuelle" 
+    description="Personnalisez votre signature visuelle personnelle et téléchargez votre signature manuscrite personnelle au format PNG, JPG ou GIF.">}}
+
 {{< /features-container >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)

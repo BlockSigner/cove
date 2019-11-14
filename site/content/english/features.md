@@ -41,6 +41,10 @@ With Skribble you not only sign legally, but also with ease.
     headline="Decline document" 
     description="Reject the signature invitation with one click if you do not agree with the content.">}}
 
+  {{< features-item src="features/visual-signature.svg" 
+    headline="Visual signature" 
+    description="Customise your personal visual signature and upload your personal handwritten signature as a PNG, JPG or GIF.">}}
+
 {{< /features-container >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)

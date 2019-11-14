@@ -40,6 +40,10 @@ Mit Skribble signierst du nicht nur rechtsgültig, sondern auch einfach.
     headline="Dokument ablehnen" 
     description="Lehne die Signatureinladung mit einem Klick ab, wenn du mit dem Inhalt nicht einverstanden bist.">}}
 
+  {{< features-item src="features/visual-signature.svg" 
+    headline="Visuelle Signatur" 
+    description="Personalisiere deine persönliche visuelle Signatur und laden deine handschriftliche Unterschrift als PNG, JPG oder GIF hoch.">}}
+
 {{< /features-container >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
