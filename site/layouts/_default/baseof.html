@@ -12,11 +12,17 @@
     @font-face {font-family: 'Averta';font-display: fallback;src: url('/fonts/hinted-averta-extrabold.woff') format('woff');font-weight: bold;font-style: normal;}
   </style>
 
-  <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-      new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-      j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-      'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-      })(window,document,'script','dataLayer','GTM-NF4Q7PS');</script>
+{{ if not (in (.Site.BaseURL | string) "localhost") }}
+<!-- Global site tag (gtag.js) - Google Ads: 791290627 -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=AW-791290627"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'AW-791290627');
+</script>
+{{ end }}
   
   <!-- Matomo Tag Manager -->
 <script type="text/javascript">
@@ -62,9 +68,6 @@ g.type='text/javascript'; g.async=true; g.defer=true; g.src='https://matomo.skri
 </head>
 
 <body>
-  <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NF4Q7PS"
-      height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-
   {{ block "main" . }}{{end}}
 
   {{ partial "mobile-nav" . }}
