@@ -24,18 +24,38 @@ div#hs-eu-cookie-confirmation.hs-cookie-notification-position-bottom {
     p {
       margin: 0 !important;
       color: white !important;
-      max-width: 750px !important;
+      max-width: 96ch !important;
     }
 
     div#hs-en-cookie-confirmation-buttons-area {
       flex-grow: 1 !important;
       justify-content: flex-end !important;
       @media only screen and (min-width: 960px) {
-        display: flex;
+        display: flex !important;
+
+        a#hs-eu-decline-button {
+          order: 1 !important;
+        }
+
+        a#hs-eu-confirmation-button {
+          order: 2 !important;
+          margin-left: 12px !important;
+          margin-right: 0px !important; 
+          color: #006df2 !important;
+          background-color: white !important;
+          font-weight: bold !important;
+        }
       }
     }
 
+    a#hs-eu-decline-button {
+      order: 1 !important;
+    }
+
     a#hs-eu-confirmation-button {
+      order: 2 !important;
+      margin-left: 12px !important;
+      margin-right: 0px !important; 
       color: #006df2 !important;
       background-color: white !important;
       font-weight: bold !important;
