@@ -1,4 +1,5 @@
 .content {
+  margin-top: 80px;
   @include site-width($narrow: true);
   @include standard-padding;
   @include min-width {
