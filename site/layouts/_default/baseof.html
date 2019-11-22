@@ -64,32 +64,10 @@ g.type='text/javascript'; g.async=true; g.defer=true; g.src='https://matomo.skri
 <body>
   <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NF4Q7PS"
       height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+  
+  {{ if .Site.Params.outage }} {{ partial "outage-overlay" . }}{{end}}
+  
 
-      <div style="
-       display: flex !important;
-      align-items: center !important;
-      z-index: 1000 !important; 
-      min-height: 80px !important;
-      border-color: rgba(0,0,0,.12) !important; 
-      background-color: #e50040 !important;     
-      position: fixed !important;
-      padding-left: 30px !important;
-      padding-right: 30px !important;
-      padding-top: 0px !important;
-      width: 100% !important;
-      height: 66px !important;
-      margin: 0 !important;
-      font-weight: 700 !important;
-      letter-spacing: .1px !important;
-      border: 0 !important;
-      border-radius: 0 !important;
-      color: #fff !important;
-      font-size: 14px !important;
-      transition: .3s cubic-bezier(.25,.8,.5,1) !important;
-      line-height: 1.375; !important"><div>
-        Service is currently degraded. Our hosting provider is experiencing a major network outage. We are monitoring the situation and will keep you updated.
-    
-      </div></div>
   {{ block "main" . }}{{end}}
 
   {{ partial "mobile-nav" . }}

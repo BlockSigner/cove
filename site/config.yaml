@@ -1,5 +1,7 @@
 baseurl: /
 title: Skribble
+params:
+  outage: true
 languages:
   de:
     languageName: Deutsch
@@ -7,6 +9,7 @@ languages:
     weight: 2
     contentDir: content/german
     phone: +41 44 505 16 64
+    outageMsg: Im Moment ist Skribble für einige Benutzer nur eingeschränkt nutzbar. Unser Hosting Anbieter hat schwerwiegende Netzwerksausfälle. Wir arbeiten aktiv an einer Lösung und beobachten die Entwicklung. Updates folgen.
     menu:
       main:
         # Platform dropdown
@@ -145,6 +148,7 @@ languages:
     weight: 1
     contentDir: content/english
     phone: +41 44 505 16 64
+    outageMsg: Service is currently degraded for certain users of Skribble. Our hosting provider is experiencing a major network outage. We are monitoring the situation and will keep you updated.
     menu:
       main:
         # Platform dropdown
@@ -283,6 +287,7 @@ languages:
     weight: 3
     contentDir: content/french
     phone: +41 44 505 16 64
+    outageMsg: Le service de Skribble est actuellement dégradé pour certains clients. Notre Hosting Provider fait face à une majeure panne de réseau . Nous surveillons la situation et vous tiendrons au courant.
     menu:
       main:
         # Platform dropdown
