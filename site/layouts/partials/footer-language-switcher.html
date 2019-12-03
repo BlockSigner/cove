@@ -1,26 +1,6 @@
 <div class="footer">
   <div class="footer__container container">
     <div class="footer__meta">
-      {{ if ne "404" .Page.Kind  }}
-        <nav class="">
-          <ul class="lan-nav">
-            {{ $siteLanguages := .Site.Languages}}
-            {{ $pageLang := .Page.Lang}}
-            {{ range .Page.AllTranslations }}
-              {{ $translation := . }}
-              {{ range $siteLanguages }}
-                {{ if eq $translation.Lang .Lang }}
-                  {{ if eq $pageLang .Lang}}
-                    <li><a class="lan-nav__link active language" href="{{ $translation.URL }}">{{ .LanguageName }}</a></li>
-                  {{ else }}
-                    <li><a class="lan-nav__link" href="{{ $translation.URL }}">{{ .LanguageName }}</a></li>
-                  {{ end }}
-                {{ end }}
-              {{ end }}
-            {{ end }}
-          </ul>
-        </nav>
-      {{ end }}
       <nav class="footer__legal">
         <ul class="footer__legal-list">
           {{ $currentPage := . }}
@@ -46,7 +26,7 @@
       </a>
       <a class="footer__social-link you" href="https://www.youtube.com/channel/UC4nrTkWY33cfNEIEYDIhWKg?view_as=subscriber" rel="noopener" target="_blank">
         <svg width="24" height="16" xmlns="http://www.w3.org/2000/svg"><path d="M23.8 3.429s-.2-1.62-1-2.286C21.9.19 20.9.19 20.4.19 17 0 12 0 12 0S7 0 3.6.19c-.5.096-1.5.096-2.4.953-.7.667-1 2.286-1 2.286S0 5.239 0 7.143v1.714c0 1.81.2 3.714.2 3.714s.2 1.62 1 2.286c.9.953 2.1.857 2.6.953C5.7 16 12 16 12 16s5 0 8.4-.286c.5-.095 1.5-.095 2.4-.952.7-.667 1-2.286 1-2.286s.2-1.81.2-3.714V7.048c0-1.81-.2-3.62-.2-3.62zM9.5 10.952v-6.38L16 7.81l-6.5 3.142z" fill-rule="nonzero"/></svg>
-      </a> 
+      </a>
       {{ if false }}
       <a class="footer__social-link med" href="https://medium.com/skribble" rel="noopener" target="_blank">
         <svg width="20" height="17" xmlns="http://www.w3.org/2000/svg"><path d="M20 .36l-1.597 1.639a.517.517 0 0 0-.177.48v12.043a.517.517 0 0 0 .177.48l1.56 1.638V17h-7.844v-.36l1.613-1.679c.159-.17.159-.22.159-.48V4.749L9.398 16.967h-.606L3.565 4.748v8.185c-.044.344.063.69.289.94L5.955 16.6v.36H0v-.36l2.098-2.728a1.14 1.14 0 0 0 .27-.939V3.47a.863.863 0 0 0-.248-.7L.25.36V0h5.798l4.483 10.524L14.471 0H20v.36z" fill-rule="nonzero"/></svg>

@@ -67,19 +67,19 @@
   &__phone {
     align-items: center;
     display: flex;
-    padding-right: 15px; 
-    font-size: 1.8rem; 
+    padding-right: 15px;
+    font-size: 1.8rem;
     color: #60718e;
     &__number {
       color: #60718e;
-    } 
-    @include max-width-md {
+    }
+    @media (max-width: 1100px) {
       display: none;
     }
   }
 
   &__separator {
-    margin: 10px; 
+    margin: 10px;
     border-left: 1px solid #dbdfe7;
     @include max-width-md {
       display: none;
@@ -87,7 +87,7 @@
   }
 
   &__nav {
-    @include max-width {
+    @include max-width-md {
       display: none;
     }
 
@@ -149,7 +149,7 @@
     margin-left: -10px;
     margin-right: 10px;
     box-sizing: content-box;
-    @include min-width {
+    @include min-width-lg {
       display: none;
     }
 
@@ -188,7 +188,7 @@
 .submenu ul {
   position: absolute;
   background: white;
-  padding: 6px 10px; 
+  padding: 6px 10px;
   margin: 5px 0px 0px -10px;
   display: none;
   box-shadow: 0px 0px 10px #DDD;

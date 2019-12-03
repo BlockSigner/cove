@@ -16,21 +16,21 @@
               {{ if .HasChildren }}
                 <li class="submenu">
                   <a href="{{ .URL }}"> {{ .Name }}
-                      <svg viewBox="0 0 10 7" 
+                      <svg viewBox="0 0 10 7"
                       xmlns="http://www.w3.org/2000/svg"
                       height="12px"
                       width="12px"
                       fill="currentColor"
                       role="presentation"
                       class="icon-caret">
-                      
+
                       <polygon points="5,6.6 0,1.6 1.2,0.4 5,4.2 8.8,0.4 10,1.6 "/>
                       </svg></a>
 
                   <ul >
                     {{ range .Children }}
                       <li><a class="{{ if eq (string .URL) $currentPage.RelPermalink }}active{{ end }}" href="{{ .URL }}">{{ .Name }}
-                          
+
 
                       </a></li>
                     {{ end }}
@@ -54,8 +54,8 @@
       </div>
       <div class="header__right">
         <p class="header__phone">
-          <svg 
-            viewBox="0 0 48 48" 
+          <svg
+            viewBox="0 0 48 48"
             xmlns="http://www.w3.org/2000/svg"
             height="20px"
             width="20px"
@@ -87,6 +87,39 @@
           {{ $.Site.Params.header.login.label }}
         </a>
         <a href="{{ $.Site.Params.header.tryItOut.href }}" class="btn header__btn">{{ $.Site.Params.header.tryItOut.label }}</a>
+        {{ if ne "404" .Page.Kind  }}
+          <nav class="lan-nav">
+            {{ $siteLanguages := .Site.Languages}}
+            {{ $pageLang := .Page.Lang}}
+            <div class="lan-nav__current">
+              <img src="flags/{{ .Site.Params.flagCode }}.svg" />
+            </div>
+            <ul class="lan-nav__list">
+              {{ range .Page.AllTranslations }}
+                {{ $translation := . }}
+                {{ range $siteLanguages }}
+                  {{ if eq $translation.Lang .Lang }}
+                    {{ if eq $pageLang .Lang}}
+                      <li class="lan-nav__item">
+                        <a class="lan-nav__link active language" href="{{ $translation.URL }}">
+                          <div>{{ .LanguageName }}</div>
+                          <img class="lan-nav__flag" src="flags/{{ .Params.flagCode }}.svg" />
+                        </a>
+                      </li>
+                      {{ else }}
+                      <li class="lan-nav__item">
+                        <a class="lan-nav__link" href="{{ $translation.URL }}">
+                          <div>{{ .LanguageName }}</div>
+                          <img class="lan-nav__flag" src="flags/{{ .Params.flagCode }}.svg" />
+                        </a>
+                      </li>
+                    {{ end }}
+                  {{ end }}
+                {{ end }}
+              {{ end }}
+            </ul>
+          </nav>
+        {{ end }}
       </div>
     </div>
   </div>
