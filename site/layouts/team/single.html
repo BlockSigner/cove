@@ -9,7 +9,7 @@
         <h1>{{ .title }}</h1>
         <p>{{ .text }}</p>
       </div>
-      <div class="people">
+      <div class="people" data-js-group>
         {{ range .people }}
           {{ partial "person" . }}
         {{ end }}
@@ -21,5 +21,46 @@
   </main>
   {{ block "footer" . }}{{ partial "footer" . }}{{end}}
 </div>
+
+<script>
+  document.querySelectorAll('[data-js-group]').forEach((el) => {
+
+    var b0 = [].slice.call(el.querySelectorAll('[data-js-bin="0"]')),
+        b1 = [].slice.call(el.querySelectorAll('[data-js-bin="1"]')),
+        b2 = [].slice.call(el.querySelectorAll('[data-js-bin="2"]'));
+
+    var x = []
+
+    function shuffle(a) {
+      for (let i = a.length - 1; i > 0; i--) {
+          const j = Math.floor(Math.random() * (i + 1));
+          [a[i], a[j]] = [a[j], a[i]];
+      }
+      return a;
+    }
+
+    x.push(shuffle(b0), shuffle(b1), shuffle(b2))
+
+    var r = Math.floor(Math.random() * Math.floor(3));
+    var totalLength = parseInt(x[0].length + x[1].length + x[2].length);
+
+    for (var i = 0; i < totalLength; i++) {
+      if (typeof (x[(r + i) % 3][0]) !== 'undefined') {
+        el.append(x[(r + i) % 3].shift());
+      }
+    }
+
+    showImages();
+  })
+
+  function showImages() {
+    document.querySelectorAll('[data-js-person]').forEach((el) => {
+      el.classList.add('in');
+    });
+  }
+
+  // After 4s, we show all images
+  setTimeout(showImages, 1000)
+</script>
 
 {{ end }}

@@ -1,25 +1,25 @@
-<div class="person-wrapper">
-  <div class="person">
+<div class="person-wrapper" data-js-bin="{{.type}}">
+  <div class="person" data-js-person>
     <div class="person__image">
       <picture>
         <source
           type="image/webp"
-          media="(max-width: 767px)"
+          media="(max-width: 1023px)"
           srcset="{{ .images.regular_landscape }}.webp 1x, {{ .images.retina_landscape }}.webp 2x"
         />
         <source
           type="image/jpeg"
-          media="(max-width: 767px)"
+          media="(max-width: 1023px)"
           srcset="{{ .images.regular_landscape }}.jpg 1x, {{ .images.retina_landscape }}.jpg 2x"
         />
         <source
           type="image/webp"
-          media="(min-width: 768px)"
+          media="(min-width: 1024px)"
           srcset="{{ .images.regular_portrait }}.webp 1x, {{ .images.retina_portrait }}.webp 2x"
         />
         <source
           type="image/jpeg"
-          media="(min-width: 768px)"
+          media="(min-width: 1024px)"
           srcset="{{ .images.regular_portrait }}.jpg 1x, {{ .images.retina_portrait }}.jpg 2x"
         />
         <img
