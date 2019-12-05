@@ -24,7 +24,7 @@
     }
     &:nth-child(odd) {
       @include min-width-lg {
-        margin-top: -10%;
+        margin-top: 0%;
         align-items: flex-start;
         justify-content: flex-start;
       }
@@ -34,7 +34,7 @@
     }
     &:nth-child(even) {
       @include min-width-lg {
-        margin-top: -25%;
+        margin-top: -28%;
         align-items: flex-end;
         justify-content: flex-end;
       }
@@ -67,9 +67,7 @@
   }
 
   &__image {
-    @include min-width-lg {
-      margin-bottom: 10px;
-    }
+    margin-bottom: 10px;
   }
 }
 

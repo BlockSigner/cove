@@ -24,8 +24,8 @@ groups:
         position: CXD & Co-Founder
         type: 1
         images:
-          regular_portrait: team/michel-fernandez-p
-          retina_portrait: team/michel-fernandez-p@2x
+          regular_portrait: team/michel-fernandez-l
+          retina_portrait: team/michel-fernandez-l@2x
           regular_landscape: team/michel-fernandez-l
           retina_landscape: team/michel-fernandez-l@2x
           alt_text:
@@ -33,8 +33,8 @@ groups:
         position: CTO & Co-Founder
         type: 2
         images:
-          regular_portrait: team/roni-oeschger-p
-          retina_portrait: team/roni-oeschger-p@2x
+          regular_portrait: team/roni-oeschger-l
+          retina_portrait: team/roni-oeschger-l@2x
           regular_landscape: team/roni-oeschger-l
           retina_landscape: team/roni-oeschger-l@2x
           alt_text:
@@ -60,8 +60,8 @@ groups:
         position: Engineering
         type: 2
         images:
-          regular_portrait: team/timothy-head-p
-          retina_portrait: team/timothy-head-p@2x
+          regular_portrait: team/timothy-head-l
+          retina_portrait: team/timothy-head-l@2x
           regular_landscape: team/timothy-head-l
           retina_landscape: team/timothy-head-l@2x
           alt_text:
@@ -69,8 +69,8 @@ groups:
         position: Content & Communications
         type: 0
         images:
-          regular_portrait: team/kira-leuthold-p
-          retina_portrait: team/kira-leuthold-p@2x
+          regular_portrait: team/kira-leuthold-l
+          retina_portrait: team/kira-leuthold-l@2x
           regular_landscape: team/kira-leuthold-l
           retina_landscape: team/kira-leuthold-l@2x
           alt_text:
@@ -96,8 +96,8 @@ groups:
         position: Customer Growth Execution
         type: 0
         images:
-          regular_portrait: team/mike-silberman-p
-          retina_portrait: team/mike-silberman-p@2x
+          regular_portrait: team/mike-silberman-l
+          retina_portrait: team/mike-silberman-l@2x
           regular_landscape: team/mike-silberman-l
           retina_landscape: team/mike-silberman-l@2x
           alt_text:
@@ -105,8 +105,8 @@ groups:
         position: Happiness Manager
         type: 1
         images:
-          regular_portrait: team/patrick-meade-p
-          retina_portrait: team/patrick-meade-p@2x
+          regular_portrait: team/patrick-meade-l
+          retina_portrait: team/patrick-meade-l@2x
           regular_landscape: team/patrick-meade-l
           retina_landscape: team/patrick-meade-l@2x
           alt_text:
@@ -132,8 +132,8 @@ groups:
         position: Engineering
         type: 1
         images:
-          regular_portrait: team/joao-barcia-p
-          retina_portrait: team/joao-barcia-p@2x
+          regular_portrait: team/joao-barcia-l
+          retina_portrait: team/joao-barcia-l@2x
           regular_landscape: team/joao-barcia-l
           retina_landscape: team/joao-barcia-l@2x
           alt_text:
@@ -161,8 +161,8 @@ groups:
         position: Legal-Strategic Advisor
         type: 0
         images:
-          regular_portrait: team/eric-kuenzi-p
-          retina_portrait: team/eric-kuenzi-p@2x
+          regular_portrait: team/eric-kuenzi-l
+          retina_portrait: team/eric-kuenzi-l@2x
           regular_landscape: team/eric-kuenzi-l
           retina_landscape: team/eric-kuenzi-l@2x
           alt_text:
