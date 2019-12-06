@@ -96,17 +96,18 @@ languages:
       meta:
         - name: Datenschutzbestimmungen
           url: /de/datenschutz/
-          weight: 10
-        - name: Impressum
-          url: /de/impressum/
-          weight: 15
-      footermobile:
-        - name: Impressum
-          url: /de/impressum/
           weight: 5
+        - name: Impressum
+          url: /de/impressum/
+          weight: 10
+      footermobile:
         - name: Datenschutzbestimmungen
           url: /de/datenschutz/
+          weight: 5
+        - name: Impressum
+          url: /de/impressum/
           weight: 10
+  
     header:
       login:
         label: Login
@@ -239,12 +240,13 @@ languages:
           url: /imprint/
           weight: 15
       footermobile:
-        - name: Imprint
-          url: /imprint/
-          weight: 5
         - name: Privacy Policy
           url: /privacy/
+          weight: 5
+        - name: Imprint
+          url: /imprint/
           weight: 10
+
     header:
       login:
         label: Login
@@ -378,12 +380,13 @@ languages:
           url: /fr/impressum/
           weight: 15
       footermobile:
-        - name: Impressum
-          url: /fr/impressum/
-          weight: 5
         - name: Politique de Confidentialité
           url: /fr/politique-de-confidentialite/
+          weight: 5
+        - name: Impressum
+          url: /fr/impressum/
           weight: 10
+
     header:
       login:
         label: Login
