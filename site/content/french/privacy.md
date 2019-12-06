@@ -15,7 +15,7 @@ description: Politique de Confidentialité méta-description
 
 Cette page vous explique nos politiques en matière de collecte, d'utilisation et de communication des données à caractère personnel lorsque vous utilisez notre Service ainsi que les choix qui s'offrent à vous en ce qui concerne ces données.
 
-Nous utilisons vos données pour fournir et améliorer le Service. En utilisant le Service, vous consentez à la collecte et à l'utilisation d'informations conformément à la présente politique. Sauf définition contraire dans la présente Politique de Confidentialité, les termes utilisés dans la présente Politique de Confidentialité ont la même signification que dans nos Conditions Générales qui sont disponibles sur <a href="https://www.skribble.com" target="_blank">www.skribble.com</a>.
+Nous utilisons vos données pour fournir et améliorer le Service. En utilisant le Service, vous consentez à la collecte et à l'utilisation d'informations conformément à la présente politique. Sauf définition contraire dans la présente Politique de Confidentialité, les termes utilisés dans la présente Politique de Confidentialité ont la même signification que dans nos Conditions Générales qui sont disponibles sur <a href="https://www.skribble.com/fr/cg/" target="_blank">www.skribble.com/fr/cg/</a>.
 
 ## Définitions
 

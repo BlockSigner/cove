@@ -15,7 +15,7 @@ Skribble AG ("wir", "uns", "unser" usw.) betreibt die Website <a href="https://w
 
 Diese Seite enthält Informationen zu der Art und Weise, auf welche wir personenbezogene Daten erfassen, nutzen und offenlegen, wenn Sie unseren Dienst nutzen, sowie zu den Optionen, die Ihnen im Zusammenhang mit diesen Daten zur Verfügung stehen.
 
-Wir nutzen Ihre Daten zur Bereitstellung und Verbesserung unseres Dienstes. Durch Inanspruchnahme des Dienstes erklären Sie sich mit der Erfassung und Nutzung von Daten durch uns nach Maßgabe dieser Richtlinie einverstanden. Soweit in dieser Datenschutz-Richtlinie nicht jeweils etwas anderes angegeben ist, kommt den in dieser Datenschutz-Richtlinie vorkommenden Begriffen jeweils dieselbe Bedeutung zu, die diesen in unseren Allgemeinen Geschäftsbedingungen (Terms and Conditions) (abrufbar über die <a href="https://www.skribble.com" target="_blank">www.skribble.com</a> zugewiesen wurde.
+Wir nutzen Ihre Daten zur Bereitstellung und Verbesserung unseres Dienstes. Durch Inanspruchnahme des Dienstes erklären Sie sich mit der Erfassung und Nutzung von Daten durch uns nach Maßgabe dieser Richtlinie einverstanden. Soweit in dieser Datenschutz-Richtlinie nicht jeweils etwas anderes angegeben ist, kommt den in dieser Datenschutz-Richtlinie vorkommenden Begriffen jeweils dieselbe Bedeutung zu, die diesen in unseren Allgemeinen Geschäftsbedingungen (Terms and Conditions) (abrufbar über die <a href="https://www.skribble.com/de/agb/" target="_blank">www.skribble.com/de/agb/</a> zugewiesen wurde.
 
 ## Begriffsbestimmungen
 
