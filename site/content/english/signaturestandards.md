@@ -35,7 +35,7 @@ For signing with QES on Skribble, a prior identity check in personal contact or 
 
 {{< testimonial "testimonial/or-logo-en-160w.png" "Article 14 paragraph 2bis of the Swiss Code of Obligations (OR)" >}}
 
-"An authenticated electronic signature combined with an authenticated time stamp within the meaning of the Federal Act of 18 March 20161 on Electronic Signatures is deemed equivalent to a handwritten signature, subject to any statutory or contractual provision to the contrary."
+"An authenticated electronic signature combined with an authenticated time stamp within the meaning of the Federal Act of 18 March 2016 on Electronic Signatures is deemed equivalent to a handwritten signature, subject to any statutory or contractual provision to the contrary."
 {{< /testimonial >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
