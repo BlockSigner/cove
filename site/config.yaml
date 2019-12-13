@@ -100,16 +100,22 @@ languages:
         - name: Datenschutzbestimmungen
           url: /de/datenschutz/
           weight: 5
+        - name: AGB's
+          url: /de/agb/
+          weight: 10
         - name: Impressum
           url: /de/impressum/
-          weight: 10
+          weight: 15
       footermobile:
         - name: Datenschutzbestimmungen
           url: /de/datenschutz/
           weight: 5
+        - name: AGB's
+          url: /de/agb/
+          weight: 10
         - name: Impressum
           url: /de/impressum/
-          weight: 10
+          weight: 15
   
     header:
       login:
@@ -239,6 +245,9 @@ languages:
       meta:
         - name: Privacy Policy
           url: /privacy/
+          weight: 5
+        - name: General Terms and Conditions
+          url: /gtc/
           weight: 10
         - name: Imprint
           url: /imprint/
@@ -247,9 +256,12 @@ languages:
         - name: Privacy Policy
           url: /privacy/
           weight: 5
+        - name: General Terms and Conditions
+          url: /gtc/
+          weight: 10
         - name: Imprint
           url: /imprint/
-          weight: 10
+          weight: 15
 
     header:
       login:
@@ -380,6 +392,9 @@ languages:
       meta:
         - name: Politique de Confidentialité
           url: /fr/politique-de-confidentialite/
+          weight: 5
+        - name: Conditions Générales
+          url: /fr/cg/
           weight: 10
         - name: Impressum
           url: /fr/impressum/
@@ -388,9 +403,12 @@ languages:
         - name: Politique de Confidentialité
           url: /fr/politique-de-confidentialite/
           weight: 5
+        - name: Conditions Générales
+          url: /fr/cg/
+          weight: 10
         - name: Impressum
           url: /fr/impressum/
-          weight: 10
+          weight: 15
 
     header:
       login:
