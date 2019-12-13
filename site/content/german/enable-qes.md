@@ -245,6 +245,32 @@ Sa: 09.00 - 16.00
 {{< cta-group >}}
 {{% cta
   title="Zürich"
+  label="076 530 36 01"
+  href="tel: +41 76 530 36 01"
+  target="_blank"
+  class="id-site"
+  outlined="true"
+  icon="phone"
+%}}
+
+{{< picture
+  name="map-flexoffice-zurich"
+  w="120"
+  alt="FlexOffice Fraumünster, Fraumünsterstrasse 16, CH-8001 Zurich"
+  href="https://g.page/flexofficeswiss?share"
+  target="_blank"
+>}}
+
+{{% richtext %}}
+**FlexOffice Fraumünster**<br>
+Fraumünsterstrasse 16<br>
+CH-8001 Zürich<br><br>
+**Öffnungszeiten:**<br>
+Mo - Fr: 08.00 - 17.00<br>
+{{% /richtext %}}
+{{% /cta %}}
+
+{{% cta
   label="E-ID-Termin vereinbaren"
   href="https://help.skribble.com/meetings/patrick182/identifikation-bei-skribble"
   target="_blank"

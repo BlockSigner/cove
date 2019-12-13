@@ -84,7 +84,6 @@ Personal identification is only required for signing with the highest e-signatur
 
 {{% /content %}}
 
-
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
 {{% content %}}
@@ -94,6 +93,7 @@ Come by and get identified for free. <br class="hide-for-mobile">Bring a valid p
 {{% /heading %}}
 {{% /content %}}
 
+[//]: # (--------------------------------------------------------------------------------------------------------------)
 
 {{% cta
   label="026 470 08 90"
@@ -243,6 +243,33 @@ Sa: 09.00 - 16.00
 {{< cta-group >}}
 {{% cta
   title="Zurich"
+  label="076 530 36 01"
+  href="tel: +41 76 530 36 01"
+  target="_blank"
+  class="id-site"
+  outlined="true"
+  icon="phone"
+%}}
+
+{{< picture
+  name="map-flexoffice-zurich"
+  w="120"
+  alt="FlexOffice Fraumünster, Fraumünsterstrasse 16, CH-8001 Zurich"
+  href="https://g.page/flexofficeswiss?share"
+  target="_blank"
+>}}
+
+{{% richtext %}}
+**FlexOffice Fraumünster**<br>
+Fraumünsterstrasse 16<br>
+CH-8001 Zurich<br><br>
+**Opening hours:**<br>
+Mo - Fr: 08.00 - 17.00<br>
+{{% /richtext %}}
+{{% /cta %}}
+
+
+{{% cta
   label="Schedule an E-ID appointment"
   href="https://help.skribble.com/meetings/patrick182/skribble-id-zurich"
   target="_blank"
