@@ -246,7 +246,7 @@ languages:
         - name: Privacy Policy
           url: /privacy/
           weight: 5
-        - name: General Terms and Conditions
+        - name: Terms
           url: /gtc/
           weight: 10
         - name: Imprint
@@ -256,7 +256,7 @@ languages:
         - name: Privacy Policy
           url: /privacy/
           weight: 5
-        - name: General Terms and Conditions
+        - name: Terms
           url: /gtc/
           weight: 10
         - name: Imprint
