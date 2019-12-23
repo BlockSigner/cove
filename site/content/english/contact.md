@@ -8,18 +8,17 @@ type: contact
 # map component
 map:
   title: Skribble Offices
-  subtitle: We have our offices in Switzerland and Germany
+  subtitle: Right by Paradeplatz, in the heart of Zurich
   columns:
     - title: Zurich
       picture:      
         name: map-zurich
         alt: Map of office location in Zurich
-        url: https://goo.gl/maps/NJSREpn9FSnUTJYMA
+        url: https://g.page/skribblehq?share
       address:
         title: Skribble AG
         full: |
-          Trust Square
-          Bahnhofstrasse 3
+          Fraumünsterstrasse 16
           CH-8001 Zurich      
         email: info@skribble.com
         opening_hours: 

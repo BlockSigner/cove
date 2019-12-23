@@ -8,18 +8,17 @@ type: contact
 # map component
 map:
   title: Skribble Office
-  subtitle: Gleich an der Bahnhofstrasse, im Herzen von Zürich
+  subtitle: Gleich beim Paradeplatz, im Herzen von Zürich
   columns:
     - title: Zürich
       picture:      
         name: map-zurich
         alt: Karte des Skribble Office in Zürich
-        url: https://goo.gl/maps/NJSREpn9FSnUTJYMA
+        url: https://g.page/skribblehq?share
       address:
         title: Skribble AG
         full: |
-          Trust Square
-          Bahnhofstrasse 3
+          Fraumünsterstrasse 16
           CH-8001 Zürich    
         email: info@skribble.com 
         opening_hours: 
