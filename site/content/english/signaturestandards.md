@@ -9,7 +9,6 @@ slug: signaturestandards
 {{% content %}}
 {{% heading %}}
 # How much legal weight <br class="hide-for-mobile">does my e-Singature need?
-?
 The law distinguishes between qualified e-signatures (QES) <br class="hide-for-mobile">and advanced e-signatures (AES).
 The two standards vary in terms of area <br class="hide-for-mobile">of application and legal weight. At Skribble you have the choice.
 {{% /heading %}}
