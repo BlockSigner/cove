@@ -8,7 +8,7 @@ slug: signaturstandards
 
 {{% content %}}
 {{% heading %}}
-# Wie viel Beweiskraft hat meine e-Singatur?
+# Wie viel Beweiskraft braucht meine E-Singatur?
 Das Gesetz unterscheidet zwischen der qualifizierten E-Signatur (QES) <br class="hide-for-mobile">und der fortgeschrittenen E-Signatur (FES).
 Die beiden Standards <br class="hide-for-mobile">variieren punkto Einsatzgebiet und Beweiskraft.
 Auf Skribble kannst du wählen.
