@@ -3,7 +3,7 @@
     <div class="footer__meta">
       <nav class="footer__legal">
         <ul class="footer__legal-list">
-          <li class="footer__legal-item">©Skribble</li>
+          <li class="footer__legal-item">© Skribble</li>
           {{ $currentPage := . }}
           {{ range .Site.Menus.meta }}
             <li class="footer__legal-item"><a class="{{ if eq (string .URL) $currentPage.RelPermalink }}active{{ end }}" href="{{ .URL }}">{{ .Name }}</a></li>
