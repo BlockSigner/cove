@@ -226,9 +226,9 @@ Avant que la modification ne prenne effet, nous vous en informerons par e-mail e
 Nous vous conseillons de consulter la présente Politique de Confidentialité périodiquement pour prendre connaissance de toute modification. Les modifications apportées à la présente Politique de Confidentialité prennent effet lorsqu'elles sont publiées sur cette page.
 
 ## Nous contacter
-Pour toute question relative à la présente Politique de Confidentialité, veuillez nous contacter:
--	Par courrier électronique: <a href="mailto:info@skribble.com">info@skribble.com</a>
--	En consultant cette page sur notre site web: <a href="https://www.skribble.com" target="_blank">www.skribble.com</a>
+Pour toute question relative à la présente Politique de Confidentialité, veuillez nous contacter:<br>
+Par courrier électronique: <a href="mailto:info@skribble.com">info@skribble.com</a><br>
+En consultant cette page sur notre site web: <a href="https://www.skribble.com" target="_blank">www.skribble.com</a>
 {{% /richtext %}}
 {{% /content %}}
 

@@ -103,22 +103,28 @@ languages:
         - name: Datenschutzbestimmungen
           url: /de/datenschutz/
           weight: 5
-        - name: AGB's
-          url: /de/agb/
+        - name: Nutzungsbedingungen
+          url: /de/nutzungsbedingungen/
           weight: 10
+        - name: AGB
+          url: /de/agb/
+          weight: 15
         - name: Impressum
           url: /de/impressum/
-          weight: 15
+          weight: 20
       footermobile:
         - name: Datenschutzbestimmungen
           url: /de/datenschutz/
           weight: 5
-        - name: AGB's
-          url: /de/agb/
+        - name: Nutzungsbedingungen
+          url: /de/nutzungsbedingungen/
           weight: 10
+        - name: AGB
+          url: /de/agb/
+          weight: 15
         - name: Impressum
           url: /de/impressum/
-          weight: 15
+          weight: 20
   
     header:
       login:
@@ -252,7 +258,10 @@ languages:
         - name: Privacy Policy
           url: /privacy/
           weight: 5
-        - name: Terms
+        - name: Terms of use
+          url: /terms-of-use/
+          weight: 5
+        - name: GTC
           url: /gtc/
           weight: 10
         - name: Imprint
@@ -262,12 +271,15 @@ languages:
         - name: Privacy Policy
           url: /privacy/
           weight: 5
-        - name: Terms
-          url: /gtc/
+        - name: Terms of use
+          url: /terms-of-use/
           weight: 10
+        - name: GTC
+          url: /gtc/
+          weight: 15
         - name: Imprint
           url: /imprint/
-          weight: 15
+          weight: 20
 
     header:
       login:
@@ -402,22 +414,28 @@ languages:
         - name: Politique de Confidentialité
           url: /fr/politique-de-confidentialite/
           weight: 5
-        - name: Conditions Générales
-          url: /fr/cg/
+        - name: Conditions Dutilisation
+          url: /fr/conditions-dutilisation/
           weight: 10
+        - name: CG
+          url: /fr/cg/
+          weight: 15
         - name: Impressum
           url: /fr/impressum/
-          weight: 15
+          weight: 20
       footermobile:
         - name: Politique de Confidentialité
           url: /fr/politique-de-confidentialite/
           weight: 5
-        - name: Conditions Générales
-          url: /fr/cg/
+        - name: Conditions Dutilisation
+          url: /fr/conditions-dutilisation/
           weight: 10
+        - name: CG
+          url: /fr/cg/
+          weight: 15
         - name: Impressum
           url: /fr/impressum/
-          weight: 15
+          weight: 20
 
     header:
       login:

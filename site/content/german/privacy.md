@@ -233,9 +233,9 @@ Wir werden Sie vor dem Inkrafttreten der betreffenden Änderung per E-Mail und/o
 Wir empfehlen Ihnen, diese Datenschutz-Richtlinie regelmäßig auf Änderungen hin durchzusehen. Änderungen dieser Datenschutz-Richtlinie werden im Zeitpunkt ihrer Veröffentlichung auf dieser Seite wirksam.
 
 ## Kontaktaufnahme
-Falls Sie Fragen zu dieser Datenschutz-Richtlinie haben, können Sie wie folgt Kontakt zu uns aufnehmen:
--	Per E-Mail: <a href="mailto:info@skribble.com">info@skribble.com</a>
--	Durch Besuch der folgenden Seite unserer Website: <a href="https://www.skribble.com" target="_blank">www.skribble.com</a>"
+Falls Sie Fragen zu dieser Datenschutz-Richtlinie haben, können Sie wie folgt Kontakt zu uns aufnehmen:<br> 
+Per E-Mail: <a href="mailto:info@skribble.com">info@skribble.com</a><br>
+Über folgende Website: <a href="https://www.skribble.com" target="_blank">www.skribble.com</a>
 {{% /richtext %}}
 {{% /content %}}
 
