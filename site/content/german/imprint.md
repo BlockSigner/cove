@@ -13,8 +13,8 @@ slug: impressum
 Skribble AG
 
 ## Adresse
-Trust Square
-Bahnhofstrasse 3
+FlexOffice,
+Fraumünsterstrasse 16,
 CH-8001 Zürich
 
 ## Telefon

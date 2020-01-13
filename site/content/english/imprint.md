@@ -13,8 +13,8 @@ slug: imprint
 Skribble AG
 
 ## Address
-Trust Square
-Bahnhofstrasse 3
+FlexOffice,
+Fraumünsterstrasse 16,
 CH-8001 Zurich
 
 ## Phone
