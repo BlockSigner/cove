@@ -42,7 +42,7 @@ Avec Skribble, votre signature est non seulement <br class="hide-for-mobile">lé
 
   {{< features-item src="features/visual-signature.svg" 
     headline="Signature visuelle" 
-    description="Personnalisez votre signature visuelle personnelle et téléchargez votre signature manuscrite personnelle au format PNG, JPG ou GIF.">}}
+    description="Personnalisez votre signature visuelle et téléchargez votre signature manuscrite au format PNG, JPG ou GIF.">}}
 
 {{< /features-container >}}
 
