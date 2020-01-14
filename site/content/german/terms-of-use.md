@@ -10,7 +10,7 @@ description: Nutzungsbedingungen meta description
 # Nutzungsbedingungen<br>von Skribble AG
 (Version 2019.10.01)
 
-Diese Nutzungsbedingungen regeln Ihre Verwendung der Skribble Cloud-Lösung (Skribble-Dienste). Diese Nutzungsbedingungen bilden einen verbindlichen Vertrag zwischen Ihnen als Systemnutzer der Skribble-Dienste und Skribble AG, Bahnhofstrasse 3, 8001 Zürich, Schweiz, respektive Skribble Deutschland GmbH, Pforzheimer Straße 128a, 76275 Ettlingen, Deutschland (Skribble).
+Diese Nutzungsbedingungen regeln Ihre Verwendung der Skribble Cloud-Lösung (Skribble-Dienste). Diese Nutzungsbedingungen bilden einen verbindlichen Vertrag zwischen Ihnen als Systemnutzer der Skribble-Dienste und Skribble AG, Fraumünsterstrasse 16, 8001 Zürich, Schweiz, respektive Skribble Deutschland GmbH, Pforzheimer Straße 128a, 76275 Ettlingen, Deutschland (Skribble).
 
 {{% legal-list %}}
 

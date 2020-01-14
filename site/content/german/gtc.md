@@ -10,7 +10,7 @@ description: Allgemeine Geschäftsbedingungen (AGB) der Skribble
 # Allgemeine Geschäftsbedingungen (AGB) der Skribble
 (Version 2019.10.01)
 
-Zwischen Ihnen als Kunde (Sie, Ihnen, etc. oder Kunde) der Skribble E-Signing-Plattform (Skribble-Dienste) und Skribble AG, Bahnhofstrasse 3, 8001 Zürich, Schweiz, respektive Skribble Deutschland GmbH, Pforzheimer Straße 128a, 76275 Ettlingen, Deutschland (Skribble) gilt Folgendes:
+Zwischen Ihnen als Kunde (Sie, Ihnen, etc. oder Kunde) der Skribble E-Signing-Plattform (Skribble-Dienste) und Skribble AG, Fraumünsterstrasse 16, 8001 Zürich, Schweiz, respektive Skribble Deutschland GmbH, Pforzheimer Straße 128a, 76275 Ettlingen, Deutschland (Skribble) gilt Folgendes:
 
 ## A – Allgemeine Bestimmungen
 {{% legal-list %}}

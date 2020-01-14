@@ -235,7 +235,7 @@ Wir empfehlen Ihnen, diese Datenschutz-Richtlinie regelmäßig auf Änderungen h
 ## Kontaktaufnahme
 Falls Sie Fragen zu dieser Datenschutz-Richtlinie haben, können Sie wie folgt Kontakt zu uns aufnehmen:<br> 
 Per E-Mail: <a href="mailto:info@skribble.com">info@skribble.com</a><br>
-Über folgende Website: <a href="https://www.skribble.com" target="_blank">www.skribble.com</a>
+Über folgende Website: <a href="https://www.skribble.com/de/kontakt/" target="_blank">www.skribble.com/de/kontakt/</a>
 {{% /richtext %}}
 {{% /content %}}
 

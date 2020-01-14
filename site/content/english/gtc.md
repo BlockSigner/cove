@@ -11,7 +11,7 @@ description: General Terms and Conditions (GTC) of Skribble
 # General Terms and Conditions (GTC) of Skribble
 (Version 2019.10.01)
 
-The following applies to you as customer (You or Customer) of the Skribble e-signing-platform (Skribble Service)and Skribble AG, Bahnhofstrasse 3, 8001 Zurich, Switzerland, respectively Skribble Deutschland GmbH, Pforzheimer Straße 128a, 76275 Ettlingen, Germany (Skribble):
+The following applies to you as customer (You or Customer) of the Skribble e-signing-platform (Skribble Service)and Skribble AG, Fraumünsterstrasse 16, 8001 Zurich, Switzerland, respectively Skribble Deutschland GmbH, Pforzheimer Straße 128a, 76275 Ettlingen, Germany (Skribble):
 
 ## A – General Terms
 {{% legal-list %}}

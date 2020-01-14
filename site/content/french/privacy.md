@@ -228,7 +228,7 @@ Nous vous conseillons de consulter la présente Politique de Confidentialité p�
 ## Nous contacter
 Pour toute question relative à la présente Politique de Confidentialité, veuillez nous contacter:<br>
 Par courrier électronique: <a href="mailto:info@skribble.com">info@skribble.com</a><br>
-En consultant cette page sur notre site web: <a href="https://www.skribble.com" target="_blank">www.skribble.com</a>
+En consultant cette page sur notre site web: <a href="https://www.skribble.com/fr/contact/" target="_blank">www.skribble.com/fr/contact/</a>
 {{% /richtext %}}
 {{% /content %}}
 

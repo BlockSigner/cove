@@ -11,7 +11,7 @@ description: Conditions Générales (CG) de Skribble SA
 # Conditions Générales (CG) de Skribble SA
 (Version 2019.10.01)
 
-Ce qui suit s'applique entre vous en tant que client (Vous ou Client) de la plateforme e-signing Skribble (Services Skribble) et Skribble SA, Bahnhofstrasse 3, 8001 Zurich, Suisse, respectivement Skribble Deutschland GmbH, Pforzheimer Straße 128a, 76275 Ettlingen, Allemagne (Skribble) :
+Ce qui suit s'applique entre vous en tant que client (Vous ou Client) de la plateforme e-signing Skribble (Services Skribble) et Skribble SA, Fraumünsterstrasse 16, 8001 Zurich, Suisse, respectivement Skribble Deutschland GmbH, Pforzheimer Straße 128a, 76275 Ettlingen, Allemagne (Skribble) :
 
 ## A – Dispositions Générales
 {{% legal-list %}}

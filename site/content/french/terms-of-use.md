@@ -12,7 +12,7 @@ description: Conditions d'utilisation meta description
 
 En tant qu'utilisateur du système Skribble, vous devez respecter les conditions d'utilisation suivantes :
 
-Les présentes Conditions d'Utilisation régissent votre utilisation de la Solution Skribble Cloud (Services Skribble). Les présentes Conditions d'Utilisation constituent un contrat contraignant entre vous en tant qu'Utilisateur du Système des Services Skribble et Skribble SA, Bahnhofstrasse 3, 8001 Zurich, Suisse, respectivement Skribble Deutschland GmbH, Pforzheimer Straße 128a, 76275 Ettlingen, Allemagne (Skribble).
+Les présentes Conditions d'Utilisation régissent votre utilisation de la Solution Skribble Cloud (Services Skribble). Les présentes Conditions d'Utilisation constituent un contrat contraignant entre vous en tant qu'Utilisateur du Système des Services Skribble et Skribble SA, Fraumünsterstrasse 16, 8001 Zurich, Suisse, respectivement Skribble Deutschland GmbH, Pforzheimer Straße 128a, 76275 Ettlingen, Allemagne (Skribble).
 
 {{% legal-list %}}
 ### Objet et champ d'application
