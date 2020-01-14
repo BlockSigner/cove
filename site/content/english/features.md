@@ -43,7 +43,7 @@ With Skribble you not only sign legally, but also with ease.
 
   {{< features-item src="features/visual-signature.svg" 
     headline="Visual signature" 
-    description="Customise your personal visual signature and upload your personal handwritten signature as a PNG, JPG or GIF.">}}
+    description="Customise your visual signature and upload your handwritten signature as a PNG, JPG or GIF.">}}
 
 {{< /features-container >}}
 
