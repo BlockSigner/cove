@@ -42,7 +42,7 @@ Mit Skribble signierst du nicht nur rechtsgültig, sondern auch einfach.
 
   {{< features-item src="features/visual-signature.svg" 
     headline="Visuelle Signatur" 
-    description="Personalisiere deine persönliche visuelle Signatur und laden deine handschriftliche Unterschrift als PNG, JPG oder GIF hoch.">}}
+    description="Personalisiere deine visuelle Signatur und laden deine handschriftliche Unterschrift als PNG, JPG oder GIF hoch.">}}
 {{< /features-container >}}
 
 {{% content class="no-bottom-padding" %}}
