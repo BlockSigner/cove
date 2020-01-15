@@ -9,25 +9,52 @@ slug: imprint
 {{% richtext %}}
 # Imprint
 
-## Company
-Skribble AG
-
-## Address
-FlexOffice,
-Fraumünsterstrasse 16,
+## Skribble (Switzerland)
+Skribble AG<br>
+Fraumünsterstrasse 16<br>
 CH-8001 Zurich
 
-## Phone
+### Phone
 +41 44 505 16 64
 
-## Email
+### Email
 [info@skribble.com](mailto:info@skribble.com "info@skribble.com")
 
-## Commercial register number
+### Commercial register number
 CH-020.3.045.842-4
 
-## U-ID
+### U-ID
 CHE-397.613.998
+
+
+## Skribble (Germany)
+Information according to the requirements of the German Telemedia Act (TMG)
+
+### Company
+Skribble Deutschland GmbH<br>
+Pforzheimer Str. 128A<br>
+DE-76275 Ettlingen
+
+### Represented by the management
+Waldemar Dick<br>
+
+### Register court 
+Local court Mannheim<br>
+
+### Commercial register no.
+HRB 734477<br>
+
+### Sales tax identification number 
+DE326509705<br>
+
+### Responsible Germany
+Waldemar Dick<br>
+Managing Director<br>
+Pforzheimer Str. 128A<br>
+DE-76275 Ettlingen
+
+## Disclaimer
+Skribble Deutschland GmbH updates and supplements the information on its website to the best of its knowledge and belief. Skribble Deutschland GmbH accepts no liability for the topicality, accuracy and completeness of the information. Due to the legal and technical conditions prevailing on the Internet, Skribble Deutschland GmbH cannot guarantee or accept liability for the accuracy and completeness of the content of the works and the information provided, their machine-readable recording, their electronic storage in databases, their distribution, or for compliance with data protection and other legal obligations by third parties.
 
 ## Conception, design and implementation
 Skribble AG
