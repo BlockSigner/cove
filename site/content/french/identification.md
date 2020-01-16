@@ -124,6 +124,7 @@ Approprié si de nouveaux signataires SEQ sont constamment ajoutés.
   href="https://help.skribble.com/meetings/patrick182/identification-chez-skribble"
   target="_blank"
 %}}
+{{< picture consult 92 "Identifikation für die QES. Lass dich beraten und finde die passende Identifikations-Lösung für deine Firma." >}}
 {{% richtext %}}
 **Des questions?<br>Nous nous ferons un plaisir de vous aider.**
 {{% /richtext %}}

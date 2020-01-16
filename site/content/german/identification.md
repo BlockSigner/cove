@@ -121,11 +121,13 @@ Passend, wenn laufend <br class="hide-for-mobile">neue Signierende <br class="hi
   href="https://help.skribble.com/meetings/patrick182/call-mit-skribble"
   target="_blank"
 %}}
+
+{{< picture consult 92 "Identifikation für die QES. Lass dich beraten und finde die passende Identifikations-Lösung für deine Firma." >}}
+
 {{% richtext %}}
 **Hast du Fragen? <br class="hide-for-mobile">Wir helfen dir gerne telefonisch weiter.**
 {{% /richtext %}}
 {{% /cta %}}
-
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 

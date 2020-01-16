@@ -126,6 +126,7 @@ Suitable if new signees are constantly being added.
   href="https://help.skribble.com/meetings/patrick182/skribble-id-zurich"
   target="_blank"
 %}}
+{{< picture consult 92 "Identifikation für die QES. Lass dich beraten und finde die passende Identifikations-Lösung für deine Firma." >}}
 {{% richtext %}}
 **Any questions?<br>We are happy to help you.**
 {{% /richtext %}}
