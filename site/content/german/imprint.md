@@ -47,6 +47,15 @@ HRB 734477<br>
 ### Umsatzsteueridentifikationsnummer 
 DE326509705<br>
 
+### Kontakt
+[info@skribble.com](mailto:info@skribble.com "info@skribble.com")
+
+### Telefon
++41 44 505 16 64
+
+### E-Mail
+[info@skribble.com](mailto:info@skribble.com "info@skribble.com")
+
 ### Verantwortlich Deutschland
 Waldemar Dick<br>
 Geschäftsführer<br>

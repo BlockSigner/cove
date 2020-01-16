@@ -47,6 +47,15 @@ HRB 734477
 ### Numéro d'identification de la taxe de vente
 DE326509705
 
+### Contact
+[info@skribble.com](mailto:info@skribble.com "info@skribble.com")
+
+### Téléphone
++41 44 505 16 64
+
+### Email
+[info@skribble.com](mailto:info@skribble.com "info@skribble.com")
+
 ### Responsable Allemagne
 Waldemar Dick<br>
 Directeur général<br>
