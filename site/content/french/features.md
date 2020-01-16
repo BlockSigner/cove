@@ -46,6 +46,13 @@ Avec Skribble, votre signature est non seulement <br class="hide-for-mobile">lé
 
 {{< /features-container >}}
 
+[//]: # (--------------------------------------------------------------------------------------------------------------)
+<br><br>
+{{< testimonial "testimonial/fr-logo-99w.svg" "Stéphane Schwab, Chef de E-Gouvernement du canton de Fribourg" >}}
+"Grâce à Skribble, nous pouvons numériser les processus administratifs de A à Z. <br class="hide-for-mobile">Cela facilite notre vie quotidienne et celle de nos clients." {{< /testimonial >}}
+
+[//]: # (--------------------------------------------------------------------------------------------------------------)
+
 {{% content class="no-bottom-padding" %}}
 {{% heading %}}
 # À venir
@@ -72,14 +79,8 @@ Notre vision est grande. Nous développons Skribble jour après jour.
     description="Téléchargez les documents signés dans un format PDF X/A reconnu pour un archivage juridiquement valable.">}}
 
 {{< /features-container >}}
-
+<br><br>
 [//]: # (--------------------------------------------------------------------------------------------------------------)
-
-{{< testimonial "testimonial/fr-logo-99w.svg" "Stéphane Schwab, Chef de E-Gouvernement du canton de Fribourg" >}}
-"Grâce à Skribble, nous pouvons numériser les processus administratifs de A à Z. <br class="hide-for-mobile">Cela facilite notre vie quotidienne et celle de nos clients." {{< /testimonial >}}
-
-[//]: # (--------------------------------------------------------------------------------------------------------------)
-
 
 {{< outro >}}
 {{< picture image8 414 "Un homme se tient à côté d'un document électronique avec un stylo plume géant" >}}

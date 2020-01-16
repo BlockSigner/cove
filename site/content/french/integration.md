@@ -43,7 +43,7 @@ Avec Skribble, vous choisissez une plate-forme de cloud <br class="hide-for-mobi
 {{< /features-container >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
-
+<br><br>
 {{< testimonial "testimonial/softcom-logo-108w.png" "Rémy Tzaud, PDG de Softcom" >}}
 "Nous avons intégré l'API pour le canton <br class="hide-for-mobile">de Fribourg en une demi-journée. <br class="hide-for-mobile">L'API de Skribble ne laisse rien à désirer." 
 {{< /testimonial >}}
@@ -83,6 +83,12 @@ Avec Skribble, vous choisissez une plate-forme de cloud <br class="hide-for-mobi
     description="Help-Base, FAQ, Chat-Bot, Live-Chat, Hotline (9.00- 12.00 et 14.00-17.00). La surveillance et la gestion du serveur sont garanties 24h/24 et 7j/7.">}}
 
 {{< /features-container >}}
+
+[//]: # (--------------------------------------------------------------------------------------------------------------)
+<br><br>
+{{< testimonial "testimonial/swissmade-logo-300w.png" "" >}}
+Skribble porte le label <br class="hide-for-mobile"><a href="https://www.swissmadesoftware.org/en/home/home.html" target="_blank" class="text-decoration: none;">Swiss made Software</a>, qui est synonyme de qualité, de fiabilité et de précision dans le développement de logiciels.
+{{< /testimonial >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 

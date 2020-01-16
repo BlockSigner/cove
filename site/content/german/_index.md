@@ -85,7 +85,7 @@ Lade die signierenden Personen per E-Mail ein und lege die Signatur-Reihenfolge 
 Signiere per Knopfdruck, unabhängig <br class="hide-for-mobile">von Zeit und Ort, rechtsgültig nach Schweizer <br class="hide-for-mobile">und EU-Recht.
 {{% /richtext %}}
 
-{{< picture image4 391 "Drei personen signieren rechtsgültig zusammen ein online dokument" >}}
+
 {{< /side-by-side >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)

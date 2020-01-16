@@ -42,7 +42,7 @@ With Skribble, you choose a cloud platform that combines <br class="hide-for-mob
 {{< /features-container >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
-
+<br><br>
 {{< testimonial "testimonial/softcom-logo-108w.png" "Rémy Tzaud, CEO of Softcom" >}}
 "We integrated the API for the Canton of Fribourg in half a day. The API from Skribble leaves nothing to be desired." 
 {{< /testimonial >}}
@@ -84,6 +84,12 @@ With Skribble, you choose a cloud platform that combines <br class="hide-for-mob
 {{< /features-container >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
+<br><br>
+{{< testimonial "testimonial/swissmade-logo-300w.png" "" >}}
+Skribble holds the label <br class="hide-for-mobile"><a href="https://www.swissmadesoftware.org/en/home/home.html" target="_blank" class="text-decoration: none;">Swiss made Software</a>, which stands for quality, reliability and precision in software development.
+{{< /testimonial >}}
+
+[//]: # (--------------------------------------------------------------------------------------------------------------)
 
 {{% content class="no-bottom-padding" %}}
 {{% heading %}}
@@ -115,8 +121,6 @@ Check out our API documenation.
 {{% /richtext %}}
 {{% /cta %}}
 {{< /cta-group >}}
-
-[//]: # (--------------------------------------------------------------------------------------------------------------)
 
 {{< outro >}}
 {{< picture image8 414 >}}

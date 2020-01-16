@@ -45,6 +45,14 @@ Mit Skribble signierst du nicht nur rechtsgültig, sondern auch einfach.
     description="Personalisiere deine persönliche visuelle Signatur und laden deine handschriftliche Unterschrift als PNG, JPG oder GIF hoch.">}}
 {{< /features-container >}}
 
+[//]: # (--------------------------------------------------------------------------------------------------------------)
+<br>
+{{< testimonial "testimonial/fr-logo-99w.svg" "Stéphane Schwab, Leiter E-Government, Kanton Freiburg" >}}
+"Dank Skribble können wir Administrationsprozesse von A bis Z digitalisieren. Das erleichtert <br class="hide-for-mobile">den Alltag für uns und unseren Kunden." {{< /testimonial >}}
+
+[//]: # (--------------------------------------------------------------------------------------------------------------)
+
+
 {{% content class="no-bottom-padding" %}}
 {{% heading %}}
 # Folgt in Kürze
@@ -72,12 +80,7 @@ Unsere Vision ist gross. Wir entwickeln Skribble Tag für Tag weiter.
 
 {{< /features-container >}}
 
-[//]: # (--------------------------------------------------------------------------------------------------------------)
-
-{{< testimonial "testimonial/fr-logo-99w.svg" "Stéphane Schwab, Leiter E-Government, Kanton Freiburg" >}}
-"Dank Skribble können wir Administrationsprozesse von A bis Z digitalisieren. Das erleichtert <br class="hide-for-mobile">den Alltag für uns und unseren Kunden." {{< /testimonial >}}
-
-[//]: # (--------------------------------------------------------------------------------------------------------------)
+<br><br>
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
