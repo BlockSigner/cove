@@ -10,6 +10,13 @@
     text-align: center;
   }
 
+  a:not(.btn) {
+    color: inherit;
+    &:hover {
+      color: $c-primary;
+    }
+  }
+
   &__quote {
     max-width: 490px;
     margin: 0;
