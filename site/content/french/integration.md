@@ -87,7 +87,7 @@ Avec Skribble, vous choisissez une plate-forme de cloud <br class="hide-for-mobi
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 <br><br>
 {{< testimonial "testimonial/swissmade-logo-300w.png" "" >}}
-Skribble porte le label <br class="hide-for-mobile"><a href="https://www.swissmadesoftware.org/en/home/home.html" target="_blank" class="text-decoration: none;">Swiss made Software</a>, qui est synonyme de qualité, de fiabilité et de précision dans le développement de logiciels.
+Skribble porte le label <br class="hide-for-mobile"><a href="https://www.swissmadesoftware.org/en/home/home.html" target="_blank" class="text-decoration: none;">Swiss made Software</a>, qui est synonyme <br class="hide-for-mobile">de qualité, de fiabilité et de précision dans le développement de logiciels.
 {{< /testimonial >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)

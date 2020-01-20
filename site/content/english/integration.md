@@ -86,7 +86,7 @@ With Skribble, you choose a cloud platform that combines <br class="hide-for-mob
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 <br><br>
 {{< testimonial "testimonial/swissmade-logo-300w.png" "" >}}
-Skribble holds the label <br class="hide-for-mobile"><a href="https://www.swissmadesoftware.org/en/home/home.html" target="_blank" class="text-decoration: none;">Swiss made Software</a>, which stands for quality, reliability and precision in software development.
+Skribble holds the label <br class="hide-for-mobile"><a href="https://www.swissmadesoftware.org/en/home/home.html" target="_blank" class="text-decoration: none;">Swiss made Software</a>, which stands <br class="hide-for-mobile">for quality, reliability and precision in software development.
 {{< /testimonial >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
