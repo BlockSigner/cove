@@ -300,7 +300,7 @@ languages:
           href: /enable-qes/
           target:
       rightSlot:
-        title: Do you want to schedule a demo session?
+        title: Want to schedule a demo session?
         text: We are pleased to come by to introduce you to Skribble.
         button:
           label: Arrange a call
