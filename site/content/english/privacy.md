@@ -2,7 +2,7 @@
 title: Privacy Policy
 slug: privacy
 draft: false
-description: Privacy policy meta description
+description: Our privacy policy
 ---
 
 {{< content top=16 width=narrow >}}

@@ -1,5 +1,5 @@
 ---
-title: Privacy Policies
+title: Privacy Policy Archive
 slug: privacy/archive
 draft: false
 description: Privacy policy archive
