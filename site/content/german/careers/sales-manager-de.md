@@ -46,8 +46,7 @@ Deine Talente als Sales Manager sind gefragt: als unser Gesicht in Deutschland, 
 
 ## Das kannst du bewirken:
 - Du repräsentierst Skribble bei Entscheidungsträgern in Wirtschaft, Politik und Medien in Deutschland
-- Du arbeitest mit unserem Business Development Team zusammen, um eine Sales Strategie für Deutschland zu entwickeln und diese selbstständig umzusetzen
-Unser Digital Marketing Team generiert dir Leads und du gehst diese auf allen Kommunikationskanälen aktiv an
+- Du arbeitest mit unserem Business Development Team zusammen, um eine Sales Strategie für Deutschland zu entwickeln und diese selbstständig umzusetzen. Unser Digital Marketing Team generiert dir Leads und du gehst diese auf allen Kommunikationskanälen aktiv an
 - Du stehst laufend im Dialog mit deinen Leads und kommunizierst deren Anliegen aktiv mit unserem Product Management
 - Du unterstützt unsere Inbound Marketing Strategie mit deiner Expertise
 
