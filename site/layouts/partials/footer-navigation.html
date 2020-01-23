@@ -7,7 +7,7 @@
           {{ $currentPage := . }}
           {{ range.Site.Menus.footer1 }}
             <li>
-              <a class="{{ if eq (string .URL) $currentPage.RelPermalink }}active{{ end }}" href="{{ .URL }}"> {{ .Name }} </a>
+              <a class="{{ if eq (string .URL) $currentPage.RelPermalink }}active{{ end }}" href="{{ .URL }}" {{ if in .URL "http" }} target="_blank" {{ end }}> {{ .Name }} </a>
             </li>
           {{ end }}
         </ul>
@@ -18,7 +18,7 @@
           {{ $currentPage := . }}
           {{ range.Site.Menus.footer2 }}
             <li>
-              <a class="{{ if eq (string .URL) $currentPage.RelPermalink }}active{{ end }}" href="{{ .URL }}"> {{ .Name }} </a>
+              <a class="{{ if eq (string .URL) $currentPage.RelPermalink }}active{{ end }}" href="{{ .URL }}" {{ if in .URL "http" }} target="_blank" {{ end }}> {{ .Name }} </a>
             </li>
           {{ end }}
         </ul>
@@ -29,7 +29,7 @@
           {{ $currentPage := . }}
           {{ range.Site.Menus.footer3 }}
             <li>
-              <a class="{{ if eq (string .URL) $currentPage.RelPermalink }}active{{ end }}" href="{{ .URL }}"> {{ .Name }} </a>
+              <a class="{{ if eq (string .URL) $currentPage.RelPermalink }}active{{ end }}" href="{{ .URL }}" {{ if in .URL "http" }} target="_blank" {{ end }}> {{ .Name }} </a>
             </li>
           {{ end }}
         </ul>
@@ -40,7 +40,7 @@
           {{ $currentPage := . }}
           {{ range.Site.Menus.footer4 }}
             <li>
-              <a class="{{ if eq (string .URL) $currentPage.RelPermalink }}active{{ end }}" href="{{ .URL }}"> {{ .Name }} </a>
+              <a class="{{ if eq (string .URL) $currentPage.RelPermalink }}active{{ end }}" href="{{ .URL }}" {{ if in .URL "http" }} target="_blank" {{ end }}> {{ .Name }} </a>
             </li>
           {{ end }}
         </ul>
