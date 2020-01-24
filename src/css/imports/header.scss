@@ -186,6 +186,8 @@
 }
 
 .submenu ul {
+  width: max-content;
+  min-width: 150px;
   position: absolute;
   background: white;
   padding: 6px 10px;

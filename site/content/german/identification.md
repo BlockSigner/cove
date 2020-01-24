@@ -18,6 +18,8 @@ Für das Signieren mit höchstem E-Signatur-Standard (QES) müssen <br class="hi
 &nbsp;
 {{% /content %}}
 
+[//]: # (--------------------------------------------------------------------------------------------------------------)
+
 {{% cta
   label="Download Factsheet"
   href="https://cdn2.hubspot.net/hubfs/5051692/Skribble%20Overview/Skribble_Overview_Identification.pdf"

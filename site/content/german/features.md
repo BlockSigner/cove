@@ -82,8 +82,6 @@ Unsere Vision ist gross. Wir entwickeln Skribble Tag für Tag weiter.
 
 <br><br>
 
-[//]: # (--------------------------------------------------------------------------------------------------------------)
-
 {{< outro >}}
 {{< picture image8 414 "Ein mann steht mit einem riesen füller neben einem elektronischen dokument" >}}
 

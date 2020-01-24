@@ -103,8 +103,7 @@ Signiere per Knopfdruck, unabhängig <br class="hide-for-mobile">von Zeit und Or
   "Alle Funktionen anzeigen"
   "de/features"
   ""
-  "outline"
->}}
+  "outline">}}
 {{% /center %}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
