@@ -190,7 +190,7 @@ groups:
 {{< outro >}}
 {{< picture image8 414 >}}
 
-{{% richtext %}}
+{{< richtext >}}
 {{% heading %}}
 # Sign now, legally and electronically!
 No credit card, entrance fee or commitment required.
@@ -201,5 +201,5 @@ No credit card, entrance fee or commitment required.
   "https://my.skribble.com/signup?lang=en"
   "_blank"
 >}}
-{{% /richtext %}}
+{{< /richtext >}}
 {{< /outro >}}

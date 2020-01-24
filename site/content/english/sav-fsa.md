@@ -12,7 +12,7 @@ type: blank
   {{< picture image1 678 "three people sign an electronic document" >}}
 </div>
 
-{{% richtext %}}
+{{< richtext >}}
 {{% heading left %}}
 # Legally binding electronic signatures with Skribble
 Easily handle digital signature processes – legally binding in accordance with Swiss & EU law.
@@ -27,7 +27,7 @@ Easily handle digital signature processes – legally binding in accordance with
   "Based on the qualified electronic signature QES by Swisscom"
 >}}
 
-{{% /richtext %}}
+{{< /richtext >}}
 {{< /intro >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
@@ -35,11 +35,14 @@ Easily handle digital signature processes – legally binding in accordance with
 {{< side-by-side >}}
 {{% richtext %}}
 ## The qualified electronic signature is simple, intuitive and efficient with Skribble.
-{{% fancy-list %}}
-- **No external hardware required** Skribble can be used immediately
-- **Attach multiple signatures** Sign multiple documents with one click (batch signature)
-- **Time-saving coordination** Invite and remind to sign by e-mail
-{{% /fancy-list %}}
+
+- **No external hardware required**
+Skribble can be used immediately
+- **Attach multiple signatures**
+Sign multiple documents with one click (batch signature)
+- **Time-saving coordination**
+Invite and remind to sign by e-mail
+
 {{% /richtext %}}
 
 {{< picture image4 391 "Three people legally sign an online document together" >}}
@@ -52,29 +55,32 @@ Easily handle digital signature processes – legally binding in accordance with
 
 {{% richtext %}}
 ## Skribble meets the highest legal and technological standards
-{{% fancy-list %}}
-- **ZertEs & eIDAS** QES certificates from Swisscom
-- **DSG / DSGVO** AES-256 Encryption
-- **Swiss Hosting** FINMA-compliant, ISO 27001 certified
-{{% /fancy-list %}}
+
+- **ZertEs & eIDAS**
+QES certificates from Swisscom
+- **DSG / DSGVO**
+AES-256 Encryption
+- **Swiss Hosting**
+FINMA-compliant, ISO 27001 certified
+
 {{% /richtext %}}
 {{< /side-by-side >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{% content %}}
+{{< content >}}
 {{% heading %}}
 # SAV-FSA members use Skribble at a preferential price
 {{% /heading %}}
 
 {{< picture sav-special 200 "Blue circle with the number 12" >}}
-{{% richtext %}}
+{{% richtext center %}}
 
 ## per month / user instead of CHF 25.00
 Signatures can also be obtained independently of the user.
 {{% /richtext %}}
 
-{{% /content %}}
+{{< /content >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
@@ -86,11 +92,9 @@ Signatures can also be obtained independently of the user.
 
 All you need is a mobile phone and a valid identification document (passport or identity card).
 
-{{% fancy-list %}}
 - **Skribble visits your office**
 - **We will identify you**
 - **You're ready to sign right away**
-{{% /fancy-list %}}
 
 A law firm may also elect to identify persons itself.
 
@@ -107,7 +111,7 @@ A law firm may also elect to identify persons itself.
 {{< outro >}}
 {{< picture image8 414 "A man stands next to an electronic document with a giant fountain pen" >}}
 
-{{% richtext %}}
+{{< richtext >}}
 {{% heading %}}
 # Sign now, legally and electronically!
 Learn more about the offer.
@@ -128,5 +132,5 @@ Learn more about the offer.
   </svg>
   +41 44 505 16 64
 </a>
-{{% /richtext %}}
+{{< /richtext >}}
 {{< /outro >}}

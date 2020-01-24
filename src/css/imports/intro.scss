@@ -13,6 +13,7 @@
   }
 
   .btn {
+    margin-top: 20px;
     @include max-width {
       width: 100%;
     }

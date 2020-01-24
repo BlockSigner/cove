@@ -1,6 +1,10 @@
 .richtext {
   @include richtext-styling;
 
+  &--center {
+    text-align: center;
+  }
+
   .lead {
     font: normal 2.4rem/1.35 $averta;
     @include max-width {

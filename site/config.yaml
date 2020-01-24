@@ -2,6 +2,10 @@ baseurl: /
 title: Skribble
 params:
   outage: false
+markup:
+  goldmark:
+    renderer:
+      hardWraps: true
 languages:
   de:
     languageName: Deutsch
@@ -125,7 +129,7 @@ languages:
         - name: Impressum
           url: /de/impressum/
           weight: 20
-  
+
     header:
       login:
         label: Login
@@ -454,7 +458,7 @@ languages:
         button:
           label: S'identifier
           href: /fr/debloquez-qes/
-          target: 
+          target:
       rightSlot:
         title: Organiser une démonstration?
         text: Nous passons volontiers en personne afin de vous présenter Skribble.

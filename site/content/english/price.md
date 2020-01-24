@@ -7,45 +7,45 @@ slug: pricing
 og_image: og/og-skribble-mission.jpg
 ---
 
-{{% content %}}
+{{< content >}}
 {{% heading %}}
 # Sign economically <br class="hide-for-mobile">with the right plan
 Skribble is suitable for both occasional and frequent signing.
 {{% /heading %}}
-{{% action-card
+{{< action-card
   title="Free"
   class="free"
   description="<p>You can sign <strong>twice per month free of charge.</strong> No credit card required.</p>"
   button-text="Try it now"
   button-link="https://my.skribble.com/signup"
-  subtext="Your account can be deleted at any time. No credit card required." %}}
-
-    {{< picture free-visual 232 "" >}}
-{{% /action-card %}}
+  subtext="Your account can be deleted at any time. No credit card required."
+>}}
+   {{< picture free-visual 232 "" >}}
+{{< /action-card >}}
 
 {{% heading class="price-separator" %}}
 ## Do you sign more frequently?
 After registering, you can switch to one of the following plans at any time:
 {{% /heading %}}
 
-{{% action-card
+{{< action-card
   title="Fair Flat"
   class="fair"
   description="<p>You sign or request <strong>more than two signatures per month.</strong></p><p class='top-spaced'>Maximum</p><p><strong>CHF <span class='large'>2.50</span> per signature</strong></p><p>up to a maximum of</p><p><strong>CHF <span class='large'>30.-</span> per month</strong></p>"
-  has-comparison="true"  
+  has-comparison="true"
   comparison-caption="If you invite others to sign, another 2.50 per signature request will be added."
   button-text="Try it now"
   button-link="https://my.skribble.com/signup"
-  subtext="No subscription commitment. The first two signatures are free each month."%}}
-    {{< picture fair-flat-visual 290 "" >}}
-{{% /action-card %}}
-
+  subtext="No subscription commitment. The first two signatures are free each month."
+>}}
+  {{< picture fair-flat-visual 290 "" >}}
+{{< /action-card >}}
 
 {{% heading class="price-separator"%}}
 ## Or
 {{% /heading %}}
 
-{{% action-card
+{{< action-card
   title="Business"
   class="business"
   description="<p>Skribble for your organisation. User administration is centralised and your organisation is invoiced monthly.</p>"
@@ -57,12 +57,14 @@ After registering, you can switch to one of the following plans at any time:
   comparison-caption="The prices decrease significantly if you sign more or with a different standard."
   button-text="Get advice now"
   button-link="https://help.skribble.com/meetings/patrick182/telephone-consultation-skribble"
-  subtext=""%}}
-    {{< picture business-visual 270 "" >}}
-{{% /action-card %}}
+  subtext=""
+>}}
+  {{< picture business-visual 270 "" >}}
+{{< /action-card >}}
 
-{{% /content %}}
-{{% show-hide-button button-text="Compare plans in detail" %}}
+{{< /content >}}
+
+{{< show-hide-button button-text="Compare plans in detail" >}}
 {{< table-dense id="price-table" >}}
 <thead>
 <tr>
@@ -238,36 +240,37 @@ After registering, you can switch to one of the following plans at any time:
 
 {{< /table-dense >}}
 
-{{% /show-hide-button %}}
+{{< /show-hide-button >}}
 
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
 {{< cta-group >}}
-{{% cta
+{{< cta
   label="Learn more"
   href="/signaturestandards/"
   outlined="true"
-%}}
+>}}
 
 {{< picture package-6-1-out 100 "" >}}
 
 {{% richtext %}}
-**When do you need which signature standard?**<br>
+**When do you need which signature standard?**
 {{% /richtext %}}
-{{% /cta %}}
-{{% cta
+{{< /cta >}}
+
+{{< cta
   label="Learn more"
   href="/identification/"
   outlined="true"
-%}}
+>}}
 
 {{< picture qes-erklaert 122 "Signiert mit Skribble bedeutet rechtsgültig (QES) signiert nach Schweizer und EU-Gesetz." >}}
 
 {{% richtext %}}
-**Are you interested in additional services in the field of identification?**<br>
+**Are you interested in additional services in the field of identification?**
 {{% /richtext %}}
-{{% /cta %}}
+{{< /cta >}}
 {{< /cta-group >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
@@ -275,7 +278,7 @@ After registering, you can switch to one of the following plans at any time:
 {{< outro >}}
 {{< picture image8 414 "A man stands next to an electronic document with a giant fountain pen" >}}
 
-{{% richtext %}}
+{{< richtext >}}
 {{% heading %}}
 # Sign now, legally and electronically!
 No credit card, entrance fee or commitment required.
@@ -286,5 +289,5 @@ No credit card, entrance fee or commitment required.
   "https://my.skribble.com/signup?lang=en"
   "_blank"
 >}}
-{{% /richtext %}}
+{{< /richtext >}}
 {{< /outro >}}

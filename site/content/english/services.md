@@ -8,7 +8,7 @@ og_image: og/og-skribble-mission.jpg
 
 ---
 
-{{% content %}}
+{{< content >}}
 {{% heading %}}
 # Pay per signature or as a flatrate <br class="hide-for-mobile">and save if you sign more
 Skribble's pricing structure adapts to your needs
@@ -31,20 +31,20 @@ Can be flexibly combined
 More signatures, better value
 : We have a volume-based pricing model: the more signatures you purchase in a prepaid plan, the lower the unit price. The more people you sign up for the flat rate plan, the lower the monthly flat rate per person.
 {{% /richtext %}}
-{{% /content %}}
+{{< /content >}}
 
-{{% cta
+{{< cta
   label="Get offer now"
   href="mailto:info@skribble.com"
   target="_blank"
-%}}
+>}}
 {{% richtext %}}
 **Would you like to know more about our prices?**
 {{% /richtext %}}
-{{% /cta %}}
+{{< /cta >}}
 
 
-{{% content %}}
+{{< content >}}
 {{% heading %}}
 # Identification
 No E-ID at hand? Let us verify your identity <br class="hide-for-mobile">or identify your people by yourself.
@@ -60,23 +60,23 @@ Suitable if new signees are constantly being added.
 Suitable if you use QES in a predefined circle of people.
 {{% /plan %}}
 {{< /row >}}
-{{% /content %}}
+{{< /content >}}
 
-{{% cta
+{{< cta
   label="More about identification"
   href="/identification"
-%}}
+>}}
 {{% richtext %}}
 **The identity check is carried out once upon personal contact with the ID app provided by Swisscom.**
 {{% /richtext %}}
-{{% /cta %}}
+{{< /cta >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
 {{< outro >}}
 {{< picture image8 414 "A man stands next to an electronic document with a giant fountain pen" >}}
 
-{{% richtext %}}
+{{< richtext >}}
 {{% heading %}}
 # Sign now, legally and electronically!
 No credit card, entrance fee or commitment required.
@@ -87,5 +87,5 @@ No credit card, entrance fee or commitment required.
   "https://my.skribble.com/signup?lang=en"
   "_blank"
 >}}
-{{% /richtext %}}
+{{< /richtext >}}
 {{< /outro >}}

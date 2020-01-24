@@ -19,7 +19,7 @@ testimonial:
   {{< picture image1 678 "three people sign an electronic document" >}}
 </div>
 
-{{% richtext %}}
+{{< richtext >}}
 {{% heading left %}}
 # Legally binding electronic signatures with Skribble
 Easily handle digital signature processes – <br class="hide-for-mobile">legally binding in accordance with Swiss & EU law.
@@ -40,7 +40,7 @@ Easily handle digital signature processes – <br class="hide-for-mobile">legall
   "Based on signature certificates issued by Swisscom"
 >}}
 
-{{% /richtext %}}
+{{< /richtext >}}
 {{< /intro >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
@@ -103,19 +103,19 @@ Sign at the push of a button, independent of time and place, legally valid accor
 {{< picture skribble-ui-en 1020 "Skribble plattform - user interface" >}}
 
 
-{{% center %}}
+{{< center >}}
 {{< button
   "Show all features"
   "features"
   ""
   "outline"
 >}}
-{{% /center %}}
+{{< /center >}}
 
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{% content %}}
+{{< content >}}
 {{% heading %}}
 # Skribble complies <br class="hide-for-mobile">with legal requirements
 With Skribble you sign legally and securely according to the following requirements:
@@ -132,11 +132,11 @@ The qualified electronic signature (QES) available on Skribble is equivalent to 
 {{% collapsible 3 "Data protection according to FADP/GDPR" "check" %}}
 Skribble and its signing partner Swisscom commit to manage data in accordance with the Federal Act on Data Protection (FADP) and the General Data Protection Regulation (GDPR). Moreover, all data is hosted in Switzerland according to banking standards.
 {{% /collapsible %}}
-{{% /content %}}
+{{< /content >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{% content %}}
+{{< content >}}
 {{% heading %}}
 # Use Skribble to maximise the legal weight of your signature
 The law distinguishes between qualified e-signatures (QES) <br class="hide-for-mobile">and advanced e-signatures (AES).
@@ -145,18 +145,18 @@ The two standards vary in terms of area <br class="hide-for-mobile">of applicati
 {{< picture legal_weight 664 "Legal-weight" >}}
 {{% richtext %}}
 {{% /heading %}}
-{{% /content %}}
+{{< /content >}}
 
-{{% cta
+{{< cta
   label="Learn more"
   href="/signaturestandards/"
   outlined="true"
-%}}
+>}}
 
 {{% richtext %}}
-**At Skribble you have the choice <br class="hide-for-mobile">between the signature standards AES and QES.**<br>
+**At Skribble you have the choice between the signature standards AES and QES.**
 {{% /richtext %}}
-{{% /cta %}}
+{{< /cta >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
@@ -169,7 +169,7 @@ The two standards vary in terms of area <br class="hide-for-mobile">of applicati
 {{< outro >}}
 {{< picture image8 414 "A man stands next to an electronic document with a giant fountain pen" >}}
 
-{{% richtext %}}
+{{< richtext >}}
 {{% heading %}}
 # Sign now, legally and electronically!
 No credit card, sign-up fee or commitment required.
@@ -180,7 +180,7 @@ No credit card, sign-up fee or commitment required.
   "https://my.skribble.com/signup?lang=en"
   "_blank"
 >}}
-{{% /richtext %}}
+{{< /richtext >}}
 {{< /outro >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)

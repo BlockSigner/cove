@@ -10,40 +10,41 @@ og_image: og/og-skribble-identification.jpg
 
 ---
 
-{{% content %}}
+{{< content >}}
 {{% heading %}}
 # Identity verification for QES
 For signing with the highest e-signature standard (QES), <br class="hide-for-mobile">signatories must have their identity checked. This is done via e-ID <br class="hide-for-mobile">or with our identification service.
 {{% /heading %}}
 {{< picture identification 482 "he identity of a woman standing in a mobile phone is verified by two people" >}}
 &nbsp;
-{{% /content %}}
+{{< /content >}}
 
-{{% cta
+{{< cta
   label="Download Factsheet"
   href="https://cdn2.hubspot.net/hubfs/5051692/Skribble%20Overview%20EN/Skribble_Overview_Identification_EN.pdf"
   target="_blank"
   outlined="true"
-%}}
+>}}
 {{% richtext %}}
 **Identity verification for QES – <br class="hide-for-mobile">Skribble makes it easy**
 {{% /richtext %}}
-{{% /cta %}}
+{{< /cta >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{% content %}}
+{{< content >}}
 {{% heading %}}
 # Use your existing e-ID
-Persons who have a verified e-ID can sign with QES on Skribble <br class="hide-for-mobile">without additional identity verification.
+Persons who have a verified e-ID can sign with QES on Skribble
+without additional identity verification.
 {{% /heading %}}
 
 {{< picture "identification-id" 412 "An electronic legally binding identity card" >}}
 
+{{% richtext center %}}
 A growing number of people in Europe have a verified electronic identity (e-ID). Skribble links them all so that millions of users can start signing with QES immediately.
 
-{{% richtext %}}
-{{% center %}}**Individuals who log in with an e-ID automatically activate QES.**{{% /center %}}
+**Individuals who log in with an e-ID automatically activate QES.**
 {{% /richtext %}}
 
 {{< picture e-id-map 826 "E-ID, where you can sign Skribble soon." >}}
@@ -52,25 +53,22 @@ A growing number of people in Europe have a verified electronic identity (e-ID).
 {{% center %}}**More e-IDs will follow this year.**{{% /center %}}
 {{% /richtext %}}
 
-&nbsp;
-
-{{% /content %}}
+{{< /content >}}}
 
 
-
-{{% cta
+{{< cta
   label="Schedule appointment"
   href="https://help.skribble.com/meetings/patrick182/telephone-consultation-skribble"
   target="_blank"
-%}}
+>}}
 
 {{< picture consult 92 "Identification for the QES. Let us advise you and find the right identification solution for your company." >}}
 
 {{% richtext %}}
-**Identification with Skribble**<br>
+**Identification with Skribble**
 Let us advise you and find the right identification solution for your company.
 {{% /richtext %}}
-{{% /cta %}}
+{{< /cta >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
@@ -79,7 +77,7 @@ Let us advise you and find the right identification solution for your company.
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{% content %}}
+{{< content >}}
 {{% heading %}}
 # Get identified
 If you do not have an e-ID, Skribble can identify you within minutes.
@@ -118,26 +116,27 @@ Suitable if new signees are constantly being added.
 
 {{% /plan %}}
 {{< /row >}}
-{{% /content %}}
+{{< /content >}}
 
 
-{{% cta
+{{< cta
   label="Schedule a phone call"
   href="https://help.skribble.com/meetings/patrick182/skribble-id-zurich"
   target="_blank"
-%}}
+>}}
 {{< picture consult 92 "Identification for the QES. Let us advise you and find the right identification solution for your company." >}}
 {{% richtext %}}
-**Any questions?<br>We are happy to help you.**
+**Any questions?
+We are happy to help you.**
 {{% /richtext %}}
-{{% /cta %}}
+{{< /cta >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
 {{< outro >}}
 {{< picture image8 414 "A man stands next to an electronic document with a giant fountain pen" >}}
 
-{{% richtext %}}
+{{< richtext >}}
 {{% heading %}}
 # Sign now, legally and electronically!
 No credit card, entrance fee or commitment required.
@@ -148,5 +147,5 @@ No credit card, entrance fee or commitment required.
   "https://my.skribble.com/signup?lang=en"
   "_blank"
 >}}
-{{% /richtext %}}
+{{< /richtext >}}
 {{< /outro >}}

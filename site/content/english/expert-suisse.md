@@ -12,7 +12,7 @@ type: blank
   {{< picture image1 678 "three people sign an electronic document" >}}
 </div>
 
-{{% richtext %}}
+{{< richtext >}}
 {{% heading left %}}
 # Legally binding electronic signatures with Skribble
 Easily handle digital signature processes – <br class="hide-for-mobile">legally binding in accordance with Swiss & EU law.
@@ -27,7 +27,7 @@ Easily handle digital signature processes – <br class="hide-for-mobile">legall
   "Based on the qualified electronic signature QES by Swisscom"
 >}}
 
-{{% /richtext %}}
+{{< /richtext >}}
 {{< /intro >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
@@ -35,11 +35,12 @@ Easily handle digital signature processes – <br class="hide-for-mobile">legall
 {{< side-by-side >}}
 {{% richtext %}}
 ## The qualified electronic signature is simple, intuitive and efficient with Skribble.
-{{% fancy-list %}}
-- **No external hardware required** Skribble can be used immediately
-- **Attach multiple signatures** Sign multiple documents with one click (batch signature)
-- **Time-saving coordination** Invite and remind to sign by e-mail
-{{% /fancy-list %}}
+- **No external hardware required**
+Skribble can be used immediately
+- **Attach multiple signatures**
+Sign multiple documents with one click (batch signature)
+- **Time-saving coordination**
+Invite and remind to sign by e-mail
 {{% /richtext %}}
 
 {{< picture image4 391 "Three people legally sign an online document together" >}}
@@ -52,32 +53,30 @@ Easily handle digital signature processes – <br class="hide-for-mobile">legall
 
 {{% richtext %}}
 ## Skribble meets the highest legal and technological standards
-{{% fancy-list %}}
-- **ZertEs & eIDAS** QES certificates from Swisscom
-- **DSG / DSGVO** AES-256 Encryption
-- **Swiss Hosting** FINMA-compliant, ISO 27001 certified
-{{% /fancy-list %}}
+- **ZertEs & eIDAS**
+QES certificates from Swisscom
+- **DSG / DSGVO**
+AES-256 Encryption
+- **Swiss Hosting**
+FINMA-compliant, ISO 27001 certified
 {{% /richtext %}}
 {{< /side-by-side >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{% content %}}
+{{< content >}}
 {{% heading %}}
 # Free signing with Skribble <br class="hide-for-mobile">until the end of the year for EXPERTsuisse members. As of January 2020
 {{% /heading %}}
 
 {{< picture sav-special 200 "Blue circle with the number 12" >}}
 
-
 {{% heading %}}
 ## per month per user instead of CHF 25.00
 Exclusively for EXPERTsuisse members:
 {{% /heading %}}
 {{< picture expertsuisse-logo 250 "EXPERTsuisse Logo" >}}
-
-
-{{% /content %}}
+{{< /content >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
@@ -89,14 +88,13 @@ Exclusively for EXPERTsuisse members:
 
 All you need is a mobile phone and a valid identification document (passport or identity card).
 
-{{% fancy-list %}}
 - **Skribble visits your office**
 - **We will identify you**
 - **You're ready to sign right away**
-{{% /fancy-list %}}
 
 A firm may also elect to identify persons itself.
 
+[//]: # (--TODO:-------------------------------------------------------------------------------------------------------)
 {{< intro-partner
   "image/swisscom.png"
   "Official identification partner of Swisscom"
@@ -107,13 +105,13 @@ A firm may also elect to identify persons itself.
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{% content %}}
+{{< content >}}
 {{% heading %}}
 # All clear?
 {{% /heading %}}
 
 {{% collapsible 10 "Where are the documents signed with Skribble stored?" %}}
-Skribble' s data centre is located in Switzerland and is ISO 270001 certified (according to banking standards).         
+Skribble' s data centre is located in Switzerland and is ISO 270001 certified (according to banking standards).
 {{% /collapsible %}}
 
 {{% collapsible 11 "How can Skribble be sure that the right person has signed?" %}}
@@ -121,7 +119,7 @@ All signatories are identified in advance. During signing, the signing person co
 {{% /collapsible %}}
 
 {{% collapsible 12 "Is signing with Skribble legally binding?" %}}
-Yes, Skribble is based on the qualified electronic signature (QES). The QES is the only form of electronic signature that is equivalent to the handwritten signature before Swiss (OR Art. 14 Para. 2 bis) and EU law (eIDAS No. 910/2014 Art. 25 Para. 2). 
+Yes, Skribble is based on the qualified electronic signature (QES). The QES is the only form of electronic signature that is equivalent to the handwritten signature before Swiss (OR Art. 14 Para. 2 bis) and EU law (eIDAS No. 910/2014 Art. 25 Para. 2).
 {{% /collapsible %}}
 
 {{% collapsible 13 "Can I store the digitally signed contract in paper form?" %}}
@@ -131,18 +129,18 @@ Not exclusively. Thanks to the visual signature, it can be seen on the printed c
 {{% collapsible 1 "Why do I need to be identified?" %}}
 At Skribble you sign with the qualified electronic signature (QES). This is the highest e-signature standard. For this, the law requires an identity verification through personal contact. Exceptions are financial intermediaries who may <br class="hide-for-mobile">carry out identity verification using video identification.{{% /collapsible %}}
 
-{{% /content %}}
+{{< /content >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
 {{< outro >}}
 {{< picture image8 414 "A man stands next to an electronic document with a giant fountain pen" >}}
 
-{{% richtext %}}
+{{< richtext >}}
 {{% heading %}}
 # Sign now, legally and electronically!
 Learn more about the offer.
-{{% /heading %}}
+{{< /heading >}}
 
 {{< button
   "Make an appointment"
@@ -159,5 +157,5 @@ Learn more about the offer.
   </svg>
   +41 44 505 16 64
 </a>
-{{% /richtext %}}
+{{< /richtext >}}
 {{< /outro >}}

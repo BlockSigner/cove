@@ -6,7 +6,7 @@ slug: qes-validator
 
 ---
 
-{{% content %}}
+{{< content >}}
 {{% heading %}}
 # Check whether a document <br class="hide-for-mobile">has been signed with QES
 The Validator service of the Swiss Federal Administration allows you <br class="hide-for-mobile">to check whether your document has been signed <br class="hide-for-mobile">with a qualified electronic signature (QES) according to Swiss law. *
@@ -19,38 +19,38 @@ The Validator service of the Swiss Federal Administration allows you <br class="
 2. **Upload your document**
 3. **Click on "Check document"**
 {{% /richtext %}}
-{{% /content %}}
+{{< /content >}}
 
-{{% cta
+{{< cta
   label="To the QES Validator"
   href="https://www.e-service.admin.ch/validator/upload/all/en"
   target="_blank"
   outlined="true"
-%}}
+>}}
 {{< picture ch-logo 122 "Logo of the swiss federal administration" >}}
 {{% richtext %}}
 **A service of the Swiss Federal Administration.**
 {{% /richtext %}}
-{{% /cta %}}
+{{< /cta >}}
 
-{{% cta
+{{< cta
   label="Learn more"
   href="signaturestandards"
   target=""
   outlined="true"
-%}}
+>}}
 {{< picture "qes-erklaert" 122 >}}
 {{% richtext %}}
 **What is the qualified <br class="hide-for-mobile">electronic signature (QES)?**
 {{% /richtext %}}
-{{% /cta %}}
+{{< /cta >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
 {{< outro >}}
 {{< picture image8 414 >}}
 
-{{% richtext %}}
+{{< richtext >}}
 {{% heading %}}
 # Sign now, legally and electronically!
 No credit card, entrance fee or commitment required.
@@ -61,5 +61,5 @@ No credit card, entrance fee or commitment required.
   "https://my.skribble.com/signup?lang=en"
   "_blank"
 >}}
-{{% /richtext %}}
+{{< /richtext >}}
 {{< /outro >}}
