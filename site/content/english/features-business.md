@@ -13,7 +13,7 @@ type: business-features
 {{% content class="no-bottom-padding" %}}
 {{% heading %}}
 # Business features
-Skribble Business customers sign organised as a group - with <br class="hide-for-mobile">with centralised member administration and joint billing.
+Skribble Business customers sign organised as a group - with <br class="hide-for-mobile"> centralised member administration and joint billing.
 {{% /heading %}}
 {{% /content %}}
 
@@ -35,7 +35,7 @@ Skribble Business customers sign organised as a group - with <br class="hide-for
 
   {{< features-item src="features-biz/domain-whitelist.svg" 
     headline="Member auto registration" 
-    description="Anyone who registers with Skribble using an e-mail address from your company and automatically becomes a member of your business account (Domain Whitelisting).">}}
+    description="Anyone who registers with Skribble using an e-mail address from your company automatically becomes a member of your business account (Domain Whitelisting).">}}
 
   {{< features-item src="features-biz/activity.svg" 
     headline="Activity overview" 
