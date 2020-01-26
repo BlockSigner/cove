@@ -8,7 +8,7 @@ og_image: og/og-skribble-service.jpg
 
 ---
 
-{{% content %}}
+{{< content >}}
 {{% heading %}}
 # Signez plus facilement <br class="hide-for-mobile">avec le bon modèle tarifaire
 Skribble convient tant aux signatures occasionnelles <br class="hide-for-mobile">qu'aux signatures fréquentes
@@ -32,7 +32,7 @@ Après l'enregistrement, vous pouvez à tout moment passer <br class="hide-for-m
   title="Fair Flat"
   class="fair"
   description="<p>Vous signez personnellement ou obtenez <strong>plus de deux signatures par mois.</strong></p><p class='top-spaced'>Maximum</p><p><strong>CHF <span class='large'>2.50</span> par signature</strong></p><p>jusqu'à un plafond de</p><p><strong>CHF <span class='large'>30.-</span> par mois</strong></p>"
-  has-comparison="true"   
+  has-comparison="true"
   comparison-caption="L'invitation de nouveau signataires coûte 2.50.– par signature."
   button-text="Essayer maintenant"
   button-link="https://my.skribble.com/signup?lang=fr"
@@ -60,7 +60,7 @@ Après l'enregistrement, vous pouvez à tout moment passer <br class="hide-for-m
     {{< picture business-visual 270 "" >}}
 {{% /action-card %}}
 
-{{% /content %}}
+{{< /content >}}
 
 {{% show-hide-button button-text="Comparer les forfaits en détails"%}}
 {{< table-dense id="price-table" >}}

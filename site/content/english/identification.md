@@ -13,7 +13,9 @@ og_image: og/og-skribble-identification.jpg
 {{< content >}}
 {{% heading %}}
 # Identity verification for QES
-For signing with the highest e-signature standard (QES), <br class="hide-for-mobile">signatories must have their identity checked. This is done via e-ID <br class="hide-for-mobile">or with our identification service.
+For signing with the highest e-signature standard (QES),
+signatories must have their identity checked. This is done via e-ID
+or with our identification service.
 {{% /heading %}}
 {{< picture identification 482 "he identity of a woman standing in a mobile phone is verified by two people" >}}
 &nbsp;
@@ -26,7 +28,8 @@ For signing with the highest e-signature standard (QES), <br class="hide-for-mob
   outlined="true"
 >}}
 {{% richtext %}}
-**Identity verification for QES – <br class="hide-for-mobile">Skribble makes it easy**
+**Identity verification for QES –
+Skribble makes it easy**
 {{% /richtext %}}
 {{< /cta >}}
 

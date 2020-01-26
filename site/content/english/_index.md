@@ -22,7 +22,8 @@ testimonial:
 {{< richtext >}}
 {{% heading left %}}
 # Legally binding electronic signatures with Skribble
-Easily handle digital signature processes – <br class="hide-for-mobile">legally binding in accordance with Swiss & EU law.
+Easily handle digital signature processes –
+legally binding in accordance with Swiss & EU law.
 {{% /heading %}}
 
 <div class="hide-for-desktop">
@@ -55,11 +56,11 @@ Easily handle digital signature processes – <br class="hide-for-mobile">legall
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{% content %}}
+{{< content >}}
 {{% heading %}}
 # Sign legally in three steps
 {{% /heading %}}
-{{% /content %}}
+{{< /content >}}
 
 {{< side-by-side >}}
 {{% richtext %}}
@@ -94,11 +95,11 @@ Sign at the push of a button, independent of time and place, legally valid accor
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{% content %}}
+{{< content >}}
 {{% heading %}}
 # If you sign with Skribble <br class="hide-for-mobile">you save time at work
 {{% /heading %}}
-{{% /content %}}
+{{< /content >}}
 
 {{< picture skribble-ui-en 1020 "Skribble plattform - user interface" >}}
 
@@ -117,7 +118,8 @@ Sign at the push of a button, independent of time and place, legally valid accor
 
 {{< content >}}
 {{% heading %}}
-# Skribble complies <br class="hide-for-mobile">with legal requirements
+# Skribble complies
+with legal requirements
 With Skribble you sign legally and securely according to the following requirements:
 {{% /heading %}}
 
@@ -139,8 +141,10 @@ Skribble and its signing partner Swisscom commit to manage data in accordance wi
 {{< content >}}
 {{% heading %}}
 # Use Skribble to maximise the legal weight of your signature
-The law distinguishes between qualified e-signatures (QES) <br class="hide-for-mobile">and advanced e-signatures (AES).
-The two standards vary in terms of area <br class="hide-for-mobile">of application and legal weight.
+The law distinguishes between qualified e-signatures (QES)
+and advanced e-signatures (AES).
+The two standards vary in terms of area
+of application and legal weight.
 {{% /heading %}}
 {{< picture legal_weight 664 "Legal-weight" >}}
 {{% richtext %}}
@@ -161,7 +165,9 @@ The two standards vary in terms of area <br class="hide-for-mobile">of applicati
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
 {{< testimonial "testimonial/fr-logo-99w.svg" "Stéphane Schwab, Head of E-Government, State of Fribourg" >}}
-"Thanks to Skribble, we can digitize administrative processes from A to Z. <br class="hide-for-mobile">This makes everyday life easier for <br class="hide-for-mobile">us and our customers." {{< /testimonial >}}
+"Thanks to Skribble, we can digitize administrative processes from A to Z.
+This makes everyday life easier for
+us and our customers." {{< /testimonial >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 

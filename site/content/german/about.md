@@ -8,7 +8,7 @@ og_image: og/og-skribble-mission.jpg
 
 ---
 
-{{% content %}}
+{{< content >}}
 {{% heading %}}
 # Skribble schafft Vertrauen <br class="hide-for-mobile">in der digitalen Welt
 Es war einmal die Unterschrift &ndash; heute signieren wir mit Skribble.
@@ -36,7 +36,7 @@ Dabei geht die Sicherheit nicht auf Kosten von Einfachheit: Jede Firma, unabhän
 ## Und das ist nur der Anfang:
 Der Aufbau vertrauenswürdiger Geschäftsbeziehungen soll so einfach und intuitiv werden wie Toasten. Du sollst dir bei jedem Vertragsabschluss sicher sein können, dass er in deinem besten Sinn abgeschlossen wurde. Seit der Gründung 2018 arbeitet ein wachsendes Team von Trust Shapern auf diese Zukunft hin.
 {{% /richtext %}}
-{{% /content %}}
+{{< /content >}}
 
 {{< outro >}}
 {{< picture image8 414 "Ein mann steht mit einem riesen füller neben einem elektronischen dokument" >}}

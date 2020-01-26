@@ -8,7 +8,7 @@ og_image: og/og-career.jpg
 
 ---
 
-{{% content %}}
+{{< content >}}
 {{% heading %}}
 # Arbeiten bei Skribble
 Entwickle dich und deine Karriere zusammen mit motivierten <br class="hide-for-mobile">und inspirierenden Personen. Wir bieten dir die Chance neue Herausforderungen gemeinsam zu lösen und zu wachsen.
@@ -21,7 +21,7 @@ Entwickle dich und deine Karriere zusammen mit motivierten <br class="hide-for-m
 {{% richtext %}}
 {{% content class="no-bottom-padding" %}}
 ## Offene Stellen:
-{{% /content %}}
+{{< /content >}}
 {{% /richtext %}}
 
 {{% cta

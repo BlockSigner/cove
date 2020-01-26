@@ -29,7 +29,7 @@ Skribble, founded in March 2018, is a Swiss provider of electronic signatures wi
 {{< picture image13 100 "Kira Leuthold Content & Communications at Skribble" >}}
 
 {{% richtext %}}
-**Kira Leuthold**<br>
+**Kira Leuthold**
 Communications & Public Relations
 {{% /richtext %}}
 {{< /cta >}}

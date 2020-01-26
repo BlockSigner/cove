@@ -51,6 +51,7 @@
 
 @mixin richtext-styling {
   @include h1-styling;
+
   h2 {
     margin: 12px 0;
     font: bold 2.4rem/1.35 $averta;
@@ -158,55 +159,55 @@
     }
   }
 
-  > ol {
-    margin-bottom: 0;
-    border-top: 1px solid $c-border;
-    list-style: none;
-    counter-reset: my-awesome-counter;
+  // > ol {
+  //   margin-bottom: 0;
+  //   border-top: 1px solid $c-border;
+  //   list-style: none;
+  //   counter-reset: my-awesome-counter;
 
-    li {
-      position: relative;
-      margin: 0;
-      padding: 16px 0 16px 28px;
-      border-bottom: 1px solid $c-border;
-      counter-increment: my-awesome-counter;
-      &:before {
-        position: absolute;
-        left: 0;
-        font-weight: bold;
-        color: $c-text-alt;
-        content: counter(my-awesome-counter) ". ";
-      }
-    }
+  //   li {
+  //     position: relative;
+  //     margin: 0;
+  //     padding: 16px 0 16px 28px;
+  //     border-bottom: 1px solid $c-border;
+  //     counter-increment: my-awesome-counter;
+  //     &:before {
+  //       position: absolute;
+  //       left: 0;
+  //       font-weight: bold;
+  //       color: $c-text-alt;
+  //       content: counter(my-awesome-counter) ". ";
+  //     }
+  //   }
 
-    strong {
-      display: block;
-      width: 100%;
-    }
+    // strong {
+    //   display: block;
+    //   width: 100%;
+    // }
 
     // ordered list for legal documents like terms of use
-    &.legal {
-      border: 0;
-      counter-reset: none;
+    // &.legal {
+    //   border: 0;
+    //   counter-reset: none;
 
-      h1, h2, h3 {
-        margin: -1px 0 0;
-      }
+    //   h1, h2, h3 {
+    //     margin: -1px 0 0;
+    //   }
 
-      li {
-        padding: 16px 0;
-        list-style-position: inside;
-        &:empty {
-          padding: 16px 0 16px 28px;
-        }
-      }
+    //   li {
+    //     padding: 16px 0;
+    //     list-style-position: inside;
+    //     &:empty {
+    //       padding: 16px 0 16px 28px;
+    //     }
+    //   }
 
-      .legal__title {
-        padding-bottom: 0;
-      }
+    //   .legal__title {
+    //     padding-bottom: 0;
+    //   }
 
-    }
-  }
+    // }
+  // }
 
   li {
     margin: .5em 0;

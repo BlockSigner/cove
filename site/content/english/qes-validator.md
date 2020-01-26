@@ -9,13 +9,17 @@ slug: qes-validator
 {{< content >}}
 {{% heading %}}
 # Check whether a document <br class="hide-for-mobile">has been signed with QES
-The Validator service of the Swiss Federal Administration allows you <br class="hide-for-mobile">to check whether your document has been signed <br class="hide-for-mobile">with a qualified electronic signature (QES) according to Swiss law. *
+The Validator service of the Swiss Federal Administration allows you
+to check whether your document has been signed
+with a qualified electronic signature (QES) according to Swiss law. *
 {{% /heading %}}
 {{< picture "qes-pruefen" 474 "A man loads a document into the validator of the Swiss federal administration" >}}
 {{% richtext %}}
 <small>* works for QES according to Swiss law, but not according to EU law (eIDAS).</small>
 ### Here's how to do it:
-1. **Select document type: <br class="hide-for-mobile">Qualified electronic signature <br class="hide-for-mobile">deemed equivalent to handwritten signature**
+1. **Select document type:
+Qualified electronic signature
+deemed equivalent to handwritten signature**
 2. **Upload your document**
 3. **Click on "Check document"**
 {{% /richtext %}}
@@ -41,7 +45,8 @@ The Validator service of the Swiss Federal Administration allows you <br class="
 >}}
 {{< picture "qes-erklaert" 122 >}}
 {{% richtext %}}
-**What is the qualified <br class="hide-for-mobile">electronic signature (QES)?**
+**What is the qualified
+electronic signature (QES)?**
 {{% /richtext %}}
 {{< /cta >}}
 

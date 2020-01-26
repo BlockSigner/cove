@@ -29,7 +29,7 @@ unbefristet
 {{% / center %}}
 {{% /richtext %}}
 
-{{% /content %}}
+{{< /content >}}
 
 
 
@@ -67,10 +67,10 @@ Gemeinsam wollen wir Vertrauen in der digitalen Welt schaffen. Wie wir das errei
 - Wir begegnen einander auf Augenhöhe. Dafür stehen unsere offene Kommunikation, flache Hierarchien sowie die Du-Kultur
 - Wir bieten marktübliche Entlohnung mit Erfolgsbeteiligung, eine Beteiligung an Skribble ist möglich
 - Kurz: Skribble ist ein Start-up ohne Bullshit: Wir packen unsere ganze Energie in Produkt und Team
-{{% /content %}}
+{{< /content >}}
 {{% /richtext %}}
 
-{{% content %}}
+{{< content >}}
 {{% heading %}}
 # Haben wir dein Interesse geweckt?
 Dann bewirb dich jetzt bei Skribble.<br>Wir freuen uns auf dich!
@@ -83,7 +83,7 @@ Dann bewirb dich jetzt bei Skribble.<br>Wir freuen uns auf dich!
 >}}
 {{% /center %}}
 {{% /heading %}}
-{{% /content %}}
+{{< /content >}}
 
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)

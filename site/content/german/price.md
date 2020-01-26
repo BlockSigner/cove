@@ -6,7 +6,7 @@ slug: preise
 
 ---
 
-{{% content %}}
+{{< content >}}
 {{% heading %}}
 # Signiere einfacher </br> mit dem passenden Preismodell
 Skribble eignet sich sowohl für gelegentliches</br>wie auch für häufiges Signieren.
@@ -59,7 +59,7 @@ Nach dem Registrieren kannst du jederzeit auf </br> eines der folgenden Modelle 
     {{< picture business-visual 270 "" >}}
 {{% /action-card %}}
 
-{{% /content %}}
+{{< /content >}}
 
 {{% show-hide-button button-text="Preismodelle im Detail vergleichen"%}}
 {{< table-dense id="price-table" >}}

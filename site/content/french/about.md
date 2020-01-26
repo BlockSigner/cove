@@ -8,7 +8,7 @@ og_image: og/og-skribble-mission.jpg
 
 ---
 
-{{% content %}}
+{{< content >}}
 {{% heading %}}
 # Skribble crée la confiance <br class="hide-for-mobile">dans le monde digital
 Il était une fois la signature – aujourd'hui, nous signons avec Skribble.
@@ -36,7 +36,7 @@ La sécurité ne se fait pas au détriment de la simplicité: toute entreprise, 
 ## Et ça n'est que le début:
 Bâtir la confiance dans les relations d'affaires numériques devrait être aussi simple et intuitif que de porter un toast. Depuis sa fondation en 2018, une équipe croissante de bâtisseurs de confiance travaille à cet avenir.
 {{% /richtext %}}
-{{% /content %}}
+{{< /content >}}
 
 {{< outro >}}
 {{< picture image8 414 "Un homme se tient à côté d'un document électronique avec un stylo plume géant" >}}

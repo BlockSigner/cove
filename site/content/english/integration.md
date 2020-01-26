@@ -12,7 +12,8 @@ og_image: og/og-skribble-identification.jpg
 {{< content class="no-bottom-padding" >}}
 {{% heading %}}
 # Skribble Integration
-With Skribble, you choose a cloud platform that combines <br class="hide-for-mobile">technological security with simplicity.
+With Skribble, you choose a cloud platform that combines
+technological security with simplicity.
 {{% /heading %}}
 {{< /content >}}
 
@@ -54,7 +55,9 @@ With Skribble, you choose a cloud platform that combines <br class="hide-for-mob
 
 {{< content class="no-bottom-padding" >}}
 {{% heading %}}
-# With Skribble you benefit from <br class="hide-for-mobile">the highest standards of technology <br class="hide-for-mobile">and security
+# With Skribble you benefit from
+the highest standards of technology
+and security
 {{% /heading %}}
 {{< /content >}}
 
@@ -89,7 +92,9 @@ With Skribble, you choose a cloud platform that combines <br class="hide-for-mob
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
 {{< testimonial "testimonial/swissmade-logo-300w.png" "" >}}
-Skribble holds the label <br class="hide-for-mobile"><a href="https://www.swissmadesoftware.org/en/home/home.html" target="_blank" class="text-decoration: none;">Swiss made Software</a>, which stands <br class="hide-for-mobile">for quality, reliability and precision in software development.
+Skribble holds the label
+<a href="https://www.swissmadesoftware.org/en/home/home.html" target="_blank" class="text-decoration: none;">Swiss made Software</a>, which stands
+for quality, reliability and precision in software development.
 {{< /testimonial >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
@@ -99,7 +104,7 @@ Skribble holds the label <br class="hide-for-mobile"><a href="https://www.swissm
 # Try out the API
 You can create a demo key in your Skribble Business account.
 {{% /heading %}}
-{{% /content %}}
+{{< /content >}}
 
 {{< picture api-main 600 "A laptop with fountain pen and gear wheel." >}}
 
@@ -119,7 +124,7 @@ You can create a demo key in your Skribble Business account.
 {{< picture "api-dok" 140 "User interface window with one gear wheel." >}}
 
 {{% richtext %}}
-**API documentation**<br>
+**API documentation**
 Check out our API documenation.
 {{% /richtext %}}
 {{< /cta >}}

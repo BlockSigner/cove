@@ -51,11 +51,11 @@ Réaliser vos processus de signature simplement et <br class="hide-for-mobile">d
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{% content %}}
+{{< content >}}
 {{% heading %}}
 # Signer légalement en trois étapes
 {{% /heading %}}
-{{% /content %}}
+{{< /content >}}
 
 {{< side-by-side >}}
 {{% richtext %}}
@@ -90,11 +90,11 @@ Signez par simple pression d'un bouton, indépendamment de l'heure et du lieu, d
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{% content %}}
+{{< content >}}
 {{% heading %}}
 # En signant avec Skribble, <br class="hide-for-mobile">vous gagnez du temps au travail
 {{% /heading %}}
-{{% /content %}}
+{{< /content >}}
 
 {{< picture skribble-ui-fr 1020 "Skribble plattform - user interface" >}}
 
@@ -109,7 +109,7 @@ Signez par simple pression d'un bouton, indépendamment de l'heure et du lieu, d
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{% content %}}
+{{< content >}}
 {{% heading %}}
 # Avec Skribble, vous remplissez <br class="hide-for-mobile">les exigences légales
 Avec Skribble, vous signez légalement et en toute sécurité <br class="hide-for-mobile">en remplissant les conditions suivantes:
@@ -126,17 +126,17 @@ La signature électronique qualifiée (SEQ) de Skribble équivaut à la signatur
 {{% collapsible 3 "Protection des données selon LPD/RGPD" "check" %}}
 Skribble et ses partenaires gèrent leurs données conformément à la loi fédérale sur la protection des données (LPD) et au réglement européen sur la protection des données (RGPD) et les hébergent en Suisse conformément aux normes bancaires.
 {{% /collapsible %}}
-{{% /content %}}
+{{< /content >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{% content %}}
+{{< content >}}
 {{% heading %}}
 # Utilisez Skribble pour maximiser la force probante de votre signature
 La loi établit une distinction entre les signatures électroniques qualifiées (SEQ) <br class="hide-for-mobile">et les signatures électroniques avancées (SEA). Les deux normes varient <br class="hide-for-mobile">en termes de domaine d'application et de force probante.
 Sur Skribble, vous pouvez choisir entre les deux.
 {{% /heading %}}
-{{% /content %}}
+{{< /content >}}
 
 {{< picture force_probante 664 "Force_Probante" >}}
 

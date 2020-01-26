@@ -5,7 +5,7 @@ draft: false
 description: Conditions d'utilisation meta description
 ---
 
-{{% content %}}
+{{< content >}}
 {{% richtext %}}
 # Conditions d'Utilisation de Skribble
 (Version 2019.10.01)
@@ -16,14 +16,14 @@ Les présentes Conditions d'Utilisation régissent votre utilisation de la Solut
 
 {{% legal-list %}}
 ### Objet et champ d'application
-1. Vous utilisez les services Skribble parce que vous avez signé un Contrat Client avec Skribble, ou parce que vous avez été identifié par un client de Skribble comme autorisé à utiliser les services Skribble. 
+1. Vous utilisez les services Skribble parce que vous avez signé un Contrat Client avec Skribble, ou parce que vous avez été identifié par un client de Skribble comme autorisé à utiliser les services Skribble.
 2. Pour signer document électroniquement de manière avancée ou qualifiée, une authentification du signataire et une signature créée par un service certifié, une autorité de certification, est requise. Skribble intégrera ces deux composants dans son service avec différents partenaires de confiance qui répondent aux exigences de SCSE et/ou eIDAS afin de créer des signatures électroniques qualifiées (SEQ) ou des signatures électroniques avancées (SEA) de la manière la plus simple possible.
-3. Ces Conditions d'utilisation s'appliquent à l'utilisation de Skribble par vous en tant qu'Utilisateur du Système. L'Utilisateur du Système est celui qui ouvre un compte sous les Services Skribble. 
+3. Ces Conditions d'utilisation s'appliquent à l'utilisation de Skribble par vous en tant qu'Utilisateur du Système. L'Utilisateur du Système est celui qui ouvre un compte sous les Services Skribble.
 4. Outre les présentes conditions d'utilisation, la Politique de Confidentialité de Skribble et les conditions du prestataire de services de certification s'appliquent.
 
 ### Exclusion de responsabilité
-1. Skribble exclu tout responsabilité envers vous en tant qu'Utilisateur du Système. 
-2. Toute responsabilité de Skribble envers le client est régie par le contrat conclu entre le client et le client. 
+1. Skribble exclu tout responsabilité envers vous en tant qu'Utilisateur du Système.
+2. Toute responsabilité de Skribble envers le client est régie par le contrat conclu entre le client et le client.
 3. Skribble n'est ni un prestataire de services de certification ni une autorité de certification au sens de la loi fédérale sur la signatures électronique (SCSE). Skribble n'est pas non plus un services de confiance (qualifié) au sens du règlement du Parlement européen et du Conseil sur l'identification électronique et les services de confiance électroniques pour les transactions électroniques au sein du marché intérieur (eIDAS n° 910/2014). Skribble décline donc toute responsabilité pour les dommages causés principalement ou exclusivement en relation avec les services du prestataire de services de certification ou de l'autorité de certification.
 
 ### Licence
@@ -32,7 +32,7 @@ Les présentes Conditions d'Utilisation régissent votre utilisation de la Solut
 ### Règles générales de gestion du compte
 1. Chaque Utilisateur du Système s’engage à traiter les informations et les données personnelles de manière confidentielle et de veiller à ce qu'elles soient protégées contre tout accès par des tiers. L'Utilisateur du Système s'engage à prendre les précautions nécessaires lors de l'utilisation d'appareils fixes et mobiles et lors de l'impression de documents.
 2. Les Utilisateurs du Système s'assurent que leurs informations de connexion sont gardées secrètes en tout temps afin d'empêcher les personnes non autorisées d'avoir accès aux Services Skribble.
-3. Ni le client ni les Utilisateurs du Système ne peuvent prendre des mesures qui nuisent à la fonctionnalité des Services Skribble et à sa connexion aux utilisateurs, hôtes ou réseaux. 
+3. Ni le client ni les Utilisateurs du Système ne peuvent prendre des mesures qui nuisent à la fonctionnalité des Services Skribble et à sa connexion aux utilisateurs, hôtes ou réseaux.
 4. Toute tentative ou accès non autorisé au Services Skribble peut entraîner des poursuites civiles et pénales.
 5. Les Utilisateurs du Système s’engagent à ne pas utiliser les Services Skribble de manière inadmissible. En particulier, le client et les Utilisateurs du Système :
     1.  ne peuvent utiliser les Serivices Skribble d'une manière qui viole les droits d'auteur, les droits de base de données, les marques de commerce, le droit à la confidentialité ou tout autre droit de propriété intellectuelle, ou qui viole la protection des données, la vie privée ou tout autre droits de la personnalité d'un tiers.
@@ -47,11 +47,11 @@ Les présentes Conditions d'Utilisation régissent votre utilisation de la Solut
 
 {{% richtext %}}
 {{% center %}}
-## *** 
+## ***
 {{% / center %}}
 {{% /richtext %}}
 
-{{% /content %}}
+{{< /content >}}
 
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)

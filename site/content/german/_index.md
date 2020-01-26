@@ -51,11 +51,11 @@ Signaturprozesse einfach digital abwickeln – <br class="hide-for-mobile">recht
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{% content %}}
+{{< content >}}
 {{% heading %}}
 # In 3 Schritten rechtsgültig signieren
 {{% /heading %}}
-{{% /content %}}
+{{< /content >}}
 
 {{< side-by-side >}}
 {{% richtext %}}
@@ -90,11 +90,11 @@ Signiere per Knopfdruck, unabhängig <br class="hide-for-mobile">von Zeit und Or
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{% content %}}
+{{< content >}}
 {{% heading %}}
 # Signierst du mit Skribble, <br class="hide-for-mobile">sparst du Zeit im Arbeitsalltag
 {{% /heading %}}
-{{% /content %}}
+{{< /content >}}
 
 {{< picture skribble-ui-de 1020 "Skribble plattform - user interface" >}}
 
@@ -108,7 +108,7 @@ Signiere per Knopfdruck, unabhängig <br class="hide-for-mobile">von Zeit und Or
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{% content %}}
+{{< content >}}
 {{% heading %}}
 # Mit Skribble erfüllst du <br class="hide-for-mobile">die rechtlichen Anforderungen
 Signiere rechtsgültig und sicher gemäss folgenden Erfordernissen:
@@ -125,11 +125,11 @@ Die auf Skribble verfügbare qualifizierte elektronische Signatur (QES) ist der 
 {{% collapsible 3 "Datenschutz gemäss DSG/DSGVO" "check" %}}
 Skribble sowie Partner verwalten ihre Daten gemäss dem Bundesgesetz über den Datenschutz (DSG) sowie der europäischen Datenschutz-Grundverordnung (DSGVO) und hosten diese in der Schweiz nach Bankenstandard.
 {{% /collapsible %}}
-{{% /content %}}
+{{< /content >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{% content %}}
+{{< content >}}
 {{% heading %}}
 # Mit Skribble maximierst du <br class="hide-for-mobile">die Beweiskraft deiner Signatur
 Das Gesetz unterscheidet zwischen der qualifizierten E-Signatur (QES) <br class="hide-for-mobile">und der fortgeschrittenen E-Signatur (FES).
@@ -137,7 +137,7 @@ Die beiden Standards <br class="hide-for-mobile">variieren punkto Einsatzgebiet 
 {{% /heading %}}
 
 {{< picture beweiskraft 664 "Ein Mann unterschreibt mit einem Füller digitale Dokumente nach Schweizer und Europäischen Recht" >}}
-{{% /content %}}
+{{< /content >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 

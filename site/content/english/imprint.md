@@ -5,13 +5,13 @@ draft: false
 slug: imprint
 ---
 
-{{% content %}}
+{{< content >}}
 {{% richtext %}}
 # Imprint
 
 ## Skribble (Switzerland)
-Skribble AG<br>
-Fraumünsterstrasse 16<br>
+Skribble AG
+Fraumünsterstrasse 16
 CH-8001 Zurich
 
 ### Phone
@@ -31,21 +31,21 @@ CHE-397.613.998
 Information according to the requirements of the German Telemedia Act (TMG)
 
 ### Company
-Skribble Deutschland GmbH<br>
-Pforzheimer Str. 128A<br>
+Skribble Deutschland GmbH
+Pforzheimer Str. 128A
 DE-76275 Ettlingen
 
 ### Represented by the management
-Waldemar Dick<br>
+Waldemar Dick
 
-### Register court 
-Local court Mannheim<br>
+### Register court
+Local court Mannheim
 
 ### Commercial register no.
-HRB 734477<br>
+HRB 734477
 
-### Sales tax identification number 
-DE326509705<br>
+### Sales tax identification number
+DE326509705
 
 ### Contact
 [info@skribble.com](mailto:info@skribble.com "info@skribble.com")
@@ -57,9 +57,9 @@ DE326509705<br>
 [info@skribble.com](mailto:info@skribble.com "info@skribble.com")
 
 ### Responsible Germany
-Waldemar Dick<br>
-Managing Director<br>
-Pforzheimer Str. 128A<br>
+Waldemar Dick
+Managing Director
+Pforzheimer Str. 128A
 DE-76275 Ettlingen
 
 ## Disclaimer
@@ -74,7 +74,7 @@ Skribble AG is responsible for this website and its content within the meaning o
 ## Copyright
 The copyright and all other rights to content, images, photos or other files on the website belong exclusively to Skribble AG. The written consent of the copyright holder must be obtained in advance for the reproduction of any elements.
 {{% /richtext %}}
-{{% /content %}}
+{{< /content >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
@@ -82,7 +82,7 @@ The copyright and all other rights to content, images, photos or other files on 
 {{< outro >}}
 {{< picture image8 414 >}}
 
-{{% richtext %}}
+{{< richtext >}}
 {{% heading %}}
 # Sign now, legally and electronically!
 No credit card, entrance fee or commitment required.
@@ -93,5 +93,5 @@ No credit card, entrance fee or commitment required.
   "https://my.skribble.com/signup?lang=en"
   "_blank"
 >}}
-{{% /richtext %}}
+{{< /richtext >}}
 {{< /outro >}}

@@ -9,7 +9,7 @@ og_image: og/og-skribble-identification.jpg
 
 ---
 
-{{% content %}}
+{{< content >}}
 {{% heading %}}
 # Maximiere die Beweiskraft <br class="hide-for-mobile">deiner E-Signatur
 Schalte den höchsten verfügbaren E-Signatur-Standard (QES) frei, <br class="hide-for-mobile">in dem du dich im persönlichen Kontakt mit der ID-App <br class="hide-for-mobile">von Swisscom identifizieren lässt.
@@ -50,11 +50,11 @@ Die Beweiskraft deiner Signatur wird auf 100% angehoben (QES-Level)
 {{% /richtext %}}
 {{% /step %}}
 {{< /row >}}
-{{% /content %}}
+{{< /content >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{% content %}}
+{{< content >}}
 {{% heading %}}
 # Alles klar?
 {{% /heading %}}
@@ -83,16 +83,16 @@ Nein. Aber mit einer Mobile-ID geht das Signieren schneller und einfacher, daher
 Die persönliche Identifikation wird nur für das Signieren mit dem höchsten E-Signatur-Standard (QES) vorausgesetzt. Wurdest du noch nicht persönlich identifiziert, signierst du mit dem zweithöchsten Standard (FES).
 {{% /collapsible %}}
 
-{{% /content %}}
+{{< /content >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{% content %}}
+{{< content >}}
 {{% heading %}}
 # Standorte für die Identitätsprüfung
 Komm vorbei und lass dich kostenlos identifzieren. <br class="hide-for-mobile">Bringe deinen gültigen Pass oder Identitätskarte mit sowie dein Mobiltelefon.
 {{% /heading %}}
-{{% /content %}}
+{{< /content >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 

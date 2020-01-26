@@ -5,15 +5,14 @@ draft: false
 description: terms-of-use meta description
 ---
 
-{{% content %}}
-{{% richtext %}}
-# Skribble Terms of Use<br>by Skribble AG
+{{< content >}}
+{{% richtext legal %}}
+# Skribble Terms of Use by Skribble AG
 
 (Version 2018.10.18 – valid until 2019.09.30)
 
 As a Skribble user, you must comply with the following principles of lawful use:
 
-{{% legal-list %}}
 ### Subject matter and scope
 1. In order to sign a document electronically in a qualified manner, a strong authentication of the signatory and a signature created by a certified service, a so-called    “certification authority”, are required. Skribble will integrate these two components into its service with various trusted partners who meet the requirements of ZertES and/or eIDAS, in order to create QES in the simplest possible way.
 2. These Terms of Use apply to the use of Skribble by you as a user. A user is someone who opens an account under Skribble.
@@ -32,17 +31,16 @@ As a Skribble user, you must comply with the following principles of lawful use:
 6. Users may not impersonate any person or falsely impersonate any organization. Neither may they falsely state or otherwise misrepresent their affiliation with or relationship to any organization.
 7. Users independently secure data in their account. Skribble does not owe any data availability.
 8. Users acknowledge the right of Skribble to disclose data from their user account to the customer (usually the employer of the user) if it appears that the user in question has misused Skribble to disseminate criminal or infringing information.
-{{% /legal-list %}}
 
 {{% /richtext %}}
-{{% /content %}}
+{{< /content >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
 {{< outro >}}
 {{< picture image8 414 >}}
 
-{{% richtext %}}
+{{< richtext >}}
 {{% heading %}}
 # Sign now, legally and electronically!
 No credit card, entrance fee or commitment required.
@@ -53,5 +51,5 @@ No credit card, entrance fee or commitment required.
   "https://my.skribble.com/signup?lang=en"
   "_blank"
 >}}
-{{% /richtext %}}
+{{< /richtext >}}
 {{< /outro >}}

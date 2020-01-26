@@ -12,7 +12,8 @@ og_image: og/og-skribble-identification.jpg
 {{< content >}}
 {{% heading %}}
 # Sign electronically in HR
-With Skribble you sign legally and easily in a digital way – <br class="hide-for-mobile">from employment contracts to certificates and wage statements.
+With Skribble you sign legally and easily in a digital way –
+from employment contracts to certificates and wage statements.
 {{% /heading %}}
 {{< picture vertical-hr-main 560 "Three women holding a document in their hands" >}}
 {{< /content >}}
@@ -36,7 +37,8 @@ New employment contracts for everyone: the authorised signatory no longer signs 
 
 {{< side-by-side >}}
 {{% richtext %}}
-## Candidates sign <br class="hide-for-mobile">digitally without delay
+## Candidates sign
+digitally without delay
 Efficient onboarding: you have a better chance of being chosen as an employer and HR administration becomes easier, faster and cheaper.
 
 - **<small>Legally valid for any type of employment contract</small>**
@@ -130,8 +132,10 @@ How we at Skribble make everyday life easier for our customers.
 {{< content >}}
 {{% heading %}}
 # Use Skribble to maximise the legal weight of your signature
-The law distinguishes between qualified e-signatures (QES) <br class="hide-for-mobile">and advanced e-signatures (AES).
-The two standards vary in terms of area <br class="hide-for-mobile">of application and legal weight.
+The law distinguishes between qualified e-signatures (QES)
+and advanced e-signatures (AES).
+The two standards vary in terms of area
+of application and legal weight.
 {{% /heading %}}
 {{< picture legal_weight 664 "Legal-weight" >}}
 {{< /content >}}
@@ -153,7 +157,8 @@ between the signature standards AES and QES.**
 {{< content >}}
 {{% heading %}}
 # Get identified
-This will unlock the highest e-signature standard available – QES. <br class="hide-for-mobile">All you need is a valid travel document (ID or passport).
+This will unlock the highest e-signature standard available – QES.
+All you need is a valid travel document (ID or passport).
 {{% /heading %}}
 {{< picture "create-identity" 385 "A magnifying glass enlarges the image of a woman in a passport" >}}
 {{< /content >}}

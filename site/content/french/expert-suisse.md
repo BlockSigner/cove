@@ -62,7 +62,7 @@ Traiter les processus de signature numériquement &ndash; <br class="hide-for-mo
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{% content %}}
+{{< content >}}
 {{% heading %}}
 # Signature gratuite avec Skribble <br class="hide-for-mobile">jusqu'à la fin de l'année <br class="hide-for-mobile">pour les membres EXPERTsuisse. À partir de janvier 2020
 {{% /heading %}}
@@ -75,7 +75,7 @@ Exclusivement pour les membres EXPERTsuisse :
 {{< picture expertsuisse-logo 250 "EXPERTsuisse Logo" >}}
 {{% /heading %}}
 
-{{% /content %}}
+{{< /content >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
@@ -106,13 +106,13 @@ Un entreprise peut également être qualifié pour le faire, pour identifier les
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
 
-{{% content %}}
+{{< content >}}
 {{% heading %}}
 # Est-ce que ça va?
 {{% /heading %}}
 
 {{% collapsible 10 "Où sont stockés les documents signés avec Skribble?" %}}
-Le centre de données Skribble est situé en Suisse et est certifié ISO 270001 (hébergement bancaire standard). 
+Le centre de données Skribble est situé en Suisse et est certifié ISO 270001 (hébergement bancaire standard).
 {{% /collapsible %}}
 
 {{% collapsible 11 "Comment Skribble s'assure-t-il que la bonne personne signe?" %}}
@@ -120,17 +120,17 @@ Tous les signataires sont identifiés à l'avance. Lors de la signature, le sign
 {{% /collapsible %}}
 
 {{% collapsible 12 "Est-ce que signer avec Skribble est légalement sécurisé?" %}}
-Oui, Skribble est basé sur la signature électronique qualifiée (SEQ). La SEQ est la seule forme de signature électronique équivalente à la signature manuscrite devant le droit suisse (art. 14 2bis CO) et européen (art. 25 al. 2 eIDAS). 
+Oui, Skribble est basé sur la signature électronique qualifiée (SEQ). La SEQ est la seule forme de signature électronique équivalente à la signature manuscrite devant le droit suisse (art. 14 2bis CO) et européen (art. 25 al. 2 eIDAS).
 {{% /collapsible %}}
 
 {{% collapsible 13 "Puis-je conserver le contrat signé numériquement sur papier?" %}}
-Pas uniquement. Grâce à la signature visuelle, on peut voir sur le contrat imprimé qu'il a été signé numériquement. Cependant, comme les certificats numériques sont perdus lors de l'impression, la traçabilité de la signature et donc le caractère concluant correspondant ne sont pas donnés. Un contrat signé avec une signature électronique qualifiée doit donc toujours être conservé sous forme électronique.           
+Pas uniquement. Grâce à la signature visuelle, on peut voir sur le contrat imprimé qu'il a été signé numériquement. Cependant, comme les certificats numériques sont perdus lors de l'impression, la traçabilité de la signature et donc le caractère concluant correspondant ne sont pas donnés. Un contrat signé avec une signature électronique qualifiée doit donc toujours être conservé sous forme électronique.
 {{% /collapsible %}}
 
 {{% collapsible 1 "Pourquoi dois-je être identifié?" %}}
 Avec Skribble vous signez avec la signature électronique qualifiée (SEQ). <br class="hide-for-mobile">Il s'agit de la norme de signature électronique la plus élevée. Pour cela, <br class="hide-for-mobile">la loi exige un contrôle d'identité avec un contact personnel. Les exceptions <br class="hide-for-mobile">sont les intermédiaires financiers qui sont autorisés à effectuer <br class="hide-for-mobile">une vérification d'identité par identification vidéo.
 {{% /collapsible %}}
-{{% /content %}}
+{{< /content >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 {{< outro >}}

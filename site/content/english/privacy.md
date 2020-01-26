@@ -5,13 +5,13 @@ draft: false
 description: Privacy policy meta description
 ---
 
-{{% content %}}
+{{< content >}}
 {{% richtext %}}
-# Privacy Policy
+# Privacy&nbsp;Policy
 
 <small>Effective date: October 22, 2019</small>
 
-<p class="lead">Skribble AG ("us", "we", or "our") operates the <a href="https://www.skribble.com" target="_blank">www.skribble.com</a> website (hereinafter referred to as the "Service").</p>
+Skribble AG ("us", "we", or "our") operates the <a href="https://www.skribble.com" target="_blank">www.skribble.com</a> website (hereinafter referred to as the "Service").
 
 This page informs you of our policies regarding the collection, use and disclosure of personal data when you use our Service and the choices you have associated with that data.
 
@@ -243,14 +243,14 @@ If you have any questions about this Privacy Policy, please contact us:<br>
 By email: <a href="mailto:info@skribble.com">info@skribble.com</a><br>
 By visiting this page on our website: <a href="https://www.skribble.com/contact/" target="_blank">www.skribble.com/contact/</a><br>
 {{% /richtext %}}
-{{% /content %}}
+{{< /content >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
 {{< outro >}}
 {{< picture image8 414 >}}
 
-{{% richtext %}}
+{{< richtext >}}
 {{% heading %}}
 # Sign now, legally and electronically!
 No credit card, entrance fee or commitment required.
@@ -261,5 +261,5 @@ No credit card, entrance fee or commitment required.
   "https://my.skribble.com/signup?lang=en"
   "_blank"
 >}}
-{{% /richtext %}}
+{{< /richtext >}}
 {{< /outro >}}

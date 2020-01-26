@@ -5,6 +5,55 @@
     text-align: center;
   }
 
+  &--legal {
+    counter-reset: section;
+
+    h2, h3 {
+      border-bottom: 1px solid $c-border;
+      &:before {
+        margin: 0 0.5em 0 0;
+        counter-increment: section;
+        content: counter(section) ". ";
+      }
+    }
+
+    ol {
+      counter-reset: clause;
+      list-style: none inside none;
+
+      // 1. two immediately following ol should not reset
+      // 2. if another node is in between (like a h3), it should reset
+      // 3. Any ul sibling of an ol followed by a ol should not reset the counter
+      + ol, ~ ul + ol {
+        counter-reset: none;
+      }
+
+      li {
+        padding: 16px 0;
+        margin: 0;
+        counter-increment: clause;
+        &:before {
+          margin: 0 0.5em 0 0;
+          font-weight: bold;
+          color: $c-text-alt;
+          content: counter(section) "." counters(clause, ".") ". ";
+        }
+
+        &:last-child {
+          border-bottom: 0;
+        }
+
+        > ol {
+          margin-top: 16px;
+        }
+
+        li {
+          padding-left: 16px;
+        }
+      }
+    }
+  }
+
   .lead {
     font: normal 2.4rem/1.35 $averta;
     @include max-width {

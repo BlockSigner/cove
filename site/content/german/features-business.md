@@ -12,36 +12,36 @@ og_image: og/og-skribble-identification.jpg
 {{% content class="no-bottom-padding" %}}
 {{% heading %}}
 # Business-Features
-Skribble Business Kunden signieren als Organisation – <br class="hide-for-mobile">mit zentraler Mitgliederverwaltung und gemeinsamer Abrechnung. 
+Skribble Business Kunden signieren als Organisation – <br class="hide-for-mobile">mit zentraler Mitgliederverwaltung und gemeinsamer Abrechnung.
 {{% /heading %}}
-{{% /content %}}
+{{< /content >}}
 
 {{< picture skribble-biz-ui-de 1020 "Skribble Business-Account - benutzeroberfläche" >}}
 
 {{< features-container >}}
 
-  {{< features-item src="features-biz/abrechnung.svg" 
-    headline="Preismodell pro Mitglied wählen" 
+  {{< features-item src="features-biz/abrechnung.svg"
+    headline="Preismodell pro Mitglied wählen"
     description="Aktivere für häufig signierende Mitglieder das Flatrate-Modell und senke so deine Kosten.">}}
 
-  {{< features-item src="features-biz/preismodell.svg" 
-    headline="Gemeinsame Abrechnung" 
+  {{< features-item src="features-biz/preismodell.svg"
+    headline="Gemeinsame Abrechnung"
     description="Abgerechnet wird für die ganze Organisation am Ende des Monats per Rechnung.">}}
 
-  {{< features-item src="features-biz/mitgliederverwaltung.svg" 
-    headline="Zentrale Mitgliederverwaltung" 
+  {{< features-item src="features-biz/mitgliederverwaltung.svg"
+    headline="Zentrale Mitgliederverwaltung"
     description="Füge neue Mitglieder hinzu, passe ihr Preismodell an und vergib Administrationsrechte.">}}
-  
-  {{< features-item src="features-biz/domain-whitelist.svg" 
-    headline="Automatische Mitglieder Anmeldung" 
+
+  {{< features-item src="features-biz/domain-whitelist.svg"
+    headline="Automatische Mitglieder Anmeldung"
     description="Wer sich mit einer E-Mail-Adresse deiner Firma bei Skribble registriert, wird automatisch Mitglied deines Business-Kontos (Domain Whitelisting).">}}
 
-  {{< features-item src="features-biz/activity.svg" 
-    headline="Aktivitätsübersicht" 
+  {{< features-item src="features-biz/activity.svg"
+    headline="Aktivitätsübersicht"
     description="Behalte den Überblick über die Vorgänge in deinem Business-Konto, gefilter nach Datum, Aktivität und mehr.">}}
 
-  {{< features-item src="features-biz/rechnungshistorie.svg" 
-    headline="Rechnungshistorie" 
+  {{< features-item src="features-biz/rechnungshistorie.svg"
+    headline="Rechnungshistorie"
     description="Sehe die aktuelle und alle vergangenen Rechnungen jederzeit ein.">}}
 {{< /features-container >}}
 
@@ -50,20 +50,20 @@ Skribble Business Kunden signieren als Organisation – <br class="hide-for-mobi
 # Skribble Business bettet sich <br class="hide-for-mobile">in deine bestehende Infrastruktur ein
 Das Onboarding neuer Signierenden ist intuitiv und schnell.
 {{% /heading %}}
-{{% /content %}}
+{{< /content >}}
 
 {{< features-container >}}
 
-  {{< features-item src="features-biz/api-integration.svg" 
-    headline="API-Integration" 
+  {{< features-item src="features-biz/api-integration.svg"
+    headline="API-Integration"
     description="Binde Skribble an deine bestehende Software an und signiere direkt aus deinen gewohnten Tools heraus.">}}
 
-  {{< features-item src="features-biz/api-key-generation.svg" 
-    headline="API-Schlüssel selbst generieren" 
+  {{< features-item src="features-biz/api-key-generation.svg"
+    headline="API-Schlüssel selbst generieren"
     description="Erstelle und verwalte deine API-Schlüssel für Testzwecke oder für die Produktion.">}}
 
-  {{< features-item src="features-biz/direct-sign.svg" 
-    headline="Direct Sign" 
+  {{< features-item src="features-biz/direct-sign.svg"
+    headline="Direct Sign"
     description="Externe Personen müssen über kein Skribble-Konto verfügen, um deine Dokumente zu signieren.">}}
 
 {{< /features-container >}}
@@ -78,9 +78,9 @@ Das Onboarding neuer Signierenden ist intuitiv und schnell.
 {{% content class="no-bottom-padding" %}}
 {{% heading %}}
 # Organisationsweite Einführung <br class="hide-for-mobile">ist einfach und schnell
-Befähige neue und bestehende Mitarbeitende in kürzester Zeit <br class="hide-for-mobile">zum elektronischen Signieren. Wähle den Onboarding-Prozess, der zu deinem Anspruch an Beweiskraft bzw. zum gewünschten Signatur-Standard passt. 
+Befähige neue und bestehende Mitarbeitende in kürzester Zeit <br class="hide-for-mobile">zum elektronischen Signieren. Wähle den Onboarding-Prozess, der zu deinem Anspruch an Beweiskraft bzw. zum gewünschten Signatur-Standard passt.
 {{% /heading %}}
-{{% /content %}}
+{{< /content >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
@@ -109,7 +109,7 @@ Geeignet für Verträge mit Formvorschrift.<br>
 # Ideales Kosten-Nutzen-Verhältnis
 Wähle das passende Preismodell für deine Organisation
 {{% /heading %}}
-{{% /content %}}
+{{< /content >}}
 
 {{< picture preismodelle 590 "Eine Frau mit roten Haaren vergliecht verschiedene Preismodelle." >}}
 

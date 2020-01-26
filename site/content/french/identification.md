@@ -9,7 +9,7 @@ og_image: og/og-skribble-identification.jpg
 
 ---
 
-{{% content %}}
+{{< content >}}
 {{% heading %}}
 # Contrôle d'identité pour la SEQ
 Pour la signature électronique qualifiée (SEQ), <br class="hide-for-mobile">le signataire doit prouver son identité. Skribble vous aidera.
@@ -17,7 +17,7 @@ Pour la signature électronique qualifiée (SEQ), <br class="hide-for-mobile">le
 
 {{< picture identification 482 "L'identité d'une femme debout dans un téléphone portable est vérifiée par deux personnes" >}}
 &nbsp;
-{{% /content %}}
+{{< /content >}}
 {{% cta
   label="Télécharger factsheet"
   href="https://cdn2.hubspot.net/hubfs/5051692/Skribble%20Overview/Skribble_Overview_Identification_FR.pdf"
@@ -31,7 +31,7 @@ Pour la signature électronique qualifiée (SEQ), <br class="hide-for-mobile">le
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{% content %}}
+{{< content >}}
 {{% heading %}}
 # Utiliser une e-ID existante
 Les personnes qui ont une e-ID vérifiée peuvent signer avec SEQ <br class="hide-for-mobile">sur Skribble sans contrôle d'identité supplémentaire.
@@ -53,7 +53,7 @@ Un nombre croissant de personnes en Europe a une identité électronique vérifi
 {{% center %}}**Plus d'e-ID suivront cette année.**{{% / center %}}
 {{% /richtext %}}
 &nbsp;
-{{% /content %}}
+{{< /content >}}
 
 
 {{% cta
@@ -77,7 +77,7 @@ Laissez-nous vous conseiller et trouvez <br class="hide-for-mobile">la solution 
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{% content %}}
+{{< content >}}
 {{% heading %}}
 # Utiliser la service <br class="hide-for-mobile">d'identification de Skribble
 Si vous n'avez pas d'e-ID, l'identification peut se faire à l'aide de Skribble.
@@ -116,7 +116,7 @@ Approprié si de nouveaux signataires SEQ sont constamment ajoutés.
 
 {{% /plan %}}
 {{< /row >}}
-{{% /content %}}
+{{< /content >}}
 
 
 {{% cta

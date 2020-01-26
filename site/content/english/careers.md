@@ -8,33 +8,35 @@ og_image: og/og-career.jpg
 
 ---
 
-{{% content %}}
+{{< content >}}
 {{% heading %}}
 # Working at Skribble
-Work and grow together with motivated and inspiring people. <br class="hide-for-mobile">We offer you the chance to tackle new challenges <br class="hide-for-mobile">and to develop Skribble and yourself.
+Work and grow together with motivated and inspiring people.
+We offer you the chance to tackle new challenges
+and to develop Skribble and yourself.
 {{% /heading %}}
 {{< picture career 640 "3 applicants with their checklists" >}}
+{{% /content %}}
 
-{{% / content %}}
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
+{{< content >}}
 {{% richtext %}}
-{{% content class="no-bottom-padding" %}}
 ## Open positions:
-{{% /content %}}
 {{% /richtext %}}
+{{< /content >}}
 
-{{% cta
+{{< cta
   label="More info"
   href="/careers/465/sales-manager-de"
   target=""
   outlined="true"
-%}}
+>}}
 {{% richtext %}}
-**Sales-Manager, Germany (100%)**<br>
+**Sales-Manager, Germany (100%)**
 (Job description in German)
 {{% /richtext %}}
-{{% /cta %}}
+{{< /cta >}}
 
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
@@ -42,7 +44,7 @@ Work and grow together with motivated and inspiring people. <br class="hide-for-
 {{< outro >}}
 {{< picture image8 414 "A man stands next to an electronic document with a giant fountain pen" >}}
 
-{{% richtext %}}
+{{< richtext >}}
 {{% heading %}}
 # Sign now, legally and electronically!
 No credit card, entrance fee or commitment required.
@@ -53,5 +55,5 @@ No credit card, entrance fee or commitment required.
   "https://my.skribble.com/signup?lang=en"
   "_blank"
 >}}
-{{% /richtext %}}
+{{< /richtext >}}
 {{< /outro >}}

@@ -8,7 +8,7 @@ og_image: og/og-skribble-mission.jpg
 
 ---
 
-{{% content %}}
+{{< content >}}
 {{% heading %}}
 # Bezahle pro Signatur oder als Flatrate und spare, wenn du mehr signierst
 Skribbles Angebotsstruktur passt sich deinen Bedürfnissen an.
@@ -32,7 +32,7 @@ Flexibel kombinierbar
 Je mehr, desto günstiger
 : Wir haben ein volumenbasiertes Preismodell: Je mehr Signaturen du in einem Prepaid-Paket beziehst, desto tiefer der Einzelpreis. Je mehr Personen du für das Flatrate-Modell anmeldest, desto tiefer der monatliche Pauschalpreis pro Person.
 {{% /richtext %}}
-{{% /content %}}
+{{< /content >}}
 
 {{% cta
   label="Jetzt Offerte anfordern"
@@ -44,7 +44,7 @@ Je mehr, desto günstiger
 {{% /richtext %}}
 {{% /cta %}}
 
-{{% content %}}
+{{< content >}}
 
 {{% heading %}}
 # Identifikation
@@ -61,7 +61,7 @@ Geeignet für einmaliges oder gelegentliches Signieren mit QES.
 Passend, wenn du die QES in einem vordefinierten Personenkreis einsetzt.
 {{% /plan %}}
 {{< /row >}}
-{{% /content %}}
+{{< /content >}}
 
 {{% cta
   label="Weitere Infos zur Identifikation"

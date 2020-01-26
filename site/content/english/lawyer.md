@@ -12,7 +12,8 @@ og_image: og/og-skribble-identification.jpg
 {{< content >}}
 {{% heading %}}
 # Electronic signature for lawyers
-With Skribble you sign without USB stick or card reader <br class="hide-for-mobile">with the hightest e-signing standard (QES).
+With Skribble you sign without USB stick or card reader
+with the hightest e-signing standard (QES).
 {{% /heading %}}
 {{< picture vertical-lawyer-main 560 "man handle different document processes" >}}
 {{< /content >}}
@@ -87,7 +88,8 @@ industry software solutions**
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
 {{< testimonial "testimonial/e-forsight-146w.png" "e-foresight Think Tank" >}}
-"Skribble offers a customer-friendly <br class="hide-for-mobile">solution for qualified electronic signatures in Switzerland."
+"Skribble offers a customer-friendly
+solution for qualified electronic signatures in Switzerland."
 {{< /testimonial >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
@@ -95,7 +97,8 @@ industry software solutions**
 {{< content >}}
 {{% heading %}}
 # Skribble complies <br class="hide-for-mobile">with the legal requirements <br class="hide-for-mobile">for court processes
-You sign with legal effect and securely in accordance <br class="hide-for-mobile">with the following requirements:
+You sign with legal effect and securely in accordance
+with the following requirements:
 {{% /heading %}}
 
 {{% collapsible 1 "E-signature standards QES and AES according to ZertES/eIDAS" "check" %}}
@@ -116,8 +119,10 @@ Skribble and its signing partner Swisscom commit to manage data in accordance wi
 {{< content >}}
 {{% heading %}}
 # Use Skribble to maximise the legal weight of your signature
-The law distinguishes between qualified e-signatures (QES) <br class="hide-for-mobile">and advanced e-signatures (AES).
-The two standards vary in terms of area <br class="hide-for-mobile">of application and legal weight.
+The law distinguishes between qualified e-signatures (QES)
+and advanced e-signatures (AES).
+The two standards vary in terms of area
+of application and legal weight.
 {{% /heading %}}
 {{< picture legal_weight 664 "Legal-weight" >}}
 {{% richtext %}}
@@ -161,7 +166,8 @@ and get identified**
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
 {{< testimonial "testimonial/procivis-146w.png" "Daniel Gasteiger, founder and CEO of Procivis (eID+)" >}}
-"The electronic signing of documents becomes a core function of trusted <br class="hide-for-mobile">digital identities"
+"The electronic signing of documents becomes a core function of trusted
+digital identities"
 {{< /testimonial >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)

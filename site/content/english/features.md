@@ -50,7 +50,9 @@ With Skribble you not only sign legally, but also with ease.
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 <br><br>
 {{< testimonial "testimonial/fr-logo-99w.svg" "Stéphane Schwab, Head of E-Government, Canton of Fribourg" >}}
-"Thanks to Skribble, we can digitize administrative processes from A to Z. <br class="hide-for-mobile">This makes everyday life easier for <br class="hide-for-mobile">us and our customers." {{< /testimonial >}}
+"Thanks to Skribble, we can digitize administrative processes from A to Z.
+This makes everyday life easier for
+us and our customers." {{< /testimonial >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 

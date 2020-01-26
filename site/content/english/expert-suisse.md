@@ -15,7 +15,8 @@ type: blank
 {{< richtext >}}
 {{% heading left %}}
 # Legally binding electronic signatures with Skribble
-Easily handle digital signature processes – <br class="hide-for-mobile">legally binding in accordance with Swiss & EU law.
+Easily handle digital signature processes –
+legally binding in accordance with Swiss & EU law.
 {{% /heading %}}
 
 <div class="hide-for-desktop">
@@ -66,7 +67,8 @@ FINMA-compliant, ISO 27001 certified
 
 {{< content >}}
 {{% heading %}}
-# Free signing with Skribble <br class="hide-for-mobile">until the end of the year for EXPERTsuisse members. As of January 2020
+# Free signing with Skribble
+until the end of the year for EXPERTsuisse members. As of January 2020
 {{% /heading %}}
 
 {{< picture sav-special 200 "Blue circle with the number 12" >}}
@@ -127,7 +129,8 @@ Not exclusively. Thanks to the visual signature, it can be seen on the printed c
 {{% /collapsible %}}
 
 {{% collapsible 1 "Why do I need to be identified?" %}}
-At Skribble you sign with the qualified electronic signature (QES). This is the highest e-signature standard. For this, the law requires an identity verification through personal contact. Exceptions are financial intermediaries who may <br class="hide-for-mobile">carry out identity verification using video identification.{{% /collapsible %}}
+At Skribble you sign with the qualified electronic signature (QES). This is the highest e-signature standard. For this, the law requires an identity verification through personal contact. Exceptions are financial intermediaries who may
+carry out identity verification using video identification.{{% /collapsible %}}
 
 {{< /content >}}
 

@@ -6,7 +6,7 @@ slug: signaturstandards
 
 ---
 
-{{% content %}}
+{{< content >}}
 {{% heading %}}
 # Wie viel Beweiskraft braucht meine E-Singatur?
 Das Gesetz unterscheidet zwischen der qualifizierten E-Signatur (QES) <br class="hide-for-mobile">und der fortgeschrittenen E-Signatur (FES).
@@ -29,7 +29,7 @@ Du setzt die QES ein, um die Beweiskraft deiner Verträge zu maximieren oder wen
 Letzteres trifft z.B. bei Kredit- oder Arbeitsverträgen mit Konkurrenzklausel zu.
 Für das Signieren mit QES auf Skribble wird eine vorgängige Identitätsprüfung im persönlichen Kontakt oder eine E-ID vorausgesetzt.
 {{% /richtext %}}
-{{% /content %}}
+{{< /content >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
@@ -72,7 +72,7 @@ Prüfe, ob ein Dokument mit QES signiert wurde.
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{% content %}}
+{{< content >}}
 {{% heading %}}
 # FES: Die pragmatische Lösung für Verträge ohne Formvorschrift
 Sofort einsatzbereit dank geringeren Auflagen
@@ -85,7 +85,7 @@ Sofort einsatzbereit dank geringeren Auflagen
 Das trifft für die meisten Vertragsarten zu, so zum Beispiel bei Miet-, Kauf- oder Hypothekarverträgen. Jeder, der eine Schweizer Mobiltelefonnummer hat, kann auf Skribble sofort mit dem Signieren mit FES loslegen.
 {{% /richtext %}}
 
-{{% /content %}}
+{{< /content >}}
 
 {{% table-dense heading="QES vs. FES auf einen Blick" id="qes-fes-table" %}}
 

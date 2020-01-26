@@ -136,7 +136,7 @@ Skribbles' pricing adapts to your needs and can be flexibly configured.
 See how we used the `%` delimiter here? It interprets the content of the `content` component as markdown. The closing tag of our `heading` component has a leading `/` before the name to indicate the end of the component.
 
 ### Menu component
-The main, header and footer menus are defined in the file `site/config.yaml`. 
+The main, header and footer menus are defined in the file `site/config.yaml`.
 
 The top level structure of the file is divided by language.
 ```
@@ -168,7 +168,7 @@ en:
           url: "#"
           weight: 10
           identifier: platform
-      
+
         # Platform dropdown children
         - name: Features
           url: "/features/"
@@ -189,9 +189,9 @@ This component is a basic building block for Cove. It aligns a picture and a con
 ```
 {{< side-by-side >}}
 {{< picture image3 400 >}}
-{{% content %}}
+{{< content >}}
 ...
-{{% /content %}}
+{{< /content >}}
 {{< /side-by-side >}}
 ```
 
@@ -299,7 +299,7 @@ Full example:
     {{< picture business-visual 270 "" >}}
 {{% /action-card %}}
 ```
- 
+
 #### {{< collapsible >}}
 This collapsible component hides its content and reveals it after clicking on the title.
 ```
@@ -312,7 +312,7 @@ A signature with Skribble is equal to the handwritten signature according to Swi
 1. id
 2. title of the collapsible
 
-#### {{< cta >}} 
+#### {{< cta >}}
 A little component with dividers at the top and bottom that is used to focus the attention on a single call to action.
 
 **Parameters**

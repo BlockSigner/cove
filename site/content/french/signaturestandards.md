@@ -6,7 +6,7 @@ slug: normessignature
 
 ---
 
-{{% content %}}
+{{< content >}}
 {{% heading %}}
 # De combien de force probante <br class="hide-for-mobile">ma e-signature a-t-elle besoin ?
 La loi établit une distinction entre les signatures électroniques qualifiées (SEQ) <br class="hide-for-mobile">et les signatures électroniques avancées (SEA). Les deux normes varient <br class="hide-for-mobile">en termes de domaine d'application et de force probante.
@@ -28,7 +28,7 @@ Vous utilisez la SEQ pour maximiser la force probante de vos contrats ou lorsque
 Cette dernière s'applique, par exemple, aux accords de crédit ou contrats de travail comportant une clause de concurrence.
 Pour signer avec la SEQ sur Skribble, un contrôle d'identité préalable avec contact personnel ou une e-ID est nécessaire.
 {{% /richtext %}}
-{{% /content %}}
+{{< /content >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
@@ -72,7 +72,7 @@ Vérifiez si un document a été signé avec la SEQ
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
 
-{{% content %}}
+{{< content >}}
 {{% heading %}}
 # SEA: La solution pragmatique pour les contrats sans exigences formelles
 Immédiatement prête à l'emploi grâce à des exigences d'identification réduites
@@ -84,7 +84,7 @@ Immédiatement prête à l'emploi grâce à des exigences d'identification rédu
 **La signature électronique avancée (SEA) est juridiquement valable pour les contrats dont la loi ne prescrit pas de forme particulière.**<br>
 C'est le cas pour la plupart des types de contrats, tels que les contrats de location, d'achat ou d'hypothèque. Quiconque possède un numéro de téléphone portable suisse peut commencer immédiatement à signer sur Skribble avec la SEA.
 {{% /richtext %}}
-{{% /content %}}
+{{< /content >}}
 
 {{% table-dense heading="SEQ vs SAE en un coup d'œil" id="qes-fes-table" %}}
 

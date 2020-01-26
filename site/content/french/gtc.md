@@ -6,7 +6,7 @@ description: Conditions Générales (CG) de Skribble SA
 
 ---
 
-{{% content %}}
+{{< content >}}
 {{% richtext %}}
 # Conditions Générales (CG) de Skribble SA
 (Version 2019.10.01)
@@ -187,7 +187,7 @@ Le Client s'engage à ce qui suit :
 ## * * *
 
 {{% /richtext %}}
-{{% /content %}}
+{{< /content >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 

@@ -6,7 +6,7 @@ slug: qes-explique
 
 ---
 
-{{% content %}}
+{{< content >}}
 {{% heading %}}
 # Skribble a la même sécurité juridique que la signature manuscrite
 Signé avec Skribble signifie légalement signé selon le droit suisse et européen.
@@ -16,17 +16,17 @@ Signé avec Skribble signifie légalement signé selon le droit suisse et europ�
 **La loi autorise la signature électronique de documents**<br>
 Pour les contrats qui exigent la forme écrite – c'est-à-dire qui doivent être signés à la main dans le monde physique – la loi fixe une norme numérique: la signature électronique qualifiée (SEQ).
 {{% /richtext %}}
-{{% /content %}}
+{{< /content >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{% content %}}
+{{< content >}}
 {{% heading %}}
 # Skribble offre 100% de sécurité juridique devant les tribunaux
 Skribble travaille avec la SEQ. Ainsi, les documents signés avec Skribble sont juridiquement contraignants.
 {{% /heading %}}
 {{< picture image5 430 "Une personne tient un document juridique entre ses mains. Le logo de swisscom se trouve à l'arrière-plan" >}}
-{{% /content %}}
+{{< /content >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
@@ -36,7 +36,7 @@ Skribble travaille avec la SEQ. Ainsi, les documents signés avec Skribble sont 
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{% content %}}
+{{< content >}}
 {{% heading %}}
 # Vérifiez si votre document a été signé avec la SEQ
 Le validateur de l'administration fédérale suisse vous permet de vérifier si votre document a été signé avec une SEQ selon le droit suisse.*
@@ -49,7 +49,7 @@ Le validateur de l'administration fédérale suisse vous permet de vérifier si 
 2. **Téléchargez votre document**
 3. **Cliquez sur vérifier**
 {{% /richtext %}}
-{{% /content %}}
+{{< /content >}}
 
 {{% cta
   label="Vers le validateur fédéral"

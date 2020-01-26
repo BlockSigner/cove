@@ -5,7 +5,7 @@ draft: false
 description: Politique de Confidentialité méta-description
 ---
 
-{{% content %}}
+{{< content >}}
 {{% richtext %}}
 # Politique de Confidentialité
 
@@ -230,7 +230,7 @@ Pour toute question relative à la présente Politique de Confidentialité, veui
 Par courrier électronique: <a href="mailto:info@skribble.com">info@skribble.com</a><br>
 En consultant cette page sur notre site web: <a href="https://www.skribble.com/fr/contact/" target="_blank">www.skribble.com/fr/contact/</a>
 {{% /richtext %}}
-{{% /content %}}
+{{< /content >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 

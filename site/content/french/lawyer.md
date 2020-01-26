@@ -9,13 +9,13 @@ og_image: og/og-skribble-identification.jpg
 
 ---
 
-{{% content %}}
+{{< content >}}
 {{% heading %}}
 # Signature électronique pour juristes
 Avec Skribble vous signez sans clé USB ou lecteur de carte avec la plus haute norme de signature électronique (SEQ).
 {{% /heading %}}
 {{< picture vertical-lawyer-main 560 "L'un traite de différents processus contractuels" >}}
-{{% /content %}}
+{{< /content >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
@@ -85,7 +85,7 @@ Restez avec des outils familiers: connectez-vous directement via votre navigateu
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{% content %}}
+{{< content >}}
 {{% heading %}}
 # Avec Skribble, <br class="hide-for-mobile">vous répondez aux exigences <br class="hide-for-mobile">des procédures légales
 Avec Skribble, vous signez légalement et en toute sécurité <br class="hide-for-mobile">en remplissant les conditions suivantes:
@@ -102,17 +102,17 @@ La signature électronique qualifiée (SEQ) de Skribble équivaut à la signatur
 {{% collapsible 3 "Protection des données selon LPD/RGPD" "check" %}}
 Skribble et ses partenaires gèrent leurs données conformément à la loi fédérale sur la protection des données (LPD) et au réglement européen sur la protection des données (RGPD) et les hébergent en Suisse conformément aux normes bancaires.
 {{% /collapsible %}}
-{{% /content %}}
+{{< /content >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{% content %}}
+{{< content >}}
 {{% heading %}}
 # Utilisez Skribble pour maximiser la force probante de votre signature
 La loi établit une distinction entre les signatures électroniques qualifiées (SEQ) <br class="hide-for-mobile">et les signatures électroniques avancées (SEA). Les deux normes varient <br class="hide-for-mobile">en termes de domaine d'application et de force probante.
 Sur Skribble, vous pouvez choisir entre les deux.
 {{% /heading %}}
-{{% /content %}}
+{{< /content >}}
 
 {{< picture force_probante 664 "Force_Probante" >}}
 
@@ -130,14 +130,14 @@ Sur Skribble, vous pouvez choisir entre les deux.
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
 
-{{% content %}}
+{{< content >}}
 {{% heading %}}
 # Laissez-vous identifier
 Cela débloque la norme de signature électronique <br class="hide-for-mobile">la plus élevée du marché: la SEQ. Vous n'avez besoin que d'un document <br class="hide-for-mobile">de voyage valide (pièce d'identité ou passeport).
 {{% /heading %}}
 {{< picture "create-identity" 385 "Une loupe agrandit l'image d'une femme dans un passeport" >}}
 &nbsp;
-{{% /content %}}
+{{< /content >}}
 
 {{% cta
   label="Organiser un rendez-vous"
@@ -158,7 +158,7 @@ Cela débloque la norme de signature électronique <br class="hide-for-mobile">l
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
 
-{{% content %}}
+{{< content >}}
 {{% heading %}}
 # Est-ce que ça va?
 {{% /heading %}}
@@ -168,7 +168,7 @@ Le centre de données Skribble est situé en Suisse et est certifié ISO 270001 
 {{% /collapsible %}}
 
 {{% collapsible 11 "Et si je n'ai pas encore été identifié personnellement?" %}}
-L'identification en contact personnel n'est requise que pour signer avec la norme la plus élevée de signature électronique (SEQ). Si vous n'avez pas encore été identifié personnellement, vous signez avec la deuxième norme la plus élevée (SEA).  
+L'identification en contact personnel n'est requise que pour signer avec la norme la plus élevée de signature électronique (SEQ). Si vous n'avez pas encore été identifié personnellement, vous signez avec la deuxième norme la plus élevée (SEA).
 {{% /collapsible %}}
 
 {{% collapsible 12 "Ai-je besoin de matérield'un hardware supplémentaire pour signer avec Skribble?" %}}
@@ -182,7 +182,7 @@ Pas uniquement. Grâce à la signature visuelle, on peut voir sur le contrat imp
 {{% collapsible 14 "Quelle est la durée de validité de la signature Skribble? " %}}
 La SEQ est légalement valide pour une durée illimitée.
 {{% /collapsible %}}
-{{% /content %}}
+{{< /content >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 

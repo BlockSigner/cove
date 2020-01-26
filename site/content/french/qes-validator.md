@@ -6,7 +6,7 @@ slug: validateur-seq
 
 ---
 
-{{% content %}}
+{{< content >}}
 {{% heading %}}
 # Vérifiez si un document <br class="hide-for-mobile">a été signé avec la SEQ
 Le validateur de l'administration fédérale suisse vous permet <br class="hide-for-mobile">de vérifier si votre document a été signé avec <br class="hide-for-mobile">une signature électronique qualifiée selon le droit suisse.*
@@ -19,7 +19,7 @@ Le validateur de l'administration fédérale suisse vous permet <br class="hide-
 2. **Téléchargez votre document**
 3. **Cliquez sur vérifier**
 {{% /richtext %}}
-{{% /content %}}
+{{< /content >}}
 
 {{% cta
   label="Vers le validateur SEQ"

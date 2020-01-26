@@ -11,7 +11,8 @@ og_image: og/og-skribble-mission.jpg
 {{< content >}}
 {{% heading %}}
 # Skribble builds trust <br class="hide-for-mobile">in the digital world
-Once upon a time there was the hand-written signature – <br class="hide-for-mobile">today we sign with Skribble.
+Once upon a time there was the hand-written signature –
+today we sign with Skribble.
 {{% /heading %}}
 
 {{< picture image9 680 "A man signs with a huge fountain pen on the floor, next to it a man sits on a chair and signs online" >}}

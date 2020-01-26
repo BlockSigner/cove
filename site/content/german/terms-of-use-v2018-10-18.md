@@ -5,7 +5,7 @@ draft: false
 description: Nutzungsbedingungen meta description
 ---
 
-{{% content %}}
+{{< content >}}
 {{% richtext %}}
 # Nutzungsbedingungen<br>von Skribble AG
 
@@ -17,8 +17,8 @@ einzuhalten:
 {{% legal-list %}}
 ### Gegenstand und Geltungsbereich
 1. Um ein Dokument qualifiziert elektronisch zu unterzeichnen, wird eine starke Authentifizierung des Unterzeichnenden und eine durch einen zertifizierten Service, eine sogenannte Anbieterin von Zertifizierungsdiensten ("Certification Authority"), erstellte Signatur benötigt. Skribble wird diese beiden Komponente mit verschiedenen vertrauensvollen Partnern, welche die Anforderungen von ZertES und/oder eIDAS erfüllen, in seinen Service integrieren, um damit auf einfachste Art und Weise QES zu erstellen.
-2. Diese Nutzungsbedingungen sind anwendbar auf die Nutzung von Skribble durch Sie als Systemnutzer. Systemnutzer ist, wer einen Account unter Skribble eröffnet. 
-3. In Ergänzung zu diesen Nutzungsbedingungen gelten die Datenschutzbedingungen, sowie die Bedingungen der Anbieterin von Zertifizierungsdiensten. 
+2. Diese Nutzungsbedingungen sind anwendbar auf die Nutzung von Skribble durch Sie als Systemnutzer. Systemnutzer ist, wer einen Account unter Skribble eröffnet.
+3. In Ergänzung zu diesen Nutzungsbedingungen gelten die Datenschutzbedingungen, sowie die Bedingungen der Anbieterin von Zertifizierungsdiensten.
 
 ### Allgemeine Regeln im Umgang mit dem Account
 1. Jeder Systemnutzer ist verpflichtet, Informationen und persönliche Daten vertraulich zu behandeln und dafür zu sorgen, dass diese vor Einblicken Dritter geschützt sind. Der Systemnutzer verpflichtet sich, entsprechende Vorkehrungen bei der Verwendung von Fest- und Mobilgeräten sowie bei Verwendung von Ausdrucken, vorzunehmen und zu berücksichtigen.
@@ -36,7 +36,7 @@ einzuhalten:
 {{% /legal-list %}}
 
 {{% /richtext %}}
-{{% /content %}}
+{{< /content >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 

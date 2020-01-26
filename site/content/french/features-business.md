@@ -15,34 +15,34 @@ og_image: og/og-skribble-identification.jpg
 # Fonctionnalités Business
 Les clients Skribble Business signent comme un groupe - <br class="hide-for-mobile">avec une administration centrale des membres et une facturation commune.
 {{% /heading %}}
-{{% /content %}}
+{{< /content >}}
 
 {{< picture skribble-biz-ui-fr 1020 "Skribble Business-Account - benutzeroberfläche" >}}
 
 {{< features-container >}}
 
-  {{< features-item src="features-biz/abrechnung.svg" 
-    headline="Sélectionnez le modèle de prix par membre" 
+  {{< features-item src="features-biz/abrechnung.svg"
+    headline="Sélectionnez le modèle de prix par membre"
     description="Activez le modèle de tarif Forfait pour les abonnés fréquents et réduisez vos coûts.">}}
 
-  {{< features-item src="features-biz/preismodell.svg" 
-    headline="Comptabilité commune" 
+  {{< features-item src="features-biz/preismodell.svg"
+    headline="Comptabilité commune"
     description="Toute l'organisation est facturée à la fin du mois par facture.">}}
 
-  {{< features-item src="features-biz/mitgliederverwaltung.svg" 
-    headline="Administration centrale des membres" 
+  {{< features-item src="features-biz/mitgliederverwaltung.svg"
+    headline="Administration centrale des membres"
     description="Ajoutez de nouveaux membres, ajustez leur modèle de prix et attribuez des droits d'administration. ">}}
 
-  {{< features-item src="features-biz/domain-whitelist.svg" 
-    headline="Devient automatiquement membre" 
-    description="Toute personne qui s'inscrit à Skribble avec une adresse e-mail de votre société devient automatiquement membre de votre compte professionnel (liste blanche de domaines).">}}  
+  {{< features-item src="features-biz/domain-whitelist.svg"
+    headline="Devient automatiquement membre"
+    description="Toute personne qui s'inscrit à Skribble avec une adresse e-mail de votre société devient automatiquement membre de votre compte professionnel (liste blanche de domaines).">}}
 
-  {{< features-item src="features-biz/activity.svg" 
-    headline="Synthèse des activités" 
+  {{< features-item src="features-biz/activity.svg"
+    headline="Synthèse des activités"
     description="Faites le suivi de ce qui se passe dans votre compte Business, filtré par date, par activité et plus encore.">}}
 
-  {{< features-item src="features-biz/rechnungshistorie.svg" 
-    headline="Historique de facturation" 
+  {{< features-item src="features-biz/rechnungshistorie.svg"
+    headline="Historique de facturation"
     description="Visualisez les factures actuelles et toutes les factures passées à tout moment.">}}
 {{< /features-container >}}
 
@@ -51,20 +51,20 @@ Les clients Skribble Business signent comme un groupe - <br class="hide-for-mobi
 # Skribble Business s'intègre <br class="hide-for-mobile">dans votre infrastructure existante
 L'intégration des nouveaux signataires est intuitive et rapide.
 {{% /heading %}}
-{{% /content %}}
+{{< /content >}}
 
 {{< features-container >}}
 
-  {{< features-item src="features-biz/api-integration.svg" 
-    headline="Intégration de l'API" 
+  {{< features-item src="features-biz/api-integration.svg"
+    headline="Intégration de l'API"
     description="Connectez Skribble à votre logiciel existant et signez directement depuis vos outils habituels.">}}
 
-  {{< features-item src="features-biz/api-key-generation.svg" 
-    headline="Générez vous-même la clé API" 
+  {{< features-item src="features-biz/api-key-generation.svg"
+    headline="Générez vous-même la clé API"
     description="Créez et gérez vos clés API à des fins de test ou pour la production.">}}
 
-  {{< features-item src="features-biz/direct-sign.svg" 
-    headline="Direct Sign" 
+  {{< features-item src="features-biz/direct-sign.svg"
+    headline="Direct Sign"
     description="Les personnes extérieures n'ont pas besoin d'avoir un compte Skribble pour signer vos documents.">}}
 
 {{< /features-container >}}
@@ -81,7 +81,7 @@ L'intégration des nouveaux signataires est intuitive et rapide.
 # La mise en œuvre à l'échelle <br class="hide-for-mobile">de l'organisation est simple et rapide
 Permettez aux nouveaux employés et aux employés actuels de signer électroniquement dans les plus brefs délais. Choisissez le processus <br class="hide-for-mobile">d'intégration qui correspond à vos exigences en matière de force probante <br class="hide-for-mobile">ou à la norme de signature souhaitée.
 {{% /heading %}}
-{{% /content %}}
+{{< /content >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
@@ -112,7 +112,7 @@ Convient aux contrats avec des exigences formelles.<br>
 # Rapport coût-bénéfice idéal
 Choisissez le bon modèle de prix pour votre organisation.
 {{% /heading %}}
-{{% /content %}}
+{{< /content >}}
 
 {{< picture preismodelle 590 "Eine Frau mit roten Haaren vergliecht verschiedene Preismodelle." >}}
 

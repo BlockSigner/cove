@@ -9,13 +9,13 @@ og_image: og/og-skribble-identification.jpg
 
 ---
 
-{{% content %}}
+{{< content >}}
 {{% heading %}}
 # Elektronisch signieren im HR
 Mit Skribble signierst du rechtssicher und einfach auf digitalem Weg – <br class="hide-for-mobile">von Arbeitsverträgen über Zeugnisse bis hin zu Lohnausweisen.
 {{% /heading %}}
 {{< picture vertical-hr-main 560 "Drei Frauen halten einen Vertrag in der Hand" >}}
-{{% /content %}}
+{{< /content >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
@@ -77,7 +77,7 @@ Bei gewohnten Tools bleiben: Signiere direkt über den Browser oder aus deiner b
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{% content %}}
+{{< content >}}
 {{% heading %}}
 # Mit Skribble erfüllst du <br class="hide-for-mobile">die rechtlichen Anforderungen <br class="hide-for-mobile">an HR-Prozesse
 Du signierst rechtsgültig und sicher gemäss folgenden Erfordernissen:
@@ -94,7 +94,7 @@ Die auf Skribble verfügbare qualifizierte elektronische Signatur (QES) ist der 
 {{% collapsible 3 "Datenschutz gemäss DSG/DSGVO" "check" %}}
 Skribble sowie Partner verwalten ihre Daten gemäss dem Bundesgesetz über den Datenschutz (DSG) sowie der europäischen Datenschutz-Grundverordnung (DSGVO) und hosten diese in der Schweiz nach Bankenstandard.
 {{% /collapsible %}}
-{{% /content %}}
+{{< /content >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
@@ -103,7 +103,7 @@ Skribble sowie Partner verwalten ihre Daten gemäss dem Bundesgesetz über den D
 # Unser Kunden haben gut lachen
 Wie wir den Alltag unserer Kunden erleichtern.
 {{% /heading %}}
-{{% /content %}}
+{{< /content >}}
 
 {{< testimonial "testimonial/easyjet-150w.png" "Sarah Jackson – Country HR & Administration Manager easyJet" >}}
 "Im schnelllebigen HR-Umfeld ist es wichtig, so effizient wie möglich zu sein. Das war mit unserem analogen Signaturprozess bisher schwierig, denn ich bin ständig auf Achse zwischen verschiedenen Standorten"
@@ -123,7 +123,7 @@ Wie wir den Alltag unserer Kunden erleichtern.
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{% content %}}
+{{< content >}}
 {{% heading %}}
 # Mit Skribble maximierst du <br class="hide-for-mobile">die Beweiskraft deiner Signatur
 Das Gesetz unterscheidet zwischen der qualifizierten E-Signatur (QES) <br class="hide-for-mobile">und der fortgeschrittenen E-Signatur (FES).
@@ -131,7 +131,7 @@ Die beiden Standards <br class="hide-for-mobile">variieren punkto Einsatzgebiet 
 {{% /heading %}}
 
 {{< picture beweiskraft 664 "Ein Mann unterschreibt mit einem Füller digitale Dokumente nach Schweizer und Europäischen Recht" >}}
-{{% /content %}}
+{{< /content >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
@@ -146,14 +146,14 @@ Die beiden Standards <br class="hide-for-mobile">variieren punkto Einsatzgebiet 
 {{% /richtext %}}
 {{% /cta %}}
 
-{{% content %}}
+{{< content >}}
 {{% heading %}}
 # Lass dich identifizieren
 Damit schaltest du den höchsten verfügbaren E-Signatur-Standard QES frei. <br class="hide-for-mobile">Du benötigst nur ein gültiges Reisedokument (ID oder Pass).
 {{% /heading %}}
 {{< picture "create-identity" 385 "Eine Lupe vergrössert das Bild einer Frau in einem Pass" >}}
 &nbsp;
-{{% /content %}}
+{{< /content >}}
 
 {{% cta
   label="Termin vereinbaren"
@@ -173,31 +173,31 @@ Damit schaltest du den höchsten verfügbaren E-Signatur-Standard QES frei. <br 
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{% content %}}
+{{< content >}}
 {{% heading %}}
 # Alles klar?
 {{% /heading %}}
 
 {{% collapsible 10 "Wo sind Dokumente, die mit Skribble signiert wurden, gespeichert?" %}}
-Das Datenzentrum von Skribble ist in der Schweiz und nach ISO 270001 zertifiziert (Hosting nach Bankenstandard).      
+Das Datenzentrum von Skribble ist in der Schweiz und nach ISO 270001 zertifiziert (Hosting nach Bankenstandard).
 {{% /collapsible %}}
 
 {{% collapsible 11 "Was, wenn ich noch nicht persönlich identifiziert wurde?" %}}
-Die persönliche Identifikation wird nur für das Signieren mit dem höchsten E-Signatur-Standard (QES) vorausgesetzt. Wurdest du noch nicht persönlich identifiziert, signierst du mit dem zweithöchsten Standard (FES). 
+Die persönliche Identifikation wird nur für das Signieren mit dem höchsten E-Signatur-Standard (QES) vorausgesetzt. Wurdest du noch nicht persönlich identifiziert, signierst du mit dem zweithöchsten Standard (FES).
 {{% /collapsible %}}
 
 {{% collapsible 12 "Ist das Signieren mit Skribble rechtssicher?" %}}
-Ja. Auf Skribble kannst du den höchsten verfügbaren E-Signatur-Standard wählen: Die qualifzierte elektronische Signatur QES. Diese hat eine Beweiskraft von 100% vor Gericht.  
+Ja. Auf Skribble kannst du den höchsten verfügbaren E-Signatur-Standard wählen: Die qualifzierte elektronische Signatur QES. Diese hat eine Beweiskraft von 100% vor Gericht.
 {{% /collapsible %}}
 
 {{% collapsible 13 "Kann ich den digital signierten Vertrag in Papierform aufbewahren?" %}}
-Nicht ausschliesslich. Dank der visuellen Signatur ist auf dem ausgedruckten Vertrag ersichtlich, dass er digital signiert wurde. Da die digitalen Zertifikate mit dem Ausdrucken aber verloren gehen, ist die Nachvollziehbarkeit der Signatur und damit die entsprechende Beweiskraft nicht gegeben. Ein Vertrag, welcher mit einer qualifizierten elektronischen Signatur unterschrieben ist, muss deshalb immer in elektronischer Form gespeichert werden.               
+Nicht ausschliesslich. Dank der visuellen Signatur ist auf dem ausgedruckten Vertrag ersichtlich, dass er digital signiert wurde. Da die digitalen Zertifikate mit dem Ausdrucken aber verloren gehen, ist die Nachvollziehbarkeit der Signatur und damit die entsprechende Beweiskraft nicht gegeben. Ein Vertrag, welcher mit einer qualifizierten elektronischen Signatur unterschrieben ist, muss deshalb immer in elektronischer Form gespeichert werden.
 {{% /collapsible %}}
 
 {{% collapsible 14 "Wie lange ist die Skribble Signatur rechtsgültig?" %}}
-Die QES ist zeitlich uneingeschränkt rechtsgültig.     
+Die QES ist zeitlich uneingeschränkt rechtsgültig.
 {{% /collapsible %}}
-{{% /content %}}
+{{< /content >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 

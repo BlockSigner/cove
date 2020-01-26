@@ -8,7 +8,7 @@ og_image: og/og-skribble-service.jpg
 
 ---
 
-{{% content %}}
+{{< content >}}
 {{% heading %}}
 # Payez par signatures ou forfaitairement et économisez si vous signez plus.
 Skribble propose des offres qui correspondent à vos besoins.
@@ -33,7 +33,7 @@ Plus il y en a, moins c'est cher
 : Nous avons un barème de prix basé sur le volume:
 Plus vous achetez de signatures dans un forfait prépayé, plus le prix unitaire sera bas. Plus vous enregistrez de personnes pour le modèle forfaitaire, plus le prix mensuel par personne sera bas.
 {{% /richtext %}}
-{{% /content %}}
+{{< /content >}}
 
 {{% cta
   label="Demander un devis maintenant"
@@ -45,7 +45,7 @@ Plus vous achetez de signatures dans un forfait prépayé, plus le prix unitaire
 {{% /richtext %}}
 {{% /cta %}}
 
-{{% content %}}
+{{< content >}}
 
 {{% heading %}}
 # Identification
@@ -63,7 +63,7 @@ Idéal pour signer une fois ou occasionnellement avec la SEQ.
 Convient si vous utilisez la SEQ avec un nombre de personnes prédéfini.
 {{% /plan %}}
 {{< /row >}}
-{{% /content %}}
+{{< /content >}}
 
 {{% cta
   label="Plus d'informations sur l'identification"

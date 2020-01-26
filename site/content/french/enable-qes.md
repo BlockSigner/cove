@@ -9,7 +9,7 @@ og_image: og/og-skribble-identification.jpg
 
 ---
 
-{{% content %}}
+{{< content >}}
 {{% heading %}}
 # Maximisez la valeur probante <br class="hide-for-mobile">de votre signature électronique
 Déverrouillez la norme de signature électronique la plus élevée (SEQ) <br class="hide-for-mobile">en vous identifiant par contact personnel avec l'ID-app de Swisscom.
@@ -50,12 +50,12 @@ La force probante de votre signature est portée à 100% (niveau SEQ)
 {{% /richtext %}}
 {{% /step %}}
 {{< /row >}}
-{{% /content %}}
+{{< /content >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
 
-{{% content %}}
+{{< content >}}
 {{% heading %}}
 # Tout va bien?
 {{% /heading %}}
@@ -79,16 +79,16 @@ Les données collectées sont stockées sur les serveurs haute sécurité <br cl
 {{% collapsible 5 "Le QSE nécessite-t-elle un Mobile ID?" %}}
 Non. Mais avec un Mobile ID, la signature est plus rapide et plus facile, c'est pourquoi nous vous le recommandons. Sur Mobile-ID.ch, vous pouvez vérifier si votre smartphone possède déjà un Mobile ID et si la fonction est déjà activée. Si tel n'est pas le cas, une nouvelle carte SIM avec Mobile ID peut être commandée gratuitement auprès de la plupart des fournisseurs.
 {{% /collapsible %}}
-{{% /content %}}
+{{< /content >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{% content %}}
+{{< content >}}
 {{% heading %}}
 # Sites d'identification
 Venez vous identifier gratuitement. Apportez votre passeport <br class="hide-for-mobile">ou votre carte d'identité en cours de validité et votre téléphone portable.
 {{% /heading %}}
-{{% /content %}}
+{{< /content >}}
 
 
 {{% cta

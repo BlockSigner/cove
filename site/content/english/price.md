@@ -9,7 +9,7 @@ og_image: og/og-skribble-mission.jpg
 
 {{< content >}}
 {{% heading %}}
-# Sign economically <br class="hide-for-mobile">with the right plan
+# Sign economically with the right plan
 Skribble is suitable for both occasional and frequent signing.
 {{% /heading %}}
 {{< action-card

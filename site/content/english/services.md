@@ -47,7 +47,8 @@ More signatures, better value
 {{< content >}}
 {{% heading %}}
 # Identification
-No E-ID at hand? Let us verify your identity <br class="hide-for-mobile">or identify your people by yourself.
+No E-ID at hand? Let us verify your identity
+or identify your people by yourself.
 {{% /heading %}}
 
 {{< picture image6 365 "A magnifying glass enlarges the image of a woman in a passport" >}}

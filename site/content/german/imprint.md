@@ -5,7 +5,7 @@ draft: false
 slug: impressum
 ---
 
-{{% content %}}
+{{< content >}}
 {{% richtext %}}
 # Impressum
 
@@ -20,10 +20,10 @@ CH-8001 Zürich
 ### E-Mail
 [info@skribble.com](mailto:info@skribble.com "info@skribble.com")
 
-### Handelsregister-Nummer 
+### Handelsregister-Nummer
 CH-020.3.045.842-4
 
-### U-ID 
+### U-ID
 CHE-397.613.998
 
 
@@ -38,13 +38,13 @@ DE-76275 Ettlingen
 ### Vertreten durch die Geschäfstführung
 Waldemar Dick<br>
 
-### Registergericht 
+### Registergericht
 Amtsgericht Mannheim<br>
 
-### Handelsregister-Nr. 
+### Handelsregister-Nr.
 HRB 734477<br>
 
-### Umsatzsteueridentifikationsnummer 
+### Umsatzsteueridentifikationsnummer
 DE326509705<br>
 
 ### Kontakt
@@ -74,7 +74,7 @@ Verantwortlich für diese Website und deren Inhalt im Sinne von § 3 Abs. 1 UWG 
 ## Copyright
 Die Urheber- und alle anderen Rechte an Inhalten, Bildern, Fotos oder anderen Dateien auf der Website gehören ausschliesslich der Firma Skribble AG. Für die Reproduktion jeglicher Elemente ist die schriftliche Zustimmung der Urheberrechtsträger im Voraus einzuholen.
 {{% /richtext %}}
-{{% /content %}}
+{{< /content >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 

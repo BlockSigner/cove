@@ -13,58 +13,60 @@ type: business-features
 {{% content class="no-bottom-padding" %}}
 {{% heading %}}
 # Business features
-Skribble Business customers sign organised as a group - with <br class="hide-for-mobile"> centralised member administration and joint billing.
+Skribble Business customers sign organised as a group - with
+ centralised member administration and joint billing.
 {{% /heading %}}
-{{% /content %}}
+{{< /content >}}
 
 {{< picture skribble-biz-ui-en 1020 "Skribble Business-Account - benutzeroberfläche" >}}
 
 {{< features-container >}}
 
-  {{< features-item src="features-biz/abrechnung.svg" 
-    headline="Select price model per member" 
+  {{< features-item src="features-biz/abrechnung.svg"
+    headline="Select price model per member"
     description="Activate the flat rate model for frequent signers and reduce your costs.">}}
 
-  {{< features-item src="features-biz/preismodell.svg" 
-    headline="Joint billing" 
+  {{< features-item src="features-biz/preismodell.svg"
+    headline="Joint billing"
     description="The entire organisation is invoiced at the end of the month by invoice.">}}
 
-  {{< features-item src="features-biz/mitgliederverwaltung.svg" 
-    headline="Centralised member administration" 
+  {{< features-item src="features-biz/mitgliederverwaltung.svg"
+    headline="Centralised member administration"
     description="Add new members, adjust their pricing model and assign administration rights.">}}
 
-  {{< features-item src="features-biz/domain-whitelist.svg" 
-    headline="Member auto registration" 
+  {{< features-item src="features-biz/domain-whitelist.svg"
+    headline="Member auto registration"
     description="Anyone who registers with Skribble using an e-mail address from your company automatically becomes a member of your business account (Domain Whitelisting).">}}
 
-  {{< features-item src="features-biz/activity.svg" 
-    headline="Activity overview" 
+  {{< features-item src="features-biz/activity.svg"
+    headline="Activity overview"
     description="Keep track of what's happening in your business account, filtered by date, activity and more.">}}
 
-  {{< features-item src="features-biz/rechnungshistorie.svg" 
-    headline="Invoice history" 
+  {{< features-item src="features-biz/rechnungshistorie.svg"
+    headline="Invoice history"
     description="View the current and all past invoices at any time.">}}
 {{< /features-container >}}
 
 {{% content class="no-bottom-padding" %}}
 {{% heading %}}
-# Skribble Business embeds itself <br class="hide-for-mobile">into your existing infrastructure
+# Skribble Business embeds itself
+into your existing infrastructure
 The onboarding of new signers is intuitive and fast.
 {{% /heading %}}
-{{% /content %}}
+{{< /content >}}
 
 {{< features-container >}}
 
-  {{< features-item src="features-biz/api-integration.svg" 
-    headline="API integration" 
+  {{< features-item src="features-biz/api-integration.svg"
+    headline="API integration"
     description="Connect Skribble to your existing software and sign directly from your usual tools.">}}
 
-  {{< features-item src="features-biz/api-key-generation.svg" 
-    headline="Generate your own API keys" 
+  {{< features-item src="features-biz/api-key-generation.svg"
+    headline="Generate your own API keys"
     description="Create and manage your API keys for testing or production purposes.">}}
 
-  {{< features-item src="features-biz/direct-sign.svg" 
-    headline="Direct sign" 
+  {{< features-item src="features-biz/direct-sign.svg"
+    headline="Direct sign"
     description="External people do not need to have a Skribble account to sign your documents.">}}
 
 {{< /features-container >}}
@@ -72,17 +74,21 @@ The onboarding of new signers is intuitive and fast.
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
 {{< testimonial "testimonial/fr-logo-99w.svg" "Stéphane Schwab, Head of E-Government, State of Fribourg" >}}
-"Thanks to Skribble, we can digitize administrative processes from A to Z. <br class="hide-for-mobile">This makes everyday life easier for <br class="hide-for-mobile">us and our customers." {{< /testimonial >}}
+"Thanks to Skribble, we can digitize administrative processes from A to Z.
+This makes everyday life easier for
+us and our customers." {{< /testimonial >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
 {{% content class="no-bottom-padding" %}}
 {{% heading %}}
-# Organisation-wide implementation <br class="hide-for-mobile">is simple and fast 
-Enable new and existing employees to sign electronically <br class="hide-for-mobile">in the shortest possible time.
+# Organisation-wide implementation
+is simple and fast
+Enable new and existing employees to sign electronically
+in the shortest possible time.
 Choose the onboarding process that fits your requirements for legal weight or the desired signature standard.
 {{% /heading %}}
-{{% /content %}}
+{{< /content >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
@@ -112,7 +118,7 @@ Suitable for contracts with formal requirements.<br>
 # Ideal cost-benefit ratio
 Choose the right pricing model for your organization.
 {{% /heading %}}
-{{% /content %}}
+{{< /content >}}
 
 {{< picture preismodelle 590 "Eine Frau mit roten Haaren vergliecht verschiedene Preismodelle." >}}
 

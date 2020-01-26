@@ -5,7 +5,7 @@ draft: false
 description: Conditions d'utilisation meta description
 ---
 
-{{% content %}}
+{{< content >}}
 {{% richtext %}}
 # Skribble Conditions d'utilisation<br>de Skribble SA
 
@@ -35,7 +35,7 @@ En tant qu'utilisateur du système Skribble, vous devez respecter les conditions
 {{% /legal-list %}}
 
 {{% /richtext %}}
-{{% /content %}}
+{{< /content >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 

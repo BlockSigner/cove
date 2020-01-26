@@ -62,7 +62,7 @@ Traiter les processus de signature numériquement &ndash; juridiquement valides 
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{% content %}}
+{{< content >}}
 {{% heading %}}
 # Les membres de la SAV-FSA utilisent Skribble à un prix préférentiel
 {{% /heading %}}
@@ -74,7 +74,7 @@ Traiter les processus de signature numériquement &ndash; juridiquement valides 
 Les signatures peuvent également être obtenues selon un modèle prépayé.
 {{% /richtext %}}
 
-{{% /content %}}
+{{< /content >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 

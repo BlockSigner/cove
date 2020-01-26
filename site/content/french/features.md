@@ -14,34 +14,34 @@ og_image: og/og-skribble-identification.jpg
 # Fonctionnalités de Skribble
 Avec Skribble, votre signature est non seulement <br class="hide-for-mobile">légalement valable, mais aussi simple.
 {{% /heading %}}
-{{% /content %}}
+{{< /content >}}
 
 {{< picture skribble-ui-fr 1020 "Skribble plate-forme - interface utilisateur" >}}
 
 {{< features-container >}}
 
-  {{< features-item src="features/dragdrop.svg" 
-    headline="Télécharger par cliquer-glisser" 
+  {{< features-item src="features/dragdrop.svg"
+    headline="Télécharger par cliquer-glisser"
     description="Téléchargez le document PDF signé via un navigateur ou utilisez Skribble via API depuis votre logiciel de gestion.">}}
 
-  {{< features-item src="features/invitesign.svg" 
-    headline="Inviter à signer" 
+  {{< features-item src="features/invitesign.svg"
+    headline="Inviter à signer"
     description="Invitez les signataires par e-mail et définissez l'ordre de signature.">}}
 
-  {{< features-item src="features/confirm_mobile.svg" 
-    headline="Confirmer avec votre mobile" 
+  {{< features-item src="features/confirm_mobile.svg"
+    headline="Confirmer avec votre mobile"
     description="Confirmez la signature via MobileID ou mot de passe à usage unique (OTP)  – aucun matériel supplémentaire requis.">}}
 
-  {{< features-item src="features/batch-process.svg" 
-    headline="Signature par lots" 
+  {{< features-item src="features/batch-process.svg"
+    headline="Signature par lots"
     description="Sélectionnez plusieurs documents et signez-les tous avec un seul processus de signature.">}}
 
-  {{< features-item src="features/decline.svg" 
-    headline="Rejetter des documents" 
+  {{< features-item src="features/decline.svg"
+    headline="Rejetter des documents"
     description="Refusez l'invitation à signer d'un seul clic si vous n'êtes pas d'accord avec le contenu.">}}
 
-  {{< features-item src="features/visual-signature.svg" 
-    headline="Signature visuelle" 
+  {{< features-item src="features/visual-signature.svg"
+    headline="Signature visuelle"
     description="Personnalisez votre signature visuelle personnelle et téléchargez votre signature manuscrite personnelle au format PNG, JPG ou GIF.">}}
 
 {{< /features-container >}}
@@ -58,24 +58,24 @@ Avec Skribble, votre signature est non seulement <br class="hide-for-mobile">lé
 # À venir
 Notre vision est grande. Nous développons Skribble jour après jour.
 {{% /heading %}}
-{{% /content %}}
+{{< /content >}}
 
 {{< features-container >}}
 
-  {{< features-item src="features/eid-sign.svg" 
-    headline="Signer avec SwissID/e-ID+" 
+  {{< features-item src="features/eid-sign.svg"
+    headline="Signer avec SwissID/e-ID+"
     description="Si vous avez une e-ID vérifiée, vous pouvez signer électroniquement sans vérification d'identité supplémentaire.">}}
 
-  {{< features-item src="features/reminder.svg" 
-    headline="Rester avec des outils familiers" 
+  {{< features-item src="features/reminder.svg"
+    headline="Rester avec des outils familiers"
     description="Signez à partir de vos systèmes existants, par exemple Google Drive, One Drive, Drop Box ou Secure Safe.">}}
 
-  {{< features-item src="features/tools.svg" 
-    headline="Rappel automatisé" 
+  {{< features-item src="features/tools.svg"
+    headline="Rappel automatisé"
     description="Ne faites pas la course aux signatures en suspens, mais envoyez des courriels de rappel automatisés.">}}
 
-  {{< features-item src="features/archive.svg" 
-    headline="Téléchargement prêt pour l'archivage" 
+  {{< features-item src="features/archive.svg"
+    headline="Téléchargement prêt pour l'archivage"
     description="Téléchargez les documents signés dans un format PDF X/A reconnu pour un archivage juridiquement valable.">}}
 
 {{< /features-container >}}

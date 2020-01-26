@@ -62,7 +62,7 @@ Signaturprozesse einfach digital abwickeln – rechtsgültig nach dem Schweizer 
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{% content %}}
+{{< content >}}
 {{% heading %}}
 # SAV-FSA Mitglieder nutzen Skribble zum Vorzugspreis
 {{% /heading %}}
@@ -74,7 +74,7 @@ Signaturprozesse einfach digital abwickeln – rechtsgültig nach dem Schweizer 
 Signaturen können auch nutzerunabhängig bezogen werden.
 {{% /richtext %}}
 
-{{% /content %}}
+{{< /content >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
