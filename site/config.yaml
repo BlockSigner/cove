@@ -2,6 +2,9 @@ baseurl: /
 title: Skribble
 params:
   outage: false
+disableKinds:
+  - taxonomy
+  - taxonomyTerm
 markup:
   goldmark:
     renderer:
@@ -228,7 +231,7 @@ languages:
           url: /features/
           weight: 10
         - name: Business features
-          url: /busines-features/
+          url: /business-features/
           weight: 15
         - name: Integrations
           url: /integrations/

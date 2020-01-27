@@ -71,6 +71,7 @@ The onboarding of new signers is intuitive and fast.
 
 {{< /features-container >}}
 <br><br>
+
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
 {{< testimonial "testimonial/fr-logo-99w.svg" "Stéphane Schwab, Head of E-Government, State of Fribourg" >}}
@@ -82,25 +83,21 @@ us and our customers." {{< /testimonial >}}
 
 {{< content >}}
 {{% heading %}}
-# Organisation-wide implementation
-is simple and fast
-Enable new and existing employees to sign electronically
-in the shortest possible time.
-Choose the onboarding process that fits your requirements for legal weight or the desired signature standard.
+# Organisation-wide implementation is simple and fast
+Enable new and existing employees to sign electronically in the shortest possible time. Choose the onboarding process that fits your requirements for legal weight or the desired signature standard.
 {{% /heading %}}
 {{< /content >}}
-
-[//]: # (--------------------------------------------------------------------------------------------------------------)
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
 {{< side-by-side >}}
 {{< picture onboarding-qes-en 380 "A large contract (QES) with a court" >}}
 
-{{% richtext %}}
+{{< richtext >}}
+{{% heading left %}}
 ## On-Boarding for the qualified electronic signature (QES)
-Identification services for highest demands on the legal weight of the signature.
-Suitable for contracts with formal requirements.<br>
+Identification services for highest demands on the legal weight of the signature. Suitable for contracts with formal requirements.
+{{% /heading %}}
 
 {{< button
   "Download Factsheet"
@@ -108,8 +105,8 @@ Suitable for contracts with formal requirements.<br>
   "_blank"
   "outline"
 >}}
+{{< /richtext >}}
 
-{{% /richtext %}}
 {{< /side-by-side >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
@@ -123,20 +120,20 @@ Choose the right pricing model for your organization.
 
 {{< picture preismodelle 590 "Eine Frau mit roten Haaren vergliecht verschiedene Preismodelle." >}}
 
-{{% center %}}
+{{< center >}}
 {{< button
   "Compare price models"
   "pricing"
   ""
   "outline">}}
-{{% /center %}}
+{{< /center >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
 {{< outro >}}
 {{< picture image8 414 "A man stands next to an electronic document with a giant fountain pen" >}}
 
-{{% richtext %}}
+{{< richtext >}}
 {{% heading %}}
 # Sign now, legally valid electronically!
 No credit card, entrance fee or commitment required.
@@ -147,5 +144,5 @@ No credit card, entrance fee or commitment required.
   "https://my.skribble.com/signup?lang=en"
   "_blank"
 >}}
-{{% /richtext %}}
+{{< /richtext >}}
 {{< /outro >}}
