@@ -123,7 +123,7 @@ Sur Skribble, vous pouvez choisir entre les deux.
 >}}
 
 {{% richtext %}}
-**Chez Skribble vous avez le choix entre les normes de signature SEA et SEQ.**<br>
+**Chez Skribble vous avez le choix entre les normes de signature SEA et SEQ.**
 {{% /richtext %}}
 {{< /cta >}}
 

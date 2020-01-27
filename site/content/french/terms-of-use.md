@@ -6,7 +6,7 @@ description: Conditions d'utilisation meta description
 ---
 
 {{< content >}}
-{{% richtext %}}
+{{% richtext legal %}}
 # Conditions d'Utilisation de Skribble
 (Version 2019.10.01)
 
@@ -14,7 +14,6 @@ En tant qu'utilisateur du système Skribble, vous devez respecter les conditions
 
 Les présentes Conditions d'Utilisation régissent votre utilisation de la Solution Skribble Cloud (Services Skribble). Les présentes Conditions d'Utilisation constituent un contrat contraignant entre vous en tant qu'Utilisateur du Système des Services Skribble et Skribble SA, Fraumünsterstrasse 16, 8001 Zurich, Suisse, respectivement Skribble Deutschland GmbH, Pforzheimer Straße 128a, 76275 Ettlingen, Allemagne (Skribble).
 
-{{% legal-list %}}
 ### Objet et champ d'application
 1. Vous utilisez les services Skribble parce que vous avez signé un Contrat Client avec Skribble, ou parce que vous avez été identifié par un client de Skribble comme autorisé à utiliser les services Skribble.
 2. Pour signer document électroniquement de manière avancée ou qualifiée, une authentification du signataire et une signature créée par un service certifié, une autorité de certification, est requise. Skribble intégrera ces deux composants dans son service avec différents partenaires de confiance qui répondent aux exigences de SCSE et/ou eIDAS afin de créer des signatures électroniques qualifiées (SEQ) ou des signatures électroniques avancées (SEA) de la manière la plus simple possible.
@@ -42,7 +41,6 @@ Les présentes Conditions d'Utilisation régissent votre utilisation de la Solut
 6. Les Utilisateurs du Système ne peuvent pas usurper l'identité d'une personne ou usurper l'identité d'une organisation ou faussement déclarer ou faussement représenter leur affiliation ou relation avec une organisation.
 7. Les Utilisateurs du Système sécurisent indépendamment les données de leur compte. Skribble ne garantit aucune disponibilité des données.
 8. Les Utilisateurs du Système reconnaissent le droit de Skribble de divulguer les données de leur Compte Utilisateur au client (habituellement l'employeur de l'Utilisateur du Système) s'il apparaît que l'Utilisateur du Système en question a abusé de Skribble pour diffuser des informations criminelles ou contraires au droit.
-{{% /legal-list %}}
 {{% /richtext %}}
 
 {{% richtext %}}

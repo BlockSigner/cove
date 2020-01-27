@@ -23,10 +23,8 @@ La signature complète et sans souci pour les exigences les plus élevées
 {{< picture qes-fr 758 "Deux mains - Un contrat est signé à la main et un autre avec un téléphone portable." >}}
 
 {{% richtext %}}
-**La signature électronique qualifiée (SEQ) équivaut légalement à la signature manuscrite.**<br>
-Vous utilisez la SEQ pour maximiser la force probante de vos contrats ou lorsque la loi exige la forme écrite.
-Cette dernière s'applique, par exemple, aux accords de crédit ou contrats de travail comportant une clause de concurrence.
-Pour signer avec la SEQ sur Skribble, un contrôle d'identité préalable avec contact personnel ou une e-ID est nécessaire.
+**La signature électronique qualifiée (SEQ) équivaut légalement à la signature manuscrite.**
+Vous utilisez la SEQ pour maximiser la force probante de vos contrats ou lorsque la loi exige la forme écrite. Cette dernière s'applique, par exemple, aux accords de crédit ou contrats de travail comportant une clause de concurrence. Pour signer avec la SEQ sur Skribble, un contrôle d'identité préalable avec contact personnel ou une e-ID est nécessaire.
 {{% /richtext %}}
 {{< /content >}}
 
@@ -48,7 +46,7 @@ Pour signer avec la SEQ sur Skribble, un contrôle d'identité préalable avec c
 {{< picture "Identifizieren" 112 "Vérification d'identité" >}}
 
 {{% richtext %}}
-**Vérification d'identité**<br>
+**Vérification d'identité**
 Comment déverrouiller la SEQ sur Skribble
 {{% /richtext %}}
 {{< /cta >}}
@@ -81,12 +79,12 @@ Immédiatement prête à l'emploi grâce à des exigences d'identification rédu
 {{< picture aes-fr 320 "Une personne tient un document juridique entre ses mains. Le logo de swisscom se trouve à l'arrière-plan." >}}
 
 {{% richtext %}}
-**La signature électronique avancée (SEA) est juridiquement valable pour les contrats dont la loi ne prescrit pas de forme particulière.**<br>
+**La signature électronique avancée (SEA) est juridiquement valable pour les contrats dont la loi ne prescrit pas de forme particulière.**
 C'est le cas pour la plupart des types de contrats, tels que les contrats de location, d'achat ou d'hypothèque. Quiconque possède un numéro de téléphone portable suisse peut commencer immédiatement à signer sur Skribble avec la SEA.
 {{% /richtext %}}
 {{< /content >}}
 
-{{% table-dense heading="SEQ vs SAE en un coup d'œil" id="qes-fes-table" %}}
+{{< table-dense heading="SEQ vs SAE en un coup d'œil" id="qes-fes-table" >}}
 
 <thead>
 <tr>
@@ -116,7 +114,7 @@ C'est le cas pour la plupart des types de contrats, tels que les contrats de loc
 </tr>
 </tbody>
 
-{{% /table-dense %}}
+{{< /table-dense >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
@@ -129,7 +127,7 @@ C'est le cas pour la plupart des types de contrats, tels que les contrats de loc
 {{< picture "contact" 92 "Vous avez des questions ? Nous nous ferons un plaisir de vous aider." >}}
 
 {{% richtext %}}
-**Vous avez des questions? <br class="hide-for-mobile">Nous nous ferons un plaisir de vous aider.**<br>
+**Vous avez des questions? <br class="hide-for-mobile">Nous nous ferons un plaisir de vous aider.**
 {{% /richtext %}}
 {{< /cta >}}
 

@@ -69,6 +69,7 @@ L'intégration des nouveaux signataires est intuitive et rapide.
 
 {{< /features-container >}}
 <br><br>
+
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
 {{< testimonial "testimonial/fr-logo-99w.svg" "Stéphane Schwab, Chef de E-Gouvernement du canton de Fribourg" >}}
@@ -90,19 +91,19 @@ Permettez aux nouveaux employés et aux employés actuels de signer électroniqu
 {{< side-by-side >}}
 {{< picture onboarding-seq-fr 380 "A large contract (QES) with a court" >}}
 
-{{% richtext %}}
+{{< richtext >}}
+{{% heading left %}}
 ## Intégration pour la signature électronique qualifiée (SEQ)
-
-Services d'identification pour les plus hautes exigences en matière de force probante de la signature.
-Convient aux contrats avec des exigences formelles.<br>
+Services d'identification pour les plus hautes exigences en matière de force probante de la signature. Convient aux contrats avec des exigences formelles.
+{{% /heading %}}
 
 {{< button
   "Télécharger factsheet"
   "https://cdn2.hubspot.net/hubfs/5051692/Factstheets/Identification/Fran%C3%A7ais/Skribble_Overview_Identification_FR.pdf"
   "_blank"
-  "outline">}}
-
-{{% /richtext %}}
+  "outline"
+>}}
+{{< /richtext >}}
 {{< /side-by-side >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
@@ -116,13 +117,13 @@ Choisissez le bon modèle de prix pour votre organisation.
 
 {{< picture preismodelle 590 "Eine Frau mit roten Haaren vergliecht verschiedene Preismodelle." >}}
 
-{{% center %}}
+{{< center >}}
 {{< button
   "Comparer les modèles tarifaires"
   "fr/tarifs"
   ""
   "outline">}}
-{{% /center %}}
+{{< /center >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 

@@ -12,7 +12,7 @@ type: blank
   {{< picture image1 678 >}}
 </div>
 
-{{% richtext %}}
+{{< richtext >}}
 {{% heading left %}}
 # Rechtsgültig elektronisch signieren mit Skribble
 Signaturprozesse einfach digital abwickeln – rechtsgültig nach dem Schweizer & EU Gesetz.
@@ -27,7 +27,7 @@ Signaturprozesse einfach digital abwickeln – rechtsgültig nach dem Schweizer 
   "Basierend auf der qualifizierten elektronischen Signatur QES der Swisscom"
 >}}
 
-{{% /richtext %}}
+{{< /richtext >}}
 {{< /intro >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
@@ -35,11 +35,12 @@ Signaturprozesse einfach digital abwickeln – rechtsgültig nach dem Schweizer 
 {{< side-by-side >}}
 {{% richtext %}}
 ## Die qualifizierte elektronische Signatur wird mit Skribble einfach, intuitiv und effizient
-{{% fancy-list %}}
-- **Keine externe Hardware notwendig** Skribble ist sofort einsetzbar
-- **Mehrfachsignaturen anbringen** Mehrere Dokumente mit einem Klick signieren (Stapelsignatur)
-- **Zeitsparende Koordination** Per E-Mail zum Signieren einladen und erinnern
-{{% /fancy-list %}}
+- **Keine externe Hardware notwendig**
+Skribble ist sofort einsetzbar
+- **Mehrfachsignaturen anbringen**
+Mehrere Dokumente mit einem Klick signieren (Stapelsignatur)
+- **Zeitsparende Koordination**
+Per E-Mail zum Signieren einladen und erinnern
 {{% /richtext %}}
 
 {{< picture image4 391 "Drei personen signieren rechtsgültig zusammen ein online dokument" >}}
@@ -52,11 +53,12 @@ Signaturprozesse einfach digital abwickeln – rechtsgültig nach dem Schweizer 
 
 {{% richtext %}}
 ## Skribble erfüllt höchste rechtliche und technologische Standards
-{{% fancy-list %}}
-- **ZertEs & eIDAS** QES-Zertifikate von Swisscom
-- **DSG/ DSGVO** AES-256 Verschlüsselung
-- **Schweizer Hosting** FINMA-Konform, ISO 27001 zertifiziert
-{{% /fancy-list %}}
+- **ZertEs & eIDAS**
+QES-Zertifikate von Swisscom
+- **DSG/ DSGVO**
+AES-256 Verschlüsselung
+- **Schweizer Hosting**
+FINMA-Konform, ISO 27001 zertifiziert
 {{% /richtext %}}
 {{< /side-by-side >}}
 
@@ -69,7 +71,7 @@ Signaturprozesse einfach digital abwickeln – rechtsgültig nach dem Schweizer 
 
 {{< picture sav-special 200 "Blauer kreis mit der nummer 12" >}}
 
-{{% richtext %}}
+{{% richtext center %}}
 ## pro Monat / Nutzer anstatt CHF 25.-
 Signaturen können auch nutzerunabhängig bezogen werden.
 {{% /richtext %}}
@@ -86,11 +88,9 @@ Signaturen können auch nutzerunabhängig bezogen werden.
 
 Du benötigst nur ein Mobiltelefon und ein gültiges Ausweispapier (Pass oder Identitätskarte).
 
-{{% fancy-list %}}
 - **Skribble kommt bei dir vorbei**
 - **Wir identifzieren dich**
 - **Du bist sofort signierbereit**
-{{% /fancy-list %}}
 
 Eine Kanzlei kann auch dazu befähigt werden, selbst Personen zu identifizieren.
 
@@ -128,5 +128,5 @@ Erfahre mehr über das Angebot.
   </svg>
   +41 44 505 16 64
 </a>
-{{% /richtext %}}
+{{< /richtext >}}
 {{< /outro >}}

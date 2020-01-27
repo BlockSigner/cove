@@ -12,7 +12,7 @@ type: blank
   {{< picture image1 678 "trois personnes signent un document électronique" >}}
 </div>
 
-{{% richtext %}}
+{{< richtext >}}
 {{% heading left %}}
 # Signature électronique légalement valide avec Skribble
 Traiter les processus de signature numériquement &ndash; juridiquement valides selon le droit suisse et européen.
@@ -27,7 +27,7 @@ Traiter les processus de signature numériquement &ndash; juridiquement valides 
   "Basé sur la signature électronique qualifiée SEQ de Swisscom"
 >}}
 
-{{% /richtext %}}
+{{< /richtext >}}
 {{< /intro >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
@@ -35,11 +35,12 @@ Traiter les processus de signature numériquement &ndash; juridiquement valides 
 {{< side-by-side >}}
 {{% richtext %}}
 ## La signature électronique qualifiée avec Skribble simple, intuitif et efficace
-{{% fancy-list %}}
-- **Aucun matériel externe requis** Skribble peut être utilisé immédiatement
-- **Joindre plusieurs signatures** Signer plusieurs documents en un seul clic (signature groupées)
-- **Coordination rapide et efficace** Invitations à signer par courriel et rappels
-{{% /fancy-list %}}
+- **Aucun matériel externe requis**
+Skribble peut être utilisé immédiatement
+- **Joindre plusieurs signatures**
+Signer plusieurs documents en un seul clic (signature groupées)
+- **Coordination rapide et efficace**
+Invitations à signer par courriel et rappels
 {{% /richtext %}}
 
 {{< picture image4 391 "Trois personnes signent légalement ensemble un document en ligne" >}}
@@ -52,11 +53,12 @@ Traiter les processus de signature numériquement &ndash; juridiquement valides 
 
 {{% richtext %}}
 ## Skribble répond aux normes juridiques et technologiques les plus élevées.
-{{% fancy-list %}}
-- **SCSE & eIDAS** Certificats SEQ de Swisscom
-- **LPD/ RGDP** Chiffrement AES-256
-- **Hébergement en Suisse** Conforme FINMA, certifié ISO 27001
-{{% /fancy-list %}}
+- **SCSE & eIDAS**
+Certificats SEQ de Swisscom
+- **LPD/ RGDP**
+Chiffrement AES-256
+- **Hébergement en Suisse**
+Conforme FINMA, certifié ISO 27001
 {{% /richtext %}}
 {{< /side-by-side >}}
 
@@ -68,8 +70,8 @@ Traiter les processus de signature numériquement &ndash; juridiquement valides 
 {{% /heading %}}
 
 {{< picture sav-special 200 "Cercle bleu avec le chiffre 12" >}}
-{{% richtext %}}
 
+{{% richtext center %}}
 ## par mois / utilisateur au lieu de CHF 25.-
 Les signatures peuvent également être obtenues selon un modèle prépayé.
 {{% /richtext %}}
@@ -86,11 +88,9 @@ Les signatures peuvent également être obtenues selon un modèle prépayé.
 
 Tout ce dont tu as besoin c'est d'un téléphone portable et un document d'identification officiel. (passeport ou carte d'identité)
 
-{{% fancy-list %}}
 - **Skribble passe chez vous**
 - **Nous vous identifions**
 - **Vous êtes prêt à signer tout de suite**
-{{% /fancy-list %}}
 
 Un cabinet d'avocats peut également être qualifié pour le faire, pour identifier les gens vous-même.
 
@@ -107,7 +107,7 @@ Un cabinet d'avocats peut également être qualifié pour le faire, pour identif
 {{< outro >}}
 {{< picture image8 414 "Un homme se tient à côté d'un document électronique avec un stylo plume géan" >}}
 
-{{% richtext %}}
+{{< richtext >}}
 {{% heading %}}
 # Signez dès à présent électroniquement de manière légalement valide!
 En savoir plus sur l'offre.
@@ -128,5 +128,5 @@ En savoir plus sur l'offre.
   </svg>
   +41 44 505 16 64
 </a>
-{{% /richtext %}}
+{{< /richtext >}}
 {{< /outro >}}

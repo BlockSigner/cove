@@ -125,14 +125,16 @@ Die beiden Standards <br class="hide-for-mobile">variieren punkto Einsatzgebiet 
 >}}
 
 {{% richtext %}}
-**Auf Skribble kannst du zwischen <br class="hide-for-mobile">den Signaturstandards FES und QES wählen.**<br>
+**Auf Skribble kannst du zwischen
+den Signaturstandards FES und QES wählen.**
 {{% /richtext %}}
 {{< /cta >}}
 
 {{< content >}}
 {{% heading %}}
 # Lass dich identifizieren
-Damit schaltest du den höchsten verfügbaren E-Signatur-Standard QES frei. <br class="hide-for-mobile">Du benötigst nur ein gültiges Reisedokument (ID oder Pass).
+Damit schaltest du den höchsten verfügbaren E-Signatur-Standard QES frei.
+Du benötigst nur ein gültiges Reisedokument (ID oder Pass).
 {{% /heading %}}
 {{< picture "create-identity" 385 "Eine Lupe vergrössert das Bild einer Frau in einem Pass" >}}
 &nbsp;
@@ -144,9 +146,11 @@ Damit schaltest du den höchsten verfügbaren E-Signatur-Standard QES frei. <br 
 
 >}}
 {{% richtext %}}
-**Wähle einen Termin <br class="hide-for-mobile">aus und lass dich identifizieren**
+**Wähle einen Termin
+aus und lass dich identifizieren**
 {{% /richtext %}}
 {{< /cta >}}
+
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
 {{< testimonial "testimonial/procivis-146w.png" "Daniel Gasteiger, Gründer und CEO von Procivis (eID+)" >}}

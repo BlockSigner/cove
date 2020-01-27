@@ -106,7 +106,8 @@ Suitable for contracts with formal requirements.<br>
   "Download Factsheet"
   "https://cdn2.hubspot.net/hubfs/5051692/Factstheets/Identification/English/Skribble_Overview_Identification_EN.pdf"
   "_blank"
-  "outline">}}
+  "outline"
+>}}
 
 {{% /richtext %}}
 {{< /side-by-side >}}

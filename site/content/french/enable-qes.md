@@ -16,39 +16,39 @@ Déverrouillez la norme de signature électronique la plus élevée (SEQ) <br cl
 {{% /heading %}}
 
 {{< row >}}
-{{% step %}}
+{{< step >}}
 {{< picture "identification-step-1" 252 "Une loupe grossit l'image d'un homme dans un col" >}}
 {{% richtext %}}
 **Etape 1**<br>
 Prenez un rendez-vous d'identification <br class="hide-for-mobile">et passez en personne.
 {{% /richtext %}}
-{{% /step %}}
+{{< /step >}}
 
-{{% step %}}
+{{< step >}}
 {{< picture "identification-step-2" 158 "Une identité électronique sur un téléphone portable" >}}
 {{% richtext %}}
 **Etape 2**<br>
 La pièce d’identité de l’utilisateur est scannée et vérifiée avec l’ID-app de Swisscom.
 {{% /richtext %}}
-{{% /step %}}
+{{< /step >}}
 {{< /row >}}
 
 {{< row >}}
-{{% step %}}
+{{< step >}}
 {{< picture "identification-step-3" 270 "Un homme qui a été identifié électroniquement avec succès" >}}
 {{% richtext %}}
 **Etape 3**<br>
 Swisscom vérifie les données et les stocke en toute sécurité.
 {{% /richtext %}}
-{{% /step %}}
+{{< /step >}}
 
-{{% step %}}
+{{< step >}}
 {{< picture "identification-step-4" 270 "Une personne tient un document juridique entre ses mains. Le logo de swisscom se trouve à l'arrière-plan" >}}
 {{% richtext %}}
 **Etape 4**<br>
 La force probante de votre signature est portée à 100% (niveau SEQ)
 {{% /richtext %}}
-{{% /step %}}
+{{< /step >}}
 {{< /row >}}
 {{< /content >}}
 
@@ -110,13 +110,13 @@ Venez vous identifier gratuitement. Apportez votre passeport <br class="hide-for
 >}}
 
 {{% richtext %}}
-**Swisscom Shop**<br>
-Route de Matran 9<br>
-CH-1754 Avry<br>
+**Swisscom Shop**
+Route de Matran 9
+CH-1754 Avry
 
-**Horaires d'ouverture:**<br>
-Mo - Fr: 08.30 - 19.00<br>
-Do: 08.30 - 21.00<br>
+**Horaires d'ouverture:**
+Mo - Fr: 08.30 - 19.00
+Do: 08.30 - 21.00
 Sa: 09.00 - 16.00
 {{% /richtext %}}
 {{< /cta >}}
@@ -141,8 +141,8 @@ Sa: 09.00 - 16.00
 >}}
 
 {{% richtext %}}
-**Natel Profi**<br>
-Dorfstrasse 6<br>
+**Natel Profi**
+Dorfstrasse 6
 CH-3123 Belp
 {{% /richtext %}}
 {{< /cta >}}
@@ -168,8 +168,8 @@ CH-3123 Belp
 >}}
 
 {{% richtext %}}
-**Natel Spycher**<br>
-Belpstrasse 45<br>
+**Natel Spycher**
+Belpstrasse 45
 CH-3007 Bern
 {{% /richtext %}}
 {{< /cta >}}
@@ -195,11 +195,12 @@ CH-3007 Bern
 >}}
 
 {{% richtext %}}
-**Swisscom Shop**<br>
-Route de Riaz 18<br>
-CH-1630 Bulle<br><br>
-**Horaires d'ouverture:**<br>
-Mo - Fr: 09.00 - 18.30<br>
+**Swisscom Shop**
+Route de Riaz 18
+CH-1630 Bulle
+
+**Horaires d'ouverture:**
+Mo - Fr: 09.00 - 18.30
 Sa: 09.00 - 16.00
 {{% /richtext %}}
 {{< /cta >}}
@@ -225,12 +226,13 @@ Sa: 09.00 - 16.00
 >}}
 
 {{% richtext %}}
-**Swisscom Shop**<br>
-Avenue de la Gare 22<br>
-CH-1700 Fribourg<br><br>
-**Horaires d'ouverture:**<br>
-Mo - Fr: 08.30 - 19.00<br>
-Do: 08.30 - 21.00<br>
+**Swisscom Shop**
+Avenue de la Gare 22
+CH-1700 Fribourg
+
+**Horaires d'ouverture:**
+Mo - Fr: 08.30 - 19.00
+Do: 08.30 - 21.00
 Sa: 09.00 - 16.00
 {{% /richtext %}}
 {{< /cta >}}
@@ -256,10 +258,10 @@ Sa: 09.00 - 16.00
 >}}
 
 {{% richtext %}}
-**Skribble AG**<br>
-FlexOffice<br>
-Fraumünsterstrasse 16<br>
-CH-8001 Zurich<br><br>
+**Skribble AG**
+FlexOffice
+Fraumünsterstrasse 16
+CH-8001 Zurich
 {{% /richtext %}}
 {{< /cta >}}
 

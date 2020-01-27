@@ -9,24 +9,27 @@ slug: preise
 {{< content >}}
 {{% heading %}}
 # Signiere einfacher </br> mit dem passenden Preismodell
-Skribble eignet sich sowohl für gelegentliches</br>wie auch für häufiges Signieren.
+Skribble eignet sich sowohl für gelegentliches
+wie auch für häufiges Signieren.
 {{% /heading %}}
-{{% action-card
+{{< action-card
   title="Free"
   class="free"
   description="<p>Du signierst <strong>2 Mal pro Monat kostenlos.</strong> Keine Kreditkarte erforderlich.</p>"
   button-text="Jetzt kostenlos ausprobieren"
   button-link="https://my.skribble.com/signup?lang=de"
-  subtext="Konto jederzeit löschbar. Keine Kreditkarte notwendig."%}}
-    {{< picture free-visual 232 "" >}}
-{{% /action-card %}}
+  subtext="Konto jederzeit löschbar. Keine Kreditkarte notwendig."
+>}}
+  {{< picture free-visual 232 "" >}}
+{{< /action-card >}}
 
 {{% heading class="price-separator" %}}
 ## Signierst du häufiger?
-Nach dem Registrieren kannst du jederzeit auf </br> eines der folgenden Modelle umstellen:
+Nach dem Registrieren kannst du jederzeit auf
+eines der folgenden Modelle umstellen:
 {{% /heading %}}
 
-{{% action-card
+{{< action-card
   title="Fair Flat"
   class="fair"
   description="<p>Geeignet für dich, wenn du <strong>mehr als 2 Mal pro Monat</strong> selbst signierst oder andere zum Signieren einlädst.</p><p class='top-spaced'>Maximal</p><p><strong>CHF <span class='large'>2.50</span> pro Signatur</strong></p><p>bis zu einer Obergrenze von</p><p><strong>CHF <span class='large'>30.-</span> pro Monat</strong></p>"
@@ -34,16 +37,17 @@ Nach dem Registrieren kannst du jederzeit auf </br> eines der folgenden Modelle 
   comparison-caption="Lädst du andere zum Signieren ein, kommen weitere 2.50.- pro Signatur dazu."
   button-text="Jetzt ausprobieren"
   button-link="https://my.skribble.com/signup?lang=de"
-  subtext="Keine Abonnementsverpflichtungen. Die ersten zwei Signaturen sind jeden Monat kostenlos."%}}
+  subtext="Keine Abonnementsverpflichtungen. Die ersten zwei Signaturen sind jeden Monat kostenlos."
+>}}
     {{< picture fair-flat-visual 290 "" >}}
-{{% /action-card %}}
+{{< /action-card >}}
 
 
 {{% heading class="price-separator" %}}
 ## Oder
 {{% /heading %}}
 
-{{% action-card
+{{< action-card
   title="Business"
   class="business"
   description="<p>Du nutzt Skribble in deiner Organisation. Die Benutzerverwaltung ist zentralisiert, die Verrechnung erfolgt einheitlich auf Rechnung.</p>"
@@ -55,13 +59,14 @@ Nach dem Registrieren kannst du jederzeit auf </br> eines der folgenden Modelle 
   comparison-caption="Die Preise sinken deutlich, wenn mehr signiert wird oder mit einem anderen Standard."
   button-text="Jetzt beraten lassen"
   button-link="https://help.skribble.com/meetings/patrick182/call-mit-skribble"
-  subtext=""%}}
+  subtext=""
+>}}
     {{< picture business-visual 270 "" >}}
-{{% /action-card %}}
+{{< /action-card >}}
 
 {{< /content >}}
 
-{{% show-hide-button button-text="Preismodelle im Detail vergleichen"%}}
+{{< show-hide-button button-text="Preismodelle im Detail vergleichen" >}}
 {{< table-dense id="price-table" >}}
 <thead>
 <tr>
@@ -232,7 +237,7 @@ Nach dem Registrieren kannst du jederzeit auf </br> eines der folgenden Modelle 
 
 {{< /table-dense >}}
 
-{{% /show-hide-button %}}
+{{< /show-hide-button >}}
 
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
@@ -247,7 +252,7 @@ Nach dem Registrieren kannst du jederzeit auf </br> eines der folgenden Modelle 
 {{< picture package-6-1-out 100 "" >}}
 
 {{% richtext %}}
-**Wann brauchst du welchen Signaturstandard?**<br>
+**Wann brauchst du welchen Signaturstandard?**
 {{% /richtext %}}
 {{< /cta >}}
 {{< cta
@@ -259,7 +264,7 @@ Nach dem Registrieren kannst du jederzeit auf </br> eines der folgenden Modelle 
 {{< picture qes-erklaert 122 "Signiert mit Skribble bedeutet rechtsgültig (QES) signiert nach Schweizer und EU-Gesetz." >}}
 
 {{% richtext %}}
-**Du interssierst dich für Zusatzservices im Bereich der Identifikation?**<br>
+**Du interssierst dich für Zusatzservices im Bereich der Identifikation?**
 {{% /richtext %}}
 {{< /cta >}}
 {{< /cta-group >}}

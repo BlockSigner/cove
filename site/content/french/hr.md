@@ -119,7 +119,7 @@ Comment nous, chez Skribble, facilitons la vie quotidienne de nos clients.
 >}}
 
 {{% richtext %}}
-**Téléchargez le cas d'utilisation easyJet :**<br>
+**Téléchargez le cas d'utilisation easyJet :**
 {{% /richtext %}}
 {{< /cta >}}
 
@@ -142,7 +142,7 @@ Sur Skribble, vous pouvez choisir entre les deux.
 >}}
 
 {{% richtext %}}
-**Chez Skribble vous avez le choix entre les normes de signature SEA et SEQ.**<br>
+**Chez Skribble vous avez le choix entre les normes de signature SEA et SEQ.**
 {{% /richtext %}}
 {{< /cta >}}
 

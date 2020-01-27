@@ -14,7 +14,9 @@ description: Conditions Générales (CG) de Skribble SA
 Ce qui suit s'applique entre vous en tant que client (Vous ou Client) de la plateforme e-signing Skribble (Services Skribble) et Skribble SA, Fraumünsterstrasse 16, 8001 Zurich, Suisse, respectivement Skribble Deutschland GmbH, Pforzheimer Straße 128a, 76275 Ettlingen, Allemagne (Skribble) :
 
 ## A – Dispositions Générales
-{{% legal-list %}}
+{{% /richtext %}}
+
+{{% richtext legal %}}
 ### Champ d’application et conclusion du contrat
 1. Les présentes CG s'appliquent à tous les services fournis par Skribble au Client.
 2. Si vous êtes un Client ayant le domicile ou le siège en Suisse ou en dehors de l'UE, vous entrez en relation juridique avec Skribble AG, Bahnhofstrasse 3, 8001 Zurich. Si vous êtes un Client ayant le domicile ou le siège dans l'UE, vous entrez en relation juridique avec Skribble Deutschland GmbH, Pforzheimer Straße 128a, 76275 Ettlingen, Allemagne.
@@ -24,10 +26,13 @@ Ce qui suit s'applique entre vous en tant que client (Vous ou Client) de la plat
 ### Objet du contrat
 1. Pour signer des documents avec une signature électronique avancée ou qualifiée, une authentification du signataire ainsi qu’une signature créée par un service certifié, soit un fournisseur de services de certification ("Certification Authority"), sont nécessaires.
 2. Skribble intégrera ces deux composants dans son service avec différents partenaires de confiance qui répondent aux exigences de la SCSE et/ou eIDAS afin de créer des signatures électroniques qualifiées (SEQ) ou des signatures électroniques avancées (SEA) de la manière la plus simple possible.
-{{% /legal-list %}}
+{{% /richtext %}}
 
+{{% richtext %}}
 ## B - Relation contractuelle
-{{% legal-list %}}
+{{% /richtext %}}
+
+{{% richtext legal %}}
 ### Clients et utilisateurs du système
 1. Client : Un client Skribble peut être une personne morale ou une personne physique.
 2. Utilisateur du Système : Un Utilisateur du Système est une personne physique qui est autorisée à utiliser les Services Skribble conformément aux Conditions d'Utilisation et qui a été identifiée par le Client comme autorisée à utiliser les Services Skribble.
@@ -41,21 +46,26 @@ Skribble fournit les comptes suivants :
 ### Contrat Client et Conditions d'Utilisation
 1. Le Client en tant que propriétaire d'un Compte Client a une relation contractuelle avec Skribble avec le Contrat Client.
 4. Les Utilisateurs du Système doivent accepter les Conditions d'utilisation et la Politique de Confidentialité de Skribble ainsi que les conditions générales du fournisseur de service de certification afin d'utiliser les Services Skribble.
+{{% /richtext %}}
 
-{{% /legal-list %}}
-
+{{% richtext %}}
 ## C - Prestations de Skribble
-{{% legal-list %}}
+{{% /richtext %}}
+
+{{% richtext legal %}}
 ### Services Skribble et autres services
 1. Skribble s'engage à fournir les Services Skribble au Client en tant que service principal dans le cadre du Contrat Client. Les Services Skribble et les conditions d'utilisation sont décrits dans le Contrat Client.
 
 ### Garantie
 1. Un défaut insignifiant ne donne lieu à aucune réclamation pour défauts ; l'article C.2.2. s'applique en sus ; en cas de réclamations pour défauts, Skribble a le choix du type d'exécution ultérieure. Un délai de prescription d'un an s'applique à compter du transfert du risque, le délai de prescription ne commençant pas à courir à nouveau si Skribble effectue une livraison de remplacement dans le cadre de la responsabilité pour défauts.
 2. Les dispositions suivantes complètent la clause C.2.1. : Si Skribble transmet des services ou contenus de tiers dans le cadre des services Skribble, la garantie de Skribble est exclue dans son intégralité. Toutefois, Skribble transmettra au Client les garanties que Skribble reçoit de tiers en relation avec ces services. Skribble n'a aucune autre obligation de garantie.
-{{% /legal-list %}}
+{{% /richtext %}}
 
+{{% richtext %}}
 ## D - Activation des Utilisateurs du Système
-{{% legal-list %}}
+{{% /richtext %}}
+
+{{% richtext legal %}}
 ### Activation des Utilisateurs du Système sur les Services Skribble
 1. Après l'entrée en vigueur du Contrat Client, Skribble fournira au Client les données d'accès au Compte Client, ce qui lui permettra de créer des Comptes Utilisateur, respectivement d'activer des Utilisateurs Système.
 
@@ -63,19 +73,25 @@ Skribble fournit les comptes suivants :
 1.  Le Client peut à tout moment demander des prestations supplémentaires contre paiement de frais d'utilisation supplémentaires.
 2. La réduction des services dépend de l'abonnement du Client.
 
-{{% /legal-list %}}
+{{% /richtext %}}
 
+{{% richtext %}}
 ## E - Données
-{{% legal-list %}}
+{{% /richtext %}}
+
+{{% richtext legal %}}
 ### Confidentialité et protection des données
 1. La Politique de Confidentialité de Skribble décrit en détail le traitement des données qui a lieu dans le cadre de votre utilisation des Services Skribble, des appareils locaux et des appareils mobiles.
 
 ### Collecte de données
 1. Le Client doit fournir les informations spécifiées dans le Contrat Client ou dans les Services Skribble.
-{{% /legal-list %}}
+{{% /richtext %}}
 
+{{% richtext %}}
 ## F - Droits d’usage et droits de propriété intellectuelle
-{{% legal-list %}}
+{{% /richtext %}}
+
+{{% richtext legal %}}
 ### Droit d’usage
 1. Le droit d’usage des Services Skribble naît du paiement intégral de la rémunération initiale par le Client et reste en vigueur aussi longtemps que le Client a continué à payer la rémunération due jusqu'à l'échéance.
 2. Le droit d’usage des Services Skribble permet aux Utilisateurs du Système d'utiliser les Services Skribble conformément à l'usage auxquels ils sont destinés, de façon non exclusive, limitée dans le temps, non transférable et non sous-licenciable en conformité avec l’abonnement souscrit.
@@ -84,10 +100,13 @@ Skribble fournit les comptes suivants :
 ### Droits de propriété intellectuelle
 1.  En ouvrant un Compte Client, le Client reconnaît que les droits sur la plate-forme Skribble appartiennent à Skribble (ou à ses partenaires contractuels).
 2. Vous n'êtes pas autorisé, en tout ou en partie, à copier, redistribuer ou rendre disponible le contenu des Services Skribble par framing ou par une autre méthode. En aucun cas, il n'est permis de publier du contenu Skribble non public en dehors des Services Skribble.
-{{% /legal-list %}}
+{{% /richtext %}}
 
+{{% richtext %}}
 ## G - Rémunération, facturation, modalités de paiement
-{{% legal-list %}}
+{{% /richtext %}}
+
+{{% richtext legal %}}
 ### Frais d'utilisation et autres rémunérations
 1. A la conclusion du contrat, le Client s'engage à verser la rémunération convenue.
 2. Si Skribble fournit au Client des prestations supplémentaires payantes, le Client est tenu de payer la rémunération prévue pour ces prestations (rémunération du matériel, formation, etc.).
@@ -100,10 +119,13 @@ Skribble fournit les comptes suivants :
 
 ### Exclusion de la compensation
 1. Aucune des parties n'a le droit d'imputer ses créances envers le cocontractant sur ses obligations de paiement envers le cocontractant.
-{{% /legal-list %}}
+{{% /richtext %}}
 
+{{% richtext %}}
 ## H - Obligations et garanties du Client
-{{% legal-list %}}
+{{% /richtext %}}
+
+{{% richtext legal %}}
 ### Obligations du Client
 Le Client s'engage à ce qui suit :
 
@@ -117,10 +139,13 @@ Le Client s'engage à ce qui suit :
 
 ### Garanties du Client
 1. Le Client garantit à Skribble qu'il respectera et appliquera activement les Conditions d'Utilisation dans ses relations avec les Utilisateurs du Système.
-{{% /legal-list %}}
+{{% /richtext %}}
 
+{{% richtext %}}
 ## I - Conclusion du contrat, durée, résiliation, suspension
-{{% legal-list %}}
+{{% /richtext %}}
+
+{{% richtext legal %}}
 ### Conclusion du contrat, durée et résiliation
 1. La relation contractuelle commence avec la conclusion du Contrat Client.
 2. La durée de l'abonnement résulte du Contrat Client.
@@ -143,16 +168,19 @@ Le Client s'engage à ce qui suit :
 1. A la résiliation du contrat, Skribble supprimera le Compte Client et tous les Comptes Utilisateurs, y compris les données et documents contenus dans les Comptes Utilisateurs.
 2. Les obligations de paiement en cours ainsi que les droits et obligations qui, expressément ou selon leur nature, ne sont pas affectés par une résiliation du présent contrat, survivent après la résiliation du présent contrat. Skribble n'est pas obligé de rembourser le Client pour toute rémunération déjà payée.
 
-{{% /legal-list %}}
+{{% /richtext %}}
 
+{{% richtext %}}
 ## J - Divers
-{{% legal-list %}}
+{{% /richtext %}}
+
+{{% richtext legal %}}
 ### Responsabilité
 1. Skribble est responsable de toutes les prétentions contractuelles, quasi contractuelles et légales, y compris les prétentions en responsabilité délictuelle, pour les dommages et le remboursement des frais conformément aux dispositions des articles J.1.2. à J.1.3. Toute autre responsabilité de la part de Skribble est exclue.
 2. Skribble est responsable sans limitation pour quelque motif juridique que ce soit
-  1. en cas de dol ou de faute grave,
-  2. en cas de négligence ou d'atteinte intentionnelle à la vie, à l'intégrité physique ou à la santé,
-  3. en raison d'une responsabilité obligatoire, par exemple en vertu de la Loi sur la responsabilité du fait      des produits.
+    1. en cas de dol ou de faute grave,
+    2. en cas de négligence ou d'atteinte intentionnelle à la vie, à l'intégrité physique ou à la santé,
+    3. en raison d'une responsabilité obligatoire, par exemple en vertu de la Loi sur la responsabilité du fait      des produits.
 3. Si Skribble viole par négligence une obligation contractuelle essentielle, la responsabilité est limitée au dommage prévisible typique du contrat, sauf si la responsabilité est illimitée conformément à l'article J.1.2. Les obligations contractuelles essentielles sont, par exemple, les obligations dont l'exécution est essentielle à la bonne exécution du contrat et dont le Client peut régulièrement se prévaloir. Les obligations contractuelles essentielles sont alors celles que le contrat impose à Skribble dans le but de promouvoir l'objet même du contrat.
 4. Les dispositions de responsabilité ci-dessus s'appliquent également à la responsabilité de Skribble pour ses auxiliaires et représentants légaux.
 5. Skribble n'est ni un prestataire de services de certification ni une autorité de certification au sens de la loi fédérale sur la signatures électronique (SCSE). Skribble n'est pas non plus un services de confiance (qualifié) au sens du règlement du Parlement européen et du Conseil sur l'identification électronique et les services de confiance électroniques pour les transactions électroniques au sein du marché intérieur (eIDAS n° 910/2014). Skribble décline donc toute responsabilité pour les dommages causés principalement ou exclusivement en relation avec les services du prestataire de services de certification ou de l'autorité de certification.
@@ -177,15 +205,14 @@ Le Client s'engage à ce qui suit :
 
 ### For juridique
 1. Si le contrat du client a été conclu avec Skribble SA conformément à l'article A.1.2., les dispositions suivantes s'appliquent :
-  1. Les relations juridiques entre vous et Skribble existant dans le cadre des présentes CG sont régies par le droit suisse, à l'exclusion de la Convention des Nations Unies sur les contrats de vente internationale de marchandises du 11 avril 1980.
-  2. Le for exclusif pour tous les litiges relatifs aux présentes CG est Zurich, Suisse. Toutefois, Skribble est en tout état de cause en droit de faire valoir ses droits devant le tribunal du siège social du Client.
+    1. Les relations juridiques entre vous et Skribble existant dans le cadre des présentes CG sont régies par le droit suisse, à l'exclusion de la Convention des Nations Unies sur les contrats de vente internationale de marchandises du 11 avril 1980.
+    2. Le for exclusif pour tous les litiges relatifs aux présentes CG est Zurich, Suisse. Toutefois, Skribble est en tout état de cause en droit de faire valoir ses droits devant le tribunal du siège social du Client.
 2. Si le contrat du client a été conclu avec Skribble Deutschland GmbH conformément à l'article A.1.2., les dispositions suivantes s'appliquent :
-  1. Les relations juridiques entre vous et Skribble existant dans le cadre des présentes CG sont régies par le droit allemand, à l'exclusion de la Convention des Nations Unies sur les contrats de vente internationale de marchandises du 11 avril 1980.
-  2. Le for exclusif pour tous les litiges relatifs aux présentes CG est Ettlingen, Allemagne. Toutefois, Skribble est en tout état de cause en droit de faire valoir ses droits devant le tribunal du siège social du Client.
-
-{{% /legal-list %}}
+    1. Les relations juridiques entre vous et Skribble existant dans le cadre des présentes CG sont régies par le droit allemand, à l'exclusion de la Convention des Nations Unies sur les contrats de vente internationale de marchandises du 11 avril 1980.
+    2. Le for exclusif pour tous les litiges relatifs aux présentes CG est Ettlingen, Allemagne. Toutefois, Skribble est en tout état de cause en droit de faire valoir ses droits devant le tribunal du siège social du Client.
+{{% /richtext %}}
+{{% richtext center %}}
 ## * * *
-
 {{% /richtext %}}
 {{< /content >}}
 

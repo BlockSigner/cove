@@ -13,22 +13,23 @@ og_image: og/og-skribble-service.jpg
 # Signez plus facilement <br class="hide-for-mobile">avec le bon modèle tarifaire
 Skribble convient tant aux signatures occasionnelles <br class="hide-for-mobile">qu'aux signatures fréquentes
 {{% /heading %}}
-{{% action-card
+{{< action-card
   title="Free"
   class="free"
   description="<p>Vous signez <strong>gratuitement jusqu'à 2 fois par mois.</strong> Aucune carte de crédit requis.</p>"
   button-text="Essayer maintenant"
   button-link="https://my.skribble.com/signup?lang=fr"
-  subtext="Le compte peut être supprimé à tout moment. Aucune carte de crédit requis."%}}
+  subtext="Le compte peut être supprimé à tout moment. Aucune carte de crédit requis."
+>}}
     {{< picture free-visual 232 "" >}}
-{{% /action-card %}}
+{{< /action-card >}}
 
 {{% heading class="price-separator" %}}
 ## Vous signez plus souvent?
 Après l'enregistrement, vous pouvez à tout moment passer <br class="hide-for-mobile">à l'un des modèles tarifaires suivants:
 {{% /heading %}}
 
-{{% action-card
+{{< action-card
   title="Fair Flat"
   class="fair"
   description="<p>Vous signez personnellement ou obtenez <strong>plus de deux signatures par mois.</strong></p><p class='top-spaced'>Maximum</p><p><strong>CHF <span class='large'>2.50</span> par signature</strong></p><p>jusqu'à un plafond de</p><p><strong>CHF <span class='large'>30.-</span> par mois</strong></p>"
@@ -36,15 +37,16 @@ Après l'enregistrement, vous pouvez à tout moment passer <br class="hide-for-m
   comparison-caption="L'invitation de nouveau signataires coûte 2.50.– par signature."
   button-text="Essayer maintenant"
   button-link="https://my.skribble.com/signup?lang=fr"
-  subtext="Aucune obligation d'abonnement. Les deux premières signatures sont gratuites tous les mois."%}}
+  subtext="Aucune obligation d'abonnement. Les deux premières signatures sont gratuites tous les mois."
+>}}
     {{< picture fair-flat-visual 290 "" >}}
-{{% /action-card %}}
+{{< /action-card >}}
 
 {{% heading class="price-separator" %}}
 ## Ou
 {{% /heading %}}
 
-{{% action-card
+{{< action-card
   title="Business"
   class="business"
   description="<p>Vous utilisez Skribble dans votre organisation. L'administration des utilisateurs est centrée, la facturation est uniforme par facture.</p>"
@@ -56,13 +58,14 @@ Après l'enregistrement, vous pouvez à tout moment passer <br class="hide-for-m
   comparison-caption="Les prix diminuent significativement en fonction du volume de signatures ou en signant avec une norme différente."
   button-text="Obtenir des conseils"
   button-link="https://help.skribble.com/meetings/patrick182/consultation-telephone-skribble"
-  subtext=""%}}
+  subtext=""
+>}}
     {{< picture business-visual 270 "" >}}
-{{% /action-card %}}
+{{< /action-card >}}
 
 {{< /content >}}
 
-{{% show-hide-button button-text="Comparer les forfaits en détails"%}}
+{{< show-hide-button button-text="Comparer les forfaits en détails" >}}
 {{< table-dense id="price-table" >}}
 <thead>
 <tr>
@@ -227,8 +230,7 @@ Après l'enregistrement, vous pouvez à tout moment passer <br class="hide-for-m
 
 {{< /table-dense >}}
 
-{{% /show-hide-button %}}
-
+{{< /show-hide-button >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
@@ -242,7 +244,7 @@ Après l'enregistrement, vous pouvez à tout moment passer <br class="hide-for-m
 {{< picture package-6-1-out 100 "" >}}
 
 {{% richtext %}}
-**Quelle norme de signature pour quelle situation?**<br>
+**Quelle norme de signature pour quelle situation?**
 {{% /richtext %}}
 {{< /cta >}}
 {{< cta
@@ -254,7 +256,7 @@ Après l'enregistrement, vous pouvez à tout moment passer <br class="hide-for-m
 {{< picture qes-erklaert 122 "Signiert mit Skribble bedeutet rechtsgültig (QES) signiert nach Schweizer und EU-Gesetz." >}}
 
 {{% richtext %}}
-**Vous êtes intéressé par des services complémentaires dans le domaine de l'identification**<br>
+**Vous êtes intéressé par des services complémentaires dans le domaine de l'identification**
 {{% /richtext %}}
 {{< /cta >}}
 {{< /cta-group >}}

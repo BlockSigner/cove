@@ -12,7 +12,8 @@ og_image: og/og-skribble-identification.jpg
 {{< content >}}
 {{% heading %}}
 # Fonctionnalités de Skribble
-Avec Skribble, votre signature est non seulement <br class="hide-for-mobile">légalement valable, mais aussi simple.
+Avec Skribble, votre signature est non seulement
+légalement valable, mais aussi simple.
 {{% /heading %}}
 {{< /content >}}
 
@@ -80,6 +81,7 @@ Notre vision est grande. Nous développons Skribble jour après jour.
 
 {{< /features-container >}}
 <br><br>
+
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
 {{< outro >}}

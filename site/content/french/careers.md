@@ -13,16 +13,13 @@ og_image: og/og-career.jpg
 # Travailler chez Skribble
 Collaborer et progresser avec des personnes motivées et inspirantes. <br class="hide-for-mobile">Nous te permettons de surmonter des nouveaux challenges <br class="hide-for-mobile">et de développer Skribble et toi-même.
 {{% /heading %}}
+
 {{< picture career 640 "3 candidats avec leurs listes de contrôle" >}}
 
-{{% / content %}}
-[//]: # (--------------------------------------------------------------------------------------------------------------)
-
 {{% richtext %}}
-{{< content >}}
 ## Nous recherchons :
-{{< /content >}}
 {{% /richtext %}}
+{{< /content >}}
 
 {{< cta
   label="Plus d'info"
@@ -31,7 +28,7 @@ Collaborer et progresser avec des personnes motivées et inspirantes. <br class=
   outlined="true"
 >}}
 {{% richtext %}}
-**Sales Manager, Allemagne (100%)**<br>
+**Sales Manager, Allemagne (100%)**
 (Annonce en Allemand)
 {{% /richtext %}}
 {{< /cta >}}

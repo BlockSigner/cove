@@ -29,7 +29,7 @@ Skribble, gegründet im März 2018, ist ein Schweizer Anbieter von elektronische
 {{< picture image13 100 "Kira Leuthold Content & Communications bei Skribble" >}}
 
 {{% richtext %}}
-**Kira Leuthold**<br>
+**Kira Leuthold**
 Communications & Public Relations
 {{% /richtext %}}
 {{< /cta >}}
@@ -48,90 +48,90 @@ Die wichtigsten Skribble Branding Assets sind gleich hier griffbereit:
 {{% /richtext %}}
 {{< /cta >}}
 
-{{% table "Medienmitteilungen" %}}
+{{< table "Medienmitteilungen" >}}
 <tr>
   <td>19.09.2019</td>
-  <td>**EXPERTsuisse kooperiert mit Skribble**</td>
+  <td><strong>EXPERTsuisse kooperiert mit Skribble</strong></td>
   <td>
     <a href="downloads/20190919-Medienmitteilung-EXPERTsuisse-kooperiert-mit-Skribble.pdf" target="_blank">Download</a>
   </td>
 </tr>
 <tr>
   <td>11.09.2019</td>
-  <td>**ZKB Investiert in Skribble**</td>
+  <td><strong>ZKB Investiert in Skribble</strong></td>
   <td>
     <a href="downloads/20190911-Medienmitteilung-ZKB-investiert-in-Skribble.pdf" target="_blank">Download</a>
   </td>
 </tr>
 <tr>
   <td>03.09.2019</td>
-  <td>**Momentum für E-Signatur ist da**</td>
+  <td><strong>Momentum für E-Signatur ist da</strong></td>
   <td>
     <a href="downloads/20190903-Das-Momentum-für-die-elektronische-Signatur-ist-da.pdf" target="_blank">Download</a>
   </td>
 </tr>
 <tr>
   <td>26.08.2019</td>
-  <td>**Open House im Trust Square**</td>
+  <td><strong>Open House im Trust Square</strong></td>
   <td>
     <a href="downloads/20190826-Digitaltag-im-Trust-Square-mit-Skribble.pdf" target="_blank">Download</a>
   </td>
 </tr>
 <tr>
   <td>22.05.2019</td>
-  <td>**Finanzierungsrunde abgeschlossen**</td>
+  <td><strong>Finanzierungsrunde abgeschlossen</strong></td>
   <td>
     <a href="downloads/20190522-medienmitteilung-skribble-abschluss-finanzierungsrunde.pdf" target="_blank">Download</a>
   </td>
 </tr>
 <tr>
   <td>09.04.2019</td>
-  <td>**Partnerschaft mit Procivis**</td>
+  <td><strong>Partnerschaft mit Procivis</strong></td>
   <td>
     <a href="downloads/20190409-press-release-procivis-skribble-collaboration.pdf" target="_blank">Download</a>
   </td>
 </tr>
 <tr>
   <td style="width:10%;">27.03.2019</td>
-  <td style="width:80%;">**Skribble Go-Live**</td>
+  <td style="width:80%;"><strong>Skribble Go-Live</strong></td>
   <td style="width:10%;">
     <a href="downloads/20190327-medienmitteilung-skribble-go-live.pdf" target="_blank">Download</a>
   </td>
 </tr>
-{{% /table %}}
+{{< /table >}}
 
 
-{{% table "Skribble in den Medien (Auswahl)" %}}
+{{< table "Skribble in den Medien (Auswahl)" >}}
 <tr>
   <td style="width:10%;">15.11.2019</td>
-  <td style="width:80%;">**Der Organisator - KMU Digital**</td>
+  <td style="width:80%;"><strong>Der Organisator - KMU Digital</strong></td>
   <td style="width:10%;">
     <a href="downloads/20191115_Der_Organisator_Skribble.pdf" target="_blank">Download</a>
   </td>
 </tr>
 <tr>
-  <td style="width:10%;">31.10.2019</td>
-  <td style="width:80%;">**Handelszeitung - Digitale Unterschrift**</td>
-  <td style="width:10%;">
+  <td>31.10.2019</td>
+  <td><strong>Handelszeitung - Digitale Unterschrift</strong></td>
+  <td>
     <a href="downloads/20191031-Handelzeitung.pdf" target="_blank">Download</a>
   </td>
 </tr>
 <tr>
-  <td style="width:10%;">25.09.2019</td>
-  <td style="width:80%;">**HR-Today – Newstar Skribble**</td>
-  <td style="width:10%;">
+  <td>25.09.2019</td>
+  <td><strong>HR-Today – Newstar Skribble</strong></td>
+  <td>
     <a href="downloads/20190925_HRToday_Skribble.pdf" target="_blank">Download</a>
   </td>
 </tr>
 <tr>
-  <td style="width:10%;">11.01.2019</td>
-  <td style="width:80%;">**Swisscom - Swiss RegTech Startup Map**</td>
-  <td style="width:10%;">
+  <td>11.01.2019</td>
+  <td><strong>Swisscom - Swiss RegTech Startup Map</strong></td>
+  <td>
     <a href="downloads/20190111_Swisscom_RegTechMap_Skribble.pdf" target="_blank">Download</a>
   </td>
 </tr>
 
-{{% /table %}}
+{{< /table >}}
 
 
 {{< outro >}}
