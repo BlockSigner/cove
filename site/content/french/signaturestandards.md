@@ -39,11 +39,11 @@ Pour signer avec la SEQ sur Skribble, un contrôle d'identité préalable avec c
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
 {{< cta-group >}}
-{{% cta
+{{< cta
   label="En savoir plus"
   href="fr/debloquez-qes"
   outlined="true"
-%}}
+>}}
 
 {{< picture "Identifizieren" 112 "Vérification d'identité" >}}
 
@@ -51,14 +51,14 @@ Pour signer avec la SEQ sur Skribble, un contrôle d'identité préalable avec c
 **Vérification d'identité**<br>
 Comment déverrouiller la SEQ sur Skribble
 {{% /richtext %}}
-{{% /cta %}}
+{{< /cta >}}
 
 
-{{% cta
+{{< cta
   label="Vers le validateur SEQ"
   href="fr/validateur-qes"
   outlined="true"
-%}}
+>}}
 
 {{< picture "qes-erklaert" 122 "Valider la SEQ" >}}
 
@@ -66,7 +66,7 @@ Comment déverrouiller la SEQ sur Skribble
 **Valider la SEQ**<br>
 Vérifiez si un document a été signé avec la SEQ
 {{% /richtext %}}
-{{% /cta %}}
+{{< /cta >}}
 {{< /cta-group >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
@@ -120,18 +120,18 @@ C'est le cas pour la plupart des types de contrats, tels que les contrats de loc
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{% cta
+{{< cta
   label="Contacter Skribble"
   href="mailto:info@skribble.com"
   outlined=""
-%}}
+>}}
 
 {{< picture "contact" 92 "Vous avez des questions ? Nous nous ferons un plaisir de vous aider." >}}
 
 {{% richtext %}}
 **Vous avez des questions? <br class="hide-for-mobile">Nous nous ferons un plaisir de vous aider.**<br>
 {{% /richtext %}}
-{{% /cta %}}
+{{< /cta >}}
 
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
@@ -139,7 +139,7 @@ C'est le cas pour la plupart des types de contrats, tels que les contrats de loc
 {{< outro >}}
 {{< picture image8 414 "Un homme se tient à côté d'un document électronique avec un stylo plume géant" >}}
 
-{{% richtext %}}
+{{< richtext >}}
 {{% heading %}}
 # Signer légalement <br class="hide-for-mobile">et numériquement maintenant!
 Aucune carte de crédit, aucun droit d'entrée <br class="hide-for-mobile">ou engagement n'est requis.
@@ -150,5 +150,5 @@ Aucune carte de crédit, aucun droit d'entrée <br class="hide-for-mobile">ou en
   "https://my.skribble.com/signup?lang=fr"
   "_blank"
 >}}
-{{% /richtext %}}
+{{< /richtext >}}
 {{< /outro >}}

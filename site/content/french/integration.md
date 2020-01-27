@@ -9,7 +9,7 @@ og_image: og/og-skribble-identification.jpg
 
 ---
 
-{{% content class="no-bottom-padding" %}}
+{{< content >}}
 {{% heading %}}
 # Intégration de Skribble
 Avec Skribble, vous choisissez une plate-forme de cloud <br class="hide-for-mobile">qui allie sécurité technologique et simplicité.
@@ -50,7 +50,7 @@ Avec Skribble, vous choisissez une plate-forme de cloud <br class="hide-for-mobi
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{% content class="no-bottom-padding" %}}
+{{< content >}}
 {{% heading %}}
 # Avec Skribble, vous travaillez selon <br class="hide-for-mobile">les plus hauts standards de technologie et de sécurité.
 {{% /heading %}}
@@ -92,7 +92,7 @@ Skribble porte le label <br class="hide-for-mobile"><a href="https://www.swissma
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{% content class="no-bottom-padding" %}}
+{{< content >}}
 {{% heading %}}
 # Essayez l'API
 Vous pouvez créer une clé de démonstration <br class="hide-for-mobile">dans votre compte Skribble Business.
@@ -107,12 +107,12 @@ Vous pouvez créer une clé de démonstration <br class="hide-for-mobile">dans v
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
 {{< cta-group >}}
-{{% cta
+{{< cta
   label="Documentation API"
   href="https://doc.skribble.com/"
   outlined="true"
   target="_blank"
-%}}
+>}}
 
 {{< picture "api-dok" 140 "Une fenêtre d'interface utilisateur avec un contrat et un engrenage" >}}
 
@@ -120,7 +120,7 @@ Vous pouvez créer une clé de démonstration <br class="hide-for-mobile">dans v
 **Documentation API**<br>
 Consultez notre documentation API.<br class="hide-for-mobile">(en Anglais)
 {{% /richtext %}}
-{{% /cta %}}
+{{< /cta >}}
 {{< /cta-group >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
@@ -128,7 +128,7 @@ Consultez notre documentation API.<br class="hide-for-mobile">(en Anglais)
 {{< outro >}}
 {{< picture image8 414 "Un homme se tient à côté d'un document électronique avec un stylo plume géant" >}}
 
-{{% richtext %}}
+{{< richtext >}}
 {{% heading %}}
 # Signer légalement <br class="hide-for-mobile">et numériquement maintenant!
 Aucune carte de crédit, aucun droit d'entrée <br class="hide-for-mobile">ou engagement n'est requis.
@@ -139,5 +139,5 @@ Aucune carte de crédit, aucun droit d'entrée <br class="hide-for-mobile">ou en
   "https://my.skribble.com/signup?lang=fr"
   "_blank"
 >}}
-{{% /richtext %}}
+{{< /richtext >}}
 {{< /outro >}}

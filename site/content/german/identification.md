@@ -20,16 +20,16 @@ Für das Signieren mit höchstem E-Signatur-Standard (QES) müssen <br class="hi
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{% cta
+{{< cta
   label="Download Factsheet"
   href="https://cdn2.hubspot.net/hubfs/5051692/Skribble%20Overview/Skribble_Overview_Identification.pdf"
   target="_blank"
   outlined="true"
-%}}
+>}}
 {{% richtext %}}
 **Identitätsprüfung für die QES – <br class="hide-for-mobile">Skribble macht es einfach**
 {{% /richtext %}}
-{{% /cta %}}
+{{< /cta >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
@@ -57,11 +57,11 @@ Eine wachsende Anzahl Menschen in Europa verfügt über eine geprüfte elektroni
 
 {{< /content >}}
 
-{{% cta
+{{< cta
   label="Telefontermin vereinbaren"
   href="https://help.skribble.com/meetings/patrick182/call-mit-skribble"
   target="_blank"
-%}}
+>}}
 
 {{< picture consult 92 "Identifikation für die QES. Lass dich beraten und finde die passende Identifikations-Lösung für deine Firma." >}}
 
@@ -69,7 +69,7 @@ Eine wachsende Anzahl Menschen in Europa verfügt über eine geprüfte elektroni
 **Identifikation für die QES**<br>
 Lass dich beraten und finde die passende Identifikations-Lösung für deine Firma.
 {{% /richtext %}}
-{{% /cta %}}
+{{< /cta >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
@@ -118,25 +118,25 @@ Passend, wenn laufend <br class="hide-for-mobile">neue Signierende <br class="hi
 {{< /row >}}
 {{< /content >}}
 
-{{% cta
+{{< cta
   label="Telefontermin vereinbaren"
   href="https://help.skribble.com/meetings/patrick182/call-mit-skribble"
   target="_blank"
-%}}
+>}}
 
 {{< picture consult 92 "Identifikation für die QES. Lass dich beraten und finde die passende Identifikations-Lösung für deine Firma." >}}
 
 {{% richtext %}}
 **Hast du Fragen? <br class="hide-for-mobile">Wir helfen dir gerne telefonisch weiter.**
 {{% /richtext %}}
-{{% /cta %}}
+{{< /cta >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
 {{< outro >}}
 {{< picture image8 414 "Ein mann steht mit einem riesen füller neben einem elektronischen dokument" >}}
 
-{{% richtext %}}
+{{< richtext >}}
 # Jetzt rechtsgültig elektronisch signieren!
 Keine Kreditkarte, Eintrittsgebühr oder Verpflichtung erforderlich.
 
@@ -145,5 +145,5 @@ Keine Kreditkarte, Eintrittsgebühr oder Verpflichtung erforderlich.
   "https://my.skribble.com/signup?lang=de"
   "_blank"
 >}}
-{{% /richtext %}}
+{{< /richtext >}}
 {{< /outro >}}

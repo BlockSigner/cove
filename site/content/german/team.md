@@ -202,5 +202,5 @@ Keine Kreditkarte, Eintrittsgebühr oder Verpflichtung erforderlich.
   "https://my.skribble.com/signup?lang=de"
   "_blank"
 >}}
-{{% /richtext %}}
+{{< /richtext >}}
 {{< /outro >}}

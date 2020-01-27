@@ -98,7 +98,7 @@ Skribble sowie Partner verwalten ihre Daten gemäss dem Bundesgesetz über den D
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{% content class="no-bottom-padding" %}}
+{{< content >}}
 {{% heading %}}
 # Unser Kunden haben gut lachen
 Wie wir den Alltag unserer Kunden erleichtern.
@@ -109,17 +109,17 @@ Wie wir den Alltag unserer Kunden erleichtern.
 "Im schnelllebigen HR-Umfeld ist es wichtig, so effizient wie möglich zu sein. Das war mit unserem analogen Signaturprozess bisher schwierig, denn ich bin ständig auf Achse zwischen verschiedenen Standorten"
 {{< /testimonial >}}
 
-{{% cta
+{{< cta
   label="Download Use-Case"
   href="https://cdn2.hubspot.net/hubfs/5051692/Factstheets/Use%20Cases/easyJet_Skribble_Use-Case_DE.pdf"
   outlined="true"
   target="_blank"
-%}}
+>}}
 
 {{% richtext %}}
 **Lade den easyJet Use-Case herunter:**<br>
 {{% /richtext %}}
-{{% /cta %}}
+{{< /cta >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
@@ -135,16 +135,16 @@ Die beiden Standards <br class="hide-for-mobile">variieren punkto Einsatzgebiet 
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{% cta
+{{< cta
   label="Erfahre mehr"
   href="/de/signaturstandards/"
   outlined="true"
-%}}
+>}}
 
 {{% richtext %}}
 **Auf Skribble kannst du zwischen <br class="hide-for-mobile">den Signaturstandards FES und QES wählen.**<br>
 {{% /richtext %}}
-{{% /cta %}}
+{{< /cta >}}
 
 {{< content >}}
 {{% heading %}}
@@ -155,15 +155,15 @@ Damit schaltest du den höchsten verfügbaren E-Signatur-Standard QES frei. <br 
 &nbsp;
 {{< /content >}}
 
-{{% cta
+{{< cta
   label="Termin vereinbaren"
   href="/de/qes-freischalten/"
 
-%}}
+>}}
 {{% richtext %}}
 **Wähle einen Termin <br class="hide-for-mobile">aus und lass dich identifizieren**
 {{% /richtext %}}
-{{% /cta %}}
+{{< /cta >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
@@ -204,7 +204,7 @@ Die QES ist zeitlich uneingeschränkt rechtsgültig.
 {{< outro >}}
 {{< picture image8 414 "Ein mann steht mit einem riesen füller neben einem elektronischen dokument" >}}
 
-{{% richtext %}}
+{{< richtext >}}
 {{% heading %}}
 # Jetzt rechtsgültig elektronisch signieren!
 Keine Kreditkarte, Eintrittsgebühr oder <br class="hide-for-mobile">Verpflichtung erforderlich.
@@ -215,5 +215,5 @@ Keine Kreditkarte, Eintrittsgebühr oder <br class="hide-for-mobile">Verpflichtu
   "https://my.skribble.com/signup?lang=de"
   "_blank"
 >}}
-{{% /richtext %}}
+{{< /richtext >}}
 {{< /outro >}}

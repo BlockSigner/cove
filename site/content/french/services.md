@@ -35,15 +35,15 @@ Plus vous achetez de signatures dans un forfait prépayé, plus le prix unitaire
 {{% /richtext %}}
 {{< /content >}}
 
-{{% cta
+{{< cta
   label="Demander un devis maintenant"
   href="mailto:info@skribble.com"
   target="_blank"
-%}}
+>}}
 {{% richtext %}}
 **Vous souhaitez en savoir plus sur nos tarifs?**
 {{% /richtext %}}
-{{% /cta %}}
+{{< /cta >}}
 
 {{< content >}}
 
@@ -65,20 +65,20 @@ Convient si vous utilisez la SEQ avec un nombre de personnes prédéfini.
 {{< /row >}}
 {{< /content >}}
 
-{{% cta
+{{< cta
   label="Plus d'informations sur l'identification"
   href="fr/identification"
   target="_blank"
-%}}
+>}}
 {{% richtext %}}
 **Le contrôle d'identité ne se fait qu'une fois, directement par l'ID-app de Swisscom.**
 {{% /richtext %}}
-{{% /cta %}}
+{{< /cta >}}
 
 {{< outro >}}
 {{< picture image8 414 "Un homme se tient à côté d'un document électronique avec un stylo plume géant" >}}
 
-{{% richtext %}}
+{{< richtext >}}
 {{% heading %}}
 # Signer légalement <br class="hide-for-mobile">et numériquement maintenant!
 Aucune carte de crédit, aucun droit d'entrée <br class="hide-for-mobile">ou engagement n'est requis.
@@ -89,5 +89,5 @@ Aucune carte de crédit, aucun droit d'entrée <br class="hide-for-mobile">ou en
   "https://my.skribble.com/signup?lang=fr"
   "_blank"
 >}}
-{{% /richtext %}}
+{{< /richtext >}}
 {{< /outro >}}

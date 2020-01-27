@@ -15,10 +15,11 @@ draft: false
   {{< picture image1 678 "drei personen signieren ein elektronisches dokument" >}}
 </div>
 
-{{% richtext %}}
+{{< richtext >}}
 {{% heading left %}}
 # Rechtsgültig elektronisch signieren mit Skribble
-Signaturprozesse einfach digital abwickeln – <br class="hide-for-mobile">rechtsgültig nach dem Schweizer & EU Gesetz.
+Signaturprozesse einfach digital abwickeln –
+rechtsgültig nach dem Schweizer & EU Gesetz.
 {{% /heading %}}
 
 <div class="hide-for-desktop">
@@ -36,7 +37,7 @@ Signaturprozesse einfach digital abwickeln – <br class="hide-for-mobile">recht
   "Basierend auf Signaturzertifikaten der Swisscom"
 >}}
 
-{{% /richtext %}}
+{{< /richtext >}}
 {{< /intro >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
@@ -82,10 +83,11 @@ Lade die signierenden Personen per E-Mail ein und lege die Signatur-Reihenfolge 
 {{< side-by-side >}}
 {{% richtext %}}
 ## Rechtsgültig signieren
-Signiere per Knopfdruck, unabhängig <br class="hide-for-mobile">von Zeit und Ort, rechtsgültig nach Schweizer <br class="hide-for-mobile">und EU-Recht.
+Signiere per Knopfdruck, unabhängig
+von Zeit und Ort, rechtsgültig nach Schweizer
+und EU-Recht.
 {{% /richtext %}}
-
-
+{{< picture image4 391 "Three people legally sign a document online" >}}
 {{< /side-by-side >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
@@ -98,13 +100,13 @@ Signiere per Knopfdruck, unabhängig <br class="hide-for-mobile">von Zeit und Or
 
 {{< picture skribble-ui-de 1020 "Skribble plattform - user interface" >}}
 
-{{% center %}}
+{{< center >}}
 {{< button
   "Alle Funktionen anzeigen"
   "de/features"
   ""
   "outline">}}
-{{% /center %}}
+{{< /center >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
@@ -132,8 +134,10 @@ Skribble sowie Partner verwalten ihre Daten gemäss dem Bundesgesetz über den D
 {{< content >}}
 {{% heading %}}
 # Mit Skribble maximierst du <br class="hide-for-mobile">die Beweiskraft deiner Signatur
-Das Gesetz unterscheidet zwischen der qualifizierten E-Signatur (QES) <br class="hide-for-mobile">und der fortgeschrittenen E-Signatur (FES).
-Die beiden Standards <br class="hide-for-mobile">variieren punkto Einsatzgebiet und Beweiskraft.
+Das Gesetz unterscheidet zwischen der qualifizierten E-Signatur (QES)
+und der fortgeschrittenen E-Signatur (FES).
+Die beiden Standards
+variieren punkto Einsatzgebiet und Beweiskraft.
 {{% /heading %}}
 
 {{< picture beweiskraft 664 "Ein Mann unterschreibt mit einem Füller digitale Dokumente nach Schweizer und Europäischen Recht" >}}
@@ -141,21 +145,23 @@ Die beiden Standards <br class="hide-for-mobile">variieren punkto Einsatzgebiet 
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{% cta
+{{< cta
   label="Erfahre mehr"
   href="/de/signaturstandards/"
   outlined="true"
-%}}
+>}}
 
 {{% richtext %}}
-**Auf Skribble kannst du zwischen <br class="hide-for-mobile">den Signaturstandards FES und QES wählen.**<br>
+**Auf Skribble kannst du zwischen
+den Signaturstandards FES und QES wählen.**
 {{% /richtext %}}
-{{% /cta %}}
+{{< /cta >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
 {{< testimonial "testimonial/fr-logo-99w.svg" "Stéphane Schwab, Leiter E-Government, Kanton Freiburg" >}}
-"Dank Skribble können wir Administrationsprozesse von A bis Z digitalisieren. Das erleichtert <br class="hide-for-mobile">den Alltag für uns und unseren Kunden." {{< /testimonial >}}
+"Dank Skribble können wir Administrationsprozesse von A bis Z digitalisieren. Das erleichtert
+den Alltag für uns und unseren Kunden." {{< /testimonial >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
@@ -163,10 +169,11 @@ Die beiden Standards <br class="hide-for-mobile">variieren punkto Einsatzgebiet 
 {{< outro >}}
 {{< picture image8 414 "Ein mann steht mit einem riesen füller neben einem elektronischen dokument" >}}
 
-{{% richtext %}}
+{{< richtext >}}
 {{% heading %}}
 # Jetzt rechtsgültig elektronisch signieren!
-Keine Kreditkarte, Eintrittsgebühr oder <br class="hide-for-mobile">Verpflichtung erforderlich.
+Keine Kreditkarte, Eintrittsgebühr oder
+Verpflichtung erforderlich.
 {{% /heading %}}
 
 {{< button
@@ -174,5 +181,5 @@ Keine Kreditkarte, Eintrittsgebühr oder <br class="hide-for-mobile">Verpflichtu
   "https://my.skribble.com/signup?lang=de"
   "_blank"
 >}}
-{{% /richtext %}}
+{{< /richtext >}}
 {{< /outro >}}

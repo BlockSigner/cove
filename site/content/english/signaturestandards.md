@@ -50,7 +50,7 @@ You use QES to maximise the legal weight of your contracts or when the law requi
 **Identity check**
 This is how you unlock QES on Skribble
 {{% /richtext %}}
-{{% /cta %}}
+{{< /cta >}}
 
 
 {{< cta

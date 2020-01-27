@@ -11,7 +11,7 @@ map:
   subtitle: Gleich beim Paradeplatz, im Herzen von Zürich
   columns:
     - title: Zürich
-      picture:      
+      picture:
         name: map-zurich
         alt: Karte des Skribble Office in Zürich
         url: https://g.page/skribblehq?share
@@ -19,13 +19,13 @@ map:
         title: Skribble AG
         full: |
           Fraumünsterstrasse 16
-          CH-8001 Zürich    
-        email: info@skribble.com 
-        opening_hours: 
-          title: Öffnungszeiten  
+          CH-8001 Zürich
+        email: info@skribble.com
+        opening_hours:
+          title: Öffnungszeiten
           description: 9 bis 17 Uhr
     - title: Karlsruhe (Ettlingen)
-      picture:      
+      picture:
         name: map-karlsruhe
         alt: Karte des Skribble Office in Karlsruhe
         url: https://g.page/skribble-ettlingen?share
@@ -34,8 +34,8 @@ map:
         full: |
           Pforzheimer Str. 128
           DE-76275 Ettlingen
-        email: info@skribble.com 
-        opening_hours: 
+        email: info@skribble.com
+        opening_hours:
           title: Öffnungszeiten
           description: 9 bis 17 Uhr
 
@@ -45,7 +45,7 @@ map:
 {{< outro >}}
 {{< picture image8 414 "Ein mann steht mit einem riesen füller neben einem elektronischen dokument" >}}
 
-{{% richtext %}}
+{{< richtext >}}
 {{% heading %}}
 # Jetzt rechtsgültig elektronisch signieren!
 Keine Kreditkarte, Eintrittsgebühr oder Verpflichtung erforderlich.
@@ -56,5 +56,5 @@ Keine Kreditkarte, Eintrittsgebühr oder Verpflichtung erforderlich.
   "https://my.skribble.com/signup?lang=de"
   "_blank"
 >}}
-{{% /richtext %}}
+{{< /richtext >}}
 {{< /outro >}}

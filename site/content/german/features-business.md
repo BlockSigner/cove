@@ -9,7 +9,7 @@ og_image: og/og-skribble-identification.jpg
 
 ---
 
-{{% content class="no-bottom-padding" %}}
+{{< content >}}
 {{% heading %}}
 # Business-Features
 Skribble Business Kunden signieren als Organisation – <br class="hide-for-mobile">mit zentraler Mitgliederverwaltung und gemeinsamer Abrechnung.
@@ -45,7 +45,7 @@ Skribble Business Kunden signieren als Organisation – <br class="hide-for-mobi
     description="Sehe die aktuelle und alle vergangenen Rechnungen jederzeit ein.">}}
 {{< /features-container >}}
 
-{{% content class="no-bottom-padding" %}}
+{{< content >}}
 {{% heading %}}
 # Skribble Business bettet sich <br class="hide-for-mobile">in deine bestehende Infrastruktur ein
 Das Onboarding neuer Signierenden ist intuitiv und schnell.
@@ -67,18 +67,20 @@ Das Onboarding neuer Signierenden ist intuitiv und schnell.
     description="Externe Personen müssen über kein Skribble-Konto verfügen, um deine Dokumente zu signieren.">}}
 
 {{< /features-container >}}
-<br><br>
+
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
 {{< testimonial "testimonial/fr-logo-99w.svg" "Stéphane Schwab, Leiter E-Government, Kanton Freiburg" >}}
-"Dank Skribble können wir Administrationsprozesse von A bis Z digitalisieren. Das erleichtert <br class="hide-for-mobile">den Alltag für uns und unseren Kunden." {{< /testimonial >}}
+"Dank Skribble können wir Administrationsprozesse von A bis Z digitalisieren. Das erleichtert
+den Alltag für uns und unseren Kunden."{{< /testimonial >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{% content class="no-bottom-padding" %}}
+{{< content >}}
 {{% heading %}}
 # Organisationsweite Einführung <br class="hide-for-mobile">ist einfach und schnell
-Befähige neue und bestehende Mitarbeitende in kürzester Zeit <br class="hide-for-mobile">zum elektronischen Signieren. Wähle den Onboarding-Prozess, der zu deinem Anspruch an Beweiskraft bzw. zum gewünschten Signatur-Standard passt.
+Befähige neue und bestehende Mitarbeitende in kürzester Zeit
+zum elektronischen Signieren. Wähle den Onboarding-Prozess, der zu deinem Anspruch an Beweiskraft bzw. zum gewünschten Signatur-Standard passt.
 {{% /heading %}}
 {{< /content >}}
 
@@ -91,7 +93,7 @@ Befähige neue und bestehende Mitarbeitende in kürzester Zeit <br class="hide-f
 ## Onboarding für die qualifizierte elektronische Signatur (QES)
 
 Identifikationsservices für höchste Ansprüche an die Beweiskraft der Signatur.
-Geeignet für Verträge mit Formvorschrift.<br>
+Geeignet für Verträge mit Formvorschrift.
 
 {{< button
   "Download Factsheet"
@@ -104,7 +106,7 @@ Geeignet für Verträge mit Formvorschrift.<br>
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{% content class="no-bottom-padding" %}}
+{{< content >}}
 {{% heading %}}
 # Ideales Kosten-Nutzen-Verhältnis
 Wähle das passende Preismodell für deine Organisation
@@ -113,27 +115,29 @@ Wähle das passende Preismodell für deine Organisation
 
 {{< picture preismodelle 590 "Eine Frau mit roten Haaren vergliecht verschiedene Preismodelle." >}}
 
-{{% center %}}
+{{< center >}}
 {{< button
   "Preismodelle vergleichen"
   "de/preise"
   ""
   "outline">}}
-{{% /center %}}
+{{< /center >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
 {{< outro >}}
 {{< picture image8 414 "Ein mann steht mit einem riesen füller neben einem elektronischen dokument" >}}
 
+{{< heading >}}
 {{% richtext %}}
 # Jetzt rechtsgültig elektronisch signieren!
 Keine Kreditkarte, Eintrittsgebühr oder Verpflichtung erforderlich.
+{{% /richtext %}}
 
 {{< button
   "Jetzt ausprobieren"
   "https://my.skribble.com/signup?lang=de"
   "_blank"
 >}}
-{{% /richtext %}}
+{{< /heading >}}
 {{< /outro >}}

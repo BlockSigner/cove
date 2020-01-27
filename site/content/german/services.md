@@ -34,15 +34,15 @@ Je mehr, desto günstiger
 {{% /richtext %}}
 {{< /content >}}
 
-{{% cta
+{{< cta
   label="Jetzt Offerte anfordern"
   href="mailto:info@skribble.com"
   target="_blank"
-%}}
+>}}
 {{% richtext %}}
 **Möchtest du mehr über unsere Preise erfahren?**
 {{% /richtext %}}
-{{% /cta %}}
+{{< /cta >}}
 
 {{< content >}}
 
@@ -63,20 +63,20 @@ Passend, wenn du die QES in einem vordefinierten Personenkreis einsetzt.
 {{< /row >}}
 {{< /content >}}
 
-{{% cta
+{{< cta
   label="Weitere Infos zur Identifikation"
   href="/identification"
   target="_blank"
-%}}
+>}}
 {{% richtext %}}
 **Die Identitätsprüfung erfolgt einmalig im persönlichen Kontakt mit der ID-App von Swisscom.**
 {{% /richtext %}}
-{{% /cta %}}
+{{< /cta >}}
 
 {{< outro >}}
 {{< picture image8 414 "Ein mann steht mit einem riesen füller neben einem elektronischen dokument" >}}
 
-{{% richtext %}}
+{{< richtext >}}
 {{% heading %}}
 # Jetzt rechtsgültig elektronisch signieren!
 Keine Kreditkarte, Eintrittsgebühr oder Verpflichtung erforderlich.
@@ -87,5 +87,5 @@ Keine Kreditkarte, Eintrittsgebühr oder Verpflichtung erforderlich.
   "https://my.skribble.com/signup?lang=de"
   "_blank"
 >}}
-{{% /richtext %}}
+{{< /richtext >}}
 {{< /outro >}}

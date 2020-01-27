@@ -21,36 +21,36 @@ Mit dem Validator der Schweizer Bundesverwaltung kannst du prüfen, <br class="h
 {{% /richtext %}}
 {{< /content >}}
 
-{{% cta
+{{< cta
   label="Zum QES-Validator"
   href="https://www.e-service.admin.ch/validator/upload/all/de"
   target="_blank"
   outlined="true"
-%}}
+>}}
 {{< picture "ch-logo" 122 >}}
 {{% richtext %}}
 **Ein Service der Schweizer Bundesverwaltung**
 {{% /richtext %}}
-{{% /cta %}}
+{{< /cta >}}
 
-{{% cta
+{{< cta
   label="Mehr erfahren"
   href="de/signaturstandards"
   target=""
   outlined="true"
-%}}
+>}}
 {{< picture "qes-erklaert" 122 >}}
 {{% richtext %}}
 **Was ist die qualifizierte <br class="hide-for-mobile">elektronische Signatur (QES)?**
 {{% /richtext %}}
-{{% /cta %}}
+{{< /cta >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
 {{< outro >}}
 {{< picture image8 414 "Ein mann steht mit einem riesen füller neben einem elektronischen dokument" >}}
 
-{{% richtext %}}
+{{< richtext >}}
 {{% heading %}}
 # Jetzt rechtsgültig elektronisch signieren!
 Keine Kreditkarte, Eintrittsgebühr oder Verpflichtung erforderlich.
@@ -61,5 +61,5 @@ Keine Kreditkarte, Eintrittsgebühr oder Verpflichtung erforderlich.
   "https://my.skribble.com/signup?lang=de"
   "_blank"
 >}}
-{{% /richtext %}}
+{{< /richtext >}}
 {{< /outro >}}

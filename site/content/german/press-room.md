@@ -19,12 +19,12 @@ Hier findest du alles was du brauchst, um über Skribble zu schreiben.
 Skribble, gegründet im März 2018, ist ein Schweizer Anbieter von elektronischen Signaturen mit Büros in Zürich (CH) und Karlsruhe (DE). Die TrustTech-Firma ermöglicht es, elektronische Dokumente einfach rechtsgültig zu signieren. Die Grundlage bilden gesetzlich geregelte Standards, unter anderem die qualifizierte elektronische Signatur (QES) – die einzige Form der elektronischen Signatur, die der handschriftlichen Unterschrift vor dem Gesetz gleichgestellt ist. Die staatlich anerkannte Zertifizierungstechnologie für die QES liefert Swisscom. Zu den bestehenden Kunden gehört unter Anderem der Kanton Freiburg. Skribble zählt 15 Mitarbeitende.
 {{< /content >}}
 
-{{% cta
+{{< cta
   label="Kontakt"
   href="mailto:kira@skribble.com"
   title="Medienkontakt"
   outlined="true"
-%}}
+>}}
 
 {{< picture image13 100 "Kira Leuthold Content & Communications bei Skribble" >}}
 
@@ -32,21 +32,21 @@ Skribble, gegründet im März 2018, ist ein Schweizer Anbieter von elektronische
 **Kira Leuthold**<br>
 Communications & Public Relations
 {{% /richtext %}}
-{{% /cta %}}
+{{< /cta >}}
 
-{{% cta
+{{< cta
   label="Download"
   href="downloads/Skribble-Brand-Assets.zip"
   title="Brand-Assets"
   outlined="true"
-%}}
+>}}
 
 {{< picture image14 106 "Notizbuch mit vielen informationen über skribble" >}}
 
 {{% richtext %}}
 Die wichtigsten Skribble Branding Assets sind gleich hier griffbereit:
 {{% /richtext %}}
-{{% /cta %}}
+{{< /cta >}}
 
 {{% table "Medienmitteilungen" %}}
 <tr>
@@ -137,7 +137,7 @@ Die wichtigsten Skribble Branding Assets sind gleich hier griffbereit:
 {{< outro >}}
 {{< picture image8 414 "Ein mann steht mit einem riesen füller neben einem elektronischen dokument" >}}
 
-{{% richtext %}}
+{{< richtext >}}
 {{% heading %}}
 # Jetzt rechtsgültig elektronisch signieren!
 Keine Kreditkarte, Eintrittsgebühr oder Verpflichtung erforderlich.
@@ -148,5 +148,5 @@ Keine Kreditkarte, Eintrittsgebühr oder Verpflichtung erforderlich.
   "https://my.skribble.com/signup?lang=de"
   "_blank"
 >}}
-{{% /richtext %}}
+{{< /richtext >}}
 {{< /outro >}}

@@ -99,7 +99,7 @@ for quality, reliability and precision in software development.
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{% content class="no-bottom-padding" %}}
+{{< content >}}
 {{% heading %}}
 # Try out the API
 You can create a demo key in your Skribble Business account.

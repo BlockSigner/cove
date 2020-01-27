@@ -118,16 +118,16 @@ Die beiden Standards <br class="hide-for-mobile">variieren punkto Einsatzgebiet 
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{% cta
+{{< cta
   label="Erfahre mehr"
   href="/de/signaturstandards/"
   outlined="true"
-%}}
+>}}
 
 {{% richtext %}}
 **Auf Skribble kannst du zwischen <br class="hide-for-mobile">den Signaturstandards FES und QES wählen.**<br>
 {{% /richtext %}}
-{{% /cta %}}
+{{< /cta >}}
 
 {{< content >}}
 {{% heading %}}
@@ -138,15 +138,15 @@ Damit schaltest du den höchsten verfügbaren E-Signatur-Standard QES frei. <br 
 &nbsp;
 {{< /content >}}
 
-{{% cta
+{{< cta
   label="Termin vereinbaren"
   href="/de/qes-freischalten/"
 
-%}}
+>}}
 {{% richtext %}}
 **Wähle einen Termin <br class="hide-for-mobile">aus und lass dich identifizieren**
 {{% /richtext %}}
-{{% /cta %}}
+{{< /cta >}}
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
 {{< testimonial "testimonial/procivis-146w.png" "Daniel Gasteiger, Gründer und CEO von Procivis (eID+)" >}}
@@ -186,7 +186,7 @@ Die QES ist zeitlich uneingeschränkt rechtsgültig.
 {{< outro >}}
 {{< picture image8 414 "Ein mann steht mit einem riesen füller neben einem elektronischen dokument" >}}
 
-{{% richtext %}}
+{{< richtext >}}
 {{% heading %}}
 # Jetzt rechtsgültig elektronisch signieren!
 Keine Kreditkarte, Eintrittsgebühr oder <br class="hide-for-mobile">Verpflichtung erforderlich.
@@ -197,5 +197,5 @@ Keine Kreditkarte, Eintrittsgebühr oder <br class="hide-for-mobile">Verpflichtu
   "https://my.skribble.com/signup?lang=de"
   "_blank"
 >}}
-{{% /richtext %}}
+{{< /richtext >}}
 {{< /outro >}}

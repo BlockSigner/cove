@@ -18,16 +18,16 @@ Pour la signature électronique qualifiée (SEQ), <br class="hide-for-mobile">le
 {{< picture identification 482 "L'identité d'une femme debout dans un téléphone portable est vérifiée par deux personnes" >}}
 &nbsp;
 {{< /content >}}
-{{% cta
+{{< cta
   label="Télécharger factsheet"
   href="https://cdn2.hubspot.net/hubfs/5051692/Skribble%20Overview/Skribble_Overview_Identification_FR.pdf"
   target="_blank"
   outlined="true"
-%}}
+>}}
 {{% richtext %}}
 **Vérification d'identité pour SEQ - Skribble rend l'utilisation facile**<br>
 {{% /richtext %}}
-{{% /cta %}}
+{{< /cta >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
@@ -56,11 +56,11 @@ Un nombre croissant de personnes en Europe a une identité électronique vérifi
 {{< /content >}}
 
 
-{{% cta
+{{< cta
   label="Fixer un rendez-vous"
   href="https://help.skribble.com/meetings/patrick182/consultation-telephone-skribble"
   target="_blank"
-%}}
+>}}
 
 {{< picture consult 92 "Identification pour l'EQS. Laissez-nous vous conseiller et trouver la bonne solution d'identification pour votre entreprise." >}}
 
@@ -68,7 +68,7 @@ Un nombre croissant de personnes en Europe a une identité électronique vérifi
 **Identification pour la SEQ**<br>
 Laissez-nous vous conseiller et trouvez <br class="hide-for-mobile">la solution d'identification idéale pour votre entreprise.
 {{% /richtext %}}
-{{% /cta %}}
+{{< /cta >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
@@ -119,23 +119,23 @@ Approprié si de nouveaux signataires SEQ sont constamment ajoutés.
 {{< /content >}}
 
 
-{{% cta
+{{< cta
   label="Organiser un appel"
   href="https://help.skribble.com/meetings/patrick182/identification-chez-skribble"
   target="_blank"
-%}}
+>}}
 {{< picture consult 92 "Identification pour le QES. Laissez-nous vous conseiller et trouver la bonne solution d'identification pour votre entreprise." >}}
 {{% richtext %}}
 **Des questions?<br>Nous nous ferons un plaisir de vous aider.**
 {{% /richtext %}}
-{{% /cta %}}
+{{< /cta >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
 {{< outro >}}
 {{< picture image8 414 "Un homme se tient à côté d'un document électronique avec un stylo plume géant" >}}
 
-{{% richtext %}}
+{{< richtext >}}
 {{% heading %}}
 # Signer légalement <br class="hide-for-mobile">et numériquement maintenant!
 Aucune carte de crédit, aucun droit d'entrée <br class="hide-for-mobile">ou engagement n'est requis.
@@ -146,5 +146,5 @@ Aucune carte de crédit, aucun droit d'entrée <br class="hide-for-mobile">ou en
   "https://my.skribble.com/signup?lang=fr"
   "_blank"
 >}}
-{{% /richtext %}}
+{{< /richtext >}}
 {{< /outro >}}

@@ -107,7 +107,7 @@ Eine Kanzlei kann auch dazu befähigt werden, selbst Personen zu identifizieren.
 {{< outro >}}
 {{< picture image8 414 "Ein mann steht mit einem riesen füller neben einem elektronischen dokument" >}}
 
-{{% richtext %}}
+{{< richtext >}}
 {{% heading %}}
 # Jetzt rechtsgültig elektronisch signieren
 Erfahre mehr über das Angebot.

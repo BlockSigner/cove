@@ -238,30 +238,30 @@ Nach dem Registrieren kannst du jederzeit auf </br> eines der folgenden Modelle 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
 {{< cta-group >}}
-{{% cta
+{{< cta
   label="Mehr erfahren"
   href="de/signaturstandards"
   outlined="true"
-%}}
+>}}
 
 {{< picture package-6-1-out 100 "" >}}
 
 {{% richtext %}}
 **Wann brauchst du welchen Signaturstandard?**<br>
 {{% /richtext %}}
-{{% /cta %}}
-{{% cta
+{{< /cta >}}
+{{< cta
   label="Mehr erfahren"
   href="de/identifikation"
   outlined="true"
-%}}
+>}}
 
 {{< picture qes-erklaert 122 "Signiert mit Skribble bedeutet rechtsgültig (QES) signiert nach Schweizer und EU-Gesetz." >}}
 
 {{% richtext %}}
 **Du interssierst dich für Zusatzservices im Bereich der Identifikation?**<br>
 {{% /richtext %}}
-{{% /cta %}}
+{{< /cta >}}
 {{< /cta-group >}}
 
 
@@ -270,7 +270,7 @@ Nach dem Registrieren kannst du jederzeit auf </br> eines der folgenden Modelle 
 {{< outro >}}
 {{< picture image8 414 "Ein mann steht mit einem riesen füller neben einem elektronischen dokument" >}}
 
-{{% richtext %}}
+{{< richtext >}}
 {{% heading %}}
 # Jetzt rechtsgültig elektronisch signieren!
 Keine Kreditkarte, Eintrittsgebühr oder Verpflichtung erforderlich.
@@ -281,5 +281,5 @@ Keine Kreditkarte, Eintrittsgebühr oder Verpflichtung erforderlich.
   "https://my.skribble.com/signup?lang=de"
   "_blank"
 >}}
-{{% /richtext %}}
+{{< /richtext >}}
 {{< /outro >}}

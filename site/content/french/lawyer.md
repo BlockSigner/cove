@@ -116,16 +116,16 @@ Sur Skribble, vous pouvez choisir entre les deux.
 
 {{< picture force_probante 664 "Force_Probante" >}}
 
-{{% cta
+{{< cta
   label="En savoir plus"
   href="/fr/normessignature/"
   outlined="true"
-%}}
+>}}
 
 {{% richtext %}}
 **Chez Skribble vous avez le choix entre les normes de signature SEA et SEQ.**<br>
 {{% /richtext %}}
-{{% /cta %}}
+{{< /cta >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
@@ -139,14 +139,14 @@ Cela débloque la norme de signature électronique <br class="hide-for-mobile">l
 &nbsp;
 {{< /content >}}
 
-{{% cta
+{{< cta
   label="Organiser un rendez-vous"
   href="/fr/debloquez-qes/"
-%}}
+>}}
 {{% richtext %}}
 **Choisissez un rendez-vous <br class="hide-for-mobile">et laissez-nous vous identifier**
 {{% /richtext %}}
-{{% /cta %}}
+{{< /cta >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
@@ -189,7 +189,7 @@ La SEQ est légalement valide pour une durée illimitée.
 {{< outro >}}
 {{< picture image8 414 "Un homme se tient à côté d'un document électronique avec un stylo plume géant" >}}
 
-{{% richtext %}}
+{{< richtext >}}
 {{% heading %}}
 # Signer légalement <br class="hide-for-mobile">et numériquement maintenant!
 Aucune carte de crédit, aucun droit d'entrée <br class="hide-for-mobile">ou engagement n'est requis.
@@ -200,5 +200,5 @@ Aucune carte de crédit, aucun droit d'entrée <br class="hide-for-mobile">ou en
   "https://my.skribble.com/signup?lang=fr"
   "_blank"
 >}}
-{{% /richtext %}}
+{{< /richtext >}}
 {{< /outro >}}

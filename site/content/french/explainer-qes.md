@@ -51,24 +51,24 @@ Le validateur de l'administration fédérale suisse vous permet de vérifier si 
 {{% /richtext %}}
 {{< /content >}}
 
-{{% cta
+{{< cta
   label="Vers le validateur fédéral"
   href="https://www.e-service.admin.ch/validator/upload/all/fr"
   target="_blank"
   outlined="true"
-%}}
+>}}
 {{< picture ch-logo 54 "Le logo de l’administration fédérale suisse" >}}
 {{% richtext %}}
 **Un service de l'Administration <br class="hide-for-mobile">fédérale suisse.**
 {{% /richtext %}}
-{{% /cta %}}
+{{< /cta >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
 {{< outro >}}
 {{< picture image8 414 "Un homme se tient à côté d'un document électronique avec un stylo plume géant" >}}
 
-{{% richtext %}}
+{{< richtext >}}
 {{% heading %}}
 # Signer légalement <br class="hide-for-mobile">et numériquement maintenant!
 Aucune carte de crédit, aucun droit d'entrée <br class="hide-for-mobile">ou engagement n'est requis.
@@ -79,5 +79,5 @@ Aucune carte de crédit, aucun droit d'entrée <br class="hide-for-mobile">ou en
   "https://my.skribble.com/signup?lang=fr"
   "_blank"
 >}}
-{{% /richtext %}}
+{{< /richtext >}}
 {{< /outro >}}

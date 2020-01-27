@@ -9,7 +9,7 @@ og_image: og/og-skribble-identification.jpg
 
 ---
 
-{{% content class="no-bottom-padding" %}}
+{{< content >}}
 {{% heading %}}
 # Skribble Integration
 Mit Skribble wählst du eine Cloud-Plattform, <br class="hide-for-mobile">die technologische Sicherheit und Einfachheit vereint.
@@ -50,7 +50,7 @@ Mit Skribble wählst du eine Cloud-Plattform, <br class="hide-for-mobile">die te
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{% content class="no-bottom-padding" %}}
+{{< content >}}
 {{% heading %}}
 # Mit Skribble arbeitest du auf höchsten Technologie- und Security-Standards
 {{% /heading %}}
@@ -92,7 +92,7 @@ Skribble trägt das Label <br class="hide-for-mobile"><a href="https://www.swiss
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{% content class="no-bottom-padding" %}}
+{{< content >}}
 {{% heading %}}
 # API ausprobieren
 In deinem Skribble Business Konto kannst du einen Demo-Schlüssel erstellen.
@@ -107,12 +107,12 @@ In deinem Skribble Business Konto kannst du einen Demo-Schlüssel erstellen.
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
 {{< cta-group >}}
-{{% cta
+{{< cta
   label="API-Dokumentation"
   href="https://doc.skribble.com/"
   outlined="true"
   target="_blank"
-%}}
+>}}
 
 {{< picture "api-dok" 140 "Userinterface Fenster mit Zahnrad" >}}
 
@@ -120,7 +120,7 @@ In deinem Skribble Business Konto kannst du einen Demo-Schlüssel erstellen.
 **API-Dokumentation**<br>
 Schau dir unsere API-Dokumentation an.<br class="hide-for-mobile">(auf Englisch)
 {{% /richtext %}}
-{{% /cta %}}
+{{< /cta >}}
 {{< /cta-group >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
@@ -128,7 +128,7 @@ Schau dir unsere API-Dokumentation an.<br class="hide-for-mobile">(auf Englisch)
 {{< outro >}}
 {{< picture image8 414 "Ein mann steht mit einem riesen füller neben einem elektronischen dokument" >}}
 
-{{% richtext %}}
+{{< richtext >}}
 # Jetzt rechtsgültig elektronisch signieren!
 Keine Kreditkarte, Eintrittsgebühr oder Verpflichtung erforderlich.
 
@@ -137,5 +137,5 @@ Keine Kreditkarte, Eintrittsgebühr oder Verpflichtung erforderlich.
   "https://my.skribble.com/signup?lang=de"
   "_blank"
 >}}
-{{% /richtext %}}
+{{< /richtext >}}
 {{< /outro >}}

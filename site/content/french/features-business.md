@@ -10,7 +10,7 @@ og_image: og/og-skribble-identification.jpg
 
 ---
 
-{{% content class="no-bottom-padding" %}}
+{{< content >}}
 {{% heading %}}
 # Fonctionnalités Business
 Les clients Skribble Business signent comme un groupe - <br class="hide-for-mobile">avec une administration centrale des membres et une facturation commune.
@@ -46,7 +46,7 @@ Les clients Skribble Business signent comme un groupe - <br class="hide-for-mobi
     description="Visualisez les factures actuelles et toutes les factures passées à tout moment.">}}
 {{< /features-container >}}
 
-{{% content class="no-bottom-padding" %}}
+{{< content >}}
 {{% heading %}}
 # Skribble Business s'intègre <br class="hide-for-mobile">dans votre infrastructure existante
 L'intégration des nouveaux signataires est intuitive et rapide.
@@ -76,7 +76,7 @@ L'intégration des nouveaux signataires est intuitive et rapide.
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{% content class="no-bottom-padding" %}}
+{{< content >}}
 {{% heading %}}
 # La mise en œuvre à l'échelle <br class="hide-for-mobile">de l'organisation est simple et rapide
 Permettez aux nouveaux employés et aux employés actuels de signer électroniquement dans les plus brefs délais. Choisissez le processus <br class="hide-for-mobile">d'intégration qui correspond à vos exigences en matière de force probante <br class="hide-for-mobile">ou à la norme de signature souhaitée.
@@ -107,7 +107,7 @@ Convient aux contrats avec des exigences formelles.<br>
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{% content class="no-bottom-padding" %}}
+{{< content >}}
 {{% heading %}}
 # Rapport coût-bénéfice idéal
 Choisissez le bon modèle de prix pour votre organisation.
@@ -129,7 +129,7 @@ Choisissez le bon modèle de prix pour votre organisation.
 {{< outro >}}
 {{< picture image8 414 "Un homme se tient à côté d'un document électronique avec un stylo plume géant" >}}
 
-{{% richtext %}}
+{{< richtext >}}
 {{% heading %}}
 # Signer légalement <br class="hide-for-mobile">et numériquement maintenant!
 Aucune carte de crédit, aucun droit d'entrée <br class="hide-for-mobile">ou engagement n'est requis.
@@ -140,5 +140,5 @@ Aucune carte de crédit, aucun droit d'entrée <br class="hide-for-mobile">ou en
   "https://my.skribble.com/signup?lang=fr"
   "_blank"
 >}}
-{{% /richtext %}}
+{{< /richtext >}}
 {{< /outro >}}

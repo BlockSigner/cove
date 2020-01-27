@@ -91,7 +91,7 @@ Venez vous identifier gratuitement. Apportez votre passeport <br class="hide-for
 {{< /content >}}
 
 
-{{% cta
+{{< cta
   label="026 470 08 90"
   href="tel: +41 26 470 08 90"
   target="_blank"
@@ -99,7 +99,7 @@ Venez vous identifier gratuitement. Apportez votre passeport <br class="hide-for
   class="id-site"
   outlined="true"
   icon="phone"
-%}}
+>}}
 
 {{< picture
   name="map-swisscom-avry"
@@ -119,18 +119,18 @@ Mo - Fr: 08.30 - 19.00<br>
 Do: 08.30 - 21.00<br>
 Sa: 09.00 - 16.00
 {{% /richtext %}}
-{{% /cta %}}
+{{< /cta >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{% cta
+{{< cta
   label="Organiser un rendez-vous E-ID"
   href="https://4ndl.bookafy.com/service/e-id-fur-skribble-in-belp"
   target="_blank"
   title="Belp"
   class="id-site"
   outlined="true"
-%}}
+>}}
 
 {{< picture
   name="map-natelprofi"
@@ -145,11 +145,11 @@ Sa: 09.00 - 16.00
 Dorfstrasse 6<br>
 CH-3123 Belp
 {{% /richtext %}}
-{{% /cta %}}
+{{< /cta >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{% cta
+{{< cta
   label="031 381 70 60"
   href="tel: +41 031 381 70 60"
   target="_blank"
@@ -157,7 +157,7 @@ CH-3123 Belp
   class="id-site"
   outlined="true"
   icon="phone"
-%}}
+>}}
 
 {{< picture
   name="map-natelspycher"
@@ -172,11 +172,11 @@ CH-3123 Belp
 Belpstrasse 45<br>
 CH-3007 Bern
 {{% /richtext %}}
-{{% /cta %}}
+{{< /cta >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{% cta
+{{< cta
   label="026 913 71 44"
   href="tel: +41 26 913 71 44"
   target="_blank"
@@ -184,7 +184,7 @@ CH-3007 Bern
   class="id-site"
   outlined="true"
   icon="phone"
-%}}
+>}}
 
 {{< picture
   name="map-swisscom-bulle"
@@ -202,11 +202,11 @@ CH-1630 Bulle<br><br>
 Mo - Fr: 09.00 - 18.30<br>
 Sa: 09.00 - 16.00
 {{% /richtext %}}
-{{% /cta %}}
+{{< /cta >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{% cta
+{{< cta
   label="026 341 72 10"
   href="tel: +41 26 341 72 10"
   target="_blank"
@@ -214,7 +214,7 @@ Sa: 09.00 - 16.00
   class="id-site"
   outlined="true"
   icon="phone"
-%}}
+>}}
 
 {{< picture
   name="map-swisscom-fribourg"
@@ -233,19 +233,19 @@ Mo - Fr: 08.30 - 19.00<br>
 Do: 08.30 - 21.00<br>
 Sa: 09.00 - 16.00
 {{% /richtext %}}
-{{% /cta %}}
+{{< /cta >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
 {{< cta-group >}}
-{{% cta
+{{< cta
   title="Zurich"
   label="Organiser un rendez-vous E-ID"
   href="https://help.skribble.com/meetings/patrick182/identification-chez-skribble"
   target="_blank"
   class="id-site"
   outlined="true"
-%}}
+>}}
 
 {{< picture
   name="map-flexoffice-zurich"
@@ -261,7 +261,7 @@ FlexOffice<br>
 Fraumünsterstrasse 16<br>
 CH-8001 Zurich<br><br>
 {{% /richtext %}}
-{{% /cta %}}
+{{< /cta >}}
 
 {{< /cta-group >}}
 
@@ -271,7 +271,7 @@ CH-8001 Zurich<br><br>
 {{< outro >}}
 {{< picture image8 414 "Un homme se tient à côté d'un document électronique avec un stylo plume géant" >}}
 
-{{% richtext %}}
+{{< richtext >}}
 {{% heading %}}
 # Signer légalement <br class="hide-for-mobile">et numériquement maintenant!
 Aucune carte de crédit, aucun droit d'entrée <br class="hide-for-mobile">ou engagement n'est requis.
@@ -282,5 +282,5 @@ Aucune carte de crédit, aucun droit d'entrée <br class="hide-for-mobile">ou en
   "https://my.skribble.com/signup?lang=fr"
   "_blank"
 >}}
-{{% /richtext %}}
+{{< /richtext >}}
 {{< /outro >}}

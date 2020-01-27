@@ -11,43 +11,43 @@ og_image: og/og-career.jpg
 {{< content >}}
 {{% heading %}}
 # Arbeiten bei Skribble
-Entwickle dich und deine Karriere zusammen mit motivierten <br class="hide-for-mobile">und inspirierenden Personen. Wir bieten dir die Chance neue Herausforderungen gemeinsam zu lösen und zu wachsen.
+Entwickle dich und deine Karriere zusammen mit motivierten
+und inspirierenden Personen. Wir bieten dir die Chance neue Herausforderungen gemeinsam zu lösen und zu wachsen.
 {{% /heading %}}
+
 {{< picture career 640 "3 Bewerber mit ihren Checklisten" >}}
 
-{{% / content %}}
-[//]: # (--------------------------------------------------------------------------------------------------------------)
-
 {{% richtext %}}
-{{% content class="no-bottom-padding" %}}
 ## Offene Stellen:
-{{< /content >}}
 {{% /richtext %}}
+{{< /content >}}
 
-{{% cta
+{{< cta
   label="Mehr Infos"
   href="/de/karriere/465/sales-manager-de"
   target=""
   outlined="true"
-%}}
+>}}
 {{% richtext %}}
-**Sales Manager, Deutschland (100%)**<br>
+**Sales Manager, Deutschland (100%)**
 {{% /richtext %}}
-{{% /cta %}}
+{{< /cta >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
 {{< outro >}}
 {{< picture image8 414 "Ein mann steht mit einem riesen füller neben einem elektronischen dokument" >}}
 
-{{% richtext %}}
+{{< richtext >}}
+{{% heading %}}
 # Jetzt rechtsgültig elektronisch signieren!
 Keine Kreditkarte, Eintrittsgebühr oder Verpflichtung erforderlich.
+{{% /heading %}}
 
 {{< button
   "Jetzt ausprobieren"
   "https://my.skribble.com/signup?lang=de"
   "_blank"
 >}}
-{{% /richtext %}}
+{{< /richtext >}}
 {{< /outro >}}

@@ -40,11 +40,11 @@ Für das Signieren mit QES auf Skribble wird eine vorgängige Identitätsprüfun
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
 {{< cta-group >}}
-{{% cta
+{{< cta
   label="Mehr erfahren"
   href="de/qes-freischalten"
   outlined="true"
-%}}
+>}}
 
 {{< picture "Identifizieren" 112 "Identitätsprüfung" >}}
 
@@ -52,14 +52,14 @@ Für das Signieren mit QES auf Skribble wird eine vorgängige Identitätsprüfun
 **Identitätsprüfung**<br>
 So schaltest du die QES auf Skribble frei.
 {{% /richtext %}}
-{{% /cta %}}
+{{< /cta >}}
 
 
-{{% cta
+{{< cta
   label="Zum QES Validator"
   href="de/qes-validator"
   outlined="true"
-%}}
+>}}
 
 {{< picture "qes-erklaert" 122 "QES validieren" >}}
 
@@ -67,7 +67,7 @@ So schaltest du die QES auf Skribble frei.
 **QES validieren**<br>
 Prüfe, ob ein Dokument mit QES signiert wurde.
 {{% /richtext %}}
-{{% /cta %}}
+{{< /cta >}}
 {{< /cta-group >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
@@ -121,25 +121,25 @@ Das trifft für die meisten Vertragsarten zu, so zum Beispiel bei Miet-, Kauf- o
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{% cta
+{{< cta
   label="Skribble kontaktieren"
   href="mailto:info@skribble.com"
   outlined=""
-%}}
+>}}
 
 {{< picture "contact" 92 "Hast du Fragen? Wir helfen dir gerne weiter." >}}
 
 {{% richtext %}}
 **Hast du fragen? <br class="hide-for-mobile">Wir helfen dir gerne weiter.**<br>
 {{% /richtext %}}
-{{% /cta %}}
+{{< /cta >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
 {{< outro >}}
 {{< picture image8 414 "Ein mann steht mit einem riesen füller neben einem elektronischen dokument" >}}
 
-{{% richtext %}}
+{{< richtext >}}
 {{% heading %}}
 # Jetzt rechtsgültig elektronisch signieren!
 Keine Kreditkarte, Eintrittsgebühr oder Verpflichtung erforderlich.
@@ -150,5 +150,5 @@ Keine Kreditkarte, Eintrittsgebühr oder Verpflichtung erforderlich.
   "https://my.skribble.com/signup?lang=de"
   "_blank"
 >}}
-{{% /richtext %}}
+{{< /richtext >}}
 {{< /outro >}}

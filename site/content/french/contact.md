@@ -12,7 +12,7 @@ map:
   subtitle: Juste à côté de la Paradeplatz, au cœur de Zurich
   columns:
     - title: Zürich
-      picture:      
+      picture:
         name: map-zurich
         alt: Plan du bureau Skribble à Zurich
         url: https://g.page/skribblehq?share
@@ -20,13 +20,13 @@ map:
         title: Skribble AG
         full: |
           Fraumünsterstrasse 16
-          CH-8001 Zürich     
-        email: info@skribble.com 
-        opening_hours: 
+          CH-8001 Zürich
+        email: info@skribble.com
+        opening_hours:
           title: Horaires d'ouverture
           description: De 9h à 17h
     - title: Karlsruhe (Ettlingen)
-      picture:      
+      picture:
         name: map-karlsruhe
         alt: Plan du bureau Skribble à Karlsruhe
         url: https://g.page/skribble-ettlingen?share
@@ -36,7 +36,7 @@ map:
           Pforzheimer Str. 128
           DE-76275 Ettlingen
         email: info@skribble.com
-        opening_hours: 
+        opening_hours:
           title: Horaires d'ouverture
           description: De 9h à 17h
 
@@ -45,7 +45,7 @@ map:
 {{< outro >}}
 {{< picture image8 414 "Un homme se tient à côté d'un document électronique avec un stylo plume géant" >}}
 
-{{% richtext %}}
+{{< richtext >}}
 {{% heading %}}
 # Signer légalement <br class="hide-for-mobile">et numériquement maintenant!
 Aucune carte de crédit, aucun droit d'entrée <br class="hide-for-mobile">ou engagement n'est requis.
@@ -56,5 +56,5 @@ Aucune carte de crédit, aucun droit d'entrée <br class="hide-for-mobile">ou en
   "https://my.skribble.com/signup?lang=fr"
   "_blank"
 >}}
-{{% /richtext %}}
+{{< /richtext >}}
 {{< /outro >}}

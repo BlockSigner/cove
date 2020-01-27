@@ -140,16 +140,16 @@ Sur Skribble, vous pouvez choisir entre les deux.
 
 {{< picture force_probante 664 "Force_Probante" >}}
 
-{{% cta
+{{< cta
   label="En savoir plus"
   href="/fr/normessignature/"
   outlined="true"
-%}}
+>}}
 
 {{% richtext %}}
 **Chez Skribble vous avez le choix entre les normes de signature SEA et SEQ.**<br>
 {{% /richtext %}}
-{{% /cta %}}
+{{< /cta >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
@@ -161,7 +161,7 @@ Sur Skribble, vous pouvez choisir entre les deux.
 {{< outro >}}
 {{< picture image8 414 "Un homme se tient à côté d'un document électronique avec un stylo plume géant" >}}
 
-{{% richtext %}}
+{{< richtext >}}
 {{% heading %}}
 # Signer légalement <br class="hide-for-mobile">et numériquement maintenant!
 Aucune carte de crédit, aucun droit d'entrée <br class="hide-for-mobile">ou engagement n'est requis.
@@ -172,5 +172,5 @@ Aucune carte de crédit, aucun droit d'entrée <br class="hide-for-mobile">ou en
   "https://my.skribble.com/signup?lang=fr"
   "_blank"
 >}}
-{{% /richtext %}}
+{{< /richtext >}}
 {{< /outro >}}

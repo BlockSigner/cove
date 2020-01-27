@@ -161,7 +161,7 @@ CH-3123 Belp
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{% cta
+{{< cta
   label="031 381 70 60"
   href="tel: +41 031 381 70 60"
   target="_blank"
@@ -169,7 +169,7 @@ CH-3123 Belp
   class="id-site"
   outlined="true"
   icon="phone"
-%}}
+>}}
 
 {{< picture
   name="map-natelspycher"

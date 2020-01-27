@@ -233,30 +233,30 @@ Après l'enregistrement, vous pouvez à tout moment passer <br class="hide-for-m
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
 {{< cta-group >}}
-{{% cta
+{{< cta
   label="En savoir plus"
   href="/fr/normessignature/"
   outlined="true"
-%}}
+>}}
 
 {{< picture package-6-1-out 100 "" >}}
 
 {{% richtext %}}
 **Quelle norme de signature pour quelle situation?**<br>
 {{% /richtext %}}
-{{% /cta %}}
-{{% cta
+{{< /cta >}}
+{{< cta
   label="En savoir plus"
   href="/fr/identification/"
   outlined="true"
-%}}
+>}}
 
 {{< picture qes-erklaert 122 "Signiert mit Skribble bedeutet rechtsgültig (QES) signiert nach Schweizer und EU-Gesetz." >}}
 
 {{% richtext %}}
 **Vous êtes intéressé par des services complémentaires dans le domaine de l'identification**<br>
 {{% /richtext %}}
-{{% /cta %}}
+{{< /cta >}}
 {{< /cta-group >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
@@ -264,7 +264,7 @@ Après l'enregistrement, vous pouvez à tout moment passer <br class="hide-for-m
 {{< outro >}}
 {{< picture image8 414 "Un homme se tient à côté d'un document électronique avec un stylo plume géant" >}}
 
-{{% richtext %}}
+{{< richtext >}}
 {{% heading %}}
 # Signer légalement <br class="hide-for-mobile">et numériquement maintenant!
 Aucune carte de crédit, aucun droit d'entrée <br class="hide-for-mobile">ou engagement n'est requis.
@@ -275,5 +275,5 @@ Aucune carte de crédit, aucun droit d'entrée <br class="hide-for-mobile">ou en
   "https://my.skribble.com/signup?lang=fr"
   "_blank"
 >}}
-{{% /richtext %}}
+{{< /richtext >}}
 {{< /outro >}}

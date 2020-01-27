@@ -10,7 +10,7 @@ type: business-features
 
 ---
 
-{{% content class="no-bottom-padding" %}}
+{{< content >}}
 {{% heading %}}
 # Business features
 Skribble Business customers sign organised as a group - with
@@ -47,7 +47,7 @@ Skribble Business customers sign organised as a group - with
     description="View the current and all past invoices at any time.">}}
 {{< /features-container >}}
 
-{{% content class="no-bottom-padding" %}}
+{{< content >}}
 {{% heading %}}
 # Skribble Business embeds itself
 into your existing infrastructure
@@ -80,7 +80,7 @@ us and our customers." {{< /testimonial >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{% content class="no-bottom-padding" %}}
+{{< content >}}
 {{% heading %}}
 # Organisation-wide implementation
 is simple and fast
@@ -113,7 +113,7 @@ Suitable for contracts with formal requirements.<br>
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{% content class="no-bottom-padding" %}}
+{{< content >}}
 {{% heading %}}
 # Ideal cost-benefit ratio
 Choose the right pricing model for your organization.

@@ -19,12 +19,12 @@ Retrouvez ici tout le nécessaire pour écrire sur Skribble.
 Fondé en mars 2018, Skribble est un fournisseur suisse de signatures électroniques ayant des bureaux à Zurich (CH) et à Karlsruhe (DE). La société TrustTech permet de signer des documents électroniques facilement et légalement. La base est constituée par des normes légalement réglementées, y compris la signature électronique qualifiée (SEQ) – la seule forme de signature électronique qui équivaut à une signature manuscrite devant la loi. Swisscom fournit la technologie de certification homologuée par l’Etat pour la SEQ. Le canton de Fribourg fait partie de ses clients actuels. Skribble compte 15 employés.
 {{< /content >}}
 
-{{% cta
+{{< cta
   label="Contact"
   href="mailto:kira@skribble.com"
   title="Conctact médias"
   outlined="true"
-%}}
+>}}
 
 {{< picture image13 100 "Kira Leuthold Content & Communications à Skribble" >}}
 
@@ -32,21 +32,21 @@ Fondé en mars 2018, Skribble est un fournisseur suisse de signatures électroni
 **Kira Leuthold**<br>
 Communication & Relations publiques
 {{% /richtext %}}
-{{% /cta %}}
+{{< /cta >}}
 
-{{% cta
+{{< cta
   label="Télécharger"
   href="downloads/Skribble-Brand-Assets.zip"
   title="Ensemble de marques"
   outlined="true"
-%}}
+>}}
 
 {{< picture image14 106 "Carnet de notes avec beaucoup d'informations sur le skribble" >}}
 
 {{% richtext %}}
 Les atouts les plus importants de Skribble sont à portée de main :
 {{% /richtext %}}
-{{% /cta %}}
+{{< /cta >}}
 
 {{% table "Communiqués de presse" %}}
 <tr>
@@ -137,7 +137,7 @@ Les atouts les plus importants de Skribble sont à portée de main :
 {{< outro >}}
 {{< picture image8 414 "Un homme se tient à côté d'un document électronique avec un stylo plume géant" >}}
 
-{{% richtext %}}
+{{< richtext >}}
 {{% heading %}}
 # Signer légalement <br class="hide-for-mobile">et numériquement maintenant!
 Aucune carte de crédit, aucun droit d'entrée <br class="hide-for-mobile">ou engagement n'est requis.
@@ -148,5 +148,5 @@ Aucune carte de crédit, aucun droit d'entrée <br class="hide-for-mobile">ou en
   "https://my.skribble.com/signup?lang=fr"
   "_blank"
 >}}
-{{% /richtext %}}
+{{< /richtext >}}
 {{< /outro >}}

@@ -15,12 +15,9 @@ Work and grow together with motivated and inspiring people.
 We offer you the chance to tackle new challenges
 and to develop Skribble and yourself.
 {{% /heading %}}
+
 {{< picture career 640 "3 applicants with their checklists" >}}
-{{% /content %}}
 
-[//]: # (--------------------------------------------------------------------------------------------------------------)
-
-{{< content >}}
 {{% richtext %}}
 ## Open positions:
 {{% /richtext %}}

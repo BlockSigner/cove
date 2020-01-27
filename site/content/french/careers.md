@@ -19,29 +19,29 @@ Collaborer et progresser avec des personnes motivées et inspirantes. <br class=
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
 {{% richtext %}}
-{{% content class="no-bottom-padding" %}}
+{{< content >}}
 ## Nous recherchons :
 {{< /content >}}
 {{% /richtext %}}
 
-{{% cta
+{{< cta
   label="Plus d'info"
   href="/fr/carriere/465/sales-manager-de"
   target=""
   outlined="true"
-%}}
+>}}
 {{% richtext %}}
 **Sales Manager, Allemagne (100%)**<br>
 (Annonce en Allemand)
 {{% /richtext %}}
-{{% /cta %}}
+{{< /cta >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
 {{< outro >}}
 {{< picture image8 414 "Un homme se tient à côté d'un document électronique avec un stylo plume géant" >}}
 
-{{% richtext %}}
+{{< richtext >}}
 {{% heading %}}
 # Signer légalement <br class="hide-for-mobile">et numériquement maintenant!
 Aucune carte de crédit, aucun droit d'entrée <br class="hide-for-mobile">ou engagement n'est requis.
@@ -52,5 +52,5 @@ Aucune carte de crédit, aucun droit d'entrée <br class="hide-for-mobile">ou en
   "https://my.skribble.com/signup?lang=fr"
   "_blank"
 >}}
-{{% /richtext %}}
+{{< /richtext >}}
 {{< /outro >}}

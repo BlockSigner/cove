@@ -14,9 +14,9 @@ og_image: og/og-skribble-mission.jpg
 Es war einmal die Unterschrift &ndash; heute signieren wir mit Skribble.
 {{% /heading %}}
 
-{{% richtext %}}
 {{< picture image9 680 "Ein mann unterschreibt mit einem riesengrossen füller auf den boden, daneben sitzt ein mann auf einem stuhl und signiert online" >}}
 
+{{% richtext %}}
 ## Aus der Schreibmaschine wurde Microsoft Word, aus der CD Spotify, aus der DVD Netflix.
 {{< picture image10 453 "Eine verstaubte schreibmaschine, darüber die logos von netflix, spotify und word" >}}
 
@@ -41,7 +41,7 @@ Der Aufbau vertrauenswürdiger Geschäftsbeziehungen soll so einfach und intuiti
 {{< outro >}}
 {{< picture image8 414 "Ein mann steht mit einem riesen füller neben einem elektronischen dokument" >}}
 
-{{% richtext %}}
+{{< richtext >}}
 {{% heading %}}
 # Jetzt rechtsgültig elektronisch signieren!
 Keine Kreditkarte, Eintrittsgebühr oder Verpflichtung erforderlich.
@@ -52,5 +52,5 @@ Keine Kreditkarte, Eintrittsgebühr oder Verpflichtung erforderlich.
   "https://my.skribble.com/signup?lang=de"
   "_blank"
 >}}
-{{% /richtext %}}
+{{< /richtext >}}
 {{< /outro >}}

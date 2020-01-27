@@ -21,36 +21,36 @@ Le validateur de l'administration fédérale suisse vous permet <br class="hide-
 {{% /richtext %}}
 {{< /content >}}
 
-{{% cta
+{{< cta
   label="Vers le validateur SEQ"
   href="https://www.e-service.admin.ch/validator/upload/all/fr"
   target="_blank"
   outlined="true"
-%}}
+>}}
 {{< picture ch-logo 122 "Le logo de l’administration fédérale suisse" >}}
 {{% richtext %}}
 **Un service de l'Administration <br class="hide-for-mobile">fédérale suisse.**
 {{% /richtext %}}
-{{% /cta %}}
+{{< /cta >}}
 
-{{% cta
+{{< cta
   label="En savoir plus"
   href="fr/normessignature"
   target=""
   outlined="true"
-%}}
+>}}
 {{< picture "qes-erklaert" 122 >}}
 {{% richtext %}}
 **Qu'est-ce que la signature <br class="hide-for-mobile">électronique qualifiée (SEQ)?**
 {{% /richtext %}}
-{{% /cta %}}
+{{< /cta >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
 {{< outro >}}
 {{< picture image8 414 "Un homme se tient à côté d'un document électronique avec un stylo plume géant" >}}
 
-{{% richtext %}}
+{{< richtext >}}
 {{% heading %}}
 # Signer légalement <br class="hide-for-mobile">et numériquement maintenant!
 Aucune carte de crédit, aucun droit d'entrée <br class="hide-for-mobile">ou engagement n'est requis.
@@ -61,5 +61,5 @@ Aucune carte de crédit, aucun droit d'entrée <br class="hide-for-mobile">ou en
   "https://my.skribble.com/signup?lang=fr"
   "_blank"
 >}}
-{{% /richtext %}}
+{{< /richtext >}}
 {{< /outro >}}
