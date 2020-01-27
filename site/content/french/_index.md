@@ -15,7 +15,7 @@ og_image: og/og-skribble.jpg
   {{< picture image1 678 "trois personnes signent un document électronique" >}}
 </div>
 
-{{% richtext %}}
+{{< richtext >}}
 {{% heading left %}}
 # Signer légalement et électroniquement grâce <br class="hide-for-mobile">à Skribble
 Réaliser vos processus de signature simplement et <br class="hide-for-mobile">de façon digitale, conformément à la loi suisse et européenne.
@@ -36,7 +36,7 @@ Réaliser vos processus de signature simplement et <br class="hide-for-mobile">d
   "Basé sur les certificats de signature de Swisscom"
 >}}
 
-{{% /richtext %}}
+{{< /richtext >}}
 {{< /intro >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
@@ -98,14 +98,14 @@ Signez par simple pression d'un bouton, indépendamment de l'heure et du lieu, d
 
 {{< picture skribble-ui-fr 1020 "Skribble plattform - user interface" >}}
 
-{{% center %}}
+{{< center >}}
 {{< button
   "Afficher toutes les fonctions"
   "/fr/fonctionnalites/"
   ""
   "outline"
 >}}
-{{% /center %}}
+{{< /center >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
@@ -147,7 +147,7 @@ Sur Skribble, vous pouvez choisir entre les deux.
 >}}
 
 {{% richtext %}}
-**Chez Skribble vous avez le choix entre les normes de signature SEA et SEQ.**<br>
+**Chez Skribble vous avez le choix entre les normes de signature SEA et SEQ.**
 {{% /richtext %}}
 {{< /cta >}}
 

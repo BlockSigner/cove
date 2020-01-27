@@ -25,6 +25,7 @@ deemed equivalent to handwritten signature**
 {{% /richtext %}}
 {{< /content >}}
 
+{{< cta-group >}}
 {{< cta
   label="To the QES Validator"
   href="https://www.e-service.admin.ch/validator/upload/all/en"
@@ -49,6 +50,7 @@ deemed equivalent to handwritten signature**
 electronic signature (QES)?**
 {{% /richtext %}}
 {{< /cta >}}
+{{< /cta-group >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 

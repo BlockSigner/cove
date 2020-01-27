@@ -137,8 +137,10 @@ Passend, wenn laufend <br class="hide-for-mobile">neue Signierende <br class="hi
 {{< picture image8 414 "Ein mann steht mit einem riesen füller neben einem elektronischen dokument" >}}
 
 {{< richtext >}}
+{{% heading %}}
 # Jetzt rechtsgültig elektronisch signieren!
 Keine Kreditkarte, Eintrittsgebühr oder Verpflichtung erforderlich.
+{{% /heading %}}
 
 {{< button
   "Jetzt ausprobieren"

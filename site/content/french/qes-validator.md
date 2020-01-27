@@ -21,6 +21,7 @@ Le validateur de l'administration fédérale suisse vous permet <br class="hide-
 {{% /richtext %}}
 {{< /content >}}
 
+{{< cta-group >}}
 {{< cta
   label="Vers le validateur SEQ"
   href="https://www.e-service.admin.ch/validator/upload/all/fr"
@@ -44,6 +45,7 @@ Le validateur de l'administration fédérale suisse vous permet <br class="hide-
 **Qu'est-ce que la signature <br class="hide-for-mobile">électronique qualifiée (SEQ)?**
 {{% /richtext %}}
 {{< /cta >}}
+{{< /cta-group >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 

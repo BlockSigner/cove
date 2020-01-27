@@ -89,11 +89,12 @@ zum elektronischen Signieren. Wähle den Onboarding-Prozess, der zu deinem Anspr
 {{< side-by-side >}}
 {{< picture onboarding-qes-de 380 "Ein grosser Vertrag (QES) mit einem Gericht" >}}
 
-{{% richtext %}}
+{{< richtext >}}
+{{% heading left %}}
 ## Onboarding für die qualifizierte elektronische Signatur (QES)
-
 Identifikationsservices für höchste Ansprüche an die Beweiskraft der Signatur.
 Geeignet für Verträge mit Formvorschrift.
+{{% /heading %}}
 
 {{< button
   "Download Factsheet"
@@ -101,7 +102,7 @@ Geeignet für Verträge mit Formvorschrift.
   "_blank"
   "outline">}}
 
-{{% /richtext %}}
+{{< /richtext >}}
 {{< /side-by-side >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)

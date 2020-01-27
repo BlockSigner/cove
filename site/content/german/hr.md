@@ -117,7 +117,7 @@ Wie wir den Alltag unserer Kunden erleichtern.
 >}}
 
 {{% richtext %}}
-**Lade den easyJet Use-Case herunter:**<br>
+**Lade den easyJet Use-Case herunter:**
 {{% /richtext %}}
 {{< /cta >}}
 
@@ -126,8 +126,9 @@ Wie wir den Alltag unserer Kunden erleichtern.
 {{< content >}}
 {{% heading %}}
 # Mit Skribble maximierst du <br class="hide-for-mobile">die Beweiskraft deiner Signatur
-Das Gesetz unterscheidet zwischen der qualifizierten E-Signatur (QES) <br class="hide-for-mobile">und der fortgeschrittenen E-Signatur (FES).
-Die beiden Standards <br class="hide-for-mobile">variieren punkto Einsatzgebiet und Beweiskraft.
+Das Gesetz unterscheidet zwischen der qualifizierten E-Signatur (QES)
+und der fortgeschrittenen E-Signatur (FES). Die beiden Standards
+variieren punkto Einsatzgebiet und Beweiskraft.
 {{% /heading %}}
 
 {{< picture beweiskraft 664 "Ein Mann unterschreibt mit einem Füller digitale Dokumente nach Schweizer und Europäischen Recht" >}}
@@ -142,7 +143,7 @@ Die beiden Standards <br class="hide-for-mobile">variieren punkto Einsatzgebiet 
 >}}
 
 {{% richtext %}}
-**Auf Skribble kannst du zwischen <br class="hide-for-mobile">den Signaturstandards FES und QES wählen.**<br>
+**Auf Skribble kannst du zwischen <br class="hide-for-mobile">den Signaturstandards FES und QES wählen.**
 {{% /richtext %}}
 {{< /cta >}}
 

@@ -21,6 +21,7 @@ Mit dem Validator der Schweizer Bundesverwaltung kannst du prüfen, <br class="h
 {{% /richtext %}}
 {{< /content >}}
 
+{{< cta-group >}}
 {{< cta
   label="Zum QES-Validator"
   href="https://www.e-service.admin.ch/validator/upload/all/de"
@@ -44,6 +45,7 @@ Mit dem Validator der Schweizer Bundesverwaltung kannst du prüfen, <br class="h
 **Was ist die qualifizierte <br class="hide-for-mobile">elektronische Signatur (QES)?**
 {{% /richtext %}}
 {{< /cta >}}
+{{< /cta-group >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 

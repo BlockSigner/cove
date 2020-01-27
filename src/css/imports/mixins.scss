@@ -52,6 +52,12 @@
 @mixin richtext-styling {
   @include h1-styling;
 
+  br {
+    @include max-width {
+      display: none;
+    }
+  }
+
   h2 {
     margin: 12px 0;
     font: bold 2.4rem/1.35 $averta;

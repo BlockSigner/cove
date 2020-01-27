@@ -86,8 +86,10 @@ Unsere Vision ist gross. Wir entwickeln Skribble Tag für Tag weiter.
 {{< picture image8 414 "Ein mann steht mit einem riesen füller neben einem elektronischen dokument" >}}
 
 {{< richtext >}}
+{{% heading %}}
 # Jetzt rechtsgültig elektronisch signieren!
 Keine Kreditkarte, Eintrittsgebühr oder Verpflichtung erforderlich.
+{{% /heading %}}
 
 {{< button
   "Jetzt ausprobieren"
