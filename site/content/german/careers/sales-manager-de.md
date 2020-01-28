@@ -18,7 +18,7 @@ og_image: og/og-career.jpg
 {{< /center >}}
 <br>
 {{% heading %}}
-# Sales Manager, Deutschland (100%)
+# Sales Manager/in, Deutschland (100%)
 unbefristet
 {{% /heading %}}
 
@@ -33,7 +33,7 @@ unbefristet
 Die Digitalisierung hat die Art, wie und wem wir vertrauen, grundlegend verändert. Dieser Wandel wird nicht zuletzt von neuen Technologien angetrieben. Skribble schafft mit seiner Plattform für elektronische Signaturen Vertrauen in digitale Prozesse. Nach erfolgreichem Start in der Schweiz, sollen nun auch Firmen und Privatpersonen in Deutschland einfach, schnell und rechtssicher elektronisch signieren können.
 
 ## So begeisterst du uns:
-Deine Talente als Sales Manager sind gefragt: als unser Gesicht in Deutschland, im Knüpfen von Kontakten zu Unternehmen und Behörden oder als Unterstützer unserer Inbound Marketing Strategie. Du bist von den Vorteilen der Digitalisierung überzeugt und es ist dir wichtig ein Produkt mit echtem Mehrwert anbieten zu können. Dein Wunsch ist es, Mühsames einfach zu machen.
+Deine Talente als Sales Manager/in sind gefragt: als unser Gesicht in Deutschland, im Knüpfen von Kontakten zu Unternehmen und Behörden oder als Unterstützer unserer Inbound Marketing Strategie. Du bist von den Vorteilen der Digitalisierung überzeugt und es ist dir wichtig ein Produkt mit echtem Mehrwert anbieten zu können. Dein Wunsch ist es, Mühsames einfach zu machen.
 
 ## Das kannst du bewirken:
 - Du repräsentierst Skribble bei Entscheidungsträgern in Wirtschaft, Politik und Medien in Deutschland
