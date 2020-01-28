@@ -29,7 +29,7 @@ und inspirierenden Personen. Wir bieten dir die Chance neue Herausforderungen ge
   outlined="true"
 >}}
 {{% richtext %}}
-**Sales Manager, Deutschland (100%)**
+**Sales Manager/in, Deutschland (100%)**
 {{% /richtext %}}
 {{< /cta >}}
 
