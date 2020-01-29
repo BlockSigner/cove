@@ -17,7 +17,7 @@ og_image: og/og-skribble.jpg
 
 {{< richtext >}}
 {{% heading left %}}
-# Signer légalement et électroniquement grâce <br class="hide-for-mobile">à Skribble
+# Signer légalement et électroniquement grâce à Skribble
 Réaliser vos processus de signature simplement et <br class="hide-for-mobile">de façon digitale, conformément à la loi suisse et européenne.
 {{% /heading %}}
 
@@ -108,6 +108,11 @@ Signez par simple pression d'un bouton, indépendamment de l'heure et du lieu, d
 {{< /center >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
+<br>
+{{< testimonial "testimonial/fr-logo-99w.svg" "Stéphane Schwab, Chef de E-Gouvernement du canton de Fribourg" >}}
+"Grâce à Skribble, nous pouvons numériser les processus administratifs de A à Z. <br class="hide-for-mobile">Cela facilite notre vie quotidienne et celle de nos clients." {{< /testimonial >}}
+
+[//]: # (--------------------------------------------------------------------------------------------------------------)
 
 {{< content >}}
 {{% heading %}}
@@ -130,12 +135,6 @@ Skribble et ses partenaires gèrent leurs données conformément à la loi féd�
 {{< /content >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
-
-{{< testimonial "testimonial/fr-logo-99w.svg" "Stéphane Schwab, Chef de E-Gouvernement du canton de Fribourg" >}}
-"Grâce à Skribble, nous pouvons numériser les processus administratifs de A à Z. <br class="hide-for-mobile">Cela facilite notre vie quotidienne et celle de nos clients." {{< /testimonial >}}
-
-[//]: # (--------------------------------------------------------------------------------------------------------------)
-
 
 {{% content %}}
 {{% heading %}}
@@ -166,13 +165,7 @@ Sur Skribble, vous pouvez choisir entre les deux.
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< content >}}
-{{% richtext center %}}
-### Connu depuis les médias
-{{% /richtext %}}
-{{< /content >}}
-
-{{< logos-container title="">}}
+{{< logos-container title="Connu depuis les médias">}}
   {{< logos-item src="logos/srf-logo-180w.svg" alt="SRF-Schweizer Radio und Fernsehen">}}
   {{< logos-item src="logos/handelszeitung-logo-240w.svg" alt="Handelszeitung">}}
   {{< logos-line-break >}}

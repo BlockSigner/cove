@@ -97,7 +97,7 @@ Sign at the push of a button, independent of time and place, legally valid accor
 
 {{< content >}}
 {{% heading %}}
-# If you sign with Skribble <br class="hide-for-mobile">you save time at work
+# If you sign with Skribble you save time at work
 {{% /heading %}}
 {{< /content >}}
 
@@ -114,12 +114,22 @@ Sign at the push of a button, independent of time and place, legally valid accor
 {{< /center >}}
 
 
+
 [//]: # (--------------------------------------------------------------------------------------------------------------)
+<br>
+{{< testimonial "testimonial/fr-logo-99w.svg" "Stéphane Schwab, Head of E-Government, State of Fribourg" >}}
+"Thanks to Skribble, we can digitize administrative processes from A to Z.
+This makes everyday life easier for
+us and our customers." {{< /testimonial >}}
+
+[//]: # (--------------------------------------------------------------------------------------------------------------)
+
 
 {{< content >}}
 {{% heading %}}
 # Skribble complies with legal requirements
-With Skribble you sign legally and securely according to the following requirements:
+With Skribble you sign legally 
+and securely according to the following requirements:
 {{% /heading %}}
 
 {{% collapsible 1 "E-signature standards QES and AES according to ZertES/eIDAS" "check" %}}
@@ -134,15 +144,6 @@ The qualified electronic signature (QES) available on Skribble is equivalent to 
 Skribble and its signing partner Swisscom commit to manage data in accordance with the Federal Act on Data Protection (FADP) and the General Data Protection Regulation (GDPR). Moreover, all data is hosted in Switzerland according to banking standards.
 {{% /collapsible %}}
 {{< /content >}}
-
-[//]: # (--------------------------------------------------------------------------------------------------------------)
-
-{{< testimonial "testimonial/fr-logo-99w.svg" "Stéphane Schwab, Head of E-Government, State of Fribourg" >}}
-"Thanks to Skribble, we can digitize administrative processes from A to Z.
-This makes everyday life easier for
-us and our customers." {{< /testimonial >}}
-
-[//]: # (--------------------------------------------------------------------------------------------------------------)
 
 {{% content %}}
 {{% heading %}}
@@ -175,13 +176,8 @@ of application and legal weight.
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< content >}}
-{{% richtext center %}}
-### Skribble in the media
-{{% /richtext %}}
-{{< /content >}}
 
-{{< logos-container title="">}}
+{{< logos-container title="Skribble in the media">}}
   {{< logos-item src="logos/srf-logo-180w.svg" alt="SRF-Schweizer Radio und Fernsehen">}}
   {{< logos-item src="logos/handelszeitung-logo-240w.svg" alt="Handelszeitung">}}
   {{< logos-line-break >}}

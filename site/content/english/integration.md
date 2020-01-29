@@ -90,7 +90,7 @@ and security
 {{< /features-container >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
-
+<br>
 {{< testimonial "testimonial/swissmade-logo-300w.png" "" >}}
 Skribble holds the label
 <a href="https://www.swissmadesoftware.org/en/home/home.html" target="_blank" class="text-decoration: none;">Swiss made Software</a>, which stands
