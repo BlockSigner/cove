@@ -1,6 +1,6 @@
 ---
 title: Use Skribble via your browser or your software
-description: With Skribble, you choose a cloud platform that combines technological security with simplicity. Sign now, legally and electronically!
+description: With Skribble, you choose an online platform that combines technological security with simplicity. Sign now, legally and electronically!
 draft: false
 slug: integrations
 
