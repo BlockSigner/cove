@@ -1,6 +1,6 @@
 ---
 title: So einfach nutzt du Skribble – via Browser oder einer Integration
-description: Mit Skribble wählst du eine Cloud-Plattform, die technologische Sicherheit und Einfachheit vereint. Nutze Skribble über den Browser oder integriere die Plattform.
+description: Mit Skribble wählst du eine Online-Plattform, die technologische Sicherheit und Einfachheit vereint. Nutze Skribble über den Browser oder integriere die Plattform.
 draft: false
 slug: integrationen
 type: integrationen
