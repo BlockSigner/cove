@@ -112,7 +112,8 @@ Signez par simple pression d'un bouton, indépendamment de l'heure et du lieu, d
 {{< content >}}
 {{% heading %}}
 # Avec Skribble, vous remplissez <br class="hide-for-mobile">les exigences légales
-Avec Skribble, vous signez légalement et en toute sécurité <br class="hide-for-mobile">en remplissant les conditions suivantes:
+Avec Skribble, vous signez légalement et en toute sécurité
+en remplissant les conditions suivantes:
 {{% /heading %}}
 
 {{% collapsible 1 "Normes de signature électronique SEQ und SEA selon SCSE/eIDAS" "check" %}}

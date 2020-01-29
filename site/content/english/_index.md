@@ -118,8 +118,7 @@ Sign at the push of a button, independent of time and place, legally valid accor
 
 {{< content >}}
 {{% heading %}}
-# Skribble complies
-with legal requirements
+# Skribble complies with legal requirements
 With Skribble you sign legally and securely according to the following requirements:
 {{% /heading %}}
 
