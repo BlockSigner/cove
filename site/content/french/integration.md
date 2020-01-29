@@ -1,6 +1,6 @@
 ---
 title: Utilisez Skribble via le navigateur ou votre logiciel
-description: Avec Skribble, vous choisissez une plate-forme de cloud qui allie sécurité technologique et simplicité.
+description: Avec Skribble, vous choisissez une plate-forme en ligne qui allie sécurité technologique et simplicité.
 draft: false
 slug: integrations
 
