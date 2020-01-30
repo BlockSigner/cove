@@ -54,7 +54,6 @@ La force probante de votre signature est portée à 100% (niveau SEQ)
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-
 {{< content >}}
 {{% heading %}}
 # Tout va bien?

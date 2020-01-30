@@ -49,8 +49,7 @@ Skribble Business customers sign organised as a group - with
 
 {{< content >}}
 {{% heading %}}
-# Skribble Business embeds itself
-into your existing infrastructure
+# Skribble Business embeds itself into your existing infrastructure
 The onboarding of new signers is intuitive and fast.
 {{% /heading %}}
 {{< /content >}}
@@ -84,7 +83,8 @@ us and our customers." {{< /testimonial >}}
 {{< content >}}
 {{% heading %}}
 # Organisation-wide implementation is simple and fast
-Enable new and existing employees to sign electronically in the shortest possible time. Choose the onboarding process that fits your requirements for legal weight or the desired signature standard.
+Enable new and existing employees to sign electronically 
+in the shortest possible time. Choose the onboarding process that fits your requirements for legal weight or the desired signature standard.
 {{% /heading %}}
 {{< /content >}}
 

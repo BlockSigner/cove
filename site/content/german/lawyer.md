@@ -79,7 +79,7 @@ Bei gewohnten Tools bleiben: Signiere direkt über den Browser oder aus deiner b
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{% content %}}
+{{< content >}}
 {{% heading %}}
 # Mit Skribble erfüllst du <br class="hide-for-mobile">die rechtlichen Anforderungen <br class="hide-for-mobile">an Anwalts-Prozessen
 Du signierst rechtsgültig und sicher gemäss folgenden Erfordernissen:
@@ -100,12 +100,12 @@ Skribble sowie Partner verwalten ihre Daten gemäss dem Bundesgesetz über den D
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{% content class="no-bottom-padding" %}}
+{{< content >}}
 {{% heading %}}
 # Unser Kunden haben gut lachen
 Wie wir den Alltag unserer Kunden erleichtern.
 {{% /heading %}}
-{{% /content %}}
+{{< /content >}}
 
 {{< testimonial "testimonial/altenburger-logo-202w.svg" " Roland Köchli, Partner Altenburger Legal + Tax" >}}
 „Die Anwendung von Skribble bringt uns <br class="hide-for-mobile">der kompletten Digitalisierung von Prozessen einen riesigen Schritt näher."
@@ -113,11 +113,12 @@ Wie wir den Alltag unserer Kunden erleichtern.
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{% content %}}
+{{< content >}}
 {{% heading %}}
-# Mit Skribble maximierst du <br class="hide-for-mobile">die Beweiskraft deiner Signatur
-Das Gesetz unterscheidet zwischen der qualifizierten E-Signatur (QES) <br class="hide-for-mobile">und der fortgeschrittenen E-Signatur (FES).
-Die beiden Standards <br class="hide-for-mobile">variieren punkto Einsatzgebiet und Beweiskraft.
+# Mit Skribble maximierst du die Beweiskraft deiner Signatur
+Das Gesetz unterscheidet zwischen der qualifizierten E-Signatur (QES) 
+und der fortgeschrittenen E-Signatur (FES).Die beiden Standards variieren 
+punkto Einsatzgebiet und Beweiskraft.
 {{% /heading %}}
 
 {{< picture beweiskraft 664 "Ein Mann unterschreibt mit einem Füller digitale Dokumente nach Schweizer und Europäischen Recht" >}}

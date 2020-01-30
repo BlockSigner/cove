@@ -136,11 +136,12 @@ Skribble et ses partenaires gèrent leurs données conformément à la loi féd�
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{% content %}}
+{{< content >}}
 {{% heading %}}
 # Utilisez Skribble pour maximiser la force probante de votre signature
-La loi établit une distinction entre les signatures électroniques qualifiées (SEQ) <br class="hide-for-mobile">et les signatures électroniques avancées (SEA). Les deux normes varient <br class="hide-for-mobile">en termes de domaine d'application et de force probante.
-Sur Skribble, vous pouvez choisir entre les deux.
+La loi établit une distinction entre les signatures électroniques qualifiées (SEQ) 
+et les signatures électroniques avancées (SEA). Les deux normes varient 
+en termes de domaine d'application et de force probante. Sur Skribble, vous pouvez choisir entre les deux.
 {{% /heading %}}
 {{< /content >}}
 

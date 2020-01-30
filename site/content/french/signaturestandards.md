@@ -8,8 +8,10 @@ slug: normessignature
 
 {{< content >}}
 {{% heading %}}
-# De combien de force probante <br class="hide-for-mobile">ma e-signature a-t-elle besoin ?
-La loi établit une distinction entre les signatures électroniques qualifiées (SEQ) <br class="hide-for-mobile">et les signatures électroniques avancées (SEA). Les deux normes varient <br class="hide-for-mobile">en termes de domaine d'application et de force probante.
+# De combien de force probante ma e-signature a-t-elle besoin ?
+La loi établit une distinction entre les signatures électroniques qualifiées (SEQ) 
+et les signatures électroniques avancées (SEA). Les deux normes varient 
+en termes de domaine d'application et de force probante.
 Sur Skribble, vous pouvez choisir entre les deux.
 {{% /heading %}}
 

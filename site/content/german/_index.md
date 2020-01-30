@@ -137,17 +137,17 @@ Skribble sowie Partner verwalten ihre Daten gemäss dem Bundesgesetz über den D
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{% content %}}
+{{< content >}}
 {{% heading %}}
-# Mit Skribble maximierst du <br class="hide-for-mobile">die Beweiskraft deiner Signatur
+# Mit Skribble maximierst du die Beweiskraft deiner Signatur
 Das Gesetz unterscheidet zwischen der qualifizierten E-Signatur (QES)
-und der fortgeschrittenen E-Signatur (FES).
-Die beiden Standards
+und der fortgeschrittenen E-Signatur (FES). Die beiden Standards
 variieren punkto Einsatzgebiet und Beweiskraft.
 {{% /heading %}}
+{{< /content >}}
 
 {{< picture beweiskraft 664 "Ein Mann unterschreibt mit einem Füller digitale Dokumente nach Schweizer und Europäischen Recht" >}}
-{{< /content >}}
+
 
 {{< cta
   label="Erfahre mehr"

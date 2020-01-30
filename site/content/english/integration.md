@@ -55,9 +55,7 @@ technological security with simplicity.
 
 {{< content class="no-bottom-padding" >}}
 {{% heading %}}
-# With Skribble you benefit from
-the highest standards of technology
-and security
+# With Skribble you benefit from the highest standards of technology and security
 {{% /heading %}}
 {{< /content >}}
 

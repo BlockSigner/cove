@@ -96,7 +96,7 @@ solution for qualified electronic signatures in Switzerland."
 
 {{< content >}}
 {{% heading %}}
-# Skribble complies <br class="hide-for-mobile">with the legal requirements <br class="hide-for-mobile">for court processes
+# Skribble complies with the legal requirements for court processes
 You sign with legal effect and securely in accordance
 with the following requirements:
 {{% /heading %}}
@@ -119,9 +119,8 @@ Skribble and its signing partner Swisscom commit to manage data in accordance wi
 {{< content >}}
 {{% heading %}}
 # Use Skribble to maximise the legal weight of your signature
-The law distinguishes between qualified e-signatures (QES)
-and advanced e-signatures (AES).
-The two standards vary in terms of area
+The law distinguishes between qualified e-signatures (QES) 
+and advanced e-signatures (AES). The two standards vary in terms of area 
 of application and legal weight.
 {{% /heading %}}
 {{< picture legal_weight 664 "Legal-weight" >}}

@@ -84,7 +84,7 @@ Stay with familiar tools: sign directly via your browser or from your existing s
 
 {{< content >}}
 {{% heading %}}
-# Skribble complies <br class="hide-for-mobile">with the legal requirements for HR processes
+# Skribble complies with the legal requirements for HR processes
 You sign with legal effect and securely in accordance with the following requirements:
 {{% /heading %}}
 
@@ -133,8 +133,7 @@ How we at Skribble make everyday life easier for our customers.
 {{% heading %}}
 # Use Skribble to maximise the legal weight of your signature
 The law distinguishes between qualified e-signatures (QES)
-and advanced e-signatures (AES).
-The two standards vary in terms of area
+and advanced e-signatures (AES). The two standards vary in terms of area
 of application and legal weight.
 {{% /heading %}}
 {{< picture legal_weight 664 "Legal-weight" >}}
