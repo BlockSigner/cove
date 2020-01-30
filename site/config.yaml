@@ -21,7 +21,7 @@ languages:
       main:
         # Platform dropdown
         - name: Plattform
-          url: "#"
+          url: "/de/features/"
           weight: 5
           identifier: plattform
         - name: Features
@@ -46,7 +46,7 @@ languages:
           parent: plattform
         # Solutions dropdown
         - name: Lösungen
-          url: "#"
+          url: "/de/hr/"
           weight: 15
           identifier: solutions
         - name: HR
@@ -186,7 +186,7 @@ languages:
       main:
         # Platform dropdown
         - name: Platform
-          url: "#"
+          url: "/features/"
           weight: 5
           identifier: platform
         - name: Features
@@ -211,7 +211,7 @@ languages:
           parent: platform
         # Solutions dropdown
         - name: Solutions
-          url: "#"
+          url: "/hr/"
           weight: 15
           identifier: solutions
         - name: HR
@@ -351,7 +351,7 @@ languages:
       main:
         # Platform dropdown
         - name: Platforme
-          url: "#"
+          url: "/fr/fonctionnalites/"
           weight: 5
           identifier: platforme
         - name: Fonctionnalités
@@ -376,7 +376,7 @@ languages:
           parent: platforme
         # Solutions dropdown
         - name: Solutions
-          url: "#"
+          url: "/fr/ressources-humaines/"
           weight: 10
           identifier: solutions
         - name: RH

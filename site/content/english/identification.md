@@ -56,7 +56,7 @@ A growing number of people in Europe have a verified electronic identity (e-ID).
 {{% center %}}**More e-IDs will follow this year.**{{% /center %}}
 {{% /richtext %}}
 
-{{< /content >}}}
+{{< /content >}}
 
 
 {{< cta
