@@ -46,7 +46,7 @@ legally binding in accordance with Swiss & EU law.
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< logos-container title="Skribble trusted by:">}}
+{{< logos-container title="Trusted by:">}}
   {{< logos-item src="logos/canon-logo-142w.svg" alt="Canon">}}
   {{< logos-item src="logos/baggenstoss-logo-205w.svg" alt="Baggenstoss">}}
   {{< logos-line-break >}}
@@ -128,7 +128,7 @@ us and our customers." {{< /testimonial >}}
 {{< content >}}
 {{% heading %}}
 # Skribble complies with legal requirements
-With Skribble you sign legally 
+With Skribble you sign legally
 and securely according to the following requirements:
 {{% /heading %}}
 
@@ -150,8 +150,8 @@ Skribble and its signing partner Swisscom commit to manage data in accordance wi
 {{< content >}}
 {{% heading %}}
 # Use Skribble to maximise the legal weight of your signature
-The law distinguishes between qualified e-signatures (QES) 
-and advanced e-signatures (AES). The two standards vary in terms 
+The law distinguishes between qualified e-signatures (QES)
+and advanced e-signatures (AES). The two standards vary in terms
 of area of application and legal weight.
 {{% /heading %}}
 {{< /content >}}

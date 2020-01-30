@@ -41,7 +41,7 @@ Réaliser vos processus de signature simplement et <br class="hide-for-mobile">d
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< logos-container title="Skribble confié par:">}}
+{{< logos-container title="Confié par:">}}
   {{< logos-item src="logos/canon-logo-142w.svg" alt="Canon">}}
   {{< logos-item src="logos/baggenstoss-logo-205w.svg" alt="Baggenstoss">}}
   {{< logos-line-break >}}
@@ -139,8 +139,8 @@ Skribble et ses partenaires gèrent leurs données conformément à la loi féd�
 {{< content >}}
 {{% heading %}}
 # Utilisez Skribble pour maximiser la force probante de votre signature
-La loi établit une distinction entre les signatures électroniques qualifiées (SEQ) 
-et les signatures électroniques avancées (SEA). Les deux normes varient 
+La loi établit une distinction entre les signatures électroniques qualifiées (SEQ)
+et les signatures électroniques avancées (SEA). Les deux normes varient
 en termes de domaine d'application et de force probante. Sur Skribble, vous pouvez choisir entre les deux.
 {{% /heading %}}
 {{< /content >}}
