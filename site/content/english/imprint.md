@@ -5,7 +5,7 @@ draft: false
 slug: imprint
 ---
 
-{{< content >}}
+{{< content top=12 >}}
 {{% richtext %}}
 # Imprint
 

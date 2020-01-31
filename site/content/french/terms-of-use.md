@@ -5,7 +5,7 @@ draft: false
 description: Conditions d'utilisation meta description
 ---
 
-{{< content >}}
+{{< content top=12 >}}
 {{% richtext legal %}}
 # Conditions d'Utilisation de Skribble
 (Version 2019.10.01)

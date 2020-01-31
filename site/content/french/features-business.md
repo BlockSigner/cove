@@ -10,7 +10,7 @@ og_image: og/og-skribble-identification.jpg
 
 ---
 
-{{< content >}}
+{{< content top=12 >}}
 {{% heading %}}
 # Fonctionnalités Business
 Les clients Skribble Business signent comme un groupe - <br class="hide-for-mobile">avec une administration centrale des membres et une facturation commune.
@@ -80,8 +80,8 @@ L'intégration des nouveaux signataires est intuitive et rapide.
 {{< content >}}
 {{% heading %}}
 # La mise en œuvre à l'échelle de l'organisation est simple et rapide
-Permettez aux nouveaux employés et aux employés actuels de signer électroniquement dans les plus brefs délais. Choisissez le processus d'intégration 
-qui correspond à vos exigences en matière de force probante 
+Permettez aux nouveaux employés et aux employés actuels de signer électroniquement dans les plus brefs délais. Choisissez le processus d'intégration
+qui correspond à vos exigences en matière de force probante
 ou à la norme de signature souhaitée.
 {{% /heading %}}
 {{< /content >}}

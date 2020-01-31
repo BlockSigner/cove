@@ -9,7 +9,7 @@ og_image: og/og-skribble-identification.jpg
 
 ---
 
-{{< content >}}
+{{< content top=12 >}}
 {{% heading %}}
 # Maximise the legal weight <br class="hide-for-mobile">of your electronic signature
 Enable the highest e-signing standard (QES)

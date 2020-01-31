@@ -9,7 +9,7 @@ og_image: og/og-skribble-identification.jpg
 
 ---
 
-{{< content >}}
+{{< content top=12 >}}
 {{% heading %}}
 # Skribble Features
 Mit Skribble signierst du nicht nur rechtsgültig, sondern auch einfach.

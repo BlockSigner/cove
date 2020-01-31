@@ -8,7 +8,7 @@ og_image: og/og-skribble-mission.jpg
 
 ---
 
-{{< content >}}
+{{< content top=12 >}}
 {{% heading %}}
 # Skribble press room
 Here you will find everything you need to write about Skribble.

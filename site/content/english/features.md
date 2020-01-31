@@ -10,7 +10,7 @@ type: features
 
 ---
 
-{{< content class="no-bottom-padding" >}}
+{{< content top=12 >}}
 {{% heading %}}
 # Skribble Features
 With Skribble you not only sign legally, but also with ease.

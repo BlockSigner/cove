@@ -8,7 +8,7 @@ og_image: og/og-skribble-mission.jpg
 
 ---
 
-{{< content >}}
+{{< content top=12 >}}
 {{% heading %}}
 # Skribble pour les médias
 Retrouvez ici tout le nécessaire pour écrire sur Skribble.

@@ -51,7 +51,7 @@ Réaliser vos processus de signature simplement et <br class="hide-for-mobile">d
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< content >}}
+{{< content top=12 >}}
 {{% heading %}}
 # Signer légalement en trois étapes
 {{% /heading %}}
@@ -90,7 +90,7 @@ Signez par simple pression d'un bouton, indépendamment de l'heure et du lieu, d
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< content >}}
+{{< content top=12 >}}
 {{% heading %}}
 # En signant avec Skribble, <br class="hide-for-mobile">vous gagnez du temps au travail
 {{% /heading %}}
@@ -114,7 +114,7 @@ Signez par simple pression d'un bouton, indépendamment de l'heure et du lieu, d
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< content >}}
+{{< content top=12 >}}
 {{% heading %}}
 # Avec Skribble, vous remplissez <br class="hide-for-mobile">les exigences légales
 Avec Skribble, vous signez légalement et en toute sécurité
@@ -136,7 +136,7 @@ Skribble et ses partenaires gèrent leurs données conformément à la loi féd�
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< content >}}
+{{< content top=12 >}}
 {{% heading %}}
 # Utilisez Skribble pour maximiser la force probante de votre signature
 La loi établit une distinction entre les signatures électroniques qualifiées (SEQ)
@@ -166,7 +166,7 @@ en termes de domaine d'application et de force probante. Sur Skribble, vous pouv
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< logos-container title="Connu depuis les médias:">}}
+{{< logos-container top=6 bottom=10 title="Connu depuis les médias:">}}
   {{< logos-item src="logos/srf-logo-180w.svg" alt="SRF-Schweizer Radio und Fernsehen">}}
   {{< logos-item src="logos/handelszeitung-logo-240w.svg" alt="Handelszeitung">}}
   {{< logos-line-break >}}

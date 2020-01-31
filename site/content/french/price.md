@@ -8,7 +8,7 @@ og_image: og/og-skribble-service.jpg
 
 ---
 
-{{< content >}}
+{{< content top=12 >}}
 {{% heading %}}
 # Signez plus facilement <br class="hide-for-mobile">avec le bon modèle tarifaire
 Skribble convient tant aux signatures occasionnelles <br class="hide-for-mobile">qu'aux signatures fréquentes

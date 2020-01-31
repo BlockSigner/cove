@@ -8,7 +8,7 @@ og_image: og/og-skribble-mission.jpg
 
 ---
 
-{{< content >}}
+{{< content top=12 >}}
 {{% heading %}}
 # Pay per signature or as a flatrate <br class="hide-for-mobile">and save if you sign more
 Skribble's pricing structure adapts to your needs

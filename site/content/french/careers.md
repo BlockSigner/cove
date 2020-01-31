@@ -8,11 +8,11 @@ og_image: og/og-career.jpg
 
 ---
 
-{{< content >}}
+{{< content top=12 >}}
 {{% heading %}}
 # Travailler chez Skribble
-Collaborer et progresser avec des personnes motivées et inspirantes. 
-Nous te permettons de surmonter des nouveaux challenges 
+Collaborer et progresser avec des personnes motivées et inspirantes.
+Nous te permettons de surmonter des nouveaux challenges
 et de développer Skribble et toi-même.
 {{% /heading %}}
 

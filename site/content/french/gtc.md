@@ -6,7 +6,7 @@ description: Conditions Générales (CG) de Skribble SA
 
 ---
 
-{{< content >}}
+{{< content top=12 >}}
 {{% richtext %}}
 # Conditions Générales (CG) de Skribble SA
 (Version 2019.10.01)

@@ -8,7 +8,7 @@ og_image: og/og-skribble-mission.jpg
 
 ---
 
-{{< content >}}
+{{< content top=12 >}}
 {{% heading %}}
 # Skribble für Medien
 Hier findest du alles was du brauchst, um über Skribble zu schreiben.

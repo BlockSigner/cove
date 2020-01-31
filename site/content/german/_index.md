@@ -52,7 +52,7 @@ rechtsgültig nach dem Schweizer & EU Gesetz.
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< content >}}
+{{< content top=12 >}}
 {{% heading %}}
 # In 3 Schritten rechtsgültig signieren
 {{% /heading %}}
@@ -92,7 +92,7 @@ und EU-Recht.
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< content >}}
+{{< content top=12 >}}
 {{% heading %}}
 # Signierst du mit Skribble, <br class="hide-for-mobile">sparst du Zeit im Arbeitsalltag
 {{% /heading %}}
@@ -116,7 +116,7 @@ und EU-Recht.
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
 
-{{< content >}}
+{{< content top=12 >}}
 {{% heading %}}
 # Mit Skribble erfüllst du <br class="hide-for-mobile">die rechtlichen Anforderungen
 Signiere rechtsgültig und sicher gemäss folgenden Erfordernissen:
@@ -137,7 +137,7 @@ Skribble sowie Partner verwalten ihre Daten gemäss dem Bundesgesetz über den D
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< content >}}
+{{< content top=12 >}}
 {{% heading %}}
 # Mit Skribble maximierst du die Beweiskraft deiner Signatur
 Das Gesetz unterscheidet zwischen der qualifizierten E-Signatur (QES)
@@ -169,7 +169,7 @@ den Signaturstandards FES und QES wählen.**
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< logos-container title="Skribble in den Medien:">}}
+{{< logos-container top=6 bottom=10 title="Skribble in den Medien:">}}
   {{< logos-item src="logos/srf-logo-180w.svg" alt="SRF-Schweizer Radio und Fernsehen">}}
   {{< logos-item src="logos/handelszeitung-logo-240w.svg" alt="Handelszeitung">}}
   {{< logos-line-break >}}

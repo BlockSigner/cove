@@ -5,7 +5,7 @@ draft: false
 description: Politique de Confidentialité méta-description
 ---
 
-{{< content >}}
+{{< content top=12 >}}
 {{% richtext %}}
 # Politique de Confidentialité
 

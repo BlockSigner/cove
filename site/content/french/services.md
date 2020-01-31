@@ -8,7 +8,7 @@ og_image: og/og-skribble-service.jpg
 
 ---
 
-{{< content >}}
+{{< content top=12 >}}
 {{% heading %}}
 # Payez par signatures ou forfaitairement et économisez si vous signez plus.
 Skribble propose des offres qui correspondent à vos besoins.

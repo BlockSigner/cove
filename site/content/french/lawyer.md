@@ -9,10 +9,10 @@ og_image: og/og-skribble-identification.jpg
 
 ---
 
-{{< content >}}
+{{< content top=12 >}}
 {{% heading %}}
 # Signature électronique pour juristes
-Avec Skribble vous signez sans clé USB ou lecteur de carte 
+Avec Skribble vous signez sans clé USB ou lecteur de carte
 avec la plus haute norme de signature électronique (SEQ).
 {{% /heading %}}
 {{< picture vertical-lawyer-main 560 "L'un traite de différents processus contractuels" >}}
@@ -89,7 +89,7 @@ Restez avec des outils familiers: connectez-vous directement via votre navigateu
 {{< content >}}
 {{% heading %}}
 # Avec Skribble, vous répondez aux exigences des procédures légales
-Avec Skribble, vous signez légalement et en toute sécurité en remplissant 
+Avec Skribble, vous signez légalement et en toute sécurité en remplissant
 les conditions suivantes:
 {{% /heading %}}
 
@@ -111,9 +111,9 @@ Skribble et ses partenaires gèrent leurs données conformément à la loi féd�
 {{< content >}}
 {{% heading %}}
 # Utilisez Skribble pour maximiser la force probante de votre signature
-La loi établit une distinction entre les signatures électroniques qualifiées (SEQ) 
-et les signatures électroniques avancées (SEA). Les deux normes varient 
-en termes de domaine d'application et de force probante. 
+La loi établit une distinction entre les signatures électroniques qualifiées (SEQ)
+et les signatures électroniques avancées (SEA). Les deux normes varient
+en termes de domaine d'application et de force probante.
 Sur Skribble, vous pouvez choisir entre les deux.
 {{% /heading %}}
 {{< /content >}}
@@ -137,8 +137,8 @@ Sur Skribble, vous pouvez choisir entre les deux.
 {{< content >}}
 {{% heading %}}
 # Laissez-vous identifier
-Cela débloque la norme de signature électronique la plus élevée du marché: la SEQ. 
-Vous n'avez besoin que d'un document de voyage valide 
+Cela débloque la norme de signature électronique la plus élevée du marché: la SEQ.
+Vous n'avez besoin que d'un document de voyage valide
 (pièce d'identité ou passeport).
 {{% /heading %}}
 {{< picture "create-identity" 385 "Une loupe agrandit l'image d'une femme dans un passeport" >}}

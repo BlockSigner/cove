@@ -9,7 +9,7 @@ og_image: og/og-skribble-identification.jpg
 
 ---
 
-{{< content >}}
+{{< content top=12 >}}
 {{% heading %}}
 # Maximisez la valeur probante <br class="hide-for-mobile">de votre signature électronique
 Déverrouillez la norme de signature électronique la plus élevée (SEQ) <br class="hide-for-mobile">en vous identifiant par contact personnel avec l'ID-app de Swisscom.

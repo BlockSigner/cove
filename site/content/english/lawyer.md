@@ -9,7 +9,7 @@ og_image: og/og-skribble-identification.jpg
 
 ---
 
-{{< content >}}
+{{< content top=12 >}}
 {{% heading %}}
 # Electronic signature for lawyers
 With Skribble you sign without USB stick or card reader
@@ -119,8 +119,8 @@ Skribble and its signing partner Swisscom commit to manage data in accordance wi
 {{< content >}}
 {{% heading %}}
 # Use Skribble to maximise the legal weight of your signature
-The law distinguishes between qualified e-signatures (QES) 
-and advanced e-signatures (AES). The two standards vary in terms of area 
+The law distinguishes between qualified e-signatures (QES)
+and advanced e-signatures (AES). The two standards vary in terms of area
 of application and legal weight.
 {{% /heading %}}
 {{< picture legal_weight 664 "Legal-weight" >}}

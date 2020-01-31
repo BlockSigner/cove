@@ -10,7 +10,7 @@ type: business-features
 
 ---
 
-{{< content >}}
+{{< content top=12 >}}
 {{% heading %}}
 # Business features
 Skribble Business customers sign organised as a group - with
@@ -83,7 +83,7 @@ us and our customers." {{< /testimonial >}}
 {{< content >}}
 {{% heading %}}
 # Organisation-wide implementation is simple and fast
-Enable new and existing employees to sign electronically 
+Enable new and existing employees to sign electronically
 in the shortest possible time. Choose the onboarding process that fits your requirements for legal weight or the desired signature standard.
 {{% /heading %}}
 {{< /content >}}

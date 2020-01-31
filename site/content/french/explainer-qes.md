@@ -6,7 +6,7 @@ slug: qes-explique
 
 ---
 
-{{< content >}}
+{{< content top=12 >}}
 {{% heading %}}
 # Skribble a la même sécurité juridique que la signature manuscrite
 Signé avec Skribble signifie légalement signé selon le droit suisse et européen.

@@ -9,7 +9,7 @@ og_image: og/og-skribble-identification.jpg
 
 ---
 
-{{< content >}}
+{{< content top=12 >}}
 {{% heading %}}
 # Maximiere die Beweiskraft <br class="hide-for-mobile">deiner E-Signatur
 Schalte den höchsten verfügbaren E-Signatur-Standard (QES) frei,

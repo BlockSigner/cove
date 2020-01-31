@@ -6,7 +6,7 @@ slug: qes-validator
 
 ---
 
-{{< content >}}
+{{< content top=12 >}}
 {{% heading %}}
 # Check whether a document <br class="hide-for-mobile">has been signed with QES
 The Validator service of the Swiss Federal Administration allows you

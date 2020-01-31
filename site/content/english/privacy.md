@@ -5,7 +5,7 @@ draft: false
 description: Privacy policy meta description
 ---
 
-{{< content >}}
+{{< content top=12 >}}
 {{% richtext %}}
 # Privacy&nbsp;Policy
 

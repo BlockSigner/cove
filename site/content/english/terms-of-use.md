@@ -5,7 +5,7 @@ draft: false
 description: terms-of-use meta description
 ---
 
-{{< content >}}
+{{< content top=12 >}}
 {{% richtext legal %}}
 # Terms of Use of Skribble
 (Version 2019.10.01)

@@ -7,7 +7,7 @@ slug: pricing
 og_image: og/og-skribble-mission.jpg
 ---
 
-{{< content >}}
+{{< content top=12 >}}
 {{% heading %}}
 # Sign economically with the right plan
 Skribble is suitable for both occasional and frequent signing.

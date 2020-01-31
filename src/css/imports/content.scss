@@ -1,9 +1,12 @@
 .content {
-  @include site-width($narrow: true);
-  @include standard-padding;
-  @include min-width {
-    padding-top: 88px;
+
+  &-inner {
+    // @include min-width {
+    //   padding-top: 88px;
+    // }
   }
+  // @include site-width($narrow: true);
+  // @include standard-padding;
 
   p:last-child {
     margin-bottom: 0;

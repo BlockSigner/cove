@@ -6,7 +6,7 @@ description: General Terms and Conditions (GTC) of Skribble
 
 ---
 
-{{< content >}}
+{{< content top=12 >}}
 {{% richtext %}}
 # General Terms and Conditions (GTC) of Skribble
 (Version 2019.10.01)

@@ -8,7 +8,7 @@ og_image: og/og-career.jpg
 
 ---
 
-{{< content >}}
+{{< content top=12 >}}
 {{% heading %}}
 # Working at Skribble
 Work and grow together with motivated and inspiring people.

@@ -6,7 +6,7 @@ slug: impressum
 type: narrow
 ---
 
-{{< content >}}
+{{< content top=12 >}}
 {{% richtext %}}
 # Impressum
 

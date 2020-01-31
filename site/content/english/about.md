@@ -8,7 +8,7 @@ og_image: og/og-skribble-mission.jpg
 
 ---
 
-{{< content >}}
+{{< content top=12 >}}
 {{% heading %}}
 # Skribble builds trust <br class="hide-for-mobile">in the digital world
 Once upon a time there was the hand-written signature –

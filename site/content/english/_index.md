@@ -56,7 +56,7 @@ legally binding in accordance with Swiss & EU law.
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< content >}}
+{{< content top=12 >}}
 {{% heading %}}
 # Sign legally in three steps
 {{% /heading %}}
@@ -95,7 +95,7 @@ Sign at the push of a button, independent of time and place, legally valid accor
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< content >}}
+{{< content top=12 >}}
 {{% heading %}}
 # If you sign with Skribble you save time at work
 {{% /heading %}}
@@ -125,7 +125,7 @@ us and our customers." {{< /testimonial >}}
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
 
-{{< content >}}
+{{< content top=12 >}}
 {{% heading %}}
 # Skribble complies with legal requirements
 With Skribble you sign legally
@@ -147,7 +147,7 @@ Skribble and its signing partner Swisscom commit to manage data in accordance wi
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< content >}}
+{{< content top=12 >}}
 {{% heading %}}
 # Use Skribble to maximise the legal weight of your signature
 The law distinguishes between qualified e-signatures (QES)
@@ -178,7 +178,7 @@ of area of application and legal weight.
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
 
-{{< logos-container title="Skribble in the media:">}}
+{{< logos-container top=6 bottom=10 title="Skribble in the media:">}}
   {{< logos-item src="logos/srf-logo-180w.svg" alt="SRF-Schweizer Radio und Fernsehen">}}
   {{< logos-item src="logos/handelszeitung-logo-240w.svg" alt="Handelszeitung">}}
   {{< logos-line-break >}}

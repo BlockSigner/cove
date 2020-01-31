@@ -9,7 +9,7 @@ og_image: og/og-skribble-identification.jpg
 
 ---
 
-{{< content >}}
+{{< content top=12 >}}
 {{% heading %}}
 # Business-Features
 Skribble Business Kunden signieren als Organisation – <br class="hide-for-mobile">mit zentraler Mitgliederverwaltung und gemeinsamer Abrechnung.

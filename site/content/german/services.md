@@ -8,7 +8,7 @@ og_image: og/og-skribble-mission.jpg
 
 ---
 
-{{< content >}}
+{{< content top=12 >}}
 {{% heading %}}
 # Bezahle pro Signatur oder als Flatrate und spare, wenn du mehr signierst
 Skribbles Angebotsstruktur passt sich deinen Bedürfnissen an.

@@ -7,7 +7,7 @@ url: /de/karriere/465/sales-manager-de/
 og_image: og/og-career.jpg
 ---
 
-{{< content >}}
+{{< content top=12 >}}
 {{< center >}}
 {{< button
   "Zurück"

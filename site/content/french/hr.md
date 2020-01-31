@@ -9,11 +9,11 @@ og_image: og/og-skribble-identification.jpg
 
 ---
 
-{{< content >}}
+{{< content top=12 >}}
 {{% heading %}}
 # Signer électroniquement dans les RH
-Avec Skribble, vous signez en toute sécurité juridique et en toute simplicité 
-par voie numérique – des contrats de travail aux références en passant 
+Avec Skribble, vous signez en toute sécurité juridique et en toute simplicité
+par voie numérique – des contrats de travail aux références en passant
 par les certificats de salaire.
 {{% /heading %}}
 {{< picture vertical-hr-main 560 "Trois femmes tenant un contrat entre leurs mains" >}}
@@ -84,7 +84,7 @@ Restez avec des outils familiers: signez à partir de vos programmes existants, 
 {{< content >}}
 {{% heading %}}
 # Avec Skribble, vous répondez aux exigences légales des processus RH
-Avec Skribble, vous pouvez signer numériquement et légalement (SEQ) 
+Avec Skribble, vous pouvez signer numériquement et légalement (SEQ)
 et satisfaire aux exigences légales suivantes:
 {{% /heading %}}
 
@@ -131,8 +131,8 @@ Comment nous, chez Skribble, facilitons la vie quotidienne de nos clients.
 {{< content >}}
 {{% heading %}}
 # Utilisez Skribble pour maximiser la force probante de votre signature
-La loi établit une distinction entre les signatures électroniques qualifiées (SEQ) 
-et les signatures électroniques avancées (SEA). Les deux normes varient 
+La loi établit une distinction entre les signatures électroniques qualifiées (SEQ)
+et les signatures électroniques avancées (SEA). Les deux normes varient
 en termes de domaine d'application et de force probante. Sur Skribble, vous pouvez choisir entre les deux.
 {{% /heading %}}
 {{< /content >}}
@@ -155,8 +155,8 @@ en termes de domaine d'application et de force probante. Sur Skribble, vous pouv
 {{< content >}}
 {{% heading %}}
 # Laissez-vous identifier
-Cela débloque la norme de signature électronique la plus élevée du marché: la SEQ. 
-Vous n'avez besoin que d'un document de voyage valide 
+Cela débloque la norme de signature électronique la plus élevée du marché: la SEQ.
+Vous n'avez besoin que d'un document de voyage valide
 (pièce d'identité ou passeport).
 {{% /heading %}}
 {{< picture "create-identity" 385 "Une loupe agrandit l'image d'une femme dans un passeport" >}}

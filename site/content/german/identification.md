@@ -9,7 +9,7 @@ og_image: og/og-skribble-identification.jpg
 
 ---
 
-{{< content >}}
+{{< content top=12 >}}
 {{% heading %}}
 # Identitätsprüfung für die QES
 Für das Signieren mit höchstem E-Signatur-Standard (QES) müssen <br class="hide-for-mobile">die Unterzeichnenden ihre Identität prüfen lassen. <br class="hide-for-mobile">Das ist via E-ID oder mit unserem Identifikationsservice möglich.

@@ -52,36 +52,36 @@
 // note: the following lines draw outlines and backgrounds for all major
 // components and label these components
 // =============================================================================
-// @mixin outline($name: default, $color: black, $orientation: 45deg) {
-//   outline: 1px solid $color !important;
-//   background: repeating-linear-gradient($orientation, rgba($color, .1),rgba($color, .1) 10px,rgba($color, .05) 10px,rgba($color, .05) 20px);
-//   position: relative;
-//   &:after {
-//     position: absolute;
-//     left: 0;
-//     top: 0;
-//     z-index: 10;
-//     font: 10px/1 monospace;
-//     background: $color;
-//     color: white;
-//     padding: 0 2px 2px 2px;
-//     content: '#{$name}';
-//   }
-// }
-// * {outline: 1px solid rgba(red, .1);}
-// .collapsible {@include outline(collapsible, darkgoldenrod, -45deg);}
-// .content {@include outline(content, black);}
-// .cta {@include outline(cta, seagreen);}
-// .heading {@include outline(heading, purple, -45deg);}
-// .intro {@include outline(intro, black);}
-// .outro {@include outline(outro, black);}
-// .picture {@include outline(picture, tomato, -45deg);}
-// .plan {@include outline(plan, darkslategrey, -45deg);}
-// .richtext {@include outline(richtext, mediumslateblue, -45deg);}
-// .row {@include outline(row, grey, -45deg);}
-// .side-by-side {@include outline(side-by-side, black);}
-// .table-wrapper {@include outline(table-wrapper, darkorchid);}
-// .logos-container {@include outline(logos-container, indianred);}
+@mixin outline($name: default, $color: black, $orientation: 45deg) {
+  outline: 1px solid $color !important;
+  background: repeating-linear-gradient($orientation, rgba($color, .1),rgba($color, .1) 10px,rgba($color, .05) 10px,rgba($color, .05) 20px);
+  position: relative;
+  &:after {
+    position: absolute;
+    left: 0;
+    top: 0;
+    z-index: 10;
+    font: 10px/1 monospace;
+    background: $color;
+    color: white;
+    padding: 0 2px 2px 2px;
+    content: '#{$name}';
+  }
+}
+* {outline: 1px solid rgba(red, .1);}
+.collapsible {@include outline(collapsible, darkgoldenrod, -45deg);}
+.content {@include outline(content, black);}
+.cta {@include outline(cta, seagreen);}
+.heading {@include outline(heading, purple, -45deg);}
+.intro {@include outline(intro, black);}
+.outro {@include outline(outro, black);}
+.picture {@include outline(picture, tomato, -45deg);}
+.plan {@include outline(plan, darkslategrey, -45deg);}
+.richtext {@include outline(richtext, mediumslateblue, -45deg);}
+.row {@include outline(row, grey, -45deg);}
+.side-by-side {@include outline(side-by-side, black);}
+.table-wrapper {@include outline(table-wrapper, darkorchid);}
+.logos-container {@include outline(logos-container, indianred);}
 // =============================================================================
 
 html {
@@ -128,14 +128,6 @@ img {
   padding-top: $header-height;
   @include max-width {
     padding-top: $header-height-mobile;
-  }
-
-  // first content component shall have a different padding
-  .content:first-child {
-    padding-top: 44px;
-    @include max-width {
-      padding-top: 22px;
-    }
   }
 
   > .title-subtitle:first-child {
@@ -186,12 +178,19 @@ img {
 
 // Spacing classes from 0 to 24: (coefficient)4px as padding-top and
 // padding-bottom, respectively
+// On mobile viewports, the constant is 2px instead of 4px
 @for $i from 0 through 24 {
   .pt-#{$i} {
-    padding-top: #{4 * $i}px
+    padding-top: #{4 * $i}px;
+    @include max-width {
+      padding-top: #{2 * $i}px;
+    }
   }
   .pb-#{$i} {
-    padding-bottom: #{4 * $i}px
+    padding-bottom: #{4 * $i}px;
+    @include max-width {
+      padding-bottom: #{2 * $i}px;
+    }
   }
 }
 

@@ -6,7 +6,7 @@ slug: preise
 
 ---
 
-{{< content >}}
+{{< content top=12 >}}
 {{% heading %}}
 # Signiere einfacher </br> mit dem passenden Preismodell
 Skribble eignet sich sowohl für gelegentliches

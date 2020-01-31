@@ -9,7 +9,7 @@ og_image: og/og-skribble-identification.jpg
 
 ---
 
-{{< content >}}
+{{< content top=12 >}}
 {{% heading %}}
 # Elektronische Signatur für Anwälte
 Über Skribble signierst du ohne USB-Stick oder Card-Reader <br class="hide-for-mobile">mit dem höchsten verfügbaren E-Signatur-Standard (QES).
@@ -116,8 +116,8 @@ Wie wir den Alltag unserer Kunden erleichtern.
 {{< content >}}
 {{% heading %}}
 # Mit Skribble maximierst du die Beweiskraft deiner Signatur
-Das Gesetz unterscheidet zwischen der qualifizierten E-Signatur (QES) 
-und der fortgeschrittenen E-Signatur (FES).Die beiden Standards variieren 
+Das Gesetz unterscheidet zwischen der qualifizierten E-Signatur (QES)
+und der fortgeschrittenen E-Signatur (FES).Die beiden Standards variieren
 punkto Einsatzgebiet und Beweiskraft.
 {{% /heading %}}
 
