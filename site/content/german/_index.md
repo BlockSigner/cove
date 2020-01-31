@@ -42,7 +42,7 @@ rechtsgültig nach dem Schweizer & EU Gesetz.
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< logos-container title="Uns vertrauen:">}}
+{{< logos-container top=6 bottom=10 title="Uns vertrauen:">}}
   {{< logos-item src="logos/canon-logo-142w.svg" alt="Canon">}}
   {{< logos-item src="logos/baggenstoss-logo-205w.svg" alt="Baggenstoss">}}
   {{< logos-line-break >}}

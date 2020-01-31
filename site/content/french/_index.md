@@ -41,7 +41,7 @@ Réaliser vos processus de signature simplement et <br class="hide-for-mobile">d
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< logos-container title="Confié par:">}}
+{{< logos-container top=6 bottom=10 title="Confié par:">}}
   {{< logos-item src="logos/canon-logo-142w.svg" alt="Canon">}}
   {{< logos-item src="logos/baggenstoss-logo-205w.svg" alt="Baggenstoss">}}
   {{< logos-line-break >}}

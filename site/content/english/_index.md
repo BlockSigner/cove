@@ -46,7 +46,7 @@ legally binding in accordance with Swiss & EU law.
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< logos-container title="Trusted by:">}}
+{{< logos-container top=6 bottom=10 title="Trusted by:">}}
   {{< logos-item src="logos/canon-logo-142w.svg" alt="Canon">}}
   {{< logos-item src="logos/baggenstoss-logo-205w.svg" alt="Baggenstoss">}}
   {{< logos-line-break >}}

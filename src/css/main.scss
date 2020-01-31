@@ -81,6 +81,7 @@
 // .row {@include outline(row, grey, -45deg);}
 // .side-by-side {@include outline(side-by-side, black);}
 // .table-wrapper {@include outline(table-wrapper, darkorchid);}
+// .logos-container {@include outline(logos-container, indianred);}
 // =============================================================================
 
 html {
@@ -119,8 +120,6 @@ img {
   align-items: center;
   min-height: 100vh;
 }
-
-
 
 .main {
   flex: 1 0 auto;
@@ -184,3 +183,31 @@ img {
 .text-right {
   text-align: right !important;
 }
+
+// Spacing classes from 0 to 12: (coefficient)4px as padding-top and
+// padding-bottom, respectively
+@for $i from 0 through 12 {
+  .pt-#{$i} {
+    padding-top: #{4 * $i}px
+  }
+  .pb-#{$i} {
+    padding-bottom: #{4 * $i}px
+  }
+}
+
+// Width classes
+// skr-container, is-wide, and .is-full-width
+.skr-container {
+  margin: 0 auto;
+  width: 1024px;
+  max-width: 100%;
+  padding-right: 24px;
+  padding-left: 24px;
+  &.is-wide {
+    width: 1400px;
+  }
+  &.is-full {
+    width: 100vw;
+  }
+}
+
