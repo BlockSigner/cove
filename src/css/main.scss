@@ -184,9 +184,9 @@ img {
   text-align: right !important;
 }
 
-// Spacing classes from 0 to 12: (coefficient)4px as padding-top and
+// Spacing classes from 0 to 24: (coefficient)4px as padding-top and
 // padding-bottom, respectively
-@for $i from 0 through 12 {
+@for $i from 0 through 24 {
   .pt-#{$i} {
     padding-top: #{4 * $i}px
   }
@@ -204,7 +204,7 @@ img {
   padding-right: 24px;
   padding-left: 24px;
   &.is-wide {
-    width: 1400px;
+    width: 1300px;
   }
   &.is-full {
     width: 100vw;

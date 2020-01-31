@@ -1,11 +1,14 @@
 .intro {
-  @include site-width;
-  @include double-padding;
-  display: flex;
-  align-items: center;
-  width: $intro-width;
-  @include max-width {
-    flex-direction: column-reverse;
+
+  &-inner {
+    // @include site-width;
+    // @include double-padding;
+    display: flex;
+    align-items: center;
+    // width: $intro-width;
+    @include max-width {
+      flex-direction: column-reverse;
+    }
   }
 
   .heading {

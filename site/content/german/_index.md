@@ -10,7 +10,7 @@ draft: false
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< intro >}}
+{{< intro top=24 bottom=12 width=wide >}}
 <div class="hide-for-mobile">
   {{< picture image1 678 "drei personen signieren ein elektronisches dokument" >}}
 </div>

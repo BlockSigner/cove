@@ -10,7 +10,7 @@ og_image: og/og-skribble.jpg
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< intro >}}
+{{< intro top=24 bottom=12 width=wide >}}
 <div class="hide-for-mobile">
   {{< picture image1 678 "trois personnes signent un document électronique" >}}
 </div>
