@@ -86,7 +86,7 @@ Restez avec des outils familiers: connectez-vous directement via votre navigateu
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< content >}}
+{{< content top=12 >}}
 {{% heading %}}
 # Avec Skribble, vous répondez aux exigences des procédures légales
 Avec Skribble, vous signez légalement et en toute sécurité en remplissant
@@ -108,7 +108,7 @@ Skribble et ses partenaires gèrent leurs données conformément à la loi féd�
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< content >}}
+{{< content top=12 >}}
 {{% heading %}}
 # Utilisez Skribble pour maximiser la force probante de votre signature
 La loi établit une distinction entre les signatures électroniques qualifiées (SEQ)
@@ -134,7 +134,7 @@ Sur Skribble, vous pouvez choisir entre les deux.
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
 
-{{< content >}}
+{{< content top=12 >}}
 {{% heading %}}
 # Laissez-vous identifier
 Cela débloque la norme de signature électronique la plus élevée du marché: la SEQ.
@@ -164,7 +164,7 @@ Vous n'avez besoin que d'un document de voyage valide
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
 
-{{< content >}}
+{{< content top=12 >}}
 {{% heading %}}
 # Est-ce que ça va?
 {{% /heading %}}

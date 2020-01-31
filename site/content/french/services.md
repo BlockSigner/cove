@@ -45,7 +45,7 @@ Plus vous achetez de signatures dans un forfait prépayé, plus le prix unitaire
 {{% /richtext %}}
 {{< /cta >}}
 
-{{< content >}}
+{{< content top=12 >}}
 
 {{% heading %}}
 # Identification

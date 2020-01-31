@@ -45,7 +45,7 @@ Skribble Business Kunden signieren als Organisation – <br class="hide-for-mobi
     description="Sehe die aktuelle und alle vergangenen Rechnungen jederzeit ein.">}}
 {{< /features-container >}}
 
-{{< content >}}
+{{< content top=12 >}}
 {{% heading %}}
 # Skribble Business bettet sich <br class="hide-for-mobile">in deine bestehende Infrastruktur ein
 Das Onboarding neuer Signierenden ist intuitiv und schnell.
@@ -76,7 +76,7 @@ den Alltag für uns und unseren Kunden."{{< /testimonial >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< content >}}
+{{< content top=12 >}}
 {{% heading %}}
 # Organisationsweite Einführung <br class="hide-for-mobile">ist einfach und schnell
 Befähige neue und bestehende Mitarbeitende in kürzester Zeit
@@ -107,7 +107,7 @@ Geeignet für Verträge mit Formvorschrift.
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< content >}}
+{{< content top=12 >}}
 {{% heading %}}
 # Ideales Kosten-Nutzen-Verhältnis
 Wähle das passende Preismodell für deine Organisation

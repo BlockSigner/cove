@@ -56,7 +56,7 @@ Die Beweiskraft deiner Signatur wird auf 100% angehoben (QES-Level)
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< content >}}
+{{< content top=12 >}}
 {{% heading %}}
 # Alles klar?
 {{% /heading %}}
@@ -91,7 +91,7 @@ Die persönliche Identifikation wird nur für das Signieren mit dem höchsten E-
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< content >}}
+{{< content top=12 >}}
 {{% heading %}}
 # Standorte für die Identitätsprüfung
 Komm vorbei und lass dich kostenlos identifzieren.

@@ -19,7 +19,7 @@ die technologische Sicherheit und Einfachheit vereint.
 
 {{< picture integration-main 580 "Ein Ingenieur steht vor einem API-Fenster mit einer API-Dokumenation." >}}
 
-{{< content >}}
+{{< content top=12 >}}
 {{% richtext center %}}
 ### Nutze Skribble über den Browser oder integriere die Plattform via API in eure bestehende Softwareumgebung
 {{% /richtext %}}
@@ -53,7 +53,7 @@ die technologische Sicherheit und Einfachheit vereint.
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< content >}}
+{{< content top=12 >}}
 {{% heading %}}
 # Mit Skribble arbeitest du auf höchsten Technologie- und Security-Standards
 {{% /heading %}}
@@ -95,7 +95,7 @@ Skribble trägt das Label <br class="hide-for-mobile"><a href="https://www.swiss
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< content >}}
+{{< content top=12 >}}
 {{% heading %}}
 # API ausprobieren
 In deinem Skribble Business Konto kannst du einen Demo-Schlüssel erstellen.

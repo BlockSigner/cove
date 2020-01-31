@@ -35,7 +35,7 @@ Skribble makes it easy**
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< content >}}
+{{< content top=12 >}}
 {{% heading %}}
 # Use your existing e-ID
 Persons who have a verified e-ID can sign with QES on Skribble
@@ -80,7 +80,7 @@ Let us advise you and find the right identification solution for your company.
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< content >}}
+{{< content top=12 >}}
 {{% heading %}}
 # Get identified
 If you do not have an e-ID, Skribble can identify you within minutes.

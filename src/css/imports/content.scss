@@ -1,13 +1,5 @@
 .content {
 
-  &-inner {
-    // @include min-width {
-    //   padding-top: 88px;
-    // }
-  }
-  // @include site-width($narrow: true);
-  // @include standard-padding;
-
   p:last-child {
     margin-bottom: 0;
   }
@@ -19,8 +11,4 @@
       margin-top: $standard-padding;
     }
   }
-}
-
-.no-bottom-padding {
-  padding-bottom: 0px;
 }

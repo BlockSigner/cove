@@ -47,7 +47,7 @@ Skribble Business customers sign organised as a group - with
     description="View the current and all past invoices at any time.">}}
 {{< /features-container >}}
 
-{{< content >}}
+{{< content top=12 >}}
 {{% heading %}}
 # Skribble Business embeds itself into your existing infrastructure
 The onboarding of new signers is intuitive and fast.
@@ -80,7 +80,7 @@ us and our customers." {{< /testimonial >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< content >}}
+{{< content top=12 >}}
 {{% heading %}}
 # Organisation-wide implementation is simple and fast
 Enable new and existing employees to sign electronically
@@ -111,7 +111,7 @@ Identification services for highest demands on the legal weight of the signature
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< content >}}
+{{< content top=12 >}}
 {{% heading %}}
 # Ideal cost-benefit ratio
 Choose the right pricing model for your organization.

@@ -82,7 +82,7 @@ Stay with familiar tools: sign directly via your browser or from your existing s
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< content >}}
+{{< content top=12 >}}
 {{% heading %}}
 # Skribble complies with the legal requirements for HR processes
 You sign with legal effect and securely in accordance with the following requirements:
@@ -103,7 +103,7 @@ Skribble and its signing partner Swisscom commit to manage data in accordance wi
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< content class="no-bottom-padding" >}}
+{{< content top=12 >}}
 {{% heading %}}
 # Our customers have a good time
 How we at Skribble make everyday life easier for our customers.
@@ -129,7 +129,7 @@ How we at Skribble make everyday life easier for our customers.
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
 
-{{< content >}}
+{{< content top=12 >}}
 {{% heading %}}
 # Use Skribble to maximise the legal weight of your signature
 The law distinguishes between qualified e-signatures (QES)
@@ -153,7 +153,7 @@ between the signature standards AES and QES.**
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< content >}}
+{{< content top=12 >}}
 {{% heading %}}
 # Get identified
 This will unlock the highest e-signature standard available – QES.
@@ -180,7 +180,7 @@ and get identified**
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< content >}}
+{{< content top=12 >}}
 {{% heading %}}
 # All clear?
 {{% /heading %}}

@@ -20,7 +20,7 @@ Pour les contrats qui exigent la forme écrite – c'est-à-dire qui doivent êt
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< content >}}
+{{< content top=12 >}}
 {{% heading %}}
 # Skribble offre 100% de sécurité juridique devant les tribunaux
 Skribble travaille avec la SEQ. Ainsi, les documents signés avec Skribble sont juridiquement contraignants.
@@ -36,7 +36,7 @@ Skribble travaille avec la SEQ. Ainsi, les documents signés avec Skribble sont 
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< content >}}
+{{< content top=12 >}}
 {{% heading %}}
 # Vérifiez si votre document a été signé avec la SEQ
 Le validateur de l'administration fédérale suisse vous permet de vérifier si votre document a été signé avec une SEQ selon le droit suisse.*

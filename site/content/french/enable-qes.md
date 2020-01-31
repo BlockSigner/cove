@@ -54,7 +54,7 @@ La force probante de votre signature est portée à 100% (niveau SEQ)
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< content >}}
+{{< content top=12 >}}
 {{% heading %}}
 # Tout va bien?
 {{% /heading %}}
@@ -82,7 +82,7 @@ Non. Mais avec un Mobile ID, la signature est plus rapide et plus facile, c'est 
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< content >}}
+{{< content top=12 >}}
 {{% heading %}}
 # Sites d'identification
 Venez vous identifier gratuitement. Apportez votre passeport <br class="hide-for-mobile">ou votre carte d'identité en cours de validité et votre téléphone portable.

@@ -65,7 +65,7 @@ FINMA-compliant, ISO 27001 certified
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< content >}}
+{{< content top=12 >}}
 {{% heading %}}
 # Free signing with Skribble
 until the end of the year for EXPERTsuisse members. As of January 2020
@@ -107,7 +107,7 @@ A firm may also elect to identify persons itself.
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< content >}}
+{{< content top=12 >}}
 {{% heading %}}
 # All clear?
 {{% /heading %}}

@@ -53,7 +53,7 @@ Mit Skribble signierst du nicht nur rechtsgültig, sondern auch einfach.
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
 
-{{< content >}}
+{{< content top=12 >}}
 {{% heading %}}
 # Folgt in Kürze
 Unsere Vision ist gross. Wir entwickeln Skribble Tag für Tag weiter.

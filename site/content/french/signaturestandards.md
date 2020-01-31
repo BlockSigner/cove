@@ -72,7 +72,7 @@ Vérifiez si un document a été signé avec la SEQ
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
 
-{{< content >}}
+{{< content top=12 >}}
 {{% heading %}}
 # SEA: La solution pragmatique pour les contrats sans exigences formelles
 Immédiatement prête à l'emploi grâce à des exigences d'identification réduites

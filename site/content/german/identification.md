@@ -33,7 +33,7 @@ Für das Signieren mit höchstem E-Signatur-Standard (QES) müssen <br class="hi
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< content >}}
+{{< content top=12 >}}
 {{% heading %}}
 # Bestehende E-ID nutzen
 Personen, die über eine geprüfte E-ID verfügen, können auf Skribble <br class="hide-for-mobile">ohne zusätzliche Identitätsprüfung rechtsgültig signieren.
@@ -78,7 +78,7 @@ Lass dich beraten und finde die passende Identifikations-Lösung für deine Firm
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< content >}}
+{{< content top=12 >}}
 {{% heading %}}
 # Skribbles Identifikations-Service nutzen
 Wer über keine E-ID verfügt, kann die Identifikation mit Hilfe von Skribble durchführen.

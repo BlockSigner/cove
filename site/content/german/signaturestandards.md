@@ -71,7 +71,7 @@ Prüfe, ob ein Dokument mit QES signiert wurde.
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< content >}}
+{{< content top=12 >}}
 {{% heading %}}
 # FES: Die pragmatische Lösung für Verträge ohne Formvorschrift
 Sofort einsatzbereit dank geringeren Auflagen

@@ -94,7 +94,7 @@ solution for qualified electronic signatures in Switzerland."
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< content >}}
+{{< content top=12 >}}
 {{% heading %}}
 # Skribble complies with the legal requirements for court processes
 You sign with legal effect and securely in accordance
@@ -116,7 +116,7 @@ Skribble and its signing partner Swisscom commit to manage data in accordance wi
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< content >}}
+{{< content top=12 >}}
 {{% heading %}}
 # Use Skribble to maximise the legal weight of your signature
 The law distinguishes between qualified e-signatures (QES)
@@ -143,7 +143,7 @@ between the signature standards AES and QES.**
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
 
-{{< content >}}
+{{< content top=12 >}}
 {{% heading %}}
 # Get identified
 This will unlock the highest e-signature standard available – QES.
@@ -171,7 +171,7 @@ digital identities"
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< content >}}
+{{< content top=12 >}}
 {{% heading %}}
 # All clear?
 {{% /heading %}}

@@ -64,7 +64,7 @@ FINMA-Konform, ISO 27001 zertifiziert
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< content >}}
+{{< content top=12 >}}
 {{% heading %}}
 # SAV-FSA Mitglieder nutzen Skribble zum Vorzugspreis
 {{% /heading %}}

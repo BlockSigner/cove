@@ -44,7 +44,7 @@ Je mehr, desto günstiger
 {{% /richtext %}}
 {{< /cta >}}
 
-{{< content >}}
+{{< content top=12 >}}
 
 {{% heading %}}
 # Identifikation

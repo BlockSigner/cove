@@ -62,7 +62,7 @@ Traiter les processus de signature numériquement &ndash; <br class="hide-for-mo
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< content >}}
+{{< content top=12 >}}
 {{% heading %}}
 # Signature gratuite avec Skribble <br class="hide-for-mobile">jusqu'à la fin de l'année <br class="hide-for-mobile">pour les membres EXPERTsuisse. À partir de janvier 2020
 {{% /heading %}}
@@ -106,7 +106,7 @@ Un entreprise peut également être qualifié pour le faire, pour identifier les
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
 
-{{< content >}}
+{{< content top=12 >}}
 {{% heading %}}
 # Est-ce que ça va?
 {{% /heading %}}

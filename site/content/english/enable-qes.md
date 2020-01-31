@@ -56,7 +56,7 @@ The legal weight of your signature is raised to 100% (QES level)
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< content >}}
+{{< content top=12 >}}
 {{% heading %}}
 # All clear?
 {{% /heading %}}
@@ -93,7 +93,7 @@ Personal identification is only required for signing with the highest e-signatur
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< content >}}
+{{< content top=12 >}}
 {{% heading %}}
 # Identification sites
 Come by and get identified for free.

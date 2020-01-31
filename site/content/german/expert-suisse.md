@@ -62,7 +62,7 @@ Signaturprozesse einfach digital abwickeln – <br class="hide-for-mobile">recht
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< content >}}
+{{< content top=12 >}}
 {{% heading %}}
 # Kostenlos Signieren mit Skribble <br class="hide-for-mobile">bis Ende Jahr für Mitglieder <br class="hide-for-mobile">von EXPERTsuisse. Ab Januar 2020
 {{% /heading %}}
@@ -103,7 +103,7 @@ Deine Firma kann auch dazu befähigt werden, selbst Personen zu identifizieren.
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< content >}}
+{{< content top=12 >}}
 {{% heading %}}
 # Alles klar?
 {{% /heading %}}

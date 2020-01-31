@@ -56,7 +56,7 @@ us and our customers." {{< /testimonial >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< content class="no-bottom-padding" >}}
+{{< content top=12 >}}
 {{% heading %}}
 # Coming soon
 Our vision is great. We develop Skribble day by day.

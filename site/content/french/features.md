@@ -54,7 +54,7 @@ légalement valable, mais aussi simple.
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< content >}}
+{{< content top=12 >}}
 {{% heading %}}
 # À venir
 Notre vision est grande. Nous développons Skribble jour après jour.

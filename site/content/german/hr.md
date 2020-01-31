@@ -77,7 +77,7 @@ Bei gewohnten Tools bleiben: Signiere direkt über den Browser oder aus deiner b
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< content >}}
+{{< content top=12 >}}
 {{% heading %}}
 # Mit Skribble erfüllst du <br class="hide-for-mobile">die rechtlichen Anforderungen <br class="hide-for-mobile">an HR-Prozesse
 Du signierst rechtsgültig und sicher gemäss folgenden Erfordernissen:
@@ -98,7 +98,7 @@ Skribble sowie Partner verwalten ihre Daten gemäss dem Bundesgesetz über den D
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< content >}}
+{{< content top=12 >}}
 {{% heading %}}
 # Unser Kunden haben gut lachen
 Wie wir den Alltag unserer Kunden erleichtern.
@@ -123,7 +123,7 @@ Wie wir den Alltag unserer Kunden erleichtern.
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< content >}}
+{{< content top=12 >}}
 {{% heading %}}
 # Mit Skribble maximierst du <br class="hide-for-mobile">die Beweiskraft deiner Signatur
 Das Gesetz unterscheidet zwischen der qualifizierten E-Signatur (QES)
@@ -147,7 +147,7 @@ variieren punkto Einsatzgebiet und Beweiskraft.
 {{% /richtext %}}
 {{< /cta >}}
 
-{{< content >}}
+{{< content top=12 >}}
 {{% heading %}}
 # Lass dich identifizieren
 Damit schaltest du den höchsten verfügbaren E-Signatur-Standard QES frei. <br class="hide-for-mobile">Du benötigst nur ein gültiges Reisedokument (ID oder Pass).
@@ -174,7 +174,7 @@ Damit schaltest du den höchsten verfügbaren E-Signatur-Standard QES frei. <br 
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< content >}}
+{{< content top=12 >}}
 {{% heading %}}
 # Alles klar?
 {{% /heading %}}

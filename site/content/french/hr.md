@@ -81,7 +81,7 @@ Restez avec des outils familiers: signez à partir de vos programmes existants, 
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< content >}}
+{{< content top=12 >}}
 {{% heading %}}
 # Avec Skribble, vous répondez aux exigences légales des processus RH
 Avec Skribble, vous pouvez signer numériquement et légalement (SEQ)
@@ -103,7 +103,7 @@ Skribble et ses partenaires gèrent leurs données conformément à la loi féd�
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< content >}}
+{{< content top=12 >}}
 {{% heading %}}
 # Nos clients s'amusent bien
 Comment nous, chez Skribble, facilitons la vie quotidienne de nos clients.
@@ -128,7 +128,7 @@ Comment nous, chez Skribble, facilitons la vie quotidienne de nos clients.
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< content >}}
+{{< content top=12 >}}
 {{% heading %}}
 # Utilisez Skribble pour maximiser la force probante de votre signature
 La loi établit une distinction entre les signatures électroniques qualifiées (SEQ)
@@ -152,7 +152,7 @@ en termes de domaine d'application et de force probante. Sur Skribble, vous pouv
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< content >}}
+{{< content top=12 >}}
 {{% heading %}}
 # Laissez-vous identifier
 Cela débloque la norme de signature électronique la plus élevée du marché: la SEQ.
@@ -181,7 +181,7 @@ Vous n'avez besoin que d'un document de voyage valide
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
 
-{{< content >}}
+{{< content top=12 >}}
 {{% heading %}}
 # Est-ce que ça va?
 {{% /heading %}}

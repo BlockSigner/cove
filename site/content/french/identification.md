@@ -31,7 +31,7 @@ Pour la signature électronique qualifiée (SEQ), <br class="hide-for-mobile">le
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< content >}}
+{{< content top=12 >}}
 {{% heading %}}
 # Utiliser une e-ID existante
 Les personnes qui ont une e-ID vérifiée peuvent signer avec SEQ <br class="hide-for-mobile">sur Skribble sans contrôle d'identité supplémentaire.
@@ -77,7 +77,7 @@ Laissez-nous vous conseiller et trouvez <br class="hide-for-mobile">la solution 
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< content >}}
+{{< content top=12 >}}
 {{% heading %}}
 # Utiliser la service <br class="hide-for-mobile">d'identification de Skribble
 Si vous n'avez pas d'e-ID, l'identification peut se faire à l'aide de Skribble.

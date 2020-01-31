@@ -72,7 +72,7 @@ Check whether a document has been signed with QES
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
 
-{{< content >}}
+{{< content top=12 >}}
 {{% heading %}}
 # AES: The pragmatic solution <br class="hide-for-mobile">for contracts without <br class="hide-for-mobile">formal requirements
 Instantly operational thanks to lower requirements

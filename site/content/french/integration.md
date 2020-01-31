@@ -19,7 +19,7 @@ qui allie sécurité technologique et simplicité.
 
 {{< picture integration-main 580 "Un ingénieur se tient devant une fenêtre de l'API avec la documentation de l'API." >}}
 
-{{< content >}}
+{{< content top=12 >}}
 {{% richtext center %}}
 ### Utilisez Skribble via le navigateur ou intégrez la plate-forme dans votre environnement logiciel existant via API.
 {{% /richtext %}}
@@ -53,7 +53,7 @@ qui allie sécurité technologique et simplicité.
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< content >}}
+{{< content top=12 >}}
 {{% heading %}}
 # Avec Skribble, vous travaillez selon <br class="hide-for-mobile">les plus hauts standards de technologie et de sécurité.
 {{% /heading %}}
@@ -95,7 +95,7 @@ Skribble porte le label <br class="hide-for-mobile"><a href="https://www.swissma
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< content >}}
+{{< content top=12 >}}
 {{% heading %}}
 # Essayez l'API
 Vous pouvez créer une clé de démonstration <br class="hide-for-mobile">dans votre compte Skribble Business.
