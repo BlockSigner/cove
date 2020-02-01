@@ -1,13 +1,12 @@
-<div class="heading {{ cond (eq (.Get 0) "left") "heading--left" "" }} {{if .Get "class"}}{{.Get "class"}}{{end}}" >
+<div class="headline">
   <div class="
     skr-container
     {{ if .Get "top"  }}pt-{{ .Get "top" }}{{ end }}
     {{ if .Get "bottom"  }}pb-{{ .Get "bottom" }}{{ end }}
     {{ if .Get "width"  }}is-{{ .Get "width" }}{{ end }}
+    {{ if .Get "text" }}text-{{ .Get "text" }}{{ end }}
   ">
-    <div class="heading-inner">
-      {{.Inner}}
-    </div>
+    {{.Inner}}
   </div>
 </div>
 

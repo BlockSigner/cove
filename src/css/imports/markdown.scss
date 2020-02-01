@@ -1,0 +1,9 @@
+.markdown {
+  @include richtext-styling;
+
+  h1, h2, h3, h4, p {
+    &:first-child {
+      margin-top: 0;
+    }
+  }
+}

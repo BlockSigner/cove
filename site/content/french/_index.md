@@ -10,33 +10,21 @@ og_image: og/og-skribble.jpg
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< intro top=24 bottom=12 width=wide >}}
-<div class="hide-for-mobile">
-  {{< picture image1 678 "trois personnes signent un document électronique" >}}
-</div>
-
-{{< richtext >}}
-{{% heading left %}}
+{{< intro top=24 bottom=12 width=wide img=image1 img-width=678 img-alt="trois personnes signent un document électronique" >}}
+{{% markdown %}}
 # Signer légalement et électroniquement grâce à Skribble
-Réaliser vos processus de signature simplement et <br class="hide-for-mobile">de façon digitale, conformément à la loi suisse et européenne.
-{{% /heading %}}
-
-<div class="hide-for-desktop">
-  {{< picture image1 678 "trois personnes signent un document électronique" >}}
-</div>
-
+Réaliser vos processus de signature simplement et
+de façon digitale, conformément à la loi suisse et européenne.
+{{% /markdown %}}
 {{< button
   "Essayer maintenant"
   "https://my.skribble.com/signup?lang=fr"
   "_blank"
 >}}
-
 {{< intro-partner
   "image/swisscom.png"
   "Basé sur les certificats de signature de Swisscom"
 >}}
-
-{{< /richtext >}}
 {{< /intro >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
@@ -51,10 +39,10 @@ Réaliser vos processus de signature simplement et <br class="hide-for-mobile">d
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< content top=12 >}}
-{{% heading %}}
+{{< content top=12 width="narrow" >}}
+{{% markdown %}}
 # Signer légalement en trois étapes
-{{% /heading %}}
+{{% /markdown %}}
 {{< /content >}}
 
 {{< side-by-side >}}
@@ -90,10 +78,10 @@ Signez par simple pression d'un bouton, indépendamment de l'heure et du lieu, d
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< content top=12 >}}
-{{% heading %}}
+{{< content top=12 width="narrow" >}}
+{{% markdown %}}
 # En signant avec Skribble, <br class="hide-for-mobile">vous gagnez du temps au travail
-{{% /heading %}}
+{{% /markdown %}}
 {{< /content >}}
 
 {{< picture skribble-ui-fr 1020 "Skribble plattform - user interface" >}}
@@ -108,19 +96,21 @@ Signez par simple pression d'un bouton, indépendamment de l'heure et du lieu, d
 {{< /center >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
-<br>
+
 {{< testimonial "testimonial/fr-logo-99w.svg" "Stéphane Schwab, Chef de E-Gouvernement du canton de Fribourg" >}}
 "Grâce à Skribble, nous pouvons numériser les processus administratifs de A à Z. <br class="hide-for-mobile">Cela facilite notre vie quotidienne et celle de nos clients." {{< /testimonial >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< content top=12 >}}
-{{% heading %}}
+{{< content top=12 width="narrow" >}}
+{{% markdown %}}
 # Avec Skribble, vous remplissez <br class="hide-for-mobile">les exigences légales
 Avec Skribble, vous signez légalement et en toute sécurité
 en remplissant les conditions suivantes:
-{{% /heading %}}
+{{% /markdown %}}
+{{< /content >}}
 
+{{< content top=6 width="narrow" >}}
 {{% collapsible 1 "Normes de signature électronique SEQ und SEA selon SCSE/eIDAS" "check" %}}
 Skribble travaille exclusivement avec des standards de signature électronique légalement définis: la signature électronique qualifiée (SEQ) et la signature électronique avancée (SEA).
 {{% /collapsible %}}
@@ -136,13 +126,13 @@ Skribble et ses partenaires gèrent leurs données conformément à la loi féd�
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< content top=12 >}}
-{{% heading %}}
+{{< content top=12 width="narrow" >}}
+{{% markdown %}}
 # Utilisez Skribble pour maximiser la force probante de votre signature
 La loi établit une distinction entre les signatures électroniques qualifiées (SEQ)
 et les signatures électroniques avancées (SEA). Les deux normes varient
 en termes de domaine d'application et de force probante. Sur Skribble, vous pouvez choisir entre les deux.
-{{% /heading %}}
+{{% /markdown %}}
 {{< /content >}}
 
 {{< picture force_probante 664 "Force_Probante" >}}
@@ -180,10 +170,10 @@ en termes de domaine d'application et de force probante. Sur Skribble, vous pouv
 {{< picture image8 414 "Un homme se tient à côté d'un document électronique avec un stylo plume géant" >}}
 
 {{< richtext >}}
-{{% heading %}}
+{{% markdown %}}
 # Signer légalement <br class="hide-for-mobile">et numériquement maintenant!
 Aucune carte de crédit, aucun droit d'entrée <br class="hide-for-mobile">ou engagement n'est requis.
-{{% /heading %}}
+{{% /markdown %}}
 
 {{< button
   "Essayer maintenant"

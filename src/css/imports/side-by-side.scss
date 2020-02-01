@@ -8,7 +8,8 @@
     flex-direction: column;
   }
 
-  .richtext {
+  .richtext,
+  .markdown {
     @include min-width {
       flex: 1 1 100%;
     }
@@ -26,9 +27,9 @@
       }
     }
 
-    h2:first-child {
-      margin-top: 0;
-    }
+    // h2:first-child {
+    //   margin-top: 0;
+    // }
   }
 
   .picture {

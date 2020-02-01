@@ -10,34 +10,21 @@ draft: false
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< intro top=24 bottom=12 width=wide >}}
-<div class="hide-for-mobile">
-  {{< picture image1 678 "drei personen signieren ein elektronisches dokument" >}}
-</div>
-
-{{< richtext >}}
-{{% heading left %}}
+{{< intro top=24 bottom=12 width=wide img=image1 img-width=678 img-alt="drei personen signieren ein elektronisches dokument" >}}
+{{% markdown %}}
 # Rechtsgültig elektronisch signieren mit Skribble
 Signaturprozesse einfach digital abwickeln –
 rechtsgültig nach dem Schweizer & EU Gesetz.
-{{% /heading %}}
-
-<div class="hide-for-desktop">
-  {{< picture image1 678 "drei personen signieren ein elektronisches dokument" >}}
-</div>
-
+{{% /markdown %}}
 {{< button
   "Jetzt ausprobieren"
   "https://my.skribble.com/signup?lang=de"
   "_blank"
 >}}
-
 {{< intro-partner
   "image/swisscom.png"
   "Basierend auf Signaturzertifikaten der Swisscom"
 >}}
-
-{{< /richtext >}}
 {{< /intro >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
@@ -52,10 +39,10 @@ rechtsgültig nach dem Schweizer & EU Gesetz.
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< content top=12 >}}
-{{% heading %}}
+{{< content top=12 width="narrow" >}}
+{{% markdown %}}
 # In 3 Schritten rechtsgültig signieren
-{{% /heading %}}
+{{% /markdown %}}
 {{< /content >}}
 
 {{< side-by-side >}}
@@ -92,10 +79,10 @@ und EU-Recht.
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< content top=12 >}}
-{{% heading %}}
+{{< content top=12 width="narrow" >}}
+{{% markdown %}}
 # Signierst du mit Skribble, <br class="hide-for-mobile">sparst du Zeit im Arbeitsalltag
-{{% /heading %}}
+{{% /markdown %}}
 {{< /content >}}
 
 {{< picture skribble-ui-de 1020 "Skribble plattform - user interface" >}}
@@ -109,19 +96,20 @@ und EU-Recht.
 {{< /center >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
-<br>
+
 {{< testimonial "testimonial/fr-logo-99w.svg" "Stéphane Schwab, Leiter E-Government, Kanton Freiburg" >}}
 "Dank Skribble können wir Administrationsprozesse von A bis Z digitalisieren. Das erleichtert <br class="hide-for-mobile">den Alltag für uns und unseren Kunden." {{< /testimonial >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-
-{{< content top=12 >}}
-{{% heading %}}
+{{< content top=12 width="narrow" >}}
+{{% markdown %}}
 # Mit Skribble erfüllst du <br class="hide-for-mobile">die rechtlichen Anforderungen
 Signiere rechtsgültig und sicher gemäss folgenden Erfordernissen:
-{{% /heading %}}
+{{% /markdown %}}
+{{< /content >}}
 
+{{< content top=6 width="narrow" >}}
 {{% collapsible 1 "E-Signatur-Standards QES und FES gemäss ZertES/eIDAS" "check" %}}
 Skribble arbeitet ausschliesslich mit gesetzlich definierten E-Signatur-Standards: Die qualifizierte elektronische Signatur (QES) und die fortgeschrittene elektronische Signatur (FES).
 {{% /collapsible %}}
@@ -137,13 +125,13 @@ Skribble sowie Partner verwalten ihre Daten gemäss dem Bundesgesetz über den D
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< content top=12 >}}
-{{% heading %}}
+{{< content top=12 width="narrow" >}}
+{{% markdown %}}
 # Mit Skribble maximierst du die Beweiskraft deiner Signatur
 Das Gesetz unterscheidet zwischen der qualifizierten E-Signatur (QES)
 und der fortgeschrittenen E-Signatur (FES). Die beiden Standards
 variieren punkto Einsatzgebiet und Beweiskraft.
-{{% /heading %}}
+{{% /markdown %}}
 {{< /content >}}
 
 {{< picture beweiskraft 664 "Ein Mann unterschreibt mit einem Füller digitale Dokumente nach Schweizer und Europäischen Recht" >}}
@@ -178,7 +166,6 @@ den Signaturstandards FES und QES wählen.**
 {{< /logos-container >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
-
 
 {{< outro >}}
 {{< picture image8 414 "Ein mann steht mit einem riesen füller neben einem elektronischen dokument" >}}

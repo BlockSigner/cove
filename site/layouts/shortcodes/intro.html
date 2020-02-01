@@ -5,9 +5,17 @@
     {{ if .Get "top"  }}pt-{{ .Get "top" }}{{ end }}
     {{ if .Get "bottom"  }}pb-{{ .Get "bottom" }}{{ end }}
     {{ if .Get "width"  }}is-{{ .Get "width" }}{{ end }}
+    {{ if .Get "text" }}text-{{ .Get "text" }}{{ end }}
   ">
     <div class="intro-inner">
-      {{.Inner}}
+      {{ if .Get "img" }}
+        <div class="intro__img">
+          {{ partial "picture" (dict "alt" (.Get "img-alt") "filename" (.Get "img") "natural_width" (.Get "img-width")) }}
+        </div>
+      {{ end }}
+      <div class="intro__body">
+        {{.Inner}}
+      </div>
     </div>
   </div>
 </div>

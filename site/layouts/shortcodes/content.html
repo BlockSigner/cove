@@ -4,6 +4,7 @@
     {{ if .Get "top"  }}pt-{{ .Get "top" }}{{ end }}
     {{ if .Get "bottom"  }}pb-{{ .Get "bottom" }}{{ end }}
     {{ if .Get "width"  }}is-{{ .Get "width" }}{{ end }}
+    {{ if .Get "text" }}text-{{ .Get "text" }}{{ end }}
   ">
     <div class="content-inner">
       {{.Inner}}

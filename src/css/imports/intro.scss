@@ -1,13 +1,31 @@
 .intro {
 
   &-inner {
-    // @include site-width;
-    // @include double-padding;
     display: flex;
     align-items: center;
-    // width: $intro-width;
     @include max-width {
       flex-direction: column-reverse;
+    }
+  }
+
+  &__body {
+    @include min-width {
+      flex: 1 1 0%;
+      padding: 0 40px 0 0;
+    }
+
+    + .hide-for-mobile {
+      padding-right: 0;
+    }
+  }
+
+  &__img {
+    @include min-width {
+      flex: 1 1 0%;
+      padding: 0 40px 0 0;
+    }
+    @include max-width {
+      margin: 40px auto;
     }
   }
 

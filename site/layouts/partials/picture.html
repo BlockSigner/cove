@@ -1,20 +1,18 @@
 <picture>
-  <a href="{{ .url }}" target="_blank">
-    {{ $width_x2 := mul (int .natural_width) 2 }}
-    <source
-      type="image/webp"
-      srcset="image/{{ .filename }}-{{ .natural_width }}w.webp {{ .natural_width }}w, image/{{ .filename }}-{{ $width_x2 }}w.webp {{ $width_x2 }}w"
-      sizes="(max-width: 767px) 90vw, {{ .natural_width }}px"
-    />
-    <source
-      type="image/jpeg"
-      srcset="image/{{ .filename }}-{{ .natural_width }}w.jpg {{ .natural_width }}w, image/{{ .filename }}-{{ $width_x2 }}w.jpg {{ $width_x2 }}w"
-      sizes="(max-width: 767px) 90vw, {{ .natural_width }}px"
-    />
-    <img
-      alt="{{ .alt }}"
-      src="image/{{ .filename }}-{{ .natural_width }}w.jpg"
-      width="{{ .natural_width }}"
-    />
-  </a>
+  {{ $width_x2 := mul (int .natural_width) 2 }}
+  <source
+    type="image/webp"
+    srcset="image/{{ .filename }}-{{ .natural_width }}w.webp {{ .natural_width }}w, image/{{ .filename }}-{{ $width_x2 }}w.webp {{ $width_x2 }}w"
+    sizes="(max-width: 767px) 90vw, {{ .natural_width }}px"
+  />
+  <source
+    type="image/jpeg"
+    srcset="image/{{ .filename }}-{{ .natural_width }}w.jpg {{ .natural_width }}w, image/{{ .filename }}-{{ $width_x2 }}w.jpg {{ $width_x2 }}w"
+    sizes="(max-width: 767px) 90vw, {{ .natural_width }}px"
+  />
+  <img
+    alt="{{ .alt }}"
+    src="image/{{ .filename }}-{{ .natural_width }}w.jpg"
+    width="{{ .natural_width }}"
+  />
 </picture>
