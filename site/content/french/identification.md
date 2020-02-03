@@ -9,52 +9,52 @@ og_image: og/og-skribble-identification.jpg
 
 ---
 
-{{< content top=12 >}}
-{{% heading %}}
+{{< content text=center top=12 width="narrow" >}}
+{{% markdown %}}
 # Contrôle d'identité pour la SEQ
 Pour la signature électronique qualifiée (SEQ), <br class="hide-for-mobile">le signataire doit prouver son identité. Skribble vous aidera.
-{{% /heading %}}
+{{% /markdown %}}
+{{< /content >}}
 
 {{< picture identification 482 "L'identité d'une femme debout dans un téléphone portable est vérifiée par deux personnes" >}}
-&nbsp;
-{{< /content >}}
+
 {{< cta
   label="Télécharger factsheet"
   href="https://cdn2.hubspot.net/hubfs/5051692/Skribble%20Overview/Skribble_Overview_Identification_FR.pdf"
   target="_blank"
   outlined="true"
 >}}
-{{% richtext %}}
+{{% markdown %}}
 **Vérification d'identité pour SEQ - Skribble rend l'utilisation facile**<br>
-{{% /richtext %}}
+{{% /markdown %}}
 {{< /cta >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< content top=12 >}}
-{{% heading %}}
+{{< content text=center top=12 width="narrow" >}}
+{{% markdown %}}
 # Utiliser une e-ID existante
 Les personnes qui ont une e-ID vérifiée peuvent signer avec SEQ <br class="hide-for-mobile">sur Skribble sans contrôle d'identité supplémentaire.
-
-{{% /heading %}}
+{{% /markdown %}}
+{{< /content >}}
 
 {{< picture "identification-id" 412 "Une carte d'identité électronique juridiquement valable" >}}
 
-{{% richtext %}}
+{{< content text=center top=12 bottom=6 width="narrow" >}}
+{{% markdown %}}
 Un nombre croissant de personnes en Europe a une identité électronique vérifiée (e-ID). Skribble les relie. Des millions d'utilisateurs peuvent commencer à signer avec SEQ immédiatement.
 
-
-{{% center %}}**Les personnes qui se connectent avec une e-ID  <br class="hide-for-mobile">activent automatiquement la SEQ.**{{% / center %}}
-{{% /richtext %}}
+**Les personnes qui se connectent avec une e-ID  <br class="hide-for-mobile">activent automatiquement la SEQ.**
+{{% /markdown %}}
+{{< /content >}}
 
 {{< picture e-id-map 826 "E-ID, où vous pourrez bientôt signer Skribble." >}}
 
-{{% richtext %}}
-{{% center %}}**Plus d'e-ID suivront cette année.**{{% / center %}}
-{{% /richtext %}}
-&nbsp;
+{{< content text=center top=12 bottom=6 width="narrow" >}}
+{{% markdown %}}
+**Plus d'e-ID suivront cette année.**
+{{% /markdown %}}
 {{< /content >}}
-
 
 {{< cta
   label="Fixer un rendez-vous"
@@ -64,10 +64,10 @@ Un nombre croissant de personnes en Europe a une identité électronique vérifi
 
 {{< picture consult 92 "Identification pour l'EQS. Laissez-nous vous conseiller et trouver la bonne solution d'identification pour votre entreprise." >}}
 
-{{% richtext %}}
-**Identification pour la SEQ**<br>
+{{% markdown %}}
+**Identification pour la SEQ**
 Laissez-nous vous conseiller et trouvez <br class="hide-for-mobile">la solution d'identification idéale pour votre entreprise.
-{{% /richtext %}}
+{{% /markdown %}}
 {{< /cta >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
@@ -77,11 +77,12 @@ Laissez-nous vous conseiller et trouvez <br class="hide-for-mobile">la solution 
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< content top=12 >}}
-{{% heading %}}
+{{< content text=center top=12 width="narrow" >}}
+{{% markdown %}}
 # Utiliser la service <br class="hide-for-mobile">d'identification de Skribble
 Si vous n'avez pas d'e-ID, l'identification peut se faire à l'aide de Skribble.
-{{% /heading %}}
+{{% /markdown %}}
+{{< /content >}}
 
 {{< picture "create-identity" 385 "Une loupe agrandit l'image d'une femme dans un passeport" >}}
 
@@ -116,8 +117,6 @@ Approprié si de nouveaux signataires SEQ sont constamment ajoutés.
 
 {{% /plan %}}
 {{< /row >}}
-{{< /content >}}
-
 
 {{< cta
   label="Organiser un appel"
@@ -125,9 +124,9 @@ Approprié si de nouveaux signataires SEQ sont constamment ajoutés.
   target="_blank"
 >}}
 {{< picture consult 92 "Identification pour le QES. Laissez-nous vous conseiller et trouver la bonne solution d'identification pour votre entreprise." >}}
-{{% richtext %}}
+{{% markdown %}}
 **Des questions?<br>Nous nous ferons un plaisir de vous aider.**
-{{% /richtext %}}
+{{% /markdown %}}
 {{< /cta >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)

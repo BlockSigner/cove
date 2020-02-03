@@ -10,12 +10,12 @@ type: business-features
 
 ---
 
-{{< content top=12 >}}
-{{% heading %}}
+{{< content text=center top=12 width="narrow" >}}
+{{% markdown %}}
 # Business features
 Skribble Business customers sign organised as a group - with
  centralised member administration and joint billing.
-{{% /heading %}}
+{{% /markdown %}}
 {{< /content >}}
 
 {{< picture skribble-biz-ui-en 1020 "Skribble Business-Account - benutzeroberfläche" >}}
@@ -47,11 +47,11 @@ Skribble Business customers sign organised as a group - with
     description="View the current and all past invoices at any time.">}}
 {{< /features-container >}}
 
-{{< content top=12 >}}
-{{% heading %}}
+{{< content text=center top=12 width="narrow" >}}
+{{% markdown %}}
 # Skribble Business embeds itself into your existing infrastructure
 The onboarding of new signers is intuitive and fast.
-{{% /heading %}}
+{{% /markdown %}}
 {{< /content >}}
 
 {{< features-container >}}
@@ -69,7 +69,6 @@ The onboarding of new signers is intuitive and fast.
     description="External people do not need to have a Skribble account to sign your documents.">}}
 
 {{< /features-container >}}
-<br><br>
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
@@ -80,12 +79,12 @@ us and our customers." {{< /testimonial >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< content top=12 >}}
-{{% heading %}}
+{{< content text=center top=12 width="narrow" >}}
+{{% markdown %}}
 # Organisation-wide implementation is simple and fast
 Enable new and existing employees to sign electronically
 in the shortest possible time. Choose the onboarding process that fits your requirements for legal weight or the desired signature standard.
-{{% /heading %}}
+{{% /markdown %}}
 {{< /content >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
@@ -111,11 +110,11 @@ Identification services for highest demands on the legal weight of the signature
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< content top=12 >}}
-{{% heading %}}
+{{< content text=center top=12 width="narrow" >}}
+{{% markdown %}}
 # Ideal cost-benefit ratio
 Choose the right pricing model for your organization.
-{{% /heading %}}
+{{% /markdown %}}
 {{< /content >}}
 
 {{< picture preismodelle 590 "Eine Frau mit roten Haaren vergliecht verschiedene Preismodelle." >}}

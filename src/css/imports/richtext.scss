@@ -1,10 +1,6 @@
 .richtext {
   @include richtext-styling;
 
-  &--center {
-    text-align: center;
-  }
-
   &--legal {
     counter-reset: section;
 

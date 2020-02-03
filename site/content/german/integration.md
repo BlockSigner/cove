@@ -9,20 +9,20 @@ og_image: og/og-skribble-identification.jpg
 
 ---
 
-{{< content top=12 >}}
-{{% heading %}}
+{{< content text=center top=12 width="narrow" >}}
+{{% markdown %}}
 # Skribble Integration
 Mit Skribble wählst du eine Cloud-Plattform,
 die technologische Sicherheit und Einfachheit vereint.
-{{% /heading %}}
+{{% /markdown %}}
 {{< /content >}}
 
 {{< picture integration-main 580 "Ein Ingenieur steht vor einem API-Fenster mit einer API-Dokumenation." >}}
 
-{{< content top=12 >}}
-{{% richtext center %}}
+{{< content text=center top=12 width="narrow" >}}
+{{% markdown %}}
 ### Nutze Skribble über den Browser oder integriere die Plattform via API in eure bestehende Softwareumgebung
-{{% /richtext %}}
+{{% /markdown %}}
 {{< /content >}}
 
 {{< features-container >}}
@@ -46,17 +46,17 @@ die technologische Sicherheit und Einfachheit vereint.
 {{< /features-container >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
-<br><br>
+
 {{< testimonial "testimonial/softcom-logo-108w.png" "Rémy Tzaud, CEO von Softcom" >}}
 "Wir haben die API für den Kanton Freiburg in einem halben Tag integriert. Die API von Skribble lässt keine Wünsche offen."
 {{< /testimonial >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< content top=12 >}}
-{{% heading %}}
+{{< content text=center top=12 width="narrow" >}}
+{{% markdown %}}
 # Mit Skribble arbeitest du auf höchsten Technologie- und Security-Standards
-{{% /heading %}}
+{{% /markdown %}}
 {{< /content >}}
 
 {{< features-container >}}
@@ -88,24 +88,21 @@ die technologische Sicherheit und Einfachheit vereint.
 {{< /features-container >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
-<br><br>
+
 {{< testimonial "testimonial/swissmade-logo-300w.png" "" >}}
 Skribble trägt das Label <br class="hide-for-mobile"><a href="https://www.swissmadesoftware.org/" target="_blank" class="text-decoration: none;">Swiss made Software</a>, das für Qualität, Zuverlässigkeit und Präzision in der Software-Entwicklung steht.
 {{< /testimonial >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< content top=12 >}}
-{{% heading %}}
+{{< content text=center top=12 width="narrow" >}}
+{{% markdown %}}
 # API ausprobieren
 In deinem Skribble Business Konto kannst du einen Demo-Schlüssel erstellen.
-{{% /heading %}}
+{{% /markdown %}}
 {{< /content >}}
 
 {{< picture api-main 600 "Ein Laptop mit Füllfeder und Zahnrad." >}}
-
-{{% heading %}}
-{{% /heading %}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 

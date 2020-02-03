@@ -10,11 +10,11 @@ type: features
 
 ---
 
-{{< content top=12 >}}
-{{% heading %}}
+{{< content text=center top=12 width="narrow" >}}
+{{% markdown %}}
 # Skribble Features
 With Skribble you not only sign legally, but also with ease.
-{{% /heading %}}
+{{% /markdown %}}
 {{< /content >}}
 
 {{< picture skribble-ui-en 1020 "Skribble plattform - user interface" >}}
@@ -48,7 +48,7 @@ With Skribble you not only sign legally, but also with ease.
 {{< /features-container >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
-<br><br>
+
 {{< testimonial "testimonial/fr-logo-99w.svg" "Stéphane Schwab, Head of E-Government, Canton of Fribourg" >}}
 "Thanks to Skribble, we can digitize administrative processes from A to Z.
 This makes everyday life easier for
@@ -56,11 +56,11 @@ us and our customers." {{< /testimonial >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< content top=12 >}}
-{{% heading %}}
+{{< content text=center top=12 width="narrow" >}}
+{{% markdown %}}
 # Coming soon
 Our vision is great. We develop Skribble day by day.
-{{% /heading %}}
+{{% /markdown %}}
 {{< /content >}}
 
 {{< features-container >}}

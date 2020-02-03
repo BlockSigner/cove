@@ -9,11 +9,11 @@ og_image: og/og-skribble-identification.jpg
 
 ---
 
-{{< content top=12 >}}
-{{% heading %}}
+{{< content text=center top=12 width="narrow" >}}
+{{% markdown %}}
 # Business-Features
 Skribble Business Kunden signieren als Organisation – <br class="hide-for-mobile">mit zentraler Mitgliederverwaltung und gemeinsamer Abrechnung.
-{{% /heading %}}
+{{% /markdown %}}
 {{< /content >}}
 
 {{< picture skribble-biz-ui-de 1020 "Skribble Business-Account - benutzeroberfläche" >}}
@@ -45,11 +45,11 @@ Skribble Business Kunden signieren als Organisation – <br class="hide-for-mobi
     description="Sehe die aktuelle und alle vergangenen Rechnungen jederzeit ein.">}}
 {{< /features-container >}}
 
-{{< content top=12 >}}
-{{% heading %}}
+{{< content text=center top=12 width="narrow" >}}
+{{% markdown %}}
 # Skribble Business bettet sich <br class="hide-for-mobile">in deine bestehende Infrastruktur ein
 Das Onboarding neuer Signierenden ist intuitiv und schnell.
-{{% /heading %}}
+{{% /markdown %}}
 {{< /content >}}
 
 {{< features-container >}}
@@ -76,12 +76,12 @@ den Alltag für uns und unseren Kunden."{{< /testimonial >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< content top=12 >}}
-{{% heading %}}
+{{< content text=center top=12 width="narrow" >}}
+{{% markdown %}}
 # Organisationsweite Einführung <br class="hide-for-mobile">ist einfach und schnell
 Befähige neue und bestehende Mitarbeitende in kürzester Zeit
 zum elektronischen Signieren. Wähle den Onboarding-Prozess, der zu deinem Anspruch an Beweiskraft bzw. zum gewünschten Signatur-Standard passt.
-{{% /heading %}}
+{{% /markdown %}}
 {{< /content >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
@@ -107,11 +107,11 @@ Geeignet für Verträge mit Formvorschrift.
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< content top=12 >}}
-{{% heading %}}
+{{< content text=center top=12 width="narrow" >}}
+{{% markdown %}}
 # Ideales Kosten-Nutzen-Verhältnis
 Wähle das passende Preismodell für deine Organisation
-{{% /heading %}}
+{{% /markdown %}}
 {{< /content >}}
 
 {{< picture preismodelle 590 "Eine Frau mit roten Haaren vergliecht verschiedene Preismodelle." >}}

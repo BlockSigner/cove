@@ -9,20 +9,20 @@ og_image: og/og-skribble-identification.jpg
 
 ---
 
-{{< content top=12 >}}
-{{% heading %}}
+{{< content text=center top=12 width="narrow" >}}
+{{% markdown %}}
 # Intégration de Skribble
 Avec Skribble, vous choisissez une plate-forme de cloud
 qui allie sécurité technologique et simplicité.
-{{% /heading %}}
+{{% /markdown %}}
 {{< /content >}}
 
 {{< picture integration-main 580 "Un ingénieur se tient devant une fenêtre de l'API avec la documentation de l'API." >}}
 
-{{< content top=12 >}}
-{{% richtext center %}}
+{{< content text=center top=12 width="narrow" >}}
+{{% markdown %}}
 ### Utilisez Skribble via le navigateur ou intégrez la plate-forme dans votre environnement logiciel existant via API.
-{{% /richtext %}}
+{{% /markdown %}}
 {{< /content >}}
 
 {{< features-container >}}
@@ -46,17 +46,17 @@ qui allie sécurité technologique et simplicité.
 {{< /features-container >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
-<br><br>
+
 {{< testimonial "testimonial/softcom-logo-108w.png" "Rémy Tzaud, PDG de Softcom" >}}
 "Nous avons intégré l'API pour le canton <br class="hide-for-mobile">de Fribourg en une demi-journée. <br class="hide-for-mobile">L'API de Skribble ne laisse rien à désirer."
 {{< /testimonial >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< content top=12 >}}
-{{% heading %}}
+{{< content text=center top=12 width="narrow" >}}
+{{% markdown %}}
 # Avec Skribble, vous travaillez selon <br class="hide-for-mobile">les plus hauts standards de technologie et de sécurité.
-{{% /heading %}}
+{{% /markdown %}}
 {{< /content >}}
 
 {{< features-container >}}
@@ -88,24 +88,21 @@ qui allie sécurité technologique et simplicité.
 {{< /features-container >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
-<br><br>
+
 {{< testimonial "testimonial/swissmade-logo-300w.png" "" >}}
 Skribble porte le label <br class="hide-for-mobile"><a href="https://www.swissmadesoftware.org/en/home/home.html" target="_blank" class="text-decoration: none;">Swiss made Software</a>, qui est synonyme <br class="hide-for-mobile">de qualité, de fiabilité et de précision dans le développement de logiciels.
 {{< /testimonial >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< content top=12 >}}
-{{% heading %}}
+{{< content text=center top=12 width="narrow" >}}
+{{% markdown %}}
 # Essayez l'API
 Vous pouvez créer une clé de démonstration <br class="hide-for-mobile">dans votre compte Skribble Business.
-{{% /heading %}}
+{{% /markdown %}}
 {{< /content >}}
 
 {{< picture api-main 600 "Un ordinateur portable avec des panneaux de remplissage et une roue dentée." >}}
-
-{{% heading %}}
-{{% /heading %}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 

@@ -10,11 +10,11 @@ og_image: og/og-skribble-identification.jpg
 
 ---
 
-{{< content top=12 >}}
-{{% heading %}}
+{{< content text=center top=12 width="narrow" >}}
+{{% markdown %}}
 # Fonctionnalités Business
 Les clients Skribble Business signent comme un groupe - <br class="hide-for-mobile">avec une administration centrale des membres et une facturation commune.
-{{% /heading %}}
+{{% /markdown %}}
 {{< /content >}}
 
 {{< picture skribble-biz-ui-fr 1020 "Skribble Business-Account - benutzeroberfläche" >}}
@@ -46,11 +46,11 @@ Les clients Skribble Business signent comme un groupe - <br class="hide-for-mobi
     description="Visualisez les factures actuelles et toutes les factures passées à tout moment.">}}
 {{< /features-container >}}
 
-{{< content top=12 >}}
-{{% heading %}}
+{{< content text=center top=12 width="narrow" >}}
+{{% markdown %}}
 # Skribble Business s'intègre <br class="hide-for-mobile">dans votre infrastructure existante
 L'intégration des nouveaux signataires est intuitive et rapide.
-{{% /heading %}}
+{{% /markdown %}}
 {{< /content >}}
 
 {{< features-container >}}
@@ -68,7 +68,6 @@ L'intégration des nouveaux signataires est intuitive et rapide.
     description="Les personnes extérieures n'ont pas besoin d'avoir un compte Skribble pour signer vos documents.">}}
 
 {{< /features-container >}}
-<br><br>
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
@@ -77,13 +76,13 @@ L'intégration des nouveaux signataires est intuitive et rapide.
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< content top=12 >}}
-{{% heading %}}
+{{< content text=center top=12 width="narrow" >}}
+{{% markdown %}}
 # La mise en œuvre à l'échelle de l'organisation est simple et rapide
 Permettez aux nouveaux employés et aux employés actuels de signer électroniquement dans les plus brefs délais. Choisissez le processus d'intégration
 qui correspond à vos exigences en matière de force probante
 ou à la norme de signature souhaitée.
-{{% /heading %}}
+{{% /markdown %}}
 {{< /content >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
@@ -110,11 +109,11 @@ Services d'identification pour les plus hautes exigences en matière de force pr
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< content top=12 >}}
-{{% heading %}}
+{{< content text=center top=12 width="narrow" >}}
+{{% markdown %}}
 # Rapport coût-bénéfice idéal
 Choisissez le bon modèle de prix pour votre organisation.
-{{% /heading %}}
+{{% /markdown %}}
 {{< /content >}}
 
 {{< picture preismodelle 590 "Eine Frau mit roten Haaren vergliecht verschiedene Preismodelle." >}}

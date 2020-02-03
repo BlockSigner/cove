@@ -9,12 +9,12 @@ og_image: og/og-skribble-identification.jpg
 
 ---
 
-{{< content top=12 >}}
-{{% heading %}}
+{{< content text=center top=12 width="narrow" >}}
+{{% markdown %}}
 # Fonctionnalités de Skribble
 Avec Skribble, votre signature est non seulement
 légalement valable, mais aussi simple.
-{{% /heading %}}
+{{% /markdown %}}
 {{< /content >}}
 
 {{< picture skribble-ui-fr 1020 "Skribble plate-forme - interface utilisateur" >}}
@@ -48,17 +48,17 @@ légalement valable, mais aussi simple.
 {{< /features-container >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
-<br><br>
+
 {{< testimonial "testimonial/fr-logo-99w.svg" "Stéphane Schwab, Chef de E-Gouvernement du canton de Fribourg" >}}
 "Grâce à Skribble, nous pouvons numériser les processus administratifs de A à Z. <br class="hide-for-mobile">Cela facilite notre vie quotidienne et celle de nos clients." {{< /testimonial >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< content top=12 >}}
-{{% heading %}}
+{{< content text=center top=12 width="narrow" >}}
+{{% markdown %}}
 # À venir
 Notre vision est grande. Nous développons Skribble jour après jour.
-{{% /heading %}}
+{{% /markdown %}}
 {{< /content >}}
 
 {{< features-container >}}
@@ -80,7 +80,6 @@ Notre vision est grande. Nous développons Skribble jour après jour.
     description="Téléchargez les documents signés dans un format PDF X/A reconnu pour un archivage juridiquement valable.">}}
 
 {{< /features-container >}}
-<br><br>
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 

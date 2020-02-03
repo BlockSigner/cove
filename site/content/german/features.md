@@ -9,11 +9,11 @@ og_image: og/og-skribble-identification.jpg
 
 ---
 
-{{< content top=12 >}}
-{{% heading %}}
+{{< content text=center top=12 width="narrow" >}}
+{{% markdown %}}
 # Skribble Features
 Mit Skribble signierst du nicht nur rechtsgültig, sondern auch einfach.
-{{% /heading %}}
+{{% /markdown %}}
 {{< /content >}}
 
 {{< picture skribble-ui-de 1020 "Skribble plattform - benutzeroberfläche" >}}
@@ -46,18 +46,17 @@ Mit Skribble signierst du nicht nur rechtsgültig, sondern auch einfach.
 {{< /features-container >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
-<br>
+
 {{< testimonial "testimonial/fr-logo-99w.svg" "Stéphane Schwab, Leiter E-Government, Kanton Freiburg" >}}
 "Dank Skribble können wir Administrationsprozesse von A bis Z digitalisieren. Das erleichtert <br class="hide-for-mobile">den Alltag für uns und unseren Kunden." {{< /testimonial >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-
-{{< content top=12 >}}
-{{% heading %}}
+{{< content text=center top=12 width="narrow" >}}
+{{% markdown %}}
 # Folgt in Kürze
 Unsere Vision ist gross. Wir entwickeln Skribble Tag für Tag weiter.
-{{% /heading %}}
+{{% /markdown %}}
 {{< /content >}}
 
 {{< features-container >}}
@@ -79,8 +78,6 @@ Unsere Vision ist gross. Wir entwickeln Skribble Tag für Tag weiter.
     description="Lade signierte Dokumente im anerkannten PDF X/A herunter, um es rechtsgültuig archivieren zu können.">}}
 
 {{< /features-container >}}
-
-<br><br>
 
 {{< outro >}}
 {{< picture image8 414 "Ein mann steht mit einem riesen füller neben einem elektronischen dokument" >}}
