@@ -9,21 +9,22 @@ og_image: og/og-skribble-identification.jpg
 
 ---
 
-{{< content top=12 >}}
-{{% heading %}}
+{{< content text=center top=12 width="narrow" >}}
+{{% markdown %}}
 # Signer électroniquement dans les RH
 Avec Skribble, vous signez en toute sécurité juridique et en toute simplicité
 par voie numérique – des contrats de travail aux références en passant
 par les certificats de salaire.
-{{% /heading %}}
-{{< picture vertical-hr-main 560 "Trois femmes tenant un contrat entre leurs mains" >}}
+{{% /markdown %}}
 {{< /content >}}
+
+{{< picture vertical-hr-main 560 "Trois femmes tenant un contrat entre leurs mains" >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
 {{< side-by-side >}}
 {{< picture batch-signature 367 "Trois contrats sont signés par lots" >}}
-{{% richtext %}}
+{{% markdown %}}
 ## Compléter le lot <br class="hide-for-mobile">avec une seule signature
 De nouveaux contrats de travail pour tous: le signataire autorisé ne signe plus des centaines de contrats à la main, mais les signe tous à la fois avec la signature par lots de Skribble.
 
@@ -31,13 +32,13 @@ De nouveaux contrats de travail pour tous: le signataire autorisé ne signe plus
 - **<small>Inviter automatiquement les employés <br class="hide-for-mobile">à signer des contrats de travail par courriel</small>**
 - **<small>Vue d'ensemble de toutes les signatures <br class="hide-for-mobile">entrantes et sortantes</small>**
 
-{{% /richtext %}}
+{{% /markdown %}}
 {{< /side-by-side >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
 {{< side-by-side >}}
-{{% richtext %}}
+{{% markdown %}}
 ## Signature numérique <br class="hide-for-mobile">sans délai des candidats
 Une intégration efficace: vous avez plus de chances d'être choisi comme employeur et l'administration des RH devient plus facile, plus rapide et moins coûteuse.
 
@@ -45,7 +46,7 @@ Une intégration efficace: vous avez plus de chances d'être choisi comme employ
 - **<small>Pas de perte de temps due à l'envoi postal</small>**
 - **<small>Notifier automatiquement la signature <br class="hide-for-mobile">du contrat de travail</small>**
 
-{{% /richtext %}}
+{{% /markdown %}}
 {{< picture candidate-sign-digital 392 "Une femme s'assoit sur une chaise longue et signe un contrat sur sa tablette." >}}
 {{< /side-by-side >}}
 
@@ -53,7 +54,7 @@ Une intégration efficace: vous avez plus de chances d'être choisi comme employ
 
 {{< side-by-side >}}
 {{< picture more-efficiency 430 "Homme signé avec un stylo plume trois contrats" >}}
-{{% richtext %}}
+{{% markdown %}}
 ## Habiliter les employés <br class="hide-for-mobile">pour plus d'efficacité
 Facilitateur de la numérisation: les RH permettent au personnel de signer électroniquement et de faire face au travail quotidien avec moins de bureaucratie.
 
@@ -61,13 +62,13 @@ Facilitateur de la numérisation: les RH permettent au personnel de signer élec
 - **<small>Obtenir les signatures des signataires <br class="hide-for-mobile">autorisés par courriel</small>**
 - **<small>Télécharger les contrats prêts<br class="hide-for-mobile"> pour l'archivage au format PDF X/A reconnu</small>**
 
-{{% /richtext %}}
+{{% /markdown %}}
 {{< /side-by-side >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
 {{< side-by-side >}}
-{{% richtext %}}
+{{% markdown %}}
 ## Aucun nouveau logiciel requis
 Restez avec des outils familiers: signez à partir de vos programmes existants, par exemple Google Drive, One Drive, Drop Box ou Secure Safe. (A venir fin 2019)
 
@@ -75,19 +76,21 @@ Restez avec des outils familiers: signez à partir de vos programmes existants, 
 - **<small>Intégrer Skribble en tant que plug-in dans SAP <br class="hide-for-mobile">et d'autres solutions sectorielles</small>**
 - **<small>Intégrer parfaitement via des API modernes</small>**
 
-{{% /richtext %}}
+{{% /markdown %}}
 {{< picture integrations 381 "Signez directement dans vos logiciels RH" >}}
 {{< /side-by-side >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< content top=12 >}}
-{{% heading %}}
+{{< content text=center top=12 width="narrow" >}}
+{{% markdown %}}
 # Avec Skribble, vous répondez aux exigences légales des processus RH
 Avec Skribble, vous pouvez signer numériquement et légalement (SEQ)
 et satisfaire aux exigences légales suivantes:
-{{% /heading %}}
+{{% /markdown %}}
+{{< /content >}}
 
+{{< content top=6 width="narrow" >}}
 {{% collapsible 1 "Normes de signature électronique SEQ und SEA selon SCSE/eIDAS" "check" %}}
 Skribble travaille exclusivement avec des standards de signature électronique légalement définis: la signature électronique qualifiée (SEQ) et la signature électronique avancée (SEA).
 {{% /collapsible %}}
@@ -103,11 +106,11 @@ Skribble et ses partenaires gèrent leurs données conformément à la loi féd�
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< content top=12 >}}
-{{% heading %}}
+{{< content text=center top=12 width="narrow" >}}
+{{% markdown %}}
 # Nos clients s'amusent bien
 Comment nous, chez Skribble, facilitons la vie quotidienne de nos clients.
-{{% /heading %}}
+{{% /markdown %}}
 {{< /content >}}
 
 {{< testimonial "testimonial/easyjet-150w.png" "Sarah Jackson, Country HR & Administration Manager easyJet" >}}
@@ -121,20 +124,20 @@ Comment nous, chez Skribble, facilitons la vie quotidienne de nos clients.
   target="_blank"
 >}}
 
-{{% richtext %}}
+{{% markdown %}}
 **Téléchargez le cas d'utilisation easyJet :**
-{{% /richtext %}}
+{{% /markdown %}}
 {{< /cta >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< content top=12 >}}
-{{% heading %}}
+{{< content text=center top=12 width="narrow" >}}
+{{% markdown %}}
 # Utilisez Skribble pour maximiser la force probante de votre signature
 La loi établit une distinction entre les signatures électroniques qualifiées (SEQ)
 et les signatures électroniques avancées (SEA). Les deux normes varient
 en termes de domaine d'application et de force probante. Sur Skribble, vous pouvez choisir entre les deux.
-{{% /heading %}}
+{{% /markdown %}}
 {{< /content >}}
 
 {{< picture force_probante 664 "Force_Probante" >}}
@@ -145,31 +148,31 @@ en termes de domaine d'application et de force probante. Sur Skribble, vous pouv
   outlined="true"
 >}}
 
-{{% richtext %}}
+{{% markdown %}}
 **Chez Skribble vous avez le choix entre les normes de signature SEA et SEQ.**
-{{% /richtext %}}
+{{% /markdown %}}
 {{< /cta >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< content top=12 >}}
-{{% heading %}}
+{{< content text=center top=12 width="narrow" >}}
+{{% markdown %}}
 # Laissez-vous identifier
-Cela débloque la norme de signature électronique la plus élevée du marché: la SEQ.
-Vous n'avez besoin que d'un document de voyage valide
+Cela débloque la norme de signature électronique la plus élevée du marché: la SEQ. Vous n'avez besoin que d'un document de voyage valide
 (pièce d'identité ou passeport).
-{{% /heading %}}
-{{< picture "create-identity" 385 "Une loupe agrandit l'image d'une femme dans un passeport" >}}
-&nbsp;
+{{% /markdown %}}
 {{< /content >}}
+
+{{< picture "create-identity" 385 "Une loupe agrandit l'image d'une femme dans un passeport" >}}
 
 {{< cta
   label="Organiser un rendez-vous"
   href="/fr/debloquez-qes/"
 >}}
-{{% richtext %}}
-**Choisissez un rendez-vous <br class="hide-for-mobile">et laissez-nous vous identifier**
-{{% /richtext %}}
+{{% markdown %}}
+**Choisissez un rendez-vous
+et laissez-nous vous identifier**
+{{% /markdown %}}
 {{< /cta >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
@@ -180,12 +183,13 @@ Vous n'avez besoin que d'un document de voyage valide
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-
-{{< content top=12 >}}
-{{% heading %}}
+{{< content text=center top=12 width="narrow" >}}
+{{% markdown %}}
 # Est-ce que ça va?
-{{% /heading %}}
+{{% /markdown %}}
+{{< /content >}}
 
+{{< content top=6 width="narrow" >}}
 {{% collapsible 10 "Où sont stockés les documents signés avec Skribble?" %}}
 Le centre de données Skribble est situé en Suisse et est certifié ISO 270001 (hébergement bancaire standard).
 {{% /collapsible %}}

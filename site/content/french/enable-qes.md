@@ -9,17 +9,19 @@ og_image: og/og-skribble-identification.jpg
 
 ---
 
-{{< content top=12 >}}
-{{% heading %}}
+{{< content text=center top=12 width="narrow" >}}
+{{% markdown %}}
 # Maximisez la valeur probante <br class="hide-for-mobile">de votre signature électronique
-Déverrouillez la norme de signature électronique la plus élevée (SEQ) <br class="hide-for-mobile">en vous identifiant par contact personnel avec l'ID-app de Swisscom.
-{{% /heading %}}
+Déverrouillez la norme de signature électronique la plus élevée (SEQ)
+en vous identifiant par contact personnel avec l'ID-app de Swisscom.
+{{% /markdown %}}
+{{< /content >}}
 
 {{< row >}}
 {{< step >}}
 {{< picture "identification-step-1" 252 "Une loupe grossit l'image d'un homme dans un col" >}}
 {{% richtext %}}
-**Etape 1**<br>
+**Etape 1**
 Prenez un rendez-vous d'identification <br class="hide-for-mobile">et passez en personne.
 {{% /richtext %}}
 {{< /step >}}
@@ -27,7 +29,7 @@ Prenez un rendez-vous d'identification <br class="hide-for-mobile">et passez en 
 {{< step >}}
 {{< picture "identification-step-2" 158 "Une identité électronique sur un téléphone portable" >}}
 {{% richtext %}}
-**Etape 2**<br>
+**Etape 2**
 La pièce d’identité de l’utilisateur est scannée et vérifiée avec l’ID-app de Swisscom.
 {{% /richtext %}}
 {{< /step >}}
@@ -37,7 +39,7 @@ La pièce d’identité de l’utilisateur est scannée et vérifiée avec l’I
 {{< step >}}
 {{< picture "identification-step-3" 270 "Un homme qui a été identifié électroniquement avec succès" >}}
 {{% richtext %}}
-**Etape 3**<br>
+**Etape 3**
 Swisscom vérifie les données et les stocke en toute sécurité.
 {{% /richtext %}}
 {{< /step >}}
@@ -45,20 +47,21 @@ Swisscom vérifie les données et les stocke en toute sécurité.
 {{< step >}}
 {{< picture "identification-step-4" 270 "Une personne tient un document juridique entre ses mains. Le logo de swisscom se trouve à l'arrière-plan" >}}
 {{% richtext %}}
-**Etape 4**<br>
+**Etape 4**
 La force probante de votre signature est portée à 100% (niveau SEQ)
 {{% /richtext %}}
 {{< /step >}}
 {{< /row >}}
-{{< /content >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< content top=12 >}}
-{{% heading %}}
+{{< content text=center top=12 width="narrow" >}}
+{{% markdown %}}
 # Tout va bien?
-{{% /heading %}}
+{{% /markdown %}}
+{{% /content %}}
 
+{{< content top=6 width="narrow" >}}
 {{% collapsible 1 "Que m'apporte l'identification?" %}}
 Sur Skribble, vous avez la possibilité de signer avec [la plus haute norme de signature électronique](/fr/normessignature) disponible: la signature électronique qualifiée (SEQ). <br class="hide-for-mobile">Elle a une force probante de 100% et peut être utilisée pour les contrats qui nécessitent la forme écrite. Pour la SEQ, la loi exige un contrôle d'identité.
 {{% /collapsible %}}
@@ -85,7 +88,8 @@ Non. Mais avec un Mobile ID, la signature est plus rapide et plus facile, c'est 
 {{< content top=12 >}}
 {{% heading %}}
 # Sites d'identification
-Venez vous identifier gratuitement. Apportez votre passeport <br class="hide-for-mobile">ou votre carte d'identité en cours de validité et votre téléphone portable.
+Venez vous identifier gratuitement. Apportez votre passeport
+ou votre carte d'identité en cours de validité et votre téléphone portable.
 {{% /heading %}}
 {{< /content >}}
 

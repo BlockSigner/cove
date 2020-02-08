@@ -9,20 +9,21 @@ og_image: og/og-skribble-identification.jpg
 
 ---
 
-{{< content top=12 >}}
-{{% heading %}}
+{{< content text=center top=12 width="narrow" >}}
+{{% markdown %}}
 # Sign electronically in HR
 With Skribble you sign legally and easily in a digital way –
 from employment contracts to certificates and wage statements.
-{{% /heading %}}
-{{< picture vertical-hr-main 560 "Three women holding a document in their hands" >}}
+{{% /markdown %}}
 {{< /content >}}
+
+{{< picture vertical-hr-main 560 "Three women holding a document in their hands" >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
 {{< side-by-side >}}
 {{< picture batch-signature 367 "Three contracts signed with batch processing" >}}
-{{% richtext %}}
+{{% markdown %}}
 ## Finish the pile <br class="hide-for-mobile">with only one signature
 New employment contracts for everyone: the authorised signatory no longer signs hundreds of contracts by hand, but signs them all at once with Skribble's batch signature.
 
@@ -30,13 +31,13 @@ New employment contracts for everyone: the authorised signatory no longer signs 
 - **<small>Automatically invite employees to sign employment contracts by e-mail</small>**
 - **<small>Overview of all completed and outstanding signatures</small>**
 
-{{% /richtext %}}
+{{% /markdown %}}
 {{< /side-by-side >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
 {{< side-by-side >}}
-{{% richtext %}}
+{{% markdown %}}
 ## Candidates sign
 digitally without delay
 Efficient onboarding: you have a better chance of being chosen as an employer and HR administration becomes easier, faster and cheaper.
@@ -45,7 +46,7 @@ Efficient onboarding: you have a better chance of being chosen as an employer an
 - **<small>No loss of time due to postal mailing</small>**
 - **<small>Get notified automatically when the employment contract has been signed</small>**
 
-{{% /richtext %}}
+{{% /markdown %}}
 {{< picture candidate-sign-digital 392 "A woman sits in a deck chair and signs her employment contract on her tablet" >}}
 {{< /side-by-side >}}
 
@@ -53,7 +54,7 @@ Efficient onboarding: you have a better chance of being chosen as an employer an
 
 {{< side-by-side >}}
 {{< picture more-efficiency 430 "Man with fountain pen would like to sign three contracts" >}}
-{{% richtext %}}
+{{% markdown %}}
 ## Empower employees <br class="hide-for-mobile">to work more efficiently
 Digitalisation enabler: HR enables the workforce to sign electronically and can manage their everyday work with less bureaucracy.
 
@@ -61,13 +62,13 @@ Digitalisation enabler: HR enables the workforce to sign electronically and can 
 - **<small>Get signatures from authorised signatories via e-mail</small>**
 - **<small>Download contracts ready for archiving in recognized PDF X/A format </small>**
 
-{{% /richtext %}}
+{{% /markdown %}}
 {{< /side-by-side >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
 {{< side-by-side >}}
-{{% richtext %}}
+{{% markdown %}}
 ## No new software required
 Stay with familiar tools: sign directly via your browser or from your existing software.
 (Coming end of 2019)
@@ -76,18 +77,20 @@ Stay with familiar tools: sign directly via your browser or from your existing s
 - **<small>Integrate Skribble as a plug-in into SAP and other industry solutions</small>**
 - **<small>Seamless integration via modern APIs</small>**
 
-{{% /richtext %}}
+{{% /markdown %}}
 {{< picture integrations 381 "Existing systems, e.g. Google Drive, One Drive, Drop Box or Secure Safe" >}}
 {{< /side-by-side >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< content top=12 >}}
-{{% heading %}}
+{{< content text=center top=12 width="narrow" >}}
+{{% markdown %}}
 # Skribble complies with the legal requirements for HR processes
 You sign with legal effect and securely in accordance with the following requirements:
-{{% /heading %}}
+{{% /markdown %}}
+{{< /content >}}
 
+{{< content top=6 width="narrow" >}}
 {{% collapsible 1 "E-signature standards QES and AES according to ZertES/eIDAS" "check" %}}
 Skribble works exclusively with legally defined e-signature standards: The qualified electronic signature (QES) and the advanced electronic signature (AES).
 {{% /collapsible %}}
@@ -103,11 +106,11 @@ Skribble and its signing partner Swisscom commit to manage data in accordance wi
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< content top=12 >}}
-{{% heading %}}
+{{< content text=center top=12 width="narrow" >}}
+{{% markdown %}}
 # Our customers have a good time
 How we at Skribble make everyday life easier for our customers.
-{{% /heading %}}
+{{% /markdown %}}
 {{< /content >}}
 
 {{< testimonial "testimonial/easyjet-150w.png" "Sarah Jackson, Country HR & Administration Manager easyJet" >}}
@@ -121,23 +124,24 @@ How we at Skribble make everyday life easier for our customers.
   target="_blank"
 >}}
 
-{{% richtext %}}
+{{% markdown %}}
 **Download the easyJet use case:**
-{{% /richtext %}}
+{{% /markdown %}}
 {{< /cta >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
 
-{{< content top=12 >}}
-{{% heading %}}
+{{< content text=center top=12 width="narrow" >}}
+{{% markdown %}}
 # Use Skribble to maximise the legal weight of your signature
 The law distinguishes between qualified e-signatures (QES)
 and advanced e-signatures (AES). The two standards vary in terms of area
 of application and legal weight.
-{{% /heading %}}
-{{< picture legal_weight 664 "Legal-weight" >}}
+{{% /markdown %}}
 {{< /content >}}
+
+{{< picture legal_weight 664 "Legal-weight" >}}
 
 {{< cta
   label="Learn more"
@@ -145,31 +149,32 @@ of application and legal weight.
   outlined="true"
 >}}
 
-{{% richtext %}}
+{{% markdown %}}
 **At Skribble you have the choice
 between the signature standards AES and QES.**
-{{% /richtext %}}
+{{% /markdown %}}
 {{< /cta >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< content top=12 >}}
-{{% heading %}}
+{{< content text=center top=12 width="narrow" >}}
+{{% markdown %}}
 # Get identified
 This will unlock the highest e-signature standard available – QES.
 All you need is a valid travel document (ID or passport).
-{{% /heading %}}
-{{< picture "create-identity" 385 "A magnifying glass enlarges the image of a woman in a passport" >}}
+{{% /markdown %}}
 {{< /content >}}
+
+{{< picture "create-identity" 385 "A magnifying glass enlarges the image of a woman in a passport" >}}
 
 {{< cta
   label="Schedule an appointment"
   href="enable-qes"
 >}}
-{{% richtext %}}
+{{% markdown %}}
 **Make an appointment
 and get identified**
-{{% /richtext %}}
+{{% /markdown %}}
 {{< /cta >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
@@ -180,11 +185,13 @@ and get identified**
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< content top=12 >}}
-{{% heading %}}
+{{< content text=center top=12 width="narrow" >}}
+{{% markdown %}}
 # All clear?
-{{% /heading %}}
+{{% /markdown %}}
+{{< /content >}}
 
+{{< content top=6 width="narrow" >}}
 {{% collapsible 10 "Where are the documents signed with Skribble stored?" %}}
 Skribble' s data centre is located in Switzerland and is ISO 270001 certified (according to banking standards).
 {{% /collapsible %}}

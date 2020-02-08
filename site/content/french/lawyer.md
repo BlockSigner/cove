@@ -9,20 +9,21 @@ og_image: og/og-skribble-identification.jpg
 
 ---
 
-{{< content top=12 >}}
-{{% heading %}}
+{{< content text=center top=12 width="narrow" >}}
+{{% markdown %}}
 # Signature électronique pour juristes
 Avec Skribble vous signez sans clé USB ou lecteur de carte
 avec la plus haute norme de signature électronique (SEQ).
-{{% /heading %}}
-{{< picture vertical-lawyer-main 560 "L'un traite de différents processus contractuels" >}}
+{{% /markdown %}}
 {{< /content >}}
+
+{{< picture vertical-lawyer-main 560 "L'un traite de différents processus contractuels" >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
 {{< side-by-side >}}
 {{< picture sign-parallel 387 "L'homme signe un contrat avec deux autres personnes" >}}
-{{% richtext %}}
+{{% markdown %}}
 ## Toutes les parties contractantes signent numériquement
 Parties contractantes multiples: au lieu de s'envoyer des contrats par la poste, elles signent toutes en ligne, ce qui leur fait gagner du temps.
 
@@ -30,13 +31,13 @@ Parties contractantes multiples: au lieu de s'envoyer des contrats par la poste,
 - **<small>Vue d'ensemble de toutes les signatures <br class="hide-for-mobile">entrantes et sortantes</small>**
 - **<small>Etre averti automatiquement lorsque <br class="hide-for-mobile">le contrat a été signé</small>**
 
-{{% /richtext %}}
+{{% /markdown %}}
 {{< /side-by-side >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
 {{< side-by-side >}}
-{{% richtext %}}
+{{% markdown %}}
 ## Complétez la pile <br class="hide-for-mobile">avec une seule signature
 Dossier de signature numérique: collectez vos contrats numériquement et signez-les simultanément en quelques clics. Grâce au standard SEQ, vous n'avez pas besoin d'une clé USB ou d'un lecteur de carte.
 
@@ -44,7 +45,7 @@ Dossier de signature numérique: collectez vos contrats numériquement et signez
 - **<small>Authentification à deux facteurs par téléphone <br class="hide-for-mobile">mobile – aucun matériel externe requis</small>**
 - **<small>Indépendamment de l'heure et du lieu</small>**
 
-{{% /richtext %}}
+{{% /markdown %}}
 {{< picture batch-process 380 "Une agrafe de documents peut être signée en un seul clic" >}}
 {{< /side-by-side >}}
 
@@ -52,7 +53,7 @@ Dossier de signature numérique: collectez vos contrats numériquement et signez
 
 {{< side-by-side >}}
 {{< picture authorities-input 394 "Deux personnes interviennent pas à pas auprès des autorités" >}}
-{{% richtext %}}
+{{% markdown %}}
 ## Faites des soumissions <br class="hide-for-mobile">aux autorités en ligne
 Des modifications du registre du commerce <br class="hide-for-mobile">aux requêtes judiciaires: il n'est pas nécessaire d'imprimer, d'envoyer ou de scanner.
 
@@ -60,13 +61,13 @@ Des modifications du registre du commerce <br class="hide-for-mobile">aux requê
 - **<small>Reconnu pour la communication entre les cabinets d'avocats et les autorités/ tribunaux en Suisse</small>**
 - **<small>Economiser du temps et de l'argent</small>**
 
-{{% /richtext %}}
+{{% /markdown %}}
 {{< /side-by-side >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
 {{< side-by-side >}}
-{{% richtext %}}
+{{% markdown %}}
 ## Aucun nouveau logiciel requis
 Restez avec des outils familiers: connectez-vous directement via votre navigateur ou signez <br class="hide-for-mobile">à partir de vos programmes existants.
 
@@ -74,7 +75,7 @@ Restez avec des outils familiers: connectez-vous directement via votre navigateu
 - **<small>Intégrer Skribble comme plug-in dans <br class="hide-for-mobile">les solutions sectorielles</small>**
 - **<small>Intégrer parfaitement via des API modernes</small>**
 
-{{% /richtext %}}
+{{% /markdown %}}
 {{< picture crm-systeme-lawyer 421 "Signez à partir de vos systèmes existants, par exemple WinJur ou Vertec." >}}
 {{< /side-by-side >}}
 
@@ -86,13 +87,15 @@ Restez avec des outils familiers: connectez-vous directement via votre navigateu
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< content top=12 >}}
-{{% heading %}}
+{{< content text=center top=12 width="narrow" >}}
+{{% markdown %}}
 # Avec Skribble, vous répondez aux exigences des procédures légales
 Avec Skribble, vous signez légalement et en toute sécurité en remplissant
 les conditions suivantes:
-{{% /heading %}}
+{{% /markdown %}}
+{{< /content >}}
 
+{{< content top=6 width="narrow" >}}
 {{% collapsible 1 "Normes de signature électronique SEQ und SEA selon SCSE/eIDAS" "check" %}}
 Skribble travaille exclusivement avec des standards de signature électronique légalement définis: la signature électronique qualifiée (SEQ) et la signature électronique avancée (SEA).
 {{% /collapsible %}}
@@ -108,14 +111,14 @@ Skribble et ses partenaires gèrent leurs données conformément à la loi féd�
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< content top=12 >}}
-{{% heading %}}
+{{< content text=center top=12 width="narrow" >}}
+{{% markdown %}}
 # Utilisez Skribble pour maximiser la force probante de votre signature
 La loi établit une distinction entre les signatures électroniques qualifiées (SEQ)
 et les signatures électroniques avancées (SEA). Les deux normes varient
 en termes de domaine d'application et de force probante.
 Sur Skribble, vous pouvez choisir entre les deux.
-{{% /heading %}}
+{{% /markdown %}}
 {{< /content >}}
 
 {{< picture force_probante 664 "Force_Probante" >}}
@@ -126,32 +129,32 @@ Sur Skribble, vous pouvez choisir entre les deux.
   outlined="true"
 >}}
 
-{{% richtext %}}
+{{% markdown %}}
 **Chez Skribble vous avez le choix entre les normes de signature SEA et SEQ.**
-{{% /richtext %}}
+{{% /markdown %}}
 {{< /cta >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
 
-{{< content top=12 >}}
-{{% heading %}}
+{{< content text=center top=12 width="narrow" >}}
+{{% markdown %}}
 # Laissez-vous identifier
 Cela débloque la norme de signature électronique la plus élevée du marché: la SEQ.
 Vous n'avez besoin que d'un document de voyage valide
 (pièce d'identité ou passeport).
-{{% /heading %}}
-{{< picture "create-identity" 385 "Une loupe agrandit l'image d'une femme dans un passeport" >}}
-&nbsp;
+{{% /markdown %}}
 {{< /content >}}
+
+{{< picture "create-identity" 385 "Une loupe agrandit l'image d'une femme dans un passeport" >}}
 
 {{< cta
   label="Organiser un rendez-vous"
   href="/fr/debloquez-qes/"
 >}}
-{{% richtext %}}
+{{% markdown %}}
 **Choisissez un rendez-vous <br class="hide-for-mobile">et laissez-nous vous identifier**
-{{% /richtext %}}
+{{% /markdown %}}
 {{< /cta >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
@@ -164,11 +167,13 @@ Vous n'avez besoin que d'un document de voyage valide
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
 
-{{< content top=12 >}}
-{{% heading %}}
+{{< content text=center top=12 width="narrow" >}}
+{{% markdown %}}
 # Est-ce que ça va?
-{{% /heading %}}
+{{% /markdown %}}
+{{< /content >}}
 
+{{< content top=6 width="narrow" >}}
 {{% collapsible 10 "Où sont stockés les documents signés avec Skribble?" %}}
 Le centre de données Skribble est situé en Suisse et est certifié ISO 270001 (hébergement bancaire standard).
 {{% /collapsible %}}

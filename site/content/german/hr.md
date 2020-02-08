@@ -9,19 +9,20 @@ og_image: og/og-skribble-identification.jpg
 
 ---
 
-{{< content top=12 >}}
-{{% heading %}}
+{{< content text=center top=12 width="narrow" >}}
+{{% markdown %}}
 # Elektronisch signieren im HR
 Mit Skribble signierst du rechtssicher und einfach auf digitalem Weg – <br class="hide-for-mobile">von Arbeitsverträgen über Zeugnisse bis hin zu Lohnausweisen.
-{{% /heading %}}
-{{< picture vertical-hr-main 560 "Drei Frauen halten einen Vertrag in der Hand" >}}
+{{% /markdown %}}
 {{< /content >}}
+
+{{< picture vertical-hr-main 560 "Drei Frauen halten einen Vertrag in der Hand" >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
 {{< side-by-side >}}
 {{< picture batch-signature 367 "Drei Verträge werden mit dem Stapelverfahren signiert" >}}
-{{% richtext %}}
+{{% markdown %}}
 ## Erledige den Stapel <br class="hide-for-mobile">mit nur einer Signatur
 Neue Arbeitsverträge für alle: der Unterschriftsberechtigte unterzeichnet nicht mehr hunderte Verträge von Hand, sondern signiert alle auf einmal mit der Stapelsignatur von Skribble.
 
@@ -29,20 +30,20 @@ Neue Arbeitsverträge für alle: der Unterschriftsberechtigte unterzeichnet nich
 - **<small>Per E-Mail automatisiert zum Signieren <br class="hide-for-mobile">der Arbeitsverträge einladen</small>**
 - **<small>Übersicht über alle eingegangenen <br class="hide-for-mobile"> und ausstehenden Signaturen</small>**
 
-{{% /richtext %}}
+{{% /markdown %}}
 {{< /side-by-side >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
 {{< side-by-side >}}
-{{% richtext %}}
+{{% markdown %}}
 ## Kandidaten signieren <br class="hide-for-mobile">ohne Verzögerung digital
 Effizientes Onboarding: Du hast bessere Chancen, als Arbeitgeber gewählt zu werden und die HR-Administration wird einfacher, schneller und günstiger.
 
 - **<small>Rechtsgültig für jede Art Arbeitsvertrag</small>**
 - **<small>Kein Zeitverlust durch Postversand</small>**
 - **<small>Automatisiert benachrichtigt werden, <br class="hide-for-mobile">wenn der Arbeitsvertrag signiert wurde</small>**
-{{% /richtext %}}
+{{% /markdown %}}
 {{< picture candidate-sign-digital 392 "Eine Frau sitzt auf einem Liegestuhl und unterzeichnet auf ihrem Tablet einen Vertrag" >}}
 {{< /side-by-side >}}
 
@@ -50,20 +51,20 @@ Effizientes Onboarding: Du hast bessere Chancen, als Arbeitgeber gewählt zu wer
 
 {{< side-by-side >}}
 {{< picture more-efficiency 430 "Mann unterzeichnet mit einem Füllfederhalter drei Verträge" >}}
-{{% richtext %}}
+{{% markdown %}}
 ## Befähige Mitarbeitende <br class="hide-for-mobile">zu mehr Effizienz
 Digitalisierungs-Enabler: Die Belegschaft wird durch das HR zum elektronsichen Signieren befähigt und kann den Arbeitsalltag mit weniger Bürokratie bestreiten.
 
 - **<small>Arbeitsrapports, Kündigungen, Anträge <br class="hide-for-mobile">u. Ä. digital abwickeln</small>**
 - **<small>Signaturen von Zeichnungsberechtigten <br class="hide-for-mobile">via E-Mail abholen</small>**
 - **<small>Verträge archivierbereit downloaden <br class="hide-for-mobile">im anerkannten PDF X/A-Format</small>**
-{{% /richtext %}}
+{{% /markdown %}}
 {{< /side-by-side >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
 {{< side-by-side >}}
-{{% richtext %}}
+{{% markdown %}}
 ## Keine neue Software notwendig
 Bei gewohnten Tools bleiben: Signiere direkt über den Browser oder aus deiner bestehenden Software heraus. (Kommt Ende 2019)
 
@@ -71,18 +72,20 @@ Bei gewohnten Tools bleiben: Signiere direkt über den Browser oder aus deiner b
 - **<small>Skribble als Plug-in in SAP und ander Branchenlösungen einbinden</small>**
 - **<small>Nahtlose Integration via moderne APIs</small>**
 
-{{% /richtext %}}
+{{% /markdown %}}
 {{< picture integrations 381 "Verbindung der unterschiedlichen Beteiligten bei Gebrauch von Skribble aus einem HRM visuell dargestellt" >}}
 {{< /side-by-side >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< content top=12 >}}
-{{% heading %}}
+{{< content text=center top=12 width="narrow" >}}
+{{% markdown %}}
 # Mit Skribble erfüllst du <br class="hide-for-mobile">die rechtlichen Anforderungen <br class="hide-for-mobile">an HR-Prozesse
 Du signierst rechtsgültig und sicher gemäss folgenden Erfordernissen:
-{{% /heading %}}
+{{% /markdown %}}
+{{< /content >}}
 
+{{< content top=6 width="narrow" >}}
 {{% collapsible 1 "E-Signatur-Standards QES und FES gemäss ZertES/eIDAS" "check" %}}
 Skribble arbeitet ausschliesslich mit gesetzlich definierten E-Signatur-Standards: Die qualifizierte elektronische Signatur (QES) und die fortgeschrittene elektronische Signatur (FES).
 {{% /collapsible %}}
@@ -98,11 +101,11 @@ Skribble sowie Partner verwalten ihre Daten gemäss dem Bundesgesetz über den D
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< content top=12 >}}
-{{% heading %}}
+{{< content text=center top=12 width="narrow" >}}
+{{% markdown %}}
 # Unser Kunden haben gut lachen
 Wie wir den Alltag unserer Kunden erleichtern.
-{{% /heading %}}
+{{% /markdown %}}
 {{< /content >}}
 
 {{< testimonial "testimonial/easyjet-150w.png" "Sarah Jackson, Country HR & Administration Manager easyJet" >}}
@@ -116,23 +119,23 @@ Wie wir den Alltag unserer Kunden erleichtern.
   target="_blank"
 >}}
 
-{{% richtext %}}
+{{% markdown %}}
 **Lade den easyJet Use-Case herunter:**
-{{% /richtext %}}
+{{% /markdown %}}
 {{< /cta >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< content top=12 >}}
-{{% heading %}}
+{{< content text=center top=12 width="narrow" >}}
+{{% markdown %}}
 # Mit Skribble maximierst du <br class="hide-for-mobile">die Beweiskraft deiner Signatur
 Das Gesetz unterscheidet zwischen der qualifizierten E-Signatur (QES)
 und der fortgeschrittenen E-Signatur (FES). Die beiden Standards
 variieren punkto Einsatzgebiet und Beweiskraft.
-{{% /heading %}}
+{{% /markdown %}}
+{{< /content >}}
 
 {{< picture beweiskraft 664 "Ein Mann unterschreibt mit einem Füller digitale Dokumente nach Schweizer und Europäischen Recht" >}}
-{{< /content >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
@@ -142,28 +145,29 @@ variieren punkto Einsatzgebiet und Beweiskraft.
   outlined="true"
 >}}
 
-{{% richtext %}}
+{{% markdown %}}
 **Auf Skribble kannst du zwischen <br class="hide-for-mobile">den Signaturstandards FES und QES wählen.**
-{{% /richtext %}}
+{{% /markdown %}}
 {{< /cta >}}
 
-{{< content top=12 >}}
-{{% heading %}}
+{{< content text=center top=12 width="narrow" >}}
+{{% markdown %}}
 # Lass dich identifizieren
-Damit schaltest du den höchsten verfügbaren E-Signatur-Standard QES frei. <br class="hide-for-mobile">Du benötigst nur ein gültiges Reisedokument (ID oder Pass).
-{{% /heading %}}
-{{< picture "create-identity" 385 "Eine Lupe vergrössert das Bild einer Frau in einem Pass" >}}
-&nbsp;
+Damit schaltest du den höchsten verfügbaren E-Signatur-Standard QES frei.
+Du benötigst nur ein gültiges Reisedokument (ID oder Pass).
+{{% /markdown %}}
 {{< /content >}}
+
+{{< picture "create-identity" 385 "Eine Lupe vergrössert das Bild einer Frau in einem Pass" >}}
 
 {{< cta
   label="Termin vereinbaren"
   href="/de/qes-freischalten/"
 
 >}}
-{{% richtext %}}
+{{% markdown %}}
 **Wähle einen Termin <br class="hide-for-mobile">aus und lass dich identifizieren**
-{{% /richtext %}}
+{{% /markdown %}}
 {{< /cta >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
@@ -174,11 +178,13 @@ Damit schaltest du den höchsten verfügbaren E-Signatur-Standard QES frei. <br 
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< content top=12 >}}
-{{% heading %}}
+{{< content text=center top=12 width="narrow" >}}
+{{% markdown %}}
 # Alles klar?
-{{% /heading %}}
+{{% /markdown %}}
+{{% /content %}}
 
+{{< content top=6 width="narrow" >}}
 {{% collapsible 10 "Wo sind Dokumente, die mit Skribble signiert wurden, gespeichert?" %}}
 Das Datenzentrum von Skribble ist in der Schweiz und nach ISO 270001 zertifiziert (Hosting nach Bankenstandard).
 {{% /collapsible %}}

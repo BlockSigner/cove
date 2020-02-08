@@ -12,12 +12,12 @@ $ns: cta;
   .picture {
     margin: 0;
     padding: 0;
-    + .richtext {
+    + .richtext, + .markdown {
       margin-left: 24px;
     }
   }
 
-  .richtext {
+  .richtext, .markdown {
     text-align: left;
     @include min-width() {
       max-width: 70%;
@@ -100,7 +100,7 @@ $ns: cta;
       font-size: 80%;
     }
   }
-  
+
   strong:nth-of-type(2) {
     font-size: 80%;
   }

@@ -9,19 +9,20 @@ og_image: og/og-skribble-identification.jpg
 
 ---
 
-{{< content top=12 >}}
-{{% heading %}}
+{{< content text=center top=12 width="narrow" >}}
+{{% markdown %}}
 # Maximiere die Beweiskraft <br class="hide-for-mobile">deiner E-Signatur
 Schalte den höchsten verfügbaren E-Signatur-Standard (QES) frei,
 in dem du dich im persönlichen Kontakt mit der ID-App
 von Swisscom identifizieren lässt.
-{{% /heading %}}
+{{% /markdown %}}
+{{% /content %}}
 
 {{< row >}}
 {{< step >}}
 {{< picture "identification-step-1" 252 "Eine lupe vergrößert das bild eines mannes in einem pass" >}}
 {{% richtext %}}
-**Schritt 1**<br>
+**Schritt 1**
 Vereinbare einen Identifikations-Termin und komm persönlich vorbei.
 {{% /richtext %}}
 {{< /step >}}
@@ -29,7 +30,7 @@ Vereinbare einen Identifikations-Termin und komm persönlich vorbei.
 {{< step >}}
 {{< picture "identification-step-2" 158 "Eine elektronische identität auf einem mobiltelefon" >}}
 {{% richtext %}}
-**Schritt 2**<br>
+**Schritt 2**
 Wir scannen und prüfen deinen Ausweis mit der ID-App von Swisscom.
 {{% /richtext %}}
 {{< /step >}}
@@ -39,7 +40,7 @@ Wir scannen und prüfen deinen Ausweis mit der ID-App von Swisscom.
 {{< step >}}
 {{< picture "identification-step-3" 270 "Ein mann der erfolgreich elektronisch identifiziert ist" >}}
 {{% richtext %}}
-**Schritt 3**<br>
+**Schritt 3**
 Swisscom verifiziert deine Daten <br class="hide-for-mobile">und legt sie sicher ab.
 {{% /richtext %}}
 {{< /step >}}
@@ -47,20 +48,21 @@ Swisscom verifiziert deine Daten <br class="hide-for-mobile">und legt sie sicher
 {{< step >}}
 {{< picture "identification-step-4" 270 "Eine person hält ein rechtsgültiges dokument in den händen. Im hintergrund befindet sich das swisscom logo" >}}
 {{% richtext %}}
-**Schritt 4**<br>
+**Schritt 4**
 Die Beweiskraft deiner Signatur wird auf 100% angehoben (QES-Level)
 {{% /richtext %}}
 {{< /step >}}
 {{< /row >}}
-{{< /content >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< content top=12 >}}
-{{% heading %}}
+{{< content text=center top=12 width="narrow" >}}
+{{% markdown %}}
 # Alles klar?
-{{% /heading %}}
+{{% /markdown %}}
+{{% /content %}}
 
+{{< content top=6 width="narrow" >}}
 {{% collapsible 1 "Was bringt mir die Identifikation?" %}}
 Auf Skribble hast du die Möglichkeit, mit dem [höchsten verfügbaren E-Signatur-Standard](/de/signaturstandards) zu signieren: Die qualifizierten elektronischen Signatur (QES). Diese hat eine Beweiskraft von 100% und kann für Verträge eingesetzt werden, die die Schriftlichkeit verlangen. Für die QES verlangt das Gesetz eine Identitätsprüfung.
 {{% /collapsible %}}
@@ -86,7 +88,6 @@ Nein. Aber mit einer Mobile-ID geht das Signieren schneller und einfacher, daher
 {{% collapsible 6 "Was, wenn ich noch nicht persönlich identifiziert wurde?" %}}
 Die persönliche Identifikation wird nur für das Signieren mit dem höchsten E-Signatur-Standard (QES) vorausgesetzt. Wurdest du noch nicht persönlich identifiziert, signierst du mit dem zweithöchsten Standard (FES).
 {{% /collapsible %}}
-
 {{< /content >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
