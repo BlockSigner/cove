@@ -6,15 +6,19 @@ slug: preise
 
 ---
 
-{{< content top=12 >}}
-{{% heading %}}
+{{< content text=center top=12 width="narrow" >}}
+{{% markdown %}}
 # Signiere einfacher </br> mit dem passenden Preismodell
 Skribble eignet sich sowohl für gelegentliches
 wie auch für häufiges Signieren.
-{{% /heading %}}
+{{% /markdown %}}
+{{< /content >}}
+
 {{< action-card
+  top=12
+  bottom=6
+  width=narrow
   title="Free"
-  class="free"
   description="<p>Du signierst <strong>2 Mal pro Monat kostenlos.</strong> Keine Kreditkarte erforderlich.</p>"
   button-text="Jetzt kostenlos ausprobieren"
   button-link="https://my.skribble.com/signup?lang=de"
@@ -23,15 +27,19 @@ wie auch für häufiges Signieren.
   {{< picture free-visual 232 "" >}}
 {{< /action-card >}}
 
-{{% heading class="price-separator" %}}
+{{< content text=center top=12 width="narrow" >}}
+{{% markdown %}}
 ## Signierst du häufiger?
 Nach dem Registrieren kannst du jederzeit auf
 eines der folgenden Modelle umstellen:
-{{% /heading %}}
+{{% /markdown %}}
+{{< /content >}}
 
 {{< action-card
+  top=8
+  bottom=6
+  width=narrow
   title="Fair Flat"
-  class="fair"
   description="<p>Geeignet für dich, wenn du <strong>mehr als 2 Mal pro Monat</strong> selbst signierst oder andere zum Signieren einlädst.</p><p class='top-spaced'>Maximal</p><p><strong>CHF <span class='large'>2.50</span> pro Signatur</strong></p><p>bis zu einer Obergrenze von</p><p><strong>CHF <span class='large'>30.-</span> pro Monat</strong></p>"
   has-comparison="true"
   comparison-caption="Lädst du andere zum Signieren ein, kommen weitere 2.50.- pro Signatur dazu."
@@ -43,13 +51,17 @@ eines der folgenden Modelle umstellen:
 {{< /action-card >}}
 
 
-{{% heading class="price-separator" %}}
+{{< content text=center top=6 width="narrow" >}}
+{{% markdown %}}
 ## Oder
-{{% /heading %}}
+{{% /markdown %}}
+{{< /content >}}
 
 {{< action-card
+  top=8
+  bottom=6
+  width=narrow
   title="Business"
-  class="business"
   description="<p>Du nutzt Skribble in deiner Organisation. Die Benutzerverwaltung ist zentralisiert, die Verrechnung erfolgt einheitlich auf Rechnung.</p>"
   has-comparison="true"
   comparison-title="Wähle für jeden Signierenden das passende Modell:"
@@ -63,8 +75,6 @@ eines der folgenden Modelle umstellen:
 >}}
     {{< picture business-visual 270 "" >}}
 {{< /action-card >}}
-
-{{< /content >}}
 
 {{< show-hide-button button-text="Preismodelle im Detail vergleichen" >}}
 {{< table-dense id="price-table" >}}
@@ -251,9 +261,9 @@ eines der folgenden Modelle umstellen:
 
 {{< picture package-6-1-out 100 "" >}}
 
-{{% richtext %}}
+{{% markdown %}}
 **Wann brauchst du welchen Signaturstandard?**
-{{% /richtext %}}
+{{% /markdown %}}
 {{< /cta >}}
 {{< cta
   label="Mehr erfahren"
@@ -263,9 +273,9 @@ eines der folgenden Modelle umstellen:
 
 {{< picture qes-erklaert 122 "Signiert mit Skribble bedeutet rechtsgültig (QES) signiert nach Schweizer und EU-Gesetz." >}}
 
-{{% richtext %}}
+{{% markdown %}}
 **Du interssierst dich für Zusatzservices im Bereich der Identifikation?**
-{{% /richtext %}}
+{{% /markdown %}}
 {{< /cta >}}
 {{< /cta-group >}}
 

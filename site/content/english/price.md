@@ -7,14 +7,18 @@ slug: pricing
 og_image: og/og-skribble-mission.jpg
 ---
 
-{{< content top=12 >}}
-{{% heading %}}
+{{< content text=center top=12 width="narrow" >}}
+{{% markdown %}}
 # Sign economically with the right plan
 Skribble is suitable for both occasional and frequent signing.
-{{% /heading %}}
+{{% /markdown %}}
+{{< /content >}}
+
 {{< action-card
+  top=12
+  bottom=6
+  width=narrow
   title="Free"
-  class="free"
   description="<p>You can sign <strong>twice per month free of charge.</strong> No credit card required.</p>"
   button-text="Try it now"
   button-link="https://my.skribble.com/signup"
@@ -23,14 +27,18 @@ Skribble is suitable for both occasional and frequent signing.
    {{< picture free-visual 232 "" >}}
 {{< /action-card >}}
 
-{{% heading class="price-separator" %}}
+{{< content text=center top=12 width="narrow" >}}
+{{% markdown %}}
 ## Do you sign more frequently?
 After registering, you can switch to one of the following plans at any time:
-{{% /heading %}}
+{{% /markdown %}}
+{{< /content >}}
 
 {{< action-card
+  top=8
+  bottom=6
+  width=narrow
   title="Fair Flat"
-  class="fair"
   description="<p>You sign or request <strong>more than two signatures per month.</strong></p><p class='top-spaced'>Maximum</p><p><strong>CHF <span class='large'>2.50</span> per signature</strong></p><p>up to a maximum of</p><p><strong>CHF <span class='large'>30.-</span> per month</strong></p>"
   has-comparison="true"
   comparison-caption="If you invite others to sign, another 2.50 per signature request will be added."
@@ -41,13 +49,17 @@ After registering, you can switch to one of the following plans at any time:
   {{< picture fair-flat-visual 290 "" >}}
 {{< /action-card >}}
 
-{{% heading class="price-separator"%}}
+{{< content text=center top=6 width="narrow" >}}
+{{% markdown %}}
 ## Or
-{{% /heading %}}
+{{% /markdown %}}
+{{< /content >}}
 
 {{< action-card
+  top=8
+  bottom=6
+  width=narrow
   title="Business"
-  class="business"
   description="<p>Skribble for your organisation. User administration is centralised and your organisation is invoiced monthly.</p>"
   has-comparison="true"
   comparison-title="Choose the right plan for each signer:"
@@ -61,8 +73,6 @@ After registering, you can switch to one of the following plans at any time:
 >}}
   {{< picture business-visual 270 "" >}}
 {{< /action-card >}}
-
-{{< /content >}}
 
 {{< show-hide-button button-text="Compare plans in detail" >}}
 {{< table-dense id="price-table" >}}
@@ -254,9 +264,9 @@ After registering, you can switch to one of the following plans at any time:
 
 {{< picture package-6-1-out 100 "" >}}
 
-{{% richtext %}}
+{{% markdown %}}
 **When do you need which signature standard?**
-{{% /richtext %}}
+{{% /markdown %}}
 {{< /cta >}}
 
 {{< cta
@@ -267,9 +277,9 @@ After registering, you can switch to one of the following plans at any time:
 
 {{< picture qes-erklaert 122 "Signiert mit Skribble bedeutet rechtsgültig (QES) signiert nach Schweizer und EU-Gesetz." >}}
 
-{{% richtext %}}
+{{% markdown %}}
 **Are you interested in additional services in the field of identification?**
-{{% /richtext %}}
+{{% /markdown %}}
 {{< /cta >}}
 {{< /cta-group >}}
 

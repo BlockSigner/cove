@@ -1,34 +1,21 @@
 .action-card {
-    margin: auto;
-    max-width: 650px;
-    display: flex;
-    flex-flow: row wrap;
-    box-shadow: 0px 0px 10px #DDD;
-    font-size: 1.6rem;
-    
-    &.free {
-        margin-top: 20px;
-        margin-bottom: 44px;
-    }
 
-    &.fair {
-        margin-top: 44px;
-        margin-bottom: 30px;
-    }
-
-    &.business {
-        margin-top: 30px;
-        margin-bottom: 0px;
+    &__inner {
+        display: flex;
+        flex-flow: row wrap;
+        box-shadow: 0px 0px 10px #DDD;
+        font-size: 1.6rem;
     }
 
     p {
         margin: 0px;
     }
 
+    // TODO: Appears twice. Get rid of nested selectors to apply simpler rules
     .top-spaced {
         margin-top: 24px;
     }
-    
+
     strong {
         color: $c-text-alt;
     }
@@ -37,9 +24,7 @@
         font-size: 150%;
     }
 
-    
-
-    .content {
+    &__content {
         width: 100%;
         padding: 24px 24px 12px 24px !important;
 
@@ -72,13 +57,21 @@
                     width: 100%;
                     min-height: 0px;
                 }
+
+                p {
+                    margin: 0;
+                }
+
+                .top-spaced {
+                    margin-top: 24px;
+                }
             }
 
             .image{
                 height: 180px;
                 order: 20;
                 width: 55%;
-    
+
                 .picture {
                     padding: 0px 16px 0px 0px;
                     justify-content: right;
@@ -123,7 +116,7 @@
     }
 
     .no-top-padding {
-        padding-top: 0px !important; 
+        padding-top: 0px !important;
     }
 
     .comparison {
@@ -174,7 +167,7 @@
                 padding: 5px 15px;
                 position: absolute;
                 transform: translateX(-50%);
-                
+
                 @media only screen and (max-width: 720px) {
                     transform: none;
                     position: relative;

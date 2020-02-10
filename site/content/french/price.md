@@ -8,14 +8,18 @@ og_image: og/og-skribble-service.jpg
 
 ---
 
-{{< content top=12 >}}
-{{% heading %}}
+{{< content text=center top=12 width="narrow" >}}
+{{% markdown %}}
 # Signez plus facilement <br class="hide-for-mobile">avec le bon modèle tarifaire
 Skribble convient tant aux signatures occasionnelles <br class="hide-for-mobile">qu'aux signatures fréquentes
-{{% /heading %}}
+{{% /markdown %}}
+{{< /content >}}
+
 {{< action-card
+  top=12
+  bottom=6
+  width=narrow
   title="Free"
-  class="free"
   description="<p>Vous signez <strong>gratuitement jusqu'à 2 fois par mois.</strong> Aucune carte de crédit requis.</p>"
   button-text="Essayer maintenant"
   button-link="https://my.skribble.com/signup?lang=fr"
@@ -24,14 +28,18 @@ Skribble convient tant aux signatures occasionnelles <br class="hide-for-mobile"
     {{< picture free-visual 232 "" >}}
 {{< /action-card >}}
 
-{{% heading class="price-separator" %}}
+{{< content text=center top=12 width="narrow" >}}
+{{% markdown %}}
 ## Vous signez plus souvent?
 Après l'enregistrement, vous pouvez à tout moment passer <br class="hide-for-mobile">à l'un des modèles tarifaires suivants:
-{{% /heading %}}
+{{% /markdown %}}
+{{< /content >}}
 
 {{< action-card
+  top=8
+  bottom=6
+  width=narrow
   title="Fair Flat"
-  class="fair"
   description="<p>Vous signez personnellement ou obtenez <strong>plus de deux signatures par mois.</strong></p><p class='top-spaced'>Maximum</p><p><strong>CHF <span class='large'>2.50</span> par signature</strong></p><p>jusqu'à un plafond de</p><p><strong>CHF <span class='large'>30.-</span> par mois</strong></p>"
   has-comparison="true"
   comparison-caption="L'invitation de nouveau signataires coûte 2.50.– par signature."
@@ -42,13 +50,17 @@ Après l'enregistrement, vous pouvez à tout moment passer <br class="hide-for-m
     {{< picture fair-flat-visual 290 "" >}}
 {{< /action-card >}}
 
-{{% heading class="price-separator" %}}
+{{< content text=center top=6 width="narrow" >}}
+{{% markdown %}}
 ## Ou
-{{% /heading %}}
+{{% /markdown %}}
+{{< /content >}}
 
 {{< action-card
+  top=8
+  bottom=6
+  width=narrow
   title="Business"
-  class="business"
   description="<p>Vous utilisez Skribble dans votre organisation. L'administration des utilisateurs est centrée, la facturation est uniforme par facture.</p>"
   has-comparison="true"
   comparison-title="Le bon modèle pour chaque signataire:"
@@ -62,8 +74,6 @@ Après l'enregistrement, vous pouvez à tout moment passer <br class="hide-for-m
 >}}
     {{< picture business-visual 270 "" >}}
 {{< /action-card >}}
-
-{{< /content >}}
 
 {{< show-hide-button button-text="Comparer les forfaits en détails" >}}
 {{< table-dense id="price-table" >}}
@@ -243,9 +253,9 @@ Après l'enregistrement, vous pouvez à tout moment passer <br class="hide-for-m
 
 {{< picture package-6-1-out 100 "" >}}
 
-{{% richtext %}}
+{{% markdown %}}
 **Quelle norme de signature pour quelle situation?**
-{{% /richtext %}}
+{{% /markdown %}}
 {{< /cta >}}
 {{< cta
   label="En savoir plus"
@@ -255,9 +265,9 @@ Après l'enregistrement, vous pouvez à tout moment passer <br class="hide-for-m
 
 {{< picture qes-erklaert 122 "Signiert mit Skribble bedeutet rechtsgültig (QES) signiert nach Schweizer und EU-Gesetz." >}}
 
-{{% richtext %}}
+{{% markdown %}}
 **Vous êtes intéressé par des services complémentaires dans le domaine de l'identification**
-{{% /richtext %}}
+{{% /markdown %}}
 {{< /cta >}}
 {{< /cta-group >}}
 
