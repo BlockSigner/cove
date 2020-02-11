@@ -123,7 +123,7 @@ Die wichtigsten Skribble Branding Assets sind gleich hier griffbereit:
     <a href="downloads/20190925_HRToday_Skribble.pdf" target="_blank">Download</a>
   </td>
 </tr>
-<tr>
+<tr data-mtm="tr-test">
   <td>11.01.2019</td>
   <td><strong>Swisscom - Swiss RegTech Startup Map</strong></td>
   <td>
