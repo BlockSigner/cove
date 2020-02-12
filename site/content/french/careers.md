@@ -8,31 +8,28 @@ og_image: og/og-career.jpg
 
 ---
 
-{{< content top=12 >}}
-{{% heading %}}
+{{< content text=center top=12 width="narrow" >}}
+{{% markdown %}}
 # Travailler chez Skribble
 Collaborer et progresser avec des personnes motivées et inspirantes.
 Nous te permettons de surmonter des nouveaux challenges
 et de développer Skribble et toi-même.
-{{% /heading %}}
+{{% /markdown %}}
+{{< /content >}}
 
 {{< picture career 640 "3 candidats avec leurs listes de contrôle" >}}
 
-{{% richtext %}}
-## Nous recherchons :
-{{% /richtext %}}
-{{< /content >}}
-
 {{< cta
+  title="Nous recherchons"
   label="Plus d'info"
   href="/fr/carriere/465/sales-manager-de"
   target=""
   outlined="true"
 >}}
-{{% richtext %}}
+{{% markdown %}}
 **Sales Manager, Allemagne (100%)**
 (Annonce en Allemand)
-{{% /richtext %}}
+{{% /markdown %}}
 {{< /cta >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)

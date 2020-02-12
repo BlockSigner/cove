@@ -21,36 +21,36 @@ von Swisscom identifizieren lässt.
 {{< row >}}
 {{< step >}}
 {{< picture "identification-step-1" 252 "Eine lupe vergrößert das bild eines mannes in einem pass" >}}
-{{% richtext %}}
+{{% markdown %}}
 **Schritt 1**
 Vereinbare einen Identifikations-Termin und komm persönlich vorbei.
-{{% /richtext %}}
+{{% /markdown %}}
 {{< /step >}}
 
 {{< step >}}
 {{< picture "identification-step-2" 158 "Eine elektronische identität auf einem mobiltelefon" >}}
-{{% richtext %}}
+{{% markdown %}}
 **Schritt 2**
 Wir scannen und prüfen deinen Ausweis mit der ID-App von Swisscom.
-{{% /richtext %}}
+{{% /markdown %}}
 {{< /step >}}
 {{< /row >}}
 
 {{< row >}}
 {{< step >}}
 {{< picture "identification-step-3" 270 "Ein mann der erfolgreich elektronisch identifiziert ist" >}}
-{{% richtext %}}
+{{% markdown %}}
 **Schritt 3**
 Swisscom verifiziert deine Daten <br class="hide-for-mobile">und legt sie sicher ab.
-{{% /richtext %}}
+{{% /markdown %}}
 {{< /step >}}
 
 {{< step >}}
 {{< picture "identification-step-4" 270 "Eine person hält ein rechtsgültiges dokument in den händen. Im hintergrund befindet sich das swisscom logo" >}}
-{{% richtext %}}
+{{% markdown %}}
 **Schritt 4**
 Die Beweiskraft deiner Signatur wird auf 100% angehoben (QES-Level)
-{{% /richtext %}}
+{{% /markdown %}}
 {{< /step >}}
 {{< /row >}}
 
@@ -92,12 +92,12 @@ Die persönliche Identifikation wird nur für das Signieren mit dem höchsten E-
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< content top=12 >}}
-{{% heading %}}
+{{< content text=center top=12 >}}
+{{% markdown %}}
 # Standorte für die Identitätsprüfung
 Komm vorbei und lass dich kostenlos identifzieren.
 Bringe deinen gültigen Pass oder Identitätskarte mit sowie dein Mobiltelefon.
-{{% /heading %}}
+{{% /markdown %}}
 {{< /content >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
@@ -120,7 +120,7 @@ Bringe deinen gültigen Pass oder Identitätskarte mit sowie dein Mobiltelefon.
   target="_target"
 >}}
 
-{{% richtext %}}
+{{% markdown %}}
 **Swisscom Shop**
 Route de Matran 9
 CH-1754 Avry
@@ -129,7 +129,7 @@ CH-1754 Avry
 Mo - Fr: 08.30 - 19.00
 Do: 08.30 - 21.00
 Sa: 09.00 - 16.00
-{{% /richtext %}}
+{{% /markdown %}}
 {{< /cta >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
@@ -151,11 +151,11 @@ Sa: 09.00 - 16.00
   target="_target"
 >}}
 
-{{% richtext %}}
+{{% markdown %}}
 **Natel Profi**
 Dorfstrasse 6
 CH-3123 Belp
-{{% /richtext %}}
+{{% /markdown %}}
 {{< /cta >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
@@ -178,11 +178,11 @@ CH-3123 Belp
   target="_target"
 >}}
 
-{{% richtext %}}
+{{% markdown %}}
 **Natel Spycher**
 Belpstrasse 45
 CH-3007 Bern
-{{% /richtext %}}
+{{% /markdown %}}
 {{< /cta >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
@@ -205,7 +205,7 @@ CH-3007 Bern
   target="_target"
 >}}
 
-{{% richtext %}}
+{{% markdown %}}
 **Swisscom Shop**
 Route de Riaz 18
 CH-1630 Bulle
@@ -213,7 +213,7 @@ CH-1630 Bulle
 **Öffnungszeiten:**
 Mo - Fr: 09.00 - 18.30
 Sa: 09.00 - 16.00
-{{% /richtext %}}
+{{% /markdown %}}
 {{< /cta >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
@@ -236,7 +236,7 @@ Sa: 09.00 - 16.00
   target="_target"
 >}}
 
-{{% richtext %}}
+{{% markdown %}}
 **Swisscom Shop**
 Avenue de la Gare 22
 CH-1700 Fribourg
@@ -245,7 +245,7 @@ CH-1700 Fribourg
 Mo - Fr: 08.30 - 19.00
 Do: 08.30 - 21.00
 Sa: 09.00 - 16.00
-{{% /richtext %}}
+{{% /markdown %}}
 {{< /cta >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
@@ -269,12 +269,12 @@ Sa: 09.00 - 16.00
   target="_blank"
 >}}
 
-{{% richtext %}}
+{{% markdown %}}
 **Skribble AG**
 FlexOffice
 Fraumünsterstrasse 16
 CH-8001 Zürich
-{{% /richtext %}}
+{{% /markdown %}}
 {{< /cta >}}
 {{< /cta-group >}}
 

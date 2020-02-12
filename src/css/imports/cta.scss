@@ -1,9 +1,12 @@
 $ns: cta;
 
 .#{$ns} {
-  @include site-width($narrow: true);
-  @include standard-padding;
-  padding-top: 0;
+
+  &-inner {
+    // @include site-width($narrow: true);
+    // @include standard-padding;
+    // padding-top: 0;
+  }
 
   img {
     margin: 0;
@@ -53,7 +56,6 @@ $ns: cta;
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 16px 0;
     border-top: 1px solid $c-border;
     border-bottom: 1px solid $c-border;
     @include max-width {

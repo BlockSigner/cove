@@ -21,36 +21,36 @@ with the Swisscom ID app.
 {{< row >}}
 {{< step >}}
 {{< picture "identification-step-1" 252 "A magnifying glass magnifies the image of a man in a passport" >}}
-{{% richtext %}}
+{{% markdown %}}
 **Step 1**
 Schedule an identification date and come by personally.
-{{% /richtext %}}
+{{% /markdown %}}
 {{< /step >}}
 
 {{< step >}}
 {{< picture "identification-step-2" 158 "An electronic identity on a mobile phone" >}}
-{{% richtext %}}
+{{% markdown %}}
 **Step 2**
 We scan and check your ID or passport using Swisscom’s ID app.
-{{% /richtext %}}
+{{% /markdown %}}
 {{< /step >}}
 {{< /row >}}
 
 {{< row >}}
 {{< step >}}
 {{< picture "identification-step-3" 270 "A man who has been successfully identified electronically" >}}
-{{% richtext %}}
+{{% markdown %}}
 **Step 3**
 Swisscom verifies the data and stores them securely.
-{{% /richtext %}}
+{{% /markdown %}}
 {{< /step >}}
 
 {{< step >}}
 {{< picture "identification-step-4" 270 "A person holds a legal document in their hands. The Swisscom logo is in the background" >}}
-{{% richtext %}}
+{{% markdown %}}
 **Step 4**
 The legal weight of your signature is raised to 100% (QES level)
-{{% /richtext %}}
+{{% /markdown %}}
 {{< /step >}}
 {{< /row >}}
 
@@ -94,12 +94,12 @@ Personal identification is only required for signing with the highest e-signatur
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< content top=12 >}}
-{{% heading %}}
+{{< content text=center top=12 >}}
+{{% markdown %}}
 # Identification sites
 Come by and get identified for free.
 Bring a valid passport or your identity card as well as your mobile phone.
-{{% /heading %}}
+{{% /markdown %}}
 {{< /content >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
@@ -122,7 +122,7 @@ Bring a valid passport or your identity card as well as your mobile phone.
   target="_target"
 >}}
 
-{{% richtext %}}
+{{% markdown %}}
 **Swisscom Shop**
 Route de Matran
 9 CH-1754 Avry
@@ -131,7 +131,7 @@ Route de Matran
 Mo - Fr: 08.30 - 19.00
 Do: 08.30 - 21.00
 Sa: 09.00 - 16.00
-{{% /richtext %}}
+{{% /markdown %}}
 {{< /cta >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
@@ -153,11 +153,11 @@ Sa: 09.00 - 16.00
   target="_target"
 >}}
 
-{{% richtext %}}
+{{% markdown %}}
 **Natel Profi**
 Dorfstrasse 6
 CH-3123 Belp
-{{% /richtext %}}
+{{% /markdown %}}
 {{< /cta >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
@@ -180,11 +180,11 @@ CH-3123 Belp
   target="_target"
 >}}
 
-{{% richtext %}}
+{{% markdown %}}
 **Natel Spycher**
 Belpstrasse 45
 CH-3007 Bern
-{{% /richtext %}}
+{{% /markdown %}}
 {{< /cta >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
@@ -207,7 +207,7 @@ CH-3007 Bern
   target="_target"
 >}}
 
-{{% richtext %}}
+{{% markdown %}}
 **Swisscom Shop**
 Route de Riaz 18
 CH-1630 Bulle
@@ -215,7 +215,7 @@ CH-1630 Bulle
 **Opening hours:**
 Mo - Fr: 09.00 - 18.30
 Sa: 09.00 - 16.00
-{{% /richtext %}}
+{{% /markdown %}}
 {{< /cta >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
@@ -238,7 +238,7 @@ Sa: 09.00 - 16.00
   target="_target"
 >}}
 
-{{% richtext %}}
+{{% markdown %}}
 **Swisscom Shop**
 Avenue de la Gare 22
 CH-1700 Fribourg
@@ -247,7 +247,7 @@ CH-1700 Fribourg
 Mo - Fr: 08.30 - 19.00
 Do: 08.30 - 21.00
 Sa: 09.00 - 16.00
-{{% /richtext %}}
+{{% /markdown %}}
 {{< /cta >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
@@ -270,12 +270,12 @@ Sa: 09.00 - 16.00
   target="_blank"
 >}}
 
-{{% richtext %}}
+{{% markdown %}}
 **Skribble AG**
 FlexOffice
 Fraumünsterstrasse 16
 CH-8001 Zurich
-{{% /richtext %}}
+{{% /markdown %}}
 {{< /cta >}}
 
 {{< /cta-group >}}

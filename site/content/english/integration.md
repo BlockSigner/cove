@@ -118,10 +118,10 @@ You can create a demo key in your Skribble Business account.
 
 {{< picture "api-dok" 140 "User interface window with one gear wheel." >}}
 
-{{% richtext %}}
+{{% markdown %}}
 **API documentation**
 Check out our API documenation.
-{{% /richtext %}}
+{{% /markdown %}}
 {{< /cta >}}
 {{< /cta-group >}}
 

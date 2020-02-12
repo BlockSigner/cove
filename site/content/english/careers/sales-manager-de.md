@@ -8,27 +8,30 @@ og_image: og/og-career.jpg
 
 ---
 
-{{< content top=12 >}}
-{{< center >}}
-  {{< button
-    "Go back"
-    "careers"
-    ""
-    "outline"
-  >}}
-  {{< /center >}}
-  <br>
-  {{% heading %}}
-  # Sales Manager, Germany (100%)
-  unbefristet
-  {{% /heading %}}
+{{< content text=center top=12 >}}
+{{< button
+  "Go back"
+  "careers"
+  ""
+  "outline"
+>}}
+{{< /content >}}
 
-  {{% richtext center %}}
-  ## ***
-  {{% /richtext %}}
-<br>
-{{% richtext %}}
+{{< content text=center top=12 >}}
+{{% markdown %}}
+# Sales Manager, Germany (100%)
+unbefristet
+{{% /markdown %}}
+{{< /content >}}
 
+{{< content text=center top=12 width=narrow >}}
+{{% markdown %}}
+## ***
+{{% /markdown %}}
+{{< /content >}}
+
+{{< content top=12 width=narrow >}}
+{{% markdown %}}
 ## Unterschreibst du noch oder skribblest du schon?
 Die Digitalisierung hat die Art, wie und wem wir vertrauen, grundlegend verändert. Dieser Wandel wird nicht zuletzt von neuen Technologien angetrieben. Skribble schafft mit seiner Plattform für elektronische Signaturen Vertrauen in digitale Prozesse. Nach erfolgreichem Start in der Schweiz, sollen nun auch Firmen und Privatpersonen in Deutschland einfach, schnell und rechtssicher elektronisch signieren können.
 
@@ -59,23 +62,24 @@ Gemeinsam wollen wir Vertrauen in der digitalen Welt schaffen. Wie wir das errei
 - Wir begegnen einander auf Augenhöhe. Dafür stehen unsere offene Kommunikation, flache Hierarchien sowie die Du-Kultur
 - Wir bieten marktübliche Entlohnung mit Erfolgsbeteiligung, eine Beteiligung an Skribble ist möglich
 - Kurz: Skribble ist ein Start-up ohne Bullshit: Wir packen unsere ganze Energie in Produkt und Team
-{{% /richtext %}}
-<br>
-<br>
-{{% heading %}}
+{{% /markdown %}}
+{{< /content >}}
+
+{{< content text=center top=12 >}}
+{{% markdown %}}
 # Did we spark your interest?
 Apply now at Skribble.
 We look forward to you
-{{% /heading %}}
+{{% /markdown %}}
+{{< /content >}}
 
-{{< center >}}
+{{< content text=center top=6 >}}
 {{< button
   "Apply now"
   "https://share.hsforms.com/1GDSoid6YS_GylqWhkt0MvA309ws"
   "_blank"
   "outline"
 >}}
-{{< /center >}}
 {{< /content >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)

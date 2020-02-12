@@ -18,7 +18,8 @@
     object-fit: contain;
   }
 
-  .richtext {
+  .richtext,
+  .markdown {
     flex: 0 0 150px;
     max-width: 100%;
     padding: 20px 0;

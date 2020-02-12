@@ -8,29 +8,26 @@ og_image: og/og-career.jpg
 
 ---
 
-{{< content top=12 >}}
-{{% heading %}}
+{{< content text=center top=12 width="narrow" >}}
+{{% markdown %}}
 # Arbeiten bei Skribble
 Entwickle dich und deine Karriere zusammen mit motivierten
 und inspirierenden Personen. Wir bieten dir die Chance neue Herausforderungen gemeinsam zu lösen und zu wachsen.
-{{% /heading %}}
+{{% /markdown %}}
+{{< /content >}}
 
 {{< picture career 640 "3 Bewerber mit ihren Checklisten" >}}
 
-{{% richtext %}}
-## Offene Stellen:
-{{% /richtext %}}
-{{< /content >}}
-
 {{< cta
+  title="Offene Stellen"
   label="Mehr Infos"
   href="/de/karriere/465/sales-manager-de"
   target=""
   outlined="true"
 >}}
-{{% richtext %}}
+{{% markdown %}}
 **Sales Manager/in, Deutschland (100%)**
-{{% /richtext %}}
+{{% /markdown %}}
 {{< /cta >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)

@@ -20,36 +20,36 @@ en vous identifiant par contact personnel avec l'ID-app de Swisscom.
 {{< row >}}
 {{< step >}}
 {{< picture "identification-step-1" 252 "Une loupe grossit l'image d'un homme dans un col" >}}
-{{% richtext %}}
+{{% markdown %}}
 **Etape 1**
 Prenez un rendez-vous d'identification <br class="hide-for-mobile">et passez en personne.
-{{% /richtext %}}
+{{% /markdown %}}
 {{< /step >}}
 
 {{< step >}}
 {{< picture "identification-step-2" 158 "Une identité électronique sur un téléphone portable" >}}
-{{% richtext %}}
+{{% markdown %}}
 **Etape 2**
 La pièce d’identité de l’utilisateur est scannée et vérifiée avec l’ID-app de Swisscom.
-{{% /richtext %}}
+{{% /markdown %}}
 {{< /step >}}
 {{< /row >}}
 
 {{< row >}}
 {{< step >}}
 {{< picture "identification-step-3" 270 "Un homme qui a été identifié électroniquement avec succès" >}}
-{{% richtext %}}
+{{% markdown %}}
 **Etape 3**
 Swisscom vérifie les données et les stocke en toute sécurité.
-{{% /richtext %}}
+{{% /markdown %}}
 {{< /step >}}
 
 {{< step >}}
 {{< picture "identification-step-4" 270 "Une personne tient un document juridique entre ses mains. Le logo de swisscom se trouve à l'arrière-plan" >}}
-{{% richtext %}}
+{{% markdown %}}
 **Etape 4**
 La force probante de votre signature est portée à 100% (niveau SEQ)
-{{% /richtext %}}
+{{% /markdown %}}
 {{< /step >}}
 {{< /row >}}
 
@@ -85,12 +85,12 @@ Non. Mais avec un Mobile ID, la signature est plus rapide et plus facile, c'est 
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< content top=12 >}}
-{{% heading %}}
+{{< content text=center top=12 >}}
+{{% markdown %}}
 # Sites d'identification
 Venez vous identifier gratuitement. Apportez votre passeport
 ou votre carte d'identité en cours de validité et votre téléphone portable.
-{{% /heading %}}
+{{% /markdown %}}
 {{< /content >}}
 
 
@@ -112,7 +112,7 @@ ou votre carte d'identité en cours de validité et votre téléphone portable.
   target="_target"
 >}}
 
-{{% richtext %}}
+{{% markdown %}}
 **Swisscom Shop**
 Route de Matran 9
 CH-1754 Avry
@@ -121,7 +121,7 @@ CH-1754 Avry
 Mo - Fr: 08.30 - 19.00
 Do: 08.30 - 21.00
 Sa: 09.00 - 16.00
-{{% /richtext %}}
+{{% /markdown %}}
 {{< /cta >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
@@ -143,11 +143,11 @@ Sa: 09.00 - 16.00
   target="_target"
 >}}
 
-{{% richtext %}}
+{{% markdown %}}
 **Natel Profi**
 Dorfstrasse 6
 CH-3123 Belp
-{{% /richtext %}}
+{{% /markdown %}}
 {{< /cta >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
@@ -170,11 +170,11 @@ CH-3123 Belp
   target="_target"
 >}}
 
-{{% richtext %}}
+{{% markdown %}}
 **Natel Spycher**
 Belpstrasse 45
 CH-3007 Bern
-{{% /richtext %}}
+{{% /markdown %}}
 {{< /cta >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
@@ -197,7 +197,7 @@ CH-3007 Bern
   target="_target"
 >}}
 
-{{% richtext %}}
+{{% markdown %}}
 **Swisscom Shop**
 Route de Riaz 18
 CH-1630 Bulle
@@ -205,7 +205,7 @@ CH-1630 Bulle
 **Horaires d'ouverture:**
 Mo - Fr: 09.00 - 18.30
 Sa: 09.00 - 16.00
-{{% /richtext %}}
+{{% /markdown %}}
 {{< /cta >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
@@ -228,7 +228,7 @@ Sa: 09.00 - 16.00
   target="_target"
 >}}
 
-{{% richtext %}}
+{{% markdown %}}
 **Swisscom Shop**
 Avenue de la Gare 22
 CH-1700 Fribourg
@@ -237,7 +237,7 @@ CH-1700 Fribourg
 Mo - Fr: 08.30 - 19.00
 Do: 08.30 - 21.00
 Sa: 09.00 - 16.00
-{{% /richtext %}}
+{{% /markdown %}}
 {{< /cta >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
@@ -260,12 +260,12 @@ Sa: 09.00 - 16.00
   target="_blank"
 >}}
 
-{{% richtext %}}
+{{% markdown %}}
 **Skribble AG**
 FlexOffice
 Fraumünsterstrasse 16
 CH-8001 Zurich
-{{% /richtext %}}
+{{% /markdown %}}
 {{< /cta >}}
 
 {{< /cta-group >}}
