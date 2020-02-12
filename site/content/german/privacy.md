@@ -5,8 +5,8 @@ draft: false
 description: Privacy policy meta description
 ---
 
-{{< content top=12 >}}
-{{% richtext %}}
+{{< content top=12 width="narrow" >}}
+{{% markdown %}}
 # Datenschutz&shy;bestimmungen
 
 <small>Datum des Inkrafttretens: 22. Oktober 2019</small>
@@ -236,7 +236,7 @@ Wir empfehlen Ihnen, diese Datenschutz-Richtlinie regelmäßig auf Änderungen h
 Falls Sie Fragen zu dieser Datenschutz-Richtlinie haben, können Sie wie folgt Kontakt zu uns aufnehmen:<br>
 Per E-Mail: <a href="mailto:info@skribble.com">info@skribble.com</a><br>
 Über folgende Website: <a href="https://www.skribble.com/de/kontakt/" target="_blank">www.skribble.com/de/kontakt/</a>
-{{% /richtext %}}
+{{% /markdown %}}
 {{< /content >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)

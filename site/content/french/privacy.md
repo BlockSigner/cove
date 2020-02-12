@@ -5,8 +5,8 @@ draft: false
 description: Politique de Confidentialité méta-description
 ---
 
-{{< content top=12 >}}
-{{% richtext %}}
+{{< content top=12 width="narrow" >}}
+{{% markdown %}}
 # Politique de Confidentialité
 
 <small>Date de prise d'effet: October 22, 2019</small>
@@ -229,7 +229,7 @@ Nous vous conseillons de consulter la présente Politique de Confidentialité p�
 Pour toute question relative à la présente Politique de Confidentialité, veuillez nous contacter:<br>
 Par courrier électronique: <a href="mailto:info@skribble.com">info@skribble.com</a><br>
 En consultant cette page sur notre site web: <a href="https://www.skribble.com/fr/contact/" target="_blank">www.skribble.com/fr/contact/</a>
-{{% /richtext %}}
+{{% /markdown %}}
 {{< /content >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)

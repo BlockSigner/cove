@@ -1,3 +1,6 @@
-<div class="markdown">
+<div class="markdown
+  {{ cond (eq (.Get 0) "center") "text-center" "" }}
+  {{ cond (eq (.Get 0) "legal") "markdown--legal" "" }}
+">
   {{.Inner}}
 </div>

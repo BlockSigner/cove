@@ -5,8 +5,8 @@ draft: false
 description: terms-of-use meta description
 ---
 
-{{< content top=12 >}}
-{{% richtext legal %}}
+{{< content top=12 width=narrow >}}
+{{% markdown legal %}}
 # Terms of Use of Skribble
 (Version 2019.10.01)
 
@@ -39,11 +39,11 @@ These Terms of Use govern your use of the Skribble Cloud Solution (Skribble Serv
 6. System Users may not impersonate any person or falsely impersonate any organization. Neither may they falsely state or otherwise misrepresent their affiliation with or relationship to any organization.
 7. System Users independently secure data in their account. Skribble does not owe any data availability.
 8. System Users acknowledge the right of Skribble to disclose data from their user account to the Customer (usually the employer of the System User) if it appears that the System User in question has misused the Skribble Service to disseminate criminal or infringing information.
-{{% /richtext %}}
+{{% /markdown %}}
 
-{{% richtext center %}}
+{{% markdown center %}}
 ## ***
-{{% /richtext %}}
+{{% /markdown %}}
 {{< /content >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)

@@ -5,8 +5,8 @@ draft: false
 description: Conditions d'utilisation meta description
 ---
 
-{{< content top=12 >}}
-{{% richtext legal %}}
+{{< content top=12 width=narrow >}}
+{{% markdown legal %}}
 # Conditions d'Utilisation de Skribble
 (Version 2019.10.01)
 
@@ -41,13 +41,13 @@ Les présentes Conditions d'Utilisation régissent votre utilisation de la Solut
 6. Les Utilisateurs du Système ne peuvent pas usurper l'identité d'une personne ou usurper l'identité d'une organisation ou faussement déclarer ou faussement représenter leur affiliation ou relation avec une organisation.
 7. Les Utilisateurs du Système sécurisent indépendamment les données de leur compte. Skribble ne garantit aucune disponibilité des données.
 8. Les Utilisateurs du Système reconnaissent le droit de Skribble de divulguer les données de leur Compte Utilisateur au client (habituellement l'employeur de l'Utilisateur du Système) s'il apparaît que l'Utilisateur du Système en question a abusé de Skribble pour diffuser des informations criminelles ou contraires au droit.
-{{% /richtext %}}
+{{% /markdown %}}
 
-{{% richtext %}}
+{{% markdown %}}
 {{% center %}}
 ## ***
 {{% / center %}}
-{{% /richtext %}}
+{{% /markdown %}}
 
 {{< /content >}}
 
