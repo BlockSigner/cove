@@ -7,33 +7,21 @@ type: blank
 
 ---
 
-{{< intro top=24 bottom=12 width=wide >}}
-<div class="hide-for-mobile">
-  {{< picture image1 678 >}}
-</div>
-
-{{< richtext >}}
-{{% heading left %}}
+{{< intro top=24 bottom=12 width=wide img=image1 img-width=678 img-alt="drei personen signieren ein elektronisches dokument" >}}
+{{% markdown %}}
 # Rechtsgültig elektronisch signieren mit Skribble
 Signaturprozesse einfach digital abwickeln – rechtsgültig nach dem Schweizer & EU Gesetz.
-{{% /heading %}}
-
-<div class="hide-for-desktop">
-  {{< picture image1 678 "drei personen signieren ein elektronisches dokument" >}}
-</div>
-
+{{% /markdown %}}
 {{< intro-partner
   "image/swisscom.png"
   "Basierend auf der qualifizierten elektronischen Signatur QES der Swisscom"
 >}}
-
-{{< /richtext >}}
 {{< /intro >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
 {{< side-by-side >}}
-{{% richtext %}}
+{{% markdown %}}
 ## Die qualifizierte elektronische Signatur wird mit Skribble einfach, intuitiv und effizient
 - **Keine externe Hardware notwendig**
 Skribble ist sofort einsetzbar
@@ -41,7 +29,7 @@ Skribble ist sofort einsetzbar
 Mehrere Dokumente mit einem Klick signieren (Stapelsignatur)
 - **Zeitsparende Koordination**
 Per E-Mail zum Signieren einladen und erinnern
-{{% /richtext %}}
+{{% /markdown %}}
 
 {{< picture image4 391 "Drei personen signieren rechtsgültig zusammen ein online dokument" >}}
 {{< /side-by-side >}}
@@ -51,7 +39,7 @@ Per E-Mail zum Signieren einladen und erinnern
 {{< side-by-side >}}
 {{< picture image5 430 "Eine person hält ein rechtsgültiges dokument in den händen. Im hintergrund befindet sich das swisscom logo" >}}
 
-{{% richtext %}}
+{{% markdown %}}
 ## Skribble erfüllt höchste rechtliche und technologische Standards
 - **ZertEs & eIDAS**
 QES-Zertifikate von Swisscom
@@ -59,22 +47,22 @@ QES-Zertifikate von Swisscom
 AES-256 Verschlüsselung
 - **Schweizer Hosting**
 FINMA-Konform, ISO 27001 zertifiziert
-{{% /richtext %}}
+{{% /markdown %}}
 {{< /side-by-side >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< content top=12 >}}
-{{% heading %}}
+{{< content text=center top=12 bottom=18 width=narrow >}}
+{{% markdown %}}
 # SAV-FSA Mitglieder nutzen Skribble zum Vorzugspreis
-{{% /heading %}}
+{{% /markdown %}}
 
 {{< picture sav-special 200 "Blauer kreis mit der nummer 12" >}}
 
-{{% richtext center %}}
+{{% markdown center %}}
 ## pro Monat / Nutzer anstatt CHF 25.-
 Signaturen können auch nutzerunabhängig bezogen werden.
-{{% /richtext %}}
+{{% /markdown %}}
 
 {{< /content >}}
 
@@ -83,7 +71,7 @@ Signaturen können auch nutzerunabhängig bezogen werden.
 {{< side-by-side >}}
 {{< picture identification 482 "Die identität einer frau, die in einem handy steht, wird von zwei personen überprüft" >}}
 
-{{% richtext %}}
+{{% markdown %}}
 # Bereit zum Signieren in 5 Minuten
 
 Du benötigst nur ein Mobiltelefon und ein gültiges Ausweispapier (Pass oder Identitätskarte).
@@ -99,7 +87,7 @@ Eine Kanzlei kann auch dazu befähigt werden, selbst Personen zu identifizieren.
   "Offizieller Identifikations-Partner von Swisscom"
 >}}
 
-{{% /richtext %}}
+{{% /markdown %}}
 {{< /side-by-side >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)

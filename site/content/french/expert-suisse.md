@@ -7,40 +7,31 @@ type: blank
 
 ---
 
-{{< intro top=24 bottom=12 width=wide >}}
-<div class="hide-for-mobile">
-  {{< picture image1 678 "trois personnes signent un document électronique" >}}
-</div>
-
-{{% richtext %}}
-{{% heading left %}}
+{{< intro top=24 bottom=12 width=wide img=image1 img-width=678 img-alt="trois personnes signent un document électronique" >}}
+{{% markdown %}}
 # Signature électronique légalement valide avec Skribble
-Traiter les processus de signature numériquement &ndash; <br class="hide-for-mobile">juridiquement valides selon le droit suisse et européen.
-{{% /heading %}}
-
-<div class="hide-for-desktop">
-  {{< picture image1 678 "trois personnes signent un document électronique" >}}
-</div>
-
+Traiter les processus de signature numériquement &ndash; juridiquement valides selon le droit suisse et européen.
+{{% /markdown %}}
 {{< intro-partner
   "image/swisscom.png"
-  "Basé sur la signature électronique qualifiée SEQ de Swisscom"
+  "Basé sur les certificats de signature de Swisscom"
 >}}
-
-{{% /richtext %}}
 {{< /intro >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
 {{< side-by-side >}}
-{{% richtext %}}
+{{% markdown %}}
 ## La signature électronique qualifiée avec Skribble simple, intuitif et efficace
-{{% fancy-list %}}
-- **Aucun matériel externe requis** Skribble peut être utilisé immédiatement
-- **Joindre plusieurs signatures** Signer plusieurs documents en un seul clic (signature groupées)
-- **Coordination rapide et efficace** Invitations à signer par courriel et rappels
-{{% /fancy-list %}}
-{{% /richtext %}}
+
+- **Aucun matériel externe requis**
+Skribble peut être utilisé immédiatement
+- **Joindre plusieurs signatures**
+Signer plusieurs documents en un seul clic (signature groupées)
+- **Coordination rapide et efficace**
+Invitations à signer par courriel et rappels
+
+{{% /markdown %}}
 
 {{< picture image4 391 "Trois personnes signent légalement ensemble un document en ligne" >}}
 {{< /side-by-side >}}
@@ -50,31 +41,33 @@ Traiter les processus de signature numériquement &ndash; <br class="hide-for-mo
 {{< side-by-side >}}
 {{< picture image5 430 "Une personne tient un document juridique entre ses mains. Le logo de swisscom se trouve à l'arrière-plan" >}}
 
-{{% richtext %}}
+{{% markdown %}}
 ## Skribble répond aux normes juridiques et technologiques les plus élevées.
-{{% fancy-list %}}
-- **SCSE & eIDAS** Certificats SEQ de Swisscom
-- **LPD/ RGDP** Chiffrement SEA-256
-- **Hébergement en Suisse** Conforme FINMA, certifié ISO 27001
-{{% /fancy-list %}}
-{{% /richtext %}}
+
+- **SCSE & eIDAS**
+Certificats SEQ de Swisscom
+- **LPD/ RGDP**
+Chiffrement SEA-256
+- **Hébergement en Suisse**
+Conforme FINMA, certifié ISO 27001
+
+{{% /markdown %}}
 {{< /side-by-side >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< content top=12 >}}
-{{% heading %}}
+{{< content text=center top=12 bottom=18 width=narrow >}}
+{{% markdown %}}
 # Signature gratuite avec Skribble <br class="hide-for-mobile">jusqu'à la fin de l'année <br class="hide-for-mobile">pour les membres EXPERTsuisse. À partir de janvier 2020
-{{% /heading %}}
+{{% /markdown %}}
 
 {{< picture sav-special 200 "Cercle bleu avec le chiffre 12" >}}
 
-{{% heading %}}
+{{% markdown %}}
 ## par mois par utilisateur au lieu de CHF 25.-
 Exclusivement pour les membres EXPERTsuisse :
 {{< picture expertsuisse-logo 250 "EXPERTsuisse Logo" >}}
-{{% /heading %}}
-
+{{% /markdown %}}
 {{< /content >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
@@ -82,16 +75,14 @@ Exclusivement pour les membres EXPERTsuisse :
 {{< side-by-side >}}
 {{< picture identification 482 "L'identité d'une femme debout dans un téléphone portable est vérifiée par deux personnes" >}}
 
-{{% richtext %}}
+{{% markdown %}}
 # Prêt à signer en 5 minutes
 
 Tout ce dont tu as besoin c'est d'un téléphone portable et un document d'identification officiel. (passeport ou carte d'identité)
 
-{{% fancy-list %}}
 - **Skribble passe chez vous**
 - **Nous vous identifions**
 - **Vous êtes prêt à signer tout de suite**
-{{% /fancy-list %}}
 
 Un entreprise peut également être qualifié pour le faire, pour identifier les gens vous-même.
 
@@ -100,17 +91,18 @@ Un entreprise peut également être qualifié pour le faire, pour identifier les
   "Partenaire officiel d'identification de Swisscom"
 >}}
 
-{{% /richtext %}}
+{{% /markdown %}}
 {{< /side-by-side >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-
-{{< content top=12 >}}
-{{% heading %}}
+{{< content text=center top=12 width="narrow" >}}
+{{% markdown %}}
 # Est-ce que ça va?
-{{% /heading %}}
+{{% /markdown %}}
+{{< /content >}}
 
+{{< content top=6 width=narrow >}}
 {{% collapsible 10 "Où sont stockés les documents signés avec Skribble?" %}}
 Le centre de données Skribble est situé en Suisse et est certifié ISO 270001 (hébergement bancaire standard).
 {{% /collapsible %}}
@@ -133,10 +125,11 @@ Avec Skribble vous signez avec la signature électronique qualifiée (SEQ). <br 
 {{< /content >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
+
 {{< outro >}}
 {{< picture image8 414 "Un homme se tient à côté d'un document électronique avec un stylo plume géan" >}}
 
-{{% richtext %}}
+{{< richtext >}}
 {{% heading %}}
 # Signez dès à présent électroniquement de manière légalement valide!
 En savoir plus sur l'offre.
@@ -157,5 +150,7 @@ En savoir plus sur l'offre.
   </svg>
   +41 44 505 16 64
 </a>
-{{% /richtext %}}
+{{< /richtext >}}
 {{< /outro >}}
+
+[//]: # (--------------------------------------------------------------------------------------------------------------)

@@ -56,6 +56,7 @@ $ns: cta;
     display: flex;
     justify-content: space-between;
     align-items: center;
+    padding: 20px 0;
     border-top: 1px solid $c-border;
     border-bottom: 1px solid $c-border;
     @include max-width {

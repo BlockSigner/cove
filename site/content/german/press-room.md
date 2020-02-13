@@ -8,15 +8,19 @@ og_image: og/og-skribble-mission.jpg
 
 ---
 
-{{< content top=12 >}}
-{{% heading %}}
+{{< content text=center top=12 width="narrow" >}}
+{{% markdown %}}
 # Skribble für Medien
 Hier findest du alles was du brauchst, um über Skribble zu schreiben.
-{{% /heading %}}
+{{% /markdown %}}
+{{< /content >}}
 
 {{< picture image12 688 "Ein astronaut fliegt mit einem riesen füller vor einem bildschirm und signiert elektronisch" >}}
 
+{{< content top=12 width="narrow" >}}
+{{% markdown %}}
 Skribble, gegründet im März 2018, ist ein Schweizer Anbieter von elektronischen Signaturen mit Büros in Zürich (CH) und Karlsruhe (DE). Die TrustTech-Firma ermöglicht es, elektronische Dokumente einfach rechtsgültig zu signieren. Die Grundlage bilden gesetzlich geregelte Standards, unter anderem die qualifizierte elektronische Signatur (QES) – die einzige Form der elektronischen Signatur, die der handschriftlichen Unterschrift vor dem Gesetz gleichgestellt ist. Die staatlich anerkannte Zertifizierungstechnologie für die QES liefert Swisscom. Zu den bestehenden Kunden gehört unter Anderem der Kanton Freiburg. Skribble zählt 15 Mitarbeitende.
+{{% /markdown %}}
 {{< /content >}}
 
 {{< cta
@@ -28,10 +32,10 @@ Skribble, gegründet im März 2018, ist ein Schweizer Anbieter von elektronische
 
 {{< picture image13 100 "Kira Leuthold Content & Communications bei Skribble" >}}
 
-{{% richtext %}}
+{{% markdown %}}
 **Kira Leuthold**
 Communications & Public Relations
-{{% /richtext %}}
+{{% /markdown %}}
 {{< /cta >}}
 
 {{< cta
@@ -43,9 +47,9 @@ Communications & Public Relations
 
 {{< picture image14 106 "Notizbuch mit vielen informationen über skribble" >}}
 
-{{% richtext %}}
+{{% markdown %}}
 Die wichtigsten Skribble Branding Assets sind gleich hier griffbereit:
-{{% /richtext %}}
+{{% /markdown %}}
 {{< /cta >}}
 
 {{< table "Medienmitteilungen" >}}

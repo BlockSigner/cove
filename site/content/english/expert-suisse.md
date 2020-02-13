@@ -7,34 +7,21 @@ type: blank
 
 ---
 
-{{< intro top=24 bottom=12 width=wide >}}
-<div class="hide-for-mobile">
-  {{< picture image1 678 "three people sign an electronic document" >}}
-</div>
-
-{{< richtext >}}
-{{% heading left %}}
+{{< intro top=24 bottom=12 width=wide img=image1 img-width=678 img-alt="three people sign an electronic document" >}}
+{{% markdown %}}
 # Legally binding electronic signatures with Skribble
-Easily handle digital signature processes –
-legally binding in accordance with Swiss & EU law.
-{{% /heading %}}
-
-<div class="hide-for-desktop">
-  {{< picture image1 678 "three people sign an electronic document" >}}
-</div>
-
+Easily handle digital signature processes – legally binding in accordance with Swiss & EU law.
+{{% /markdown %}}
 {{< intro-partner
   "image/swisscom.png"
-  "Based on the qualified electronic signature QES by Swisscom"
+  "Based on signature certificates issued by Swisscom"
 >}}
-
-{{< /richtext >}}
 {{< /intro >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
 {{< side-by-side >}}
-{{% richtext %}}
+{{% markdown %}}
 ## The qualified electronic signature is simple, intuitive and efficient with Skribble.
 - **No external hardware required**
 Skribble can be used immediately
@@ -42,7 +29,7 @@ Skribble can be used immediately
 Sign multiple documents with one click (batch signature)
 - **Time-saving coordination**
 Invite and remind to sign by e-mail
-{{% /richtext %}}
+{{% /markdown %}}
 
 {{< picture image4 391 "Three people legally sign an online document together" >}}
 {{< /side-by-side >}}
@@ -52,7 +39,7 @@ Invite and remind to sign by e-mail
 {{< side-by-side >}}
 {{< picture image5 430 "A person holds a legal document in their hands. The Swisscom logo is in the background" >}}
 
-{{% richtext %}}
+{{% markdown %}}
 ## Skribble meets the highest legal and technological standards
 - **ZertEs & eIDAS**
 QES certificates from Swisscom
@@ -60,23 +47,23 @@ QES certificates from Swisscom
 AES-256 Encryption
 - **Swiss Hosting**
 FINMA-compliant, ISO 27001 certified
-{{% /richtext %}}
+{{% /markdown %}}
 {{< /side-by-side >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< content top=12 >}}
-{{% heading %}}
+{{< content text=center top=12 bottom=18 width=narrow >}}
+{{% markdown %}}
 # Free signing with Skribble
 until the end of the year for EXPERTsuisse members. As of January 2020
-{{% /heading %}}
+{{% /markdown %}}
 
 {{< picture sav-special 200 "Blue circle with the number 12" >}}
 
-{{% heading %}}
+{{% markdown center %}}
 ## per month per user instead of CHF 25.00
 Exclusively for EXPERTsuisse members:
-{{% /heading %}}
+{{% /markdown %}}
 {{< picture expertsuisse-logo 250 "EXPERTsuisse Logo" >}}
 {{< /content >}}
 
@@ -85,7 +72,7 @@ Exclusively for EXPERTsuisse members:
 {{< side-by-side >}}
 {{< picture identification 482 "The identity of a woman standing in a mobile phone is verified by two persons" >}}
 
-{{% richtext %}}
+{{% markdown %}}
 # Ready to sign in 5 minutes
 
 All you need is a mobile phone and a valid identification document (passport or identity card).
@@ -102,16 +89,18 @@ A firm may also elect to identify persons itself.
   "Official identification partner of Swisscom"
 >}}
 
-{{% /richtext %}}
+{{% /markdown %}}
 {{< /side-by-side >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< content top=12 >}}
-{{% heading %}}
+{{< content text=center top=12 width="narrow" >}}
+{{% markdown %}}
 # All clear?
-{{% /heading %}}
+{{% /markdown %}}
+{{< /content >}}
 
+{{< content top=6 width=narrow >}}
 {{% collapsible 10 "Where are the documents signed with Skribble stored?" %}}
 Skribble' s data centre is located in Switzerland and is ISO 270001 certified (according to banking standards).
 {{% /collapsible %}}

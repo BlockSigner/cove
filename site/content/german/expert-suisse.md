@@ -7,40 +7,29 @@ type: blank
 
 ---
 
-{{< intro top=24 bottom=12 width=wide >}}
-<div class="hide-for-mobile">
-  {{< picture image1 678 >}}
-</div>
-
-{{% richtext %}}
-{{% heading left %}}
+{{< intro top=24 bottom=12 width=wide img=image1 img-width=678 img-alt="drei personen signieren ein elektronisches dokument" >}}
+{{% markdown %}}
 # Rechtsgültig elektronisch signieren mit Skribble
-Signaturprozesse einfach digital abwickeln – <br class="hide-for-mobile">rechtsgültig nach dem Schweizer & EU Gesetz.
-{{% /heading %}}
-
-<div class="hide-for-desktop">
-  {{< picture image1 678 "drei personen signieren ein elektronisches dokument" >}}
-</div>
-
+Signaturprozesse einfach digital abwickeln – rechtsgültig nach dem Schweizer & EU Gesetz.
+{{% /markdown %}}
 {{< intro-partner
   "image/swisscom.png"
   "Basierend auf der qualifizierten elektronischen Signatur QES der Swisscom"
 >}}
-
-{{% /richtext %}}
 {{< /intro >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
 {{< side-by-side >}}
-{{% richtext %}}
+{{% markdown %}}
 ## Die qualifizierte elektronische Signatur wird mit Skribble einfach, intuitiv und effizient
-{{% fancy-list %}}
-- **Keine externe Hardware notwendig** Skribble ist sofort einsetzbar
-- **Mehrfachsignaturen anbringen** Mehrere Dokumente mit einem Klick signieren (Stapelsignatur)
-- **Zeitsparende Koordination** Per E-Mail zum Signieren einladen und erinnern
-{{% /fancy-list %}}
-{{% /richtext %}}
+- **Keine externe Hardware notwendig**
+Skribble ist sofort einsetzbar
+- **Mehrfachsignaturen anbringen**
+Mehrere Dokumente mit einem Klick signieren (Stapelsignatur)
+- **Zeitsparende Koordination**
+Per E-Mail zum Signieren einladen und erinnern
+{{% /markdown %}}
 
 {{< picture image4 391 "Drei personen signieren rechtsgültig zusammen ein online dokument" >}}
 {{< /side-by-side >}}
@@ -50,29 +39,31 @@ Signaturprozesse einfach digital abwickeln – <br class="hide-for-mobile">recht
 {{< side-by-side >}}
 {{< picture image5 430 "Eine person hält ein rechtsgültiges dokument in den händen. Im hintergrund befindet sich das swisscom logo" >}}
 
-{{% richtext %}}
+{{% markdown %}}
 ## Skribble erfüllt höchste rechtliche und technologische Standards
-{{% fancy-list %}}
-- **ZertEs & eIDAS** QES-Zertifikate von Swisscom
-- **DSG/ DSGVO** AES-256 Verschlüsselung
-- **Schweizer Hosting** FINMA-Konform, ISO 27001 zertifiziert
-{{% /fancy-list %}}
-{{% /richtext %}}
+- **ZertEs & eIDAS**
+QES-Zertifikate von Swisscom
+- **DSG/ DSGVO**
+AES-256 Verschlüsselung
+- **Schweizer Hosting**
+FINMA-Konform, ISO 27001 zertifiziert
+{{% /markdown %}}
 {{< /side-by-side >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< content top=12 >}}
-{{% heading %}}
+{{< content text=center top=12 bottom=18 width=narrow >}}
+{{% markdown %}}
 # Kostenlos Signieren mit Skribble <br class="hide-for-mobile">bis Ende Jahr für Mitglieder <br class="hide-for-mobile">von EXPERTsuisse. Ab Januar 2020
-{{% /heading %}}
+{{% /markdown %}}
+
 {{< picture sav-special 200 "Blauer kreis mit der nummer 12" >}}
-{{% heading %}}
+
+{{% markdown %}}
 ## pro Monat pro Nutzer anstatt CHF 25.-
 Exklusiv für EXPERTsuisse Mitglieder:
 {{< picture expertsuisse-logo 250 "EXPERTsuisse Logo" >}}
-
-{{% /heading %}}
+{{% /markdown %}}
 {{< /content >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
@@ -80,16 +71,14 @@ Exklusiv für EXPERTsuisse Mitglieder:
 {{< side-by-side >}}
 {{< picture identification 482 "Die identität einer frau, die in einem handy steht, wird von zwei personen überprüft" >}}
 
-{{% richtext %}}
+{{% markdown %}}
 # Bereit zum Signieren in 5 Minuten
 
 Du benötigst nur ein Mobiltelefon und einen gültigen Ausweis (Pass oder Identitätskarte).
 
-{{% fancy-list %}}
 - **Skribble kommt bei dir vorbei**
 - **Wir identifzieren dich**
 - **Du bist sofort signierbereit**
-{{% /fancy-list %}}
 
 Deine Firma kann auch dazu befähigt werden, selbst Personen zu identifizieren.
 
@@ -98,16 +87,18 @@ Deine Firma kann auch dazu befähigt werden, selbst Personen zu identifizieren.
   "Offizieller Identifikations-Partner von Swisscom"
 >}}
 
-{{% /richtext %}}
+{{% /markdown %}}
 {{< /side-by-side >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< content top=12 >}}
-{{% heading %}}
+{{< content text=center top=12 width="narrow" >}}
+{{% markdown %}}
 # Alles klar?
-{{% /heading %}}
+{{% /markdown %}}
+{{< /content >}}
 
+{{< content top=6 width=narrow >}}
 {{% collapsible 10 "Wo sind Dokumente, die mit Skribble signiert wurden, gespeichert?" %}}
 Das Datenzentrum von Skribble ist in der Schweiz und nach ISO 270001 zertifiziert (Hosting nach Bankenstandard).
 {{% /collapsible %}}

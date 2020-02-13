@@ -7,33 +7,21 @@ type: blank
 
 ---
 
-{{< intro top=24 bottom=12 width=wide >}}
-<div class="hide-for-mobile">
-  {{< picture image1 678 "trois personnes signent un document électronique" >}}
-</div>
-
-{{< richtext >}}
-{{% heading left %}}
+{{< intro top=24 bottom=12 width=wide img=image1 img-width=678 img-alt="trois personnes signent un document électronique" >}}
+{{% markdown %}}
 # Signature électronique légalement valide avec Skribble
 Traiter les processus de signature numériquement &ndash; juridiquement valides selon le droit suisse et européen.
-{{% /heading %}}
-
-<div class="hide-for-desktop">
-  {{< picture image1 678 "trois personnes signent un document électronique" >}}
-</div>
-
+{{% /markdown %}}
 {{< intro-partner
   "image/swisscom.png"
-  "Basé sur la signature électronique qualifiée SEQ de Swisscom"
+  "Basé sur les certificats de signature de Swisscom"
 >}}
-
-{{< /richtext >}}
 {{< /intro >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
 {{< side-by-side >}}
-{{% richtext %}}
+{{% markdown %}}
 ## La signature électronique qualifiée avec Skribble simple, intuitif et efficace
 - **Aucun matériel externe requis**
 Skribble peut être utilisé immédiatement
@@ -41,7 +29,7 @@ Skribble peut être utilisé immédiatement
 Signer plusieurs documents en un seul clic (signature groupées)
 - **Coordination rapide et efficace**
 Invitations à signer par courriel et rappels
-{{% /richtext %}}
+{{% /markdown %}}
 
 {{< picture image4 391 "Trois personnes signent légalement ensemble un document en ligne" >}}
 {{< /side-by-side >}}
@@ -51,7 +39,7 @@ Invitations à signer par courriel et rappels
 {{< side-by-side >}}
 {{< picture image5 430 "Une personne tient un document juridique entre ses mains. Le logo de swisscom se trouve à l'arrière-plan" >}}
 
-{{% richtext %}}
+{{% markdown %}}
 ## Skribble répond aux normes juridiques et technologiques les plus élevées.
 - **SCSE & eIDAS**
 Certificats SEQ de Swisscom
@@ -59,23 +47,22 @@ Certificats SEQ de Swisscom
 Chiffrement AES-256
 - **Hébergement en Suisse**
 Conforme FINMA, certifié ISO 27001
-{{% /richtext %}}
+{{% /markdown %}}
 {{< /side-by-side >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< content top=12 >}}
-{{% heading %}}
+{{< content text=center top=12 bottom=18 width=narrow >}}
+{{% markdown %}}
 # Les membres de la SAV-FSA utilisent Skribble à un prix préférentiel
-{{% /heading %}}
+{{% /markdown %}}
 
 {{< picture sav-special 200 "Cercle bleu avec le chiffre 12" >}}
 
-{{% richtext center %}}
+{{% markdown center %}}
 ## par mois / utilisateur au lieu de CHF 25.-
 Les signatures peuvent également être obtenues selon un modèle prépayé.
-{{% /richtext %}}
-
+{{% /markdown %}}
 {{< /content >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
@@ -83,7 +70,7 @@ Les signatures peuvent également être obtenues selon un modèle prépayé.
 {{< side-by-side >}}
 {{< picture identification 482 "L'identité d'une femme debout dans un téléphone portable est vérifiée par deux personnes" >}}
 
-{{% richtext %}}
+{{% markdown %}}
 # Prêt à signer en 5 minutes
 
 Tout ce dont tu as besoin c'est d'un téléphone portable et un document d'identification officiel. (passeport ou carte d'identité)
@@ -99,7 +86,7 @@ Un cabinet d'avocats peut également être qualifié pour le faire, pour identif
   "Partenaire officiel d'identification de Swisscom"
 >}}
 
-{{% /richtext %}}
+{{% /markdown %}}
 {{< /side-by-side >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
