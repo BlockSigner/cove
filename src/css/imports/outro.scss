@@ -24,7 +24,7 @@
     }
   }
 
-  .richtext {
+  .content {
     max-width: 606px;
     text-align: center;
     @include min-width {
@@ -41,8 +41,15 @@
     }
   }
 
-  .mobile-link {
+  &__link {
     margin: 20px 0;
+    // TODO: not happy with that. links should be standardized. We should
+    // revisit all links and provide a single global class.
+    color: $c-text-alt;
+    text-decoration: none;
+    &:hover {
+      color: $c-primary;
+    }
   }
 }
 

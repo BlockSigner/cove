@@ -205,18 +205,18 @@ Skribble Service provides the following accounts:
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
 {{< outro >}}
-{{< picture image8 414 "Ein mann steht mit einem riesen füller neben einem elektronischen dokument" >}}
+{{< picture image8 414 "A man stands next to an electronic document with a giant fountain pen" >}}
 
-{{< markdown >}}
-{{% heading %}}
-# Jetzt rechtsgültig elektronisch signieren!
-Keine Kreditkarte, Eintrittsgebühr oder <br class="hide-for-mobile">Verpflichtung erforderlich.
-{{% /heading %}}
+{{< content text=center >}}
+{{% markdown %}}
+# Sign now, legally valid electronically!
+No credit card, entrance fee or commitment required.
+{{% /markdown %}}
 
 {{< button
-  "Jetzt ausprobieren"
-  "https://my.skribble.com/signup?lang=de"
+  "Try it now"
+  "https://my.skribble.com/signup?lang=en"
   "_blank"
 >}}
-{{< /markdown >}}
+{{< /content>}}
 {{< /outro >}}
