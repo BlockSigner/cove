@@ -116,10 +116,10 @@ In deinem Skribble Business Konto kannst du einen Demo-Schlüssel erstellen.
 
 {{< picture "api-dok" 140 "Userinterface Fenster mit Zahnrad" >}}
 
-{{% richtext %}}
+{{% markdown %}}
 **API-Dokumentation**<br>
 Schau dir unsere API-Dokumentation an.<br class="hide-for-mobile">(auf Englisch)
-{{% /richtext %}}
+{{% /markdown %}}
 {{< /cta >}}
 {{< /cta-group >}}
 

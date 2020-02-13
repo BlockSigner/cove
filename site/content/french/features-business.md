@@ -92,7 +92,7 @@ ou à la norme de signature souhaitée.
 {{< side-by-side >}}
 {{< picture onboarding-seq-fr 380 "A large contract (QES) with a court" >}}
 
-{{< richtext >}}
+{{< markdown >}}
 {{% heading left %}}
 ## Intégration pour la signature électronique qualifiée (SEQ)
 Services d'identification pour les plus hautes exigences en matière de force probante de la signature. Convient aux contrats avec des exigences formelles.
@@ -104,7 +104,7 @@ Services d'identification pour les plus hautes exigences en matière de force pr
   "_blank"
   "outline"
 >}}
-{{< /richtext >}}
+{{< /markdown >}}
 {{< /side-by-side >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)

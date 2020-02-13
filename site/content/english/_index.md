@@ -149,9 +149,9 @@ of area of application and legal weight.
   outlined="true"
 >}}
 
-{{% richtext %}}
+{{% markdown %}}
 **At Skribble you have the choice between the signature standards AES and QES.**
-{{% /richtext %}}
+{{% /markdown %}}
 {{< /cta >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)

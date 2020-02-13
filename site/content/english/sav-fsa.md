@@ -57,9 +57,9 @@ FINMA-compliant, ISO 27001 certified
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
 {{< content text=center top=12 bottom=18 width=narrow >}}
-{{% richtext %}}
+{{% markdown %}}
 # SAV-FSA members use Skribble at a preferential price
-{{% /richtext %}}
+{{% /markdown %}}
 
 {{< picture sav-special 200 "Blue circle with the number 12" >}}
 

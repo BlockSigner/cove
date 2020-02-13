@@ -46,10 +46,10 @@ de façon digitale, conformément à la loi suisse et européenne.
 {{< /content >}}
 
 {{< side-by-side >}}
-{{% richtext %}}
+{{% markdown %}}
 ## Charger un document PDF
 Chargez le document PDF à signer directement via votre navigateur ou utilisez Skribble via API depuis votre logiciel de gestion.
-{{% /richtext %}}
+{{% /markdown %}}
 
 {{< picture image2 416 "Une femme tenant un document PDF dans ses mains et le téléchargeant" >}}
 {{< /side-by-side >}}
@@ -59,19 +59,19 @@ Chargez le document PDF à signer directement via votre navigateur ou utilisez S
 {{< side-by-side >}}
 {{< picture image3 400 "Un homme invite deux personnes à signer le document" >}}
 
-{{% richtext %}}
+{{% markdown %}}
 ## Inviter à signer
 Invitez les signataires par e-mail et définissez l'ordre de signature.
-{{% /richtext %}}
+{{% /markdown %}}
 {{< /side-by-side >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
 {{< side-by-side >}}
-{{% richtext %}}
+{{% markdown %}}
 ## Signer légalement
 Signez par simple pression d'un bouton, indépendamment de l'heure et du lieu, de manière juridiquement valable selon le droit suisse et le droit de l'UE.
-{{% /richtext %}}
+{{% /markdown %}}
 
 {{< picture image4 391 "Trois personnes signent légalement ensemble un document en ligne" >}}
 {{< /side-by-side >}}
@@ -143,9 +143,9 @@ en termes de domaine d'application et de force probante. Sur Skribble, vous pouv
   outlined="true"
 >}}
 
-{{% richtext %}}
+{{% markdown %}}
 **Chez Skribble vous avez le choix entre les normes de signature SEA et SEQ.**
-{{% /richtext %}}
+{{% /markdown %}}
 {{< /cta >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)

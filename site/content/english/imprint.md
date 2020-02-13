@@ -5,8 +5,8 @@ draft: false
 slug: imprint
 ---
 
-{{< content top=12 >}}
-{{% richtext %}}
+{{< content top=12 width=narrow >}}
+{{% markdown %}}
 # Imprint
 
 ## Skribble (Switzerland)
@@ -73,7 +73,7 @@ Skribble AG is responsible for this website and its content within the meaning o
 
 ## Copyright
 The copyright and all other rights to content, images, photos or other files on the website belong exclusively to Skribble AG. The written consent of the copyright holder must be obtained in advance for the reproduction of any elements.
-{{% /richtext %}}
+{{% /markdown %}}
 {{< /content >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)

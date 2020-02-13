@@ -5,8 +5,8 @@ draft: false
 slug: impressum
 ---
 
-{{< content top=12 >}}
-{{% richtext %}}
+{{< content top=12 width=narrow >}}
+{{% markdown %}}
 # Impressum
 
 ## Skribble (Schweiz)
@@ -73,7 +73,7 @@ Verantwortlich für diese Website und deren Inhalt im Sinne von § 3 Abs. 1 UWG 
 
 ## Copyright
 Die Urheber- und alle anderen Rechte an Inhalten, Bildern, Fotos oder anderen Dateien auf der Website gehören ausschliesslich der Firma Skribble AG. Für die Reproduktion jeglicher Elemente ist die schriftliche Zustimmung der Urheberrechtsträger im Voraus einzuholen.
-{{% /richtext %}}
+{{% /markdown %}}
 {{< /content >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
