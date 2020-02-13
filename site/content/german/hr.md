@@ -52,7 +52,7 @@ Effizientes Onboarding: Du hast bessere Chancen, als Arbeitgeber gewählt zu wer
 {{< picture more-efficiency 430 "Mann unterzeichnet mit einem Füllfederhalter drei Verträge" >}}
 {{% richtext %}}
 ## Befähige Mitarbeitende <br class="hide-for-mobile">zu mehr Effizienz
-Digitalisierungs-Enabler: Die Belegschaft wird durch das HR zum elektronsichen Signieren befähigt und kann den Arbeitsalltag mit weniger Bürokratie bestreiten.
+Digitalisierungs-Enabler: Die Belegschaft wird durch das HR zum elektronischen Signieren befähigt und kann den Arbeitsalltag mit weniger Bürokratie bestreiten.
 
 - **<small>Arbeitsrapports, Kündigungen, Anträge <br class="hide-for-mobile">u. Ä. digital abwickeln</small>**
 - **<small>Signaturen von Zeichnungsberechtigten <br class="hide-for-mobile">via E-Mail abholen</small>**
@@ -68,7 +68,7 @@ Digitalisierungs-Enabler: Die Belegschaft wird durch das HR zum elektronsichen S
 Bei gewohnten Tools bleiben: Signiere direkt über den Browser oder aus deiner bestehenden Software heraus. (Kommt Ende 2019)
 
 - **<small>Direkt über den Browser signieren</small>**
-- **<small>Skribble als Plug-in in SAP und ander Branchenlösungen einbinden</small>**
+- **<small>Skribble als Plug-in in SAP und anderen Branchenlösungen einbinden</small>**
 - **<small>Nahtlose Integration via moderne APIs</small>**
 
 {{% /richtext %}}
@@ -88,7 +88,7 @@ Skribble arbeitet ausschliesslich mit gesetzlich definierten E-Signatur-Standard
 {{% /collapsible %}}
 
 {{% collapsible 2 "Schriftlichkeitserfordernis gemäss OR/BGB" "check" %}}
-Die auf Skribble verfügbare qualifizierte elektronische Signatur (QES) ist der handschriftlichen Signatur gleichgestelt gemäss nationalen Gesetzgebungen in der Schweizer und der EU (z.B. OR in der Schweiz oder BGB in Deutschland).
+Die auf Skribble verfügbare qualifizierte elektronische Signatur (QES) ist der handschriftlichen Signatur gleichgestellt gemäss nationalen Gesetzgebungen in der Schweizer und der EU (z.B. OR in der Schweiz oder BGB in Deutschland).
 {{% /collapsible %}}
 
 {{% collapsible 3 "Datenschutz gemäss DSG/DSGVO" "check" %}}

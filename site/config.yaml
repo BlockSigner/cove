@@ -156,7 +156,7 @@ languages:
     footer:
       leftSlot:
         title: Beweiskraft maximieren?
-        text: Lass dich identifzieren und schalte den höchsten E-Signatur-Standard frei.
+        text: Lass dich identifizieren und schalte den höchsten E-Signatur-Standard frei.
         button:
           label: Identifizieren lassen
           href: /de/qes-freischalten/

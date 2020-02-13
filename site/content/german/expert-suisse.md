@@ -87,7 +87,7 @@ Du benötigst nur ein Mobiltelefon und einen gültigen Ausweis (Pass oder Identi
 
 {{% fancy-list %}}
 - **Skribble kommt bei dir vorbei**
-- **Wir identifzieren dich**
+- **Wir identifizieren dich**
 - **Du bist sofort signierbereit**
 {{% /fancy-list %}}
 

@@ -30,7 +30,7 @@ Mit Skribble signierst du nicht nur rechtsgültig, sondern auch einfach.
 
   {{< features-item src="features/confirm_mobile.svg"
     headline="Mit Handy bestätigen"
-    description="Bestätige das Signieren via Mobile ID oder One-Time-Passowrd (OTP) – keine zusätzliche Hardware notwendig.">}}
+    description="Bestätige das Signieren via Mobile ID oder One-Time-Passwort (OTP) – keine zusätzliche Hardware notwendig.">}}
 
   {{< features-item src="features/batch-process.svg"
     headline="Stapelsignatur anbringen"

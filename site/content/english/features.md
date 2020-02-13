@@ -31,7 +31,7 @@ With Skribble you not only sign legally, but also with ease.
 
   {{< features-item src="features/confirm_mobile.svg"
     headline="Confirm with mobile phone"
-    description="Confirm the signature via Mobile ID or one-time passowrd (OTP) – no additional hardware required.">}}
+    description="Confirm the signature via Mobile ID or one-time password (OTP) – no additional hardware required.">}}
 
   {{< features-item src="features/batch-process.svg"
     headline="Batch signature"

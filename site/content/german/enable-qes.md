@@ -94,7 +94,7 @@ Die persönliche Identifikation wird nur für das Signieren mit dem höchsten E-
 {{< content >}}
 {{% heading %}}
 # Standorte für die Identitätsprüfung
-Komm vorbei und lass dich kostenlos identifzieren.
+Komm vorbei und lass dich kostenlos identifizieren.
 Bringe deinen gültigen Pass oder Identitätskarte mit sowie dein Mobiltelefon.
 {{% /heading %}}
 {{< /content >}}

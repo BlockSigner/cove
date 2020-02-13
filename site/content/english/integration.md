@@ -12,7 +12,7 @@ og_image: og/og-skribble-identification.jpg
 {{< content class="no-bottom-padding" >}}
 {{% heading %}}
 # Skribble Integration
-With Skribble, you choose a cloud platform that combines
+With Skribble, you choose a platform that combines
 technological security with simplicity.
 {{% /heading %}}
 {{< /content >}}
@@ -123,7 +123,7 @@ You can create a demo key in your Skribble Business account.
 
 {{% richtext %}}
 **API documentation**
-Check out our API documenation.
+Check out our API documentation.
 {{% /richtext %}}
 {{< /cta >}}
 {{< /cta-group >}}
