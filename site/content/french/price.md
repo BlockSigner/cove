@@ -8,7 +8,7 @@ og_image: og/og-skribble-service.jpg
 
 ---
 
-{{< content text=center top=12 width="narrow" >}}
+{{< content text=center top=12 width=narrow >}}
 {{% markdown %}}
 # Signez plus facilement <br class="hide-for-mobile">avec le bon modèle tarifaire
 Skribble convient tant aux signatures occasionnelles <br class="hide-for-mobile">qu'aux signatures fréquentes
@@ -28,7 +28,7 @@ Skribble convient tant aux signatures occasionnelles <br class="hide-for-mobile"
     {{< picture free-visual 232 "" >}}
 {{< /action-card >}}
 
-{{< content text=center top=12 width="narrow" >}}
+{{< content text=center top=12 width=narrow >}}
 {{% markdown %}}
 ## Vous signez plus souvent?
 Après l'enregistrement, vous pouvez à tout moment passer <br class="hide-for-mobile">à l'un des modèles tarifaires suivants:
@@ -50,7 +50,7 @@ Après l'enregistrement, vous pouvez à tout moment passer <br class="hide-for-m
     {{< picture fair-flat-visual 290 "" >}}
 {{< /action-card >}}
 
-{{< content text=center top=6 width="narrow" >}}
+{{< content text=center top=6 width=narrow >}}
 {{% markdown %}}
 ## Ou
 {{% /markdown %}}

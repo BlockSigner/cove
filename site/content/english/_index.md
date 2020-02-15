@@ -108,7 +108,7 @@ us and our customers." {{< /testimonial >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< content top=12 width="narrow" >}}
+{{< content top=12 width=narrow >}}
 {{% markdown %}}
 # Skribble complies with legal requirements
 With Skribble you sign legally
@@ -132,7 +132,7 @@ Skribble and its signing partner Swisscom commit to manage data in accordance wi
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< content top=12 width="narrow" >}}
+{{< content top=12 width=narrow >}}
 {{% markdown %}}
 # Use Skribble to maximise the legal weight of your signature
 The law distinguishes between qualified e-signatures (QES)

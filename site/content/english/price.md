@@ -7,7 +7,7 @@ slug: pricing
 og_image: og/og-skribble-mission.jpg
 ---
 
-{{< content text=center top=12 width="narrow" >}}
+{{< content text=center top=12 width=narrow >}}
 {{% markdown %}}
 # Sign economically with the right plan
 Skribble is suitable for both occasional and frequent signing.
@@ -27,7 +27,7 @@ Skribble is suitable for both occasional and frequent signing.
    {{< picture free-visual 232 "" >}}
 {{< /action-card >}}
 
-{{< content text=center top=12 width="narrow" >}}
+{{< content text=center top=12 width=narrow >}}
 {{% markdown %}}
 ## Do you sign more frequently?
 After registering, you can switch to one of the following plans at any time:
@@ -49,7 +49,7 @@ After registering, you can switch to one of the following plans at any time:
   {{< picture fair-flat-visual 290 "" >}}
 {{< /action-card >}}
 
-{{< content text=center top=6 width="narrow" >}}
+{{< content text=center top=6 width=narrow >}}
 {{% markdown %}}
 ## Or
 {{% /markdown %}}

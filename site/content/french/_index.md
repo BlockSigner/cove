@@ -39,7 +39,7 @@ de façon digitale, conformément à la loi suisse et européenne.
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< content top=12 width="narrow" >}}
+{{< content top=12 width=narrow >}}
 {{% markdown %}}
 # Signer légalement en trois étapes
 {{% /markdown %}}
@@ -78,7 +78,7 @@ Signez par simple pression d'un bouton, indépendamment de l'heure et du lieu, d
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< content top=12 width="narrow" >}}
+{{< content top=12 width=narrow >}}
 {{% markdown %}}
 # En signant avec Skribble, <br class="hide-for-mobile">vous gagnez du temps au travail
 {{% /markdown %}}
@@ -102,7 +102,7 @@ Signez par simple pression d'un bouton, indépendamment de l'heure et du lieu, d
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< content top=12 width="narrow" >}}
+{{< content top=12 width=narrow >}}
 {{% markdown %}}
 # Avec Skribble, vous remplissez <br class="hide-for-mobile">les exigences légales
 Avec Skribble, vous signez légalement et en toute sécurité
@@ -110,7 +110,7 @@ en remplissant les conditions suivantes:
 {{% /markdown %}}
 {{< /content >}}
 
-{{< content top=6 width="narrow" >}}
+{{< content top=6 width=narrow >}}
 {{% collapsible 1 "Normes de signature électronique SEQ und SEA selon SCSE/eIDAS" "check" %}}
 Skribble travaille exclusivement avec des standards de signature électronique légalement définis: la signature électronique qualifiée (SEQ) et la signature électronique avancée (SEA).
 {{% /collapsible %}}
@@ -126,7 +126,7 @@ Skribble et ses partenaires gèrent leurs données conformément à la loi féd�
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< content top=12 width="narrow" >}}
+{{< content top=12 width=narrow >}}
 {{% markdown %}}
 # Utilisez Skribble pour maximiser la force probante de votre signature
 La loi établit une distinction entre les signatures électroniques qualifiées (SEQ)

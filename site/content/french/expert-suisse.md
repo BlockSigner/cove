@@ -96,7 +96,7 @@ Un entreprise peut également être qualifié pour le faire, pour identifier les
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< content text=center top=12 width="narrow" >}}
+{{< content text=center top=12 width=narrow >}}
 {{% markdown %}}
 # Est-ce que ça va?
 {{% /markdown %}}

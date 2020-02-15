@@ -9,7 +9,7 @@ og_image: og/og-skribble-identification.jpg
 
 ---
 
-{{< content text=center top=12 width="narrow" >}}
+{{< content text=center top=12 width=narrow >}}
 {{% markdown %}}
 # Maximiere die Beweiskraft <br class="hide-for-mobile">deiner E-Signatur
 Schalte den höchsten verfügbaren E-Signatur-Standard (QES) frei,
@@ -56,13 +56,13 @@ Die Beweiskraft deiner Signatur wird auf 100% angehoben (QES-Level)
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< content text=center top=12 width="narrow" >}}
+{{< content text=center top=12 width=narrow >}}
 {{% markdown %}}
 # Alles klar?
 {{% /markdown %}}
 {{% /content %}}
 
-{{< content top=6 width="narrow" >}}
+{{< content top=6 width=narrow >}}
 {{% collapsible 1 "Was bringt mir die Identifikation?" %}}
 Auf Skribble hast du die Möglichkeit, mit dem [höchsten verfügbaren E-Signatur-Standard](/de/signaturstandards) zu signieren: Die qualifizierten elektronischen Signatur (QES). Diese hat eine Beweiskraft von 100% und kann für Verträge eingesetzt werden, die die Schriftlichkeit verlangen. Für die QES verlangt das Gesetz eine Identitätsprüfung.
 {{% /collapsible %}}

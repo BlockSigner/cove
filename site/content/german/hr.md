@@ -9,7 +9,7 @@ og_image: og/og-skribble-identification.jpg
 
 ---
 
-{{< content text=center top=12 width="narrow" >}}
+{{< content text=center top=12 width=narrow >}}
 {{% markdown %}}
 # Elektronisch signieren im HR
 Mit Skribble signierst du rechtssicher und einfach auf digitalem Weg – <br class="hide-for-mobile">von Arbeitsverträgen über Zeugnisse bis hin zu Lohnausweisen.
@@ -78,14 +78,14 @@ Bei gewohnten Tools bleiben: Signiere direkt über den Browser oder aus deiner b
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< content text=center top=12 width="narrow" >}}
+{{< content text=center top=12 width=narrow >}}
 {{% markdown %}}
 # Mit Skribble erfüllst du <br class="hide-for-mobile">die rechtlichen Anforderungen <br class="hide-for-mobile">an HR-Prozesse
 Du signierst rechtsgültig und sicher gemäss folgenden Erfordernissen:
 {{% /markdown %}}
 {{< /content >}}
 
-{{< content top=6 width="narrow" >}}
+{{< content top=6 width=narrow >}}
 {{% collapsible 1 "E-Signatur-Standards QES und FES gemäss ZertES/eIDAS" "check" %}}
 Skribble arbeitet ausschliesslich mit gesetzlich definierten E-Signatur-Standards: Die qualifizierte elektronische Signatur (QES) und die fortgeschrittene elektronische Signatur (FES).
 {{% /collapsible %}}
@@ -101,7 +101,7 @@ Skribble sowie Partner verwalten ihre Daten gemäss dem Bundesgesetz über den D
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< content text=center top=12 width="narrow" >}}
+{{< content text=center top=12 width=narrow >}}
 {{% markdown %}}
 # Unser Kunden haben gut lachen
 Wie wir den Alltag unserer Kunden erleichtern.
@@ -126,7 +126,7 @@ Wie wir den Alltag unserer Kunden erleichtern.
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< content text=center top=12 width="narrow" >}}
+{{< content text=center top=12 width=narrow >}}
 {{% markdown %}}
 # Mit Skribble maximierst du <br class="hide-for-mobile">die Beweiskraft deiner Signatur
 Das Gesetz unterscheidet zwischen der qualifizierten E-Signatur (QES)
@@ -150,7 +150,7 @@ variieren punkto Einsatzgebiet und Beweiskraft.
 {{% /markdown %}}
 {{< /cta >}}
 
-{{< content text=center top=12 width="narrow" >}}
+{{< content text=center top=12 width=narrow >}}
 {{% markdown %}}
 # Lass dich identifizieren
 Damit schaltest du den höchsten verfügbaren E-Signatur-Standard QES frei.
@@ -178,13 +178,13 @@ Du benötigst nur ein gültiges Reisedokument (ID oder Pass).
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< content text=center top=12 width="narrow" >}}
+{{< content text=center top=12 width=narrow >}}
 {{% markdown %}}
 # Alles klar?
 {{% /markdown %}}
 {{% /content %}}
 
-{{< content top=6 width="narrow" >}}
+{{< content top=6 width=narrow >}}
 {{% collapsible 10 "Wo sind Dokumente, die mit Skribble signiert wurden, gespeichert?" %}}
 Das Datenzentrum von Skribble ist in der Schweiz und nach ISO 270001 zertifiziert (Hosting nach Bankenstandard).
 {{% /collapsible %}}

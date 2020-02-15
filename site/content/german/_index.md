@@ -39,7 +39,7 @@ rechtsgültig nach dem Schweizer & EU Gesetz.
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< content top=12 width="narrow" >}}
+{{< content top=12 width=narrow >}}
 {{% markdown %}}
 # In 3 Schritten rechtsgültig signieren
 {{% /markdown %}}
@@ -79,7 +79,7 @@ und EU-Recht.
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< content top=12 width="narrow" >}}
+{{< content top=12 width=narrow >}}
 {{% markdown %}}
 # Signierst du mit Skribble, <br class="hide-for-mobile">sparst du Zeit im Arbeitsalltag
 {{% /markdown %}}
@@ -102,14 +102,14 @@ und EU-Recht.
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< content top=12 width="narrow" >}}
+{{< content top=12 width=narrow >}}
 {{% markdown %}}
 # Mit Skribble erfüllst du <br class="hide-for-mobile">die rechtlichen Anforderungen
 Signiere rechtsgültig und sicher gemäss folgenden Erfordernissen:
 {{% /markdown %}}
 {{< /content >}}
 
-{{< content top=6 width="narrow" >}}
+{{< content top=6 width=narrow >}}
 {{% collapsible 1 "E-Signatur-Standards QES und FES gemäss ZertES/eIDAS" "check" %}}
 Skribble arbeitet ausschliesslich mit gesetzlich definierten E-Signatur-Standards: Die qualifizierte elektronische Signatur (QES) und die fortgeschrittene elektronische Signatur (FES).
 {{% /collapsible %}}
@@ -125,7 +125,7 @@ Skribble sowie Partner verwalten ihre Daten gemäss dem Bundesgesetz über den D
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< content top=12 width="narrow" >}}
+{{< content top=12 width=narrow >}}
 {{% markdown %}}
 # Mit Skribble maximierst du die Beweiskraft deiner Signatur
 Das Gesetz unterscheidet zwischen der qualifizierten E-Signatur (QES)

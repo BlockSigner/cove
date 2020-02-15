@@ -94,7 +94,7 @@ A firm may also elect to identify persons itself.
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< content text=center top=12 width="narrow" >}}
+{{< content text=center top=12 width=narrow >}}
 {{% markdown %}}
 # All clear?
 {{% /markdown %}}

@@ -6,7 +6,7 @@ slug: validateur-seq
 
 ---
 
-{{< content text=center top=12 width="narrow" >}}
+{{< content text=center top=12 width=narrow >}}
 {{% markdown %}}
 # Vérifiez si un document <br class="hide-for-mobile">a été signé avec la SEQ
 Le validateur de l'administration fédérale suisse vous permet
@@ -17,7 +17,7 @@ une signature électronique qualifiée selon le droit suisse.*
 
 {{< picture "qes-pruefen" 474 "Un homme charge un document dans le validateur de l'administration fédérale suisse" >}}
 
-{{< content top=6 width="narrow" >}}
+{{< content top=6 width=narrow >}}
 {{% markdown %}}
 <small>* fonctionne pour la SEQ selon le droit suisse, mais pas selon le droit européen (eIDAS).</small>
 ### Procédez ainsi:

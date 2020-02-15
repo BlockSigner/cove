@@ -6,7 +6,7 @@ slug: qes-validator
 
 ---
 
-{{< content text=center top=12 width="narrow" >}}
+{{< content text=center top=12 width=narrow >}}
 {{% markdown %}}
 # Check whether a document <br class="hide-for-mobile">has been signed with QES
 The Validator service of the Swiss Federal Administration allows you
@@ -17,7 +17,7 @@ with a qualified electronic signature (QES) according to Swiss law. *
 
 {{< picture "qes-pruefen" 474 "A man loads a document into the validator of the Swiss federal administration" >}}
 
-{{< content top=6 width="narrow" >}}
+{{< content top=6 width=narrow >}}
 {{% markdown %}}
 <small>* works for QES according to Swiss law, but not according to EU law (eIDAS).</small>
 ### Here's how to do it:

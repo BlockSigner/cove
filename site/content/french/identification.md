@@ -8,7 +8,7 @@ og_image: og/og-skribble-identification.jpg
 
 ---
 
-{{< content text=center top=12 width="narrow" >}}
+{{< content text=center top=12 width=narrow >}}
 {{% markdown %}}
 # Contrôle d'identité pour la SEQ
 Pour la signature électronique qualifiée (SEQ), <br class="hide-for-mobile">le signataire doit prouver son identité. Skribble vous aidera.
@@ -30,7 +30,7 @@ Pour la signature électronique qualifiée (SEQ), <br class="hide-for-mobile">le
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< content text=center top=12 width="narrow" >}}
+{{< content text=center top=12 width=narrow >}}
 {{% markdown %}}
 # Utiliser une e-ID existante
 Les personnes qui ont une e-ID vérifiée peuvent signer avec SEQ <br class="hide-for-mobile">sur Skribble sans contrôle d'identité supplémentaire.
@@ -39,7 +39,7 @@ Les personnes qui ont une e-ID vérifiée peuvent signer avec SEQ <br class="hid
 
 {{< picture "identification-id" 412 "Une carte d'identité électronique juridiquement valable" >}}
 
-{{< content text=center top=12 bottom=6 width="narrow" >}}
+{{< content text=center top=12 bottom=6 width=narrow >}}
 {{% markdown %}}
 Un nombre croissant de personnes en Europe a une identité électronique vérifiée (e-ID). Skribble les relie. Des millions d'utilisateurs peuvent commencer à signer avec SEQ immédiatement.
 
@@ -49,7 +49,7 @@ Un nombre croissant de personnes en Europe a une identité électronique vérifi
 
 {{< picture e-id-map 826 "E-ID, où vous pourrez bientôt signer Skribble." >}}
 
-{{< content text=center top=12 bottom=6 width="narrow" >}}
+{{< content text=center top=12 bottom=6 width=narrow >}}
 {{% markdown %}}
 **Plus d'e-ID suivront cette année.**
 {{% /markdown %}}
@@ -76,7 +76,7 @@ Laissez-nous vous conseiller et trouvez <br class="hide-for-mobile">la solution 
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< content text=center top=12 width="narrow" >}}
+{{< content text=center top=12 width=narrow >}}
 {{% markdown %}}
 # Utiliser la service <br class="hide-for-mobile">d'identification de Skribble
 Si vous n'avez pas d'e-ID, l'identification peut se faire à l'aide de Skribble.

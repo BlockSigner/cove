@@ -8,7 +8,7 @@ og_image: og/og-skribble-mission.jpg
 
 ---
 
-{{< content text=center top=12 width="narrow" >}}
+{{< content text=center top=12 width=narrow >}}
 {{% markdown %}}
 # Skribble press room
 Here you will find everything you need to write about Skribble.
@@ -17,7 +17,7 @@ Here you will find everything you need to write about Skribble.
 
 {{< picture image12 688 "An astronaut flies with a giant fountain pen in front of a screen and signs electronically" >}}
 
-{{< content top=12 width="narrow" >}}
+{{< content top=12 width=narrow >}}
 {{% markdown %}}
 Skribble, founded in March 2018, is a Swiss provider of electronic signatures with offices in Zurich (CH) and Karlsruhe (DE). The TrustTech company enables electronic documents to be signed easily and with legal validity. Built on legally regulated standards, including the qualified electronic signature (QES) - the only form of electronic signature that is equivalent to a handwritten signature before the law, Skribble partners with Swisscom to supply the state-approved certification technology for QES. Existing customers include the Canton of Fribourg. Skribble has 15 employees.
 {{% /markdown %}}

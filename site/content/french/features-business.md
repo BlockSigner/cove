@@ -10,7 +10,7 @@ og_image: og/og-skribble-identification.jpg
 
 ---
 
-{{< content text=center top=12 width="narrow" >}}
+{{< content text=center top=12 width=narrow >}}
 {{% markdown %}}
 # Fonctionnalités Business
 Les clients Skribble Business signent comme un groupe - <br class="hide-for-mobile">avec une administration centrale des membres et une facturation commune.
@@ -46,7 +46,7 @@ Les clients Skribble Business signent comme un groupe - <br class="hide-for-mobi
     description="Visualisez les factures actuelles et toutes les factures passées à tout moment.">}}
 {{< /features-container >}}
 
-{{< content text=center top=12 width="narrow" >}}
+{{< content text=center top=12 width=narrow >}}
 {{% markdown %}}
 # Skribble Business s'intègre <br class="hide-for-mobile">dans votre infrastructure existante
 L'intégration des nouveaux signataires est intuitive et rapide.
@@ -76,7 +76,7 @@ L'intégration des nouveaux signataires est intuitive et rapide.
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< content text=center top=12 width="narrow" >}}
+{{< content text=center top=12 width=narrow >}}
 {{% markdown %}}
 # La mise en œuvre à l'échelle de l'organisation est simple et rapide
 Permettez aux nouveaux employés et aux employés actuels de signer électroniquement dans les plus brefs délais. Choisissez le processus d'intégration
@@ -109,7 +109,7 @@ Services d'identification pour les plus hautes exigences en matière de force pr
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< content text=center top=12 width="narrow" >}}
+{{< content text=center top=12 width=narrow >}}
 {{% markdown %}}
 # Rapport coût-bénéfice idéal
 Choisissez le bon modèle de prix pour votre organisation.

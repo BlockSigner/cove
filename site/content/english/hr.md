@@ -9,7 +9,7 @@ og_image: og/og-skribble-identification.jpg
 
 ---
 
-{{< content text=center top=12 width="narrow" >}}
+{{< content text=center top=12 width=narrow >}}
 {{% markdown %}}
 # Sign electronically in HR
 With Skribble you sign legally and easily in a digital way –
@@ -83,14 +83,14 @@ Stay with familiar tools: sign directly via your browser or from your existing s
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< content text=center top=12 width="narrow" >}}
+{{< content text=center top=12 width=narrow >}}
 {{% markdown %}}
 # Skribble complies with the legal requirements for HR processes
 You sign with legal effect and securely in accordance with the following requirements:
 {{% /markdown %}}
 {{< /content >}}
 
-{{< content top=6 width="narrow" >}}
+{{< content top=6 width=narrow >}}
 {{% collapsible 1 "E-signature standards QES and AES according to ZertES/eIDAS" "check" %}}
 Skribble works exclusively with legally defined e-signature standards: The qualified electronic signature (QES) and the advanced electronic signature (AES).
 {{% /collapsible %}}
@@ -106,7 +106,7 @@ Skribble and its signing partner Swisscom commit to manage data in accordance wi
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< content text=center top=12 width="narrow" >}}
+{{< content text=center top=12 width=narrow >}}
 {{% markdown %}}
 # Our customers have a good time
 How we at Skribble make everyday life easier for our customers.
@@ -132,7 +132,7 @@ How we at Skribble make everyday life easier for our customers.
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
 
-{{< content text=center top=12 width="narrow" >}}
+{{< content text=center top=12 width=narrow >}}
 {{% markdown %}}
 # Use Skribble to maximise the legal weight of your signature
 The law distinguishes between qualified e-signatures (QES)
@@ -157,7 +157,7 @@ between the signature standards AES and QES.**
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< content text=center top=12 width="narrow" >}}
+{{< content text=center top=12 width=narrow >}}
 {{% markdown %}}
 # Get identified
 This will unlock the highest e-signature standard available – QES.
@@ -185,13 +185,13 @@ and get identified**
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< content text=center top=12 width="narrow" >}}
+{{< content text=center top=12 width=narrow >}}
 {{% markdown %}}
 # All clear?
 {{% /markdown %}}
 {{< /content >}}
 
-{{< content top=6 width="narrow" >}}
+{{< content top=6 width=narrow >}}
 {{% collapsible 10 "Where are the documents signed with Skribble stored?" %}}
 Skribble' s data centre is located in Switzerland and is ISO 270001 certified (according to banking standards).
 {{% /collapsible %}}

@@ -9,7 +9,7 @@ og_image: og/og-skribble-identification.jpg
 
 ---
 
-{{< content text=center top=12 width="narrow" >}}
+{{< content text=center top=12 width=narrow >}}
 {{% markdown %}}
 # Skribble Integration
 With Skribble, you choose a cloud platform that combines
@@ -19,7 +19,7 @@ technological security with simplicity.
 
 {{< picture integration-main 580 "An engineer stands in front of an API window with API documentation." >}}
 
-{{< content text=center top=12 width="narrow" >}}
+{{< content text=center top=12 width=narrow >}}
 {{% markdown %}}
 ### Use Skribble via your browser or integrate the platform into your existing software environment via API
 {{% /markdown %}}
@@ -53,7 +53,7 @@ technological security with simplicity.
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< content text=center top=12 width="narrow" >}}
+{{< content text=center top=12 width=narrow >}}
 {{% markdown %}}
 # With Skribble you benefit from the highest standards of technology and security
 {{% /markdown %}}
@@ -97,7 +97,7 @@ for quality, reliability and precision in software development.
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< content text=center top=12 width="narrow" >}}
+{{< content text=center top=12 width=narrow >}}
 {{% markdown %}}
 # Try out the API
 You can create a demo key in your Skribble Business account.

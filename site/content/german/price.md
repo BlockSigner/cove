@@ -6,7 +6,7 @@ slug: preise
 
 ---
 
-{{< content text=center top=12 width="narrow" >}}
+{{< content text=center top=12 width=narrow >}}
 {{% markdown %}}
 # Signiere einfacher </br> mit dem passenden Preismodell
 Skribble eignet sich sowohl für gelegentliches
@@ -27,7 +27,7 @@ wie auch für häufiges Signieren.
   {{< picture free-visual 232 "" >}}
 {{< /action-card >}}
 
-{{< content text=center top=12 width="narrow" >}}
+{{< content text=center top=12 width=narrow >}}
 {{% markdown %}}
 ## Signierst du häufiger?
 Nach dem Registrieren kannst du jederzeit auf
@@ -51,7 +51,7 @@ eines der folgenden Modelle umstellen:
 {{< /action-card >}}
 
 
-{{< content text=center top=6 width="narrow" >}}
+{{< content text=center top=6 width=narrow >}}
 {{% markdown %}}
 ## Oder
 {{% /markdown %}}

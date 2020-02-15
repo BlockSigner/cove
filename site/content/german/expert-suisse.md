@@ -92,7 +92,7 @@ Deine Firma kann auch dazu befähigt werden, selbst Personen zu identifizieren.
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< content text=center top=12 width="narrow" >}}
+{{< content text=center top=12 width=narrow >}}
 {{% markdown %}}
 # Alles klar?
 {{% /markdown %}}

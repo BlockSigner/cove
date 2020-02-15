@@ -8,7 +8,7 @@ og_image: og/og-skribble-mission.jpg
 
 ---
 
-{{< content text=center top=12 width="narrow" >}}
+{{< content text=center top=12 width=narrow >}}
 {{% markdown %}}
 # Pay per signature or as a flatrate <br class="hide-for-mobile">and save if you sign more
 Skribble's pricing structure adapts to your needs
@@ -26,7 +26,7 @@ Suitable for regular signing
 {{% /plan %}}
 {{< /row >}}
 
-{{< content text=center top=12 bottom=12 width="narrow" >}}
+{{< content text=center top=12 bottom=12 width=narrow >}}
 {{% markdown %}}
 Can be flexibly combined
 : The two service models can be combined: For example, if Mr. Sample daily signs contracts with various external parties, we recommend the flat rate plan for Mr. Sample and the prepaid plan for the external parties.
@@ -46,7 +46,7 @@ More signatures, better value
 {{% /markdown %}}
 {{< /cta >}}
 
-{{< content text=center top=12 width="narrow" >}}
+{{< content text=center top=12 width=narrow >}}
 {{% markdown %}}
 # Identification
 No E-ID at hand? Let us verify your identity

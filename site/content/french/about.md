@@ -8,7 +8,7 @@ og_image: og/og-skribble-mission.jpg
 
 ---
 
-{{< content text=center top=12 width="narrow" >}}
+{{< content text=center top=12 width=narrow >}}
 {{% markdown %}}
 # Skribble crée la confiance <br class="hide-for-mobile">dans le monde digital
 Il était une fois la signature – aujourd'hui, nous signons avec Skribble.
@@ -17,7 +17,7 @@ Il était une fois la signature – aujourd'hui, nous signons avec Skribble.
 
 {{< picture image9 680 "Un homme signe avec un énorme stylo plume sur le sol, à côté, un homme s'assoit sur une chaise et signe en ligne" >}}
 
-{{< content top=6 width="narrow" >}}
+{{< content top=6 width=narrow >}}
 {{% markdown %}}
 ## La machine à écrire est devenue Microsoft Word, le CD Spotify et le DVD Netflix.
 {{% /markdown %}}
@@ -25,7 +25,7 @@ Il était une fois la signature – aujourd'hui, nous signons avec Skribble.
 
 {{< picture image10 453 "Une machine à écrire poussiéreuse, sur laquelle se trouvent les logos de netflix, spotify et word" >}}
 
-{{< content top=6 bottom=6 width="narrow" >}}
+{{< content top=6 bottom=6 width=narrow >}}
 {{% markdown %}}
 La numérisation rend beaucoup de choses plus rapides, moins chères et plus simples. Cela s'applique également aux affaires quotidiennes, dans au moins 90 pour cent des processus.
 
@@ -37,7 +37,7 @@ Les dix pour cent restants sont des étapes qui exigent un degré élevé de con
 
 {{< picture image11 512 "Une femme vole le bras tendu à travers un nuage de papier" >}}
 
-{{< content top=6 width="narrow" >}}
+{{< content top=6 width=narrow >}}
 {{% markdown %}}
 Les contrats ne devraient plus avoir à passer par des imprimantes et du papier pour être signés en toute légalité.
 

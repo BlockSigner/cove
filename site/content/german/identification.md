@@ -8,7 +8,7 @@ og_image: og/og-skribble-identification.jpg
 
 ---
 
-{{< content text=center top=12 width="narrow" >}}
+{{< content text=center top=12 width=narrow >}}
 {{% markdown %}}
 # Identitätsprüfung für die QES
 Für das Signieren mit höchstem E-Signatur-Standard (QES) müssen <br class="hide-for-mobile">die Unterzeichnenden ihre Identität prüfen lassen. <br class="hide-for-mobile">Das ist via E-ID oder mit unserem Identifikationsservice möglich.
@@ -32,7 +32,7 @@ Für das Signieren mit höchstem E-Signatur-Standard (QES) müssen <br class="hi
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< content text=center top=12 width="narrow" >}}
+{{< content text=center top=12 width=narrow >}}
 {{% markdown %}}
 # Bestehende E-ID nutzen
 Personen, die über eine geprüfte E-ID verfügen, können auf Skribble <br class="hide-for-mobile">ohne zusätzliche Identitätsprüfung rechtsgültig signieren.
@@ -41,7 +41,7 @@ Personen, die über eine geprüfte E-ID verfügen, können auf Skribble <br clas
 
 {{< picture "identification-id" 412 "Eine elektronische rechtsgültige identitätskarte" >}}
 
-{{< content text=center top=12 bottom=6 width="narrow" >}}
+{{< content text=center top=12 bottom=6 width=narrow >}}
 {{% markdown %}}
 Eine wachsende Anzahl Menschen in Europa verfügt über eine geprüfte elektronische Identität (E-ID). Skribble bindet diese an. So können Millionen von Nutzern sofort mit dem Signieren mit QES loslegen.
 
@@ -51,7 +51,7 @@ Eine wachsende Anzahl Menschen in Europa verfügt über eine geprüfte elektroni
 
 {{< picture e-id-map 826 "E-ID, wo du in kürze bei Skribble signieren kannst." >}}
 
-{{< content text=center top=12 bottom=6 width="narrow" >}}
+{{< content text=center top=12 bottom=6 width=narrow >}}
 {{% markdown %}}
 **Weitere E-IDs folgen in diesem Jahr.**
 {{% /markdown %}}
@@ -78,7 +78,7 @@ Lass dich beraten und finde die passende Identifikations-Lösung für deine Firm
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< content text=center top=12 width="narrow" >}}
+{{< content text=center top=12 width=narrow >}}
 {{% markdown %}}
 # Skribbles Identifikations-Service nutzen
 Wer über keine E-ID verfügt, kann die Identifikation mit Hilfe von Skribble durchführen.

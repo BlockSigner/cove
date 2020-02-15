@@ -10,7 +10,7 @@ type: features
 
 ---
 
-{{< content text=center top=12 width="narrow" >}}
+{{< content text=center top=12 width=narrow >}}
 {{% markdown %}}
 # Skribble Features
 With Skribble you not only sign legally, but also with ease.
@@ -56,7 +56,7 @@ us and our customers." {{< /testimonial >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< content text=center top=12 width="narrow" >}}
+{{< content text=center top=12 width=narrow >}}
 {{% markdown %}}
 # Coming soon
 Our vision is great. We develop Skribble day by day.

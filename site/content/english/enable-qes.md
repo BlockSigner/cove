@@ -9,7 +9,7 @@ og_image: og/og-skribble-identification.jpg
 
 ---
 
-{{< content text=center top=12 width="narrow" >}}
+{{< content text=center top=12 width=narrow >}}
 {{% markdown %}}
 # Maximise the legal weight <br class="hide-for-mobile">of your electronic signature
 Enable the highest e-signing standard (QES)
@@ -56,13 +56,13 @@ The legal weight of your signature is raised to 100% (QES level)
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< content text=center top=12 width="narrow" >}}
+{{< content text=center top=12 width=narrow >}}
 {{% markdown %}}
 # All clear?
 {{% /markdown %}}
 {{< /content >}}
 
-{{< content top=6 width="narrow" >}}
+{{< content top=6 width=narrow >}}
 {{< collapsible 1 "Maximise the legal weight of your electronic signature" >}}
 At Skribble you sign with the qualified electronic signature (QES). This is [the highest e-signature standard](/signaturestandards). For this, the law requires an identity verification through personal contact. Exceptions are financial intermediaries who may
 carry out identity verification using video identification.{{< /collapsible >}}

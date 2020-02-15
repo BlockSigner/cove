@@ -9,7 +9,7 @@ og_image: og/og-skribble-identification.jpg
 
 ---
 
-{{< content text=center top=12 width="narrow" >}}
+{{< content text=center top=12 width=narrow >}}
 {{% markdown %}}
 # Maximisez la valeur probante <br class="hide-for-mobile">de votre signature électronique
 Déverrouillez la norme de signature électronique la plus élevée (SEQ)
@@ -55,13 +55,13 @@ La force probante de votre signature est portée à 100% (niveau SEQ)
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< content text=center top=12 width="narrow" >}}
+{{< content text=center top=12 width=narrow >}}
 {{% markdown %}}
 # Tout va bien?
 {{% /markdown %}}
 {{% /content %}}
 
-{{< content top=6 width="narrow" >}}
+{{< content top=6 width=narrow >}}
 {{% collapsible 1 "Que m'apporte l'identification?" %}}
 Sur Skribble, vous avez la possibilité de signer avec [la plus haute norme de signature électronique](/fr/normessignature) disponible: la signature électronique qualifiée (SEQ). <br class="hide-for-mobile">Elle a une force probante de 100% et peut être utilisée pour les contrats qui nécessitent la forme écrite. Pour la SEQ, la loi exige un contrôle d'identité.
 {{% /collapsible %}}

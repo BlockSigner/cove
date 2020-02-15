@@ -6,28 +6,32 @@ slug: normessignature
 
 ---
 
-{{< content top=12 >}}
-{{% heading %}}
+{{< content text=center top=12 width=narrow >}}
+{{% markdown %}}
 # De combien de force probante ma e-signature a-t-elle besoin ?
 La loi établit une distinction entre les signatures électroniques qualifiées (SEQ)
 et les signatures électroniques avancées (SEA). Les deux normes varient
 en termes de domaine d'application et de force probante.
 Sur Skribble, vous pouvez choisir entre les deux.
-{{% /heading %}}
+{{% /markdown %}}
+{{< /content >}}
 
 {{< picture force_probante 664 "Force probante de la SEQ et de la SEA" >}}
 
-{{% heading %}}
+{{< content text=center top=12 width=narrow >}}
+{{% markdown %}}
 # SEQ: La même sécurité juridique que la signature manuscrite
 La signature complète et sans souci pour les exigences les plus élevées
-{{% /heading %}}
+{{% /markdown %}}
+{{< /content >}}
 
 {{< picture qes-fr 758 "Deux mains - Un contrat est signé à la main et un autre avec un téléphone portable." >}}
 
-{{% richtext %}}
+{{< content top=6 bottom=6 width=narrow >}}
+{{% markdown %}}
 **La signature électronique qualifiée (SEQ) équivaut légalement à la signature manuscrite.**
 Vous utilisez la SEQ pour maximiser la force probante de vos contrats ou lorsque la loi exige la forme écrite. Cette dernière s'applique, par exemple, aux accords de crédit ou contrats de travail comportant une clause de concurrence. Pour signer avec la SEQ sur Skribble, un contrôle d'identité préalable avec contact personnel ou une e-ID est nécessaire.
-{{% /richtext %}}
+{{% /markdown %}}
 {{< /content >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
@@ -47,10 +51,10 @@ Vous utilisez la SEQ pour maximiser la force probante de vos contrats ou lorsque
 
 {{< picture "Identifizieren" 112 "Vérification d'identité" >}}
 
-{{% richtext %}}
+{{% markdown %}}
 **Vérification d'identité**
 Comment déverrouiller la SEQ sur Skribble
-{{% /richtext %}}
+{{% /markdown %}}
 {{< /cta >}}
 
 
@@ -62,31 +66,38 @@ Comment déverrouiller la SEQ sur Skribble
 
 {{< picture "qes-erklaert" 122 "Valider la SEQ" >}}
 
-{{% richtext %}}
-**Valider la SEQ**<br>
+{{% markdown %}}
+**Valider la SEQ**
 Vérifiez si un document a été signé avec la SEQ
-{{% /richtext %}}
+{{% /markdown %}}
 {{< /cta >}}
 {{< /cta-group >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-
-{{< content top=12 >}}
-{{% heading %}}
+{{< content text=center top=12 width=narrow >}}
+{{% markdown %}}
 # SEA: La solution pragmatique pour les contrats sans exigences formelles
 Immédiatement prête à l'emploi grâce à des exigences d'identification réduites
-{{% /heading %}}
+{{% /markdown %}}
+{{< /content >}}
 
 {{< picture aes-fr 320 "Une personne tient un document juridique entre ses mains. Le logo de swisscom se trouve à l'arrière-plan." >}}
 
-{{% richtext %}}
+{{< content top=6 bottom=6 width=narrow >}}
+{{% markdown %}}
 **La signature électronique avancée (SEA) est juridiquement valable pour les contrats dont la loi ne prescrit pas de forme particulière.**
 C'est le cas pour la plupart des types de contrats, tels que les contrats de location, d'achat ou d'hypothèque. Quiconque possède un numéro de téléphone portable suisse peut commencer immédiatement à signer sur Skribble avec la SEA.
-{{% /richtext %}}
+{{% /markdown %}}
 {{< /content >}}
 
-{{< table-dense heading="SEQ vs SAE en un coup d'œil" id="qes-fes-table" >}}
+{{< content text=center top=12 bottom=6 width=narrow >}}
+{{% markdown %}}
+## SEQ vs SAE en un coup d'œil
+{{% /markdown %}}
+{{< /content >}}
+
+{{< table-dense id="qes-fes-table" >}}
 
 <thead>
 <tr>
@@ -128,9 +139,9 @@ C'est le cas pour la plupart des types de contrats, tels que les contrats de loc
 
 {{< picture "contact" 92 "Vous avez des questions ? Nous nous ferons un plaisir de vous aider." >}}
 
-{{% richtext %}}
+{{% markdown %}}
 **Vous avez des questions? <br class="hide-for-mobile">Nous nous ferons un plaisir de vous aider.**
-{{% /richtext %}}
+{{% /markdown %}}
 {{< /cta >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)

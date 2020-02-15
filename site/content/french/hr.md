@@ -9,7 +9,7 @@ og_image: og/og-skribble-identification.jpg
 
 ---
 
-{{< content text=center top=12 width="narrow" >}}
+{{< content text=center top=12 width=narrow >}}
 {{% markdown %}}
 # Signer électroniquement dans les RH
 Avec Skribble, vous signez en toute sécurité juridique et en toute simplicité
@@ -82,7 +82,7 @@ Restez avec des outils familiers: signez à partir de vos programmes existants, 
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< content text=center top=12 width="narrow" >}}
+{{< content text=center top=12 width=narrow >}}
 {{% markdown %}}
 # Avec Skribble, vous répondez aux exigences légales des processus RH
 Avec Skribble, vous pouvez signer numériquement et légalement (SEQ)
@@ -90,7 +90,7 @@ et satisfaire aux exigences légales suivantes:
 {{% /markdown %}}
 {{< /content >}}
 
-{{< content top=6 width="narrow" >}}
+{{< content top=6 width=narrow >}}
 {{% collapsible 1 "Normes de signature électronique SEQ und SEA selon SCSE/eIDAS" "check" %}}
 Skribble travaille exclusivement avec des standards de signature électronique légalement définis: la signature électronique qualifiée (SEQ) et la signature électronique avancée (SEA).
 {{% /collapsible %}}
@@ -106,7 +106,7 @@ Skribble et ses partenaires gèrent leurs données conformément à la loi féd�
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< content text=center top=12 width="narrow" >}}
+{{< content text=center top=12 width=narrow >}}
 {{% markdown %}}
 # Nos clients s'amusent bien
 Comment nous, chez Skribble, facilitons la vie quotidienne de nos clients.
@@ -131,7 +131,7 @@ Comment nous, chez Skribble, facilitons la vie quotidienne de nos clients.
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< content text=center top=12 width="narrow" >}}
+{{< content text=center top=12 width=narrow >}}
 {{% markdown %}}
 # Utilisez Skribble pour maximiser la force probante de votre signature
 La loi établit une distinction entre les signatures électroniques qualifiées (SEQ)
@@ -155,7 +155,7 @@ en termes de domaine d'application et de force probante. Sur Skribble, vous pouv
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< content text=center top=12 width="narrow" >}}
+{{< content text=center top=12 width=narrow >}}
 {{% markdown %}}
 # Laissez-vous identifier
 Cela débloque la norme de signature électronique la plus élevée du marché: la SEQ. Vous n'avez besoin que d'un document de voyage valide
@@ -183,13 +183,13 @@ et laissez-nous vous identifier**
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< content text=center top=12 width="narrow" >}}
+{{< content text=center top=12 width=narrow >}}
 {{% markdown %}}
 # Est-ce que ça va?
 {{% /markdown %}}
 {{< /content >}}
 
-{{< content top=6 width="narrow" >}}
+{{< content top=6 width=narrow >}}
 {{% collapsible 10 "Où sont stockés les documents signés avec Skribble?" %}}
 Le centre de données Skribble est situé en Suisse et est certifié ISO 270001 (hébergement bancaire standard).
 {{% /collapsible %}}

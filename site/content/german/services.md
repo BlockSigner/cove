@@ -8,7 +8,7 @@ og_image: og/og-skribble-mission.jpg
 
 ---
 
-{{< content text=center top=12 width="narrow" >}}
+{{< content text=center top=12 width=narrow >}}
 {{% markdown %}}
 # Bezahle pro Signatur oder als Flatrate und spare, wenn du mehr signierst
 Skribbles Angebotsstruktur passt sich deinen Bedürfnissen an.
@@ -26,7 +26,7 @@ Geeignet für regelmässiges Signieren
 {{% /plan %}}
 {{< /row >}}
 
-{{< content text=center top=12 bottom=12 width="narrow" >}}
+{{< content text=center top=12 bottom=12 width=narrow >}}
 {{% markdown %}}
 Flexibel kombinierbar
 : Die zwei Angebotsmodelle können kombiniert werden: Unterschreibt z.B. Herr Muster täglich Verträge, die mit verschiedensten externen Parteien eingegangen werden, empfehlen wir das Flatrate-Modell für Herr Muster und das Prepaid-Modell für die externen Parteien.
@@ -46,7 +46,7 @@ Je mehr, desto günstiger
 {{% /markdown %}}
 {{< /cta >}}
 
-{{< content text=center top=12 width="narrow" >}}
+{{< content text=center top=12 width=narrow >}}
 {{% markdown %}}
 # Identifikation
 Keine E-ID vorhanden? Lass dich von uns identifizieren

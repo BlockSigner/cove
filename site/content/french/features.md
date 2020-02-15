@@ -9,7 +9,7 @@ og_image: og/og-skribble-identification.jpg
 
 ---
 
-{{< content text=center top=12 width="narrow" >}}
+{{< content text=center top=12 width=narrow >}}
 {{% markdown %}}
 # Fonctionnalités de Skribble
 Avec Skribble, votre signature est non seulement
@@ -54,7 +54,7 @@ légalement valable, mais aussi simple.
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< content text=center top=12 width="narrow" >}}
+{{< content text=center top=12 width=narrow >}}
 {{% markdown %}}
 # À venir
 Notre vision est grande. Nous développons Skribble jour après jour.

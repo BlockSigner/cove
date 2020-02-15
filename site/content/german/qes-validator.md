@@ -6,7 +6,7 @@ slug: qes-validator
 
 ---
 
-{{< content text=center top=12 width="narrow" >}}
+{{< content text=center top=12 width=narrow >}}
 {{% markdown %}}
 # So prüfst du, ob dein Dokument <br class="hide-for-mobile">mit der QES signiert wurde
 Mit dem Validator der Schweizer Bundesverwaltung kannst du prüfen,
@@ -17,7 +17,7 @@ nach Schweizer Recht signiert wurde. *
 
 {{< picture "qes-pruefen" 474 "Ein Mann lädt ein Dokument in den Validator der Schweizer Bundesverwaltung" >}}
 
-{{< content top=6 width="narrow" >}}
+{{< content top=6 width=narrow >}}
 {{% markdown %}}
 <small>* funktioniert für QES nach Schweizer Recht, nicht aber nach EU-Recht (eIDAS).</small>
 ### So gehst du vor:

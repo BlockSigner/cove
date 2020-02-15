@@ -8,7 +8,7 @@ og_image: og/og-skribble-identification.jpg
 
 ---
 
-{{< content text=center top=12 width="narrow" >}}
+{{< content text=center top=12 width=narrow >}}
 {{% markdown %}}
 # Identity verification for QES
 For signing with the highest e-signature standard (QES),
@@ -33,7 +33,7 @@ Skribble makes it easy**
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< content text=center top=12 width="narrow" >}}
+{{< content text=center top=12 width=narrow >}}
 {{% markdown %}}
 # Use your existing e-ID
 Persons who have a verified e-ID can sign with QES on Skribble
@@ -43,7 +43,7 @@ without additional identity verification.
 
 {{< picture "identification-id" 412 "An electronic legally binding identity card" >}}
 
-{{< content text=center top=12 bottom=6 width="narrow" >}}
+{{< content text=center top=12 bottom=6 width=narrow >}}
 {{% markdown %}}
 A growing number of people in Europe have a verified electronic identity (e-ID). Skribble links them all so that millions of users can start signing with QES immediately.
 
@@ -53,7 +53,7 @@ A growing number of people in Europe have a verified electronic identity (e-ID).
 
 {{< picture e-id-map 826 "E-ID, where you can sign Skribble soon." >}}
 
-{{< content text=center top=12 bottom=6 width="narrow" >}}
+{{< content text=center top=12 bottom=6 width=narrow >}}
 {{% markdown %}}
 **More e-IDs will follow this year.**
 {{% /markdown %}}
@@ -80,7 +80,7 @@ Let us advise you and find the right identification solution for your company.
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< content text=center top=12 width="narrow" >}}
+{{< content text=center top=12 width=narrow >}}
 {{% markdown %}}
 # Get identified
 If you do not have an e-ID, Skribble can identify you within minutes.

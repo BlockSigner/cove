@@ -10,7 +10,7 @@ type: business-features
 
 ---
 
-{{< content text=center top=12 width="narrow" >}}
+{{< content text=center top=12 width=narrow >}}
 {{% markdown %}}
 # Business features
 Skribble Business customers sign organised as a group - with
@@ -47,7 +47,7 @@ Skribble Business customers sign organised as a group - with
     description="View the current and all past invoices at any time.">}}
 {{< /features-container >}}
 
-{{< content text=center top=12 width="narrow" >}}
+{{< content text=center top=12 width=narrow >}}
 {{% markdown %}}
 # Skribble Business embeds itself into your existing infrastructure
 The onboarding of new signers is intuitive and fast.
@@ -79,7 +79,7 @@ us and our customers." {{< /testimonial >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< content text=center top=12 width="narrow" >}}
+{{< content text=center top=12 width=narrow >}}
 {{% markdown %}}
 # Organisation-wide implementation is simple and fast
 Enable new and existing employees to sign electronically
@@ -108,7 +108,7 @@ Identification services for highest demands on the legal weight of the signature
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< content text=center top=12 width="narrow" >}}
+{{< content text=center top=12 width=narrow >}}
 {{% markdown %}}
 # Ideal cost-benefit ratio
 Choose the right pricing model for your organization.

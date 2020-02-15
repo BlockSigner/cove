@@ -8,7 +8,7 @@ og_image: og/og-skribble-mission.jpg
 
 ---
 
-{{< content text=center top=12 width="narrow" >}}
+{{< content text=center top=12 width=narrow >}}
 {{% markdown %}}
 # Skribble builds trust <br class="hide-for-mobile">in the digital world
 Once upon a time there was the hand-written signature –
@@ -18,7 +18,7 @@ today we sign with Skribble.
 
 {{< picture image9 680 "A man signs with a huge fountain pen on the floor, next to it a man sits on a chair and signs online" >}}
 
-{{< content top=6 width="narrow" >}}
+{{< content top=6 width=narrow >}}
 {{% markdown %}}
 ## The typewriter became Microsoft Word, the CD turned into Spotify, the DVD became Netflix.
 {{% /markdown %}}
@@ -26,7 +26,7 @@ today we sign with Skribble.
 
 {{< picture image10 453 "A dusty typewriter, over it the logos of netflix, spotify and word" >}}
 
-{{< content top=6 bottom=6 width="narrow" >}}
+{{< content top=6 bottom=6 width=narrow >}}
 {{% markdown %}}
 Digitalisation makes many things faster, cheaper and simpler. This also applies to 90 percent of day to day business processes.
 
@@ -38,7 +38,7 @@ The remaining ten percent require a high degree of trust, for example signing em
 
 {{< picture image11 512 "A woman flies with an outstretched arm through a paper cloud" >}}
 
-{{< content top=6 width="narrow" >}}
+{{< content top=6 width=narrow >}}
 {{% markdown %}}
 Contracts no longer have to take a detour via printers and paper in order to be signed in a legally valid manner.
 

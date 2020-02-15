@@ -8,7 +8,7 @@ og_image: og/og-skribble-mission.jpg
 
 ---
 
-{{< content text=center top=12 width="narrow" >}}
+{{< content text=center top=12 width=narrow >}}
 {{% markdown %}}
 # Skribble schafft Vertrauen <br class="hide-for-mobile">in der digitalen Welt
 Es war einmal die Unterschrift &ndash; heute signieren wir mit Skribble.
@@ -17,7 +17,7 @@ Es war einmal die Unterschrift &ndash; heute signieren wir mit Skribble.
 
 {{< picture image9 680 "Ein mann unterschreibt mit einem riesengrossen füller auf den boden, daneben sitzt ein mann auf einem stuhl und signiert online" >}}
 
-{{< content top=6 width="narrow" >}}
+{{< content top=6 width=narrow >}}
 {{% markdown %}}
 ## Aus der Schreibmaschine wurde Microsoft Word, aus der CD Spotify, aus der DVD Netflix.
 {{% /markdown %}}
@@ -25,7 +25,7 @@ Es war einmal die Unterschrift &ndash; heute signieren wir mit Skribble.
 
 {{< picture image10 453 "Eine verstaubte schreibmaschine, darüber die logos von netflix, spotify und word" >}}
 
-{{< content top=6 bottom=6 width="narrow" >}}
+{{< content top=6 bottom=6 width=narrow >}}
 {{% markdown %}}
 Die Digitalisierung macht vieles schneller, günstiger und einfacher. Das gilt auch für den Geschäftsalltag, zumindest bei 90 Prozent der Prozesse.
 
@@ -37,7 +37,7 @@ Bei den übrigen zehn Prozent handelt es sich um Schritte, die ein hohes Mass an
 
 {{< picture image11 512 "Eine frau fliegt mit gestrecktem arm durch eine papier-wolke" >}}
 
-{{< content top=6 width="narrow" >}}
+{{< content top=6 width=narrow >}}
 {{% markdown %}}
 Verträge sollen nicht mehr den Umweg über Drucker und Papier nehmen müssen, um rechtssicher unterschrieben zu werden.
 
