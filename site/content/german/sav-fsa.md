@@ -77,7 +77,7 @@ Signaturen können auch nutzerunabhängig bezogen werden.
 Du benötigst nur ein Mobiltelefon und ein gültiges Ausweispapier (Pass oder Identitätskarte).
 
 - **Skribble kommt bei dir vorbei**
-- **Wir identifzieren dich**
+- **Wir identifizieren dich**
 - **Du bist sofort signierbereit**
 
 Eine Kanzlei kann auch dazu befähigt werden, selbst Personen zu identifizieren.

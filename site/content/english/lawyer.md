@@ -13,7 +13,7 @@ og_image: og/og-skribble-identification.jpg
 {{% markdown %}}
 # Electronic signature for lawyers
 With Skribble you sign without USB stick or card reader
-with the hightest e-signing standard (QES).
+with the highest e-signing standard (QES).
 {{% /markdown %}}
 {{< /content >}}
 
@@ -186,7 +186,7 @@ Skribble' s data centre is located in Switzerland and is ISO 270001 certified (a
 {{% /collapsible %}}
 
 {{% collapsible 11 "What if I haven't been identified yet?" %}}
-Personal identification is only required in order to sign with the highest e-signature standard (QES). If you haven't been identified yet, you can sign with the second highest standard (FES).
+Personal identification is only required in order to sign with the highest e-signature standard (QES). If you haven't been identified yet, you can sign with the second highest standard (AES).
 {{% /collapsible %}}
 
 {{% collapsible 12 "Do I need additional hardware for signing with Skribble?" %}}

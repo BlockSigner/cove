@@ -58,7 +58,7 @@ Efficient onboarding: you have a better chance of being chosen as an employer an
 ## Empower employees <br class="hide-for-mobile">to work more efficiently
 Digitalisation enabler: HR enables the workforce to sign electronically and can manage their everyday work with less bureaucracy.
 
-- **<small>Digital processing of work reports, layoffs, applications, etc.</small>**
+- **<small>Digital processing of work reports, lay-offs, applications, etc.</small>**
 - **<small>Get signatures from authorised signatories via e-mail</small>**
 - **<small>Download contracts ready for archiving in recognized PDF X/A format </small>**
 

@@ -120,7 +120,7 @@ You can create a demo key in your Skribble Business account.
 
 {{% markdown %}}
 **API documentation**
-Check out our API documenation.
+Check out our API documentation.
 {{% /markdown %}}
 {{< /cta >}}
 {{< /cta-group >}}

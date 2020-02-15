@@ -77,7 +77,7 @@ Exklusiv für EXPERTsuisse Mitglieder:
 Du benötigst nur ein Mobiltelefon und einen gültigen Ausweis (Pass oder Identitätskarte).
 
 - **Skribble kommt bei dir vorbei**
-- **Wir identifzieren dich**
+- **Wir identifizieren dich**
 - **Du bist sofort signierbereit**
 
 Deine Firma kann auch dazu befähigt werden, selbst Personen zu identifizieren.

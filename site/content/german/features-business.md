@@ -38,7 +38,7 @@ Skribble Business Kunden signieren als Organisation – <br class="hide-for-mobi
 
   {{< features-item src="features-biz/activity.svg"
     headline="Aktivitätsübersicht"
-    description="Behalte den Überblick über die Vorgänge in deinem Business-Konto, gefilter nach Datum, Aktivität und mehr.">}}
+    description="Behalte den Überblick über die Vorgänge in deinem Business-Konto, gefiltert nach Datum, Aktivität und mehr.">}}
 
   {{< features-item src="features-biz/rechnungshistorie.svg"
     headline="Rechnungshistorie"
