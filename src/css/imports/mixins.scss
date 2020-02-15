@@ -111,6 +111,9 @@
 
   p {
     margin: 1.444em 0;
+    &:first-child {
+      margin-top: 0;
+    }
     + h2 {
       margin-top: 40px;
     }

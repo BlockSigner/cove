@@ -6,19 +6,27 @@ slug: qes-validator
 
 ---
 
-{{< content top=12 >}}
-{{% heading %}}
+{{< content text=center top=12 width="narrow" >}}
+{{% markdown %}}
 # So prüfst du, ob dein Dokument <br class="hide-for-mobile">mit der QES signiert wurde
-Mit dem Validator der Schweizer Bundesverwaltung kannst du prüfen, <br class="hide-for-mobile">ob dein Dokument mit einer qualifizierten elektronischen Signatur (QES) <br class="hide-for-mobile">nach Schweizer Recht signiert wurde. *
-{{% /heading %}}
+Mit dem Validator der Schweizer Bundesverwaltung kannst du prüfen,
+ob dein Dokument mit einer qualifizierten elektronischen Signatur (QES)
+nach Schweizer Recht signiert wurde. *
+{{% /markdown %}}
+{{< /content >}}
+
 {{< picture "qes-pruefen" 474 "Ein Mann lädt ein Dokument in den Validator der Schweizer Bundesverwaltung" >}}
-{{% richtext %}}
+
+{{< content top=6 width="narrow" >}}
+{{% markdown %}}
 <small>* funktioniert für QES nach Schweizer Recht, nicht aber nach EU-Recht (eIDAS).</small>
 ### So gehst du vor:
-1. **Wähle den Dokument-Typ: <br class="hide-for-mobile">Der eigenhändigen Unterschrift gleichgestellte <br class="hide-for-mobile">qualifizierte elektronische Signatur**
+1. **Wähle den Dokument-Typ:**
+Der eigenhändigen Unterschrift gleichgestellte
+qualifizierte elektronische Signatur
 2. **Lade dein Dokument hoch**
 3. **Klicke auf Prüfen**
-{{% /richtext %}}
+{{% /markdown %}}
 {{< /content >}}
 
 {{< cta-group >}}
@@ -29,9 +37,9 @@ Mit dem Validator der Schweizer Bundesverwaltung kannst du prüfen, <br class="h
   outlined="true"
 >}}
 {{< picture "ch-logo" 122 >}}
-{{% richtext %}}
+{{% markdown %}}
 **Ein Service der Schweizer Bundesverwaltung**
-{{% /richtext %}}
+{{% /markdown %}}
 {{< /cta >}}
 
 {{< cta
@@ -41,9 +49,10 @@ Mit dem Validator der Schweizer Bundesverwaltung kannst du prüfen, <br class="h
   outlined="true"
 >}}
 {{< picture "qes-erklaert" 122 >}}
-{{% richtext %}}
-**Was ist die qualifizierte <br class="hide-for-mobile">elektronische Signatur (QES)?**
-{{% /richtext %}}
+{{% markdown %}}
+**Was ist die qualifizierte
+elektronische Signatur (QES)?**
+{{% /markdown %}}
 {{< /cta >}}
 {{< /cta-group >}}
 
@@ -52,7 +61,7 @@ Mit dem Validator der Schweizer Bundesverwaltung kannst du prüfen, <br class="h
 {{< outro >}}
 {{< picture image8 414 "Ein mann steht mit einem riesen füller neben einem elektronischen dokument" >}}
 
-{{< richtext >}}
+{{< content >}}
 {{% markdown %}}
 # Jetzt rechtsgültig elektronisch signieren!
 Keine Kreditkarte, Eintrittsgebühr oder
@@ -64,5 +73,5 @@ Verpflichtung erforderlich.
   "https://my.skribble.com/signup?lang=de"
   "_blank"
 >}}
-{{< /richtext >}}
+{{< /content >}}
 {{< /outro >}}

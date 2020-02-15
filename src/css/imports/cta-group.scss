@@ -1,9 +1,19 @@
 .cta-group {
-    .cta:not(:last-child) {
-        padding-bottom: 0px;
-        // margin-bottom: -1px;
-        .cta__content {
-            border-bottom: none;
+    .cta {
+        &:not(:last-child) {
+            padding-bottom: 0px;
+            // margin-bottom: -1px;
+            .cta__content {
+                border-bottom: none;
+            }
+            .skr-container {
+                padding-bottom: 0;
+            }
+        }
+        &:not(:first-child) {
+            .skr-container {
+                padding-top: 0;
+            }
         }
     }
 }

@@ -6,19 +6,27 @@ slug: validateur-seq
 
 ---
 
-{{< content top=12 >}}
-{{% heading %}}
+{{< content text=center top=12 width="narrow" >}}
+{{% markdown %}}
 # Vérifiez si un document <br class="hide-for-mobile">a été signé avec la SEQ
-Le validateur de l'administration fédérale suisse vous permet <br class="hide-for-mobile">de vérifier si votre document a été signé avec <br class="hide-for-mobile">une signature électronique qualifiée selon le droit suisse.*
-{{% /heading %}}
+Le validateur de l'administration fédérale suisse vous permet
+de vérifier si votre document a été signé avec
+une signature électronique qualifiée selon le droit suisse.*
+{{% /markdown %}}
+{{< /content >}}
+
 {{< picture "qes-pruefen" 474 "Un homme charge un document dans le validateur de l'administration fédérale suisse" >}}
-{{% richtext %}}
+
+{{< content top=6 width="narrow" >}}
+{{% markdown %}}
 <small>* fonctionne pour la SEQ selon le droit suisse, mais pas selon le droit européen (eIDAS).</small>
 ### Procédez ainsi:
-1. **Choisissez votre type de document: <br class="hide-for-mobile">Signature électronique qualifiée <br class="hide-for-mobile">équivalente à une signature manuscrite**
+1. **Choisissez votre type de document:**
+Signature électronique qualifiée
+équivalente à une signature manuscrite
 2. **Téléchargez votre document**
 3. **Cliquez sur vérifier**
-{{% /richtext %}}
+{{% /markdown %}}
 {{< /content >}}
 
 {{< cta-group >}}
@@ -29,9 +37,9 @@ Le validateur de l'administration fédérale suisse vous permet <br class="hide-
   outlined="true"
 >}}
 {{< picture ch-logo 122 "Le logo de l’administration fédérale suisse" >}}
-{{% richtext %}}
+{{% markdown %}}
 **Un service de l'Administration <br class="hide-for-mobile">fédérale suisse.**
-{{% /richtext %}}
+{{% /markdown %}}
 {{< /cta >}}
 
 {{< cta
@@ -41,9 +49,9 @@ Le validateur de l'administration fédérale suisse vous permet <br class="hide-
   outlined="true"
 >}}
 {{< picture "qes-erklaert" 122 >}}
-{{% richtext %}}
+{{% markdown %}}
 **Qu'est-ce que la signature <br class="hide-for-mobile">électronique qualifiée (SEQ)?**
-{{% /richtext %}}
+{{% /markdown %}}
 {{< /cta >}}
 {{< /cta-group >}}
 
@@ -52,7 +60,7 @@ Le validateur de l'administration fédérale suisse vous permet <br class="hide-
 {{< outro >}}
 {{< picture image8 414 "Un homme se tient à côté d'un document électronique avec un stylo plume géant" >}}
 
-{{< richtext >}}
+{{< content >}}
 {{% markdown %}}
 # Signer légalement <br class="hide-for-mobile">et numériquement maintenant!
 Aucune carte de crédit, aucun droit d'entrée
@@ -64,5 +72,5 @@ ou engagement n'est requis.
   "https://my.skribble.com/signup?lang=fr"
   "_blank"
 >}}
-{{< /richtext >}}
+{{< /content >}}
 {{< /outro >}}

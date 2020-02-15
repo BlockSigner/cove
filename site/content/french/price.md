@@ -276,7 +276,7 @@ Après l'enregistrement, vous pouvez à tout moment passer <br class="hide-for-m
 {{< outro >}}
 {{< picture image8 414 "Un homme se tient à côté d'un document électronique avec un stylo plume géant" >}}
 
-{{< richtext >}}
+{{< content >}}
 {{% markdown %}}
 # Signer légalement <br class="hide-for-mobile">et numériquement maintenant!
 Aucune carte de crédit, aucun droit d'entrée
@@ -288,5 +288,5 @@ ou engagement n'est requis.
   "https://my.skribble.com/signup?lang=fr"
   "_blank"
 >}}
-{{< /richtext >}}
+{{< /content >}}
 {{< /outro >}}
