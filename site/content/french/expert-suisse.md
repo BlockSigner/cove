@@ -12,7 +12,7 @@ type: blank
   {{< picture image1 678 "trois personnes signent un document électronique" >}}
 </div>
 
-{{% richtext %}}
+{{< richtext >}}
 {{% heading left %}}
 # Signature électronique légalement valide avec Skribble
 Traiter les processus de signature numériquement &ndash; <br class="hide-for-mobile">juridiquement valides selon le droit suisse et européen.
@@ -27,7 +27,7 @@ Traiter les processus de signature numériquement &ndash; <br class="hide-for-mo
   "Basé sur la signature électronique qualifiée SEQ de Swisscom"
 >}}
 
-{{% /richtext %}}
+{{< /richtext >}}
 {{< /intro >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
