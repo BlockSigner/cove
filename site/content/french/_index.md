@@ -172,7 +172,8 @@ en termes de domaine d'application et de force probante. Sur Skribble, vous pouv
 {{< richtext >}}
 {{% markdown %}}
 # Signer légalement <br class="hide-for-mobile">et numériquement maintenant!
-Aucune carte de crédit, aucun droit d'entrée <br class="hide-for-mobile">ou engagement n'est requis.
+Aucune carte de crédit, aucun droit d'entrée
+ou engagement n'est requis.
 {{% /markdown %}}
 
 {{< button

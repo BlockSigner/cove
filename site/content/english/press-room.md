@@ -142,7 +142,7 @@ The Most Important Skribble Branding Assets are right here at hand:
 
 {{< content text=center >}}
 {{% markdown %}}
-# Sign now, legally valid electronically!
+# Sign now, legally and electronically!
 No credit card, entrance fee or commitment required.
 {{% /markdown %}}
 

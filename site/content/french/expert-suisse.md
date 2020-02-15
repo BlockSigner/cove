@@ -130,10 +130,10 @@ Avec Skribble vous signez avec la signature électronique qualifiée (SEQ). <br 
 {{< picture image8 414 "Un homme se tient à côté d'un document électronique avec un stylo plume géan" >}}
 
 {{< richtext >}}
-{{% heading %}}
+{{% markdown %}}
 # Signez dès à présent électroniquement de manière légalement valide!
 En savoir plus sur l'offre.
-{{% /heading %}}
+{{% /markdown %}}
 
 {{< button
   "Fixer un rendez-vous"

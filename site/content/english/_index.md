@@ -177,7 +177,7 @@ of area of application and legal weight.
 
 {{< content text=center >}}
 {{% markdown %}}
-# Sign now, legally valid electronically!
+# Sign now, legally and electronically!
 No credit card, entrance fee or commitment required.
 {{% /markdown %}}
 

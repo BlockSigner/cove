@@ -221,7 +221,7 @@ The QES is legally valid for an unlimited period of time.
 
 {{< content text=center >}}
 {{% markdown %}}
-# Sign now, legally valid electronically!
+# Sign now, legally and electronically!
 No credit card, entrance fee or commitment required.
 {{% /markdown %}}
 

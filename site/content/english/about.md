@@ -56,7 +56,7 @@ Building trust in digital business relationships should become as simple and int
 
 {{< content text=center >}}
 {{% markdown %}}
-# Sign now, legally valid electronically!
+# Sign now, legally and electronically!
 No credit card, entrance fee or commitment required.
 {{% /markdown %}}
 

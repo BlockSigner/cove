@@ -126,10 +126,10 @@ Bei Skribble signierst du mit der qualifizierten elektronischen Signatur (QES). 
 {{< picture image8 414 "Ein mann steht mit einem riesen füller neben einem elektronischen dokument" >}}
 
 {{< richtext >}}
-{{% heading %}}
+{{% markdown %}}
 # Jetzt rechtsgültig elektronisch signieren
 Erfahre mehr über das Angebot.
-{{% /heading %}}
+{{% /markdown %}}
 
 {{< button
   "Jetzt Termin vereinbaren"

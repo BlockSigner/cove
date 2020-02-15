@@ -84,7 +84,7 @@ The copyright and all other rights to content, images, photos or other files on 
 
 {{< content text=center >}}
 {{% markdown %}}
-# Sign now, legally valid electronically!
+# Sign now, legally and electronically!
 No credit card, entrance fee or commitment required.
 {{% /markdown %}}
 

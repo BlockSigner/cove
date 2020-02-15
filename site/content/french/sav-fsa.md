@@ -95,10 +95,10 @@ Un cabinet d'avocats peut également être qualifié pour le faire, pour identif
 {{< picture image8 414 "Un homme se tient à côté d'un document électronique avec un stylo plume géan" >}}
 
 {{< richtext >}}
-{{% heading %}}
+{{% markdown %}}
 # Signez dès à présent électroniquement de manière légalement valide!
 En savoir plus sur l'offre.
-{{% /heading %}}
+{{% /markdown %}}
 
 {{< button
   "Fixer un rendez-vous"
