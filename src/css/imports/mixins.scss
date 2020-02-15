@@ -49,7 +49,7 @@
   }
 }
 
-@mixin richtext-styling {
+@mixin markdown-styling {
   @include h1-styling;
 
   br {

@@ -15,12 +15,12 @@ $ns: cta;
   .picture {
     margin: 0;
     padding: 0;
-    + .richtext, + .markdown {
+    + .markdown {
       margin-left: 24px;
     }
   }
 
-  .richtext, .markdown {
+  .markdown {
     text-align: left;
     @include min-width() {
       max-width: 70%;

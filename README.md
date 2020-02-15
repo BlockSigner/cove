@@ -15,7 +15,7 @@ Deploy:
     - [content](#-content-)
     - [row](#-row-)
   - [Markdown wrapper components](#markdown-wrapper-components)
-    - [richtext](#-richtext-)
+    - [markdown](#-markdown-)
   - [Atomic components](#atomic-components)
     - [center](#-center-)
     - [button](#-button-)
@@ -203,7 +203,7 @@ Draws its contents laterally outwards from the center. Its content is horizontal
 
 ### Markdown wrapper components
 
-#### {{% richtext %}}
+#### {{% markdown %}}
 Applies styling for headings, paragraphs, links, and lists (ul, ol, dl).
 
 ### Atomic components
@@ -441,7 +441,7 @@ To show component outlines and component labels, add the following styling to `m
 .intro {@include outline(intro, black);}
 .outro {@include outline(outro, black);}
 .picture {@include outline(picture, tomato, -45deg);}
-.richtext {@include outline(richtext, mediumslateblue, -45deg);}
+.markdown {@include outline(markdown, mediumslateblue, -45deg);}
 .row {@include outline(row, grey, -45deg);}
 .side-by-side {@include outline(side-by-side, black);}
 .table-wrapper {@include outline(table-wrapper, darkorchid);}

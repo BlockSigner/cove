@@ -40,7 +40,7 @@
     }
   }
 
-  .richtext {
+  .markdown {
     @include min-width {
       flex: 1 1 0%;
       padding: 0 40px 0 0;
@@ -60,7 +60,7 @@
       margin: 40px auto;
     }
 
-    + .richtext {
+    + .markdown {
       padding-right: 0;
     }
   }

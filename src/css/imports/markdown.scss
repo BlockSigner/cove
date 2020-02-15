@@ -1,5 +1,5 @@
 .markdown {
-  @include richtext-styling;
+  @include markdown-styling;
 
   &:not(.markdown--legal) {
     h1, h2, h3, h4, p {

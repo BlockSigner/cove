@@ -38,7 +38,6 @@
 @import 'imports/person';
 @import 'imports/picture';
 @import 'imports/plan';
-@import 'imports/richtext';
 @import 'imports/row';
 @import 'imports/show-hide-button';
 @import 'imports/side-by-side';
@@ -79,7 +78,6 @@
 .outro {@include outline(outro, black);}
 .picture {@include outline(picture, tomato, -45deg);}
 .plan {@include outline(plan, darkslategrey, -45deg);}
-.richtext {@include outline(richtext, mediumslateblue, -45deg);}
 .row {@include outline(row, grey, -45deg);}
 .side-by-side {@include outline(side-by-side, black);}
 .table-wrapper {@include outline(table-wrapper, darkorchid);}

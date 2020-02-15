@@ -8,7 +8,6 @@
     flex-direction: column;
   }
 
-  .richtext,
   .markdown {
     @include min-width {
       flex: 1 1 100%;
