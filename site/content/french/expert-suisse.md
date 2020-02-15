@@ -136,7 +136,7 @@ Avec Skribble vous signez avec la signature électronique qualifiée (SEQ). <br 
 {{< outro >}}
 {{< picture image8 414 "Un homme se tient à côté d'un document électronique avec un stylo plume géan" >}}
 
-{{% richtext %}}
+{{< richtext >}}
 {{% heading %}}
 # Signez dès à présent électroniquement de manière légalement valide!
 En savoir plus sur l'offre.
@@ -157,5 +157,5 @@ En savoir plus sur l'offre.
   </svg>
   +41 44 505 16 64
 </a>
-{{% /richtext %}}
+{{< /richtext >}}
 {{< /outro >}}
