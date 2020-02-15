@@ -8,11 +8,12 @@ og_image: og/og-skribble-mission.jpg
 
 ---
 
-{{< content top=12 >}}
-{{% heading %}}
+{{< content text=center top=12 width="narrow" >}}
+{{% markdown %}}
 # Bezahle pro Signatur oder als Flatrate und spare, wenn du mehr signierst
 Skribbles Angebotsstruktur passt sich deinen Bedürfnissen an.
-{{% /heading %}}
+{{% /markdown %}}
+{{< /content >}}
 
 {{< picture image15 585 "Eine frau mit langen roten haaren wählt ein angebot aus" >}}
 
@@ -25,13 +26,14 @@ Geeignet für regelmässiges Signieren
 {{% /plan %}}
 {{< /row >}}
 
-{{% richtext %}}
+{{< content text=center top=12 bottom=12 width="narrow" >}}
+{{% markdown %}}
 Flexibel kombinierbar
 : Die zwei Angebotsmodelle können kombiniert werden: Unterschreibt z.B. Herr Muster täglich Verträge, die mit verschiedensten externen Parteien eingegangen werden, empfehlen wir das Flatrate-Modell für Herr Muster und das Prepaid-Modell für die externen Parteien.
 
 Je mehr, desto günstiger
 : Wir haben ein volumenbasiertes Preismodell: Je mehr Signaturen du in einem Prepaid-Paket beziehst, desto tiefer der Einzelpreis. Je mehr Personen du für das Flatrate-Modell anmeldest, desto tiefer der monatliche Pauschalpreis pro Person.
-{{% /richtext %}}
+{{% /markdown %}}
 {{< /content >}}
 
 {{< cta
@@ -39,17 +41,18 @@ Je mehr, desto günstiger
   href="mailto:info@skribble.com"
   target="_blank"
 >}}
-{{% richtext %}}
+{{% markdown %}}
 **Möchtest du mehr über unsere Preise erfahren?**
-{{% /richtext %}}
+{{% /markdown %}}
 {{< /cta >}}
 
-{{< content top=12 >}}
-
-{{% heading %}}
+{{< content text=center top=12 width="narrow" >}}
+{{% markdown %}}
 # Identifikation
-Keine E-ID vorhanden? Lass dich von uns identifizieren <br class="hide-for-mobile">oder identifiziere deine Leute selbst.
-{{% /heading %}}
+Keine E-ID vorhanden? Lass dich von uns identifizieren
+oder identifiziere deine Leute selbst.
+{{% /markdown %}}
+{{< /content >}}
 
 {{< picture image6 365 "Eine lupe vergrößert das bild einer frau in einem pass" >}}
 
@@ -61,16 +64,15 @@ Geeignet für einmaliges oder gelegentliches Signieren mit QES.
 Passend, wenn du die QES in einem vordefinierten Personenkreis einsetzt.
 {{% /plan %}}
 {{< /row >}}
-{{< /content >}}
 
 {{< cta
   label="Weitere Infos zur Identifikation"
   href="/identification"
   target="_blank"
 >}}
-{{% richtext %}}
+{{% markdown %}}
 **Die Identitätsprüfung erfolgt einmalig im persönlichen Kontakt mit der ID-App von Swisscom.**
-{{% /richtext %}}
+{{% /markdown %}}
 {{< /cta >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
@@ -78,7 +80,7 @@ Passend, wenn du die QES in einem vordefinierten Personenkreis einsetzt.
 {{< outro >}}
 {{< picture image8 414 "Ein mann steht mit einem riesen füller neben einem elektronischen dokument" >}}
 
-{{< richtext >}}
+{{< content >}}
 {{% markdown %}}
 # Jetzt rechtsgültig elektronisch signieren!
 Keine Kreditkarte, Eintrittsgebühr oder
@@ -90,5 +92,5 @@ Verpflichtung erforderlich.
   "https://my.skribble.com/signup?lang=de"
   "_blank"
 >}}
-{{< /richtext >}}
+{{< /content >}}
 {{< /outro >}}

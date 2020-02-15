@@ -142,7 +142,7 @@ Die wichtigsten Skribble Branding Assets sind gleich hier griffbereit:
 {{< outro >}}
 {{< picture image8 414 "Ein mann steht mit einem riesen füller neben einem elektronischen dokument" >}}
 
-{{< richtext >}}
+{{< content >}}
 {{% markdown %}}
 # Jetzt rechtsgültig elektronisch signieren!
 Keine Kreditkarte, Eintrittsgebühr oder
@@ -154,5 +154,5 @@ Verpflichtung erforderlich.
   "https://my.skribble.com/signup?lang=de"
   "_blank"
 >}}
-{{< /richtext >}}
+{{< /content >}}
 {{< /outro >}}

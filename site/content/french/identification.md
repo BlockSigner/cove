@@ -3,7 +3,6 @@ title: Contrôle d'identité pour la SEQ
 description: Pour la signature électronique qualifiée (SEQ), le signataire doit prouver son identité. Skribble vous aidera.
 draft: false
 slug: identification
-type: identification
 # opengraph image (for facebook and twitter)
 og_image: og/og-skribble-identification.jpg
 
