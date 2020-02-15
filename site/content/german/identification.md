@@ -25,9 +25,9 @@ Für das Signieren mit höchstem E-Signatur-Standard (QES) müssen <br class="hi
   target="_blank"
   outlined="true"
 >}}
-{{% richtext %}}
+{{% markdown %}}
 **Identitätsprüfung für die QES – <br class="hide-for-mobile">Skribble macht es einfach**
-{{% /richtext %}}
+{{% /markdown %}}
 {{< /cta >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
@@ -46,7 +46,7 @@ Personen, die über eine geprüfte E-ID verfügen, können auf Skribble <br clas
 Eine wachsende Anzahl Menschen in Europa verfügt über eine geprüfte elektronische Identität (E-ID). Skribble bindet diese an. So können Millionen von Nutzern sofort mit dem Signieren mit QES loslegen.
 
 **Personen, die sich mit einer E-ID anmelden, schalten die QES automatisch frei.**
-{{% /richtext %}}
+{{% /markdown %}}
 {{< /content >}}
 
 {{< picture e-id-map 826 "E-ID, wo du in kürze bei Skribble signieren kannst." >}}
@@ -65,10 +65,10 @@ Eine wachsende Anzahl Menschen in Europa verfügt über eine geprüfte elektroni
 
 {{< picture consult 92 "Identifikation für die QES. Lass dich beraten und finde die passende Identifikations-Lösung für deine Firma." >}}
 
-{{% richtext %}}
+{{% markdown %}}
 **Identifikation für die QES**<br>
 Lass dich beraten und finde die passende Identifikations-Lösung für deine Firma.
-{{% /richtext %}}
+{{% /markdown %}}
 {{< /cta >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
@@ -126,9 +126,9 @@ Passend, wenn laufend <br class="hide-for-mobile">neue Signierende <br class="hi
 
 {{< picture consult 92 "Identifikation für die QES. Lass dich beraten und finde die passende Identifikations-Lösung für deine Firma." >}}
 
-{{% richtext %}}
+{{% markdown %}}
 **Hast du Fragen? <br class="hide-for-mobile">Wir helfen dir gerne telefonisch weiter.**
-{{% /richtext %}}
+{{% /markdown %}}
 {{< /cta >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)

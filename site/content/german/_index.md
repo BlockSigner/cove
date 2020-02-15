@@ -46,10 +46,10 @@ rechtsgültig nach dem Schweizer & EU Gesetz.
 {{< /content >}}
 
 {{< side-by-side >}}
-{{% richtext %}}
+{{% markdown %}}
 ## Dokumente als PDF hochladen
 Lade das signierbereite PDF-Dokument direkt via Browser hoch oder nutze Skribble via API aus deiner Unternehmenssoftware heraus.
-{{% /richtext %}}
+{{% /markdown %}}
 
 {{< picture image2 416 "Eine frau hält ein PDF dokument in den händen und lädt es hoch" >}}
 {{< /side-by-side >}}
@@ -59,21 +59,21 @@ Lade das signierbereite PDF-Dokument direkt via Browser hoch oder nutze Skribble
 {{< side-by-side >}}
 {{< picture image3 400 "Ein mann lädt zwei personen zum signieren ein" >}}
 
-{{% richtext %}}
+{{% markdown %}}
 ## Zum Signieren einladen
 Lade die signierenden Personen per E-Mail ein und lege die Signatur-Reihenfolge fest.
-{{% /richtext %}}
+{{% /markdown %}}
 {{< /side-by-side >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
 {{< side-by-side >}}
-{{% richtext %}}
+{{% markdown %}}
 ## Rechtsgültig signieren
 Signiere per Knopfdruck, unabhängig
 von Zeit und Ort, rechtsgültig nach Schweizer
 und EU-Recht.
-{{% /richtext %}}
+{{% /markdown %}}
 {{< picture image4 391 "Three people legally sign a document online" >}}
 {{< /side-by-side >}}
 
@@ -143,10 +143,10 @@ variieren punkto Einsatzgebiet und Beweiskraft.
   outlined="true"
 >}}
 
-{{% richtext %}}
+{{% markdown %}}
 **Auf Skribble kannst du zwischen
 den Signaturstandards FES und QES wählen.**
-{{% /richtext %}}
+{{% /markdown %}}
 {{< /cta >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
