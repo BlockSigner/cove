@@ -95,7 +95,7 @@ Eine Kanzlei kann auch dazu befähigt werden, selbst Personen zu identifizieren.
 {{< outro >}}
 {{< picture image8 414 "Ein mann steht mit einem riesen füller neben einem elektronischen dokument" >}}
 
-{{< richtext >}}
+{{< content >}}
 {{% markdown %}}
 # Jetzt rechtsgültig elektronisch signieren
 Erfahre mehr über das Angebot.
@@ -106,7 +106,7 @@ Erfahre mehr über das Angebot.
   "https://help.skribble.com/meetings/patrick182/call-mit-skribble"
   "_blank"
 >}}
-<a class="mobile-link" href="tel:+41445051664">
+<a class="mobile-link outro__link" href="tel:+41445051664">
   <svg version="1.1" id="Ebene_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 24 24" style="enable-background:new 0 0 24 24;" xml:space="preserve">
 		<path d="M21.5,10.5h2c0-5.5-4.5-10-10-10v2C17.9,2.5,21.5,6.1,21.5,10.5z M17.5,10.5h2c0-3.3-2.7-6-6-6v2
@@ -116,5 +116,5 @@ Erfahre mehr über das Angebot.
   </svg>
   +41 44 505 16 64
 </a>
-{{< /richtext >}}
+{{< /content >}}
 {{< /outro >}}
