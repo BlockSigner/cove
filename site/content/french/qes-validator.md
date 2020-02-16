@@ -38,7 +38,8 @@ Signature électronique qualifiée
 >}}
 {{< picture ch-logo 122 "Le logo de l’administration fédérale suisse" >}}
 {{% markdown %}}
-**Un service de l'Administration <br class="hide-for-mobile">fédérale suisse.**
+**Un service de l'Administration
+fédérale suisse.**
 {{% /markdown %}}
 {{< /cta >}}
 
@@ -50,7 +51,8 @@ Signature électronique qualifiée
 >}}
 {{< picture "qes-erklaert" 122 >}}
 {{% markdown %}}
-**Qu'est-ce que la signature <br class="hide-for-mobile">électronique qualifiée (SEQ)?**
+**Qu'est-ce que la signature
+électronique qualifiée (SEQ)?**
 {{% /markdown %}}
 {{< /cta >}}
 {{< /cta-group >}}

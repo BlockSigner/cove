@@ -28,9 +28,12 @@ par les certificats de salaire.
 ## Compléter le lot <br class="hide-for-mobile">avec une seule signature
 De nouveaux contrats de travail pour tous: le signataire autorisé ne signe plus des centaines de contrats à la main, mais les signe tous à la fois avec la signature par lots de Skribble.
 
-- **<small>Signature par lots pour un nombre <br class="hide-for-mobile">quelconque de contrats de travail</small>**
-- **<small>Inviter automatiquement les employés <br class="hide-for-mobile">à signer des contrats de travail par courriel</small>**
-- **<small>Vue d'ensemble de toutes les signatures <br class="hide-for-mobile">entrantes et sortantes</small>**
+- **Signature par lots pour un nombre
+quelconque de contrats de travail**
+- **Inviter automatiquement les employés
+à signer des contrats de travail par courriel**
+- **Vue d'ensemble de toutes les signatures
+entrantes et sortantes**
 
 {{% /markdown %}}
 {{< /side-by-side >}}
@@ -42,9 +45,11 @@ De nouveaux contrats de travail pour tous: le signataire autorisé ne signe plus
 ## Signature numérique <br class="hide-for-mobile">sans délai des candidats
 Une intégration efficace: vous avez plus de chances d'être choisi comme employeur et l'administration des RH devient plus facile, plus rapide et moins coûteuse.
 
-- **<small>Juridiquement valable pour tout type <br class="hide-for-mobile">de contrat de travail</small>**
-- **<small>Pas de perte de temps due à l'envoi postal</small>**
-- **<small>Notifier automatiquement la signature <br class="hide-for-mobile">du contrat de travail</small>**
+- **Juridiquement valable pour tout type
+de contrat de travail**
+- **Pas de perte de temps due à l'envoi postal**
+- **Notifier automatiquement la signature
+du contrat de travail**
 
 {{% /markdown %}}
 {{< picture candidate-sign-digital 392 "Une femme s'assoit sur une chaise longue et signe un contrat sur sa tablette." >}}
@@ -58,9 +63,12 @@ Une intégration efficace: vous avez plus de chances d'être choisi comme employ
 ## Habiliter les employés <br class="hide-for-mobile">pour plus d'efficacité
 Facilitateur de la numérisation: les RH permettent au personnel de signer électroniquement et de faire face au travail quotidien avec moins de bureaucratie.
 
-- **<small>Traitement numérique des rapports <br class="hide-for-mobile">de travail, des licenciements, des demandes, etc.</small>**
-- **<small>Obtenir les signatures des signataires <br class="hide-for-mobile">autorisés par courriel</small>**
-- **<small>Télécharger les contrats prêts<br class="hide-for-mobile"> pour l'archivage au format PDF X/A reconnu</small>**
+- **Traitement numérique des rapports
+de travail, des licenciements, des demandes, etc.**
+- **Obtenir les signatures des signataires
+autorisés par courriel**
+- **Télécharger les contrats prêt
+ pour l'archivage au format PDF X/A reconnu**
 
 {{% /markdown %}}
 {{< /side-by-side >}}
@@ -72,9 +80,10 @@ Facilitateur de la numérisation: les RH permettent au personnel de signer élec
 ## Aucun nouveau logiciel requis
 Restez avec des outils familiers: signez à partir de vos programmes existants, par exemple Google Drive, One Drive, Drop Box ou Secure Safe. (A venir fin 2019)
 
-- **<small>Signer directement via le navigateur</small>**
-- **<small>Intégrer Skribble en tant que plug-in dans SAP <br class="hide-for-mobile">et d'autres solutions sectorielles</small>**
-- **<small>Intégrer parfaitement via des API modernes</small>**
+- **Signer directement via le navigateur**
+- **Intégrer Skribble en tant que plug-in dans SAP
+et d'autres solutions sectorielles**
+- **Intégrer parfaitement via des API modernes**
 
 {{% /markdown %}}
 {{< picture integrations 381 "Signez directement dans vos logiciels RH" >}}
@@ -178,7 +187,8 @@ et laissez-nous vous identifier**
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
 {{< testimonial "testimonial/procivis-146w.png" "Daniel Gasteiger, Fondateur et CEO de Procivis (eID+)" >}}
-"La signature électronique des documents devient une fonction essentielle <br class="hide-for-mobile">des identités numériques de confiance."
+"La signature électronique des documents devient une fonction essentielle
+des identités numériques de confiance."
 {{< /testimonial >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)

@@ -120,7 +120,11 @@ Pas uniquement. Grâce à la signature visuelle, on peut voir sur le contrat imp
 {{% /collapsible %}}
 
 {{% collapsible 1 "Pourquoi dois-je être identifié?" %}}
-Avec Skribble vous signez avec la signature électronique qualifiée (SEQ). <br class="hide-for-mobile">Il s'agit de la norme de signature électronique la plus élevée. Pour cela, <br class="hide-for-mobile">la loi exige un contrôle d'identité avec un contact personnel. Les exceptions <br class="hide-for-mobile">sont les intermédiaires financiers qui sont autorisés à effectuer <br class="hide-for-mobile">une vérification d'identité par identification vidéo.
+Avec Skribble vous signez avec la signature électronique qualifiée (SEQ).
+Il s'agit de la norme de signature électronique la plus élevée. Pour cela,
+la loi exige un contrôle d'identité avec un contact personnel. Les exceptions
+sont les intermédiaires financiers qui sont autorisés à effectuer
+une vérification d'identité par identification vidéo.
 {{% /collapsible %}}
 {{< /content >}}
 

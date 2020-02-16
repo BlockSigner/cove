@@ -98,7 +98,8 @@ und EU-Recht.
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
 {{< testimonial "testimonial/fr-logo-99w.svg" "Stéphane Schwab, Leiter E-Government, Kanton Freiburg" >}}
-"Dank Skribble können wir Administrationsprozesse von A bis Z digitalisieren. Das erleichtert <br class="hide-for-mobile">den Alltag für uns und unseren Kunden." {{< /testimonial >}}
+"Dank Skribble können wir Administrationsprozesse von A bis Z digitalisieren. Das erleichtert
+den Alltag für uns und unseren Kunden." {{< /testimonial >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 

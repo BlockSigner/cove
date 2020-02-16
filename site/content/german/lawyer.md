@@ -27,9 +27,12 @@ mit dem höchsten verfügbaren E-Signatur-Standard (QES).
 ## Alle Vertragsparteien <br class="hide-for-mobile">signieren digital
 Mehrere Vertragsparteien: Statt Verträge per Post von einer Person zur nächsten zu schicken, signieren alle zeitsparend online.
 
-- **<small>Per E-Mail automatisiert <br class="hide-for-mobile">zum Signieren einladen</small>**
-- **<small>Übersicht über alle eingegangenen <br class="hide-for-mobile">und ausstehenden Signaturen</small>**
-- **<small>Automatisch benachrichtigt werden, <br class="hide-for-mobile">wenn der Vertrag signiert wurde</small>**
+- **Per E-Mail automatisiert
+zum Signieren einladen**
+- **Übersicht über alle eingegangenen
+und ausstehenden Signaturen**
+- **Automatisch benachrichtigt werden,
+wenn der Vertrag signiert wurde**
 
 {{% /markdown %}}
 {{< /side-by-side >}}
@@ -41,9 +44,11 @@ Mehrere Vertragsparteien: Statt Verträge per Post von einer Person zur nächste
 ## Erledige den Stapel <br class="hide-for-mobile">mit nur einer Signatur
 Digitale Unterschriftsmappe: Sammle deine Verträge digital und signiere sie gleichzeitig mit wenigen Klicks. Einen USB-Stick oder Card-Reader brauchst du trotz QES-Standard nicht.
 
-- **<small>Stapelsignatur für beliebige <br class="hide-for-mobile">Anzahl Verträge</small>**
-- **<small>Zwei-Faktor-Authentifizierung via Handy – <br class="hide-for-mobile">keine externe Hardware erforderlich</small>**
-- **<small>Unabhängig von Zeit und Ort</small>**
+- **Stapelsignatur für beliebige
+Anzahl Verträge**
+- **Zwei-Faktor-Authentifizierung via Handy –
+keine externe Hardware erforderlich**
+- **Unabhängig von Zeit und Ort**
 
 {{% /markdown %}}
 {{< picture batch-process 380 "Ein Stappel Dokumente werden mit einem Klick signiert" >}}
@@ -57,9 +62,10 @@ Digitale Unterschriftsmappe: Sammle deine Verträge digital und signiere sie gle
 ## Eingaben bei Behörden <br class="hide-for-mobile">machst du online
 Von Änderungen am Handelsregister bis Gerichtseingaben: Das Ausdrucken, Versenden und Einscannen entfällt.
 
-- **<small>Nahtlose Integration in PrivaSphere (folgt bald)</small>**
-- **<small>Anerkannt für die Kommunikation zwischen <br class="hide-for-mobile">Kanzleien und Behörden/Gerichten in der Schweiz</small>**
-- **<small>Zeit und Geld sparen</small>**
+- **Nahtlose Integration in PrivaSphere (folgt bald)**
+- **Anerkannt für die Kommunikation zwischen
+Kanzleien und Behörden/Gerichten in der Schweiz**
+- **Zeit und Geld sparen**
 
 {{% /markdown %}}
 {{< /side-by-side >}}
@@ -71,9 +77,10 @@ Von Änderungen am Handelsregister bis Gerichtseingaben: Das Ausdrucken, Versend
 ## Keine neue Software notwendig
 Bei gewohnten Tools bleiben: Signiere direkt über den Browser oder aus deiner bestehenden Software heraus.
 
-- **<small>Direkt über den Browser signieren</small>**
-- **<small>Skribble als Plug-in in Branchen-Software-<br class="hide-for-mobile">Lösungen einbinden</small>**
-- **<small>Nahtlose Integration via moderne APIs</small>**
+- **Direkt über den Browser signieren**
+- **Skribble als Plug-in in Branchen-Software-
+Lösungen einbinden**
+- **Nahtlose Integration via moderne APIs**
 
 {{% /markdown %}}
 {{< picture crm-systeme-lawyer 421 "Signiere aus deinen gewohnten Tools heraus, beispielsweise WinJur oder Vertec. " >}}
@@ -112,7 +119,8 @@ Wie wir den Alltag unserer Kunden erleichtern.
 {{< /content >}}
 
 {{< testimonial "testimonial/altenburger-logo-202w.svg" " Roland Köchli, Partner Altenburger Legal + Tax" >}}
-„Die Anwendung von Skribble bringt uns <br class="hide-for-mobile">der kompletten Digitalisierung von Prozessen einen riesigen Schritt näher."
+„Die Anwendung von Skribble bringt uns
+der kompletten Digitalisierung von Prozessen einen riesigen Schritt näher."
 {{< /testimonial >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)

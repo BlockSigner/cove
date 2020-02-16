@@ -48,7 +48,9 @@ qui allie sécurité technologique et simplicité.
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
 {{< testimonial "testimonial/softcom-logo-108w.png" "Rémy Tzaud, PDG de Softcom" >}}
-"Nous avons intégré l'API pour le canton <br class="hide-for-mobile">de Fribourg en une demi-journée. <br class="hide-for-mobile">L'API de Skribble ne laisse rien à désirer."
+"Nous avons intégré l'API pour le canton
+de Fribourg en une demi-journée.
+L'API de Skribble ne laisse rien à désirer."
 {{< /testimonial >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
@@ -90,7 +92,9 @@ qui allie sécurité technologique et simplicité.
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
 {{< testimonial "testimonial/swissmade-logo-300w.png" "" >}}
-Skribble porte le label <br class="hide-for-mobile"><a href="https://www.swissmadesoftware.org/en/home/home.html" target="_blank" class="text-decoration: none;">Swiss made Software</a>, qui est synonyme <br class="hide-for-mobile">de qualité, de fiabilité et de précision dans le développement de logiciels.
+Skribble porte le label
+<a href="https://www.swissmadesoftware.org/en/home/home.html" target="_blank" class="text-decoration: none;">Swiss made Software</a>, qui est synonyme
+de qualité, de fiabilité et de précision dans le développement de logiciels.
 {{< /testimonial >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
@@ -98,7 +102,8 @@ Skribble porte le label <br class="hide-for-mobile"><a href="https://www.swissma
 {{< content text=center top=12 width=narrow >}}
 {{% markdown %}}
 # Essayez l'API
-Vous pouvez créer une clé de démonstration <br class="hide-for-mobile">dans votre compte Skribble Business.
+Vous pouvez créer une clé de démonstration
+dans votre compte Skribble Business.
 {{% /markdown %}}
 {{< /content >}}
 
@@ -118,7 +123,8 @@ Vous pouvez créer une clé de démonstration <br class="hide-for-mobile">dans v
 
 {{% markdown %}}
 **Documentation API**<br>
-Consultez notre documentation API.<br class="hide-for-mobile">(en Anglais)
+Consultez notre documentation API.
+(en Anglais)
 {{% /markdown %}}
 {{< /cta >}}
 {{< /cta-group >}}

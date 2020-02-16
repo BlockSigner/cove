@@ -11,7 +11,8 @@ og_image: og/og-skribble-identification.jpg
 {{< content text=center top=12 width=narrow >}}
 {{% markdown %}}
 # Contrôle d'identité pour la SEQ
-Pour la signature électronique qualifiée (SEQ), <br class="hide-for-mobile">le signataire doit prouver son identité. Skribble vous aidera.
+Pour la signature électronique qualifiée (SEQ),
+le signataire doit prouver son identité. Skribble vous aidera.
 {{% /markdown %}}
 {{< /content >}}
 
@@ -33,7 +34,8 @@ Pour la signature électronique qualifiée (SEQ), <br class="hide-for-mobile">le
 {{< content text=center top=12 width=narrow >}}
 {{% markdown %}}
 # Utiliser une e-ID existante
-Les personnes qui ont une e-ID vérifiée peuvent signer avec SEQ <br class="hide-for-mobile">sur Skribble sans contrôle d'identité supplémentaire.
+Les personnes qui ont une e-ID vérifiée peuvent signer avec SEQ
+sur Skribble sans contrôle d'identité supplémentaire.
 {{% /markdown %}}
 {{< /content >}}
 
@@ -43,7 +45,8 @@ Les personnes qui ont une e-ID vérifiée peuvent signer avec SEQ <br class="hid
 {{% markdown %}}
 Un nombre croissant de personnes en Europe a une identité électronique vérifiée (e-ID). Skribble les relie. Des millions d'utilisateurs peuvent commencer à signer avec SEQ immédiatement.
 
-**Les personnes qui se connectent avec une e-ID  <br class="hide-for-mobile">activent automatiquement la SEQ.**
+**Les personnes qui se connectent avec une e-ID
+activent automatiquement la SEQ.**
 {{% /markdown %}}
 {{< /content >}}
 
@@ -65,14 +68,16 @@ Un nombre croissant de personnes en Europe a une identité électronique vérifi
 
 {{% markdown %}}
 **Identification pour la SEQ**
-Laissez-nous vous conseiller et trouvez <br class="hide-for-mobile">la solution d'identification idéale pour votre entreprise.
+Laissez-nous vous conseiller et trouvez
+la solution d'identification idéale pour votre entreprise.
 {{% /markdown %}}
 {{< /cta >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
 {{< testimonial "testimonial/e-forsight-146w.png" "Think tank e-foresight" >}}
-"Comme aucune norme sur l'e-ID n'est encore émergente en Suisse, compatibilité des identités numériques est essentielle pour minimiser le risque d'investissement <br class="hide-for-mobile">à perte." {{< /testimonial >}}
+"Comme aucune norme sur l'e-ID n'est encore émergente en Suisse, compatibilité des identités numériques est essentielle pour minimiser le risque d'investissement
+à perte." {{< /testimonial >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 

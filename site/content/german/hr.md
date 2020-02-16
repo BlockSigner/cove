@@ -12,7 +12,8 @@ og_image: og/og-skribble-identification.jpg
 {{< content text=center top=12 width=narrow >}}
 {{% markdown %}}
 # Elektronisch signieren im HR
-Mit Skribble signierst du rechtssicher und einfach auf digitalem Weg – <br class="hide-for-mobile">von Arbeitsverträgen über Zeugnisse bis hin zu Lohnausweisen.
+Mit Skribble signierst du rechtssicher und einfach auf digitalem Weg –
+von Arbeitsverträgen über Zeugnisse bis hin zu Lohnausweisen.
 {{% /markdown %}}
 {{< /content >}}
 
@@ -26,9 +27,12 @@ Mit Skribble signierst du rechtssicher und einfach auf digitalem Weg – <br cla
 ## Erledige den Stapel <br class="hide-for-mobile">mit nur einer Signatur
 Neue Arbeitsverträge für alle: der Unterschriftsberechtigte unterzeichnet nicht mehr hunderte Verträge von Hand, sondern signiert alle auf einmal mit der Stapelsignatur von Skribble.
 
-- **<small>Stapelsignatur für beliebige <br class="hide-for-mobile">Anzahl Arbeitsverträge</small>**
-- **<small>Per E-Mail automatisiert zum Signieren <br class="hide-for-mobile">der Arbeitsverträge einladen</small>**
-- **<small>Übersicht über alle eingegangenen <br class="hide-for-mobile"> und ausstehenden Signaturen</small>**
+- **Stapelsignatur für beliebige
+Anzahl Arbeitsverträge**
+- **Per E-Mail automatisiert zum Signieren
+der Arbeitsverträge einladen**
+- **Übersicht über alle eingegangenen
+ und ausstehenden Signaturen**
 
 {{% /markdown %}}
 {{< /side-by-side >}}
@@ -40,9 +44,10 @@ Neue Arbeitsverträge für alle: der Unterschriftsberechtigte unterzeichnet nich
 ## Kandidaten signieren <br class="hide-for-mobile">ohne Verzögerung digital
 Effizientes Onboarding: Du hast bessere Chancen, als Arbeitgeber gewählt zu werden und die HR-Administration wird einfacher, schneller und günstiger.
 
-- **<small>Rechtsgültig für jede Art Arbeitsvertrag</small>**
-- **<small>Kein Zeitverlust durch Postversand</small>**
-- **<small>Automatisiert benachrichtigt werden, <br class="hide-for-mobile">wenn der Arbeitsvertrag signiert wurde</small>**
+- **Rechtsgültig für jede Art Arbeitsvertrag**
+- **Kein Zeitverlust durch Postversand**
+- **Automatisiert benachrichtigt werden,
+wenn der Arbeitsvertrag signiert wurde**
 {{% /markdown %}}
 {{< picture candidate-sign-digital 392 "Eine Frau sitzt auf einem Liegestuhl und unterzeichnet auf ihrem Tablet einen Vertrag" >}}
 {{< /side-by-side >}}
@@ -55,9 +60,12 @@ Effizientes Onboarding: Du hast bessere Chancen, als Arbeitgeber gewählt zu wer
 ## Befähige Mitarbeitende <br class="hide-for-mobile">zu mehr Effizienz
 Digitalisierungs-Enabler: Die Belegschaft wird durch das HR zum elektronischen Signieren befähigt und kann den Arbeitsalltag mit weniger Bürokratie bestreiten.
 
-- **<small>Arbeitsrapports, Kündigungen, Anträge <br class="hide-for-mobile">u. Ä. digital abwickeln</small>**
-- **<small>Signaturen von Zeichnungsberechtigten <br class="hide-for-mobile">via E-Mail abholen</small>**
-- **<small>Verträge archivierbereit downloaden <br class="hide-for-mobile">im anerkannten PDF X/A-Format</small>**
+- **Arbeitsrapports, Kündigungen, Anträge
+u. Ä. digital abwickeln**
+- **Signaturen von Zeichnungsberechtigten
+via E-Mail abholen**
+- **Verträge archivierbereit downloaden
+im anerkannten PDF X/A-Format**
 {{% /markdown %}}
 {{< /side-by-side >}}
 
@@ -68,9 +76,9 @@ Digitalisierungs-Enabler: Die Belegschaft wird durch das HR zum elektronischen S
 ## Keine neue Software notwendig
 Bei gewohnten Tools bleiben: Signiere direkt über den Browser oder aus deiner bestehenden Software heraus. (Kommt Ende 2019)
 
-- **<small>Direkt über den Browser signieren</small>**
-- **<small>Skribble als Plug-in in SAP und anderen Branchenlösungen einbinden</small>**
-- **<small>Nahtlose Integration via moderne APIs</small>**
+- **Direkt über den Browser signieren**
+- **Skribble als Plug-in in SAP und anderen Branchenlösungen einbinden**
+- **Nahtlose Integration via moderne APIs**
 
 {{% /markdown %}}
 {{< picture integrations 381 "Verbindung der unterschiedlichen Beteiligten bei Gebrauch von Skribble aus einem HRM visuell dargestellt" >}}
@@ -146,7 +154,8 @@ variieren punkto Einsatzgebiet und Beweiskraft.
 >}}
 
 {{% markdown %}}
-**Auf Skribble kannst du zwischen <br class="hide-for-mobile">den Signaturstandards FES und QES wählen.**
+**Auf Skribble kannst du zwischen
+den Signaturstandards FES und QES wählen.**
 {{% /markdown %}}
 {{< /cta >}}
 
@@ -166,7 +175,8 @@ Du benötigst nur ein gültiges Reisedokument (ID oder Pass).
 
 >}}
 {{% markdown %}}
-**Wähle einen Termin <br class="hide-for-mobile">aus und lass dich identifizieren**
+**Wähle einen Termin
+aus und lass dich identifizieren**
 {{% /markdown %}}
 {{< /cta >}}
 

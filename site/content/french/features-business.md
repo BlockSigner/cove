@@ -13,7 +13,8 @@ og_image: og/og-skribble-identification.jpg
 {{< content text=center top=12 width=narrow >}}
 {{% markdown %}}
 # Fonctionnalités Business
-Les clients Skribble Business signent comme un groupe - <br class="hide-for-mobile">avec une administration centrale des membres et une facturation commune.
+Les clients Skribble Business signent comme un groupe -
+avec une administration centrale des membres et une facturation commune.
 {{% /markdown %}}
 {{< /content >}}
 
@@ -72,7 +73,8 @@ L'intégration des nouveaux signataires est intuitive et rapide.
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
 {{< testimonial "testimonial/fr-logo-99w.svg" "Stéphane Schwab, Chef de E-Gouvernement du canton de Fribourg" >}}
-"Grâce à Skribble, nous pouvons numériser les processus administratifs de A à Z. <br class="hide-for-mobile">Cela facilite notre vie quotidienne et celle de nos clients." {{< /testimonial >}}
+"Grâce à Skribble, nous pouvons numériser les processus administratifs de A à Z.
+Cela facilite notre vie quotidienne et celle de nos clients." {{< /testimonial >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 

@@ -11,7 +11,9 @@ og_image: og/og-skribble-identification.jpg
 {{< content text=center top=12 width=narrow >}}
 {{% markdown %}}
 # Identitätsprüfung für die QES
-Für das Signieren mit höchstem E-Signatur-Standard (QES) müssen <br class="hide-for-mobile">die Unterzeichnenden ihre Identität prüfen lassen. <br class="hide-for-mobile">Das ist via E-ID oder mit unserem Identifikationsservice möglich.
+Für das Signieren mit höchstem E-Signatur-Standard (QES) müssen
+die Unterzeichnenden ihre Identität prüfen lassen.
+Das ist via E-ID oder mit unserem Identifikationsservice möglich.
 {{% /markdown %}}
 {{< /content >}}
 
@@ -26,7 +28,8 @@ Für das Signieren mit höchstem E-Signatur-Standard (QES) müssen <br class="hi
   outlined="true"
 >}}
 {{% markdown %}}
-**Identitätsprüfung für die QES – <br class="hide-for-mobile">Skribble macht es einfach**
+**Identitätsprüfung für die QES –
+Skribble macht es einfach**
 {{% /markdown %}}
 {{< /cta >}}
 
@@ -35,7 +38,8 @@ Für das Signieren mit höchstem E-Signatur-Standard (QES) müssen <br class="hi
 {{< content text=center top=12 width=narrow >}}
 {{% markdown %}}
 # Bestehende E-ID nutzen
-Personen, die über eine geprüfte E-ID verfügen, können auf Skribble <br class="hide-for-mobile">ohne zusätzliche Identitätsprüfung rechtsgültig signieren.
+Personen, die über eine geprüfte E-ID verfügen, können auf Skribble
+ohne zusätzliche Identitätsprüfung rechtsgültig signieren.
 {{% /markdown %}}
 {{< /content >}}
 
@@ -74,7 +78,9 @@ Lass dich beraten und finde die passende Identifikations-Lösung für deine Firm
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
 {{< testimonial "testimonial/e-forsight-146w.png" "e-foresight Think Tank" >}}
-"Da sich noch kein Standard betreffend <br class="hide-for-mobile">der E-ID in der Schweiz abzeichnet, ist <br class="hide-for-mobile">die Interoperabilität der digitalen Identitäten essentiell, um das Risiko von Investitionsruinen zu minimieren." {{< /testimonial >}}
+"Da sich noch kein Standard betreffend
+der E-ID in der Schweiz abzeichnet, ist
+die Interoperabilität der digitalen Identitäten essentiell, um das Risiko von Investitionsruinen zu minimieren." {{< /testimonial >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
@@ -97,10 +103,11 @@ Wer über keine E-ID verfügt, kann die Identifikation mit Hilfe von Skribble du
   "_blank"
   "outline"
 %}}
-**Wir** identifizieren<br class="hide-for-mobile">
+**Wir** identifizieren
 die Signierenden.
 
-Passend, wenn du die QES <br class="hide-for-mobile">in einem vordefinierten Personenkreis einsetzt.
+Passend, wenn du die QES
+in einem vordefinierten Personenkreis einsetzt.
 {{% /plan %}}
 {{% plan
   purple
@@ -111,10 +118,12 @@ Passend, wenn du die QES <br class="hide-for-mobile">in einem vordefinierten Per
   "_blank"
   "outline"
 %}}
-**Du** identifizierst<br class="hide-for-mobile">
+**Du** identifizierst
 die Signierenden.
 
-Passend, wenn laufend <br class="hide-for-mobile">neue Signierende <br class="hide-for-mobile">hinzukommen.
+Passend, wenn laufend
+neue Signierende
+hinzukommen.
 {{% /plan %}}
 {{< /row >}}
 
@@ -127,7 +136,8 @@ Passend, wenn laufend <br class="hide-for-mobile">neue Signierende <br class="hi
 {{< picture consult 92 "Identifikation für die QES. Lass dich beraten und finde die passende Identifikations-Lösung für deine Firma." >}}
 
 {{% markdown %}}
-**Hast du Fragen? <br class="hide-for-mobile">Wir helfen dir gerne telefonisch weiter.**
+**Hast du Fragen?
+Wir helfen dir gerne telefonisch weiter.**
 {{% /markdown %}}
 {{< /cta >}}
 

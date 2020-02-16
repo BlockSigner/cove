@@ -90,7 +90,8 @@ die technologische Sicherheit und Einfachheit vereint.
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
 {{< testimonial "testimonial/swissmade-logo-300w.png" "" >}}
-Skribble trägt das Label <br class="hide-for-mobile"><a href="https://www.swissmadesoftware.org/" target="_blank" class="text-decoration: none;">Swiss made Software</a>, das für Qualität, Zuverlässigkeit und Präzision in der Software-Entwicklung steht.
+Skribble trägt das label
+<a href="https://www.swissmadesoftware.org/" target="_blank" class="text-decoration: none;">Swiss made Software</a>, das für Qualität, Zuverlässigkeit und Präzision in der Software-Entwicklung steht.
 {{< /testimonial >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
@@ -118,7 +119,8 @@ In deinem Skribble Business Konto kannst du einen Demo-Schlüssel erstellen.
 
 {{% markdown %}}
 **API-Dokumentation**<br>
-Schau dir unsere API-Dokumentation an.<br class="hide-for-mobile">(auf Englisch)
+Schau dir unsere API-Dokumentation an.
+(auf Englisch)
 {{% /markdown %}}
 {{< /cta >}}
 {{< /cta-group >}}

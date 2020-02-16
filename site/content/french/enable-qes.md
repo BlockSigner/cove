@@ -22,7 +22,8 @@ en vous identifiant par contact personnel avec l'ID-app de Swisscom.
 {{< picture "identification-step-1" 252 "Une loupe grossit l'image d'un homme dans un col" >}}
 {{% markdown %}}
 **Etape 1**
-Prenez un rendez-vous d'identification <br class="hide-for-mobile">et passez en personne.
+Prenez un rendez-vous d'identification
+et passez en personne.
 {{% /markdown %}}
 {{< /step >}}
 
@@ -63,7 +64,8 @@ La force probante de votre signature est portée à 100% (niveau SEQ)
 
 {{< content top=6 width=narrow >}}
 {{% collapsible 1 "Que m'apporte l'identification?" %}}
-Sur Skribble, vous avez la possibilité de signer avec [la plus haute norme de signature électronique](/fr/normessignature) disponible: la signature électronique qualifiée (SEQ). <br class="hide-for-mobile">Elle a une force probante de 100% et peut être utilisée pour les contrats qui nécessitent la forme écrite. Pour la SEQ, la loi exige un contrôle d'identité.
+Sur Skribble, vous avez la possibilité de signer avec [la plus haute norme de signature électronique](/fr/normessignature) disponible: la signature électronique qualifiée (SEQ).
+Elle a une force probante de 100% et peut être utilisée pour les contrats qui nécessitent la forme écrite. Pour la SEQ, la loi exige un contrôle d'identité.
 {{% /collapsible %}}
 
 {{% collapsible 2 "Dois-je être identifié à nouveau avant chaque signature SEQ?" %}}
@@ -71,11 +73,13 @@ Non. Votre e-ID est valable 5 ans ou jusqu'à l'expiration de la pièce d'identi
 {{% /collapsible %}}
 
 {{% collapsible 3 "Quels documents d'identité puis-je utiliser pour l'identification ?" %}}
-Un passeport ou une carte d'identité en cours de validité. Toutes les autres formes d'identification telles que le permis de séjour ou le permis de conduire <br class="hide-for-mobile">ne sont pas suffisantes.
+Un passeport ou une carte d'identité en cours de validité. Toutes les autres formes d'identification telles que le permis de séjour ou le permis de conduire
+ne sont pas suffisantes.
 {{% /collapsible %}}
 
 {{% collapsible 4 "Où sont stockées les données des personnes identifiées?" %}}
-Les données collectées sont stockées sur les serveurs haute sécurité <br class="hide-for-mobile">de Swisscom en Suisse (certification Tier IV).
+Les données collectées sont stockées sur les serveurs haute sécurité
+de Swisscom en Suisse (certification Tier IV).
 {{% /collapsible %}}
 
 {{% collapsible 5 "Le QSE nécessite-t-elle un Mobile ID?" %}}

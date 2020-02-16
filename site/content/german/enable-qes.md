@@ -41,7 +41,8 @@ Wir scannen und prüfen deinen Ausweis mit der ID-App von Swisscom.
 {{< picture "identification-step-3" 270 "Ein mann der erfolgreich elektronisch identifiziert ist" >}}
 {{% markdown %}}
 **Schritt 3**
-Swisscom verifiziert deine Daten <br class="hide-for-mobile">und legt sie sicher ab.
+Swisscom verifiziert deine Daten
+und legt sie sicher ab.
 {{% /markdown %}}
 {{< /step >}}
 

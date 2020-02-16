@@ -12,7 +12,8 @@ og_image: og/og-skribble-identification.jpg
 {{< content text=center top=12 width=narrow >}}
 {{% markdown %}}
 # Business-Features
-Skribble Business Kunden signieren als Organisation – <br class="hide-for-mobile">mit zentraler Mitgliederverwaltung und gemeinsamer Abrechnung.
+Skribble Business Kunden signieren als Organisation –
+mit zentraler Mitgliederverwaltung und gemeinsamer Abrechnung.
 {{% /markdown %}}
 {{< /content >}}
 

@@ -108,7 +108,9 @@ Alle Signierenden werden im Voraus identifziert. Während dem Signieren bestäti
 {{% /collapsible %}}
 
 {{% collapsible 12 "Ist das Signieren mit Skribble rechtssicher?" %}}
-Ja. Skribble basiert auf der qualifizierten elektronischen Signatur (QES). <br class="hide-for-mobile">Die QES ist die einzige Form der elektronischen Signatur, welche der handschriftlichen Signatur vor Schweizer (Art. 14 2bis OR) und EU-Gesetz <br class="hide-for-mobile">(Art. 25 (2) eIDAS) gleichgestellt ist.
+Ja. Skribble basiert auf der qualifizierten elektronischen Signatur (QES).
+Die QES ist die einzige Form der elektronischen Signatur, welche der handschriftlichen Signatur vor Schweizer (Art. 14 2bis OR) und EU-Gesetz
+(Art. 25 (2) eIDAS) gleichgestellt ist.
 {{% /collapsible %}}
 
 {{% collapsible 13 "Kann ich den digital signierten Vertrag in Papierform aufbewahren?" %}}
@@ -116,7 +118,8 @@ Nicht ausschliesslich. Dank der visuellen Signatur ist auf dem ausgedruckten Ver
 {{% /collapsible %}}
 
 {{% collapsible 1 "Warum muss ich mich identifizieren lassen?" %}}
-Bei Skribble signierst du mit der qualifizierten elektronischen Signatur (QES). <br class="hide-for-mobile">Das ist der höchste E-Signatur-Standard. Für diesen verlangt das Gesetz eine Identitätsprüfung im persönlichen Kontakt. Ausnahme bilden Finanzintermediäre, welche die Identitiätsprüfung mittels Video-Identifikation vornehmen dürfen.
+Bei Skribble signierst du mit der qualifizierten elektronischen Signatur (QES).
+Das ist der höchste E-Signatur-Standard. Für diesen verlangt das Gesetz eine Identitätsprüfung im persönlichen Kontakt. Ausnahme bilden Finanzintermediäre, welche die Identitiätsprüfung mittels Video-Identifikation vornehmen dürfen.
 {{% /collapsible %}}
 {{< /content >}}
 
