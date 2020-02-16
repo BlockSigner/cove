@@ -435,7 +435,6 @@ To show component outlines and component labels, add the following styling to `m
 .table-wrapper {@include outline(table-wrapper, darkorchid);}
 .logos-container {@include outline(logos-container, indianred);}
 .testimonial {@include outline(testimonial, deepskyblue);}
-.headline {@include outline(headline, cadetblue);}
 .markdown {@include outline(markdown, powderblue, 45deg, black);}
 .features-container {@include outline(features-container, darkkhaki);}
 .action-card {@include outline(action-card, limegreen);}
