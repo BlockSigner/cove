@@ -197,6 +197,19 @@ img {
       padding-bottom: #{2 * $i}px;
     }
   }
+  // Explicitly stated mobile spacing classes overwrite the default classes
+  .ptm-#{$i},
+  [class*="pt-"].ptm-#{$i} {
+    @include max-width {
+      padding-top: #{2 * $i}px;
+    }
+  }
+  .pbm-#{$i},
+  [class*="pb-"].pbm-#{$i} {
+    @include max-width {
+      padding-bottom: #{2 * $i}px;
+    }
+  }
 }
 
 // Width classes

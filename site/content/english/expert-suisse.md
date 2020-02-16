@@ -20,7 +20,7 @@ Easily handle digital signature processes – legally binding in accordance with
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< side-by-side >}}
+{{< side-by-side top=24 bottom=12 img=image4 mobile-top=12 mobile-bottom=6 img-width=391 img-position=right img-alt="Three people legally sign an online document together" >}}
 {{% markdown %}}
 ## The qualified electronic signature is simple, intuitive and efficient with Skribble.
 - **No external hardware required**
@@ -30,15 +30,11 @@ Sign multiple documents with one click (batch signature)
 - **Time-saving coordination**
 Invite and remind to sign by e-mail
 {{% /markdown %}}
-
-{{< picture image4 391 "Three people legally sign an online document together" >}}
 {{< /side-by-side >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< side-by-side >}}
-{{< picture image5 430 "A person holds a legal document in their hands. The Swisscom logo is in the background" >}}
-
+{{< side-by-side top=12 bottom=24 mobile-top=6 mobile-bottom=12 img=image5 img-width=430 img-alt="A person holds a legal document in their hands. The Swisscom logo is in the background" >}}
 {{% markdown %}}
 ## Skribble meets the highest legal and technological standards
 - **ZertEs & eIDAS**
@@ -52,7 +48,7 @@ FINMA-compliant, ISO 27001 certified
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< content text=center top=12 bottom=18 width=narrow >}}
+{{< content text=center top=12 bottom=12 width=narrow >}}
 {{% markdown %}}
 # Free signing with Skribble
 until the end of the year for EXPERTsuisse members. As of January 2020
@@ -69,9 +65,7 @@ Exclusively for EXPERTsuisse members:
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< side-by-side >}}
-{{< picture identification 482 "The identity of a woman standing in a mobile phone is verified by two persons" >}}
-
+{{< side-by-side top=12 bottom=24 img=identification img-width=482 img-position=right img-alt="The identity of a woman standing in a mobile phone is verified by two persons" >}}
 {{% markdown %}}
 # Ready to sign in 5 minutes
 
@@ -82,14 +76,11 @@ All you need is a mobile phone and a valid identification document (passport or 
 - **You're ready to sign right away**
 
 A firm may also elect to identify persons itself.
-
-[//]: # (--TODO:-------------------------------------------------------------------------------------------------------)
+{{% /markdown %}}
 {{< intro-partner
   "image/swisscom.png"
   "Official identification partner of Swisscom"
 >}}
-
-{{% /markdown %}}
 {{< /side-by-side >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)

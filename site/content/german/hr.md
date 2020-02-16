@@ -21,8 +21,7 @@ von Arbeitsverträgen über Zeugnisse bis hin zu Lohnausweisen.
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< side-by-side >}}
-{{< picture batch-signature 367 "Drei Verträge werden mit dem Stapelverfahren signiert" >}}
+{{< side-by-side top=24 bottom=12 img=batch-signature mobile-top=12 mobile-bottom=6 img-width=367 img-alt="Drei Verträge werden mit dem Stapelverfahren signiert" >}}
 {{% markdown %}}
 ## Erledige den Stapel <br class="hide-for-mobile">mit nur einer Signatur
 Neue Arbeitsverträge für alle: der Unterschriftsberechtigte unterzeichnet nicht mehr hunderte Verträge von Hand, sondern signiert alle auf einmal mit der Stapelsignatur von Skribble.
@@ -33,13 +32,12 @@ Anzahl Arbeitsverträge**
 der Arbeitsverträge einladen**
 - **Übersicht über alle eingegangenen
  und ausstehenden Signaturen**
-
 {{% /markdown %}}
 {{< /side-by-side >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< side-by-side >}}
+{{< side-by-side top=12 bottom=12 mobile-top=6 mobile-bottom=6 img=candidate-sign-digital img-position=right img-width=392 img-alt="Eine Frau sitzt auf einem Liegestuhl und unterzeichnet auf ihrem Tablet einen Vertrag" >}}
 {{% markdown %}}
 ## Kandidaten signieren <br class="hide-for-mobile">ohne Verzögerung digital
 Effizientes Onboarding: Du hast bessere Chancen, als Arbeitgeber gewählt zu werden und die HR-Administration wird einfacher, schneller und günstiger.
@@ -49,13 +47,11 @@ Effizientes Onboarding: Du hast bessere Chancen, als Arbeitgeber gewählt zu wer
 - **Automatisiert benachrichtigt werden,
 wenn der Arbeitsvertrag signiert wurde**
 {{% /markdown %}}
-{{< picture candidate-sign-digital 392 "Eine Frau sitzt auf einem Liegestuhl und unterzeichnet auf ihrem Tablet einen Vertrag" >}}
 {{< /side-by-side >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< side-by-side >}}
-{{< picture more-efficiency 430 "Mann unterzeichnet mit einem Füllfederhalter drei Verträge" >}}
+{{< side-by-side top=12 bottom=12 mobile-top=6 mobile-bottom=6 img=more-efficiency img-width=430 img-alt="Mann unterzeichnet mit einem Füllfederhalter drei Verträge" >}}
 {{% markdown %}}
 ## Befähige Mitarbeitende <br class="hide-for-mobile">zu mehr Effizienz
 Digitalisierungs-Enabler: Die Belegschaft wird durch das HR zum elektronischen Signieren befähigt und kann den Arbeitsalltag mit weniger Bürokratie bestreiten.
@@ -71,7 +67,7 @@ im anerkannten PDF X/A-Format**
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< side-by-side >}}
+{{< side-by-side top=12 bottom=24 mobile-top=6 mobile-bottom=12 img=integrations img-position=right img-width=381 img-alt="Verbindung der unterschiedlichen Beteiligten bei Gebrauch von Skribble aus einem HRM visuell dargestellt" >}}
 {{% markdown %}}
 ## Keine neue Software notwendig
 Bei gewohnten Tools bleiben: Signiere direkt über den Browser oder aus deiner bestehenden Software heraus. (Kommt Ende 2019)
@@ -79,9 +75,7 @@ Bei gewohnten Tools bleiben: Signiere direkt über den Browser oder aus deiner b
 - **Direkt über den Browser signieren**
 - **Skribble als Plug-in in SAP und anderen Branchenlösungen einbinden**
 - **Nahtlose Integration via moderne APIs**
-
 {{% /markdown %}}
-{{< picture integrations 381 "Verbindung der unterschiedlichen Beteiligten bei Gebrauch von Skribble aus einem HRM visuell dargestellt" >}}
 {{< /side-by-side >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)

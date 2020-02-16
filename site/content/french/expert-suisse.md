@@ -20,7 +20,7 @@ Traiter les processus de signature numériquement &ndash; juridiquement valides 
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< side-by-side >}}
+{{< side-by-side top=24 img=image4 mobile-top=12 mobile-bottom=6 img-width=391 img-position=right img-alt="Trois personnes signent légalement ensemble un document en ligne" >}}
 {{% markdown %}}
 ## La signature électronique qualifiée avec Skribble simple, intuitif et efficace
 
@@ -30,17 +30,12 @@ Skribble peut être utilisé immédiatement
 Signer plusieurs documents en un seul clic (signature groupées)
 - **Coordination rapide et efficace**
 Invitations à signer par courriel et rappels
-
 {{% /markdown %}}
-
-{{< picture image4 391 "Trois personnes signent légalement ensemble un document en ligne" >}}
 {{< /side-by-side >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< side-by-side >}}
-{{< picture image5 430 "Une personne tient un document juridique entre ses mains. Le logo de swisscom se trouve à l'arrière-plan" >}}
-
+{{< side-by-side top=12 bottom=24 mobile-top=6 mobile-bottom=12 img=image5 img-width=430 img-alt="Une personne tient un document juridique entre ses mains. Le logo de swisscom se trouve à l'arrière-plan" >}}
 {{% markdown %}}
 ## Skribble répond aux normes juridiques et technologiques les plus élevées.
 
@@ -50,13 +45,12 @@ Certificats SEQ de Swisscom
 Chiffrement SEA-256
 - **Hébergement en Suisse**
 Conforme FINMA, certifié ISO 27001
-
 {{% /markdown %}}
 {{< /side-by-side >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< content text=center top=12 bottom=18 width=narrow >}}
+{{< content text=center top=12 bottom=12 width=narrow >}}
 {{% markdown %}}
 # Signature gratuite avec Skribble <br class="hide-for-mobile">jusqu'à la fin de l'année <br class="hide-for-mobile">pour les membres EXPERTsuisse. À partir de janvier 2020
 {{% /markdown %}}
@@ -72,9 +66,7 @@ Exclusivement pour les membres EXPERTsuisse :
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< side-by-side >}}
-{{< picture identification 482 "L'identité d'une femme debout dans un téléphone portable est vérifiée par deux personnes" >}}
-
+{{< side-by-side top=12 bottom=24 img=identification img-width=482 img-position=right img-alt="L'identité d'une femme debout dans un téléphone portable est vérifiée par deux personnes" >}}
 {{% markdown %}}
 # Prêt à signer en 5 minutes
 
@@ -85,13 +77,11 @@ Tout ce dont tu as besoin c'est d'un téléphone portable et un document d'ident
 - **Vous êtes prêt à signer tout de suite**
 
 Un entreprise peut également être qualifié pour le faire, pour identifier les gens vous-même.
-
+{{% /markdown %}}
 {{< intro-partner
   "image/swisscom.png"
   "Partenaire officiel d'identification de Swisscom"
 >}}
-
-{{% /markdown %}}
 {{< /side-by-side >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)

@@ -21,64 +21,56 @@ from employment contracts to certificates and wage statements.
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< side-by-side >}}
-{{< picture batch-signature 367 "Three contracts signed with batch processing" >}}
+{{< side-by-side top=24 bottom=12 img=batch-signature mobile-top=12 mobile-bottom=6 img-width=367 img-alt="Three contracts signed with batch processing" >}}
 {{% markdown %}}
 ## Finish the pile <br class="hide-for-mobile">with only one signature
 New employment contracts for everyone: the authorised signatory no longer signs hundreds of contracts by hand, but signs them all at once with Skribble's batch signature.
 
-- **<small>Batch signature for any number of employment contracts</small>**
-- **<small>Automatically invite employees to sign employment contracts by e-mail</small>**
-- **<small>Overview of all completed and outstanding signatures</small>**
-
+- **Batch signature for any number of employment contracts**
+- **Automatically invite employees to sign employment contracts by e-mail**
+- **Overview of all completed and outstanding signatures**
 {{% /markdown %}}
 {{< /side-by-side >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< side-by-side >}}
+{{< side-by-side top=12 bottom=12 mobile-top=6 mobile-bottom=6 img=candidate-sign-digital img-position=right img-width=392 img-alt="A woman sits in a deck chair and signs her employment contract on her tablet" >}}
 {{% markdown %}}
 ## Candidates sign
 digitally without delay
 Efficient onboarding: you have a better chance of being chosen as an employer and HR administration becomes easier, faster and cheaper.
 
-- **<small>Legally valid for any type of employment contract</small>**
-- **<small>No loss of time due to postal mailing</small>**
-- **<small>Get notified automatically when the employment contract has been signed</small>**
-
+- **Legally valid for any type of employment contract**
+- **No loss of time due to postal mailing**
+- **Get notified automatically when the employment contract has been signed**
 {{% /markdown %}}
-{{< picture candidate-sign-digital 392 "A woman sits in a deck chair and signs her employment contract on her tablet" >}}
 {{< /side-by-side >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< side-by-side >}}
-{{< picture more-efficiency 430 "Man with fountain pen would like to sign three contracts" >}}
+{{< side-by-side top=12 bottom=12 mobile-top=6 mobile-bottom=6 img=more-efficiency img-width=430 img-alt="Man with fountain pen would like to sign three contracts" >}}
 {{% markdown %}}
 ## Empower employees <br class="hide-for-mobile">to work more efficiently
 Digitalisation enabler: HR enables the workforce to sign electronically and can manage their everyday work with less bureaucracy.
 
-- **<small>Digital processing of work reports, lay-offs, applications, etc.</small>**
-- **<small>Get signatures from authorised signatories via e-mail</small>**
-- **<small>Download contracts ready for archiving in recognized PDF X/A format </small>**
-
+- **Digital processing of work reports, lay-offs, applications, etc.**
+- **Get signatures from authorised signatories via e-mail**
+- **Download contracts ready for archiving in recognized PDF X/A format**
 {{% /markdown %}}
 {{< /side-by-side >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< side-by-side >}}
+{{< side-by-side top=12 bottom=24 mobile-top=6 mobile-bottom=12 img=integrations img-position=right img-width=381 img-alt="Existing systems, e.g. Google Drive, One Drive, Drop Box or Secure Safe" >}}
 {{% markdown %}}
 ## No new software required
 Stay with familiar tools: sign directly via your browser or from your existing software.
 (Coming end of 2019)
 
-- **<small>Sign directly via your browser</small>**
-- **<small>Integrate Skribble as a plug-in into SAP and other industry solutions</small>**
-- **<small>Seamless integration via modern APIs</small>**
-
+- **Sign directly via your browser**
+- **Integrate Skribble as a plug-in into SAP and other industry solutions**
+- **Seamless integration via modern APIs**
 {{% /markdown %}}
-{{< picture integrations 381 "Existing systems, e.g. Google Drive, One Drive, Drop Box or Secure Safe" >}}
 {{< /side-by-side >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)

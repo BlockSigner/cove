@@ -89,21 +89,18 @@ in the shortest possible time. Choose the onboarding process that fits your requ
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< side-by-side >}}
-{{< picture onboarding-qes-en 380 "A large contract (QES) with a court" >}}
-
+{{< side-by-side top=24 bottom=12 img=onboarding-qes-en img-width=380 img-alt="A large contract (QES) with a court" >}}
 {{% markdown %}}
 ## On-Boarding for the qualified electronic signature (QES)
 Identification services for highest demands on the legal weight of the signature. Suitable for contracts with formal requirements.
 {{% /markdown %}}
-
+<br>
 {{< button
   "Download Factsheet"
   "https://cdn2.hubspot.net/hubfs/5051692/Factstheets/Identification/English/Skribble_Overview_Identification_EN.pdf"
   "_blank"
   "outline"
 >}}
-
 {{< /side-by-side >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)

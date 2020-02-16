@@ -21,8 +21,7 @@ with the highest e-signing standard (QES).
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< side-by-side >}}
-{{< picture sign-parallel 387 "Man sign a contract with two other people at the same time" >}}
+{{< side-by-side top=24 bottom=12 img=sign-parallel mobile-top=12 mobile-bottom=6 img-width=387 img-alt="Man sign a contract with two other people at the same time" >}}
 {{% markdown %}}
 ## All contractual parties sign digitally
 Multiple contractual parties: Instead of sending contracts by post from one person to the next, everyone signs online, saving time.
@@ -33,30 +32,26 @@ sign by e-mail**
 signatures**
 - **Get notified automatically when
 the contract is signed**
-
 {{% /markdown %}}
 {{< /side-by-side >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< side-by-side >}}
+{{< side-by-side top=12 bottom=12 mobile-top=6 mobile-bottom=6 img=batch-process img-position=right img-width=380 img-alt="A stack of documents is signed with one click" >}}
 {{% markdown %}}
 ## Finish the pile <br class="hide-for-mobile">with only one signature
 Digital signature folder: Collect your contracts digitally and sign them simultaneously with just a few clicks. Despite the QES standard, you don't need a USB stick or card reader.
 
 - **Batch signature for any number of contracts**
 - **Two factor authentication via mobile phone -
-no external hardware required>**
+no external hardware required**
 - **Independent of time and place**
-
 {{% /markdown %}}
-{{< picture batch-process 380 "A stack of documents is signed with one click" >}}
 {{< /side-by-side >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< side-by-side >}}
-{{< picture authorities-input 394 "Two people make step-by-step entries to authorities." >}}
+{{< side-by-side top=12 bottom=12 mobile-top=6 mobile-bottom=6 img=authorities-input img-width=394 img-alt="Two people make step-by-step entries to authorities." >}}
 {{% markdown %}}
 ## Entries with authorities made online
 From changes to the commercial register to court submissions: Printing, sending and scanning are no longer necessary.
@@ -66,13 +61,12 @@ From changes to the commercial register to court submissions: Printing, sending 
 - **Recognised for communication between
 law firms and authorities/courts in Switzerland**
 - **Saves time and money**
-
 {{% /markdown %}}
 {{< /side-by-side >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< side-by-side >}}
+{{< side-by-side top=12 bottom=24 mobile-top=6 mobile-bottom=12 img=crm-systeme-lawyer img-position=right img-width=421 img-alt="Existing systems, e.g. Google Drive, One Drive, Drop Box or Secure Safe" >}}
 {{% markdown %}}
 ## No new software required
 Stay with familiar tools: Sign directly via your browser or from your existing software.
@@ -81,9 +75,7 @@ Stay with familiar tools: Sign directly via your browser or from your existing s
 - **Integrate Skribble as a plug-in into
 industry software solutions**
 - **Seamless integration via modern APIs**
-
 {{% /markdown %}}
-{{< picture crm-systeme-lawyer 421 "Existing systems, e.g. Google Drive, One Drive, Drop Box or Secure Safe" >}}
 {{< /side-by-side >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)

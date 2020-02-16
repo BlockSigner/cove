@@ -21,68 +21,71 @@ avec la plus haute norme de signature électronique (SEQ).
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< side-by-side >}}
-{{< picture sign-parallel 387 "L'homme signe un contrat avec deux autres personnes" >}}
+{{< side-by-side top=24 bottom=12 img=sign-parallel mobile-top=12 mobile-bottom=6 img-width=387 img-alt="L'homme signe un contrat avec deux autres personnes" >}}
 {{% markdown %}}
 ## Toutes les parties contractantes signent numériquement
 Parties contractantes multiples: au lieu de s'envoyer des contrats par la poste, elles signent toutes en ligne, ce qui leur fait gagner du temps.
 
-- **<small>Inviter à signer automatiquement <br class="hide-for-mobile">par e-mail (bientôt disponible)</small>**
-- **<small>Vue d'ensemble de toutes les signatures <br class="hide-for-mobile">entrantes et sortantes</small>**
-- **<small>Etre averti automatiquement lorsque <br class="hide-for-mobile">le contrat a été signé</small>**
-
+- **Inviter à signer automatiquement
+par e-mail (bientôt disponible)**
+- **Vue d'ensemble de toutes les signatures
+entrantes et sortantes**
+- **Etre averti automatiquement lorsque
+le contrat a été signé**
 {{% /markdown %}}
 {{< /side-by-side >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< side-by-side >}}
+{{< side-by-side top=12 bottom=12 mobile-top=6 mobile-bottom=6 img=batch-process img-position=right img-width=380 img-alt="Une agrafe de documents peut être signée en un seul clic" >}}
 {{% markdown %}}
 ## Complétez la pile <br class="hide-for-mobile">avec une seule signature
 Dossier de signature numérique: collectez vos contrats numériquement et signez-les simultanément en quelques clics. Grâce au standard SEQ, vous n'avez pas besoin d'une clé USB ou d'un lecteur de carte.
 
-- **<small>Signature par lots pour un nombre <br class="hide-for-mobile">quelconque de contrats </small>**
-- **<small>Authentification à deux facteurs par téléphone <br class="hide-for-mobile">mobile – aucun matériel externe requis</small>**
-- **<small>Indépendamment de l'heure et du lieu</small>**
-
+- **Signature par lots pour un nombre
+quelconque de contrats **
+- **Authentification à deux facteurs par téléphone
+mobile – aucun matériel externe requis**
+- **Indépendamment de l'heure et du lieu**
 {{% /markdown %}}
-{{< picture batch-process 380 "Une agrafe de documents peut être signée en un seul clic" >}}
 {{< /side-by-side >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< side-by-side >}}
-{{< picture authorities-input 394 "Deux personnes interviennent pas à pas auprès des autorités" >}}
+{{< side-by-side top=12 bottom=12 mobile-top=6 mobile-bottom=6 img=authorities-input img-width=394 img-alt="Deux personnes interviennent pas à pas auprès des autorités" >}}
 {{% markdown %}}
 ## Faites des soumissions <br class="hide-for-mobile">aux autorités en ligne
-Des modifications du registre du commerce <br class="hide-for-mobile">aux requêtes judiciaires: il n'est pas nécessaire d'imprimer, d'envoyer ou de scanner.
+Des modifications du registre du commerce
+aux requêtes judiciaires: il n'est pas nécessaire d'imprimer, d'envoyer ou de scanner.
 
-- **<small>Intégration parfaite avec PrivaSphere <br class="hide-for-mobile">(A venir fin 2019)</small>**
-- **<small>Reconnu pour la communication entre les cabinets d'avocats et les autorités/ tribunaux en Suisse</small>**
-- **<small>Economiser du temps et de l'argent</small>**
-
+- **Intégration parfaite avec PrivaSphere
+(A venir fin 2019)**
+- **Reconnu pour la communication entre les cabinets d'avocats et les autorités/ tribunaux en Suisse**
+- **Economiser du temps et de l'argent**
 {{% /markdown %}}
 {{< /side-by-side >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< side-by-side >}}
+{{< side-by-side top=12 bottom=24 mobile-top=6 mobile-bottom=12 img=crm-systeme-lawyer img-position=right img-width=421 img-alt="Signez à partir de vos systèmes existants, par exemple WinJur ou Vertec." >}}
 {{% markdown %}}
 ## Aucun nouveau logiciel requis
-Restez avec des outils familiers: connectez-vous directement via votre navigateur ou signez <br class="hide-for-mobile">à partir de vos programmes existants.
+Restez avec des outils familiers: connectez-vous directement via votre navigateur ou signez
+à partir de vos programmes existants.
 
-- **<small>Signer directement via le navigateur</small>**
-- **<small>Intégrer Skribble comme plug-in dans <br class="hide-for-mobile">les solutions sectorielles</small>**
-- **<small>Intégrer parfaitement via des API modernes</small>**
-
+- **Signer directement via le navigateur**
+- **Intégrer Skribble comme plug-in dans
+les solutions sectorielles**
+- **Intégrer parfaitement via des API modernes**
 {{% /markdown %}}
-{{< picture crm-systeme-lawyer 421 "Signez à partir de vos systèmes existants, par exemple WinJur ou Vertec." >}}
 {{< /side-by-side >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
 {{< testimonial "testimonial/e-forsight-146w.png" "Think tank e-foresight" >}}
-"Skribble offre une solution conviviale <br class="hide-for-mobile">pour des signatures électroniques <br class="hide-for-mobile">qualifiées en Suisse."
+"Skribble offre une solution conviviale
+pour des signatures électroniques
+qualifiées en Suisse."
 {{< /testimonial >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)

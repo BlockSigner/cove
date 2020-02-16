@@ -87,23 +87,18 @@ zum elektronischen Signieren. Wähle den Onboarding-Prozess, der zu deinem Anspr
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< side-by-side >}}
-{{< picture onboarding-qes-de 380 "Ein grosser Vertrag (QES) mit einem Gericht" >}}
-
-{{< markdown >}}
-{{% heading left %}}
+{{< side-by-side top=24 bottom=12 img=onboarding-qes-de img-width=380 img-alt="Ein grosser Vertrag (QES) mit einem Gericht" >}}
+{{% markdown %}}
 ## Onboarding für die qualifizierte elektronische Signatur (QES)
 Identifikationsservices für höchste Ansprüche an die Beweiskraft der Signatur.
 Geeignet für Verträge mit Formvorschrift.
-{{% /heading %}}
-
+{{% /markdown %}}
+<br>
 {{< button
   "Download Factsheet"
   "https://cdn2.hubspot.net/hubfs/5051692/Factstheets/Identification/Deutsch/Skribble_Overview_Identification.pdf"
   "_blank"
   "outline">}}
-
-{{< /markdown >}}
 {{< /side-by-side >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)

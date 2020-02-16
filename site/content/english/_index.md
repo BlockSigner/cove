@@ -33,7 +33,7 @@ legally binding in accordance with Swiss & EU law.
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< logos-container top=6 bottom=10 title="Trusted by:">}}
+{{< logos-container top=12 bottom=24 title="Trusted by:">}}
   {{< logos-item src="logos/canon-logo-142w.svg" alt="Canon">}}
   {{< logos-item src="logos/baggenstoss-logo-205w.svg" alt="Baggenstoss">}}
   {{< logos-line-break >}}
@@ -49,20 +49,18 @@ legally binding in accordance with Swiss & EU law.
 {{% /markdown %}}
 {{< /content >}}
 
-{{< side-by-side >}}
+[//]: # (--------------------------------------------------------------------------------------------------------------)
+
+{{< side-by-side top=24 img=image2 mobile-top=12 mobile-bottom=6 img-width=416 img-position=right img-alt="A woman holding a PDF document in her hands and uploading it" >}}
 {{% markdown %}}
 ## Upload documents as PDFs
 Upload the PDF document directly via browser or use Skribble via API from your business software.
 {{% /markdown %}}
-
-{{< picture image2 416 "A woman holding a PDF document in her hands and uploading it" >}}
 {{< /side-by-side >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< side-by-side >}}
-{{< picture image3 400 "A man invites two people to sign the document" >}}
-
+{{< side-by-side bottom=12 mobile-top=6 mobile-bottom=6 img=image3 img-width=400 img-alt="A man invites two people to sign the document" >}}
 {{% markdown %}}
 ## Invite people to sign
 Define the order in which people should sign and invite them by e-mail.
@@ -71,13 +69,11 @@ Define the order in which people should sign and invite them by e-mail.
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< side-by-side >}}
+{{< side-by-side top=12 bottom=24 mobile-top=6 mobile-bottom=12 img=image4 img-position=right img-width=391 img-alt="Three people legally sign a document online" >}}
 {{% markdown %}}
 ## Sign with legal validity
 Sign at the push of a button, independent of time and place, legally valid according to Swiss and EU law.
 {{% /markdown %}}
-
-{{< picture image4 391 "Three people legally sign a document online" >}}
 {{< /side-by-side >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)

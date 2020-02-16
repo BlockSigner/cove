@@ -22,8 +22,7 @@ par les certificats de salaire.
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< side-by-side >}}
-{{< picture batch-signature 367 "Trois contrats sont signés par lots" >}}
+{{< side-by-side top=24 bottom=12 img=batch-signature mobile-top=12 mobile-bottom=6 img-width=367 img-alt="Trois contrats sont signés par lots" >}}
 {{% markdown %}}
 ## Compléter le lot <br class="hide-for-mobile">avec une seule signature
 De nouveaux contrats de travail pour tous: le signataire autorisé ne signe plus des centaines de contrats à la main, mais les signe tous à la fois avec la signature par lots de Skribble.
@@ -34,13 +33,12 @@ quelconque de contrats de travail**
 à signer des contrats de travail par courriel**
 - **Vue d'ensemble de toutes les signatures
 entrantes et sortantes**
-
 {{% /markdown %}}
 {{< /side-by-side >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< side-by-side >}}
+{{< side-by-side top=12 bottom=12 mobile-top=6 mobile-bottom=6 img=candidate-sign-digital img-position=right img-width=392 img-alt="Une femme s'assoit sur une chaise longue et signe un contrat sur sa tablette." >}}
 {{% markdown %}}
 ## Signature numérique <br class="hide-for-mobile">sans délai des candidats
 Une intégration efficace: vous avez plus de chances d'être choisi comme employeur et l'administration des RH devient plus facile, plus rapide et moins coûteuse.
@@ -50,15 +48,12 @@ de contrat de travail**
 - **Pas de perte de temps due à l'envoi postal**
 - **Notifier automatiquement la signature
 du contrat de travail**
-
 {{% /markdown %}}
-{{< picture candidate-sign-digital 392 "Une femme s'assoit sur une chaise longue et signe un contrat sur sa tablette." >}}
 {{< /side-by-side >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< side-by-side >}}
-{{< picture more-efficiency 430 "Homme signé avec un stylo plume trois contrats" >}}
+{{< side-by-side top=12 bottom=12 mobile-top=6 mobile-bottom=6 img=more-efficiency img-width=430 img-alt="Homme signé avec un stylo plume trois contrats" >}}
 {{% markdown %}}
 ## Habiliter les employés <br class="hide-for-mobile">pour plus d'efficacité
 Facilitateur de la numérisation: les RH permettent au personnel de signer électroniquement et de faire face au travail quotidien avec moins de bureaucratie.
@@ -69,13 +64,12 @@ de travail, des licenciements, des demandes, etc.**
 autorisés par courriel**
 - **Télécharger les contrats prêt
  pour l'archivage au format PDF X/A reconnu**
-
 {{% /markdown %}}
 {{< /side-by-side >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< side-by-side >}}
+{{< side-by-side top=12 bottom=24 mobile-top=6 mobile-bottom=12 img=integrations img-position=right img-width=381 img-alt="Signez directement dans vos logiciels RH" >}}
 {{% markdown %}}
 ## Aucun nouveau logiciel requis
 Restez avec des outils familiers: signez à partir de vos programmes existants, par exemple Google Drive, One Drive, Drop Box ou Secure Safe. (A venir fin 2019)
@@ -84,9 +78,7 @@ Restez avec des outils familiers: signez à partir de vos programmes existants, 
 - **Intégrer Skribble en tant que plug-in dans SAP
 et d'autres solutions sectorielles**
 - **Intégrer parfaitement via des API modernes**
-
 {{% /markdown %}}
-{{< picture integrations 381 "Signez directement dans vos logiciels RH" >}}
 {{< /side-by-side >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)

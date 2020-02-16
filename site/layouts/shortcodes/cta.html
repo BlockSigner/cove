@@ -11,6 +11,8 @@
     {{ else }}
       pb-6
     {{ end }}
+    {{ if .Get "mobile-top"  }}ptm-{{ .Get "mobile-top" }}{{ end }}
+    {{ if .Get "mobile-bottom"  }}pbm-{{ .Get "mobile-bottom" }}{{ end }}
     {{ if .Get "width"  }}
       is-{{ .Get "width" }}
     {{ else }}

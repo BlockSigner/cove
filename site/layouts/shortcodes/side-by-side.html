@@ -1,3 +1,29 @@
 <div class="side-by-side">
-  {{.Inner}}
+  <div class="
+    skr-container
+    {{ if .Get "top"  }}pt-{{ .Get "top" }}{{ end }}
+    {{ if .Get "bottom"  }}pb-{{ .Get "bottom" }}{{ end }}
+    {{ if .Get "mobile-top"  }}ptm-{{ .Get "mobile-top" }}{{ end }}
+    {{ if .Get "mobile-bottom"  }}pbm-{{ .Get "mobile-bottom" }}{{ end }}
+    {{ if .Get "width"  }}is-{{ .Get "width" }}{{ end }}
+    {{ if .Get "text" }}text-{{ .Get "text" }}{{ end }}
+  ">
+    <div class="side-by-side-inner">
+      {{ if eq (.Get "img-position") "right" }}
+        <div class="side-by-side__body">
+          {{.Inner}}
+        </div>
+      {{ end }}
+      {{ if .Get "img" }}
+        <div class="side-by-side__img">
+          {{ partial "picture" (dict "alt" (.Get "img-alt") "filename" (.Get "img") "natural_width" (.Get "img-width")) }}
+        </div>
+      {{ end }}
+      {{ if ne (.Get "img-position") "right" }}
+        <div class="side-by-side__body">
+          {{.Inner}}
+        </div>
+      {{ end }}
+    </div>
+  </div>
 </div>

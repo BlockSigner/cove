@@ -21,8 +21,7 @@ mit dem höchsten verfügbaren E-Signatur-Standard (QES).
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< side-by-side >}}
-{{< picture sign-parallel 387 "Mann signiert mit zwei weiteren Personen einen Vertrag" >}}
+{{< side-by-side top=24 bottom=12 img=sign-parallel mobile-top=12 mobile-bottom=6 img-width=387 img-alt="Mann signiert mit zwei weiteren Personen einen Vertrag" >}}
 {{% markdown %}}
 ## Alle Vertragsparteien <br class="hide-for-mobile">signieren digital
 Mehrere Vertragsparteien: Statt Verträge per Post von einer Person zur nächsten zu schicken, signieren alle zeitsparend online.
@@ -33,13 +32,12 @@ zum Signieren einladen**
 und ausstehenden Signaturen**
 - **Automatisch benachrichtigt werden,
 wenn der Vertrag signiert wurde**
-
 {{% /markdown %}}
 {{< /side-by-side >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< side-by-side >}}
+{{< side-by-side top=12 bottom=12 mobile-top=6 mobile-bottom=6 img=batch-process img-position=right img-width=380 img-alt="Ein Stapel Dokumente werden mit einem Klick signiert" >}}
 {{% markdown %}}
 ## Erledige den Stapel <br class="hide-for-mobile">mit nur einer Signatur
 Digitale Unterschriftsmappe: Sammle deine Verträge digital und signiere sie gleichzeitig mit wenigen Klicks. Einen USB-Stick oder Card-Reader brauchst du trotz QES-Standard nicht.
@@ -49,15 +47,12 @@ Anzahl Verträge**
 - **Zwei-Faktor-Authentifizierung via Handy –
 keine externe Hardware erforderlich**
 - **Unabhängig von Zeit und Ort**
-
 {{% /markdown %}}
-{{< picture batch-process 380 "Ein Stappel Dokumente werden mit einem Klick signiert" >}}
 {{< /side-by-side >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< side-by-side >}}
-{{< picture authorities-input 394 "Zwei Leute machen Schritt-für Schritt eine Behörden Eingabe" >}}
+{{< side-by-side top=12 bottom=12 mobile-top=6 mobile-bottom=6 img=authorities-input img-width=394 img-alt="Zwei Leute machen Schritt-für Schritt eine Behörden Eingabe" >}}
 {{% markdown %}}
 ## Eingaben bei Behörden <br class="hide-for-mobile">machst du online
 Von Änderungen am Handelsregister bis Gerichtseingaben: Das Ausdrucken, Versenden und Einscannen entfällt.
@@ -66,13 +61,12 @@ Von Änderungen am Handelsregister bis Gerichtseingaben: Das Ausdrucken, Versend
 - **Anerkannt für die Kommunikation zwischen
 Kanzleien und Behörden/Gerichten in der Schweiz**
 - **Zeit und Geld sparen**
-
 {{% /markdown %}}
 {{< /side-by-side >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< side-by-side >}}
+{{< side-by-side top=12 bottom=24 mobile-top=6 mobile-bottom=12 img=crm-systeme-lawyer img-position=right img-width=421 img-alt="Signiere aus deinen gewohnten Tools heraus, beispielsweise WinJur oder Vertec." >}}
 {{% markdown %}}
 ## Keine neue Software notwendig
 Bei gewohnten Tools bleiben: Signiere direkt über den Browser oder aus deiner bestehenden Software heraus.
@@ -81,9 +75,7 @@ Bei gewohnten Tools bleiben: Signiere direkt über den Browser oder aus deiner b
 - **Skribble als Plug-in in Branchen-Software-
 Lösungen einbinden**
 - **Nahtlose Integration via moderne APIs**
-
 {{% /markdown %}}
-{{< picture crm-systeme-lawyer 421 "Signiere aus deinen gewohnten Tools heraus, beispielsweise WinJur oder Vertec. " >}}
 {{< /side-by-side >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)

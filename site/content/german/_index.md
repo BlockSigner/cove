@@ -29,7 +29,7 @@ rechtsgültig nach dem Schweizer & EU Gesetz.
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< logos-container top=6 bottom=10 title="Uns vertrauen:">}}
+{{< logos-container top=12 bottom=24 title="Uns vertrauen:">}}
   {{< logos-item src="logos/canon-logo-142w.svg" alt="Canon">}}
   {{< logos-item src="logos/baggenstoss-logo-205w.svg" alt="Baggenstoss">}}
   {{< logos-line-break >}}
@@ -45,20 +45,18 @@ rechtsgültig nach dem Schweizer & EU Gesetz.
 {{% /markdown %}}
 {{< /content >}}
 
-{{< side-by-side >}}
+[//]: # (--------------------------------------------------------------------------------------------------------------)
+
+{{< side-by-side top=24 img=image2 mobile-top=12 mobile-bottom=6 img-width=416 img-position=right img-alt="Eine frau hält ein PDF dokument in den händen und lädt es hoch" >}}
 {{% markdown %}}
 ## Dokumente als PDF hochladen
 Lade das signierbereite PDF-Dokument direkt via Browser hoch oder nutze Skribble via API aus deiner Unternehmenssoftware heraus.
 {{% /markdown %}}
-
-{{< picture image2 416 "Eine frau hält ein PDF dokument in den händen und lädt es hoch" >}}
 {{< /side-by-side >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< side-by-side >}}
-{{< picture image3 400 "Ein mann lädt zwei personen zum signieren ein" >}}
-
+{{< side-by-side bottom=12 mobile-top=6 mobile-bottom=6 img=image3 img-width=400 img-alt="Ein mann lädt zwei personen zum signieren ein" >}}
 {{% markdown %}}
 ## Zum Signieren einladen
 Lade die signierenden Personen per E-Mail ein und lege die Signatur-Reihenfolge fest.
@@ -67,14 +65,13 @@ Lade die signierenden Personen per E-Mail ein und lege die Signatur-Reihenfolge 
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< side-by-side >}}
+{{< side-by-side top=12 bottom=24 mobile-top=6 mobile-bottom=12 img=image4 img-position=right img-width=391 img-alt="Three people legally sign a document online" >}}
 {{% markdown %}}
 ## Rechtsgültig signieren
 Signiere per Knopfdruck, unabhängig
 von Zeit und Ort, rechtsgültig nach Schweizer
 und EU-Recht.
 {{% /markdown %}}
-{{< picture image4 391 "Three people legally sign a document online" >}}
 {{< /side-by-side >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)

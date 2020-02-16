@@ -187,11 +187,8 @@ Skribble Cove uses layout components to structure or layout a web page. There ar
 #### {{< side-by-side >}}
 This component is a basic building block for Cove. It aligns a picture and a content component next to each other.
 ```
-{{< side-by-side >}}
-{{< picture image3 400 >}}
-{{< content >}}
+{{< side-by-side [global spacing] img=[image name] img-width=[width] img-position[right] img-alt=[image alt text] >}}
 ...
-{{< /content >}}
 {{< /side-by-side >}}
 ```
 
@@ -435,14 +432,20 @@ To show component outlines and component labels, add the following styling to `m
 }
 * {outline: 1px solid rgba(red, .1);}
 .collapsible {@include outline(collapsible, darkgoldenrod, -45deg);}
-.content {@include outline(content, black);}
+.content {@include outline(content, lightslategray);}
 .cta {@include outline(cta, seagreen);}
 .heading {@include outline(heading, purple, -45deg);}
 .intro {@include outline(intro, black);}
 .outro {@include outline(outro, black);}
 .picture {@include outline(picture, tomato, -45deg);}
-.markdown {@include outline(markdown, mediumslateblue, -45deg);}
+.plan {@include outline(plan, darkslategrey, -45deg);}
 .row {@include outline(row, grey, -45deg);}
 .side-by-side {@include outline(side-by-side, black);}
 .table-wrapper {@include outline(table-wrapper, darkorchid);}
+.logos-container {@include outline(logos-container, indianred);}
+.testimonial {@include outline(testimonial, deepskyblue);}
+.headline {@include outline(headline, cadetblue);}
+.markdown {@include outline(markdown, powderblue, 45deg, black);}
+.features-container {@include outline(features-container, darkkhaki);}
+.action-card {@include outline(action-card, limegreen);}
 ```

@@ -29,7 +29,7 @@ de façon digitale, conformément à la loi suisse et européenne.
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< logos-container top=6 bottom=10 title="Confié par:">}}
+{{< logos-container top=12 bottom=24 title="Confié par:">}}
   {{< logos-item src="logos/canon-logo-142w.svg" alt="Canon">}}
   {{< logos-item src="logos/baggenstoss-logo-205w.svg" alt="Baggenstoss">}}
   {{< logos-line-break >}}
@@ -45,20 +45,18 @@ de façon digitale, conformément à la loi suisse et européenne.
 {{% /markdown %}}
 {{< /content >}}
 
-{{< side-by-side >}}
+[//]: # (--------------------------------------------------------------------------------------------------------------)
+
+{{< side-by-side top=24 img=image2 mobile-top=12 mobile-bottom=6 img-width=416 img-position=right img-alt="Une femme tenant un document PDF dans ses mains et le téléchargeant" >}}
 {{% markdown %}}
 ## Charger un document PDF
 Chargez le document PDF à signer directement via votre navigateur ou utilisez Skribble via API depuis votre logiciel de gestion.
 {{% /markdown %}}
-
-{{< picture image2 416 "Une femme tenant un document PDF dans ses mains et le téléchargeant" >}}
 {{< /side-by-side >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< side-by-side >}}
-{{< picture image3 400 "Un homme invite deux personnes à signer le document" >}}
-
+{{< side-by-side bottom=12 mobile-top=6 mobile-bottom=6 img=image3 img-width=400 img-alt="Un homme invite deux personnes à signer le document" >}}
 {{% markdown %}}
 ## Inviter à signer
 Invitez les signataires par e-mail et définissez l'ordre de signature.
@@ -67,13 +65,11 @@ Invitez les signataires par e-mail et définissez l'ordre de signature.
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< side-by-side >}}
+{{< side-by-side top=12 bottom=24 mobile-top=6 mobile-bottom=12 img=image4 img-position=right img-width=391 img-alt="Trois personnes signent légalement ensemble un document en ligne" >}}
 {{% markdown %}}
 ## Signer légalement
 Signez par simple pression d'un bouton, indépendamment de l'heure et du lieu, de manière juridiquement valable selon le droit suisse et le droit de l'UE.
 {{% /markdown %}}
-
-{{< picture image4 391 "Trois personnes signent légalement ensemble un document en ligne" >}}
 {{< /side-by-side >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)

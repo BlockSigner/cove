@@ -89,24 +89,18 @@ ou à la norme de signature souhaitée.
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-[//]: # (--------------------------------------------------------------------------------------------------------------)
-
-{{< side-by-side >}}
-{{< picture onboarding-seq-fr 380 "A large contract (QES) with a court" >}}
-
-{{< markdown >}}
-{{% heading left %}}
+{{< side-by-side top=24 bottom=12 img=onboarding-seq-fr img-width=380 img-alt="A large contract (QES) with a court" >}}
+{{% markdown %}}
 ## Intégration pour la signature électronique qualifiée (SEQ)
 Services d'identification pour les plus hautes exigences en matière de force probante de la signature. Convient aux contrats avec des exigences formelles.
-{{% /heading %}}
-
+{{% /markdown %}}
+<br>
 {{< button
   "Télécharger factsheet"
   "https://cdn2.hubspot.net/hubfs/5051692/Factstheets/Identification/Fran%C3%A7ais/Skribble_Overview_Identification_FR.pdf"
   "_blank"
   "outline"
 >}}
-{{< /markdown >}}
 {{< /side-by-side >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)

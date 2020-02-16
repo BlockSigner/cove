@@ -20,7 +20,7 @@ Signaturprozesse einfach digital abwickeln – rechtsgültig nach dem Schweizer 
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< side-by-side >}}
+{{< side-by-side top=24 img=image4 mobile-top=12 mobile-bottom=6 img-width=391 img-position=right img-alt="Drei personen signieren rechtsgültig zusammen ein online dokument" >}}
 {{% markdown %}}
 ## Die qualifizierte elektronische Signatur wird mit Skribble einfach, intuitiv und effizient
 - **Keine externe Hardware notwendig**
@@ -30,15 +30,11 @@ Mehrere Dokumente mit einem Klick signieren (Stapelsignatur)
 - **Zeitsparende Koordination**
 Per E-Mail zum Signieren einladen und erinnern
 {{% /markdown %}}
-
-{{< picture image4 391 "Drei personen signieren rechtsgültig zusammen ein online dokument" >}}
 {{< /side-by-side >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< side-by-side >}}
-{{< picture image5 430 "Eine person hält ein rechtsgültiges dokument in den händen. Im hintergrund befindet sich das swisscom logo" >}}
-
+{{< side-by-side top=12 bottom=24 mobile-top=6 mobile-bottom=12 img=image5 img-width=430 img-alt="Eine person hält ein rechtsgültiges dokument in den händen. Im hintergrund befindet sich das swisscom logo" >}}
 {{% markdown %}}
 ## Skribble erfüllt höchste rechtliche und technologische Standards
 - **ZertEs & eIDAS**
@@ -52,7 +48,7 @@ FINMA-Konform, ISO 27001 zertifiziert
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< content text=center top=12 bottom=18 width=narrow >}}
+{{< content text=center top=12 bottom=12 width=narrow >}}
 {{% markdown %}}
 # Kostenlos Signieren mit Skribble <br class="hide-for-mobile">bis Ende Jahr für Mitglieder <br class="hide-for-mobile">von EXPERTsuisse. Ab Januar 2020
 {{% /markdown %}}
@@ -68,9 +64,7 @@ Exklusiv für EXPERTsuisse Mitglieder:
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< side-by-side >}}
-{{< picture identification 482 "Die identität einer frau, die in einem handy steht, wird von zwei personen überprüft" >}}
-
+{{< side-by-side top=12 bottom=24 img=identification img-width=482 img-position=right img-alt="Die identität einer frau, die in einem handy steht, wird von zwei personen überprüft" >}}
 {{% markdown %}}
 # Bereit zum Signieren in 5 Minuten
 
@@ -81,13 +75,11 @@ Du benötigst nur ein Mobiltelefon und einen gültigen Ausweis (Pass oder Identi
 - **Du bist sofort signierbereit**
 
 Deine Firma kann auch dazu befähigt werden, selbst Personen zu identifizieren.
-
+{{% /markdown %}}
 {{< intro-partner
   "image/swisscom.png"
   "Offizieller Identifikations-Partner von Swisscom"
 >}}
-
-{{% /markdown %}}
 {{< /side-by-side >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
