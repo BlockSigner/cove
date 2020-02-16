@@ -1,9 +1,0 @@
-.heading {
-  @include half-padding;
-  @include markdown-styling;
-  text-align: center;
-
-  &--left {
-    text-align: left;
-  }
-}
