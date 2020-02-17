@@ -76,7 +76,7 @@ und EU-Recht.
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< content top=12 width=narrow >}}
+{{< content top=12 bottom=6 text=center width=narrow >}}
 {{% markdown %}}
 # Signierst du mit Skribble, <br class="hide-for-mobile">sparst du Zeit im Arbeitsalltag
 {{% /markdown %}}
@@ -93,14 +93,14 @@ und EU-Recht.
 {{< /center >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
-
+<br>
 {{< testimonial "testimonial/fr-logo-99w.svg" "Stéphane Schwab, Leiter E-Government, Kanton Freiburg" >}}
 "Dank Skribble können wir Administrationsprozesse von A bis Z digitalisieren. Das erleichtert
 den Alltag für uns und unseren Kunden." {{< /testimonial >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< content top=12 width=narrow >}}
+{{< content top=20 text=center width=narrow >}}
 {{% markdown %}}
 # Mit Skribble erfüllst du <br class="hide-for-mobile">die rechtlichen Anforderungen
 Signiere rechtsgültig und sicher gemäss folgenden Erfordernissen:
@@ -123,7 +123,7 @@ Skribble sowie Partner verwalten ihre Daten gemäss dem Bundesgesetz über den D
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< content top=12 width=narrow >}}
+{{< content top=24 text=center width=narrow >}}
 {{% markdown %}}
 # Mit Skribble maximierst du die Beweiskraft deiner Signatur
 Das Gesetz unterscheidet zwischen der qualifizierten E-Signatur (QES)
@@ -148,14 +148,14 @@ den Signaturstandards FES und QES wählen.**
 {{< /cta >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
-
+<br>
 {{< testimonial "testimonial/easyjet-155w.svg" "Sarah Jackson, Country HR & Administration Manager easyJet" >}}
 "Im schnelllebigen HR-Umfeld ist es wichtig, so effizient wie möglich zu sein. Das war mit unserem analogen Signaturprozess bisher schwierig, denn ich bin ständig auf Achse zwischen verschiedenen Standorten"
 {{< /testimonial >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< logos-container top=6 bottom=10 title="Skribble in den Medien:">}}
+{{< logos-container top=20 bottom=18 title="Skribble in den Medien:">}}
   {{< logos-item src="logos/srf-logo-180w.svg" alt="SRF-Schweizer Radio und Fernsehen">}}
   {{< logos-item src="logos/handelszeitung-logo-240w.svg" alt="Handelszeitung">}}
   {{< logos-line-break >}}

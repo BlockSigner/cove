@@ -23,7 +23,7 @@ from employment contracts to certificates and wage statements.
 
 {{< side-by-side top=24 bottom=12 img=batch-signature mobile-top=12 mobile-bottom=6 img-width=367 img-alt="Three contracts signed with batch processing" >}}
 {{% markdown %}}
-## Finish the pile <br class="hide-for-mobile">with only one signature
+## Finish the pile with only one signature
 New employment contracts for everyone: the authorised signatory no longer signs hundreds of contracts by hand, but signs them all at once with Skribble's batch signature.
 
 - **Batch signature for any number of employment contracts**
@@ -98,7 +98,7 @@ Skribble and its signing partner Swisscom commit to manage data in accordance wi
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< content text=center top=12 width=narrow >}}
+{{< content text=center top=24 width=narrow >}}
 {{% markdown %}}
 # Our customers have a good time
 How we at Skribble make everyday life easier for our customers.

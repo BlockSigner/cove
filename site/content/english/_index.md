@@ -96,7 +96,7 @@ Sign at the push of a button, independent of time and place, legally valid accor
 {{< /center >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
-
+<br>
 {{< testimonial "testimonial/fr-logo-99w.svg" "Stéphane Schwab, Head of E-Government, State of Fribourg" >}}
 "Thanks to Skribble, we can digitize administrative processes from A to Z.
 This makes everyday life easier for
@@ -104,34 +104,35 @@ us and our customers." {{< /testimonial >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< content top=12 width=narrow >}}
+
+{{< content top=20 text=center width=narrow >}}
 {{% markdown %}}
 # Skribble complies with legal requirements
-With Skribble you sign legally
-and securely according to the following requirements:
+With Skribble you sign legally and securely according 
+to the following requirements:
 {{% /markdown %}}
 {{< /content >}}
 
 {{< content top=6 width=narrow >}}
-{{< collapsible 1 "E-signature standards QES and AES according to ZertES/eIDAS" "check" >}}
+{{% collapsible 1 "E-signature standards QES and AES according to ZertES/eIDAS" "check" %}}
 Skribble works exclusively with legally defined e-signature standards: The qualified electronic signature (QES) and the advanced electronic signature (AES).
-{{< /collapsible >}}
+{{% /collapsible %}}
 
-{{< collapsible 2 "Requirement of written form according to OR/BGB" "check" >}}
+{{% collapsible 2 "Requirement of written form according to OR/BGB" "check" %}}
 The qualified electronic signature (QES) available on Skribble is equivalent to the handwritten signature before national laws in Switzerland and the EU (e.g. OR in Switzerland or BGB in Germany).
-{{< /collapsible >}}
+{{% /collapsible %}}
 
-{{< collapsible 3 "Data protection according to FADP/GDPR" "check" >}}
+{{% collapsible 3 "Data protection according to FADP/GDPR" "check" %}}
 Skribble and its signing partner Swisscom commit to manage data in accordance with the Federal Act on Data Protection (FADP) and the General Data Protection Regulation (GDPR). Moreover, all data is hosted in Switzerland according to banking standards.
-{{< /collapsible >}}
+{{% /collapsible %}}
 {{< /content >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< content top=12 width=narrow >}}
+{{< content top=24 text=center width=narrow >}}
 {{% markdown %}}
 # Use Skribble to maximise the legal weight of your signature
-The law distinguishes between qualified e-signatures (QES)
+The law distinguishes between qualified e-signatures (QES) 
 and advanced e-signatures (AES). The two standards vary in terms
 of area of application and legal weight.
 {{% /markdown %}}
@@ -151,14 +152,14 @@ of area of application and legal weight.
 {{< /cta >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
-
+<br>
 {{< testimonial "testimonial/easyjet-155w.svg" "Sarah Jackson, Country HR & Administration Manager easyJet" >}}
 "In the fast moving HR environment, it is important to be as efficient as possible. Constantly on the move between various locations, working with people who do not always work normal office hours, Skribble has helped a lot."
 {{< /testimonial >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< logos-container top=6 bottom=10 title="Skribble in the media:">}}
+{{< logos-container top=20 bottom=18 title="Skribble in the media:">}}
   {{< logos-item src="logos/srf-logo-180w.svg" alt="SRF-Schweizer Radio und Fernsehen">}}
   {{< logos-item src="logos/handelszeitung-logo-240w.svg" alt="Handelszeitung">}}
   {{< logos-line-break >}}

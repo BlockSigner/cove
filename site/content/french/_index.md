@@ -74,9 +74,9 @@ Signez par simple pression d'un bouton, indépendamment de l'heure et du lieu, d
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< content top=12 width=narrow >}}
+{{< content top=12 text=center width=narrow >}}
 {{% markdown %}}
-# En signant avec Skribble, <br class="hide-for-mobile">vous gagnez du temps au travail
+# En signant avec Skribble, vous gagnez du temps au travail
 {{% /markdown %}}
 {{< /content >}}
 
@@ -92,13 +92,13 @@ Signez par simple pression d'un bouton, indépendamment de l'heure et du lieu, d
 {{< /center >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
-
+<br>
 {{< testimonial "testimonial/fr-logo-99w.svg" "Stéphane Schwab, Chef de E-Gouvernement du canton de Fribourg" >}}
 "Grâce à Skribble, nous pouvons numériser les processus administratifs de A à Z. <br class="hide-for-mobile">Cela facilite notre vie quotidienne et celle de nos clients." {{< /testimonial >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< content top=12 width=narrow >}}
+{{< content top=20 text=center width=narrow >}}
 {{% markdown %}}
 # Avec Skribble, vous remplissez <br class="hide-for-mobile">les exigences légales
 Avec Skribble, vous signez légalement et en toute sécurité
@@ -122,7 +122,7 @@ Skribble et ses partenaires gèrent leurs données conformément à la loi féd�
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< content top=12 width=narrow >}}
+{{< content top=24 text=center width=narrow >}}
 {{% markdown %}}
 # Utilisez Skribble pour maximiser la force probante de votre signature
 La loi établit une distinction entre les signatures électroniques qualifiées (SEQ)
@@ -145,14 +145,14 @@ en termes de domaine d'application et de force probante. Sur Skribble, vous pouv
 {{< /cta >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
-
+<br>
 {{< testimonial "testimonial/easyjet-155w.svg" "Sarah Jackson, Country HR & Administration Manager easyJet" >}}
 "Dans l'environnement des RH qui évolue rapidement, il est important d'être aussi efficace que possible. Cela a été difficile jusqu'à présent avec notre processus de signature analogique, car je suis constamment sur la route entre différents endroits."
 {{< /testimonial >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< logos-container top=6 bottom=10 title="Connu depuis les médias:">}}
+{{< logos-container top=20 bottom=18 title="Connu depuis les médias:">}}
   {{< logos-item src="logos/srf-logo-180w.svg" alt="SRF-Schweizer Radio und Fernsehen">}}
   {{< logos-item src="logos/handelszeitung-logo-240w.svg" alt="Handelszeitung">}}
   {{< logos-line-break >}}
