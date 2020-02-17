@@ -44,3 +44,8 @@
 [[redirects]]
   from = "/fr/validateur-qes/"
   to = "/fr/validateur-seq/"
+
+[[redirects]]
+  from = "/*"
+  to = "/404.html"
+  status = 404
