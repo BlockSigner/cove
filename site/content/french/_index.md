@@ -82,17 +82,17 @@ Signez par simple pression d'un bouton, indépendamment de l'heure et du lieu, d
 
 {{< picture skribble-ui-fr 1020 "Skribble plattform - user interface" >}}
 
-{{< center >}}
+{{< content bottom=15 text=center >}}
 {{< button
   "Afficher toutes les fonctions"
   "/fr/fonctionnalites/"
   ""
   "outline"
 >}}
-{{< /center >}}
+{{< /content >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
-<br>
+
 {{< testimonial "testimonial/fr-logo-99w.svg" "Stéphane Schwab, Chef de E-Gouvernement du canton de Fribourg" >}}
 "Grâce à Skribble, nous pouvons numériser les processus administratifs de A à Z. <br class="hide-for-mobile">Cela facilite notre vie quotidienne et celle de nos clients." {{< /testimonial >}}
 
@@ -134,6 +134,7 @@ en termes de domaine d'application et de force probante. Sur Skribble, vous pouv
 {{< picture force_probante 664 "Force_Probante" >}}
 
 {{< cta
+  bottom=24
   label="En savoir plus"
   href="/fr/normessignature/"
   outlined="true"
@@ -145,7 +146,7 @@ en termes de domaine d'application et de force probante. Sur Skribble, vous pouv
 {{< /cta >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
-<br>
+
 {{< testimonial "testimonial/easyjet-155w.svg" "Sarah Jackson, Country HR & Administration Manager easyJet" >}}
 "Dans l'environnement des RH qui évolue rapidement, il est important d'être aussi efficace que possible. Cela a été difficile jusqu'à présent avec notre processus de signature analogique, car je suis constamment sur la route entre différents endroits."
 {{< /testimonial >}}

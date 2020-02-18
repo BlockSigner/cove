@@ -84,16 +84,16 @@ und EU-Recht.
 
 {{< picture skribble-ui-de 1020 "Skribble plattform - user interface" >}}
 
-{{< center >}}
+{{< content bottom=15 text=center >}}
 {{< button
   "Alle Funktionen anzeigen"
   "de/features"
   ""
   "outline">}}
-{{< /center >}}
+{{< /content >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
-<br>
+
 {{< testimonial "testimonial/fr-logo-99w.svg" "Stéphane Schwab, Leiter E-Government, Kanton Freiburg" >}}
 "Dank Skribble können wir Administrationsprozesse von A bis Z digitalisieren. Das erleichtert
 den Alltag für uns und unseren Kunden." {{< /testimonial >}}
@@ -136,6 +136,7 @@ variieren punkto Einsatzgebiet und Beweiskraft.
 
 
 {{< cta
+  bottom=24
   label="Erfahre mehr"
   href="/de/signaturstandards/"
   outlined="true"
@@ -148,7 +149,7 @@ den Signaturstandards FES und QES wählen.**
 {{< /cta >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
-<br>
+
 {{< testimonial "testimonial/easyjet-155w.svg" "Sarah Jackson, Country HR & Administration Manager easyJet" >}}
 "Im schnelllebigen HR-Umfeld ist es wichtig, so effizient wie möglich zu sein. Das war mit unserem analogen Signaturprozess bisher schwierig, denn ich bin ständig auf Achse zwischen verschiedenen Standorten"
 {{< /testimonial >}}

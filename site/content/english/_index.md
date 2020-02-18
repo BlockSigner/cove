@@ -86,17 +86,17 @@ Sign at the push of a button, independent of time and place, legally valid accor
 
 {{< picture skribble-ui-en 1020 "Skribble plattform - user interface" >}}
 
-{{< center >}}
+{{< content bottom=15 text=center >}}
 {{< button
   "Show all features"
   "features"
   ""
   "outline"
 >}}
-{{< /center >}}
+{{< /content >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
-<br>
+
 {{< testimonial "testimonial/fr-logo-99w.svg" "Stéphane Schwab, Head of E-Government, State of Fribourg" >}}
 "Thanks to Skribble, we can digitize administrative processes from A to Z.
 This makes everyday life easier for
@@ -108,7 +108,7 @@ us and our customers." {{< /testimonial >}}
 {{< content top=20 text=center width=narrow >}}
 {{% markdown %}}
 # Skribble complies with legal requirements
-With Skribble you sign legally and securely according 
+With Skribble you sign legally and securely according
 to the following requirements:
 {{% /markdown %}}
 {{< /content >}}
@@ -132,7 +132,7 @@ Skribble and its signing partner Swisscom commit to manage data in accordance wi
 {{< content top=24 text=center width=narrow >}}
 {{% markdown %}}
 # Use Skribble to maximise the legal weight of your signature
-The law distinguishes between qualified e-signatures (QES) 
+The law distinguishes between qualified e-signatures (QES)
 and advanced e-signatures (AES). The two standards vary in terms
 of area of application and legal weight.
 {{% /markdown %}}
@@ -141,6 +141,7 @@ of area of application and legal weight.
 {{< picture legal_weight 664 "Legal-weight" >}}
 
 {{< cta
+  bottom=24
   label="Learn more"
   href="/signaturestandards/"
   outlined="true"
@@ -152,7 +153,7 @@ of area of application and legal weight.
 {{< /cta >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
-<br>
+
 {{< testimonial "testimonial/easyjet-155w.svg" "Sarah Jackson, Country HR & Administration Manager easyJet" >}}
 "In the fast moving HR environment, it is important to be as efficient as possible. Constantly on the move between various locations, working with people who do not always work normal office hours, Skribble has helped a lot."
 {{< /testimonial >}}
