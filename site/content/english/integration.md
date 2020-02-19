@@ -12,7 +12,8 @@ og_image: og/og-skribble-identification.jpg
 {{< content class="no-bottom-padding" >}}
 {{% heading %}}
 # Skribble Integration
-With Skribble, you choose an online platform that combines technological security with simplicity.
+With Skribble, you choose an online platform that combines
+technological security with simplicity.
 {{% /heading %}}
 {{< /content >}}
 
