@@ -5,7 +5,7 @@ draft: false
 description: Conditions d'utilisation meta description
 ---
 
-{{< content top=12 >}}
+{{< content top=16 >}}
 {{% markdown legal %}}
 # Skribble Conditions d'utilisation<br>de Skribble SA
 

@@ -9,7 +9,7 @@ og_image: og/og-skribble-identification.jpg
 
 ---
 
-{{< content text=center top=12 width=narrow >}}
+{{< content text=center top=16 bottom=8 width=narrow >}}
 {{% markdown %}}
 # Electronic signature for lawyers
 With Skribble you sign without USB stick or card reader
@@ -66,7 +66,7 @@ law firms and authorities/courts in Switzerland**
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< side-by-side top=12 bottom=24 mobile-top=6 mobile-bottom=12 img=crm-systeme-lawyer img-position=right img-width=421 img-alt="Existing systems, e.g. Google Drive, One Drive, Drop Box or Secure Safe" >}}
+{{< side-by-side top=24 bottom=16 mobile-top=6 mobile-bottom=12 img=crm-systeme-lawyer img-position=right img-width=421 img-alt="Existing systems, e.g. Google Drive, One Drive, Drop Box or Secure Safe" >}}
 {{% markdown %}}
 ## No new software required
 Stay with familiar tools: Sign directly via your browser or from your existing software.
@@ -87,7 +87,7 @@ solution for qualified electronic signatures in Switzerland."
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< content text=center top=12 width=narrow >}}
+{{< content text=center top=24 width=narrow >}}
 {{% markdown %}}
 # Skribble complies with the legal requirements for court processes
 You sign with legal effect and securely in accordance
@@ -111,7 +111,7 @@ Skribble and its signing partner Swisscom commit to manage data in accordance wi
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< content text=center top=12 width=narrow >}}
+{{< content text=center top=24 width=narrow >}}
 {{% markdown %}}
 # Use Skribble to maximise the legal weight of your signature
 The law distinguishes between qualified e-signatures (QES)
@@ -137,7 +137,7 @@ between the signature standards AES and QES.**
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
 
-{{< content text=center top=12 width=narrow >}}
+{{< content text=center top=24 bottom=4 width=narrow >}}
 {{% markdown %}}
 # Get identified
 This will unlock the highest e-signature standard available – QES.
@@ -166,7 +166,7 @@ digital identities"
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< content text=center top=12 width=narrow >}}
+{{< content text=center top=16 bottom=4 width=narrow >}}
 {{% markdown %}}
 # All clear?
 {{% /markdown %}}

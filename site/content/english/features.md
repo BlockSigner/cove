@@ -10,7 +10,7 @@ type: features
 
 ---
 
-{{< content text=center top=12 width=narrow >}}
+{{< content text=center top=16 width=narrow >}}
 {{% markdown %}}
 # Skribble Features
 With Skribble you not only sign legally, but also with ease.

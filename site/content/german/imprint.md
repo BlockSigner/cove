@@ -5,7 +5,7 @@ draft: false
 slug: impressum
 ---
 
-{{< content top=12 width=narrow >}}
+{{< content top=16 width=narrow >}}
 {{% markdown %}}
 # Impressum
 

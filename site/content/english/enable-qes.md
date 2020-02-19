@@ -11,10 +11,9 @@ og_image: og/og-skribble-identification.jpg
 
 {{< content text=center top=12 width=narrow >}}
 {{% markdown %}}
-# Maximise the legal weight <br class="hide-for-mobile">of your electronic signature
-Enable the highest e-signing standard (QES)
-by getting yourself identified by personal contact
-with the Swisscom ID app.
+# Maximise the legal weight of your electronic signature
+Enable the highest e-signing standard (QES) by getting yourself identified 
+by personal contact with the Swisscom ID app.
 {{% /markdown %}}
 {{< /content >}}
 
@@ -63,42 +62,42 @@ The legal weight of your signature is raised to 100% (QES level)
 {{< /content >}}
 
 {{< content top=6 width=narrow >}}
-{{< collapsible 1 "Maximise the legal weight of your electronic signature" >}}
+{{% collapsible 1 "Maximise the legal weight of your electronic signature" %}}
 At Skribble you sign with the qualified electronic signature (QES). This is [the highest e-signature standard](/signaturestandards). For this, the law requires an identity verification through personal contact. Exceptions are financial intermediaries who may
 carry out identity verification using video identification.{{< /collapsible >}}
 
-{{< collapsible 2 "Do I have to be identified again before each QES signature?" >}}
+{{% collapsible 2 "Do I have to be identified again before each QES signature?" %}}
 No. Your e-ID is valid for 5 years or until the expiry of the document of identification you presented during identification.
 {{< /collapsible >}}
 
-{{< collapsible 3 "Which identification documents can I use for identification?" >}}
+{{% collapsible 3 "Which identification documents can I use for identification?" %}}
 A valid passport or identity card. All other forms of identification
 such as a residence permit or driving licence are not sufficient.
 {{< /collapsible >}}
 
-{{< collapsible 4 "Where are the data of the identified users stored?" >}}
+{{% collapsible 4 "Where are the data of the identified users stored?" %}}
 The data collected are stored on Swisscom's high-security servers
 in Switzerland (Tier IV certification).
 {{< /collapsible >}}
 
-{{< collapsible 5 "Does QES require a Mobile ID?" >}}
+{{% collapsible 5 "Does QES require a Mobile ID?" %}}
 No. But a Mobile ID makes signing faster and easier, which is why we recommend it. On Mobile-ID.ch you can check whether your smartphone already has a Mobile ID and whether the function is activated.
 If this is not the case, a new SIM card with Mobile ID can be ordered
  free of charge from most providers.
 {{< /collapsible >}}
 
-{{< collapsible 6 "What if I haven't been identified yet?" >}}
+{{% collapsible 6 "What if I haven't been identified yet?" %}}
 Personal identification is only required for signing with the highest e-signature standard (QES). If you have not yet been identified in personal contact, you sign with the second highest standard (AES).
 {{< /collapsible >}}
 {{< /content >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< content text=center top=12 >}}
+{{< content text=center top=24 bottom=8 >}}
 {{% markdown %}}
 # Identification sites
-Come by and get identified for free.
-Bring a valid passport or your identity card as well as your mobile phone.
+Come by and get identified for free. Bring a valid passport 
+or your identity card as well as your mobile phone.
 {{% /markdown %}}
 {{< /content >}}
 

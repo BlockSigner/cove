@@ -8,7 +8,7 @@ og_image: og/og-skribble-identification.jpg
 
 ---
 
-{{< content text=center top=12 width=narrow >}}
+{{< content text=center top=16 bottom=4 width=narrow >}}
 {{% markdown %}}
 # Contrôle d'identité pour la SEQ
 Pour la signature électronique qualifiée (SEQ),
@@ -31,7 +31,7 @@ le signataire doit prouver son identité. Skribble vous aidera.
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< content text=center top=12 width=narrow >}}
+{{< content text=center top=24 bottom=8 width=narrow >}}
 {{% markdown %}}
 # Utiliser une e-ID existante
 Les personnes qui ont une e-ID vérifiée peuvent signer avec SEQ

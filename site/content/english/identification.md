@@ -8,7 +8,7 @@ og_image: og/og-skribble-identification.jpg
 
 ---
 
-{{< content text=center top=12 width=narrow >}}
+{{< content text=center top=16 bottom=4 width=narrow >}}
 {{% markdown %}}
 # Identity verification for QES
 For signing with the highest e-signature standard (QES),
@@ -33,7 +33,7 @@ Skribble makes it easy**
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< content text=center top=12 width=narrow >}}
+{{< content text=center top=24 bottom=8 width=narrow >}}
 {{% markdown %}}
 # Use your existing e-ID
 Persons who have a verified e-ID can sign with QES on Skribble

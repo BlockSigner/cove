@@ -9,7 +9,7 @@ og_image: og/og-skribble-identification.jpg
 
 ---
 
-{{< content text=center top=12 width=narrow >}}
+{{< content text=center top=16 bottom=8 width=narrow >}}
 {{% markdown %}}
 # Sign electronically in HR
 With Skribble you sign legally and easily in a digital way –
@@ -61,11 +61,10 @@ Digitalisation enabler: HR enables the workforce to sign electronically and can 
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< side-by-side top=12 bottom=24 mobile-top=6 mobile-bottom=12 img=integrations img-position=right img-width=381 img-alt="Existing systems, e.g. Google Drive, One Drive, Drop Box or Secure Safe" >}}
+{{< side-by-side top=12 bottom=12 mobile-top=6 mobile-bottom=12 img=integrations img-position=right img-width=381 img-alt="Existing systems, e.g. Google Drive, One Drive, Drop Box or Secure Safe" >}}
 {{% markdown %}}
 ## No new software required
 Stay with familiar tools: sign directly via your browser or from your existing software.
-(Coming end of 2019)
 
 - **Sign directly via your browser**
 - **Integrate Skribble as a plug-in into SAP and other industry solutions**
@@ -78,7 +77,8 @@ Stay with familiar tools: sign directly via your browser or from your existing s
 {{< content text=center top=12 width=narrow >}}
 {{% markdown %}}
 # Skribble complies with the legal requirements for HR processes
-You sign with legal effect and securely in accordance with the following requirements:
+You sign with legal effect and securely in accordance 
+with the following requirements:
 {{% /markdown %}}
 {{< /content >}}
 
@@ -124,7 +124,7 @@ How we at Skribble make everyday life easier for our customers.
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
 
-{{< content text=center top=12 width=narrow >}}
+{{< content text=center top=24 width=narrow >}}
 {{% markdown %}}
 # Use Skribble to maximise the legal weight of your signature
 The law distinguishes between qualified e-signatures (QES)
@@ -149,7 +149,7 @@ between the signature standards AES and QES.**
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< content text=center top=12 width=narrow >}}
+{{< content text=center top=24 bottom=4 width=narrow >}}
 {{% markdown %}}
 # Get identified
 This will unlock the highest e-signature standard available – QES.

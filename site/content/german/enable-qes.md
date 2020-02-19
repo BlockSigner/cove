@@ -11,7 +11,7 @@ og_image: og/og-skribble-identification.jpg
 
 {{< content text=center top=12 width=narrow >}}
 {{% markdown %}}
-# Maximiere die Beweiskraft <br class="hide-for-mobile">deiner E-Signatur
+# Maximiere die Beweiskraft deiner E-Signatur
 Schalte den höchsten verfügbaren E-Signatur-Standard (QES) frei,
 in dem du dich im persönlichen Kontakt mit der ID-App
 von Swisscom identifizieren lässt.
@@ -41,8 +41,7 @@ Wir scannen und prüfen deinen Ausweis mit der ID-App von Swisscom.
 {{< picture "identification-step-3" 270 "Ein mann der erfolgreich elektronisch identifiziert ist" >}}
 {{% markdown %}}
 **Schritt 3**
-Swisscom verifiziert deine Daten
-und legt sie sicher ab.
+Swisscom verifiziert deine Daten und legt sie sicher ab.
 {{% /markdown %}}
 {{< /step >}}
 
@@ -93,7 +92,7 @@ Die persönliche Identifikation wird nur für das Signieren mit dem höchsten E-
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< content text=center top=12 >}}
+{{< content text=center top=24 bottom=8 >}}
 {{% markdown %}}
 # Standorte für die Identitätsprüfung
 Komm vorbei und lass dich kostenlos identifizieren.

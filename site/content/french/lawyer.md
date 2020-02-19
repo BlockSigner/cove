@@ -9,7 +9,7 @@ og_image: og/og-skribble-identification.jpg
 
 ---
 
-{{< content text=center top=12 width=narrow >}}
+{{< content text=center top=16 bottom=8 width=narrow >}}
 {{% markdown %}}
 # Signature électronique pour juristes
 Avec Skribble vous signez sans clé USB ou lecteur de carte
@@ -43,7 +43,7 @@ le contrat a été signé**
 Dossier de signature numérique: collectez vos contrats numériquement et signez-les simultanément en quelques clics. Grâce au standard SEQ, vous n'avez pas besoin d'une clé USB ou d'un lecteur de carte.
 
 - **Signature par lots pour un nombre
-quelconque de contrats **
+quelconque de contrats**
 - **Authentification à deux facteurs par téléphone
 mobile – aucun matériel externe requis**
 - **Indépendamment de l'heure et du lieu**
@@ -52,7 +52,7 @@ mobile – aucun matériel externe requis**
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< side-by-side top=12 bottom=12 mobile-top=6 mobile-bottom=6 img=authorities-input img-width=394 img-alt="Deux personnes interviennent pas à pas auprès des autorités" >}}
+{{< side-by-side top=12 bottom=8 mobile-top=6 mobile-bottom=6 img=authorities-input img-width=394 img-alt="Deux personnes interviennent pas à pas auprès des autorités" >}}
 {{% markdown %}}
 ## Faites des soumissions <br class="hide-for-mobile">aux autorités en ligne
 Des modifications du registre du commerce
@@ -67,7 +67,7 @@ aux requêtes judiciaires: il n'est pas nécessaire d'imprimer, d'envoyer ou de 
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< side-by-side top=12 bottom=24 mobile-top=6 mobile-bottom=12 img=crm-systeme-lawyer img-position=right img-width=421 img-alt="Signez à partir de vos systèmes existants, par exemple WinJur ou Vertec." >}}
+{{< side-by-side top=12 bottom=12 mobile-top=6 mobile-bottom=12 img=crm-systeme-lawyer img-position=right img-width=421 img-alt="Signez à partir de vos systèmes existants, par exemple WinJur ou Vertec." >}}
 {{% markdown %}}
 ## Aucun nouveau logiciel requis
 Restez avec des outils familiers: connectez-vous directement via votre navigateur ou signez
@@ -93,8 +93,8 @@ qualifiées en Suisse."
 {{< content text=center top=12 width=narrow >}}
 {{% markdown %}}
 # Avec Skribble, vous répondez aux exigences des procédures légales
-Avec Skribble, vous signez légalement et en toute sécurité en remplissant
-les conditions suivantes:
+Avec Skribble, vous signez légalement et en toute sécurité 
+en remplissant les conditions suivantes:
 {{% /markdown %}}
 {{< /content >}}
 
@@ -114,7 +114,7 @@ Skribble et ses partenaires gèrent leurs données conformément à la loi féd�
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< content text=center top=12 width=narrow >}}
+{{< content text=center top=24 width=narrow >}}
 {{% markdown %}}
 # Utilisez Skribble pour maximiser la force probante de votre signature
 La loi établit une distinction entre les signatures électroniques qualifiées (SEQ)
@@ -140,11 +140,11 @@ Sur Skribble, vous pouvez choisir entre les deux.
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
 
-{{< content text=center top=12 width=narrow >}}
+{{< content text=center top=24 bottom=4 width=narrow >}}
 {{% markdown %}}
 # Laissez-vous identifier
-Cela débloque la norme de signature électronique la plus élevée du marché: la SEQ.
-Vous n'avez besoin que d'un document de voyage valide
+Cela débloque la norme de signature électronique la plus élevée du marché: 
+la SEQ. Vous n'avez besoin que d'un document de voyage valide 
 (pièce d'identité ou passeport).
 {{% /markdown %}}
 {{< /content >}}
@@ -170,7 +170,7 @@ Vous n'avez besoin que d'un document de voyage valide
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
 
-{{< content text=center top=12 width=narrow >}}
+{{< content text=center top=16 bottom=4 width=narrow >}}
 {{% markdown %}}
 # Est-ce que ça va?
 {{% /markdown %}}

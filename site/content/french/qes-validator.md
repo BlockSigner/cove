@@ -6,7 +6,7 @@ slug: validateur-seq
 
 ---
 
-{{< content text=center top=12 width=narrow >}}
+{{< content text=center top=16 bottom=8 width=narrow >}}
 {{% markdown %}}
 # Vérifiez si un document <br class="hide-for-mobile">a été signé avec la SEQ
 Le validateur de l'administration fédérale suisse vous permet

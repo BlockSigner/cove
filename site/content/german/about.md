@@ -8,7 +8,7 @@ og_image: og/og-skribble-mission.jpg
 
 ---
 
-{{< content text=center top=12 width=narrow >}}
+{{< content text=center top=16 width=narrow >}}
 {{% markdown %}}
 # Skribble schafft Vertrauen <br class="hide-for-mobile">in der digitalen Welt
 Es war einmal die Unterschrift &ndash; heute signieren wir mit Skribble.

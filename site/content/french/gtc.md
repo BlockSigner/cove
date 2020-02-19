@@ -6,7 +6,7 @@ description: Conditions Générales (CG) de Skribble SA
 
 ---
 
-{{< content top=12 width=narrow >}}
+{{< content top=16 width=narrow >}}
 {{% markdown %}}
 # Conditions Générales (CG) de Skribble SA
 (Version 2019.10.01)

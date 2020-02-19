@@ -6,7 +6,7 @@ slug: signaturstandards
 
 ---
 
-{{< content text=center top=12 width=narrow >}}
+{{< content text=center top=16 width=narrow >}}
 {{% markdown %}}
 # Wie viel Beweiskraft braucht meine E-Signatur?
 Das Gesetz unterscheidet zwischen der qualifizierten E-Signatur (QES) und
@@ -75,7 +75,7 @@ Prüfe, ob ein Dokument mit QES signiert wurde.
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< content text=center top=12 width=narrow >}}
+{{< content text=center top=24 width=narrow >}}
 {{% markdown %}}
 # FES: Die pragmatische Lösung für Verträge ohne Formvorschrift
 Sofort einsatzbereit dank geringeren Auflagen

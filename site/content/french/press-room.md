@@ -8,7 +8,7 @@ og_image: og/og-skribble-mission.jpg
 
 ---
 
-{{< content text=center top=12 width=narrow >}}
+{{< content text=center top=16 bottom=4 width=narrow >}}
 {{% markdown %}}
 # Skribble pour les médias
 Retrouvez ici tout le nécessaire pour écrire sur Skribble.
@@ -17,7 +17,7 @@ Retrouvez ici tout le nécessaire pour écrire sur Skribble.
 
 {{< picture image12 688 "Un astronaute vole avec un stylo plume géant devant un écran et signe électroniquement" >}}
 
-{{< content top=12 width=narrow >}}
+{{< content top=12 bottom=8 width=narrow >}}
 {{% markdown %}}
 Fondé en mars 2018, Skribble est un fournisseur suisse de signatures électroniques ayant des bureaux à Zurich (CH) et à Karlsruhe (DE). La société TrustTech permet de signer des documents électroniques facilement et légalement. La base est constituée par des normes légalement réglementées, y compris la signature électronique qualifiée (SEQ) – la seule forme de signature électronique qui équivaut à une signature manuscrite devant la loi. Swisscom fournit la technologie de certification homologuée par l’Etat pour la SEQ. Le canton de Fribourg fait partie de ses clients actuels. Skribble compte 15 employés.
 {{% /markdown %}}

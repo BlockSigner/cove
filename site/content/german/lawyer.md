@@ -9,7 +9,7 @@ og_image: og/og-skribble-identification.jpg
 
 ---
 
-{{< content text=center top=12 width=narrow >}}
+{{< content text=center top=16 bottom=8 width=narrow >}}
 {{% markdown %}}
 # Elektronische Signatur für Anwälte
 Über Skribble signierst du ohne USB-Stick oder Card-Reader
@@ -52,7 +52,7 @@ keine externe Hardware erforderlich**
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< side-by-side top=12 bottom=12 mobile-top=6 mobile-bottom=6 img=authorities-input img-width=394 img-alt="Zwei Leute machen Schritt-für Schritt eine Behörden Eingabe" >}}
+{{< side-by-side top=12 bottom=8 mobile-top=6 mobile-bottom=6 img=authorities-input img-width=394 img-alt="Zwei Leute machen Schritt-für Schritt eine Behörden Eingabe" >}}
 {{% markdown %}}
 ## Eingaben bei Behörden <br class="hide-for-mobile">machst du online
 Von Änderungen am Handelsregister bis Gerichtseingaben: Das Ausdrucken, Versenden und Einscannen entfällt.
@@ -66,7 +66,7 @@ Kanzleien und Behörden/Gerichten in der Schweiz**
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< side-by-side top=12 bottom=24 mobile-top=6 mobile-bottom=12 img=crm-systeme-lawyer img-position=right img-width=421 img-alt="Signiere aus deinen gewohnten Tools heraus, beispielsweise WinJur oder Vertec." >}}
+{{< side-by-side top=12 bottom=8 mobile-top=6 mobile-bottom=12 img=crm-systeme-lawyer img-position=right img-width=421 img-alt="Signiere aus deinen gewohnten Tools heraus, beispielsweise WinJur oder Vertec." >}}
 {{% markdown %}}
 ## Keine neue Software notwendig
 Bei gewohnten Tools bleiben: Signiere direkt über den Browser oder aus deiner bestehenden Software heraus.
@@ -80,7 +80,7 @@ Lösungen einbinden**
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< content text=center top=12 width=narrow >}}
+{{< content text=center top=24 width=narrow >}}
 {{% markdown %}}
 # Mit Skribble erfüllst du <br class="hide-for-mobile">die rechtlichen Anforderungen <br class="hide-for-mobile">an Anwalts-Prozessen
 Du signierst rechtsgültig und sicher gemäss folgenden Erfordernissen:
@@ -103,7 +103,7 @@ Skribble sowie Partner verwalten ihre Daten gemäss dem Bundesgesetz über den D
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< content text=center top=12 width=narrow >}}
+{{< content text=center top=24 width=narrow >}}
 {{% markdown %}}
 # Unser Kunden haben gut lachen
 Wie wir den Alltag unserer Kunden erleichtern.
@@ -117,7 +117,7 @@ der kompletten Digitalisierung von Prozessen einen riesigen Schritt näher."
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< content text=center top=12 width=narrow >}}
+{{< content text=center top=24 width=narrow >}}
 {{% markdown %}}
 # Mit Skribble maximierst du die Beweiskraft deiner Signatur
 Das Gesetz unterscheidet zwischen der qualifizierten E-Signatur (QES)
@@ -142,7 +142,7 @@ den Signaturstandards FES und QES wählen.**
 {{% /markdown %}}
 {{< /cta >}}
 
-{{< content text=center top=12 width=narrow >}}
+{{< content text=center top=12 bottom=4 width=narrow >}}
 {{% markdown %}}
 # Lass dich identifizieren
 Damit schaltest du den höchsten verfügbaren E-Signatur-Standard QES frei.
@@ -171,7 +171,7 @@ aus und lass dich identifizieren**
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< content text=center top=12 width=narrow >}}
+{{< content text=center top=16 bottom=4 width=narrow >}}
 {{% markdown %}}
 # Alles klar?
 {{% /markdown %}}

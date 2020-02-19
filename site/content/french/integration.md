@@ -9,7 +9,7 @@ og_image: og/og-skribble-identification.jpg
 
 ---
 
-{{< content text=center top=12 width=narrow >}}
+{{< content text=center top=12 bottom=8 width=narrow >}}
 {{% markdown %}}
 # Intégration de Skribble
 Avec Skribble, vous choisissez une plate-forme de cloud
@@ -19,7 +19,7 @@ qui allie sécurité technologique et simplicité.
 
 {{< picture integration-main 580 "Un ingénieur se tient devant une fenêtre de l'API avec la documentation de l'API." >}}
 
-{{< content text=center top=12 width=narrow >}}
+{{< content text=center top=12 bottom=8 width=narrow >}}
 {{% markdown %}}
 ### Utilisez Skribble via le navigateur ou intégrez la plate-forme dans votre environnement logiciel existant via API.
 {{% /markdown %}}
@@ -55,7 +55,7 @@ L'API de Skribble ne laisse rien à désirer."
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< content text=center top=12 width=narrow >}}
+{{< content text=center top=12 bottom=16 width=narrow >}}
 {{% markdown %}}
 # Avec Skribble, vous travaillez selon <br class="hide-for-mobile">les plus hauts standards de technologie et de sécurité.
 {{% /markdown %}}
@@ -99,7 +99,7 @@ de qualité, de fiabilité et de précision dans le développement de logiciels.
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< content text=center top=12 width=narrow >}}
+{{< content text=center top=12 bottom=4 width=narrow >}}
 {{% markdown %}}
 # Essayez l'API
 Vous pouvez créer une clé de démonstration

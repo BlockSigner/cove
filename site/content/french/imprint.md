@@ -6,7 +6,7 @@ slug: impressum
 type: narrow
 ---
 
-{{< content top=12 width=narrow >}}
+{{< content top=16 width=narrow >}}
 {{% markdown %}}
 # Impressum
 

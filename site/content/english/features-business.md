@@ -10,7 +10,7 @@ type: business-features
 
 ---
 
-{{< content text=center top=12 width=narrow >}}
+{{< content text=center top=16 width=narrow >}}
 {{% markdown %}}
 # Business features
 Skribble Business customers sign organised as a group - with
@@ -47,7 +47,7 @@ Skribble Business customers sign organised as a group - with
     description="View the current and all past invoices at any time.">}}
 {{< /features-container >}}
 
-{{< content text=center top=12 width=narrow >}}
+{{< content text=center top=24 bottom=12 width=narrow >}}
 {{% markdown %}}
 # Skribble Business embeds itself into your existing infrastructure
 The onboarding of new signers is intuitive and fast.
@@ -89,7 +89,7 @@ in the shortest possible time. Choose the onboarding process that fits your requ
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< side-by-side top=24 bottom=12 img=onboarding-qes-en img-width=380 img-alt="A large contract (QES) with a court" >}}
+{{< side-by-side top=12 bottom=12 img=onboarding-qes-en img-width=380 img-alt="A large contract (QES) with a court" >}}
 {{% markdown %}}
 ## On-Boarding for the qualified electronic signature (QES)
 Identification services for highest demands on the legal weight of the signature. Suitable for contracts with formal requirements.
@@ -105,7 +105,7 @@ Identification services for highest demands on the legal weight of the signature
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< content text=center top=12 width=narrow >}}
+{{< content text=center top=8 bottom=8 width=narrow >}}
 {{% markdown %}}
 # Ideal cost-benefit ratio
 Choose the right pricing model for your organization.
@@ -113,7 +113,7 @@ Choose the right pricing model for your organization.
 {{< /content >}}
 
 {{< picture preismodelle 590 "Eine Frau mit roten Haaren vergliecht verschiedene Preismodelle." >}}
-
+<br>
 {{< center >}}
 {{< button
   "Compare price models"

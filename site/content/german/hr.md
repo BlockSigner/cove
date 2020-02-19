@@ -9,7 +9,7 @@ og_image: og/og-skribble-identification.jpg
 
 ---
 
-{{< content text=center top=12 width=narrow >}}
+{{< content text=center top=16 bottom=8 width=narrow >}}
 {{% markdown %}}
 # Elektronisch signieren im HR
 Mit Skribble signierst du rechtssicher und einfach auf digitalem Weg –
@@ -67,7 +67,7 @@ im anerkannten PDF X/A-Format**
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< side-by-side top=12 bottom=24 mobile-top=6 mobile-bottom=12 img=integrations img-position=right img-width=381 img-alt="Verbindung der unterschiedlichen Beteiligten bei Gebrauch von Skribble aus einem HRM visuell dargestellt" >}}
+{{< side-by-side top=12 bottom=12 mobile-top=6 mobile-bottom=12 img=integrations img-position=right img-width=381 img-alt="Verbindung der unterschiedlichen Beteiligten bei Gebrauch von Skribble aus einem HRM visuell dargestellt" >}}
 {{% markdown %}}
 ## Keine neue Software notwendig
 Bei gewohnten Tools bleiben: Signiere direkt über den Browser oder aus deiner bestehenden Software heraus. (Kommt Ende 2019)
@@ -80,7 +80,7 @@ Bei gewohnten Tools bleiben: Signiere direkt über den Browser oder aus deiner b
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< content text=center top=12 width=narrow >}}
+{{< content text=center top=24 width=narrow >}}
 {{% markdown %}}
 # Mit Skribble erfüllst du <br class="hide-for-mobile">die rechtlichen Anforderungen <br class="hide-for-mobile">an HR-Prozesse
 Du signierst rechtsgültig und sicher gemäss folgenden Erfordernissen:
@@ -103,7 +103,7 @@ Skribble sowie Partner verwalten ihre Daten gemäss dem Bundesgesetz über den D
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< content text=center top=12 width=narrow >}}
+{{< content text=center top=24 width=narrow >}}
 {{% markdown %}}
 # Unser Kunden haben gut lachen
 Wie wir den Alltag unserer Kunden erleichtern.
@@ -128,7 +128,7 @@ Wie wir den Alltag unserer Kunden erleichtern.
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< content text=center top=12 width=narrow >}}
+{{< content text=center top=24 width=narrow >}}
 {{% markdown %}}
 # Mit Skribble maximierst du <br class="hide-for-mobile">die Beweiskraft deiner Signatur
 Das Gesetz unterscheidet zwischen der qualifizierten E-Signatur (QES)
@@ -153,7 +153,7 @@ den Signaturstandards FES und QES wählen.**
 {{% /markdown %}}
 {{< /cta >}}
 
-{{< content text=center top=12 width=narrow >}}
+{{< content text=center top=24 bottom=4 width=narrow >}}
 {{% markdown %}}
 # Lass dich identifizieren
 Damit schaltest du den höchsten verfügbaren E-Signatur-Standard QES frei.

@@ -11,7 +11,7 @@ og_image: og/og-skribble-identification.jpg
 
 {{< content text=center top=12 width=narrow >}}
 {{% markdown %}}
-# Maximisez la valeur probante <br class="hide-for-mobile">de votre signature électronique
+# Maximisez la valeur probante de votre signature électronique
 Déverrouillez la norme de signature électronique la plus élevée (SEQ)
 en vous identifiant par contact personnel avec l'ID-app de Swisscom.
 {{% /markdown %}}
@@ -89,7 +89,7 @@ Non. Mais avec un Mobile ID, la signature est plus rapide et plus facile, c'est 
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< content text=center top=12 >}}
+{{< content text=center top=24 bottom=8 >}}
 {{% markdown %}}
 # Sites d'identification
 Venez vous identifier gratuitement. Apportez votre passeport

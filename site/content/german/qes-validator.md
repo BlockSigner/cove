@@ -6,7 +6,7 @@ slug: qes-validator
 
 ---
 
-{{< content text=center top=12 width=narrow >}}
+{{< content text=center top=16 bottom=8 width=narrow >}}
 {{% markdown %}}
 # So prüfst du, ob dein Dokument <br class="hide-for-mobile">mit der QES signiert wurde
 Mit dem Validator der Schweizer Bundesverwaltung kannst du prüfen,

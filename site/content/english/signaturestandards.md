@@ -6,11 +6,11 @@ slug: signaturestandards
 
 ---
 
-{{< content text=center top=12 width=narrow >}}
+{{< content text=center top=16 width=narrow >}}
 {{% markdown %}}
 # How much legal weight <br class="hide-for-mobile">does my e-signature need?
-The law distinguishes between qualified e-signatures (QES) and advanced e-signatures (AES). The two standards vary in terms of area of application and legal weight.
-At Skribble you have the choice.
+The law distinguishes between qualified e-signatures (QES) and advanced 
+e-signatures (AES). The two standards vary in terms of area of application and legal weight. At Skribble you have the choice.
 {{% /markdown %}}
 {{< /content >}}
 
@@ -74,7 +74,7 @@ Check whether a document has been signed with QES
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< content text=center top=12 width=narrow >}}
+{{< content text=center top=24 width=narrow >}}
 {{% markdown %}}
 # AES: The pragmatic solution <br class="hide-for-mobile">for contracts without <br class="hide-for-mobile">formal requirements
 Instantly operational thanks to lower requirements

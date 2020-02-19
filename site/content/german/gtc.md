@@ -5,7 +5,7 @@ draft: false
 description: Allgemeine Geschäftsbedingungen (AGB) der Skribble
 ---
 
-{{< content top=12 width=narrow >}}
+{{< content top=16 width=narrow >}}
 {{% markdown %}}
 # Allgemeine Geschäftsbedingungen (AGB) der Skribble
 (Version 2019.10.01)

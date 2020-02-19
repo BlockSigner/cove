@@ -10,7 +10,7 @@ og_image: og/og-skribble-identification.jpg
 
 ---
 
-{{< content text=center top=12 width=narrow >}}
+{{< content text=center top=16 width=narrow >}}
 {{% markdown %}}
 # Fonctionnalités Business
 Les clients Skribble Business signent comme un groupe -
@@ -47,7 +47,7 @@ avec une administration centrale des membres et une facturation commune.
     description="Visualisez les factures actuelles et toutes les factures passées à tout moment.">}}
 {{< /features-container >}}
 
-{{< content text=center top=12 width=narrow >}}
+{{< content text=center top=24 bottom=12 width=narrow >}}
 {{% markdown %}}
 # Skribble Business s'intègre <br class="hide-for-mobile">dans votre infrastructure existante
 L'intégration des nouveaux signataires est intuitive et rapide.
@@ -89,7 +89,7 @@ ou à la norme de signature souhaitée.
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< side-by-side top=24 bottom=12 img=onboarding-seq-fr img-width=380 img-alt="A large contract (QES) with a court" >}}
+{{< side-by-side top=8 bottom=8 img=onboarding-seq-fr img-width=380 img-alt="A large contract (QES) with a court" >}}
 {{% markdown %}}
 ## Intégration pour la signature électronique qualifiée (SEQ)
 Services d'identification pour les plus hautes exigences en matière de force probante de la signature. Convient aux contrats avec des exigences formelles.
@@ -113,7 +113,7 @@ Choisissez le bon modèle de prix pour votre organisation.
 {{< /content >}}
 
 {{< picture preismodelle 590 "Eine Frau mit roten Haaren vergliecht verschiedene Preismodelle." >}}
-
+<br>
 {{< center >}}
 {{< button
   "Comparer les modèles tarifaires"

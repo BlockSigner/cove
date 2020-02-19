@@ -5,7 +5,7 @@ draft: false
 description: terms-of-use meta description
 ---
 
-{{< content top=12 >}}
+{{< content top=16 >}}
 {{% markdown legal %}}
 # Skribble Terms of Use by Skribble AG
 

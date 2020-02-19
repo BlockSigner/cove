@@ -9,7 +9,7 @@ og_image: og/og-skribble-identification.jpg
 
 ---
 
-{{< content text=center top=12 width=narrow >}}
+{{< content text=center top=16 bottom=8 width=narrow >}}
 {{% markdown %}}
 # Skribble Integration
 Mit Skribble wählst du eine Cloud-Plattform,
@@ -19,7 +19,7 @@ die technologische Sicherheit und Einfachheit vereint.
 
 {{< picture integration-main 580 "Ein Ingenieur steht vor einem API-Fenster mit einer API-Dokumenation." >}}
 
-{{< content text=center top=12 width=narrow >}}
+{{< content text=center top=12 bottom=8 width=narrow >}}
 {{% markdown %}}
 ### Nutze Skribble über den Browser oder integriere die Plattform via API in eure bestehende Softwareumgebung
 {{% /markdown %}}
@@ -53,7 +53,7 @@ die technologische Sicherheit und Einfachheit vereint.
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< content text=center top=12 width=narrow >}}
+{{< content text=center top=12 bottom=16 width=narrow >}}
 {{% markdown %}}
 # Mit Skribble arbeitest du auf höchsten Technologie- und Security-Standards
 {{% /markdown %}}
@@ -96,10 +96,11 @@ Skribble trägt das label
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< content text=center top=12 width=narrow >}}
+{{< content text=center top=12 bottom=4 width=narrow >}}
 {{% markdown %}}
 # API ausprobieren
-In deinem Skribble Business Konto kannst du einen Demo-Schlüssel erstellen.
+In deinem Skribble Business Konto kannst du 
+einen Demo-Schlüssel erstellen.
 {{% /markdown %}}
 {{< /content >}}
 

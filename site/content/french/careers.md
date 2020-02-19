@@ -8,7 +8,7 @@ og_image: og/og-career.jpg
 
 ---
 
-{{< content text=center top=12 width=narrow >}}
+{{< content text=center top=16 bottom=8 width=narrow >}}
 {{% markdown %}}
 # Travailler chez Skribble
 Collaborer et progresser avec des personnes motivées et inspirantes.

@@ -5,7 +5,7 @@ draft: false
 description: Politique de Confidentialité méta-description
 ---
 
-{{< content top=12 width=narrow >}}
+{{< content top=16 width=narrow >}}
 {{% markdown %}}
 # Politique de Confidentialité
 

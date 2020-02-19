@@ -9,7 +9,7 @@ og_image: og/og-skribble-identification.jpg
 
 ---
 
-{{< content text=center top=12 width=narrow >}}
+{{< content text=center top=16 bottom=8 width=narrow >}}
 {{% markdown %}}
 # Signer électroniquement dans les RH
 Avec Skribble, vous signez en toute sécurité juridique et en toute simplicité
@@ -27,11 +27,11 @@ par les certificats de salaire.
 ## Compléter le lot <br class="hide-for-mobile">avec une seule signature
 De nouveaux contrats de travail pour tous: le signataire autorisé ne signe plus des centaines de contrats à la main, mais les signe tous à la fois avec la signature par lots de Skribble.
 
-- **Signature par lots pour un nombre
+- **Signature par lots pour un nombre 
 quelconque de contrats de travail**
-- **Inviter automatiquement les employés
+- **Inviter automatiquement les employés 
 à signer des contrats de travail par courriel**
-- **Vue d'ensemble de toutes les signatures
+- **Vue d'ensemble de toutes les signatures 
 entrantes et sortantes**
 {{% /markdown %}}
 {{< /side-by-side >}}
@@ -43,7 +43,7 @@ entrantes et sortantes**
 ## Signature numérique <br class="hide-for-mobile">sans délai des candidats
 Une intégration efficace: vous avez plus de chances d'être choisi comme employeur et l'administration des RH devient plus facile, plus rapide et moins coûteuse.
 
-- **Juridiquement valable pour tout type
+- **Juridiquement valable pour tout type 
 de contrat de travail**
 - **Pas de perte de temps due à l'envoi postal**
 - **Notifier automatiquement la signature
@@ -69,13 +69,13 @@ autorisés par courriel**
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< side-by-side top=12 bottom=24 mobile-top=6 mobile-bottom=12 img=integrations img-position=right img-width=381 img-alt="Signez directement dans vos logiciels RH" >}}
+{{< side-by-side top=12 bottom=12 mobile-top=6 mobile-bottom=12 img=integrations img-position=right img-width=381 img-alt="Signez directement dans vos logiciels RH" >}}
 {{% markdown %}}
 ## Aucun nouveau logiciel requis
-Restez avec des outils familiers: signez à partir de vos programmes existants, par exemple Google Drive, One Drive, Drop Box ou Secure Safe. (A venir fin 2019)
+Restez avec des outils familiers: signez à partir de vos programmes existants, par exemple Google Drive, One Drive, Drop Box ou Secure Safe. 
 
 - **Signer directement via le navigateur**
-- **Intégrer Skribble en tant que plug-in dans SAP
+- **Intégrer Skribble en tant que plug-in dans SAP 
 et d'autres solutions sectorielles**
 - **Intégrer parfaitement via des API modernes**
 {{% /markdown %}}
@@ -83,7 +83,7 @@ et d'autres solutions sectorielles**
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< content text=center top=12 width=narrow >}}
+{{< content text=center top=24 width=narrow >}}
 {{% markdown %}}
 # Avec Skribble, vous répondez aux exigences légales des processus RH
 Avec Skribble, vous pouvez signer numériquement et légalement (SEQ)
@@ -107,7 +107,7 @@ Skribble et ses partenaires gèrent leurs données conformément à la loi féd�
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< content text=center top=12 width=narrow >}}
+{{< content text=center top=24 width=narrow >}}
 {{% markdown %}}
 # Nos clients s'amusent bien
 Comment nous, chez Skribble, facilitons la vie quotidienne de nos clients.
@@ -132,7 +132,7 @@ Comment nous, chez Skribble, facilitons la vie quotidienne de nos clients.
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< content text=center top=12 width=narrow >}}
+{{< content text=center top=24 width=narrow >}}
 {{% markdown %}}
 # Utilisez Skribble pour maximiser la force probante de votre signature
 La loi établit une distinction entre les signatures électroniques qualifiées (SEQ)
@@ -156,7 +156,7 @@ en termes de domaine d'application et de force probante. Sur Skribble, vous pouv
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< content text=center top=12 width=narrow >}}
+{{< content text=center top=24 bottom=4 width=narrow >}}
 {{% markdown %}}
 # Laissez-vous identifier
 Cela débloque la norme de signature électronique la plus élevée du marché: la SEQ. Vous n'avez besoin que d'un document de voyage valide

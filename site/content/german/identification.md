@@ -8,7 +8,7 @@ og_image: og/og-skribble-identification.jpg
 
 ---
 
-{{< content text=center top=12 width=narrow >}}
+{{< content text=center top=16 bottom=4 width=narrow >}}
 {{% markdown %}}
 # Identitätsprüfung für die QES
 Für das Signieren mit höchstem E-Signatur-Standard (QES) müssen
@@ -35,7 +35,7 @@ Skribble macht es einfach**
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< content text=center top=12 width=narrow >}}
+{{< content text=center top=24 bottom=8 width=narrow >}}
 {{% markdown %}}
 # Bestehende E-ID nutzen
 Personen, die über eine geprüfte E-ID verfügen, können auf Skribble
@@ -87,7 +87,8 @@ die Interoperabilität der digitalen Identitäten essentiell, um das Risiko von 
 {{< content text=center top=12 width=narrow >}}
 {{% markdown %}}
 # Skribbles Identifikations-Service nutzen
-Wer über keine E-ID verfügt, kann die Identifikation mit Hilfe von Skribble durchführen.
+Wer über keine E-ID verfügt, 
+kann die Identifikation mit Hilfe von Skribble durchführen.
 {{% /markdown %}}
 {{< /content >}}
 

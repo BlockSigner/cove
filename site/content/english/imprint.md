@@ -5,7 +5,7 @@ draft: false
 slug: imprint
 ---
 
-{{< content top=12 width=narrow >}}
+{{< content top=16 width=narrow >}}
 {{% markdown %}}
 # Imprint
 

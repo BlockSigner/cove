@@ -9,10 +9,11 @@ og_image: og/og-skribble-identification.jpg
 
 ---
 
-{{< content text=center top=12 width=narrow >}}
+{{< content text=center top=16 width=narrow >}}
 {{% markdown %}}
 # Skribble Features
-Mit Skribble signierst du nicht nur rechtsgültig, sondern auch einfach.
+Mit Skribble signierst du nicht nur rechtsgültig, 
+sondern auch einfach.
 {{% /markdown %}}
 {{< /content >}}
 
