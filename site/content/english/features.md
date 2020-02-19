@@ -56,7 +56,7 @@ us and our customers." {{< /testimonial >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< content text=center top=12 width=narrow >}}
+{{< content text=center top=12 bottom=8 width=narrow >}}
 {{% markdown %}}
 # Coming soon
 Our vision is great. We develop Skribble day by day.

@@ -54,7 +54,7 @@ den Alltag für uns und unseren Kunden." {{< /testimonial >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< content text=center top=12 width=narrow >}}
+{{< content text=center top=12 bottom=8 width=narrow >}}
 {{% markdown %}}
 # Folgt in Kürze
 Unsere Vision ist gross. Wir entwickeln Skribble Tag für Tag weiter.
