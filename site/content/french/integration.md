@@ -12,7 +12,8 @@ og_image: og/og-skribble-identification.jpg
 {{< content >}}
 {{% heading %}}
 # Intégration de Skribble
-Avec Skribble, vous choisissez une plate-forme en ligne qui allie sécurité technologique et simplicité.
+Avec Skribble, vous choisissez une plate-forme en ligne
+qui allie sécurité technologique et simplicité.
 {{% /heading %}}
 {{< /content >}}
 
