@@ -1,5 +1,16 @@
 <div class="outro">
   <div class="outro__inner container">
-    {{.Inner}}
+    <div class="picture">
+      {{ if eq .Page.Lang "de" }}
+        {{ partial "picture" (dict "alt" "Ein mann steht mit einem riesen füller neben einem elektronischen dokument" "filename" "image8" "natural_width" "414") }}
+      {{ else if eq .Page.Lang "fr" }}
+        {{ partial "picture" (dict "alt" "Un homme se tient à côté d'un document électronique avec un stylo plume géan" "filename" "image8" "natural_width" "414") }}
+      {{ else }}
+        {{ partial "picture" (dict "alt" "A man stands next to an electronic document with a giant fountain pen" "filename" "image8" "natural_width" "414") }}
+      {{ end }}
+    </div>
+    <div class="outro__body">
+      {{.Inner}}
+    </div>
   </div>
 </div>

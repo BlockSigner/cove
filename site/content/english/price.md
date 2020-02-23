@@ -10,7 +10,7 @@ og_image: og/og-skribble-mission.jpg
 {{< content text=center top=16 width=narrow >}}
 {{% markdown %}}
 # Sign economically with the right plan
-Skribble is suitable for both occasional 
+Skribble is suitable for both occasional
 and frequent signing.
 {{% /markdown %}}
 {{< /content >}}
@@ -31,7 +31,7 @@ and frequent signing.
 {{< content text=center top=12 width=narrow >}}
 {{% markdown %}}
 ## Do you sign more frequently?
-After registering, you can switch 
+After registering, you can switch
 to one of the following plans at any time:
 {{% /markdown %}}
 {{< /content >}}
@@ -288,10 +288,7 @@ to one of the following plans at any time:
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
 {{< outro >}}
-{{< picture image8 414 "A man stands next to an electronic document with a giant fountain pen" >}}
-
-{{< content text=center >}}
-{{% markdown %}}
+{{% markdown center %}}
 # Sign now, legally and electronically!
 No credit card, entrance fee or commitment required.
 {{% /markdown %}}
@@ -301,5 +298,4 @@ No credit card, entrance fee or commitment required.
   "https://my.skribble.com/signup?lang=en"
   "_blank"
 >}}
-{{< /content>}}
 {{< /outro >}}

@@ -201,11 +201,8 @@ Die QES ist zeitlich uneingeschränkt rechtsgültig.
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< outro >}}
-{{< picture image8 414 "Ein mann steht mit einem riesen füller neben einem elektronischen dokument" >}}
-
-{{< content >}}
-{{% markdown %}}
+{{< outro   >}}
+{{% markdown center %}}
 # Jetzt rechtsgültig elektronisch signieren!
 Keine Kreditkarte, Eintrittsgebühr oder
 Verpflichtung erforderlich.
@@ -216,5 +213,4 @@ Verpflichtung erforderlich.
   "https://my.skribble.com/signup?lang=de"
   "_blank"
 >}}
-{{< /content >}}
 {{< /outro >}}

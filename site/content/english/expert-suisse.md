@@ -117,10 +117,7 @@ carry out identity verification using video identification.{{% /collapsible %}}
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
 {{< outro >}}
-{{< picture image8 414 "A man stands next to an electronic document with a giant fountain pen" >}}
-
-{{< content text=center >}}
-{{% markdown %}}
+{{% markdown center %}}
 # Sign now, legally and electronically!
 Learn more about the offer.
 {{< /markdown >}}
@@ -140,5 +137,4 @@ Learn more about the offer.
   </svg>
   +41 44 505 16 64
 </a>
-{{< /content >}}
 {{< /outro >}}

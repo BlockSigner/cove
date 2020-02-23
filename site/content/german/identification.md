@@ -87,7 +87,7 @@ die Interoperabilität der digitalen Identitäten essentiell, um das Risiko von 
 {{< content text=center top=12 width=narrow >}}
 {{% markdown %}}
 # Skribbles Identifikations-Service nutzen
-Wer über keine E-ID verfügt, 
+Wer über keine E-ID verfügt,
 kann die Identifikation mit Hilfe von Skribble durchführen.
 {{% /markdown %}}
 {{< /content >}}
@@ -144,11 +144,8 @@ Wir helfen dir gerne telefonisch weiter.**
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< outro >}}
-{{< picture image8 414 "Ein mann steht mit einem riesen füller neben einem elektronischen dokument" >}}
-
-{{< content >}}
-{{% markdown %}}
+{{< outro   >}}
+{{% markdown center %}}
 # Jetzt rechtsgültig elektronisch signieren!
 Keine Kreditkarte, Eintrittsgebühr oder
 Verpflichtung erforderlich.
@@ -159,5 +156,4 @@ Verpflichtung erforderlich.
   "https://my.skribble.com/signup?lang=de"
   "_blank"
 >}}
-{{< /content >}}
 {{< /outro >}}

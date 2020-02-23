@@ -118,10 +118,7 @@ Das ist der höchste E-Signatur-Standard. Für diesen verlangt das Gesetz eine I
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
 {{< outro >}}
-{{< picture image8 414 "Ein mann steht mit einem riesen füller neben einem elektronischen dokument" >}}
-
-{{< content >}}
-{{% markdown %}}
+{{% markdown center %}}
 # Jetzt rechtsgültig elektronisch signieren
 Erfahre mehr über das Angebot.
 {{% /markdown %}}
@@ -141,5 +138,4 @@ Erfahre mehr über das Angebot.
   </svg>
   +41 44 505 16 64
 </a>
-{{% /content %}}
 {{< /outro >}}

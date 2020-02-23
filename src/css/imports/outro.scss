@@ -20,7 +20,7 @@
     }
   }
 
-  .content {
+  &__body {;
     max-width: 606px;
     text-align: center;
     @include min-width {

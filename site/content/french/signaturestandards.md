@@ -11,7 +11,7 @@ slug: normessignature
 # De combien de force probante ma e-signature a-t-elle besoin ?
 La loi établit une distinction entre les signatures électroniques qualifiées (SEQ)
 et les signatures électroniques avancées (SEA). Les deux normes varient
-en termes de domaine d'application et de force probante. Sur Skribble, 
+en termes de domaine d'application et de force probante. Sur Skribble,
 vous pouvez choisir entre les deux.
 {{% /markdown %}}
 {{< /content >}}
@@ -147,10 +147,7 @@ C'est le cas pour la plupart des types de contrats, tels que les contrats de loc
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
 {{< outro >}}
-{{< picture image8 414 "Un homme se tient à côté d'un document électronique avec un stylo plume géant" >}}
-
-{{< content >}}
-{{% markdown %}}
+{{% markdown center %}}
 # Signer légalement <br class="hide-for-mobile">et numériquement maintenant!
 Aucune carte de crédit, aucun droit d'entrée
 ou engagement n'est requis.
@@ -161,5 +158,4 @@ ou engagement n'est requis.
   "https://my.skribble.com/signup?lang=fr"
   "_blank"
 >}}
-{{< /content >}}
 {{< /outro >}}

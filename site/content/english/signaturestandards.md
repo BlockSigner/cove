@@ -9,7 +9,7 @@ slug: signaturestandards
 {{< content text=center top=16 width=narrow >}}
 {{% markdown %}}
 # How much legal weight <br class="hide-for-mobile">does my e-signature need?
-The law distinguishes between qualified e-signatures (QES) and advanced 
+The law distinguishes between qualified e-signatures (QES) and advanced
 e-signatures (AES). The two standards vary in terms of area of application and legal weight. At Skribble you have the choice.
 {{% /markdown %}}
 {{< /content >}}
@@ -148,10 +148,7 @@ We are happy to help you.**
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
 {{< outro >}}
-{{< picture image8 414 "A man stands next to an electronic document with a giant fountain pen" >}}
-
-{{< content text=center >}}
-{{% markdown %}}
+{{% markdown center %}}
 # Sign now, legally and electronically!
 No credit card, entrance fee or commitment required.
 {{% /markdown %}}
@@ -161,5 +158,4 @@ No credit card, entrance fee or commitment required.
   "https://my.skribble.com/signup?lang=en"
   "_blank"
 >}}
-{{< /content>}}
 {{< /outro >}}

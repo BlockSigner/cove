@@ -52,7 +52,7 @@ Les atouts les plus importants de Skribble sont à portée de main :
 {{% /markdown %}}
 {{< /cta >}}
 
-{{< table "Communiqués de presse" >}}
+{{< table top=12 width=narrow title="Communiqués de presse" >}}
 <tr>
   <td>19.09.2019</td>
   <td><strong>EXPERTsuisse cooperates with Skribble (en allemand)</strong></td>
@@ -106,7 +106,7 @@ Les atouts les plus importants de Skribble sont à portée de main :
 </tr>
 {{< /table >}}
 
-{{< table "Skribble dans les médias (sélection)" >}}
+{{< table top=18 width=narrow title="Skribble dans les médias (sélection)" >}}
 <tr>
   <td style="width:10%;">15.11.2019</td>
   <td style="width:80%;"><strong>Der Organisator - KMU Digital (en allemand)</strong></td>
@@ -141,10 +141,7 @@ Les atouts les plus importants de Skribble sont à portée de main :
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
 {{< outro >}}
-{{< picture image8 414 "Un homme se tient à côté d'un document électronique avec un stylo plume géant" >}}
-
-{{< content >}}
-{{% markdown %}}
+{{% markdown center %}}
 # Signer légalement <br class="hide-for-mobile">et numériquement maintenant!
 Aucune carte de crédit, aucun droit d'entrée
 ou engagement n'est requis.
@@ -155,5 +152,4 @@ ou engagement n'est requis.
   "https://my.skribble.com/signup?lang=fr"
   "_blank"
 >}}
-{{< /content >}}
 {{< /outro >}}

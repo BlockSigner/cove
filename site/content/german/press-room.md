@@ -52,7 +52,7 @@ Die wichtigsten Skribble Branding Assets sind gleich hier griffbereit:
 {{% /markdown %}}
 {{< /cta >}}
 
-{{< table "Medienmitteilungen" >}}
+{{< table top=12 width=narrow title="Medienmitteilungen" >}}
 <tr>
   <td>19.09.2019</td>
   <td><strong>EXPERTsuisse kooperiert mit Skribble</strong></td>
@@ -105,7 +105,7 @@ Die wichtigsten Skribble Branding Assets sind gleich hier griffbereit:
 {{< /table >}}
 
 
-{{< table "Skribble in den Medien (Auswahl)" >}}
+{{< table top=18 width=narrow title="Skribble in den Medien (Auswahl)" >}}
 <tr>
   <td style="width:10%;">15.11.2019</td>
   <td style="width:80%;"><strong>Der Organisator - KMU Digital</strong></td>
@@ -139,11 +139,8 @@ Die wichtigsten Skribble Branding Assets sind gleich hier griffbereit:
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< outro >}}
-{{< picture image8 414 "Ein mann steht mit einem riesen füller neben einem elektronischen dokument" >}}
-
-{{< content >}}
-{{% markdown %}}
+{{< outro   >}}
+{{% markdown center %}}
 # Jetzt rechtsgültig elektronisch signieren!
 Keine Kreditkarte, Eintrittsgebühr oder
 Verpflichtung erforderlich.
@@ -154,5 +151,4 @@ Verpflichtung erforderlich.
   "https://my.skribble.com/signup?lang=de"
   "_blank"
 >}}
-{{< /content >}}
 {{< /outro >}}

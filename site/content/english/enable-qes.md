@@ -12,7 +12,7 @@ og_image: og/og-skribble-identification.jpg
 {{< content text=center top=12 width=narrow >}}
 {{% markdown %}}
 # Maximise the legal weight of your electronic signature
-Enable the highest e-signing standard (QES) by getting yourself identified 
+Enable the highest e-signing standard (QES) by getting yourself identified
 by personal contact with the Swisscom ID app.
 {{% /markdown %}}
 {{< /content >}}
@@ -96,7 +96,7 @@ Personal identification is only required for signing with the highest e-signatur
 {{< content text=center top=24 bottom=8 >}}
 {{% markdown %}}
 # Identification sites
-Come by and get identified for free. Bring a valid passport 
+Come by and get identified for free. Bring a valid passport
 or your identity card as well as your mobile phone.
 {{% /markdown %}}
 {{< /content >}}
@@ -282,10 +282,7 @@ CH-8001 Zurich
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
 {{< outro >}}
-{{< picture image8 414 "A man stands next to an electronic document with a giant fountain pen" >}}
-
-{{< content text=center >}}
-{{% markdown %}}
+{{% markdown center %}}
 # Sign now, legally and electronically!
 No credit card, entrance fee or commitment required.
 {{% /markdown %}}
@@ -295,5 +292,4 @@ No credit card, entrance fee or commitment required.
   "https://my.skribble.com/signup?lang=en"
   "_blank"
 >}}
-{{< /content>}}
 {{< /outro >}}

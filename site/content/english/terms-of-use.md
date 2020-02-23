@@ -49,10 +49,7 @@ These Terms of Use govern your use of the Skribble Cloud Solution (Skribble Serv
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
 {{< outro >}}
-{{< picture image8 414 "A man stands next to an electronic document with a giant fountain pen" >}}
-
-{{< content text=center >}}
-{{% markdown %}}
+{{% markdown center %}}
 # Sign now, legally and electronically!
 No credit card, entrance fee or commitment required.
 {{% /markdown %}}
@@ -62,5 +59,4 @@ No credit card, entrance fee or commitment required.
   "https://my.skribble.com/signup?lang=en"
   "_blank"
 >}}
-{{< /content>}}
 {{< /outro >}}

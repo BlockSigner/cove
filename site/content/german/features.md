@@ -12,7 +12,7 @@ og_image: og/og-skribble-identification.jpg
 {{< content text=center top=16 width=narrow >}}
 {{% markdown %}}
 # Skribble Features
-Mit Skribble signierst du nicht nur rechtsgültig, 
+Mit Skribble signierst du nicht nur rechtsgültig,
 sondern auch einfach.
 {{% /markdown %}}
 {{< /content >}}
@@ -83,11 +83,8 @@ Unsere Vision ist gross. Wir entwickeln Skribble Tag für Tag weiter.
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< outro >}}
-{{< picture image8 414 "Ein mann steht mit einem riesen füller neben einem elektronischen dokument" >}}
-
-{{< content >}}
-{{% markdown %}}
+{{< outro   >}}
+{{% markdown center %}}
 # Jetzt rechtsgültig elektronisch signieren!
 Keine Kreditkarte, Eintrittsgebühr oder
 Verpflichtung erforderlich.
@@ -98,5 +95,4 @@ Verpflichtung erforderlich.
   "https://my.skribble.com/signup?lang=de"
   "_blank"
 >}}
-{{< /content >}}
 {{< /outro >}}

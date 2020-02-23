@@ -1,8 +1,17 @@
 <div class="table-wrapper">
-  <div class="table__title">{{.Get 0}}</div>
-  <table class="table">
-    <tbody>
-      {{.Inner}}
-    </tbody>
-  </table>
+  <div class="
+        skr-container
+        {{ if .Get "top"  }}pt-{{ .Get "top" }}{{ end }}
+        {{ if .Get "bottom"  }}pb-{{ .Get "bottom" }}{{ end }}
+        {{ if .Get "mobile-top"  }}ptm-{{ .Get "mobile-top" }}{{ end }}
+        {{ if .Get "mobile-bottom"  }}pbm-{{ .Get "mobile-bottom" }}{{ end }}
+        {{ if .Get "width"  }}is-{{ .Get "width" }}{{ end }}
+    ">
+    <div class="table__title">{{.Get "title"}}</div>
+    <table class="table">
+      <tbody>
+        {{.Inner}}
+      </tbody>
+    </table>
+  </div>
 </div>

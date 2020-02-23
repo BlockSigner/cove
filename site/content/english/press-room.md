@@ -52,7 +52,7 @@ The Most Important Skribble Branding Assets are right here at hand:
 {{% /markdown %}}
 {{< /cta >}}
 
-{{< table "Media releases" >}}
+{{< table top=12 width=narrow title="Media releases" >}}
 <tr>
   <td>19.09.2019</td>
   <td><strong>EXPERTsuisse cooperates with Skribble (in German)</strong></td>
@@ -103,7 +103,7 @@ The Most Important Skribble Branding Assets are right here at hand:
 </tr>
 {{< /table >}}
 
-{{< table "Skribble in the media (selection)" >}}
+{{< table top=18 width=narrow title="Skribble in the media (selection)" >}}
 <tr>
   <td style="width:10%;">15.11.2019</td>
   <td style="width:80%;"><strong>Der Organisator - KMU Digital (in German)</strong></td>
@@ -138,10 +138,7 @@ The Most Important Skribble Branding Assets are right here at hand:
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
 {{< outro >}}
-{{< picture image8 414 "A man stands next to an electronic document with a giant fountain pen" >}}
-
-{{< content text=center >}}
-{{% markdown %}}
+{{% markdown center %}}
 # Sign now, legally and electronically!
 No credit card, entrance fee or commitment required.
 {{% /markdown %}}
@@ -151,5 +148,4 @@ No credit card, entrance fee or commitment required.
   "https://my.skribble.com/signup?lang=en"
   "_blank"
 >}}
-{{< /content>}}
 {{< /outro >}}

@@ -11,7 +11,7 @@ og_image: og/og-skribble-service.jpg
 {{< content text=center top=16 width=narrow >}}
 {{% markdown %}}
 # Signez plus facilement avec le bon modèle tarifaire
-Skribble convient tant aux signatures occasionnelles 
+Skribble convient tant aux signatures occasionnelles
 qu'aux signatures fréquentes
 {{% /markdown %}}
 {{< /content >}}
@@ -32,7 +32,7 @@ qu'aux signatures fréquentes
 {{< content text=center top=12 width=narrow >}}
 {{% markdown %}}
 ## Vous signez plus souvent?
-Après l'enregistrement, vous pouvez à tout moment 
+Après l'enregistrement, vous pouvez à tout moment
 passer à l'un des modèles tarifaires suivants:
 {{% /markdown %}}
 {{< /content >}}
@@ -276,10 +276,7 @@ passer à l'un des modèles tarifaires suivants:
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
 {{< outro >}}
-{{< picture image8 414 "Un homme se tient à côté d'un document électronique avec un stylo plume géant" >}}
-
-{{< content >}}
-{{% markdown %}}
+{{% markdown center %}}
 # Signer légalement <br class="hide-for-mobile">et numériquement maintenant!
 Aucune carte de crédit, aucun droit d'entrée
 ou engagement n'est requis.
@@ -290,5 +287,4 @@ ou engagement n'est requis.
   "https://my.skribble.com/signup?lang=fr"
   "_blank"
 >}}
-{{< /content >}}
 {{< /outro >}}

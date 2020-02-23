@@ -27,11 +27,11 @@ par les certificats de salaire.
 ## Compléter le lot <br class="hide-for-mobile">avec une seule signature
 De nouveaux contrats de travail pour tous: le signataire autorisé ne signe plus des centaines de contrats à la main, mais les signe tous à la fois avec la signature par lots de Skribble.
 
-- **Signature par lots pour un nombre 
+- **Signature par lots pour un nombre
 quelconque de contrats de travail**
-- **Inviter automatiquement les employés 
+- **Inviter automatiquement les employés
 à signer des contrats de travail par courriel**
-- **Vue d'ensemble de toutes les signatures 
+- **Vue d'ensemble de toutes les signatures
 entrantes et sortantes**
 {{% /markdown %}}
 {{< /side-by-side >}}
@@ -43,7 +43,7 @@ entrantes et sortantes**
 ## Signature numérique <br class="hide-for-mobile">sans délai des candidats
 Une intégration efficace: vous avez plus de chances d'être choisi comme employeur et l'administration des RH devient plus facile, plus rapide et moins coûteuse.
 
-- **Juridiquement valable pour tout type 
+- **Juridiquement valable pour tout type
 de contrat de travail**
 - **Pas de perte de temps due à l'envoi postal**
 - **Notifier automatiquement la signature
@@ -72,10 +72,10 @@ autorisés par courriel**
 {{< side-by-side top=12 bottom=12 mobile-top=6 mobile-bottom=12 img=integrations img-position=right img-width=381 img-alt="Signez directement dans vos logiciels RH" >}}
 {{% markdown %}}
 ## Aucun nouveau logiciel requis
-Restez avec des outils familiers: signez à partir de vos programmes existants, par exemple Google Drive, One Drive, Drop Box ou Secure Safe. 
+Restez avec des outils familiers: signez à partir de vos programmes existants, par exemple Google Drive, One Drive, Drop Box ou Secure Safe.
 
 - **Signer directement via le navigateur**
-- **Intégrer Skribble en tant que plug-in dans SAP 
+- **Intégrer Skribble en tant que plug-in dans SAP
 et d'autres solutions sectorielles**
 - **Intégrer parfaitement via des API modernes**
 {{% /markdown %}}
@@ -216,10 +216,7 @@ La SEQ est légalement valide pour une durée illimitée.
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
 {{< outro >}}
-{{< picture image8 414 "Un homme se tient à côté d'un document électronique avec un stylo plume géant" >}}
-
-{{< content >}}
-{{% markdown %}}
+{{% markdown center %}}
 # Signer légalement <br class="hide-for-mobile">et numériquement maintenant!
 Aucune carte de crédit, aucun droit d'entrée
 ou engagement n'est requis.
@@ -230,5 +227,4 @@ ou engagement n'est requis.
   "https://my.skribble.com/signup?lang=fr"
   "_blank"
 >}}
-{{< /content >}}
 {{< /outro >}}

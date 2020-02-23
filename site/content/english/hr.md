@@ -36,8 +36,7 @@ New employment contracts for everyone: the authorised signatory no longer signs 
 
 {{< side-by-side top=12 bottom=12 mobile-top=6 mobile-bottom=6 img=candidate-sign-digital img-position=right img-width=392 img-alt="A woman sits in a deck chair and signs her employment contract on her tablet" >}}
 {{% markdown %}}
-## Candidates sign
-digitally without delay
+## Candidates sign digitally without delay
 Efficient onboarding: you have a better chance of being chosen as an employer and HR administration becomes easier, faster and cheaper.
 
 - **Legally valid for any type of employment contract**
@@ -77,7 +76,7 @@ Stay with familiar tools: sign directly via your browser or from your existing s
 {{< content text=center top=12 width=narrow >}}
 {{% markdown %}}
 # Skribble complies with the legal requirements for HR processes
-You sign with legal effect and securely in accordance 
+You sign with legal effect and securely in accordance
 with the following requirements:
 {{% /markdown %}}
 {{< /content >}}
@@ -209,10 +208,7 @@ The QES is legally valid for an unlimited period of time.
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
 {{< outro >}}
-{{< picture image8 414 "A man stands next to an electronic document with a giant fountain pen" >}}
-
-{{< content text=center >}}
-{{% markdown %}}
+{{% markdown center %}}
 # Sign now, legally and electronically!
 No credit card, entrance fee or commitment required.
 {{% /markdown %}}
@@ -222,7 +218,6 @@ No credit card, entrance fee or commitment required.
   "https://my.skribble.com/signup?lang=en"
   "_blank"
 >}}
-{{< /content>}}
 {{< /outro >}}
 
 

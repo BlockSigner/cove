@@ -4,11 +4,6 @@
   border-collapse: collapse;
   font-size: 1.6rem;
 
-  &-wrapper {
-    @include site-width($narrow: true);
-    @include half-padding;
-  }
-
   tr {
     td {
       &:first-child {

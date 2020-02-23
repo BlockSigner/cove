@@ -93,7 +93,7 @@ qualifiées en Suisse."
 {{< content text=center top=12 width=narrow >}}
 {{% markdown %}}
 # Avec Skribble, vous répondez aux exigences des procédures légales
-Avec Skribble, vous signez légalement et en toute sécurité 
+Avec Skribble, vous signez légalement et en toute sécurité
 en remplissant les conditions suivantes:
 {{% /markdown %}}
 {{< /content >}}
@@ -143,8 +143,8 @@ Sur Skribble, vous pouvez choisir entre les deux.
 {{< content text=center top=24 bottom=4 width=narrow >}}
 {{% markdown %}}
 # Laissez-vous identifier
-Cela débloque la norme de signature électronique la plus élevée du marché: 
-la SEQ. Vous n'avez besoin que d'un document de voyage valide 
+Cela débloque la norme de signature électronique la plus élevée du marché:
+la SEQ. Vous n'avez besoin que d'un document de voyage valide
 (pièce d'identité ou passeport).
 {{% /markdown %}}
 {{< /content >}}
@@ -201,10 +201,7 @@ La SEQ est légalement valide pour une durée illimitée.
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
 {{< outro >}}
-{{< picture image8 414 "Un homme se tient à côté d'un document électronique avec un stylo plume géant" >}}
-
-{{< content >}}
-{{% markdown %}}
+{{% markdown center %}}
 # Signer légalement <br class="hide-for-mobile">et numériquement maintenant!
 Aucune carte de crédit, aucun droit d'entrée
 ou engagement n'est requis.
@@ -215,5 +212,4 @@ ou engagement n'est requis.
   "https://my.skribble.com/signup?lang=fr"
   "_blank"
 >}}
-{{< /content >}}
 {{< /outro >}}

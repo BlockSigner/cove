@@ -23,7 +23,7 @@ With Skribble you not only sign legally, but also with ease.
 
   {{< features-item src="features/dragdrop.svg"
     headline="Upload via drag & drop"
-    description="Invite the signatories by e-mail and define the order of the signatures.">}}
+    description="Upload the ready to sign PDF document via browser or use Skribble via API from your enterprise software.">}}
 
   {{< features-item src="features/invitesign.svg"
     headline="Invite to sign"
@@ -86,10 +86,7 @@ Our vision is great. We develop Skribble day by day.
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
 {{< outro >}}
-{{< picture image8 414 "A man stands next to an electronic document with a giant fountain pen" >}}
-
-{{< content text=center >}}
-{{% markdown %}}
+{{% markdown center %}}
 # Sign now, legally and electronically!
 No credit card, entrance fee or commitment required.
 {{% /markdown %}}
@@ -99,5 +96,4 @@ No credit card, entrance fee or commitment required.
   "https://my.skribble.com/signup?lang=en"
   "_blank"
 >}}
-{{< /content>}}
 {{< /outro >}}

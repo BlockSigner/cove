@@ -99,7 +99,7 @@ Skribble trägt das label
 {{< content text=center top=12 bottom=4 width=narrow >}}
 {{% markdown %}}
 # API ausprobieren
-In deinem Skribble Business Konto kannst du 
+In deinem Skribble Business Konto kannst du
 einen Demo-Schlüssel erstellen.
 {{% /markdown %}}
 {{< /content >}}
@@ -128,11 +128,8 @@ Schau dir unsere API-Dokumentation an.
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< outro >}}
-{{< picture image8 414 "Ein mann steht mit einem riesen füller neben einem elektronischen dokument" >}}
-
-{{< content >}}
-{{% markdown %}}
+{{< outro   >}}
+{{% markdown center %}}
 # Jetzt rechtsgültig elektronisch signieren!
 Keine Kreditkarte, Eintrittsgebühr oder
 Verpflichtung erforderlich.
@@ -143,5 +140,4 @@ Verpflichtung erforderlich.
   "https://my.skribble.com/signup?lang=de"
   "_blank"
 >}}
-{{< /content >}}
 {{< /outro >}}
