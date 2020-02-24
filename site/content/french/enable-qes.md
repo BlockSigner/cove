@@ -17,7 +17,7 @@ en vous identifiant par contact personnel avec l'ID-app de Swisscom.
 {{% /markdown %}}
 {{< /content >}}
 
-{{< row >}}
+{{< content top=12 width=narrow display=flex >}}
 {{< step >}}
 {{< picture "identification-step-1" 252 "Une loupe grossit l'image d'un homme dans un col" >}}
 {{% markdown %}}
@@ -34,9 +34,9 @@ et passez en personne.
 La pièce d’identité de l’utilisateur est scannée et vérifiée avec l’ID-app de Swisscom.
 {{% /markdown %}}
 {{< /step >}}
-{{< /row >}}
+{{< /content >}}
 
-{{< row >}}
+{{< content width=narrow display=flex >}}
 {{< step >}}
 {{< picture "identification-step-3" 270 "Un homme qui a été identifié électroniquement avec succès" >}}
 {{% markdown %}}
@@ -52,7 +52,7 @@ Swisscom vérifie les données et les stocke en toute sécurité.
 La force probante de votre signature est portée à 100% (niveau SEQ)
 {{% /markdown %}}
 {{< /step >}}
-{{< /row >}}
+{{< /content >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 

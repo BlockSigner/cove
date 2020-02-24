@@ -7,6 +7,7 @@
     {{ if .Get "mobile-bottom"  }}pbm-{{ .Get "mobile-bottom" }}{{ end }}
     {{ if .Get "width"  }}is-{{ .Get "width" }}{{ end }}
     {{ if .Get "text" }}text-{{ .Get "text" }}{{ end }}
+    {{ if .Get "display" }}{{ .Get "display" }}{{ end }}
   ">
     <div class="content-inner">
       {{.Inner}}

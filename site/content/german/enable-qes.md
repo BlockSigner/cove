@@ -18,7 +18,7 @@ von Swisscom identifizieren lässt.
 {{% /markdown %}}
 {{% /content %}}
 
-{{< row >}}
+{{< content top=12 width=narrow display=flex >}}
 {{< step >}}
 {{< picture "identification-step-1" 252 "Eine lupe vergrößert das bild eines mannes in einem pass" >}}
 {{% markdown %}}
@@ -34,9 +34,9 @@ Vereinbare einen Identifikations-Termin und komm persönlich vorbei.
 Wir scannen und prüfen deinen Ausweis mit der ID-App von Swisscom.
 {{% /markdown %}}
 {{< /step >}}
-{{< /row >}}
+{{< /content >}}
 
-{{< row >}}
+{{< content width=narrow display=flex >}}
 {{< step >}}
 {{< picture "identification-step-3" 270 "Ein mann der erfolgreich elektronisch identifiziert ist" >}}
 {{% markdown %}}
@@ -52,7 +52,7 @@ Swisscom verifiziert deine Daten und legt sie sicher ab.
 Die Beweiskraft deiner Signatur wird auf 100% angehoben (QES-Level)
 {{% /markdown %}}
 {{< /step >}}
-{{< /row >}}
+{{< /content >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 

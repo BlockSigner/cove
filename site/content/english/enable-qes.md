@@ -17,7 +17,7 @@ by personal contact with the Swisscom ID app.
 {{% /markdown %}}
 {{< /content >}}
 
-{{< row >}}
+{{< content top=12 width=narrow display=flex >}}
 {{< step >}}
 {{< picture "identification-step-1" 252 "A magnifying glass magnifies the image of a man in a passport" >}}
 {{% markdown %}}
@@ -33,9 +33,9 @@ Schedule an identification date and come by personally.
 We scan and check your ID or passport using Swisscom’s ID app.
 {{% /markdown %}}
 {{< /step >}}
-{{< /row >}}
+{{< /content >}}
 
-{{< row >}}
+{{< content width=narrow display=flex >}}
 {{< step >}}
 {{< picture "identification-step-3" 270 "A man who has been successfully identified electronically" >}}
 {{% markdown %}}
@@ -51,11 +51,11 @@ Swisscom verifies the data and stores them securely.
 The legal weight of your signature is raised to 100% (QES level)
 {{% /markdown %}}
 {{< /step >}}
-{{< /row >}}
+{{< /content >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< content text=center top=12 width=narrow >}}
+{{< content text=center top=24 width=narrow >}}
 {{% markdown %}}
 # All clear?
 {{% /markdown %}}
