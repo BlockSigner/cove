@@ -10,12 +10,12 @@ type: business-features
 
 ---
 
-{{< content >}}
-{{% heading %}}
+{{< content text=center top=16 width=narrow >}}
+{{% markdown %}}
 # Business features
 Skribble Business customers sign organised as a group - with
  centralised member administration and joint billing.
-{{% /heading %}}
+{{% /markdown %}}
 {{< /content >}}
 
 {{< picture skribble-biz-ui-en 1020 "Skribble Business-Account - benutzeroberfläche" >}}
@@ -47,11 +47,11 @@ Skribble Business customers sign organised as a group - with
     description="View the current and all past invoices at any time.">}}
 {{< /features-container >}}
 
-{{< content >}}
-{{% heading %}}
+{{< content text=center top=24 bottom=12 width=narrow >}}
+{{% markdown %}}
 # Skribble Business embeds itself into your existing infrastructure
 The onboarding of new signers is intuitive and fast.
-{{% /heading %}}
+{{% /markdown %}}
 {{< /content >}}
 
 {{< features-container >}}
@@ -69,7 +69,6 @@ The onboarding of new signers is intuitive and fast.
     description="External people do not need to have a Skribble account to sign your documents.">}}
 
 {{< /features-container >}}
-<br><br>
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
@@ -80,46 +79,41 @@ us and our customers." {{< /testimonial >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< content >}}
-{{% heading %}}
+{{< content text=center top=12 width=narrow >}}
+{{% markdown %}}
 # Organisation-wide implementation is simple and fast
-Enable new and existing employees to sign electronically 
+Enable new and existing employees to sign electronically
 in the shortest possible time. Choose the onboarding process that fits your requirements for legal weight or the desired signature standard.
-{{% /heading %}}
+{{% /markdown %}}
 {{< /content >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< side-by-side >}}
-{{< picture onboarding-qes-en 380 "A large contract (QES) with a court" >}}
-
-{{< richtext >}}
-{{% heading left %}}
+{{< side-by-side top=12 bottom=12 img=onboarding-qes-en img-width=380 img-alt="A large contract (QES) with a court" >}}
+{{% markdown %}}
 ## On-Boarding for the qualified electronic signature (QES)
 Identification services for highest demands on the legal weight of the signature. Suitable for contracts with formal requirements.
-{{% /heading %}}
-
+{{% /markdown %}}
+<br>
 {{< button
   "Download Factsheet"
   "https://cdn2.hubspot.net/hubfs/5051692/Factstheets/Identification/English/Skribble_Overview_Identification_EN.pdf"
   "_blank"
   "outline"
 >}}
-{{< /richtext >}}
-
 {{< /side-by-side >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< content >}}
-{{% heading %}}
+{{< content text=center top=8 bottom=8 width=narrow >}}
+{{% markdown %}}
 # Ideal cost-benefit ratio
 Choose the right pricing model for your organization.
-{{% /heading %}}
+{{% /markdown %}}
 {{< /content >}}
 
 {{< picture preismodelle 590 "Eine Frau mit roten Haaren vergliecht verschiedene Preismodelle." >}}
-
+<br>
 {{< center >}}
 {{< button
   "Compare price models"
@@ -131,18 +125,14 @@ Choose the right pricing model for your organization.
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
 {{< outro >}}
-{{< picture image8 414 "A man stands next to an electronic document with a giant fountain pen" >}}
-
-{{< richtext >}}
-{{% heading %}}
-# Sign now, legally valid electronically!
+{{% markdown center %}}
+# Sign now, legally and electronically!
 No credit card, entrance fee or commitment required.
-{{% /heading %}}
+{{% /markdown %}}
 
 {{< button
   "Try it now"
   "https://my.skribble.com/signup?lang=en"
   "_blank"
 >}}
-{{< /richtext >}}
 {{< /outro >}}

@@ -9,11 +9,12 @@ og_image: og/og-skribble-identification.jpg
 
 ---
 
-{{< content >}}
-{{% heading %}}
+{{< content text=center top=16 width=narrow >}}
+{{% markdown %}}
 # Skribble Features
-Mit Skribble signierst du nicht nur rechtsgültig, sondern auch einfach.
-{{% /heading %}}
+Mit Skribble signierst du nicht nur rechtsgültig,
+sondern auch einfach.
+{{% /markdown %}}
 {{< /content >}}
 
 {{< picture skribble-ui-de 1020 "Skribble plattform - benutzeroberfläche" >}}
@@ -30,7 +31,7 @@ Mit Skribble signierst du nicht nur rechtsgültig, sondern auch einfach.
 
   {{< features-item src="features/confirm_mobile.svg"
     headline="Mit Handy bestätigen"
-    description="Bestätige das Signieren via Mobile ID oder One-Time-Passwort (OTP) – keine zusätzliche Hardware notwendig.">}}
+    description="Bestätige das Signieren via Mobile ID oder One-Time-Password (OTP) – keine zusätzliche Hardware notwendig.">}}
 
   {{< features-item src="features/batch-process.svg"
     headline="Stapelsignatur anbringen"
@@ -46,18 +47,18 @@ Mit Skribble signierst du nicht nur rechtsgültig, sondern auch einfach.
 {{< /features-container >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
-<br>
+
 {{< testimonial "testimonial/fr-logo-99w.svg" "Stéphane Schwab, Leiter E-Government, Kanton Freiburg" >}}
-"Dank Skribble können wir Administrationsprozesse von A bis Z digitalisieren. Das erleichtert <br class="hide-for-mobile">den Alltag für uns und unseren Kunden." {{< /testimonial >}}
+"Dank Skribble können wir Administrationsprozesse von A bis Z digitalisieren. Das erleichtert
+den Alltag für uns und unseren Kunden." {{< /testimonial >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-
-{{< content >}}
-{{% heading %}}
+{{< content text=center top=12 bottom=8 width=narrow >}}
+{{% markdown %}}
 # Folgt in Kürze
 Unsere Vision ist gross. Wir entwickeln Skribble Tag für Tag weiter.
-{{% /heading %}}
+{{% /markdown %}}
 {{< /content >}}
 
 {{< features-container >}}
@@ -80,21 +81,18 @@ Unsere Vision ist gross. Wir entwickeln Skribble Tag für Tag weiter.
 
 {{< /features-container >}}
 
-<br><br>
+[//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< outro >}}
-{{< picture image8 414 "Ein mann steht mit einem riesen füller neben einem elektronischen dokument" >}}
-
-{{< richtext >}}
-{{% heading %}}
+{{< outro   >}}
+{{% markdown center %}}
 # Jetzt rechtsgültig elektronisch signieren!
-Keine Kreditkarte, Eintrittsgebühr oder Verpflichtung erforderlich.
-{{% /heading %}}
+Keine Kreditkarte, Eintrittsgebühr oder
+Verpflichtung erforderlich.
+{{% /markdown %}}
 
 {{< button
   "Jetzt ausprobieren"
   "https://my.skribble.com/signup?lang=de"
   "_blank"
 >}}
-{{< /richtext >}}
 {{< /outro >}}

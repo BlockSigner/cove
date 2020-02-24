@@ -8,32 +8,38 @@ og_image: og/og-skribble-mission.jpg
 
 ---
 
-{{< content >}}
-{{% heading %}}
+{{< content text=center top=16 width=narrow >}}
+{{% markdown %}}
 # Skribble builds trust <br class="hide-for-mobile">in the digital world
 Once upon a time there was the hand-written signature –
 today we sign with Skribble.
-{{% /heading %}}
+{{% /markdown %}}
+{{< /content >}}
 
 {{< picture image9 680 "A man signs with a huge fountain pen on the floor, next to it a man sits on a chair and signs online" >}}
 
-{{% richtext %}}
+{{< content top=6 width=narrow >}}
+{{% markdown %}}
 ## The typewriter became Microsoft Word, the CD turned into Spotify, the DVD became Netflix.
-{{% /richtext %}}
+{{% /markdown %}}
+{{< /content >}}
 
 {{< picture image10 453 "A dusty typewriter, over it the logos of netflix, spotify and word" >}}
 
-{{% richtext %}}
+{{< content top=6 bottom=6 width=narrow >}}
+{{% markdown %}}
 Digitalisation makes many things faster, cheaper and simpler. This also applies to 90 percent of day to day business processes.
 
 The remaining ten percent require a high degree of trust, for example signing employment contracts. Many companies still rely on established analogue processes for this. Because making their digital equivalent compliant with all legal requirements requires an enormous additional expenditure. At least up to now.
 
 ## Skribble wants to change this:
-{{% /richtext %}}
+{{% /markdown %}}
+{{< /content >}}
 
 {{< picture image11 512 "A woman flies with an outstretched arm through a paper cloud" >}}
 
-{{% richtext %}}
+{{< content top=6 width=narrow >}}
+{{% markdown %}}
 Contracts no longer have to take a detour via printers and paper in order to be signed in a legally valid manner.
 
 With Skribble, signature processes are handled 100% digitally, building on Swiss and European standards/regulations that grant electronic signatures the same legal weight as handwritten signatures.
@@ -42,22 +48,20 @@ Security does not come at the expense of simplicity: every company, regardless o
 
 ## And that's just the beginning:
 Building trust in digital business relationships should become as simple and intuitive as toasting bread. In 2018 we formed a team of Trust Shapers that has been working towards this future.
-{{< /richtext >}}
+{{< /markdown >}}
 {{< /content >}}
 
 {{< outro >}}
-{{< picture image8 414 "A man stands next to an electronic document with a giant fountain pen" >}}
-
-{{< richtext >}}
-{{% heading %}}
+{{% markdown center %}}
 # Sign now, legally and electronically!
 No credit card, entrance fee or commitment required.
-{{% /heading %}}
+{{% /markdown %}}
 
 {{< button
   "Try it now"
   "https://my.skribble.com/signup?lang=en"
   "_blank"
 >}}
-{{< /richtext >}}
 {{< /outro >}}
+
+

@@ -5,8 +5,8 @@ draft: false
 slug: imprint
 ---
 
-{{< content >}}
-{{% richtext %}}
+{{< content top=16 width=narrow >}}
+{{% markdown %}}
 # Imprint
 
 ## Skribble (Switzerland)
@@ -73,25 +73,21 @@ Skribble AG is responsible for this website and its content within the meaning o
 
 ## Copyright
 The copyright and all other rights to content, images, photos or other files on the website belong exclusively to Skribble AG. The written consent of the copyright holder must be obtained in advance for the reproduction of any elements.
-{{% /richtext %}}
+{{% /markdown %}}
 {{< /content >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
 
 {{< outro >}}
-{{< picture image8 414 >}}
-
-{{< richtext >}}
-{{% heading %}}
+{{% markdown center %}}
 # Sign now, legally and electronically!
 No credit card, entrance fee or commitment required.
-{{% /heading %}}
+{{% /markdown %}}
 
 {{< button
   "Try it now"
   "https://my.skribble.com/signup?lang=en"
   "_blank"
 >}}
-{{< /richtext >}}
 {{< /outro >}}

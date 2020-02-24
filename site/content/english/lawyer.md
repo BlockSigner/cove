@@ -9,20 +9,20 @@ og_image: og/og-skribble-identification.jpg
 
 ---
 
-{{< content >}}
-{{% heading %}}
+{{< content text=center top=16 bottom=8 width=narrow >}}
+{{% markdown %}}
 # Electronic signature for lawyers
 With Skribble you sign without USB stick or card reader
 with the highest e-signing standard (QES).
-{{% /heading %}}
-{{< picture vertical-lawyer-main 560 "man handle different document processes" >}}
+{{% /markdown %}}
 {{< /content >}}
+
+{{< picture vertical-lawyer-main 560 "man handle different document processes" >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< side-by-side >}}
-{{< picture sign-parallel 387 "Man sign a contract with two other people at the same time" >}}
-{{% richtext %}}
+{{< side-by-side top=24 bottom=12 img=sign-parallel mobile-top=12 mobile-bottom=6 img-width=387 img-alt="Man sign a contract with two other people at the same time" >}}
+{{% markdown %}}
 ## All contractual parties sign digitally
 Multiple contractual parties: Instead of sending contracts by post from one person to the next, everyone signs online, saving time.
 
@@ -32,31 +32,27 @@ sign by e-mail**
 signatures**
 - **Get notified automatically when
 the contract is signed**
-
-{{% /richtext %}}
+{{% /markdown %}}
 {{< /side-by-side >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< side-by-side >}}
-{{% richtext %}}
+{{< side-by-side top=12 bottom=12 mobile-top=6 mobile-bottom=6 img=batch-process img-position=right img-width=380 img-alt="A stack of documents is signed with one click" >}}
+{{% markdown %}}
 ## Finish the pile <br class="hide-for-mobile">with only one signature
 Digital signature folder: Collect your contracts digitally and sign them simultaneously with just a few clicks. Despite the QES standard, you don't need a USB stick or card reader.
 
 - **Batch signature for any number of contracts**
 - **Two factor authentication via mobile phone -
-no external hardware required>**
+no external hardware required**
 - **Independent of time and place**
-
-{{% /richtext %}}
-{{< picture batch-process 380 "A stack of documents is signed with one click" >}}
+{{% /markdown %}}
 {{< /side-by-side >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< side-by-side >}}
-{{< picture authorities-input 394 "Two people make step-by-step entries to authorities." >}}
-{{% richtext %}}
+{{< side-by-side top=12 bottom=12 mobile-top=6 mobile-bottom=6 img=authorities-input img-width=394 img-alt="Two people make step-by-step entries to authorities." >}}
+{{% markdown %}}
 ## Entries with authorities made online
 From changes to the commercial register to court submissions: Printing, sending and scanning are no longer necessary.
 
@@ -65,14 +61,13 @@ From changes to the commercial register to court submissions: Printing, sending 
 - **Recognised for communication between
 law firms and authorities/courts in Switzerland**
 - **Saves time and money**
-
-{{% /richtext %}}
+{{% /markdown %}}
 {{< /side-by-side >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< side-by-side >}}
-{{% richtext %}}
+{{< side-by-side top=24 bottom=16 mobile-top=6 mobile-bottom=12 img=crm-systeme-lawyer img-position=right img-width=421 img-alt="Existing systems, e.g. Google Drive, One Drive, Drop Box or Secure Safe" >}}
+{{% markdown %}}
 ## No new software required
 Stay with familiar tools: Sign directly via your browser or from your existing software.
 
@@ -80,9 +75,7 @@ Stay with familiar tools: Sign directly via your browser or from your existing s
 - **Integrate Skribble as a plug-in into
 industry software solutions**
 - **Seamless integration via modern APIs**
-
-{{% /richtext %}}
-{{< picture crm-systeme-lawyer 421 "Existing systems, e.g. Google Drive, One Drive, Drop Box or Secure Safe" >}}
+{{% /markdown %}}
 {{< /side-by-side >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
@@ -94,13 +87,15 @@ solution for qualified electronic signatures in Switzerland."
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< content >}}
-{{% heading %}}
+{{< content text=center top=24 width=narrow >}}
+{{% markdown %}}
 # Skribble complies with the legal requirements for court processes
 You sign with legal effect and securely in accordance
 with the following requirements:
-{{% /heading %}}
+{{% /markdown %}}
+{{< /content >}}
 
+{{< content top=6 width=narrow >}}
 {{% collapsible 1 "E-signature standards QES and AES according to ZertES/eIDAS" "check" %}}
 Skribble works exclusively with legally defined e-signature standards: The qualified electronic signature (QES) and the advanced electronic signature (AES).
 {{% /collapsible %}}
@@ -116,17 +111,16 @@ Skribble and its signing partner Swisscom commit to manage data in accordance wi
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< content >}}
-{{% heading %}}
+{{< content text=center top=24 width=narrow >}}
+{{% markdown %}}
 # Use Skribble to maximise the legal weight of your signature
 The law distinguishes between qualified e-signatures (QES)
 and advanced e-signatures (AES). The two standards vary in terms of area
 of application and legal weight.
-{{% /heading %}}
-{{< picture legal_weight 664 "Legal-weight" >}}
-{{% richtext %}}
-{{% /heading %}}
+{{% /markdown %}}
 {{< /content >}}
+
+{{< picture legal_weight 664 "Legal-weight" >}}
 
 {{< cta
   label="Learn more"
@@ -134,32 +128,33 @@ of application and legal weight.
   outlined="true"
 >}}
 
-{{% richtext %}}
+{{% markdown %}}
 **At Skribble you have the choice
 between the signature standards AES and QES.**
-{{% /richtext %}}
+{{% /markdown %}}
 {{< /cta >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
 
-{{< content >}}
-{{% heading %}}
+{{< content text=center top=24 bottom=4 width=narrow >}}
+{{% markdown %}}
 # Get identified
 This will unlock the highest e-signature standard available – QES.
 All you need is a valid travel document (ID or passport).
-{{% /heading %}}
-{{< picture "create-identity" 385 "A magnifying glass enlarges the image of a woman in a passport" >}}
+{{% /markdown %}}
 {{< /content >}}
+
+{{< picture "create-identity" 385 "A magnifying glass enlarges the image of a woman in a passport" >}}
 
 {{< cta
   label="Schedule an appointment"
   href="enable-qes"
 >}}
-{{% richtext %}}
+{{% markdown %}}
 **Make an appointment
 and get identified**
-{{% /richtext %}}
+{{% /markdown %}}
 {{< /cta >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
@@ -171,11 +166,13 @@ digital identities"
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< content >}}
-{{% heading %}}
+{{< content text=center top=16 bottom=4 width=narrow >}}
+{{% markdown %}}
 # All clear?
-{{% /heading %}}
+{{% /markdown %}}
+{{< /content >}}
 
+{{< content top=6 width=narrow >}}
 {{% collapsible 10 "Where are the documents signed with Skribble stored?" %}}
 Skribble' s data centre is located in Switzerland and is ISO 270001 certified (according to banking standards).
 {{% /collapsible %}}
@@ -195,24 +192,19 @@ Not exclusively. Thanks to the visual signature, it can be seen on the printed c
 {{% collapsible 14 "How long is a Skribble signature legally binding?" %}}
 The QES is legally valid for an unlimited period of time.
 {{% /collapsible %}}
-
 {{< /content >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
 {{< outro >}}
-{{< picture image8 414 >}}
-
-{{< richtext >}}
-{{% heading %}}
+{{% markdown center %}}
 # Sign now, legally and electronically!
 No credit card, entrance fee or commitment required.
-{{% /heading %}}
+{{% /markdown %}}
 
 {{< button
   "Try it now"
   "https://my.skribble.com/signup?lang=en"
   "_blank"
 >}}
-{{< /richtext >}}
 {{< /outro >}}

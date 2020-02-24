@@ -15,7 +15,7 @@ Deploy:
     - [content](#-content-)
     - [row](#-row-)
   - [Markdown wrapper components](#markdown-wrapper-components)
-    - [richtext](#-richtext-)
+    - [markdown](#-markdown-)
   - [Atomic components](#atomic-components)
     - [center](#-center-)
     - [button](#-button-)
@@ -27,7 +27,6 @@ Deploy:
     - [cta (call to action)](#-cta-)
     - [cta-group](#-cta-group-)
     - [features-container and features-item](#-features-container--and--features-item-)
-    - [heading](#-heading-)
     - [intro](#-intro-)
     - [intro-partner](#-intro-partner-)
     - [logos-container and logos-item](#-logos-container--and--logos-item-)
@@ -126,14 +125,14 @@ Let's have a look at the button component. It is added to your content by writin
 ```
 This adds the HTML parameter `target="_blank"` to the generated HTML.
 
-Other components can contain more complex content. These components wrap their content, so they have a closing tag that indicates the end of the component. A good example is the `heading` component that arranges a title and a lead text. We'll cover layout components next, don't worry.
+Other components can contain more complex content. These components wrap their content, so they have a closing tag that indicates the end of the component. A good example is the `markdown` component that arranges content to be interpreted as markdown.
 ```
-{{% heading %}}
+{{% markdown %}}
 # Signatures can be purchased individually or at a flat rate.
 Skribbles' pricing adapts to your needs and can be flexibly configured.
-{{% /heading %}}
+{{% /markdown %}}
 ```
-See how we used the `%` delimiter here? It interprets the content of the `content` component as markdown. The closing tag of our `heading` component has a leading `/` before the name to indicate the end of the component.
+See how we used the `%` delimiter here? It interprets the content of the `content` component as markdown. The closing tag of our `markdown` component has a leading `/` before the name to indicate the end of the component.
 
 ### Menu component
 The main, header and footer menus are defined in the file `site/config.yaml`.
@@ -187,24 +186,21 @@ Skribble Cove uses layout components to structure or layout a web page. There ar
 #### {{< side-by-side >}}
 This component is a basic building block for Cove. It aligns a picture and a content component next to each other.
 ```
-{{< side-by-side >}}
-{{< picture image3 400 >}}
-{{< content >}}
+{{< side-by-side [global spacing] img=[image name] img-width=[width] img-position[right] img-alt=[image alt text] >}}
 ...
-{{< /content >}}
 {{< /side-by-side >}}
 ```
 
 #### {{< content >}}
-The other basic building block `content` building direction is top to down. It usually starts with a heading component its contents are completely free to choose. To horizontally group components within the `content` you can use the `row` component.
+The other basic building block `content` building direction is top to down. Its contents are completely free to choose. To horizontally group components within the `content` you can use the `row` component.
 
 #### {{< row >}}
 Draws its contents laterally outwards from the center. Its content is horizontally centered, vertically stretched, and never wrapped. Example content: `plan` component.
 
 ### Markdown wrapper components
 
-#### {{% richtext %}}
-Applies styling for headings, paragraphs, links, and lists (ul, ol, dl).
+#### {{% markdown %}}
+Content inside of the `markdown` module is interpreted as markdown. Use it to write text, titles, links, and lists in the main flow of the page.
 
 ### Atomic components
 Components that are rather simple and used in various places throughout the website.
@@ -346,13 +342,6 @@ The features component allows you to present a responsive grid of images with a 
 {{< /features-container >}}
 ```
 
-#### {{< heading >}}
-The heading component is used to arrange a title and a lead text. It centers its content by default. You can left align the content by passing the `left` paramter.
-
-**Parameters**
-1. left (optional)
-- `class` A CSS class to be applied to the component
-
 #### {{< intro >}}
 #### {{< intro-partner >}}
 
@@ -435,14 +424,18 @@ To show component outlines and component labels, add the following styling to `m
 }
 * {outline: 1px solid rgba(red, .1);}
 .collapsible {@include outline(collapsible, darkgoldenrod, -45deg);}
-.content {@include outline(content, black);}
+.content {@include outline(content, lightslategray);}
 .cta {@include outline(cta, seagreen);}
-.heading {@include outline(heading, purple, -45deg);}
 .intro {@include outline(intro, black);}
 .outro {@include outline(outro, black);}
 .picture {@include outline(picture, tomato, -45deg);}
-.richtext {@include outline(richtext, mediumslateblue, -45deg);}
+.plan {@include outline(plan, darkslategrey, -45deg);}
 .row {@include outline(row, grey, -45deg);}
 .side-by-side {@include outline(side-by-side, black);}
 .table-wrapper {@include outline(table-wrapper, darkorchid);}
+.logos-container {@include outline(logos-container, indianred);}
+.testimonial {@include outline(testimonial, deepskyblue);}
+.markdown {@include outline(markdown, powderblue, 45deg, black);}
+.features-container {@include outline(features-container, darkkhaki);}
+.action-card {@include outline(action-card, limegreen);}
 ```

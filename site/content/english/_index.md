@@ -14,39 +14,26 @@ testimonial:
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< intro >}}
-<div class="hide-for-mobile">
-  {{< picture image1 678 "three people sign an electronic document" >}}
-</div>
-
-{{< richtext >}}
-{{% heading left %}}
+{{< intro top=24 bottom=12 width=wide img=image1 img-width=678 img-alt="three people sign an electronic document" >}}
+{{% markdown %}}
 # Legally binding electronic signatures with Skribble
 Easily handle digital signature processes –
 legally binding in accordance with Swiss & EU law.
-{{% /heading %}}
-
-<div class="hide-for-desktop">
-  {{< picture image1 678 >}}
-</div>
-
+{{% /markdown %}}
 {{< button
   "Try it now"
   "https://my.skribble.com/signup"
   "_blank"
 >}}
-
 {{< intro-partner
   "image/swisscom.png"
   "Based on signature certificates issued by Swisscom"
 >}}
-
-{{< /richtext >}}
 {{< /intro >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< logos-container title="Trusted by:">}}
+{{< logos-container top=12 bottom=24 title="Trusted by:">}}
   {{< logos-item src="logos/canon-logo-142w.svg" alt="Canon">}}
   {{< logos-item src="logos/baggenstoss-logo-205w.svg" alt="Baggenstoss">}}
   {{< logos-line-break >}}
@@ -56,67 +43,60 @@ legally binding in accordance with Swiss & EU law.
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< content >}}
-{{% heading %}}
+{{< content text=center top=12 width=narrow >}}
+{{% markdown %}}
 # Sign legally in three steps
-{{% /heading %}}
+{{% /markdown %}}
 {{< /content >}}
 
-{{< side-by-side >}}
-{{% richtext %}}
+[//]: # (--------------------------------------------------------------------------------------------------------------)
+
+{{< side-by-side top=24 img=image2 mobile-top=12 mobile-bottom=6 img-width=416 img-position=right img-alt="A woman holding a PDF document in her hands and uploading it" >}}
+{{% markdown %}}
 ## Upload documents as PDFs
 Upload the PDF document directly via browser or use Skribble via API from your business software.
-{{% /richtext %}}
-
-{{< picture image2 416 "A woman holding a PDF document in her hands and uploading it" >}}
+{{% /markdown %}}
 {{< /side-by-side >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< side-by-side >}}
-{{< picture image3 400 "A man invites two people to sign the document" >}}
-
-{{% richtext %}}
+{{< side-by-side bottom=12 mobile-top=6 mobile-bottom=6 img=image3 img-width=400 img-alt="A man invites two people to sign the document" >}}
+{{% markdown %}}
 ## Invite people to sign
 Define the order in which people should sign and invite them by e-mail.
-{{% /richtext %}}
+{{% /markdown %}}
 {{< /side-by-side >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< side-by-side >}}
-{{% richtext %}}
+{{< side-by-side top=12 bottom=24 mobile-top=6 mobile-bottom=12 img=image4 img-position=right img-width=391 img-alt="Three people legally sign a document online" >}}
+{{% markdown %}}
 ## Sign with legal validity
 Sign at the push of a button, independent of time and place, legally valid according to Swiss and EU law.
-{{% /richtext %}}
-
-{{< picture image4 391 "Three people legally sign a document online" >}}
+{{% /markdown %}}
 {{< /side-by-side >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< content >}}
-{{% heading %}}
+{{< content text=center top=12 width=narrow >}}
+{{% markdown %}}
 # If you sign with Skribble you save time at work
-{{% /heading %}}
+{{% /markdown %}}
 {{< /content >}}
 
 {{< picture skribble-ui-en 1020 "Skribble plattform - user interface" >}}
 
-
-{{< center >}}
+{{< content bottom=15 text=center >}}
 {{< button
   "Show all features"
   "features"
   ""
   "outline"
 >}}
-{{< /center >}}
-
-
+{{< /content >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
-<br>
+
 {{< testimonial "testimonial/fr-logo-99w.svg" "Stéphane Schwab, Head of E-Government, State of Fribourg" >}}
 "Thanks to Skribble, we can digitize administrative processes from A to Z.
 This makes everyday life easier for
@@ -125,13 +105,15 @@ us and our customers." {{< /testimonial >}}
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
 
-{{< content >}}
-{{% heading %}}
+{{< content top=20 text=center width=narrow >}}
+{{% markdown %}}
 # Skribble complies with legal requirements
-With Skribble you sign legally
-and securely according to the following requirements:
-{{% /heading %}}
+With Skribble you sign legally and securely according
+to the following requirements:
+{{% /markdown %}}
+{{< /content >}}
 
+{{< content top=6 width=narrow >}}
 {{% collapsible 1 "E-signature standards QES and AES according to ZertES/eIDAS" "check" %}}
 Skribble works exclusively with legally defined e-signature standards: The qualified electronic signature (QES) and the advanced electronic signature (AES).
 {{% /collapsible %}}
@@ -147,26 +129,27 @@ Skribble and its signing partner Swisscom commit to manage data in accordance wi
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< content >}}
-{{% heading %}}
+{{< content top=24 text=center width=narrow >}}
+{{% markdown %}}
 # Use Skribble to maximise the legal weight of your signature
 The law distinguishes between qualified e-signatures (QES)
 and advanced e-signatures (AES). The two standards vary in terms
 of area of application and legal weight.
-{{% /heading %}}
+{{% /markdown %}}
 {{< /content >}}
 
 {{< picture legal_weight 664 "Legal-weight" >}}
 
 {{< cta
+  bottom=24
   label="Learn more"
   href="/signaturestandards/"
   outlined="true"
 >}}
 
-{{% richtext %}}
+{{% markdown %}}
 **At Skribble you have the choice between the signature standards AES and QES.**
-{{% /richtext %}}
+{{% /markdown %}}
 {{< /cta >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
@@ -177,8 +160,7 @@ of area of application and legal weight.
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-
-{{< logos-container title="Skribble in the media:">}}
+{{< logos-container top=20 bottom=18 title="Skribble in the media:">}}
   {{< logos-item src="logos/srf-logo-180w.svg" alt="SRF-Schweizer Radio und Fernsehen">}}
   {{< logos-item src="logos/handelszeitung-logo-240w.svg" alt="Handelszeitung">}}
   {{< logos-line-break >}}
@@ -188,23 +170,15 @@ of area of application and legal weight.
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-
 {{< outro >}}
-{{< picture image8 414 "A man stands next to an electronic document with a giant fountain pen" >}}
-
-{{< richtext >}}
-{{% heading %}}
-# Sign now, legally valid electronically!
+{{% markdown center %}}
+# Sign now, legally and electronically!
 No credit card, entrance fee or commitment required.
-{{% /heading %}}
+{{% /markdown %}}
 
 {{< button
   "Try it now"
   "https://my.skribble.com/signup?lang=en"
   "_blank"
 >}}
-{{< /richtext >}}
 {{< /outro >}}
-
-
-[//]: # (--------------------------------------------------------------------------------------------------------------)

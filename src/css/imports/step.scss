@@ -18,13 +18,16 @@
     object-fit: contain;
   }
 
-  .richtext {
+  .markdown {
     flex: 0 0 150px;
     max-width: 100%;
     padding: 20px 0;
     border-top: 1px solid $c-border;
     border-bottom: 1px solid $c-border;
     text-align: left;
+    @include max-width {
+      flex-basis: auto;
+    }
 
     p {
       &:first-child {

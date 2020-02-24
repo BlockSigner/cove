@@ -5,8 +5,8 @@ draft: false
 description: Privacy policy meta description
 ---
 
-{{< content >}}
-{{% richtext %}}
+{{< content top=16 width=narrow >}}
+{{% markdown %}}
 # Privacy&nbsp;Policy
 
 <small>Effective date: October 22, 2019</small>
@@ -242,24 +242,20 @@ You are advised to review this Privacy Policy periodically for any changes. Chan
 If you have any questions about this Privacy Policy, please contact us:<br>
 By email: <a href="mailto:info@skribble.com">info@skribble.com</a><br>
 By visiting this page on our website: <a href="https://www.skribble.com/contact/" target="_blank">www.skribble.com/contact/</a><br>
-{{% /richtext %}}
+{{% /markdown %}}
 {{< /content >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
 {{< outro >}}
-{{< picture image8 414 >}}
-
-{{< richtext >}}
-{{% heading %}}
+{{% markdown center %}}
 # Sign now, legally and electronically!
 No credit card, entrance fee or commitment required.
-{{% /heading %}}
+{{% /markdown %}}
 
 {{< button
   "Try it now"
   "https://my.skribble.com/signup?lang=en"
   "_blank"
 >}}
-{{< /richtext >}}
 {{< /outro >}}

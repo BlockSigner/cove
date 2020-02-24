@@ -8,15 +8,19 @@ og_image: og/og-skribble-mission.jpg
 
 ---
 
-{{< content >}}
-{{% heading %}}
+{{< content text=center top=16 bottom=4 width=narrow >}}
+{{% markdown %}}
 # Skribble press room
 Here you will find everything you need to write about Skribble.
-{{% /heading %}}
+{{% /markdown %}}
+{{< /content >}}
 
 {{< picture image12 688 "An astronaut flies with a giant fountain pen in front of a screen and signs electronically" >}}
 
+{{< content top=12 bottom=8 width=narrow >}}
+{{% markdown %}}
 Skribble, founded in March 2018, is a Swiss provider of electronic signatures with offices in Zurich (CH) and Karlsruhe (DE). The TrustTech company enables electronic documents to be signed easily and with legal validity. Built on legally regulated standards, including the qualified electronic signature (QES) - the only form of electronic signature that is equivalent to a handwritten signature before the law, Skribble partners with Swisscom to supply the state-approved certification technology for QES. Existing customers include the Canton of Fribourg. Skribble has 15 employees.
+{{% /markdown %}}
 {{< /content >}}
 
 {{< cta
@@ -28,10 +32,10 @@ Skribble, founded in March 2018, is a Swiss provider of electronic signatures wi
 
 {{< picture image13 100 "Kira Leuthold Content & Communications at Skribble" >}}
 
-{{% richtext %}}
+{{% markdown %}}
 **Kira Leuthold**
 Communications & Public Relations
-{{% /richtext %}}
+{{% /markdown %}}
 {{< /cta >}}
 
 {{< cta
@@ -43,12 +47,12 @@ Communications & Public Relations
 
 {{< picture image14 106 "Notebook with lots of information about skribble" >}}
 
-{{% richtext %}}
+{{% markdown %}}
 The Most Important Skribble Branding Assets are right here at hand:
-{{% /richtext %}}
+{{% /markdown %}}
 {{< /cta >}}
 
-{{< table "Media releases" >}}
+{{< table top=12 width=narrow title="Media releases" >}}
 <tr>
   <td>19.09.2019</td>
   <td><strong>EXPERTsuisse cooperates with Skribble (in German)</strong></td>
@@ -99,7 +103,7 @@ The Most Important Skribble Branding Assets are right here at hand:
 </tr>
 {{< /table >}}
 
-{{< table "Skribble in the media (selection)" >}}
+{{< table top=18 width=narrow title="Skribble in the media (selection)" >}}
 <tr>
   <td style="width:10%;">15.11.2019</td>
   <td style="width:80%;"><strong>Der Organisator - KMU Digital (in German)</strong></td>
@@ -131,19 +135,17 @@ The Most Important Skribble Branding Assets are right here at hand:
 
 {{< /table >}}
 
-{{< outro >}}
-{{< picture image8 414 "A man stands next to an electronic document with a giant fountain pen" >}}
+[//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< richtext >}}
-{{% heading %}}
+{{< outro >}}
+{{% markdown center %}}
 # Sign now, legally and electronically!
 No credit card, entrance fee or commitment required.
-{{% /heading %}}
+{{% /markdown %}}
 
 {{< button
   "Try it now"
   "https://my.skribble.com/signup?lang=en"
   "_blank"
 >}}
-{{< /richtext >}}
 {{< /outro >}}

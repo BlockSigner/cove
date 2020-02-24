@@ -1,3 +1,16 @@
 <div class="content {{ .Get "class" }} {{ if .Site.Params.outage }}outage-margin-top{{end}}">
-  {{.Inner}}
+  <div class="
+    skr-container
+    {{ if .Get "top"  }}pt-{{ .Get "top" }}{{ end }}
+    {{ if .Get "bottom"  }}pb-{{ .Get "bottom" }}{{ end }}
+    {{ if .Get "mobile-top"  }}ptm-{{ .Get "mobile-top" }}{{ end }}
+    {{ if .Get "mobile-bottom"  }}pbm-{{ .Get "mobile-bottom" }}{{ end }}
+    {{ if .Get "width"  }}is-{{ .Get "width" }}{{ end }}
+    {{ if .Get "text" }}text-{{ .Get "text" }}{{ end }}
+    {{ if .Get "display" }}{{ .Get "display" }}{{ end }}
+  ">
+    <div class="content-inner">
+      {{.Inner}}
+    </div>
+  </div>
 </div>

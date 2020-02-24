@@ -9,20 +9,20 @@ og_image: og/og-skribble-identification.jpg
 
 ---
 
-{{< content class="no-bottom-padding" >}}
-{{% heading %}}
+{{< content text=center top=16 bottom=8 width=narrow >}}
+{{% markdown %}}
 # Skribble Integration
 With Skribble, you choose an online platform that combines
 technological security with simplicity.
-{{% /heading %}}
+{{% /markdown %}}
 {{< /content >}}
 
 {{< picture integration-main 580 "An engineer stands in front of an API window with API documentation." >}}
 
-{{< content >}}
-{{% richtext center %}}
+{{< content text=center top=12 bottom=8 width=narrow >}}
+{{% markdown %}}
 ### Use Skribble via your browser or integrate the platform into your existing software environment via API
-{{% /richtext %}}
+{{% /markdown %}}
 {{< /content >}}
 
 {{< features-container >}}
@@ -45,7 +45,7 @@ technological security with simplicity.
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< content >}}
+{{< content top=12 >}}
 {{< testimonial "testimonial/softcom-logo-108w.png" "Rémy Tzaud, CEO of Softcom" >}}
 "We integrated the API for the Canton of Fribourg in half a day. The API from Skribble leaves nothing to be desired."
 {{< /testimonial >}}
@@ -53,10 +53,10 @@ technological security with simplicity.
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< content class="no-bottom-padding" >}}
-{{% heading %}}
+{{< content text=center top=12 bottom=16 width=narrow >}}
+{{% markdown %}}
 # With Skribble you benefit from the highest standards of technology and security
-{{% /heading %}}
+{{% /markdown %}}
 {{< /content >}}
 
 {{< features-container >}}
@@ -88,7 +88,7 @@ technological security with simplicity.
 {{< /features-container >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
-<br>
+
 {{< testimonial "testimonial/swissmade-logo-300w.png" "" >}}
 Skribble holds the label
 <a href="https://www.swissmadesoftware.org/en/home/home.html" target="_blank" class="text-decoration: none;">Swiss made Software</a>, which stands
@@ -97,17 +97,14 @@ for quality, reliability and precision in software development.
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< content >}}
-{{% heading %}}
+{{< content text=center top=12 bottom=4 width=narrow >}}
+{{% markdown %}}
 # Try out the API
 You can create a demo key in your Skribble Business account.
-{{% /heading %}}
+{{% /markdown %}}
 {{< /content >}}
 
 {{< picture api-main 600 "A laptop with fountain pen and gear wheel." >}}
-
-{{% heading %}}
-{{% /heading %}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
@@ -121,26 +118,24 @@ You can create a demo key in your Skribble Business account.
 
 {{< picture "api-dok" 140 "User interface window with one gear wheel." >}}
 
-{{% richtext %}}
+{{% markdown %}}
 **API documentation**
 Check out our API documentation.
-{{% /richtext %}}
+{{% /markdown %}}
 {{< /cta >}}
 {{< /cta-group >}}
 
-{{< outro >}}
-{{< picture image8 414 >}}
+[//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< richtext >}}
-{{% heading %}}
+{{< outro >}}
+{{% markdown center %}}
 # Sign now, legally and electronically!
 No credit card, entrance fee or commitment required.
-{{% /heading %}}
+{{% /markdown %}}
 
 {{< button
   "Try it now"
   "https://my.skribble.com/signup?lang=en"
   "_blank"
 >}}
-{{< /richtext >}}
 {{< /outro >}}

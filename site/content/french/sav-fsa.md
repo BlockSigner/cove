@@ -7,33 +7,21 @@ type: blank
 
 ---
 
-{{< intro >}}
-<div class="hide-for-mobile">
-  {{< picture image1 678 "trois personnes signent un document électronique" >}}
-</div>
-
-{{< richtext >}}
-{{% heading left %}}
+{{< intro top=24 bottom=12 width=wide img=image1 img-width=678 img-alt="trois personnes signent un document électronique" >}}
+{{% markdown %}}
 # Signature électronique légalement valide avec Skribble
 Traiter les processus de signature numériquement &ndash; juridiquement valides selon le droit suisse et européen.
-{{% /heading %}}
-
-<div class="hide-for-desktop">
-  {{< picture image1 678 "trois personnes signent un document électronique" >}}
-</div>
-
+{{% /markdown %}}
 {{< intro-partner
   "image/swisscom.png"
-  "Basé sur la signature électronique qualifiée SEQ de Swisscom"
+  "Basé sur les certificats de signature de Swisscom"
 >}}
-
-{{< /richtext >}}
 {{< /intro >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< side-by-side >}}
-{{% richtext %}}
+{{< side-by-side top=24 bottom=12 img=image4 mobile-top=12 mobile-bottom=6 img-width=391 img-position=right img-alt="Trois personnes signent légalement ensemble un document en ligne" >}}
+{{% markdown %}}
 ## La signature électronique qualifiée avec Skribble simple, intuitif et efficace
 - **Aucun matériel externe requis**
 Skribble peut être utilisé immédiatement
@@ -41,17 +29,13 @@ Skribble peut être utilisé immédiatement
 Signer plusieurs documents en un seul clic (signature groupées)
 - **Coordination rapide et efficace**
 Invitations à signer par courriel et rappels
-{{% /richtext %}}
-
-{{< picture image4 391 "Trois personnes signent légalement ensemble un document en ligne" >}}
+{{% /markdown %}}
 {{< /side-by-side >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< side-by-side >}}
-{{< picture image5 430 "Une personne tient un document juridique entre ses mains. Le logo de swisscom se trouve à l'arrière-plan" >}}
-
-{{% richtext %}}
+{{< side-by-side top=12 bottom=12 mobile-top=6 mobile-bottom=6 img=image5 img-width=430 img-alt="Une personne tient un document juridique entre ses mains. Le logo de swisscom se trouve à l'arrière-plan" >}}
+{{% markdown %}}
 ## Skribble répond aux normes juridiques et technologiques les plus élevées.
 - **SCSE & eIDAS**
 Certificats SEQ de Swisscom
@@ -59,31 +43,28 @@ Certificats SEQ de Swisscom
 Chiffrement AES-256
 - **Hébergement en Suisse**
 Conforme FINMA, certifié ISO 27001
-{{% /richtext %}}
+{{% /markdown %}}
 {{< /side-by-side >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< content >}}
-{{% heading %}}
+{{< content text=center top=12 bottom=18 width=narrow >}}
+{{% markdown %}}
 # Les membres de la SAV-FSA utilisent Skribble à un prix préférentiel
-{{% /heading %}}
+{{% /markdown %}}
 
 {{< picture sav-special 200 "Cercle bleu avec le chiffre 12" >}}
 
-{{% richtext center %}}
+{{% markdown center %}}
 ## par mois / utilisateur au lieu de CHF 25.-
 Les signatures peuvent également être obtenues selon un modèle prépayé.
-{{% /richtext %}}
-
+{{% /markdown %}}
 {{< /content >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< side-by-side >}}
-{{< picture identification 482 "L'identité d'une femme debout dans un téléphone portable est vérifiée par deux personnes" >}}
-
-{{% richtext %}}
+{{< side-by-side top=24 bottom=12 img=identification mobile-top=12 mobile-bottom=6 img-width=482 img-alt="L'identité d'une femme debout dans un téléphone portable est vérifiée par deux personnes" >}}
+{{% markdown %}}
 # Prêt à signer en 5 minutes
 
 Tout ce dont tu as besoin c'est d'un téléphone portable et un document d'identification officiel. (passeport ou carte d'identité)
@@ -93,32 +74,27 @@ Tout ce dont tu as besoin c'est d'un téléphone portable et un document d'ident
 - **Vous êtes prêt à signer tout de suite**
 
 Un cabinet d'avocats peut également être qualifié pour le faire, pour identifier les gens vous-même.
-
+{{% /markdown %}}
 {{< intro-partner
   "image/swisscom.png"
   "Partenaire officiel d'identification de Swisscom"
 >}}
-
-{{% /richtext %}}
 {{< /side-by-side >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
 {{< outro >}}
-{{< picture image8 414 "Un homme se tient à côté d'un document électronique avec un stylo plume géan" >}}
-
-{{< richtext >}}
-{{% heading %}}
+{{% markdown center %}}
 # Signez dès à présent électroniquement de manière légalement valide!
 En savoir plus sur l'offre.
-{{% /heading %}}
+{{% /markdown %}}
 
 {{< button
   "Fixer un rendez-vous"
   "https://help.skribble.com/meetings/patrick182/consultation-telephone-skribble"
   "_blank"
 >}}
-<a class="mobile-link" href="tel:+41445051664">
+<a class="mobile-link outro__link" href="tel:+41445051664">
   <svg version="1.1" id="Ebene_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 24 24" style="enable-background:new 0 0 24 24;" xml:space="preserve">
 		<path d="M21.5,10.5h2c0-5.5-4.5-10-10-10v2C17.9,2.5,21.5,6.1,21.5,10.5z M17.5,10.5h2c0-3.3-2.7-6-6-6v2
@@ -128,5 +104,4 @@ En savoir plus sur l'offre.
   </svg>
   +41 44 505 16 64
 </a>
-{{< /richtext >}}
 {{< /outro >}}

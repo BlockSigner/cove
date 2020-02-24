@@ -1,28 +1,39 @@
-<div class="action-card {{.Get "class"}}">
-    <div class="content">
-        <div class="top">
-            {{ with .Get "title"}}<h2 class="title">{{.}}</h2>{{ end }}
-            <div class="description">{{ .Get "description" | safeHTML}}</div>
-            <div class="image">{{.Inner}}</div>{{if .Get "caption"}}
-            <div class="caption"><p>{{.Get "caption"}}</p></div> {{ end }}
-        </div>
-    </div>{{if .Get "has-comparison"}}
-    <div class="comparison">
-        <p class="comparison-title"><strong>{{.Get "comparison-title"}}</strong></p>
-        {{if .Get "comparison-first"}}
-        <div class="comparison-container">
-            <div class="comparison-first">{{.Get "comparison-first" | safeHTML}}</div>
-            <div class="comparison-separator">
-                <div class="separator-text"><strong>{{.Get "or"}}</strong></div>
+<div class="action-card">
+    <div class="
+        skr-container
+        {{ if .Get "top"  }}pt-{{ .Get "top" }}{{ end }}
+        {{ if .Get "bottom"  }}pb-{{ .Get "bottom" }}{{ end }}
+        {{ if .Get "mobile-top"  }}ptm-{{ .Get "mobile-top" }}{{ end }}
+        {{ if .Get "mobile-bottom"  }}pbm-{{ .Get "mobile-bottom" }}{{ end }}
+        {{ if .Get "width"  }}is-{{ .Get "width" }}{{ end }}
+    ">
+        <div class="action-card__inner">
+            <div class="action-card__content markdown">
+                <div class="top">
+                    {{ with .Get "title"}}<h2 class="title">{{.}}</h2>{{ end }}
+                    <div class="description">{{ .Get "description" | safeHTML}}</div>
+                    <div class="image">{{.Inner}}</div>
+                    {{if .Get "caption"}}<div class="caption"><p>{{.Get "caption"}}</p></div>{{ end }}
+                </div>
+            </div>{{if .Get "has-comparison"}}
+            <div class="comparison">
+                <p class="comparison-title"><strong>{{.Get "comparison-title"}}</strong></p>
+                {{if .Get "comparison-first"}}
+                <div class="comparison-container">
+                    <div class="comparison-first">{{.Get "comparison-first" | safeHTML}}</div>
+                    <div class="comparison-separator">
+                        <div class="separator-text"><strong>{{.Get "or"}}</strong></div>
+                    </div>
+                    <div class="comparison-second">{{.Get "comparison-second" | safeHTML}}</div>
+                </div>{{ end }}
+                <p class="comparison-caption"><strong>{{.Get "comparison-caption"}}</strong></p>
             </div>
-            <div class="comparison-second">{{.Get "comparison-second" | safeHTML}}</div>
-        </div>{{ end }}
-        <p class="comparison-caption"><strong>{{.Get "comparison-caption"}}</strong></p>
-    </div> 
-    {{ end }}<div class="content no-top-padding">
-        <div class="button">
-            <a class="btn" href="{{ .Get "button-link" }}">{{ .Get "button-text" }}</a>
+            {{ end }}<div class="action-card__content no-top-padding">
+                <div class="button">
+                    <a class="btn" href="{{ .Get "button-link" }}">{{ .Get "button-text" }}</a>
+                </div>
+                <div class="subtext">{{ .Get "subtext" }}</div>
+            </div>
         </div>
-        <div class="subtext">{{ .Get "subtext" }}</div>
     </div>
 </div>

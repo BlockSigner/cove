@@ -21,13 +21,13 @@
 @import 'imports/features-item';
 @import 'imports/footer';
 @import 'imports/header';
-@import 'imports/heading';
 @import 'imports/intro';
 @import 'imports/lan-nav';
 @import 'imports/logos-container';
 @import 'imports/logos-item';
 @import 'imports/logos-line-break';
 @import 'imports/legal-list';
+@import 'imports/markdown';
 @import 'imports/maps';
 @import 'imports/mobile-nav';
 @import 'imports/newsletter';
@@ -36,7 +36,6 @@
 @import 'imports/person';
 @import 'imports/picture';
 @import 'imports/plan';
-@import 'imports/richtext';
 @import 'imports/row';
 @import 'imports/show-hide-button';
 @import 'imports/side-by-side';
@@ -52,35 +51,38 @@
 // note: the following lines draw outlines and backgrounds for all major
 // components and label these components
 // =============================================================================
-// @mixin outline($name: default, $color: black, $orientation: 45deg) {
-//   outline: 1px solid $color !important;
-//   background: repeating-linear-gradient($orientation, rgba($color, .1),rgba($color, .1) 10px,rgba($color, .05) 10px,rgba($color, .05) 20px);
-//   position: relative;
-//   &:after {
-//     position: absolute;
-//     left: 0;
-//     top: 0;
-//     z-index: 10;
-//     font: 10px/1 monospace;
-//     background: $color;
-//     color: white;
-//     padding: 0 2px 2px 2px;
-//     content: '#{$name}';
-//   }
-// }
+@mixin outline($name: default, $color: black, $orientation: 45deg, $text-color: white) {
+  outline: 1px solid $color !important;
+  background: repeating-linear-gradient($orientation, rgba($color, .1),rgba($color, .1) 10px,rgba($color, .05) 10px,rgba($color, .05) 20px);
+  position: relative;
+  &:after {
+    position: absolute;
+    left: 0;
+    top: 0;
+    z-index: 10;
+    font: 10px/1 monospace;
+    background: $color;
+    color: $text-color;
+    padding: 0 2px 2px 2px;
+    content: '#{$name}';
+  }
+}
 // * {outline: 1px solid rgba(red, .1);}
 // .collapsible {@include outline(collapsible, darkgoldenrod, -45deg);}
-// .content {@include outline(content, black);}
+// .content {@include outline(content, lightslategray);}
 // .cta {@include outline(cta, seagreen);}
-// .heading {@include outline(heading, purple, -45deg);}
 // .intro {@include outline(intro, black);}
 // .outro {@include outline(outro, black);}
 // .picture {@include outline(picture, tomato, -45deg);}
 // .plan {@include outline(plan, darkslategrey, -45deg);}
-// .richtext {@include outline(richtext, mediumslateblue, -45deg);}
 // .row {@include outline(row, grey, -45deg);}
 // .side-by-side {@include outline(side-by-side, black);}
 // .table-wrapper {@include outline(table-wrapper, darkorchid);}
+// .logos-container {@include outline(logos-container, indianred);}
+// .testimonial {@include outline(testimonial, deepskyblue);}
+// .markdown {@include outline(markdown, powderblue, 45deg, black);}
+// .features-container {@include outline(features-container, darkkhaki);}
+// .action-card {@include outline(action-card, limegreen);}
 // =============================================================================
 
 html {
@@ -120,8 +122,6 @@ img {
   min-height: 100vh;
 }
 
-
-
 .main {
   flex: 1 0 auto;
   position: relative;
@@ -129,14 +129,6 @@ img {
   padding-top: $header-height;
   @include max-width {
     padding-top: $header-height-mobile;
-  }
-
-  // first content component shall have a different padding
-  .content:first-child {
-    padding-top: 44px;
-    @include max-width {
-      padding-top: 22px;
-    }
   }
 
   > .title-subtitle:first-child {
@@ -184,3 +176,54 @@ img {
 .text-right {
   text-align: right !important;
 }
+
+// Spacing classes from 0 to 24: (coefficient)4px as padding-top and
+// padding-bottom, respectively
+// On mobile viewports, the constant is 2px instead of 4px
+@for $i from 0 through 24 {
+  .pt-#{$i} {
+    padding-top: #{4 * $i}px;
+    @include max-width {
+      padding-top: #{2 * $i}px;
+    }
+  }
+  .pb-#{$i} {
+    padding-bottom: #{4 * $i}px;
+    @include max-width {
+      padding-bottom: #{2 * $i}px;
+    }
+  }
+  // Explicitly stated mobile spacing classes overwrite the default classes
+  .ptm-#{$i},
+  [class*="pt-"].ptm-#{$i} {
+    @include max-width {
+      padding-top: #{2 * $i}px;
+    }
+  }
+  .pbm-#{$i},
+  [class*="pb-"].pbm-#{$i} {
+    @include max-width {
+      padding-bottom: #{2 * $i}px;
+    }
+  }
+}
+
+// Width classes
+// skr-container, is-wide, and .is-full-width
+.skr-container {
+  margin: 0 auto;
+  width: 1024px;
+  max-width: 100%;
+  padding-right: 24px;
+  padding-left: 24px;
+  &.is-narrow {
+    width: 720px;
+  }
+  &.is-wide {
+    width: 1300px;
+  }
+  &.is-full {
+    width: 100vw;
+  }
+}
+

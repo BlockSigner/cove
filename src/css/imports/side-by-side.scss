@@ -1,53 +1,56 @@
 .side-by-side {
-  @include standard-padding;
-  @include site-width;
-  display: flex;
-  align-items: center;
-  width: $side-by-side-width;
-  @include max-width {
-    flex-direction: column;
+
+  &-inner {
+    display: flex;
+    align-items: center;
+    @include max-width {
+      flex-direction: column;
+    }
   }
 
-  .richtext {
+  &__body {
+    &:first-child {
+      @include min-width {
+        padding: 0 30px 0 0;
+      }
+    }
+    &:last-child {
+      @include min-width {
+        padding: 0 0 0 30px;
+      }
+    }
     @include min-width {
-      flex: 1 1 100%;
+      flex: 1 1 0%;
     }
     @include max-width {
       order: -1;
     }
-    &:first-child {
-      @include min-width {
-        padding-right: 30px;
-      }
-    }
-    &:last-child {
-      @include min-width {
-        padding-left: 30px;
-      }
-    }
-
-    h2:first-child {
-      margin-top: 0;
+    + .hide-for-mobile {
+      padding-right: 0;
     }
   }
 
-  .picture {
+  &__img {
+    display: flex;
+    flex-direction: column;
+    overflow: hidden;
     @include min-width {
-      flex: 1 1 100%;
+      flex: 1 1 0%;
     }
+    @include max-width {
+      margin: 40px auto;
+    }
+    // align image to the right when the image is on the left
     &:first-child {
       @include min-width {
-        padding-right: 30px;
+        align-items: flex-end;
+        padding: 0 30px 0 0;
       }
     }
     &:last-child {
       @include min-width {
-        padding-left: 30px;
+        padding: 0 0 0 30px;
       }
-    }
-
-    picture {
-      overflow: hidden;
     }
   }
 }

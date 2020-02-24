@@ -9,11 +9,12 @@ og_image: og/og-skribble-identification.jpg
 
 ---
 
-{{< content >}}
-{{% heading %}}
+{{< content text=center top=16 width=narrow >}}
+{{% markdown %}}
 # Business-Features
-Skribble Business Kunden signieren als Organisation – <br class="hide-for-mobile">mit zentraler Mitgliederverwaltung und gemeinsamer Abrechnung.
-{{% /heading %}}
+Skribble Business Kunden signieren als Organisation –
+mit zentraler Mitgliederverwaltung und gemeinsamer Abrechnung.
+{{% /markdown %}}
 {{< /content >}}
 
 {{< picture skribble-biz-ui-de 1020 "Skribble Business-Account - benutzeroberfläche" >}}
@@ -45,11 +46,11 @@ Skribble Business Kunden signieren als Organisation – <br class="hide-for-mobi
     description="Sehe die aktuelle und alle vergangenen Rechnungen jederzeit ein.">}}
 {{< /features-container >}}
 
-{{< content >}}
-{{% heading %}}
+{{< content text=center top=24 bottom=12 width=narrow >}}
+{{% markdown %}}
 # Skribble Business bettet sich <br class="hide-for-mobile">in deine bestehende Infrastruktur ein
 Das Onboarding neuer Signierenden ist intuitiv und schnell.
-{{% /heading %}}
+{{% /markdown %}}
 {{< /content >}}
 
 {{< features-container >}}
@@ -76,46 +77,41 @@ den Alltag für uns und unseren Kunden."{{< /testimonial >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< content >}}
-{{% heading %}}
+{{< content text=center top=12 width=narrow >}}
+{{% markdown %}}
 # Organisationsweite Einführung <br class="hide-for-mobile">ist einfach und schnell
 Befähige neue und bestehende Mitarbeitende in kürzester Zeit
 zum elektronischen Signieren. Wähle den Onboarding-Prozess, der zu deinem Anspruch an Beweiskraft bzw. zum gewünschten Signatur-Standard passt.
-{{% /heading %}}
+{{% /markdown %}}
 {{< /content >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< side-by-side >}}
-{{< picture onboarding-qes-de 380 "Ein grosser Vertrag (QES) mit einem Gericht" >}}
-
-{{< richtext >}}
-{{% heading left %}}
+{{< side-by-side top=12 bottom=12 img=onboarding-qes-de img-width=380 img-alt="Ein grosser Vertrag (QES) mit einem Gericht" >}}
+{{% markdown %}}
 ## Onboarding für die qualifizierte elektronische Signatur (QES)
 Identifikationsservices für höchste Ansprüche an die Beweiskraft der Signatur.
 Geeignet für Verträge mit Formvorschrift.
-{{% /heading %}}
-
+{{% /markdown %}}
+<br>
 {{< button
   "Download Factsheet"
   "https://cdn2.hubspot.net/hubfs/5051692/Factstheets/Identification/Deutsch/Skribble_Overview_Identification.pdf"
   "_blank"
   "outline">}}
-
-{{< /richtext >}}
 {{< /side-by-side >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< content >}}
-{{% heading %}}
+{{< content text=center top=8 bottom=8 width=narrow >}}
+{{% markdown %}}
 # Ideales Kosten-Nutzen-Verhältnis
 Wähle das passende Preismodell für deine Organisation
-{{% /heading %}}
+{{% /markdown %}}
 {{< /content >}}
 
 {{< picture preismodelle 590 "Eine Frau mit roten Haaren vergliecht verschiedene Preismodelle." >}}
-
+<br>
 {{< center >}}
 {{< button
   "Preismodelle vergleichen"
@@ -126,19 +122,16 @@ Wähle das passende Preismodell für deine Organisation
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< outro >}}
-{{< picture image8 414 "Ein mann steht mit einem riesen füller neben einem elektronischen dokument" >}}
-
-{{< heading >}}
-{{% richtext %}}
+{{< outro   >}}
+{{% markdown center %}}
 # Jetzt rechtsgültig elektronisch signieren!
-Keine Kreditkarte, Eintrittsgebühr oder Verpflichtung erforderlich.
-{{% /richtext %}}
+Keine Kreditkarte, Eintrittsgebühr oder
+Verpflichtung erforderlich.
+{{% /markdown %}}
 
 {{< button
   "Jetzt ausprobieren"
   "https://my.skribble.com/signup?lang=de"
   "_blank"
 >}}
-{{< /heading >}}
 {{< /outro >}}

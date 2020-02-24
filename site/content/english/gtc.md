@@ -6,17 +6,17 @@ description: General Terms and Conditions (GTC) of Skribble
 
 ---
 
-{{< content >}}
-{{% richtext %}}
+{{< content top=16 width=narrow >}}
+{{% markdown %}}
 # General Terms and Conditions (GTC) of Skribble
 (Version 2019.10.01)
 
 The following applies to you as customer (You or Customer) of the Skribble e-signing-platform (Skribble Service)and Skribble AG, Fraumünsterstrasse 16, 8001 Zurich, Switzerland, respectively Skribble Deutschland GmbH, Pforzheimer Straße 128a, 76275 Ettlingen, Germany (Skribble):
 
 ## A – General Terms
-{{% /richtext %}}
+{{% /markdown %}}
 
-{{% richtext legal %}}
+{{% markdown legal %}}
 ### Scope of Application and contract exclusions
 1. These GTC are applicable to all the services that Skribble provides to the Customer.
 2. If you are a Customer with domicile or registered office in Switzerland or outside the EU, you are entering into a legal relationship with Skribble AG, Bahnhofstrasse 3, 8001 Zurich. If you are a customer with domicile or registered office in the EU, you enter into a legal relationship with Skribble Deutschland GmbH, Pforzheimer Straße 128a, 76275 Ettlingen, Germany.
@@ -26,12 +26,12 @@ The following applies to you as customer (You or Customer) of the Skribble e-sig
 ### Subject Matter
 1. In order to sign a document electronically in an advanced or qualified manner, a strong authentication of the signatory and a signature created by a certified service, a certification authority, are required.
 2. The Skribble Service will integrate these two components into its service with various trusted partners who meet the requirements of ZertES and/or eIDAS, in order to create qualified electronic signatures (QES) and advanced electronic signatures (AES) in the simplest possible way.
-{{% /richtext %}}
+{{% /markdown %}}
 
-{{% richtext %}}
+{{% markdown %}}
 ## B - Legal Relationships
-{{% /richtext %}}
-{{% richtext legal %}}
+{{% /markdown %}}
+{{% markdown legal %}}
 ### Customers and System Users
 1. Customer: May be a legal entity or a natural person.
 2. System Users: System Users are natural persons who are authorised to use the Skribble Service in accordance with the Terms of Use and who have been identified by the Customer as being authorised to use the Skribble Service.
@@ -45,47 +45,47 @@ Skribble Service provides the following accounts:
 ### Customer Agreement and Terms of Use
 1. The Customer as the owner of a Customer Account has a contractual relationship with Skribble with the Customer Contract.
 2. System Users must accept the Terms of Use and the Privacy Policy of Skribble, as well as the terms of the provider of certification services, in order to be able to use the Skribble Service.
-{{% /richtext %}}
+{{% /markdown %}}
 
-{{% richtext %}}
+{{% markdown %}}
 ## C - Services by Skribble
-{{% /richtext %}}
-{{% richtext legal %}}
+{{% /markdown %}}
+{{% markdown legal %}}
 ### Skribble Service
 1. Skribble undertakes to provide the Skribble Service under the Customer Contract. The services as well as the conditions of use are described in the Customer Contract.
 
 ### Warranty
 1.  An insignificant defect shall not constitute a warranty claim; Section C.2.2. shall apply in addition. If warranty claims exist, Skribble shall have the choice of the type of subsequent performance. A statute of limitation of one year from the transfer of risk shall apply, whereby the statute of limitation shall not begin to run again if Skribble makes a replacement delivery within the scope of the liability for defects.
 2. In addition to Clause C.2.1., the following shall apply: If Skribble forwards services or content from third parties within the scope of the Skribble Service, any warranty of Skribble is hereby excluded in its entirety. However, Skribble forwards to the Customer those warranties which Skribble receives from third parties with regard to such services. Skribble has no further warranty obligations.
-{{% /richtext %}}
+{{% /markdown %}}
 
-{{% richtext %}}
+{{% markdown %}}
 ## D - User Access
-{{% /richtext %}}
-{{% richtext legal %}}
+{{% /markdown %}}
+{{% markdown legal %}}
 ### User access to the Skribble Service
 1. After entry into force of the Customer Contract, Skribble shall provide the Customer with the access data for the Customer Account, which enables the Customer to create User Accounts and activate System Users.
 
 ### Increase or reduction of services
 1. The Customer can request additional services at any time against the payment of additional usage fees.
 2. The reduction of the services is determined by the subscription of the Customer.
-{{% /richtext %}}
+{{% /markdown %}}
 
-{{% richtext %}}
+{{% markdown %}}
 ## E - Data
-{{% /richtext %}}
-{{% richtext legal %}}
+{{% /markdown %}}
+{{% markdown legal %}}
 ### Confidentiality and Data Protection
 1. Skribble's Privacy Policy describes in detail how the data is used on the Skribble Service, local devices, and mobile devices.
 
 ### Data Collection
 1.  The Customer must provide the information specified in the Customer Contract or on the Skribble Service platform. Skribble does not use user data for marketing purposes.
-{{% /richtext %}}
+{{% /markdown %}}
 
-{{% richtext %}}
+{{% markdown %}}
 ## F - Right of use and intellectual property
-{{% /richtext %}}
-{{% richtext legal %}}
+{{% /markdown %}}
+{{% markdown legal %}}
 ### Right of use
 1. The right to use the Skribble Service shall arise upon the full payment of the initial remuneration by the Customer and shall continue to exist as long as the Customer has continued to pay the remuneration owed until the due date.
 2. The right to use the Skribble Service shall enable System Users to an intended, non-exclusive, limited to the term, non-transferable and not sub-licensable use of the Skribble Service as agreed upon with the Customer.
@@ -94,12 +94,12 @@ Skribble Service provides the following accounts:
 ### Intellectual Property
 1.  By opening a Customer Account, the Customer acknowledges that the rights to the Skribble Service platform belong to Skribble (or Skribble's contractual partners).
 2. The Customer is not permitted to copy the contents of the Skribble Service in whole or in part, to distribute it further, to make it accessible via framing or other methods. Under no circumstances is it permitted to publish non-public content of Skribble outside of the Skribble Service.
-{{% /richtext %}}
+{{% /markdown %}}
 
-{{% richtext %}}
+{{% markdown %}}
 ## G - Fees, Invoicing, Payment Terms
-{{% /richtext %}}
-{{% richtext legal %}}
+{{% /markdown %}}
+{{% markdown legal %}}
 ### User fees and other charges
 1. Upon conclusion of the contract, the Customer undertakes to pay the agreed fees.
 2. If Skribble provides the Customer with supplementary services for a fee, the Customer undertakes to pay the defined fee (e.g., charges for equipment, training, etc.).
@@ -112,12 +112,12 @@ Skribble Service provides the following accounts:
 
 ### Exclusion of offsetting
 1. Neither party shall be entitled to offset payment obligations with claims against the other party.
-{{% /richtext %}}
+{{% /markdown %}}
 
-{{% richtext %}}
+{{% markdown %}}
 ## H - Customer obligations
-{{% /richtext %}}
-{{% richtext legal %}}
+{{% /markdown %}}
+{{% markdown legal %}}
 ### Customer obligation
 1. The Customer shall pay the fees owed to Skribble within the payment period.
 2. The Customer shall ensure that the information provided to Skribble is up-to-date, accurate and complete.
@@ -129,12 +129,12 @@ Skribble Service provides the following accounts:
 
 ### Customer warranties
 1. The Customer represents and warrants to comply with and to actively enforce the Terms of Use in relation to System Users.
-{{% /richtext %}}
+{{% /markdown %}}
 
-{{% richtext %}}
+{{% markdown %}}
 ## I - Conclusion of contract, duration, termination, suspension
-{{% /richtext %}}
-{{% richtext legal %}}
+{{% /markdown %}}
+{{% markdown legal %}}
 ### Conclusion of contract, duration and termination
 1. The contractual relationship begins with the conclusion of the Customer Contract.
 2. The duration of the subscription results from the Customer Contract.
@@ -156,12 +156,12 @@ Skribble Service provides the following accounts:
 ### Effects of contract termination
 1. Upon termination of the contract, Skribble deletes the Customer Account, as well as all User Accounts, including data and documents which are in the User Accounts.
 2. Unfulfilled payment obligations, as well as rights and obligations, which expressly or by their nature remain unaffected by the termination of this Agreement, shall survive termination of this Agreement. Skribble is not obliged to reimburse the Customer for any payments already made.
-{{% /richtext %}}
+{{% /markdown %}}
 
-{{% richtext %}}
+{{% markdown %}}
 ## J - Miscellaneous
-{{% /richtext %}}
-{{% richtext legal %}}
+{{% /markdown %}}
+{{% markdown legal %}}
 ### Liability
 1. Skribble shall be liable for all contractual, quasi-contractual and statutory claims, including claims in tort, for damages and reimbursement of expenses in accordance with the provisions in clauses J.1.2. - J.1.3. Any other liability of Skribble shall be excluded.
 2. Skribble shall be liable without limitation on any legal grounds whatsoever
@@ -196,27 +196,23 @@ Skribble Service provides the following accounts:
 2. If the Customer Contract was concluded with Skribble Deutschland GmbH in accordance with Clause A.1.2., the following shall apply:
     1. The legal relationship between the Customer and Skribble existing under these GTC is subject to German law, to the exclusion of the United Nations Convention on Contracts for the International Sale of Goods of 11      April 1980.
     2. The exclusive place of jurisdiction for all disputes relating to these GTC is Ettlingen, Germany. However, Skribble is entitled in any case to appeal to the court at the Customer's place of business.
-{{% /richtext %}}
-{{% richtext center %}}
+{{% /markdown %}}
+{{% markdown center %}}
 ## * * *
-{{% /richtext %}}
+{{% /markdown %}}
 {{< /content >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
 {{< outro >}}
-{{< picture image8 414 "Ein mann steht mit einem riesen füller neben einem elektronischen dokument" >}}
-
-{{< richtext >}}
-{{% heading %}}
-# Jetzt rechtsgültig elektronisch signieren!
-Keine Kreditkarte, Eintrittsgebühr oder <br class="hide-for-mobile">Verpflichtung erforderlich.
-{{% /heading %}}
+{{% markdown center %}}
+# Sign now, legally and electronically!
+No credit card, entrance fee or commitment required.
+{{% /markdown %}}
 
 {{< button
-  "Jetzt ausprobieren"
-  "https://my.skribble.com/signup?lang=de"
+  "Try it now"
+  "https://my.skribble.com/signup?lang=en"
   "_blank"
 >}}
-{{< /richtext >}}
 {{< /outro >}}

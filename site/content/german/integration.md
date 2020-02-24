@@ -9,20 +9,20 @@ og_image: og/og-skribble-identification.jpg
 
 ---
 
-{{< content >}}
-{{% heading %}}
+{{< content text=center top=16 bottom=8 width=narrow >}}
+{{% markdown %}}
 # Skribble Integration
 Mit Skribble wählst du eine Online-Plattform, die
 technologische Sicherheit und Einfachheit vereint. 
-{{% /heading %}}
+{{% /markdown %}}
 {{< /content >}}
 
 {{< picture integration-main 580 "Ein Ingenieur steht vor einem API-Fenster mit einer API-Dokumenation." >}}
 
-{{< content >}}
-{{% richtext center %}}
+{{< content text=center top=12 bottom=8 width=narrow >}}
+{{% markdown %}}
 ### Nutze Skribble über den Browser oder integriere die Plattform via API in eure bestehende Softwareumgebung
-{{% /richtext %}}
+{{% /markdown %}}
 {{< /content >}}
 
 {{< features-container >}}
@@ -46,17 +46,17 @@ technologische Sicherheit und Einfachheit vereint.
 {{< /features-container >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
-<br><br>
+
 {{< testimonial "testimonial/softcom-logo-108w.png" "Rémy Tzaud, CEO von Softcom" >}}
 "Wir haben die API für den Kanton Freiburg in einem halben Tag integriert. Die API von Skribble lässt keine Wünsche offen."
 {{< /testimonial >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< content >}}
-{{% heading %}}
+{{< content text=center top=12 bottom=16 width=narrow >}}
+{{% markdown %}}
 # Mit Skribble arbeitest du auf höchsten Technologie- und Security-Standards
-{{% /heading %}}
+{{% /markdown %}}
 {{< /content >}}
 
 {{< features-container >}}
@@ -88,24 +88,23 @@ technologische Sicherheit und Einfachheit vereint.
 {{< /features-container >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
-<br><br>
+
 {{< testimonial "testimonial/swissmade-logo-300w.png" "" >}}
-Skribble trägt das Label <br class="hide-for-mobile"><a href="https://www.swissmadesoftware.org/" target="_blank" class="text-decoration: none;">Swiss made Software</a>, das für Qualität, Zuverlässigkeit und Präzision in der Software-Entwicklung steht.
+Skribble trägt das label
+<a href="https://www.swissmadesoftware.org/" target="_blank" class="text-decoration: none;">Swiss made Software</a>, das für Qualität, Zuverlässigkeit und Präzision in der Software-Entwicklung steht.
 {{< /testimonial >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< content >}}
-{{% heading %}}
+{{< content text=center top=12 bottom=4 width=narrow >}}
+{{% markdown %}}
 # API ausprobieren
-In deinem Skribble Business Konto kannst du einen Demo-Schlüssel erstellen.
-{{% /heading %}}
+In deinem Skribble Business Konto kannst du
+einen Demo-Schlüssel erstellen.
+{{% /markdown %}}
 {{< /content >}}
 
 {{< picture api-main 600 "Ein Laptop mit Füllfeder und Zahnrad." >}}
-
-{{% heading %}}
-{{% /heading %}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
@@ -119,28 +118,26 @@ In deinem Skribble Business Konto kannst du einen Demo-Schlüssel erstellen.
 
 {{< picture "api-dok" 140 "Userinterface Fenster mit Zahnrad" >}}
 
-{{% richtext %}}
+{{% markdown %}}
 **API-Dokumentation**<br>
-Schau dir unsere API-Dokumentation an.<br class="hide-for-mobile">(auf Englisch)
-{{% /richtext %}}
+Schau dir unsere API-Dokumentation an.
+(auf Englisch)
+{{% /markdown %}}
 {{< /cta >}}
 {{< /cta-group >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< outro >}}
-{{< picture image8 414 "Ein mann steht mit einem riesen füller neben einem elektronischen dokument" >}}
-
-{{< richtext >}}
-{{% heading %}}
+{{< outro   >}}
+{{% markdown center %}}
 # Jetzt rechtsgültig elektronisch signieren!
-Keine Kreditkarte, Eintrittsgebühr oder Verpflichtung erforderlich.
-{{% /heading %}}
+Keine Kreditkarte, Eintrittsgebühr oder
+Verpflichtung erforderlich.
+{{% /markdown %}}
 
 {{< button
   "Jetzt ausprobieren"
   "https://my.skribble.com/signup?lang=de"
   "_blank"
 >}}
-{{< /richtext >}}
 {{< /outro >}}

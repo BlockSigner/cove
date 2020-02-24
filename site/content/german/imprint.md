@@ -5,8 +5,8 @@ draft: false
 slug: impressum
 ---
 
-{{< content >}}
-{{% richtext %}}
+{{< content top=16 width=narrow >}}
+{{% markdown %}}
 # Impressum
 
 ## Skribble (Schweiz)
@@ -73,24 +73,21 @@ Verantwortlich für diese Website und deren Inhalt im Sinne von § 3 Abs. 1 UWG 
 
 ## Copyright
 Die Urheber- und alle anderen Rechte an Inhalten, Bildern, Fotos oder anderen Dateien auf der Website gehören ausschliesslich der Firma Skribble AG. Für die Reproduktion jeglicher Elemente ist die schriftliche Zustimmung der Urheberrechtsträger im Voraus einzuholen.
-{{% /richtext %}}
+{{% /markdown %}}
 {{< /content >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< outro >}}
-{{< picture image8 414 "Ein mann steht mit einem riesen füller neben einem elektronischen dokument" >}}
-
-{{< richtext >}}
-{{% heading %}}
+{{< outro   >}}
+{{% markdown center %}}
 # Jetzt rechtsgültig elektronisch signieren!
-Keine Kreditkarte, Eintrittsgebühr oder <br class="hide-for-mobile">Verpflichtung erforderlich.
-{{% /heading %}}
+Keine Kreditkarte, Eintrittsgebühr oder
+Verpflichtung erforderlich.
+{{% /markdown %}}
 
 {{< button
   "Jetzt ausprobieren"
   "https://my.skribble.com/signup?lang=de"
   "_blank"
 >}}
-{{< /richtext >}}
 {{< /outro >}}

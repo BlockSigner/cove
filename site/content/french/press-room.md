@@ -8,15 +8,19 @@ og_image: og/og-skribble-mission.jpg
 
 ---
 
-{{< content >}}
-{{% heading %}}
+{{< content text=center top=16 bottom=4 width=narrow >}}
+{{% markdown %}}
 # Skribble pour les médias
 Retrouvez ici tout le nécessaire pour écrire sur Skribble.
-{{% /heading %}}
+{{% /markdown %}}
+{{< /content >}}
 
 {{< picture image12 688 "Un astronaute vole avec un stylo plume géant devant un écran et signe électroniquement" >}}
 
+{{< content top=12 bottom=8 width=narrow >}}
+{{% markdown %}}
 Fondé en mars 2018, Skribble est un fournisseur suisse de signatures électroniques ayant des bureaux à Zurich (CH) et à Karlsruhe (DE). La société TrustTech permet de signer des documents électroniques facilement et légalement. La base est constituée par des normes légalement réglementées, y compris la signature électronique qualifiée (SEQ) – la seule forme de signature électronique qui équivaut à une signature manuscrite devant la loi. Swisscom fournit la technologie de certification homologuée par l’Etat pour la SEQ. Le canton de Fribourg fait partie de ses clients actuels. Skribble compte 15 employés.
+{{% /markdown %}}
 {{< /content >}}
 
 {{< cta
@@ -28,10 +32,10 @@ Fondé en mars 2018, Skribble est un fournisseur suisse de signatures électroni
 
 {{< picture image13 100 "Kira Leuthold Content & Communications à Skribble" >}}
 
-{{% richtext %}}
+{{% markdown %}}
 **Kira Leuthold**<br>
 Communication & Relations publiques
-{{% /richtext %}}
+{{% /markdown %}}
 {{< /cta >}}
 
 {{< cta
@@ -43,12 +47,12 @@ Communication & Relations publiques
 
 {{< picture image14 106 "Carnet de notes avec beaucoup d'informations sur le skribble" >}}
 
-{{% richtext %}}
+{{% markdown %}}
 Les atouts les plus importants de Skribble sont à portée de main :
-{{% /richtext %}}
+{{% /markdown %}}
 {{< /cta >}}
 
-{{< table "Communiqués de presse" >}}
+{{< table top=12 width=narrow title="Communiqués de presse" >}}
 <tr>
   <td>19.09.2019</td>
   <td><strong>EXPERTsuisse cooperates with Skribble (en allemand)</strong></td>
@@ -102,7 +106,7 @@ Les atouts les plus importants de Skribble sont à portée de main :
 </tr>
 {{< /table >}}
 
-{{< table "Skribble dans les médias (sélection)" >}}
+{{< table top=18 width=narrow title="Skribble dans les médias (sélection)" >}}
 <tr>
   <td style="width:10%;">15.11.2019</td>
   <td style="width:80%;"><strong>Der Organisator - KMU Digital (en allemand)</strong></td>
@@ -134,19 +138,18 @@ Les atouts les plus importants de Skribble sont à portée de main :
 
 {{< /table >}}
 
-{{< outro >}}
-{{< picture image8 414 "Un homme se tient à côté d'un document électronique avec un stylo plume géant" >}}
+[//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< richtext >}}
-{{% heading %}}
+{{< outro >}}
+{{% markdown center %}}
 # Signer légalement <br class="hide-for-mobile">et numériquement maintenant!
-Aucune carte de crédit, aucun droit d'entrée <br class="hide-for-mobile">ou engagement n'est requis.
-{{% /heading %}}
+Aucune carte de crédit, aucun droit d'entrée
+ou engagement n'est requis.
+{{% /markdown %}}
 
 {{< button
   "Essayer maintenant"
   "https://my.skribble.com/signup?lang=fr"
   "_blank"
 >}}
-{{< /richtext >}}
 {{< /outro >}}

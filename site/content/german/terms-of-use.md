@@ -5,8 +5,8 @@ draft: false
 description: Nutzungsbedingungen meta description
 ---
 
-{{< content >}}
-{{% richtext legal %}}
+{{< content top=16 width=narrow >}}
+{{% markdown legal %}}
 # Nutzungsbedingungen von Skribble AG
 (Version 2019.10.01)
 
@@ -39,31 +39,28 @@ Diese Nutzungsbedingungen regeln Ihre Verwendung der Skribble Cloud-Lösung (Skr
 6. Systemnutzer dürfen sich nicht als eine fremde Person oder Organisation ausgeben oder ihre Zugehörigkeit bzw. Beziehung zu einer solchen falsch angeben oder auf andere Art falsch darstellen.
 7. Systemnutzer sorgen selbständig für die Sicherung von Daten in ihrem Account. Skribble schuldet keine Datenverfügbarkeit.
 8. Systemnutzer anerkennen das Recht von Skribble, Daten aus ihrem Nutzeraccount dem Kunden (üblicherweise der Arbeitgeber des Systemnutzers) offenzulegen, wenn der Anschein besteht, dass der betreffende Systemnutzer die Skribble-Dienste missbraucht hat, um strafrechtlich oder rechtsverletzende Informationen zu verbreiten.
-{{% /richtext %}}
+{{% /markdown %}}
 
-{{% richtext %}}
+{{% markdown %}}
 {{% center %}}
 ## ***
 {{% / center %}}
-{{% /richtext %}}
+{{% /markdown %}}
 
 {{< /content >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< outro >}}
-{{< picture image8 414 "Ein mann steht mit einem riesen füller neben einem elektronischen dokument" >}}
-
-{{< richtext >}}
-{{% heading %}}
+{{< outro   >}}
+{{% markdown center %}}
 # Jetzt rechtsgültig elektronisch signieren!
-Keine Kreditkarte, Eintrittsgebühr oder <br class="hide-for-mobile">Verpflichtung erforderlich.
-{{% /heading %}}
+Keine Kreditkarte, Eintrittsgebühr oder
+Verpflichtung erforderlich.
+{{% /markdown %}}
 
 {{< button
   "Jetzt ausprobieren"
   "https://my.skribble.com/signup?lang=de"
   "_blank"
 >}}
-{{< /richtext >}}
 {{< /outro >}}

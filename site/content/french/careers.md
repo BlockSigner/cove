@@ -8,48 +8,42 @@ og_image: og/og-career.jpg
 
 ---
 
-{{< content >}}
-{{% heading %}}
+{{< content text=center top=16 bottom=8 width=narrow >}}
+{{% markdown %}}
 # Travailler chez Skribble
-Collaborer et progresser avec des personnes motivées et inspirantes. 
-Nous te permettons de surmonter des nouveaux challenges 
+Collaborer et progresser avec des personnes motivées et inspirantes.
+Nous te permettons de surmonter des nouveaux challenges
 et de développer Skribble et toi-même.
-{{% /heading %}}
+{{% /markdown %}}
+{{< /content >}}
 
 {{< picture career 640 "3 candidats avec leurs listes de contrôle" >}}
 
-{{% richtext %}}
-## Nous recherchons :
-{{% /richtext %}}
-{{< /content >}}
-
 {{< cta
+  title="Nous recherchons"
   label="Plus d'info"
   href="/fr/carriere/465/sales-manager-de"
   target=""
   outlined="true"
 >}}
-{{% richtext %}}
+{{% markdown %}}
 **Sales Manager, Allemagne (100%)**
 (Annonce en Allemand)
-{{% /richtext %}}
+{{% /markdown %}}
 {{< /cta >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
 {{< outro >}}
-{{< picture image8 414 "Un homme se tient à côté d'un document électronique avec un stylo plume géant" >}}
-
-{{< richtext >}}
-{{% heading %}}
+{{% markdown center %}}
 # Signer légalement <br class="hide-for-mobile">et numériquement maintenant!
-Aucune carte de crédit, aucun droit d'entrée <br class="hide-for-mobile">ou engagement n'est requis.
-{{% /heading %}}
+Aucune carte de crédit, aucun droit d'entrée
+ou engagement n'est requis.
+{{% /markdown %}}
 
 {{< button
   "Essayer maintenant"
   "https://my.skribble.com/signup?lang=fr"
   "_blank"
 >}}
-{{< /richtext >}}
 {{< /outro >}}

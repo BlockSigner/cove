@@ -3,23 +3,21 @@ title: Identity verification for QES – Skribble makes it easy
 description: The qualified electronic signature (QES) requires the signing party to verify his or her identity. Skribble offers suitable means of identification for every business context.
 draft: false
 slug: identification
-type: identification
 # opengraph image (for facebook and twitter)
 og_image: og/og-skribble-identification.jpg
 
-
 ---
 
-{{< content >}}
-{{% heading %}}
+{{< content text=center top=16 bottom=4 width=narrow >}}
+{{% markdown %}}
 # Identity verification for QES
 For signing with the highest e-signature standard (QES),
 signatories must have their identity checked. This is done via e-ID
 or with our identification service.
-{{% /heading %}}
-{{< picture identification 482 "he identity of a woman standing in a mobile phone is verified by two people" >}}
-&nbsp;
+{{% /markdown %}}
 {{< /content >}}
+
+{{< picture identification 482 "the identity of a woman standing in a mobile phone is verified by two people" >}}
 
 {{< cta
   label="Download Factsheet"
@@ -27,37 +25,39 @@ or with our identification service.
   target="_blank"
   outlined="true"
 >}}
-{{% richtext %}}
+{{% markdown %}}
 **Identity verification for QES –
 Skribble makes it easy**
-{{% /richtext %}}
+{{% /markdown %}}
 {{< /cta >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< content >}}
-{{% heading %}}
+{{< content text=center top=24 bottom=8 width=narrow >}}
+{{% markdown %}}
 # Use your existing e-ID
 Persons who have a verified e-ID can sign with QES on Skribble
 without additional identity verification.
-{{% /heading %}}
+{{% /markdown %}}
+{{< /content >}}
 
 {{< picture "identification-id" 412 "An electronic legally binding identity card" >}}
 
-{{% richtext center %}}
+{{< content text=center top=12 bottom=6 width=narrow >}}
+{{% markdown %}}
 A growing number of people in Europe have a verified electronic identity (e-ID). Skribble links them all so that millions of users can start signing with QES immediately.
 
 **Individuals who log in with an e-ID automatically activate QES.**
-{{% /richtext %}}
+{{% /markdown %}}
+{{< /content >}}
 
 {{< picture e-id-map 826 "E-ID, where you can sign Skribble soon." >}}
 
-{{% richtext %}}
-{{% center %}}**More e-IDs will follow this year.**{{% /center %}}
-{{% /richtext %}}
-
+{{< content text=center top=12 bottom=6 width=narrow >}}
+{{% markdown %}}
+**More e-IDs will follow this year.**
+{{% /markdown %}}
 {{< /content >}}
-
 
 {{< cta
   label="Schedule appointment"
@@ -67,10 +67,10 @@ A growing number of people in Europe have a verified electronic identity (e-ID).
 
 {{< picture consult 92 "Identification for the QES. Let us advise you and find the right identification solution for your company." >}}
 
-{{% richtext %}}
+{{% markdown %}}
 **Identification with Skribble**
 Let us advise you and find the right identification solution for your company.
-{{% /richtext %}}
+{{% /markdown %}}
 {{< /cta >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
@@ -80,11 +80,12 @@ Let us advise you and find the right identification solution for your company.
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< content >}}
-{{% heading %}}
+{{< content text=center top=12 width=narrow >}}
+{{% markdown %}}
 # Get identified
 If you do not have an e-ID, Skribble can identify you within minutes.
-{{% /heading %}}
+{{% /markdown %}}
+{{< /content >}}
 
 {{< picture "create-identity" 385 "A magnifying glass enlarges the image of a woman in a passport" >}}
 
@@ -119,7 +120,6 @@ Suitable if new signees are constantly being added.
 
 {{% /plan %}}
 {{< /row >}}
-{{< /content >}}
 
 
 {{< cta
@@ -128,27 +128,23 @@ Suitable if new signees are constantly being added.
   target="_blank"
 >}}
 {{< picture consult 92 "Identification for the QES. Let us advise you and find the right identification solution for your company." >}}
-{{% richtext %}}
+{{% markdown %}}
 **Any questions?
 We are happy to help you.**
-{{% /richtext %}}
+{{% /markdown %}}
 {{< /cta >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
 {{< outro >}}
-{{< picture image8 414 "A man stands next to an electronic document with a giant fountain pen" >}}
-
-{{< richtext >}}
-{{% heading %}}
+{{% markdown center %}}
 # Sign now, legally and electronically!
 No credit card, entrance fee or commitment required.
-{{% /heading %}}
+{{% /markdown %}}
 
 {{< button
   "Try it now"
   "https://my.skribble.com/signup?lang=en"
   "_blank"
 >}}
-{{< /richtext >}}
 {{< /outro >}}

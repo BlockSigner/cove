@@ -10,11 +10,11 @@ type: features
 
 ---
 
-{{< content class="no-bottom-padding" >}}
-{{% heading %}}
+{{< content text=center top=16 width=narrow >}}
+{{% markdown %}}
 # Skribble Features
 With Skribble you not only sign legally, but also with ease.
-{{% /heading %}}
+{{% /markdown %}}
 {{< /content >}}
 
 {{< picture skribble-ui-en 1020 "Skribble plattform - user interface" >}}
@@ -23,7 +23,7 @@ With Skribble you not only sign legally, but also with ease.
 
   {{< features-item src="features/dragdrop.svg"
     headline="Upload via drag & drop"
-    description="Invite the signatories by e-mail and define the order of the signatures.">}}
+    description="Upload the ready to sign PDF document via browser or use Skribble via API from your enterprise software.">}}
 
   {{< features-item src="features/invitesign.svg"
     headline="Invite to sign"
@@ -48,7 +48,7 @@ With Skribble you not only sign legally, but also with ease.
 {{< /features-container >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
-<br><br>
+
 {{< testimonial "testimonial/fr-logo-99w.svg" "Stéphane Schwab, Head of E-Government, Canton of Fribourg" >}}
 "Thanks to Skribble, we can digitize administrative processes from A to Z.
 This makes everyday life easier for
@@ -56,11 +56,11 @@ us and our customers." {{< /testimonial >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< content class="no-bottom-padding" >}}
-{{% heading %}}
+{{< content text=center top=12 bottom=8 width=narrow >}}
+{{% markdown %}}
 # Coming soon
 Our vision is great. We develop Skribble day by day.
-{{% /heading %}}
+{{% /markdown %}}
 {{< /content >}}
 
 {{< features-container >}}
@@ -86,18 +86,14 @@ Our vision is great. We develop Skribble day by day.
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
 {{< outro >}}
-{{< picture image8 414 "A man stands next to an electronic document with a giant fountain pen" >}}
-
-{{< richtext >}}
-{{% heading %}}
-# Sign now, legally valid electronically!
+{{% markdown center %}}
+# Sign now, legally and electronically!
 No credit card, entrance fee or commitment required.
-{{% /heading %}}
+{{% /markdown %}}
 
 {{< button
   "Try it now"
   "https://my.skribble.com/signup?lang=en"
   "_blank"
 >}}
-{{< /richtext >}}
 {{< /outro >}}

@@ -9,58 +9,60 @@ og_image: og/og-skribble-identification.jpg
 
 ---
 
-{{< content >}}
-{{% heading %}}
-# Maximiere die Beweiskraft <br class="hide-for-mobile">deiner E-Signatur
+{{< content text=center top=12 width=narrow >}}
+{{% markdown %}}
+# Maximiere die Beweiskraft deiner E-Signatur
 Schalte den höchsten verfügbaren E-Signatur-Standard (QES) frei,
 in dem du dich im persönlichen Kontakt mit der ID-App
 von Swisscom identifizieren lässt.
-{{% /heading %}}
+{{% /markdown %}}
+{{% /content %}}
 
-{{< row >}}
+{{< content top=12 width=narrow display=flex >}}
 {{< step >}}
 {{< picture "identification-step-1" 252 "Eine lupe vergrößert das bild eines mannes in einem pass" >}}
-{{% richtext %}}
-**Schritt 1**<br>
+{{% markdown %}}
+**Schritt 1**
 Vereinbare einen Identifikations-Termin und komm persönlich vorbei.
-{{% /richtext %}}
+{{% /markdown %}}
 {{< /step >}}
 
 {{< step >}}
 {{< picture "identification-step-2" 158 "Eine elektronische identität auf einem mobiltelefon" >}}
-{{% richtext %}}
-**Schritt 2**<br>
+{{% markdown %}}
+**Schritt 2**
 Wir scannen und prüfen deinen Ausweis mit der ID-App von Swisscom.
-{{% /richtext %}}
+{{% /markdown %}}
 {{< /step >}}
-{{< /row >}}
+{{< /content >}}
 
-{{< row >}}
+{{< content width=narrow display=flex >}}
 {{< step >}}
 {{< picture "identification-step-3" 270 "Ein mann der erfolgreich elektronisch identifiziert ist" >}}
-{{% richtext %}}
-**Schritt 3**<br>
-Swisscom verifiziert deine Daten <br class="hide-for-mobile">und legt sie sicher ab.
-{{% /richtext %}}
+{{% markdown %}}
+**Schritt 3**
+Swisscom verifiziert deine Daten und legt sie sicher ab.
+{{% /markdown %}}
 {{< /step >}}
 
 {{< step >}}
 {{< picture "identification-step-4" 270 "Eine person hält ein rechtsgültiges dokument in den händen. Im hintergrund befindet sich das swisscom logo" >}}
-{{% richtext %}}
-**Schritt 4**<br>
+{{% markdown %}}
+**Schritt 4**
 Die Beweiskraft deiner Signatur wird auf 100% angehoben (QES-Level)
-{{% /richtext %}}
+{{% /markdown %}}
 {{< /step >}}
-{{< /row >}}
 {{< /content >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< content >}}
-{{% heading %}}
+{{< content text=center top=12 width=narrow >}}
+{{% markdown %}}
 # Alles klar?
-{{% /heading %}}
+{{% /markdown %}}
+{{% /content %}}
 
+{{< content top=6 width=narrow >}}
 {{% collapsible 1 "Was bringt mir die Identifikation?" %}}
 Auf Skribble hast du die Möglichkeit, mit dem [höchsten verfügbaren E-Signatur-Standard](/de/signaturstandards) zu signieren: Die qualifizierten elektronischen Signatur (QES). Diese hat eine Beweiskraft von 100% und kann für Verträge eingesetzt werden, die die Schriftlichkeit verlangen. Für die QES verlangt das Gesetz eine Identitätsprüfung.
 {{% /collapsible %}}
@@ -86,17 +88,16 @@ Nein. Aber mit einer Mobile-ID geht das Signieren schneller und einfacher, daher
 {{% collapsible 6 "Was, wenn ich noch nicht persönlich identifiziert wurde?" %}}
 Die persönliche Identifikation wird nur für das Signieren mit dem höchsten E-Signatur-Standard (QES) vorausgesetzt. Wurdest du noch nicht persönlich identifiziert, signierst du mit dem zweithöchsten Standard (FES).
 {{% /collapsible %}}
-
 {{< /content >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< content >}}
-{{% heading %}}
+{{< content text=center top=24 bottom=8 >}}
+{{% markdown %}}
 # Standorte für die Identitätsprüfung
 Komm vorbei und lass dich kostenlos identifizieren.
 Bringe deinen gültigen Pass oder Identitätskarte mit sowie dein Mobiltelefon.
-{{% /heading %}}
+{{% /markdown %}}
 {{< /content >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
@@ -119,7 +120,7 @@ Bringe deinen gültigen Pass oder Identitätskarte mit sowie dein Mobiltelefon.
   target="_target"
 >}}
 
-{{% richtext %}}
+{{% markdown %}}
 **Swisscom Shop**
 Route de Matran 9
 CH-1754 Avry
@@ -128,7 +129,7 @@ CH-1754 Avry
 Mo - Fr: 08.30 - 19.00
 Do: 08.30 - 21.00
 Sa: 09.00 - 16.00
-{{% /richtext %}}
+{{% /markdown %}}
 {{< /cta >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
@@ -150,11 +151,11 @@ Sa: 09.00 - 16.00
   target="_target"
 >}}
 
-{{% richtext %}}
+{{% markdown %}}
 **Natel Profi**
 Dorfstrasse 6
 CH-3123 Belp
-{{% /richtext %}}
+{{% /markdown %}}
 {{< /cta >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
@@ -177,11 +178,11 @@ CH-3123 Belp
   target="_target"
 >}}
 
-{{% richtext %}}
+{{% markdown %}}
 **Natel Spycher**
 Belpstrasse 45
 CH-3007 Bern
-{{% /richtext %}}
+{{% /markdown %}}
 {{< /cta >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
@@ -204,7 +205,7 @@ CH-3007 Bern
   target="_target"
 >}}
 
-{{% richtext %}}
+{{% markdown %}}
 **Swisscom Shop**
 Route de Riaz 18
 CH-1630 Bulle
@@ -212,7 +213,7 @@ CH-1630 Bulle
 **Öffnungszeiten:**
 Mo - Fr: 09.00 - 18.30
 Sa: 09.00 - 16.00
-{{% /richtext %}}
+{{% /markdown %}}
 {{< /cta >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
@@ -235,7 +236,7 @@ Sa: 09.00 - 16.00
   target="_target"
 >}}
 
-{{% richtext %}}
+{{% markdown %}}
 **Swisscom Shop**
 Avenue de la Gare 22
 CH-1700 Fribourg
@@ -244,7 +245,7 @@ CH-1700 Fribourg
 Mo - Fr: 08.30 - 19.00
 Do: 08.30 - 21.00
 Sa: 09.00 - 16.00
-{{% /richtext %}}
+{{% /markdown %}}
 {{< /cta >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
@@ -268,30 +269,27 @@ Sa: 09.00 - 16.00
   target="_blank"
 >}}
 
-{{% richtext %}}
+{{% markdown %}}
 **Skribble AG**
 FlexOffice
 Fraumünsterstrasse 16
 CH-8001 Zürich
-{{% /richtext %}}
+{{% /markdown %}}
 {{< /cta >}}
 {{< /cta-group >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< outro >}}
-{{< picture image8 414 "Ein mann steht mit einem riesen füller neben einem elektronischen dokument" >}}
-
-{{< richtext >}}
-{{% heading %}}
+{{< outro   >}}
+{{% markdown center %}}
 # Jetzt rechtsgültig elektronisch signieren!
-Keine Kreditkarte, Eintrittsgebühr oder Verpflichtung erforderlich.
-{{% /heading %}}
+Keine Kreditkarte, Eintrittsgebühr oder
+Verpflichtung erforderlich.
+{{% /markdown %}}
 
 {{< button
   "Jetzt ausprobieren"
   "https://my.skribble.com/signup?lang=de"
   "_blank"
 >}}
-{{< /richtext >}}
 {{< /outro >}}

@@ -187,19 +187,17 @@ groups:
 
 ---
 
-{{< outro >}}
-{{< picture image8 414 >}}
+[//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< richtext >}}
-{{% heading %}}
+{{< outro >}}
+{{% markdown center %}}
 # Sign now, legally and electronically!
 No credit card, entrance fee or commitment required.
-{{% /heading %}}
+{{% /markdown %}}
 
 {{< button
   "Try it now"
   "https://my.skribble.com/signup?lang=en"
   "_blank"
 >}}
-{{< /richtext >}}
 {{< /outro >}}

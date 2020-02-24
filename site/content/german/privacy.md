@@ -5,8 +5,8 @@ draft: false
 description: Privacy policy meta description
 ---
 
-{{< content >}}
-{{% richtext %}}
+{{< content top=16 width=narrow >}}
+{{% markdown %}}
 # Datenschutz&shy;bestimmungen
 
 <small>Datum des Inkrafttretens: 22. Oktober 2019</small>
@@ -236,24 +236,21 @@ Wir empfehlen Ihnen, diese Datenschutz-Richtlinie regelmäßig auf Änderungen h
 Falls Sie Fragen zu dieser Datenschutz-Richtlinie haben, können Sie wie folgt Kontakt zu uns aufnehmen:<br>
 Per E-Mail: <a href="mailto:info@skribble.com">info@skribble.com</a><br>
 Über folgende Website: <a href="https://www.skribble.com/de/kontakt/" target="_blank">www.skribble.com/de/kontakt/</a>
-{{% /richtext %}}
+{{% /markdown %}}
 {{< /content >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< outro >}}
-{{< picture image8 414 "Ein mann steht mit einem riesen füller neben einem elektronischen dokument" >}}
-
-{{< richtext >}}
-{{% heading %}}
+{{< outro   >}}
+{{% markdown center %}}
 # Jetzt rechtsgültig elektronisch signieren!
-Keine Kreditkarte, Eintrittsgebühr oder <br class="hide-for-mobile">Verpflichtung erforderlich.
-{{% /heading %}}
+Keine Kreditkarte, Eintrittsgebühr oder
+Verpflichtung erforderlich.
+{{% /markdown %}}
 
 {{< button
   "Jetzt ausprobieren"
   "https://my.skribble.com/signup?lang=de"
   "_blank"
 >}}
-{{< /richtext >}}
 {{< /outro >}}

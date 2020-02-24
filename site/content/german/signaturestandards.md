@@ -6,28 +6,32 @@ slug: signaturstandards
 
 ---
 
-{{< content >}}
-{{% heading %}}
+{{< content text=center top=16 width=narrow >}}
+{{% markdown %}}
 # Wie viel Beweiskraft braucht meine E-Signatur?
-Das Gesetz unterscheidet zwischen der qualifizierten E-Signatur (QES) und 
+Das Gesetz unterscheidet zwischen der qualifizierten E-Signatur (QES) und
 der fortgeschrittenen E-Signatur (FES). Die beiden Standards variieren punkto Einsatzgebiet und Beweiskraft. Auf Skribble kannst du wählen.
-{{% /heading %}}
+{{% /markdown %}}
+{{< /content >}}
 
 {{< picture beweiskraft 664 "Beweiskraft der FES und der QES" >}}
 
-{{% heading %}}
+{{< content text=center top=12 width=narrow >}}
+{{% markdown %}}
 # QES: Dieselbe Rechtssicherheit <br class="hide-for-mobile">wie das Unterschreiben von Hand
 Die rundum-sorglos-Signatur für höchste Ansprüche
-{{% /heading %}}
+{{% /markdown %}}
+{{< /content >}}
 
 {{< picture qes-de 758 "Zwei Hände – Ein Vertrag wird von Hand signiert und ein anderer mit einem Mobile-Phone." >}}
 
-{{% richtext %}}
+{{< content top=6 bottom=6 width=narrow >}}
+{{% markdown %}}
 **Die qualifizierte elektronische Signatur (QES) ist der handschriftlichen Signatur rechtlich gleichgestellt.**
 Du setzt die QES ein, um die Beweiskraft deiner Verträge zu maximieren oder wenn das Gesetz die Schriftlichkeit verlangt.
 Letzteres trifft z.B. bei Kredit- oder Arbeitsverträgen mit Konkurrenzklausel zu.
 Für das Signieren mit QES auf Skribble wird eine vorgängige Identitätsprüfung im persönlichen Kontakt oder eine E-ID vorausgesetzt.
-{{% /richtext %}}
+{{% /markdown %}}
 {{< /content >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
@@ -48,10 +52,10 @@ die elektronische Signatur."
 
 {{< picture "Identifizieren" 112 "Identitätsprüfung" >}}
 
-{{% richtext %}}
+{{% markdown %}}
 **Identitätsprüfung**
 So schaltest du die QES auf Skribble frei.
-{{% /richtext %}}
+{{% /markdown %}}
 {{< /cta >}}
 
 {{< cta
@@ -62,31 +66,38 @@ So schaltest du die QES auf Skribble frei.
 
 {{< picture "qes-erklaert" 122 "QES validieren" >}}
 
-{{% richtext %}}
+{{% markdown %}}
 **QES validieren**
 Prüfe, ob ein Dokument mit QES signiert wurde.
-{{% /richtext %}}
+{{% /markdown %}}
 {{< /cta >}}
 {{< /cta-group >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< content >}}
-{{% heading %}}
+{{< content text=center top=24 width=narrow >}}
+{{% markdown %}}
 # FES: Die pragmatische Lösung für Verträge ohne Formvorschrift
 Sofort einsatzbereit dank geringeren Auflagen
-{{% /heading %}}
+
+{{% /markdown %}}
+{{< /content >}}
 
 {{< picture aes-de 320 "Eine Frau trägt einen FES-Vertrag in der Hand nach Schweizer-Recht." >}}
 
-{{% richtext %}}
+{{< content top=6 bottom=6 width=narrow >}}
+{{% markdown %}}
 **Die fortgeschrittene elektronische Signatur (FES) ist rechtsgültig bei Verträgen, bei denen das Gesetz keine spezielle Form vorschreibt.**
 Das trifft für die meisten Vertragsarten zu, so zum Beispiel bei Miet-, Kauf- oder Hypothekarverträgen. Jeder, der eine Schweizer Mobiltelefonnummer hat, kann auf Skribble sofort mit dem Signieren mit FES loslegen.
-{{% /richtext %}}
-
+{{% /markdown %}}
 {{< /content >}}
 
-{{< table-dense heading="QES vs. FES auf einen Blick" id="qes-fes-table" >}}
+{{< content text=center top=12 width=narrow >}}
+{{% markdown %}}
+## QES vs. FES auf einen Blick
+{{% /markdown %}}
+{{< /content >}}
+{{< table-dense id="qes-fes-table" >}}
 
 <thead>
 <tr>
@@ -128,27 +139,24 @@ Das trifft für die meisten Vertragsarten zu, so zum Beispiel bei Miet-, Kauf- o
 
 {{< picture "contact" 92 "Hast du Fragen? Wir helfen dir gerne weiter." >}}
 
-{{% richtext %}}
+{{% markdown %}}
 **Hast du fragen?
 Wir helfen dir gerne weiter.**
-{{% /richtext %}}
+{{% /markdown %}}
 {{< /cta >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< outro >}}
-{{< picture image8 414 "Ein mann steht mit einem riesen füller neben einem elektronischen dokument" >}}
-
-{{< richtext >}}
-{{% heading %}}
+{{< outro   >}}
+{{% markdown center %}}
 # Jetzt rechtsgültig elektronisch signieren!
-Keine Kreditkarte, Eintrittsgebühr oder Verpflichtung erforderlich.
-{{% /heading %}}
+Keine Kreditkarte, Eintrittsgebühr oder
+Verpflichtung erforderlich.
+{{% /markdown %}}
 
 {{< button
   "Jetzt ausprobieren"
   "https://my.skribble.com/signup?lang=de"
   "_blank"
 >}}
-{{< /richtext >}}
 {{< /outro >}}

@@ -9,20 +9,20 @@ og_image: og/og-skribble-identification.jpg
 
 ---
 
-{{< content >}}
-{{% heading %}}
+{{< content text=center top=12 bottom=8 width=narrow >}}
+{{% markdown %}}
 # Intégration de Skribble
 Avec Skribble, vous choisissez une plate-forme en ligne
 qui allie sécurité technologique et simplicité.
-{{% /heading %}}
+{{% /markdown %}}
 {{< /content >}}
 
 {{< picture integration-main 580 "Un ingénieur se tient devant une fenêtre de l'API avec la documentation de l'API." >}}
 
-{{< content >}}
-{{% richtext center %}}
+{{< content text=center top=12 bottom=8 width=narrow >}}
+{{% markdown %}}
 ### Utilisez Skribble via le navigateur ou intégrez la plate-forme dans votre environnement logiciel existant via API.
-{{% /richtext %}}
+{{% /markdown %}}
 {{< /content >}}
 
 {{< features-container >}}
@@ -46,17 +46,19 @@ qui allie sécurité technologique et simplicité.
 {{< /features-container >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
-<br><br>
+
 {{< testimonial "testimonial/softcom-logo-108w.png" "Rémy Tzaud, PDG de Softcom" >}}
-"Nous avons intégré l'API pour le canton <br class="hide-for-mobile">de Fribourg en une demi-journée. <br class="hide-for-mobile">L'API de Skribble ne laisse rien à désirer."
+"Nous avons intégré l'API pour le canton
+de Fribourg en une demi-journée.
+L'API de Skribble ne laisse rien à désirer."
 {{< /testimonial >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< content >}}
-{{% heading %}}
+{{< content text=center top=12 bottom=16 width=narrow >}}
+{{% markdown %}}
 # Avec Skribble, vous travaillez selon <br class="hide-for-mobile">les plus hauts standards de technologie et de sécurité.
-{{% /heading %}}
+{{% /markdown %}}
 {{< /content >}}
 
 {{< features-container >}}
@@ -88,24 +90,24 @@ qui allie sécurité technologique et simplicité.
 {{< /features-container >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
-<br><br>
+
 {{< testimonial "testimonial/swissmade-logo-300w.png" "" >}}
-Skribble porte le label <br class="hide-for-mobile"><a href="https://www.swissmadesoftware.org/en/home/home.html" target="_blank" class="text-decoration: none;">Swiss made Software</a>, qui est synonyme <br class="hide-for-mobile">de qualité, de fiabilité et de précision dans le développement de logiciels.
+Skribble porte le label
+<a href="https://www.swissmadesoftware.org/en/home/home.html" target="_blank" class="text-decoration: none;">Swiss made Software</a>, qui est synonyme
+de qualité, de fiabilité et de précision dans le développement de logiciels.
 {{< /testimonial >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< content >}}
-{{% heading %}}
+{{< content text=center top=12 bottom=4 width=narrow >}}
+{{% markdown %}}
 # Essayez l'API
-Vous pouvez créer une clé de démonstration <br class="hide-for-mobile">dans votre compte Skribble Business.
-{{% /heading %}}
+Vous pouvez créer une clé de démonstration
+dans votre compte Skribble Business.
+{{% /markdown %}}
 {{< /content >}}
 
 {{< picture api-main 600 "Un ordinateur portable avec des panneaux de remplissage et une roue dentée." >}}
-
-{{% heading %}}
-{{% /heading %}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
@@ -119,28 +121,26 @@ Vous pouvez créer une clé de démonstration <br class="hide-for-mobile">dans v
 
 {{< picture "api-dok" 140 "Une fenêtre d'interface utilisateur avec un contrat et un engrenage" >}}
 
-{{% richtext %}}
+{{% markdown %}}
 **Documentation API**<br>
-Consultez notre documentation API.<br class="hide-for-mobile">(en Anglais)
-{{% /richtext %}}
+Consultez notre documentation API.
+(en Anglais)
+{{% /markdown %}}
 {{< /cta >}}
 {{< /cta-group >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
 {{< outro >}}
-{{< picture image8 414 "Un homme se tient à côté d'un document électronique avec un stylo plume géant" >}}
-
-{{< richtext >}}
-{{% heading %}}
+{{% markdown center %}}
 # Signer légalement <br class="hide-for-mobile">et numériquement maintenant!
-Aucune carte de crédit, aucun droit d'entrée <br class="hide-for-mobile">ou engagement n'est requis.
-{{% /heading %}}
+Aucune carte de crédit, aucun droit d'entrée
+ou engagement n'est requis.
+{{% /markdown %}}
 
 {{< button
   "Essayer maintenant"
   "https://my.skribble.com/signup?lang=fr"
   "_blank"
 >}}
-{{< /richtext >}}
 {{< /outro >}}

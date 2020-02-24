@@ -5,8 +5,8 @@ draft: false
 description: terms-of-use meta description
 ---
 
-{{< content >}}
-{{% richtext legal %}}
+{{< content top=16 >}}
+{{% markdown legal %}}
 # Skribble Terms of Use by Skribble AG
 
 (Version 2018.10.18 – valid until 2019.09.30)
@@ -32,24 +32,20 @@ As a Skribble user, you must comply with the following principles of lawful use:
 7. Users independently secure data in their account. Skribble does not owe any data availability.
 8. Users acknowledge the right of Skribble to disclose data from their user account to the customer (usually the employer of the user) if it appears that the user in question has misused Skribble to disseminate criminal or infringing information.
 
-{{% /richtext %}}
+{{% /markdown %}}
 {{< /content >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
 {{< outro >}}
-{{< picture image8 414 >}}
-
-{{< richtext >}}
-{{% heading %}}
+{{% markdown center %}}
 # Sign now, legally and electronically!
 No credit card, entrance fee or commitment required.
-{{% /heading %}}
+{{% /markdown %}}
 
 {{< button
   "Try it now"
   "https://my.skribble.com/signup?lang=en"
   "_blank"
 >}}
-{{< /richtext >}}
 {{< /outro >}}

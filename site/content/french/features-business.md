@@ -10,11 +10,12 @@ og_image: og/og-skribble-identification.jpg
 
 ---
 
-{{< content >}}
-{{% heading %}}
+{{< content text=center top=16 width=narrow >}}
+{{% markdown %}}
 # Fonctionnalités Business
-Les clients Skribble Business signent comme un groupe - <br class="hide-for-mobile">avec une administration centrale des membres et une facturation commune.
-{{% /heading %}}
+Les clients Skribble Business signent comme un groupe -
+avec une administration centrale des membres et une facturation commune.
+{{% /markdown %}}
 {{< /content >}}
 
 {{< picture skribble-biz-ui-fr 1020 "Skribble Business-Account - benutzeroberfläche" >}}
@@ -46,11 +47,11 @@ Les clients Skribble Business signent comme un groupe - <br class="hide-for-mobi
     description="Visualisez les factures actuelles et toutes les factures passées à tout moment.">}}
 {{< /features-container >}}
 
-{{< content >}}
-{{% heading %}}
+{{< content text=center top=24 bottom=12 width=narrow >}}
+{{% markdown %}}
 # Skribble Business s'intègre <br class="hide-for-mobile">dans votre infrastructure existante
 L'intégration des nouveaux signataires est intuitive et rapide.
-{{% /heading %}}
+{{% /markdown %}}
 {{< /content >}}
 
 {{< features-container >}}
@@ -68,57 +69,51 @@ L'intégration des nouveaux signataires est intuitive et rapide.
     description="Les personnes extérieures n'ont pas besoin d'avoir un compte Skribble pour signer vos documents.">}}
 
 {{< /features-container >}}
-<br><br>
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
 {{< testimonial "testimonial/fr-logo-99w.svg" "Stéphane Schwab, Chef de E-Gouvernement du canton de Fribourg" >}}
-"Grâce à Skribble, nous pouvons numériser les processus administratifs de A à Z. <br class="hide-for-mobile">Cela facilite notre vie quotidienne et celle de nos clients." {{< /testimonial >}}
+"Grâce à Skribble, nous pouvons numériser les processus administratifs de A à Z.
+Cela facilite notre vie quotidienne et celle de nos clients." {{< /testimonial >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< content >}}
-{{% heading %}}
+{{< content text=center top=12 width=narrow >}}
+{{% markdown %}}
 # La mise en œuvre à l'échelle de l'organisation est simple et rapide
-Permettez aux nouveaux employés et aux employés actuels de signer électroniquement dans les plus brefs délais. Choisissez le processus d'intégration 
-qui correspond à vos exigences en matière de force probante 
+Permettez aux nouveaux employés et aux employés actuels de signer électroniquement dans les plus brefs délais. Choisissez le processus d'intégration
+qui correspond à vos exigences en matière de force probante
 ou à la norme de signature souhaitée.
-{{% /heading %}}
+{{% /markdown %}}
 {{< /content >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-[//]: # (--------------------------------------------------------------------------------------------------------------)
-
-{{< side-by-side >}}
-{{< picture onboarding-seq-fr 380 "A large contract (QES) with a court" >}}
-
-{{< richtext >}}
-{{% heading left %}}
+{{< side-by-side top=8 bottom=8 img=onboarding-seq-fr img-width=380 img-alt="A large contract (QES) with a court" >}}
+{{% markdown %}}
 ## Intégration pour la signature électronique qualifiée (SEQ)
 Services d'identification pour les plus hautes exigences en matière de force probante de la signature. Convient aux contrats avec des exigences formelles.
-{{% /heading %}}
-
+{{% /markdown %}}
+<br>
 {{< button
   "Télécharger factsheet"
   "https://cdn2.hubspot.net/hubfs/5051692/Factstheets/Identification/Fran%C3%A7ais/Skribble_Overview_Identification_FR.pdf"
   "_blank"
   "outline"
 >}}
-{{< /richtext >}}
 {{< /side-by-side >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< content >}}
-{{% heading %}}
+{{< content text=center top=12 width=narrow >}}
+{{% markdown %}}
 # Rapport coût-bénéfice idéal
 Choisissez le bon modèle de prix pour votre organisation.
-{{% /heading %}}
+{{% /markdown %}}
 {{< /content >}}
 
 {{< picture preismodelle 590 "Eine Frau mit roten Haaren vergliecht verschiedene Preismodelle." >}}
-
+<br>
 {{< center >}}
 {{< button
   "Comparer les modèles tarifaires"
@@ -130,18 +125,15 @@ Choisissez le bon modèle de prix pour votre organisation.
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
 {{< outro >}}
-{{< picture image8 414 "Un homme se tient à côté d'un document électronique avec un stylo plume géant" >}}
-
-{{< richtext >}}
-{{% heading %}}
+{{% markdown center %}}
 # Signer légalement <br class="hide-for-mobile">et numériquement maintenant!
-Aucune carte de crédit, aucun droit d'entrée <br class="hide-for-mobile">ou engagement n'est requis.
-{{% /heading %}}
+Aucune carte de crédit, aucun droit d'entrée
+ou engagement n'est requis.
+{{% /markdown %}}
 
 {{< button
   "Essayer maintenant"
   "https://my.skribble.com/signup?lang=fr"
   "_blank"
 >}}
-{{< /richtext >}}
 {{< /outro >}}

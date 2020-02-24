@@ -9,58 +9,63 @@ og_image: og/og-skribble-identification.jpg
 
 ---
 
-{{< content >}}
-{{% heading %}}
-# Maximisez la valeur probante <br class="hide-for-mobile">de votre signature électronique
-Déverrouillez la norme de signature électronique la plus élevée (SEQ) <br class="hide-for-mobile">en vous identifiant par contact personnel avec l'ID-app de Swisscom.
-{{% /heading %}}
+{{< content text=center top=12 width=narrow >}}
+{{% markdown %}}
+# Maximisez la valeur probante de votre signature électronique
+Déverrouillez la norme de signature électronique la plus élevée (SEQ)
+en vous identifiant par contact personnel avec l'ID-app de Swisscom.
+{{% /markdown %}}
+{{< /content >}}
 
-{{< row >}}
+{{< content top=12 width=narrow display=flex >}}
 {{< step >}}
 {{< picture "identification-step-1" 252 "Une loupe grossit l'image d'un homme dans un col" >}}
-{{% richtext %}}
-**Etape 1**<br>
-Prenez un rendez-vous d'identification <br class="hide-for-mobile">et passez en personne.
-{{% /richtext %}}
+{{% markdown %}}
+**Etape 1**
+Prenez un rendez-vous d'identification
+et passez en personne.
+{{% /markdown %}}
 {{< /step >}}
 
 {{< step >}}
 {{< picture "identification-step-2" 158 "Une identité électronique sur un téléphone portable" >}}
-{{% richtext %}}
-**Etape 2**<br>
+{{% markdown %}}
+**Etape 2**
 La pièce d’identité de l’utilisateur est scannée et vérifiée avec l’ID-app de Swisscom.
-{{% /richtext %}}
+{{% /markdown %}}
 {{< /step >}}
-{{< /row >}}
+{{< /content >}}
 
-{{< row >}}
+{{< content width=narrow display=flex >}}
 {{< step >}}
 {{< picture "identification-step-3" 270 "Un homme qui a été identifié électroniquement avec succès" >}}
-{{% richtext %}}
-**Etape 3**<br>
+{{% markdown %}}
+**Etape 3**
 Swisscom vérifie les données et les stocke en toute sécurité.
-{{% /richtext %}}
+{{% /markdown %}}
 {{< /step >}}
 
 {{< step >}}
 {{< picture "identification-step-4" 270 "Une personne tient un document juridique entre ses mains. Le logo de swisscom se trouve à l'arrière-plan" >}}
-{{% richtext %}}
-**Etape 4**<br>
+{{% markdown %}}
+**Etape 4**
 La force probante de votre signature est portée à 100% (niveau SEQ)
-{{% /richtext %}}
+{{% /markdown %}}
 {{< /step >}}
-{{< /row >}}
 {{< /content >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< content >}}
-{{% heading %}}
+{{< content text=center top=12 width=narrow >}}
+{{% markdown %}}
 # Tout va bien?
-{{% /heading %}}
+{{% /markdown %}}
+{{% /content %}}
 
+{{< content top=6 width=narrow >}}
 {{% collapsible 1 "Que m'apporte l'identification?" %}}
-Sur Skribble, vous avez la possibilité de signer avec [la plus haute norme de signature électronique](/fr/normessignature) disponible: la signature électronique qualifiée (SEQ). <br class="hide-for-mobile">Elle a une force probante de 100% et peut être utilisée pour les contrats qui nécessitent la forme écrite. Pour la SEQ, la loi exige un contrôle d'identité.
+Sur Skribble, vous avez la possibilité de signer avec [la plus haute norme de signature électronique](/fr/normessignature) disponible: la signature électronique qualifiée (SEQ).
+Elle a une force probante de 100% et peut être utilisée pour les contrats qui nécessitent la forme écrite. Pour la SEQ, la loi exige un contrôle d'identité.
 {{% /collapsible %}}
 
 {{% collapsible 2 "Dois-je être identifié à nouveau avant chaque signature SEQ?" %}}
@@ -68,11 +73,13 @@ Non. Votre e-ID est valable 5 ans ou jusqu'à l'expiration de la pièce d'identi
 {{% /collapsible %}}
 
 {{% collapsible 3 "Quels documents d'identité puis-je utiliser pour l'identification ?" %}}
-Un passeport ou une carte d'identité en cours de validité. Toutes les autres formes d'identification telles que le permis de séjour ou le permis de conduire <br class="hide-for-mobile">ne sont pas suffisantes.
+Un passeport ou une carte d'identité en cours de validité. Toutes les autres formes d'identification telles que le permis de séjour ou le permis de conduire
+ne sont pas suffisantes.
 {{% /collapsible %}}
 
 {{% collapsible 4 "Où sont stockées les données des personnes identifiées?" %}}
-Les données collectées sont stockées sur les serveurs haute sécurité <br class="hide-for-mobile">de Swisscom en Suisse (certification Tier IV).
+Les données collectées sont stockées sur les serveurs haute sécurité
+de Swisscom en Suisse (certification Tier IV).
 {{% /collapsible %}}
 
 {{% collapsible 5 "Le QSE nécessite-t-elle un Mobile ID?" %}}
@@ -82,11 +89,12 @@ Non. Mais avec un Mobile ID, la signature est plus rapide et plus facile, c'est 
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< content >}}
-{{% heading %}}
+{{< content text=center top=24 bottom=8 >}}
+{{% markdown %}}
 # Sites d'identification
-Venez vous identifier gratuitement. Apportez votre passeport <br class="hide-for-mobile">ou votre carte d'identité en cours de validité et votre téléphone portable.
-{{% /heading %}}
+Venez vous identifier gratuitement. Apportez votre passeport
+ou votre carte d'identité en cours de validité et votre téléphone portable.
+{{% /markdown %}}
 {{< /content >}}
 
 
@@ -108,7 +116,7 @@ Venez vous identifier gratuitement. Apportez votre passeport <br class="hide-for
   target="_target"
 >}}
 
-{{% richtext %}}
+{{% markdown %}}
 **Swisscom Shop**
 Route de Matran 9
 CH-1754 Avry
@@ -117,7 +125,7 @@ CH-1754 Avry
 Mo - Fr: 08.30 - 19.00
 Do: 08.30 - 21.00
 Sa: 09.00 - 16.00
-{{% /richtext %}}
+{{% /markdown %}}
 {{< /cta >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
@@ -139,11 +147,11 @@ Sa: 09.00 - 16.00
   target="_target"
 >}}
 
-{{% richtext %}}
+{{% markdown %}}
 **Natel Profi**
 Dorfstrasse 6
 CH-3123 Belp
-{{% /richtext %}}
+{{% /markdown %}}
 {{< /cta >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
@@ -166,11 +174,11 @@ CH-3123 Belp
   target="_target"
 >}}
 
-{{% richtext %}}
+{{% markdown %}}
 **Natel Spycher**
 Belpstrasse 45
 CH-3007 Bern
-{{% /richtext %}}
+{{% /markdown %}}
 {{< /cta >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
@@ -193,7 +201,7 @@ CH-3007 Bern
   target="_target"
 >}}
 
-{{% richtext %}}
+{{% markdown %}}
 **Swisscom Shop**
 Route de Riaz 18
 CH-1630 Bulle
@@ -201,7 +209,7 @@ CH-1630 Bulle
 **Horaires d'ouverture:**
 Mo - Fr: 09.00 - 18.30
 Sa: 09.00 - 16.00
-{{% /richtext %}}
+{{% /markdown %}}
 {{< /cta >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
@@ -224,7 +232,7 @@ Sa: 09.00 - 16.00
   target="_target"
 >}}
 
-{{% richtext %}}
+{{% markdown %}}
 **Swisscom Shop**
 Avenue de la Gare 22
 CH-1700 Fribourg
@@ -233,7 +241,7 @@ CH-1700 Fribourg
 Mo - Fr: 08.30 - 19.00
 Do: 08.30 - 21.00
 Sa: 09.00 - 16.00
-{{% /richtext %}}
+{{% /markdown %}}
 {{< /cta >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
@@ -256,32 +264,28 @@ Sa: 09.00 - 16.00
   target="_blank"
 >}}
 
-{{% richtext %}}
+{{% markdown %}}
 **Skribble AG**
 FlexOffice
 Fraumünsterstrasse 16
 CH-8001 Zurich
-{{% /richtext %}}
+{{% /markdown %}}
 {{< /cta >}}
 
 {{< /cta-group >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-
 {{< outro >}}
-{{< picture image8 414 "Un homme se tient à côté d'un document électronique avec un stylo plume géant" >}}
-
-{{< richtext >}}
-{{% heading %}}
+{{% markdown center %}}
 # Signer légalement <br class="hide-for-mobile">et numériquement maintenant!
-Aucune carte de crédit, aucun droit d'entrée <br class="hide-for-mobile">ou engagement n'est requis.
-{{% /heading %}}
+Aucune carte de crédit, aucun droit d'entrée
+ou engagement n'est requis.
+{{% /markdown %}}
 
 {{< button
   "Essayer maintenant"
   "https://my.skribble.com/signup?lang=fr"
   "_blank"
 >}}
-{{< /richtext >}}
 {{< /outro >}}

@@ -1,8 +1,12 @@
-.richtext {
-  @include richtext-styling;
+.markdown {
+  @include markdown-styling;
 
-  &--center {
-    text-align: center;
+  &:not(.markdown--legal) {
+    h1, h2, h3, h4, p {
+      &:first-child {
+        margin-top: 0;
+      }
+    }
   }
 
   &--legal {

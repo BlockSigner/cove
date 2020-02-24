@@ -5,8 +5,8 @@ draft: false
 description: Politique de Confidentialité méta-description
 ---
 
-{{< content >}}
-{{% richtext %}}
+{{< content top=16 width=narrow >}}
+{{% markdown %}}
 # Politique de Confidentialité
 
 <small>Date de prise d'effet: October 22, 2019</small>
@@ -229,24 +229,21 @@ Nous vous conseillons de consulter la présente Politique de Confidentialité p�
 Pour toute question relative à la présente Politique de Confidentialité, veuillez nous contacter:<br>
 Par courrier électronique: <a href="mailto:info@skribble.com">info@skribble.com</a><br>
 En consultant cette page sur notre site web: <a href="https://www.skribble.com/fr/contact/" target="_blank">www.skribble.com/fr/contact/</a>
-{{% /richtext %}}
+{{% /markdown %}}
 {{< /content >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
 {{< outro >}}
-{{< picture image8 414 "Un homme se tient à côté d'un document électronique avec un stylo plume géant" >}}
-
-{{< richtext >}}
-{{% heading %}}
+{{% markdown center %}}
 # Signer légalement <br class="hide-for-mobile">et numériquement maintenant!
-Aucune carte de crédit, aucun droit d'entrée <br class="hide-for-mobile">ou engagement n'est requis.
-{{% /heading %}}
+Aucune carte de crédit, aucun droit d'entrée
+ou engagement n'est requis.
+{{% /markdown %}}
 
 {{< button
   "Essayer maintenant"
   "https://my.skribble.com/signup?lang=fr"
   "_blank"
 >}}
-{{< /richtext >}}
 {{< /outro >}}

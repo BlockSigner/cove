@@ -1,23 +1,16 @@
 .content {
-  @include site-width($narrow: true);
-  @include standard-padding;
-  @include min-width {
-    padding-top: 88px;
-  }
 
-  p:last-child {
-    margin-bottom: 0;
-  }
-
-  + .cta {
-    margin-top: -$standard-padding - 1px;
-
-    .cta__title {
-      margin-top: $standard-padding;
+  h1, h2, h3, h4, p {
+    &:last-child {
+      margin-bottom: 0;
     }
   }
-}
 
-.no-bottom-padding {
-  padding-bottom: 0px;
+  .flex .content-inner {
+    display: flex;
+    @include max-width {
+      flex-direction: column;
+      align-items: center;
+    }
+  }
 }

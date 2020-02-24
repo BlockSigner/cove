@@ -5,8 +5,8 @@ draft: false
 description: Conditions d'utilisation meta description
 ---
 
-{{< content >}}
-{{% richtext legal %}}
+{{< content top=16 >}}
+{{% markdown legal %}}
 # Skribble Conditions d'utilisation<br>de Skribble SA
 
 (Version 2018.10.18 – valide jusqu'au 2019.09.30)
@@ -31,24 +31,21 @@ En tant qu'utilisateur du système Skribble, vous devez respecter les conditions
 6. Les utilisateurs du système ne peuvent pas usurper l'identité d'une personne ou usurper l'identité d'une organisation ou faussement déclarer ou faussement représenter leur affiliation ou relation avec une organisation.
 7. Les utilisateurs du système sécurisent indépendamment les données de leur compte. Skribble ne garantit aucune disponibilité des données.
 8. Les utilisateurs du système reconnaissent le droit de Skribble de divulguer les données de leur compte d'utilisateur au client (habituellement l'employeur de l'utilisateur du système) s'il apparaît que l'utilisateur du système en question a abusé de Skribble pour diffuser des informations criminelles ou contraires au droit.
-{{% /richtext %}}
+{{% /markdown %}}
 {{< /content >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
 {{< outro >}}
-{{< picture image8 414 "Un homme se tient à côté d'un document électronique avec un stylo plume géant" >}}
-
-{{< richtext >}}
-{{% heading %}}
+{{% markdown center %}}
 # Signer légalement <br class="hide-for-mobile">et numériquement maintenant!
-Aucune carte de crédit, aucun droit d'entrée <br class="hide-for-mobile">ou engagement n'est requis.
-{{% /heading %}}
+Aucune carte de crédit, aucun droit d'entrée
+ou engagement n'est requis.
+{{% /markdown %}}
 
 {{< button
   "Essayer maintenant"
   "https://my.skribble.com/signup?lang=fr"
   "_blank"
 >}}
-{{< /richtext >}}
 {{< /outro >}}

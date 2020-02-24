@@ -8,11 +8,13 @@ og_image: og/og-skribble-mission.jpg
 
 ---
 
-{{< content >}}
-{{% heading %}}
+{{< content text=center top=12 width=narrow >}}
+{{% markdown %}}
 # Pay per signature or as a flatrate <br class="hide-for-mobile">and save if you sign more
 Skribble's pricing structure adapts to your needs
-{{% /heading %}}
+{{% /markdown %}}
+{{< /content >}}
+
 {{< picture image15 585 "A woman with long red hair chooses an offer" >}}
 
 {{< row >}}
@@ -24,13 +26,14 @@ Suitable for regular signing
 {{% /plan %}}
 {{< /row >}}
 
-{{% richtext %}}
+{{< content text=center top=12 bottom=12 width=narrow >}}
+{{% markdown %}}
 Can be flexibly combined
 : The two service models can be combined: For example, if Mr. Sample daily signs contracts with various external parties, we recommend the flat rate plan for Mr. Sample and the prepaid plan for the external parties.
 
 More signatures, better value
 : We have a volume-based pricing model: the more signatures you purchase in a prepaid plan, the lower the unit price. The more people you sign up for the flat rate plan, the lower the monthly flat rate per person.
-{{% /richtext %}}
+{{% /markdown %}}
 {{< /content >}}
 
 {{< cta
@@ -38,18 +41,18 @@ More signatures, better value
   href="mailto:info@skribble.com"
   target="_blank"
 >}}
-{{% richtext %}}
+{{% markdown %}}
 **Would you like to know more about our prices?**
-{{% /richtext %}}
+{{% /markdown %}}
 {{< /cta >}}
 
-
-{{< content >}}
-{{% heading %}}
+{{< content text=center top=12 width=narrow >}}
+{{% markdown %}}
 # Identification
 No E-ID at hand? Let us verify your identity
 or identify your people by yourself.
-{{% /heading %}}
+{{% /markdown %}}
+{{< /content >}}
 
 {{< picture image6 365 "A magnifying glass enlarges the image of a woman in a passport" >}}
 
@@ -61,32 +64,27 @@ Suitable if new signees are constantly being added.
 Suitable if you use QES in a predefined circle of people.
 {{% /plan %}}
 {{< /row >}}
-{{< /content >}}
 
 {{< cta
   label="More about identification"
   href="/identification"
 >}}
-{{% richtext %}}
+{{% markdown %}}
 **The identity check is carried out once upon personal contact with the ID app provided by Swisscom.**
-{{% /richtext %}}
+{{% /markdown %}}
 {{< /cta >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
 {{< outro >}}
-{{< picture image8 414 "A man stands next to an electronic document with a giant fountain pen" >}}
-
-{{< richtext >}}
-{{% heading %}}
+{{% markdown center %}}
 # Sign now, legally and electronically!
 No credit card, entrance fee or commitment required.
-{{% /heading %}}
+{{% /markdown %}}
 
 {{< button
   "Try it now"
   "https://my.skribble.com/signup?lang=en"
   "_blank"
 >}}
-{{< /richtext >}}
 {{< /outro >}}

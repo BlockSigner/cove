@@ -8,15 +8,19 @@ og_image: og/og-skribble-mission.jpg
 
 ---
 
-{{< content >}}
-{{% heading %}}
+{{< content text=center top=16 bottom=4 width=narrow >}}
+{{% markdown %}}
 # Skribble für Medien
 Hier findest du alles was du brauchst, um über Skribble zu schreiben.
-{{% /heading %}}
+{{% /markdown %}}
+{{< /content >}}
 
 {{< picture image12 688 "Ein astronaut fliegt mit einem riesen füller vor einem bildschirm und signiert elektronisch" >}}
 
+{{< content top=12 bottom=8 width=narrow >}}
+{{% markdown %}}
 Skribble, gegründet im März 2018, ist ein Schweizer Anbieter von elektronischen Signaturen mit Büros in Zürich (CH) und Karlsruhe (DE). Die TrustTech-Firma ermöglicht es, elektronische Dokumente einfach rechtsgültig zu signieren. Die Grundlage bilden gesetzlich geregelte Standards, unter anderem die qualifizierte elektronische Signatur (QES) – die einzige Form der elektronischen Signatur, die der handschriftlichen Unterschrift vor dem Gesetz gleichgestellt ist. Die staatlich anerkannte Zertifizierungstechnologie für die QES liefert Swisscom. Zu den bestehenden Kunden gehört unter Anderem der Kanton Freiburg. Skribble zählt 15 Mitarbeitende.
+{{% /markdown %}}
 {{< /content >}}
 
 {{< cta
@@ -28,10 +32,10 @@ Skribble, gegründet im März 2018, ist ein Schweizer Anbieter von elektronische
 
 {{< picture image13 100 "Kira Leuthold Content & Communications bei Skribble" >}}
 
-{{% richtext %}}
+{{% markdown %}}
 **Kira Leuthold**
 Communications & Public Relations
-{{% /richtext %}}
+{{% /markdown %}}
 {{< /cta >}}
 
 {{< cta
@@ -43,12 +47,12 @@ Communications & Public Relations
 
 {{< picture image14 106 "Notizbuch mit vielen informationen über skribble" >}}
 
-{{% richtext %}}
+{{% markdown %}}
 Die wichtigsten Skribble Branding Assets sind gleich hier griffbereit:
-{{% /richtext %}}
+{{% /markdown %}}
 {{< /cta >}}
 
-{{< table "Medienmitteilungen" >}}
+{{< table top=12 width=narrow title="Medienmitteilungen" >}}
 <tr>
   <td>19.09.2019</td>
   <td><strong>EXPERTsuisse kooperiert mit Skribble</strong></td>
@@ -101,7 +105,7 @@ Die wichtigsten Skribble Branding Assets sind gleich hier griffbereit:
 {{< /table >}}
 
 
-{{< table "Skribble in den Medien (Auswahl)" >}}
+{{< table top=18 width=narrow title="Skribble in den Medien (Auswahl)" >}}
 <tr>
   <td style="width:10%;">15.11.2019</td>
   <td style="width:80%;"><strong>Der Organisator - KMU Digital</strong></td>
@@ -133,20 +137,18 @@ Die wichtigsten Skribble Branding Assets sind gleich hier griffbereit:
 
 {{< /table >}}
 
+[//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< outro >}}
-{{< picture image8 414 "Ein mann steht mit einem riesen füller neben einem elektronischen dokument" >}}
-
-{{< richtext >}}
-{{% heading %}}
+{{< outro   >}}
+{{% markdown center %}}
 # Jetzt rechtsgültig elektronisch signieren!
-Keine Kreditkarte, Eintrittsgebühr oder Verpflichtung erforderlich.
-{{% /heading %}}
+Keine Kreditkarte, Eintrittsgebühr oder
+Verpflichtung erforderlich.
+{{% /markdown %}}
 
 {{< button
   "Jetzt ausprobieren"
   "https://my.skribble.com/signup?lang=de"
   "_blank"
 >}}
-{{< /richtext >}}
 {{< /outro >}}

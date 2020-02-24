@@ -1,9 +1,5 @@
 <div class="table-dense-container">
-    {{ if .Get "heading"}}<div class="heading ">
-        <h2>{{.Get "heading"}}</h2>
-    </div> {{ end }}
     <table class="table-dense" {{ if .Get "id"}}id="{{.Get "id"}}"{{end}}>
         {{.Inner | safeHTML }}
     </table>
 </div>
- 
