@@ -9,10 +9,8 @@ description: Archiv Datenschutzerklärungen
 {{% markdown %}}
 # Archiv Datenschutzerklärungen
 
-* [Effective date: 22. Oktober 2019 (current)](/de/privacy/archiv/20191022)
-* [Effective date: 18. Oktober 2018](/de/privacy/archiv/20181018)
-
-<br/>
+* [Wirksam ab dem: 22. Oktober 2019 (current)](/de/datenschutz/archiv/20191022)
+* [Wirksam ab dem: 18. Oktober 2018](/de/datenschutz/archiv/20181018)
 
 {{% /markdown %}}
 {{< /content >}}
