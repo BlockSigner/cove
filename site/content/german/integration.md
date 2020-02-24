@@ -13,7 +13,7 @@ og_image: og/og-skribble-identification.jpg
 {{% markdown %}}
 # Skribble Integration
 Mit Skribble wählst du eine Online-Plattform, die
-technologische Sicherheit und Einfachheit vereint. 
+technologische Sicherheit und Einfachheit vereint.
 {{% /markdown %}}
 {{< /content >}}
 
