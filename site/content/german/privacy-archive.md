@@ -9,7 +9,7 @@ description: Archiv Datenschutzbestimmungen
 {{% markdown %}}
 # Archiv Datenschutzbestimmungen
 
-* [Wirksam ab dem: 22. Oktober 2019 (current)](/de/datenschutz/archiv/20191022)
+* [Wirksam ab dem: 22. Oktober 2019 (aktuell)](/de/datenschutz/archiv/20191022)
 * [Wirksam ab dem: 18. Oktober 2018](/de/datenschutz/archiv/20181018)
 
 {{% /markdown %}}
