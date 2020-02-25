@@ -14,6 +14,8 @@ testimonial:
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
+{{< video-lightbox >}}
+
 {{< intro top=24 bottom=12 width=wide img=image1 img-width=678 img-alt="three people sign an electronic document" >}}
 {{% markdown %}}
 # Legally binding electronic signatures with Skribble
