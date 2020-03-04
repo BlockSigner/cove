@@ -11,6 +11,10 @@
   }
 }
 
+@mixin skribble-shadow {
+  box-shadow: 0 2px 20px 0 rgba(41,61,102,0.20);
+}
+
 @mixin half-padding {
   padding-top: $standard-padding / 2;
   padding-bottom: $standard-padding / 2;
