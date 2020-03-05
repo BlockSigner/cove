@@ -97,9 +97,12 @@ languages:
         - name: Medien
           url: /de/medien/
           weight: 20
+        - name: Partner
+          url: /de/partner/
+          weight: 25
         - name: Kontakt
           url: "/de/kontakt/"
-          weight: 25
+          weight: 30
       footer4:
         - name: News
           url: https://news.skribble.com
@@ -262,9 +265,12 @@ languages:
         - name: Press room
           url: /pressroom/
           weight: 20
+        - name: Partners
+          url: /partners/
+          weight: 25
         - name: Contact
           url: "/contact/"
-          weight: 25
+          weight: 30
       footer4:
         - name: News
           url: https://news.skribble.com
@@ -427,9 +433,12 @@ languages:
         - name: Médias
           url: /fr/medias/
           weight: 20
+        - name: Partenaire
+          url: /fr/partenaire/
+          weight: 25
         - name: Contact
           url: "/fr/contact/"
-          weight: 25
+          weight: 30
       footer4:
         - name: News
           url: https://news.skribble.com
