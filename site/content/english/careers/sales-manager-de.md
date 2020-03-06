@@ -19,7 +19,7 @@ og_image: og/og-career.jpg
 
 {{< content text=center top=12 >}}
 {{% markdown %}}
-ales Manager, Germany (100%)
+## Sales Manager, Germany (100%)
 unbefristet
 {{% /markdown %}}
 {{< /content >}}

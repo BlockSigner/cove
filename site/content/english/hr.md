@@ -125,7 +125,7 @@ How we at Skribble make everyday life easier for our customers.
 
 {{< content text=center top=24 width=narrow >}}
 {{% markdown %}}
-Use Skribble to maximise the legal weight of your signature
+## Use Skribble to maximise the legal weight of your signature
 The law distinguishes between qualified e-signatures (QES)
 and advanced e-signatures (AES). The two standards vary in terms of area
 of application and legal weight.
@@ -150,7 +150,7 @@ between the signature standards AES and QES.**
 
 {{< content text=center top=24 bottom=4 width=narrow >}}
 {{% markdown %}}
-Get identified
+## Get identified
 This will unlock the highest e-signature standard available – QES.
 All you need is a valid travel document (ID or passport).
 {{% /markdown %}}
@@ -178,7 +178,7 @@ and get identified**
 
 {{< content text=center top=12 width=narrow >}}
 {{% markdown %}}
-All clear?
+## All clear?
 {{% /markdown %}}
 {{< /content >}}
 

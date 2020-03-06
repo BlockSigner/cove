@@ -82,7 +82,7 @@ industry software solutions**
 
 {{< content text=center top=24 width=narrow >}}
 {{% markdown %}}
-Skribble complies with the legal requirements for court processes
+## Skribble complies with the legal requirements for court processes
 You sign with legal effect and securely in accordance
 with the following requirements:
 {{% /markdown %}}
@@ -106,7 +106,7 @@ Skribble and its signing partner Swisscom commit to manage data in accordance wi
 
 {{< content text=center top=24 width=narrow >}}
 {{% markdown %}}
-Our customers have a good time
+## Our customers have a good time
 How we at Skribble make everyday life easier for our customers.
 {{% /markdown %}}
 {{< /content >}}
@@ -131,7 +131,7 @@ How we at Skribble make everyday life easier for our customers.
 
 {{< content text=center top=24 width=narrow >}}
 {{% markdown %}}
-Use Skribble to maximise the legal weight of your signature
+## Use Skribble to maximise the legal weight of your signature
 The law distinguishes between qualified e-signatures (QES)
 and advanced e-signatures (AES). The two standards vary in terms of area
 of application and legal weight.
@@ -157,7 +157,7 @@ between the signature standards AES and QES.**
 
 {{< content text=center top=24 bottom=4 width=narrow >}}
 {{% markdown %}}
-Get identified
+## Get identified
 This will unlock the highest e-signature standard available – QES.
 All you need is a valid travel document (ID or passport).
 {{% /markdown %}}
@@ -186,7 +186,7 @@ digital identities"
 
 {{< content text=center top=16 bottom=4 width=narrow >}}
 {{% markdown %}}
-All clear?
+## All clear?
 {{% /markdown %}}
 {{< /content >}}
 
