@@ -13,12 +13,12 @@ description: terms-of-use meta description
 
 As a Skribble user, you must comply with the following principles of lawful use:
 
-### Subject matter and scope
+#### Subject matter and scope
 1. In order to sign a document electronically in a qualified manner, a strong authentication of the signatory and a signature created by a certified service, a so-called    “certification authority”, are required. Skribble will integrate these two components into its service with various trusted partners who meet the requirements of ZertES and/or eIDAS, in order to create QES in the simplest possible way.
 2. These Terms of Use apply to the use of Skribble by you as a user. A user is someone who opens an account under Skribble.
 3. In addition to these terms of use, the terms of data protection and the terms of the provider of certification services apply.
 
-### General rules for handling the account
+#### General rules for handling the account
 1. Every user is undertakes to treat information and personal data confidentially and to ensure that they are protected from third party access. The user undertakes to take appropriate precautions when using desktop and mobile devices and when using printouts.
 2. Users shall ensure that their login information is kept secret at all times to prevent unauthorized persons from gaining access to Skribble.
 3. Users shall ensure that their login information is kept secret at all times to prevent unauthorized persons from gaining access to Skribble.
@@ -39,7 +39,7 @@ As a Skribble user, you must comply with the following principles of lawful use:
 
 {{< outro >}}
 {{% markdown center %}}
-# Sign now, legally and electronically!
+## Sign now, legally and electronically!
 No credit card, entrance fee or commitment required.
 {{% /markdown %}}
 

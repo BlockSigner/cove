@@ -30,7 +30,7 @@ and frequent signing.
 
 {{< content text=center top=12 width=narrow >}}
 {{% markdown %}}
-## Do you sign more frequently?
+### Do you sign more frequently?
 After registering, you can switch
 to one of the following plans at any time:
 {{% /markdown %}}
@@ -53,7 +53,7 @@ to one of the following plans at any time:
 
 {{< content text=center top=6 width=narrow >}}
 {{% markdown %}}
-## Or
+### Or
 {{% /markdown %}}
 {{< /content >}}
 
@@ -289,7 +289,7 @@ to one of the following plans at any time:
 
 {{< outro >}}
 {{% markdown center %}}
-# Sign now, legally and electronically!
+## Sign now, legally and electronically!
 No credit card, entrance fee or commitment required.
 {{% /markdown %}}
 

@@ -18,7 +18,7 @@ der fortgeschrittenen E-Signatur (FES). Die beiden Standards variieren punkto Ei
 
 {{< content text=center top=12 width=narrow >}}
 {{% markdown %}}
-# QES: Dieselbe Rechtssicherheit <br class="hide-for-mobile">wie das Unterschreiben von Hand
+## QES: Dieselbe Rechtssicherheit <br class="hide-for-mobile">wie das Unterschreiben von Hand
 Die rundum-sorglos-Signatur für höchste Ansprüche
 {{% /markdown %}}
 {{< /content >}}
@@ -77,7 +77,7 @@ Prüfe, ob ein Dokument mit QES signiert wurde.
 
 {{< content text=center top=24 width=narrow >}}
 {{% markdown %}}
-# FES: Die pragmatische Lösung für Verträge ohne Formvorschrift
+## FES: Die pragmatische Lösung für Verträge ohne Formvorschrift
 Sofort einsatzbereit dank geringeren Auflagen
 
 {{% /markdown %}}
@@ -94,7 +94,7 @@ Das trifft für die meisten Vertragsarten zu, so zum Beispiel bei Miet-, Kauf- o
 
 {{< content text=center top=12 width=narrow >}}
 {{% markdown %}}
-## QES vs. FES auf einen Blick
+### QES vs. FES auf einen Blick
 {{% /markdown %}}
 {{< /content >}}
 {{< table-dense id="qes-fes-table" >}}
@@ -149,7 +149,7 @@ Wir helfen dir gerne weiter.**
 
 {{< outro   >}}
 {{% markdown center %}}
-# Jetzt rechtsgültig elektronisch signieren!
+## Jetzt rechtsgültig elektronisch signieren!
 Keine Kreditkarte, Eintrittsgebühr oder
 Verpflichtung erforderlich.
 {{% /markdown %}}

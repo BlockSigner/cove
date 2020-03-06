@@ -56,7 +56,7 @@ den Alltag für uns und unseren Kunden." {{< /testimonial >}}
 
 {{< content text=center top=12 bottom=8 width=narrow >}}
 {{% markdown %}}
-# Folgt in Kürze
+## Folgt in Kürze
 Unsere Vision ist gross. Wir entwickeln Skribble Tag für Tag weiter.
 {{% /markdown %}}
 {{< /content >}}
@@ -85,7 +85,7 @@ Unsere Vision ist gross. Wir entwickeln Skribble Tag für Tag weiter.
 
 {{< outro   >}}
 {{% markdown center %}}
-# Jetzt rechtsgültig elektronisch signieren!
+## Jetzt rechtsgültig elektronisch signieren!
 Keine Kreditkarte, Eintrittsgebühr oder
 Verpflichtung erforderlich.
 {{% /markdown %}}

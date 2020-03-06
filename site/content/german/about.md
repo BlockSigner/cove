@@ -19,7 +19,7 @@ Es war einmal die Unterschrift &ndash; heute signieren wir mit Skribble.
 
 {{< content top=6 width=narrow >}}
 {{% markdown %}}
-## Aus der Schreibmaschine wurde Microsoft Word, aus der CD Spotify, aus der DVD Netflix.
+### Aus der Schreibmaschine wurde Microsoft Word, aus der CD Spotify, aus der DVD Netflix.
 {{% /markdown %}}
 {{< /content >}}
 
@@ -31,7 +31,7 @@ Die Digitalisierung macht vieles schneller, günstiger und einfacher. Das gilt a
 
 Bei den übrigen zehn Prozent handelt es sich um Schritte, die ein hohes Mass an Vertrauen verlangen, zum Beispiel das Unterschreiben von Arbeitsverträgen. Hierbei verlassen sich viele Firmen noch auf bewährte analoge Prozesse &ndash; auf dem digitalen Weg ist dieselbe Rechtsgrundlage nicht oder nur mit enormen Mehraufwand garantiert. Zumindest bis anhin.
 
-## Skribble will das ändern:
+### Skribble will das ändern:
 {{% /markdown %}}
 {{< /content >}}
 
@@ -45,7 +45,7 @@ Mit Skribble werden Signaturprozesse 100% digital abgewickelt, basierend auf ges
 
 Dabei geht die Sicherheit nicht auf Kosten von Einfachheit: Jede Firma, unabhängig von Grösse und technologischem Know-how, soll von den Vorteilen der digitalen Transformation profitieren können.
 
-## Und das ist nur der Anfang:
+### Und das ist nur der Anfang:
 Der Aufbau vertrauenswürdiger Geschäftsbeziehungen soll so einfach und intuitiv werden wie Toasten. Du sollst dir bei jedem Vertragsabschluss sicher sein können, dass er in deinem besten Sinn abgeschlossen wurde. Seit der Gründung 2018 arbeitet ein wachsendes Team von Trust Shapern auf diese Zukunft hin.
 {{% /markdown %}}
 {{< /content >}}
@@ -54,7 +54,7 @@ Der Aufbau vertrauenswürdiger Geschäftsbeziehungen soll so einfach und intuiti
 
 {{< outro   >}}
 {{% markdown center %}}
-# Jetzt rechtsgültig elektronisch signieren!
+## Jetzt rechtsgültig elektronisch signieren!
 Keine Kreditkarte, Eintrittsgebühr oder
 Verpflichtung erforderlich.
 {{% /markdown %}}

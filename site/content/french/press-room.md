@@ -150,7 +150,7 @@ Les atouts les plus importants de Skribble sont à portée de main :
 
 {{< outro >}}
 {{% markdown center %}}
-# Signer légalement <br class="hide-for-mobile">et numériquement maintenant!
+## Signer légalement <br class="hide-for-mobile">et numériquement maintenant!
 Aucune carte de crédit, aucun droit d'entrée
 ou engagement n'est requis.
 {{% /markdown %}}

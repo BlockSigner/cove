@@ -19,7 +19,7 @@ Il était une fois la signature – aujourd'hui, nous signons avec Skribble.
 
 {{< content top=6 width=narrow >}}
 {{% markdown %}}
-## La machine à écrire est devenue Microsoft Word, le CD Spotify et le DVD Netflix.
+### La machine à écrire est devenue Microsoft Word, le CD Spotify et le DVD Netflix.
 {{% /markdown %}}
 {{< /content >}}
 
@@ -31,7 +31,7 @@ La numérisation rend beaucoup de choses plus rapides, moins chères et plus sim
 
 Les dix pour cent restants sont des étapes qui exigent un degré élevé de confiance, comme la signature de contrats de travail. De nombreuses entreprises s'appuient encore sur des procédés analogiques éprouvés – la même base juridique n'est pas garantie par voie numérique ou seulement avec d'énormes dépenses supplémentaires. Du moins jusqu'à présent.
 
-## Skribble veut que cela change:
+### Skribble veut que cela change:
 {{% /markdown %}}
 {{< /content >}}
 
@@ -45,7 +45,7 @@ Avec Skribble, les processus de signature sont gérés à 100% numériquement, s
 
 La sécurité ne se fait pas au détriment de la simplicité: toute entreprise, quelle que soient sa taille et son savoir-faire technologique, doit pouvoir bénéficier des avantages de la transformation numérique.
 
-## Et ça n'est que le début:
+### Et ça n'est que le début:
 Bâtir la confiance dans les relations d'affaires numériques devrait être aussi simple et intuitif que de porter un toast. Depuis sa fondation en 2018, une équipe croissante de bâtisseurs de confiance travaille à cet avenir.
 {{% /markdown %}}
 {{< /content >}}
@@ -54,7 +54,7 @@ Bâtir la confiance dans les relations d'affaires numériques devrait être auss
 
 {{< outro >}}
 {{% markdown center %}}
-# Signer légalement <br class="hide-for-mobile">et numériquement maintenant!
+### Signer légalement <br class="hide-for-mobile">et numériquement maintenant!
 Aucune carte de crédit, aucun droit d'entrée
 ou engagement n'est requis.
 {{% /markdown %}}

@@ -20,7 +20,7 @@ une signature électronique qualifiée selon le droit suisse.*
 {{< content top=6 width=narrow >}}
 {{% markdown %}}
 <small>* fonctionne pour la SEQ selon le droit suisse, mais pas selon le droit européen (eIDAS).</small>
-### Procédez ainsi:
+#### Procédez ainsi:
 1. **Choisissez votre type de document:**
 Signature électronique qualifiée
 équivalente à une signature manuscrite
@@ -61,7 +61,7 @@ fédérale suisse.**
 
 {{< outro >}}
 {{% markdown center %}}
-# Signer légalement <br class="hide-for-mobile">et numériquement maintenant!
+## Signer légalement <br class="hide-for-mobile">et numériquement maintenant!
 Aucune carte de crédit, aucun droit d'entrée
 ou engagement n'est requis.
 {{% /markdown %}}

@@ -22,7 +22,7 @@ Easily handle digital signature processes – legally binding in accordance with
 
 {{< side-by-side top=24 bottom=12 img=image4 mobile-top=12 mobile-bottom=6 img-width=391 img-position=right img-alt="Three people legally sign an online document together" >}}
 {{% markdown %}}
-## The qualified electronic signature is simple, intuitive and efficient with Skribble.
+### The qualified electronic signature is simple, intuitive and efficient with Skribble.
 - **No external hardware required**
 Skribble can be used immediately
 - **Attach multiple signatures**
@@ -36,7 +36,7 @@ Invite and remind to sign by e-mail
 
 {{< side-by-side top=12 bottom=24 mobile-top=6 mobile-bottom=12 img=image5 img-width=430 img-alt="A person holds a legal document in their hands. The Swisscom logo is in the background" >}}
 {{% markdown %}}
-## Skribble meets the highest legal and technological standards
+### Skribble meets the highest legal and technological standards
 - **ZertEs & eIDAS**
 QES certificates from Swisscom
 - **DSG / DSGVO**
@@ -57,7 +57,7 @@ until the end of the year for EXPERTsuisse members. As of January 2020
 {{< picture sav-special 200 "Blue circle with the number 12" >}}
 
 {{% markdown center %}}
-## per month per user instead of CHF 25.00
+### per month per user instead of CHF 25.00
 Exclusively for EXPERTsuisse members:
 {{% /markdown %}}
 {{< picture expertsuisse-logo 250 "EXPERTsuisse Logo" >}}
@@ -118,7 +118,7 @@ carry out identity verification using video identification.{{% /collapsible %}}
 
 {{< outro >}}
 {{% markdown center %}}
-# Sign now, legally and electronically!
+## Sign now, legally and electronically!
 Learn more about the offer.
 {{< /markdown >}}
 

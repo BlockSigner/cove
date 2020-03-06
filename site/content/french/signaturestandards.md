@@ -20,7 +20,7 @@ vous pouvez choisir entre les deux.
 
 {{< content text=center top=12 width=narrow >}}
 {{% markdown %}}
-# SEQ: La même sécurité juridique que la signature manuscrite
+## SEQ: La même sécurité juridique que la signature manuscrite
 La signature complète et sans souci pour les exigences les plus élevées
 {{% /markdown %}}
 {{< /content >}}
@@ -77,7 +77,7 @@ Vérifiez si un document a été signé avec la SEQ
 
 {{< content text=center top=12 width=narrow >}}
 {{% markdown %}}
-# SEA: La solution pragmatique pour les contrats sans exigences formelles
+## SEA: La solution pragmatique pour les contrats sans exigences formelles
 Immédiatement prête à l'emploi grâce à des exigences d'identification réduites
 {{% /markdown %}}
 {{< /content >}}
@@ -93,7 +93,7 @@ C'est le cas pour la plupart des types de contrats, tels que les contrats de loc
 
 {{< content text=center top=12 bottom=6 width=narrow >}}
 {{% markdown %}}
-## SEQ vs SAE en un coup d'œil
+### SEQ vs SAE en un coup d'œil
 {{% /markdown %}}
 {{< /content >}}
 
@@ -148,7 +148,7 @@ C'est le cas pour la plupart des types de contrats, tels que les contrats de loc
 
 {{< outro >}}
 {{% markdown center %}}
-# Signer légalement <br class="hide-for-mobile">et numériquement maintenant!
+## Signer légalement <br class="hide-for-mobile">et numériquement maintenant!
 Aucune carte de crédit, aucun droit d'entrée
 ou engagement n'est requis.
 {{% /markdown %}}

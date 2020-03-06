@@ -23,7 +23,7 @@ avec la plus haute norme de signature électronique (SEQ).
 
 {{< side-by-side top=24 bottom=12 img=sign-parallel mobile-top=12 mobile-bottom=6 img-width=387 img-alt="L'homme signe un contrat avec deux autres personnes" >}}
 {{% markdown %}}
-## Toutes les parties contractantes signent numériquement
+### Toutes les parties contractantes signent numériquement
 Parties contractantes multiples: au lieu de s'envoyer des contrats par la poste, elles signent toutes en ligne, ce qui leur fait gagner du temps.
 
 - **Inviter à signer automatiquement
@@ -39,7 +39,7 @@ le contrat a été signé**
 
 {{< side-by-side top=12 bottom=12 mobile-top=6 mobile-bottom=6 img=batch-process img-position=right img-width=380 img-alt="Une agrafe de documents peut être signée en un seul clic" >}}
 {{% markdown %}}
-## Complétez la pile <br class="hide-for-mobile">avec une seule signature
+### Complétez la pile <br class="hide-for-mobile">avec une seule signature
 Dossier de signature numérique: collectez vos contrats numériquement et signez-les simultanément en quelques clics. Grâce au standard SEQ, vous n'avez pas besoin d'une clé USB ou d'un lecteur de carte.
 
 - **Signature par lots pour un nombre
@@ -54,7 +54,7 @@ mobile – aucun matériel externe requis**
 
 {{< side-by-side top=12 bottom=8 mobile-top=6 mobile-bottom=6 img=authorities-input img-width=394 img-alt="Deux personnes interviennent pas à pas auprès des autorités" >}}
 {{% markdown %}}
-## Faites des soumissions <br class="hide-for-mobile">aux autorités en ligne
+### Faites des soumissions <br class="hide-for-mobile">aux autorités en ligne
 Des modifications du registre du commerce
 aux requêtes judiciaires: il n'est pas nécessaire d'imprimer, d'envoyer ou de scanner.
 
@@ -69,7 +69,7 @@ aux requêtes judiciaires: il n'est pas nécessaire d'imprimer, d'envoyer ou de 
 
 {{< side-by-side top=12 bottom=12 mobile-top=6 mobile-bottom=12 img=crm-systeme-lawyer img-position=right img-width=421 img-alt="Signez à partir de vos systèmes existants, par exemple WinJur ou Vertec." >}}
 {{% markdown %}}
-## Aucun nouveau logiciel requis
+### Aucun nouveau logiciel requis
 Restez avec des outils familiers: connectez-vous directement via votre navigateur ou signez
 à partir de vos programmes existants.
 
@@ -84,7 +84,7 @@ les solutions sectorielles**
 
 {{< content text=center top=12 width=narrow >}}
 {{% markdown %}}
-# Avec Skribble, vous répondez aux exigences des procédures légales
+## Avec Skribble, vous répondez aux exigences des procédures légales
 Avec Skribble, vous signez légalement et en toute sécurité
 en remplissant les conditions suivantes:
 {{% /markdown %}}
@@ -108,7 +108,7 @@ Skribble et ses partenaires gèrent leurs données conformément à la loi féd�
 
 {{< content text=center top=24 width=narrow >}}
 {{% markdown %}}
-# Nos clients s'amusent bien
+## Nos clients s'amusent bien
 Comment nous, chez Skribble, facilitons la vie quotidienne de nos clients.
 {{% /markdown %}}
 {{< /content >}}
@@ -133,7 +133,7 @@ Comment nous, chez Skribble, facilitons la vie quotidienne de nos clients.
 
 {{< content text=center top=24 width=narrow >}}
 {{% markdown %}}
-# Utilisez Skribble pour maximiser la force probante de votre signature
+## Utilisez Skribble pour maximiser la force probante de votre signature
 La loi établit une distinction entre les signatures électroniques qualifiées (SEQ)
 et les signatures électroniques avancées (SEA). Les deux normes varient
 en termes de domaine d'application et de force probante.
@@ -159,7 +159,7 @@ Sur Skribble, vous pouvez choisir entre les deux.
 
 {{< content text=center top=24 bottom=4 width=narrow >}}
 {{% markdown %}}
-# Laissez-vous identifier
+## Laissez-vous identifier
 Cela débloque la norme de signature électronique la plus élevée du marché:
 la SEQ. Vous n'avez besoin que d'un document de voyage valide
 (pièce d'identité ou passeport).
@@ -189,7 +189,7 @@ la SEQ. Vous n'avez besoin que d'un document de voyage valide
 
 {{< content text=center top=16 bottom=4 width=narrow >}}
 {{% markdown %}}
-# Est-ce que ça va?
+## Est-ce que ça va?
 {{% /markdown %}}
 {{< /content >}}
 
@@ -219,7 +219,7 @@ La SEQ est légalement valide pour une durée illimitée.
 
 {{< outro >}}
 {{% markdown center %}}
-# Signer légalement <br class="hide-for-mobile">et numériquement maintenant!
+## Signer légalement <br class="hide-for-mobile">et numériquement maintenant!
 Aucune carte de crédit, aucun droit d'entrée
 ou engagement n'est requis.
 {{% /markdown %}}

@@ -21,7 +21,7 @@ qui allie sécurité technologique et simplicité.
 
 {{< content text=center top=12 bottom=8 width=narrow >}}
 {{% markdown %}}
-### Utilisez Skribble via le navigateur ou intégrez la plate-forme dans votre environnement logiciel existant via API.
+#### Utilisez Skribble via le navigateur ou intégrez la plate-forme dans votre environnement logiciel existant via API.
 {{% /markdown %}}
 {{< /content >}}
 
@@ -57,7 +57,7 @@ L'API de Skribble ne laisse rien à désirer."
 
 {{< content text=center top=12 bottom=16 width=narrow >}}
 {{% markdown %}}
-# Avec Skribble, vous travaillez selon <br class="hide-for-mobile">les plus hauts standards de technologie et de sécurité.
+## Avec Skribble, vous travaillez selon <br class="hide-for-mobile">les plus hauts standards de technologie et de sécurité.
 {{% /markdown %}}
 {{< /content >}}
 
@@ -101,7 +101,7 @@ de qualité, de fiabilité et de précision dans le développement de logiciels.
 
 {{< content text=center top=12 bottom=4 width=narrow >}}
 {{% markdown %}}
-# Essayez l'API
+## Essayez l'API
 Vous pouvez créer une clé de démonstration
 dans votre compte Skribble Business.
 {{% /markdown %}}
@@ -133,7 +133,7 @@ Consultez notre documentation API.
 
 {{< outro >}}
 {{% markdown center %}}
-# Signer légalement <br class="hide-for-mobile">et numériquement maintenant!
+## Signer légalement <br class="hide-for-mobile">et numériquement maintenant!
 Aucune carte de crédit, aucun droit d'entrée
 ou engagement n'est requis.
 {{% /markdown %}}

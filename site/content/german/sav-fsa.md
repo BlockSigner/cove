@@ -22,7 +22,7 @@ Signaturprozesse einfach digital abwickeln – rechtsgültig nach dem Schweizer 
 
 {{< side-by-side top=24 bottom=12 img=image4 mobile-top=12 mobile-bottom=6 img-width=391 img-position=right img-alt="Drei personen signieren rechtsgültig zusammen ein online dokument" >}}
 {{% markdown %}}
-## Die qualifizierte elektronische Signatur wird mit Skribble einfach, intuitiv und effizient
+### Die qualifizierte elektronische Signatur wird mit Skribble einfach, intuitiv und effizient
 - **Keine externe Hardware notwendig**
 Skribble ist sofort einsetzbar
 - **Mehrfachsignaturen anbringen**
@@ -36,7 +36,7 @@ Per E-Mail zum Signieren einladen und erinnern
 
 {{< side-by-side top=12 bottom=12 mobile-top=6 mobile-bottom=6 img=image5 img-width=430 img-alt="Eine person hält ein rechtsgültiges dokument in den händen. Im hintergrund befindet sich das swisscom logo" >}}
 {{% markdown %}}
-## Skribble erfüllt höchste rechtliche und technologische Standards
+### Skribble erfüllt höchste rechtliche und technologische Standards
 - **ZertEs & eIDAS**
 QES-Zertifikate von Swisscom
 - **DSG/ DSGVO**
@@ -50,13 +50,13 @@ FINMA-Konform, ISO 27001 zertifiziert
 
 {{< content text=center top=12 bottom=18 width=narrow >}}
 {{% markdown %}}
-# SAV-FSA Mitglieder nutzen Skribble zum Vorzugspreis
+## SAV-FSA Mitglieder nutzen Skribble zum Vorzugspreis
 {{% /markdown %}}
 
 {{< picture sav-special 200 "Blauer kreis mit der nummer 12" >}}
 
 {{% markdown center %}}
-## pro Monat / Nutzer anstatt CHF 25.-
+### pro Monat / Nutzer anstatt CHF 25.-
 Signaturen können auch nutzerunabhängig bezogen werden.
 {{% /markdown %}}
 
@@ -66,7 +66,7 @@ Signaturen können auch nutzerunabhängig bezogen werden.
 
 {{< side-by-side top=24 bottom=12 img=identification mobile-top=12 mobile-bottom=6 img-width=482 img-alt="Die identität einer frau, die in einem handy steht, wird von zwei personen überprüft" >}}
 {{% markdown %}}
-# Bereit zum Signieren in 5 Minuten
+## Bereit zum Signieren in 5 Minuten
 
 Du benötigst nur ein Mobiltelefon und ein gültiges Ausweispapier (Pass oder Identitätskarte).
 
@@ -86,7 +86,7 @@ Eine Kanzlei kann auch dazu befähigt werden, selbst Personen zu identifizieren.
 
 {{< outro >}}
 {{% markdown center %}}
-# Jetzt rechtsgültig elektronisch signieren
+## Jetzt rechtsgültig elektronisch signieren
 Erfahre mehr über das Angebot.
 {{% /markdown %}}
 

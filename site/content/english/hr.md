@@ -23,7 +23,7 @@ from employment contracts to certificates and wage statements.
 
 {{< side-by-side top=24 bottom=12 img=batch-signature mobile-top=12 mobile-bottom=6 img-width=367 img-alt="Three contracts signed with batch processing" >}}
 {{% markdown %}}
-## Finish the pile with only one signature
+### Finish the pile with only one signature
 New employment contracts for everyone: the authorised signatory no longer signs hundreds of contracts by hand, but signs them all at once with Skribble's batch signature.
 
 - **Batch signature for any number of employment contracts**
@@ -36,7 +36,7 @@ New employment contracts for everyone: the authorised signatory no longer signs 
 
 {{< side-by-side top=12 bottom=12 mobile-top=6 mobile-bottom=6 img=candidate-sign-digital img-position=right img-width=392 img-alt="A woman sits in a deck chair and signs her employment contract on her tablet" >}}
 {{% markdown %}}
-## Candidates sign digitally without delay
+### Candidates sign digitally without delay
 Efficient onboarding: you have a better chance of being chosen as an employer and HR administration becomes easier, faster and cheaper.
 
 - **Legally valid for any type of employment contract**
@@ -49,7 +49,7 @@ Efficient onboarding: you have a better chance of being chosen as an employer an
 
 {{< side-by-side top=12 bottom=12 mobile-top=6 mobile-bottom=6 img=more-efficiency img-width=430 img-alt="Man with fountain pen would like to sign three contracts" >}}
 {{% markdown %}}
-## Empower employees <br class="hide-for-mobile">to work more efficiently
+### Empower employees <br class="hide-for-mobile">to work more efficiently
 Digitalisation enabler: HR enables the workforce to sign electronically and can manage their everyday work with less bureaucracy.
 
 - **Digital processing of work reports, lay-offs, applications, etc.**
@@ -62,7 +62,7 @@ Digitalisation enabler: HR enables the workforce to sign electronically and can 
 
 {{< side-by-side top=12 bottom=12 mobile-top=6 mobile-bottom=12 img=integrations img-position=right img-width=381 img-alt="Existing systems, e.g. Google Drive, One Drive, Drop Box or Secure Safe" >}}
 {{% markdown %}}
-## No new software required
+### No new software required
 Stay with familiar tools: sign directly via your browser or from your existing software.
 
 - **Sign directly via your browser**
@@ -75,7 +75,7 @@ Stay with familiar tools: sign directly via your browser or from your existing s
 
 {{< content text=center top=12 width=narrow >}}
 {{% markdown %}}
-# Skribble complies with the legal requirements for HR processes
+## Skribble complies with the legal requirements for HR processes
 You sign with legal effect and securely in accordance
 with the following requirements:
 {{% /markdown %}}
@@ -99,7 +99,7 @@ Skribble and its signing partner Swisscom commit to manage data in accordance wi
 
 {{< content text=center top=24 width=narrow >}}
 {{% markdown %}}
-# Our customers have a good time
+## Our customers have a good time
 How we at Skribble make everyday life easier for our customers.
 {{% /markdown %}}
 {{< /content >}}
@@ -125,7 +125,7 @@ How we at Skribble make everyday life easier for our customers.
 
 {{< content text=center top=24 width=narrow >}}
 {{% markdown %}}
-# Use Skribble to maximise the legal weight of your signature
+Use Skribble to maximise the legal weight of your signature
 The law distinguishes between qualified e-signatures (QES)
 and advanced e-signatures (AES). The two standards vary in terms of area
 of application and legal weight.
@@ -150,7 +150,7 @@ between the signature standards AES and QES.**
 
 {{< content text=center top=24 bottom=4 width=narrow >}}
 {{% markdown %}}
-# Get identified
+Get identified
 This will unlock the highest e-signature standard available – QES.
 All you need is a valid travel document (ID or passport).
 {{% /markdown %}}
@@ -178,7 +178,7 @@ and get identified**
 
 {{< content text=center top=12 width=narrow >}}
 {{% markdown %}}
-# All clear?
+All clear?
 {{% /markdown %}}
 {{< /content >}}
 
@@ -209,7 +209,7 @@ The QES is legally valid for an unlimited period of time.
 
 {{< outro >}}
 {{% markdown center %}}
-# Sign now, legally and electronically!
+## Sign now, legally and electronically!
 No credit card, entrance fee or commitment required.
 {{% /markdown %}}
 

@@ -80,7 +80,7 @@ Cela facilite notre vie quotidienne et celle de nos clients." {{< /testimonial >
 
 {{< content text=center top=12 width=narrow >}}
 {{% markdown %}}
-# La mise en œuvre à l'échelle de l'organisation est simple et rapide
+## La mise en œuvre à l'échelle de l'organisation est simple et rapide
 Permettez aux nouveaux employés et aux employés actuels de signer électroniquement dans les plus brefs délais. Choisissez le processus d'intégration
 qui correspond à vos exigences en matière de force probante
 ou à la norme de signature souhaitée.
@@ -91,7 +91,7 @@ ou à la norme de signature souhaitée.
 
 {{< side-by-side top=8 bottom=8 img=onboarding-seq-fr img-width=380 img-alt="A large contract (QES) with a court" >}}
 {{% markdown %}}
-## Intégration pour la signature électronique qualifiée (SEQ)
+### Intégration pour la signature électronique qualifiée (SEQ)
 Services d'identification pour les plus hautes exigences en matière de force probante de la signature. Convient aux contrats avec des exigences formelles.
 {{% /markdown %}}
 <br>
@@ -107,7 +107,7 @@ Services d'identification pour les plus hautes exigences en matière de force pr
 
 {{< content text=center top=12 width=narrow >}}
 {{% markdown %}}
-# Rapport coût-bénéfice idéal
+## Rapport coût-bénéfice idéal
 Choisissez le bon modèle de prix pour votre organisation.
 {{% /markdown %}}
 {{< /content >}}
@@ -126,7 +126,7 @@ Choisissez le bon modèle de prix pour votre organisation.
 
 {{< outro >}}
 {{% markdown center %}}
-# Signer légalement <br class="hide-for-mobile">et numériquement maintenant!
+## Signer légalement <br class="hide-for-mobile">et numériquement maintenant!
 Aucune carte de crédit, aucun droit d'entrée
 ou engagement n'est requis.
 {{% /markdown %}}

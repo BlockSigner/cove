@@ -29,7 +29,7 @@ wie auch für häufiges Signieren.
 
 {{< content text=center top=12 width=narrow >}}
 {{% markdown %}}
-## Signierst du häufiger?
+### Signierst du häufiger?
 Nach dem Registrieren kannst du jederzeit auf
 eines der folgenden Modelle umstellen:
 {{% /markdown %}}
@@ -53,7 +53,7 @@ eines der folgenden Modelle umstellen:
 
 {{< content text=center top=6 width=narrow >}}
 {{% markdown %}}
-## Oder
+### Oder
 {{% /markdown %}}
 {{< /content >}}
 
@@ -283,7 +283,7 @@ eines der folgenden Modelle umstellen:
 
 {{< outro   >}}
 {{% markdown center %}}
-# Jetzt rechtsgültig elektronisch signieren!
+## Jetzt rechtsgültig elektronisch signieren!
 Keine Kreditkarte, Eintrittsgebühr oder
 Verpflichtung erforderlich.
 {{% /markdown %}}

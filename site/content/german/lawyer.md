@@ -23,7 +23,7 @@ mit dem höchsten verfügbaren E-Signatur-Standard (QES).
 
 {{< side-by-side top=24 bottom=12 img=sign-parallel mobile-top=12 mobile-bottom=6 img-width=387 img-alt="Mann signiert mit zwei weiteren Personen einen Vertrag" >}}
 {{% markdown %}}
-## Alle Vertragsparteien <br class="hide-for-mobile">signieren digital
+### Alle Vertragsparteien <br class="hide-for-mobile">signieren digital
 Mehrere Vertragsparteien: Statt Verträge per Post von einer Person zur nächsten zu schicken, signieren alle zeitsparend online.
 
 - **Per E-Mail automatisiert
@@ -39,7 +39,7 @@ wenn der Vertrag signiert wurde**
 
 {{< side-by-side top=12 bottom=12 mobile-top=6 mobile-bottom=6 img=batch-process img-position=right img-width=380 img-alt="Ein Stapel Dokumente werden mit einem Klick signiert" >}}
 {{% markdown %}}
-## Erledige den Stapel <br class="hide-for-mobile">mit nur einer Signatur
+### Erledige den Stapel <br class="hide-for-mobile">mit nur einer Signatur
 Digitale Unterschriftsmappe: Sammle deine Verträge digital und signiere sie gleichzeitig mit wenigen Klicks. Einen USB-Stick oder Card-Reader brauchst du trotz QES-Standard nicht.
 
 - **Stapelsignatur für beliebige
@@ -54,7 +54,7 @@ keine externe Hardware erforderlich**
 
 {{< side-by-side top=12 bottom=8 mobile-top=6 mobile-bottom=6 img=authorities-input img-width=394 img-alt="Zwei Leute machen Schritt-für Schritt eine Behörden Eingabe" >}}
 {{% markdown %}}
-## Eingaben bei Behörden <br class="hide-for-mobile">machst du online
+### Eingaben bei Behörden <br class="hide-for-mobile">machst du online
 Von Änderungen am Handelsregister bis Gerichtseingaben: Das Ausdrucken, Versenden und Einscannen entfällt.
 
 - **Nahtlose Integration in PrivaSphere (folgt bald)**
@@ -68,7 +68,7 @@ Kanzleien und Behörden/Gerichten in der Schweiz**
 
 {{< side-by-side top=12 bottom=8 mobile-top=6 mobile-bottom=12 img=crm-systeme-lawyer img-position=right img-width=421 img-alt="Signiere aus deinen gewohnten Tools heraus, beispielsweise WinJur oder Vertec." >}}
 {{% markdown %}}
-## Keine neue Software notwendig
+### Keine neue Software notwendig
 Bei gewohnten Tools bleiben: Signiere direkt über den Browser oder aus deiner bestehenden Software heraus.
 
 - **Direkt über den Browser signieren**
@@ -82,7 +82,7 @@ Lösungen einbinden**
 
 {{< content text=center top=24 width=narrow >}}
 {{% markdown %}}
-# Mit Skribble erfüllst du <br class="hide-for-mobile">die rechtlichen Anforderungen <br class="hide-for-mobile">an Anwalts-Prozessen
+## Mit Skribble erfüllst du <br class="hide-for-mobile">die rechtlichen Anforderungen <br class="hide-for-mobile">an Anwalts-Prozessen
 Du signierst rechtsgültig und sicher gemäss folgenden Erfordernissen:
 {{% /markdown %}}
 {{< /content >}}
@@ -105,7 +105,7 @@ Skribble sowie Partner verwalten ihre Daten gemäss dem Bundesgesetz über den D
 
 {{< content text=center top=24 width=narrow >}}
 {{% markdown %}}
-# Unser Kunden haben gut lachen
+## Unser Kunden haben gut lachen
 Wie wir den Alltag unserer Kunden erleichtern.
 {{% /markdown %}}
 {{< /content >}}
@@ -130,7 +130,7 @@ Wie wir den Alltag unserer Kunden erleichtern.
 
 {{< content text=center top=24 width=narrow >}}
 {{% markdown %}}
-# Mit Skribble maximierst du die Beweiskraft deiner Signatur
+## Mit Skribble maximierst du die Beweiskraft deiner Signatur
 Das Gesetz unterscheidet zwischen der qualifizierten E-Signatur (QES)
 und der fortgeschrittenen E-Signatur (FES).Die beiden Standards variieren
 punkto Einsatzgebiet und Beweiskraft.
@@ -155,7 +155,7 @@ den Signaturstandards FES und QES wählen.**
 
 {{< content text=center top=12 bottom=4 width=narrow >}}
 {{% markdown %}}
-# Lass dich identifizieren
+## Lass dich identifizieren
 Damit schaltest du den höchsten verfügbaren E-Signatur-Standard QES frei.
 Du benötigst nur ein gültiges Reisedokument (ID oder Pass).
 {{% /markdown %}}
@@ -184,7 +184,7 @@ aus und lass dich identifizieren**
 
 {{< content text=center top=16 bottom=4 width=narrow >}}
 {{% markdown %}}
-# Alles klar?
+## Alles klar?
 {{% /markdown %}}
 {{< /content >}}
 
@@ -214,7 +214,7 @@ Die QES ist zeitlich uneingeschränkt rechtsgültig.
 
 {{< outro   >}}
 {{% markdown center %}}
-# Jetzt rechtsgültig elektronisch signieren!
+## Jetzt rechtsgültig elektronisch signieren!
 Keine Kreditkarte, Eintrittsgebühr oder
 Verpflichtung erforderlich.
 {{% /markdown %}}

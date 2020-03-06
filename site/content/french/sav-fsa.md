@@ -22,7 +22,7 @@ Traiter les processus de signature numériquement &ndash; juridiquement valides 
 
 {{< side-by-side top=24 bottom=12 img=image4 mobile-top=12 mobile-bottom=6 img-width=391 img-position=right img-alt="Trois personnes signent légalement ensemble un document en ligne" >}}
 {{% markdown %}}
-## La signature électronique qualifiée avec Skribble simple, intuitif et efficace
+### La signature électronique qualifiée avec Skribble simple, intuitif et efficace
 - **Aucun matériel externe requis**
 Skribble peut être utilisé immédiatement
 - **Joindre plusieurs signatures**
@@ -36,7 +36,7 @@ Invitations à signer par courriel et rappels
 
 {{< side-by-side top=12 bottom=12 mobile-top=6 mobile-bottom=6 img=image5 img-width=430 img-alt="Une personne tient un document juridique entre ses mains. Le logo de swisscom se trouve à l'arrière-plan" >}}
 {{% markdown %}}
-## Skribble répond aux normes juridiques et technologiques les plus élevées.
+### Skribble répond aux normes juridiques et technologiques les plus élevées.
 - **SCSE & eIDAS**
 Certificats SEQ de Swisscom
 - **LPD/ RGDP**
@@ -50,13 +50,13 @@ Conforme FINMA, certifié ISO 27001
 
 {{< content text=center top=12 bottom=18 width=narrow >}}
 {{% markdown %}}
-# Les membres de la SAV-FSA utilisent Skribble à un prix préférentiel
+## Les membres de la SAV-FSA utilisent Skribble à un prix préférentiel
 {{% /markdown %}}
 
 {{< picture sav-special 200 "Cercle bleu avec le chiffre 12" >}}
 
 {{% markdown center %}}
-## par mois / utilisateur au lieu de CHF 25.-
+### par mois / utilisateur au lieu de CHF 25.-
 Les signatures peuvent également être obtenues selon un modèle prépayé.
 {{% /markdown %}}
 {{< /content >}}
@@ -65,7 +65,7 @@ Les signatures peuvent également être obtenues selon un modèle prépayé.
 
 {{< side-by-side top=24 bottom=12 img=identification mobile-top=12 mobile-bottom=6 img-width=482 img-alt="L'identité d'une femme debout dans un téléphone portable est vérifiée par deux personnes" >}}
 {{% markdown %}}
-# Prêt à signer en 5 minutes
+## Prêt à signer en 5 minutes
 
 Tout ce dont tu as besoin c'est d'un téléphone portable et un document d'identification officiel. (passeport ou carte d'identité)
 

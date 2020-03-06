@@ -23,7 +23,7 @@ with the highest e-signing standard (QES).
 
 {{< side-by-side top=24 bottom=12 img=sign-parallel mobile-top=12 mobile-bottom=6 img-width=387 img-alt="Man sign a contract with two other people at the same time" >}}
 {{% markdown %}}
-## All contractual parties sign digitally
+### All contractual parties sign digitally
 Multiple contractual parties: Instead of sending contracts by post from one person to the next, everyone signs online, saving time.
 
 - **Automatically invite people to
@@ -39,7 +39,7 @@ the contract is signed**
 
 {{< side-by-side top=12 bottom=12 mobile-top=6 mobile-bottom=6 img=batch-process img-position=right img-width=380 img-alt="A stack of documents is signed with one click" >}}
 {{% markdown %}}
-## Finish the pile <br class="hide-for-mobile">with only one signature
+### Finish the pile <br class="hide-for-mobile">with only one signature
 Digital signature folder: Collect your contracts digitally and sign them simultaneously with just a few clicks. Despite the QES standard, you don't need a USB stick or card reader.
 
 - **Batch signature for any number of contracts**
@@ -53,7 +53,7 @@ no external hardware required**
 
 {{< side-by-side top=12 bottom=12 mobile-top=6 mobile-bottom=6 img=authorities-input img-width=394 img-alt="Two people make step-by-step entries to authorities." >}}
 {{% markdown %}}
-## Entries with authorities made online
+### Entries with authorities made online
 From changes to the commercial register to court submissions: Printing, sending and scanning are no longer necessary.
 
 - **Seamless integration with PrivaSphere
@@ -68,7 +68,7 @@ law firms and authorities/courts in Switzerland**
 
 {{< side-by-side top=24 bottom=16 mobile-top=6 mobile-bottom=12 img=crm-systeme-lawyer img-position=right img-width=421 img-alt="Existing systems, e.g. Google Drive, One Drive, Drop Box or Secure Safe" >}}
 {{% markdown %}}
-## No new software required
+### No new software required
 Stay with familiar tools: Sign directly via your browser or from your existing software.
 
 - **Sign directly via your browser**
@@ -82,7 +82,7 @@ industry software solutions**
 
 {{< content text=center top=24 width=narrow >}}
 {{% markdown %}}
-# Skribble complies with the legal requirements for court processes
+Skribble complies with the legal requirements for court processes
 You sign with legal effect and securely in accordance
 with the following requirements:
 {{% /markdown %}}
@@ -106,7 +106,7 @@ Skribble and its signing partner Swisscom commit to manage data in accordance wi
 
 {{< content text=center top=24 width=narrow >}}
 {{% markdown %}}
-# Our customers have a good time
+Our customers have a good time
 How we at Skribble make everyday life easier for our customers.
 {{% /markdown %}}
 {{< /content >}}
@@ -131,7 +131,7 @@ How we at Skribble make everyday life easier for our customers.
 
 {{< content text=center top=24 width=narrow >}}
 {{% markdown %}}
-# Use Skribble to maximise the legal weight of your signature
+Use Skribble to maximise the legal weight of your signature
 The law distinguishes between qualified e-signatures (QES)
 and advanced e-signatures (AES). The two standards vary in terms of area
 of application and legal weight.
@@ -157,7 +157,7 @@ between the signature standards AES and QES.**
 
 {{< content text=center top=24 bottom=4 width=narrow >}}
 {{% markdown %}}
-# Get identified
+Get identified
 This will unlock the highest e-signature standard available – QES.
 All you need is a valid travel document (ID or passport).
 {{% /markdown %}}
@@ -186,7 +186,7 @@ digital identities"
 
 {{< content text=center top=16 bottom=4 width=narrow >}}
 {{% markdown %}}
-# All clear?
+All clear?
 {{% /markdown %}}
 {{< /content >}}
 
@@ -216,7 +216,7 @@ The QES is legally valid for an unlimited period of time.
 
 {{< outro >}}
 {{% markdown center %}}
-# Sign now, legally and electronically!
+## Sign now, legally and electronically!
 No credit card, entrance fee or commitment required.
 {{% /markdown %}}
 

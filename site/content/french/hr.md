@@ -24,7 +24,7 @@ par les certificats de salaire.
 
 {{< side-by-side top=24 bottom=12 img=batch-signature mobile-top=12 mobile-bottom=6 img-width=367 img-alt="Trois contrats sont signés par lots" >}}
 {{% markdown %}}
-## Compléter le lot <br class="hide-for-mobile">avec une seule signature
+### Compléter le lot <br class="hide-for-mobile">avec une seule signature
 De nouveaux contrats de travail pour tous: le signataire autorisé ne signe plus des centaines de contrats à la main, mais les signe tous à la fois avec la signature par lots de Skribble.
 
 - **Signature par lots pour un nombre
@@ -40,7 +40,7 @@ entrantes et sortantes**
 
 {{< side-by-side top=12 bottom=12 mobile-top=6 mobile-bottom=6 img=candidate-sign-digital img-position=right img-width=392 img-alt="Une femme s'assoit sur une chaise longue et signe un contrat sur sa tablette." >}}
 {{% markdown %}}
-## Signature numérique <br class="hide-for-mobile">sans délai des candidats
+### Signature numérique <br class="hide-for-mobile">sans délai des candidats
 Une intégration efficace: vous avez plus de chances d'être choisi comme employeur et l'administration des RH devient plus facile, plus rapide et moins coûteuse.
 
 - **Juridiquement valable pour tout type
@@ -55,7 +55,7 @@ du contrat de travail**
 
 {{< side-by-side top=12 bottom=12 mobile-top=6 mobile-bottom=6 img=more-efficiency img-width=430 img-alt="Homme signé avec un stylo plume trois contrats" >}}
 {{% markdown %}}
-## Habiliter les employés <br class="hide-for-mobile">pour plus d'efficacité
+### Habiliter les employés <br class="hide-for-mobile">pour plus d'efficacité
 Facilitateur de la numérisation: les RH permettent au personnel de signer électroniquement et de faire face au travail quotidien avec moins de bureaucratie.
 
 - **Traitement numérique des rapports
@@ -71,7 +71,7 @@ autorisés par courriel**
 
 {{< side-by-side top=12 bottom=12 mobile-top=6 mobile-bottom=12 img=integrations img-position=right img-width=381 img-alt="Signez directement dans vos logiciels RH" >}}
 {{% markdown %}}
-## Aucun nouveau logiciel requis
+### Aucun nouveau logiciel requis
 Restez avec des outils familiers: signez à partir de vos programmes existants, par exemple Google Drive, One Drive, Drop Box ou Secure Safe.
 
 - **Signer directement via le navigateur**
@@ -85,7 +85,7 @@ et d'autres solutions sectorielles**
 
 {{< content text=center top=24 width=narrow >}}
 {{% markdown %}}
-# Avec Skribble, vous répondez aux exigences légales des processus RH
+## Avec Skribble, vous répondez aux exigences légales des processus RH
 Avec Skribble, vous pouvez signer numériquement et légalement (SEQ)
 et satisfaire aux exigences légales suivantes:
 {{% /markdown %}}
@@ -109,7 +109,7 @@ Skribble et ses partenaires gèrent leurs données conformément à la loi féd�
 
 {{< content text=center top=24 width=narrow >}}
 {{% markdown %}}
-# Nos clients s'amusent bien
+## Nos clients s'amusent bien
 Comment nous, chez Skribble, facilitons la vie quotidienne de nos clients.
 {{% /markdown %}}
 {{< /content >}}
@@ -134,7 +134,7 @@ Comment nous, chez Skribble, facilitons la vie quotidienne de nos clients.
 
 {{< content text=center top=24 width=narrow >}}
 {{% markdown %}}
-# Utilisez Skribble pour maximiser la force probante de votre signature
+## Utilisez Skribble pour maximiser la force probante de votre signature
 La loi établit une distinction entre les signatures électroniques qualifiées (SEQ)
 et les signatures électroniques avancées (SEA). Les deux normes varient
 en termes de domaine d'application et de force probante. Sur Skribble, vous pouvez choisir entre les deux.
@@ -158,7 +158,7 @@ en termes de domaine d'application et de force probante. Sur Skribble, vous pouv
 
 {{< content text=center top=24 bottom=4 width=narrow >}}
 {{% markdown %}}
-# Laissez-vous identifier
+## Laissez-vous identifier
 Cela débloque la norme de signature électronique la plus élevée du marché: la SEQ. Vous n'avez besoin que d'un document de voyage valide
 (pièce d'identité ou passeport).
 {{% /markdown %}}
@@ -187,7 +187,7 @@ des identités numériques de confiance."
 
 {{< content text=center top=12 width=narrow >}}
 {{% markdown %}}
-# Est-ce que ça va?
+## Est-ce que ça va?
 {{% /markdown %}}
 {{< /content >}}
 
@@ -217,7 +217,7 @@ La SEQ est légalement valide pour une durée illimitée.
 
 {{< outro >}}
 {{% markdown center %}}
-# Signer légalement <br class="hide-for-mobile">et numériquement maintenant!
+## Signer légalement <br class="hide-for-mobile">et numériquement maintenant!
 Aucune carte de crédit, aucun droit d'entrée
 ou engagement n'est requis.
 {{% /markdown %}}

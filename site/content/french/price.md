@@ -31,7 +31,7 @@ qu'aux signatures fréquentes
 
 {{< content text=center top=12 width=narrow >}}
 {{% markdown %}}
-## Vous signez plus souvent?
+### Vous signez plus souvent?
 Après l'enregistrement, vous pouvez à tout moment
 passer à l'un des modèles tarifaires suivants:
 {{% /markdown %}}
@@ -54,7 +54,7 @@ passer à l'un des modèles tarifaires suivants:
 
 {{< content text=center top=6 width=narrow >}}
 {{% markdown %}}
-## Ou
+### Ou
 {{% /markdown %}}
 {{< /content >}}
 
@@ -277,7 +277,7 @@ passer à l'un des modèles tarifaires suivants:
 
 {{< outro >}}
 {{% markdown center %}}
-# Signer légalement <br class="hide-for-mobile">et numériquement maintenant!
+## Signer légalement <br class="hide-for-mobile">et numériquement maintenant!
 Aucune carte de crédit, aucun droit d'entrée
 ou engagement n'est requis.
 {{% /markdown %}}

@@ -58,7 +58,7 @@ La force probante de votre signature est portée à 100% (niveau SEQ)
 
 {{< content text=center top=24 bottom=8 >}}
 {{% markdown %}}
-# Sites d'identification
+## Sites d'identification
 Venez vous identifier gratuitement. Apportez votre passeport
 ou votre carte d'identité en cours de validité et votre téléphone portable.
 {{% /markdown %}}
@@ -367,7 +367,7 @@ Lu - Di: 08.00 - 21.00
 
 {{< content text=center top=12 width=narrow >}}
 {{% markdown %}}
-# Tout va bien?
+## Tout va bien?
 {{% /markdown %}}
 {{% /content %}}
 
@@ -400,7 +400,7 @@ Non. Mais avec un Mobile ID, la signature est plus rapide et plus facile, c'est 
 
 {{< outro >}}
 {{% markdown center %}}
-# Signer légalement <br class="hide-for-mobile">et numériquement maintenant!
+## Signer légalement <br class="hide-for-mobile">et numériquement maintenant!
 Aucune carte de crédit, aucun droit d'entrée
 ou engagement n'est requis.
 {{% /markdown %}}

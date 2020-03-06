@@ -33,7 +33,7 @@ le signataire doit prouver son identité. Skribble vous aidera.
 
 {{< content text=center top=24 bottom=8 width=narrow >}}
 {{% markdown %}}
-# Utiliser une e-ID existante
+## Utiliser une e-ID existante
 Les personnes qui ont une e-ID vérifiée peuvent signer avec SEQ
 sur Skribble sans contrôle d'identité supplémentaire.
 {{% /markdown %}}
@@ -83,7 +83,7 @@ la solution d'identification idéale pour votre entreprise.
 
 {{< content text=center top=12 width=narrow >}}
 {{% markdown %}}
-# Utiliser la service <br class="hide-for-mobile">d'identification de Skribble
+## Utiliser la service <br class="hide-for-mobile">d'identification de Skribble
 Si vous n'avez pas d'e-ID, l'identification peut se faire à l'aide de Skribble.
 {{% /markdown %}}
 {{< /content >}}
@@ -137,7 +137,7 @@ Approprié si de nouveaux signataires SEQ sont constamment ajoutés.
 
 {{< outro >}}
 {{% markdown center %}}
-# Signer légalement <br class="hide-for-mobile">et numériquement maintenant!
+## Signer légalement <br class="hide-for-mobile">et numériquement maintenant!
 Aucune carte de crédit, aucun droit d'entrée
 ou engagement n'est requis.
 {{% /markdown %}}

@@ -27,26 +27,26 @@ unbefristet
 
 {{< content text=center top=12 width=narrow >}}
 {{% markdown %}}
-## ***
+### ***
 {{% /markdown %}}
 {{< /content >}}
 
 {{< content top=12 width=narrow >}}
 {{% markdown %}}
-## Unterschreibst du noch oder skribblest du schon?
+### Unterschreibst du noch oder skribblest du schon?
 Die Digitalisierung hat die Art, wie und wem wir vertrauen, grundlegend verändert. Dieser Wandel wird nicht zuletzt von neuen Technologien angetrieben. Skribble schafft mit seiner Plattform für elektronische Signaturen Vertrauen in digitale Prozesse. Nach erfolgreichem Start in der Schweiz, sollen nun auch Firmen und Privatpersonen in Deutschland einfach, schnell und rechtssicher elektronisch signieren können.
 
-## So begeisterst du uns:
+### So begeisterst du uns:
 Deine Talente als Sales Manager sind gefragt: als unser Gesicht in Deutschland, im Knüpfen von Kontakten zu Unternehmen und Behörden oder als Unterstützer unserer Inbound Marketing Strategie. Du bist von den Vorteilen der Digitalisierung überzeugt und es ist dir wichtig ein Produkt mit echtem Mehrwert anbieten zu können. Dein Wunsch ist es, Mühsames einfach zu machen.
 
-## Das kannst du bewirken:
+### Das kannst du bewirken:
 - Du repräsentierst Skribble bei Entscheidungsträgern in Wirtschaft, Politik und Medien in Deutschland
 - Du arbeitest mit unserem Business Development Team zusammen, um eine Sales Strategie für Deutschland zu entwickeln und diese selbstständig umzusetzen
 Unser Digital Marketing Team generiert dir Leads und du gehst diese auf allen Kommunikationskanälen aktiv an
 - Du stehst laufend im Dialog mit deinen Leads und kommunizierst deren Anliegen aktiv mit unserem Product Management
 - Du unterstützt unsere Inbound Marketing Strategie mit deiner Expertise
 
-## Das bringst du mit:
+### Das bringst du mit:
 - Du bringst mehrere Jahre Erfahrung im Verkauf mit
 - Du hast deine Beratungskompetenz auf Unternehmens- oder Agenturseite bewiesen
 - Du bist technologiebegeistert und immer auf dem neuesten Stand
@@ -55,7 +55,7 @@ Unser Digital Marketing Team generiert dir Leads und du gehst diese auf allen Ko
 - Du lebst einen offenen Kommunikationsstil und hast Spass an deiner Tätigkeit
 - Du überzeugst in Gesprächen mit Kompetenz und respektvollem Auftreten
 
-## So begeistern wir dich:
+### So begeistern wir dich:
 Gemeinsam wollen wir Vertrauen in der digitalen Welt schaffen. Wie wir das erreichen? Mit der besten Firmenkultur und attraktiven Anstellungsbedingungen. Überzeuge dich selbst:
 
 - Wir setzen auf schnelle Entscheidungswege
@@ -68,7 +68,7 @@ Gemeinsam wollen wir Vertrauen in der digitalen Welt schaffen. Wie wir das errei
 
 {{< content text=center top=12 >}}
 {{% markdown %}}
-# Avons-nous éveillé ton intérêt ?
+## Avons-nous éveillé ton intérêt ?
 Postulez maintenant chez Skribble.
 Nous nous réjouissons de de ta candidature !
 {{% /markdown %}}
@@ -87,7 +87,7 @@ Nous nous réjouissons de de ta candidature !
 
 {{< outro >}}
 {{% markdown center %}}
-# Signer légalement <br class="hide-for-mobile">et numériquement maintenant!
+## Signer légalement <br class="hide-for-mobile">et numériquement maintenant!
 Aucune carte de crédit, aucun droit d'entrée
 ou engagement n'est requis.
 {{% /markdown %}}

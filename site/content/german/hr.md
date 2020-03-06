@@ -23,7 +23,7 @@ von Arbeitsverträgen über Zeugnisse bis hin zu Lohnausweisen.
 
 {{< side-by-side top=24 bottom=12 img=batch-signature mobile-top=12 mobile-bottom=6 img-width=367 img-alt="Drei Verträge werden mit dem Stapelverfahren signiert" >}}
 {{% markdown %}}
-## Erledige den Stapel <br class="hide-for-mobile">mit nur einer Signatur
+### Erledige den Stapel <br class="hide-for-mobile">mit nur einer Signatur
 Neue Arbeitsverträge für alle: der Unterschriftsberechtigte unterzeichnet nicht mehr hunderte Verträge von Hand, sondern signiert alle auf einmal mit der Stapelsignatur von Skribble.
 
 - **Stapelsignatur für beliebige
@@ -39,7 +39,7 @@ der Arbeitsverträge einladen**
 
 {{< side-by-side top=12 bottom=12 mobile-top=6 mobile-bottom=6 img=candidate-sign-digital img-position=right img-width=392 img-alt="Eine Frau sitzt auf einem Liegestuhl und unterzeichnet auf ihrem Tablet einen Vertrag" >}}
 {{% markdown %}}
-## Kandidaten signieren <br class="hide-for-mobile">ohne Verzögerung digital
+### Kandidaten signieren <br class="hide-for-mobile">ohne Verzögerung digital
 Effizientes Onboarding: Du hast bessere Chancen, als Arbeitgeber gewählt zu werden und die HR-Administration wird einfacher, schneller und günstiger.
 
 - **Rechtsgültig für jede Art Arbeitsvertrag**
@@ -53,7 +53,7 @@ wenn der Arbeitsvertrag signiert wurde**
 
 {{< side-by-side top=12 bottom=12 mobile-top=6 mobile-bottom=6 img=more-efficiency img-width=430 img-alt="Mann unterzeichnet mit einem Füllfederhalter drei Verträge" >}}
 {{% markdown %}}
-## Befähige Mitarbeitende <br class="hide-for-mobile">zu mehr Effizienz
+### Befähige Mitarbeitende <br class="hide-for-mobile">zu mehr Effizienz
 Digitalisierungs-Enabler: Die Belegschaft wird durch das HR zum elektronischen Signieren befähigt und kann den Arbeitsalltag mit weniger Bürokratie bestreiten.
 
 - **Arbeitsrapports, Kündigungen, Anträge
@@ -69,7 +69,7 @@ im anerkannten PDF X/A-Format**
 
 {{< side-by-side top=12 bottom=12 mobile-top=6 mobile-bottom=12 img=integrations img-position=right img-width=381 img-alt="Verbindung der unterschiedlichen Beteiligten bei Gebrauch von Skribble aus einem HRM visuell dargestellt" >}}
 {{% markdown %}}
-## Keine neue Software notwendig
+### Keine neue Software notwendig
 Bei gewohnten Tools bleiben: Signiere direkt über den Browser oder aus deiner bestehenden Software heraus. (Kommt Ende 2019)
 
 - **Direkt über den Browser signieren**
@@ -82,7 +82,7 @@ Bei gewohnten Tools bleiben: Signiere direkt über den Browser oder aus deiner b
 
 {{< content text=center top=24 width=narrow >}}
 {{% markdown %}}
-# Mit Skribble erfüllst du <br class="hide-for-mobile">die rechtlichen Anforderungen <br class="hide-for-mobile">an HR-Prozesse
+## Mit Skribble erfüllst du <br class="hide-for-mobile">die rechtlichen Anforderungen <br class="hide-for-mobile">an HR-Prozesse
 Du signierst rechtsgültig und sicher gemäss folgenden Erfordernissen:
 {{% /markdown %}}
 {{< /content >}}
@@ -105,7 +105,7 @@ Skribble sowie Partner verwalten ihre Daten gemäss dem Bundesgesetz über den D
 
 {{< content text=center top=24 width=narrow >}}
 {{% markdown %}}
-# Unser Kunden haben gut lachen
+## Unser Kunden haben gut lachen
 Wie wir den Alltag unserer Kunden erleichtern.
 {{% /markdown %}}
 {{< /content >}}
@@ -130,7 +130,7 @@ Wie wir den Alltag unserer Kunden erleichtern.
 
 {{< content text=center top=24 width=narrow >}}
 {{% markdown %}}
-# Mit Skribble maximierst du <br class="hide-for-mobile">die Beweiskraft deiner Signatur
+## Mit Skribble maximierst du <br class="hide-for-mobile">die Beweiskraft deiner Signatur
 Das Gesetz unterscheidet zwischen der qualifizierten E-Signatur (QES)
 und der fortgeschrittenen E-Signatur (FES). Die beiden Standards
 variieren punkto Einsatzgebiet und Beweiskraft.
@@ -155,7 +155,7 @@ den Signaturstandards FES und QES wählen.**
 
 {{< content text=center top=24 bottom=4 width=narrow >}}
 {{% markdown %}}
-# Lass dich identifizieren
+## Lass dich identifizieren
 Damit schaltest du den höchsten verfügbaren E-Signatur-Standard QES frei.
 Du benötigst nur ein gültiges Reisedokument (ID oder Pass).
 {{% /markdown %}}
@@ -184,7 +184,7 @@ aus und lass dich identifizieren**
 
 {{< content text=center top=12 width=narrow >}}
 {{% markdown %}}
-# Alles klar?
+## Alles klar?
 {{% /markdown %}}
 {{% /content %}}
 
@@ -214,7 +214,7 @@ Die QES ist zeitlich uneingeschränkt rechtsgültig.
 
 {{< outro   >}}
 {{% markdown center %}}
-# Jetzt rechtsgültig elektronisch signieren!
+## Jetzt rechtsgültig elektronisch signieren!
 Keine Kreditkarte, Eintrittsgebühr oder
 Verpflichtung erforderlich.
 {{% /markdown %}}

@@ -37,7 +37,7 @@ Skribble macht es einfach**
 
 {{< content text=center top=24 bottom=8 width=narrow >}}
 {{% markdown %}}
-# Bestehende E-ID nutzen
+## Bestehende E-ID nutzen
 Personen, die über eine geprüfte E-ID verfügen, können auf Skribble
 ohne zusätzliche Identitätsprüfung rechtsgültig signieren.
 {{% /markdown %}}
@@ -86,7 +86,7 @@ die Interoperabilität der digitalen Identitäten essentiell, um das Risiko von 
 
 {{< content text=center top=12 width=narrow >}}
 {{% markdown %}}
-# Skribbles Identifikations-Service nutzen
+## Skribbles Identifikations-Service nutzen
 Wer über keine E-ID verfügt,
 kann die Identifikation mit Hilfe von Skribble durchführen.
 {{% /markdown %}}
@@ -146,7 +146,7 @@ Wir helfen dir gerne telefonisch weiter.**
 
 {{< outro   >}}
 {{% markdown center %}}
-# Jetzt rechtsgültig elektronisch signieren!
+## Jetzt rechtsgültig elektronisch signieren!
 Keine Kreditkarte, Eintrittsgebühr oder
 Verpflichtung erforderlich.
 {{% /markdown %}}

@@ -57,7 +57,7 @@ The legal weight of your signature is raised to 100% (QES level)
 
 {{< content text=center top=24 bottom=8 >}}
 {{% markdown %}}
-# Identification sites
+## Identification sites
 Come by and get identified for free. Bring a valid passport
 or your identity card as well as your mobile phone.
 {{% /markdown %}}
@@ -368,7 +368,7 @@ Mo - Su: 08.00 - 21.00
 
 {{< content text=center top=24 width=narrow >}}
 {{% markdown %}}
-# All clear?
+## All clear?
 {{% /markdown %}}
 {{< /content >}}
 
@@ -406,7 +406,7 @@ Personal identification is only required for signing with the highest e-signatur
 
 {{< outro >}}
 {{% markdown center %}}
-# Sign now, legally and electronically!
+## Sign now, legally and electronically!
 No credit card, entrance fee or commitment required.
 {{% /markdown %}}
 

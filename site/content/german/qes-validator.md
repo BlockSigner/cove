@@ -20,7 +20,7 @@ nach Schweizer Recht signiert wurde. *
 {{< content top=6 width=narrow >}}
 {{% markdown %}}
 <small>* funktioniert für QES nach Schweizer Recht, nicht aber nach EU-Recht (eIDAS).</small>
-### So gehst du vor:
+#### So gehst du vor:
 1. **Wähle den Dokument-Typ:**
 Der eigenhändigen Unterschrift gleichgestellte
 qualifizierte elektronische Signatur
@@ -60,7 +60,7 @@ elektronische Signatur (QES)?**
 
 {{< outro   >}}
 {{% markdown center %}}
-# Jetzt rechtsgültig elektronisch signieren!
+## Jetzt rechtsgültig elektronisch signieren!
 Keine Kreditkarte, Eintrittsgebühr oder
 Verpflichtung erforderlich.
 {{% /markdown %}}

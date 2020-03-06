@@ -57,7 +57,7 @@ Cela facilite notre vie quotidienne et celle de nos clients." {{< /testimonial >
 
 {{< content text=center top=12 bottom=8 width=narrow >}}
 {{% markdown %}}
-# À venir
+## À venir
 Notre vision est grande. Nous développons Skribble jour après jour.
 {{% /markdown %}}
 {{< /content >}}
@@ -86,7 +86,7 @@ Notre vision est grande. Nous développons Skribble jour après jour.
 
 {{< outro >}}
 {{% markdown center %}}
-# Signer légalement <br class="hide-for-mobile">et numériquement maintenant!
+## Signer légalement <br class="hide-for-mobile">et numériquement maintenant!
 Aucune carte de crédit, aucun droit d'entrée
 ou engagement n'est requis.
 {{% /markdown %}}

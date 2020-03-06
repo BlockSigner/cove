@@ -18,7 +18,7 @@ e-signatures (AES). The two standards vary in terms of area of application and l
 
 {{< content text=center top=12 width=narrow >}}
 {{% markdown %}}
-# QES: The same legal validity <br class="hide-for-mobile">as signing by hand
+## QES: The same legal validity <br class="hide-for-mobile">as signing by hand
 The all-round carefree signature for the highest demands
 {{% /markdown %}}
 {{< /content >}}
@@ -76,7 +76,7 @@ Check whether a document has been signed with QES
 
 {{< content text=center top=24 width=narrow >}}
 {{% markdown %}}
-# AES: The pragmatic solution <br class="hide-for-mobile">for contracts without <br class="hide-for-mobile">formal requirements
+## AES: The pragmatic solution <br class="hide-for-mobile">for contracts without <br class="hide-for-mobile">formal requirements
 Instantly operational thanks to lower requirements
 {{% /markdown %}}
 {{< /content >}}
@@ -92,7 +92,7 @@ This applies to most types of contracts, such as rental, purchase or mortgage ag
 
 {{< content text=center top=12 bottom=6 width=narrow >}}
 {{% markdown %}}
-## QES vs. AES at a glance
+### QES vs. AES at a glance
 {{% /markdown %}}
 {{< /content >}}
 
@@ -149,7 +149,7 @@ We are happy to help you.**
 
 {{< outro >}}
 {{% markdown center %}}
-# Sign now, legally and electronically!
+## Sign now, legally and electronically!
 No credit card, entrance fee or commitment required.
 {{% /markdown %}}
 

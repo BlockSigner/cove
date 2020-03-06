@@ -46,7 +46,7 @@ legally binding in accordance with Swiss & EU law.
 
 {{< content text=center top=12 width=narrow >}}
 {{% markdown %}}
-# Sign legally in three steps
+## Sign legally in three steps
 {{% /markdown %}}
 {{< /content >}}
 
@@ -54,7 +54,7 @@ legally binding in accordance with Swiss & EU law.
 
 {{< side-by-side top=24 img=image2 mobile-top=12 mobile-bottom=6 img-width=416 img-position=right img-alt="A woman holding a PDF document in her hands and uploading it" >}}
 {{% markdown %}}
-## Upload documents as PDFs
+### Upload documents as PDFs
 Upload the PDF document directly via browser or use Skribble via API from your business software.
 {{% /markdown %}}
 {{< /side-by-side >}}
@@ -63,7 +63,7 @@ Upload the PDF document directly via browser or use Skribble via API from your b
 
 {{< side-by-side bottom=12 mobile-top=6 mobile-bottom=6 img=image3 img-width=400 img-alt="A man invites two people to sign the document" >}}
 {{% markdown %}}
-## Invite people to sign
+### Invite people to sign
 Define the order in which people should sign and invite them by e-mail.
 {{% /markdown %}}
 {{< /side-by-side >}}
@@ -72,7 +72,7 @@ Define the order in which people should sign and invite them by e-mail.
 
 {{< side-by-side top=12 bottom=24 mobile-top=6 mobile-bottom=12 img=image4 img-position=right img-width=391 img-alt="Three people legally sign a document online" >}}
 {{% markdown %}}
-## Sign with legal validity
+### Sign with legal validity
 Sign at the push of a button, independent of time and place, legally valid according to Swiss and EU law.
 {{% /markdown %}}
 {{< /side-by-side >}}
@@ -81,7 +81,7 @@ Sign at the push of a button, independent of time and place, legally valid accor
 
 {{< content text=center top=12 width=narrow >}}
 {{% markdown %}}
-# If you sign with Skribble you save time at work
+## If you sign with Skribble you save time at work
 {{% /markdown %}}
 {{< /content >}}
 
@@ -108,7 +108,7 @@ us and our customers." {{< /testimonial >}}
 
 {{< content top=20 text=center width=narrow >}}
 {{% markdown %}}
-# Skribble complies with legal requirements
+## Skribble complies with legal requirements
 With Skribble you sign legally and securely according
 to the following requirements:
 {{% /markdown %}}
@@ -132,7 +132,7 @@ Skribble and its signing partner Swisscom commit to manage data in accordance wi
 
 {{< content top=24 text=center width=narrow >}}
 {{% markdown %}}
-# Use Skribble to maximise the legal weight of your signature
+## Use Skribble to maximise the legal weight of your signature
 The law distinguishes between qualified e-signatures (QES)
 and advanced e-signatures (AES). The two standards vary in terms
 of area of application and legal weight.
@@ -173,7 +173,7 @@ of area of application and legal weight.
 
 {{< outro >}}
 {{% markdown center %}}
-# Sign now, legally and electronically!
+### Sign now, legally and electronically!
 No credit card, entrance fee or commitment required.
 {{% /markdown %}}
 

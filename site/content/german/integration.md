@@ -21,7 +21,7 @@ technologische Sicherheit und Einfachheit vereint.
 
 {{< content text=center top=12 bottom=8 width=narrow >}}
 {{% markdown %}}
-### Nutze Skribble über den Browser oder integriere die Plattform via API in eure bestehende Softwareumgebung
+#### Nutze Skribble über den Browser oder integriere die Plattform via API in eure bestehende Softwareumgebung
 {{% /markdown %}}
 {{< /content >}}
 
@@ -55,7 +55,7 @@ technologische Sicherheit und Einfachheit vereint.
 
 {{< content text=center top=12 bottom=16 width=narrow >}}
 {{% markdown %}}
-# Mit Skribble arbeitest du auf höchsten Technologie- und Security-Standards
+## Mit Skribble arbeitest du auf höchsten Technologie- und Security-Standards
 {{% /markdown %}}
 {{< /content >}}
 
@@ -98,7 +98,7 @@ Skribble trägt das label
 
 {{< content text=center top=12 bottom=4 width=narrow >}}
 {{% markdown %}}
-# API ausprobieren
+## API ausprobieren
 In deinem Skribble Business Konto kannst du
 einen Demo-Schlüssel erstellen.
 {{% /markdown %}}
@@ -130,7 +130,7 @@ Schau dir unsere API-Dokumentation an.
 
 {{< outro   >}}
 {{% markdown center %}}
-# Jetzt rechtsgültig elektronisch signieren!
+## Jetzt rechtsgültig elektronisch signieren!
 Keine Kreditkarte, Eintrittsgebühr oder
 Verpflichtung erforderlich.
 {{% /markdown %}}

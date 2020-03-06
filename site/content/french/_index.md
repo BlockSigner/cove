@@ -42,7 +42,7 @@ de façon digitale, conformément à la loi suisse et européenne.
 
 {{< content top=12 width=narrow >}}
 {{% markdown %}}
-# Signer légalement en trois étapes
+## Signer légalement en trois étapes
 {{% /markdown %}}
 {{< /content >}}
 
@@ -50,7 +50,7 @@ de façon digitale, conformément à la loi suisse et européenne.
 
 {{< side-by-side top=24 img=image2 mobile-top=12 mobile-bottom=6 img-width=416 img-position=right img-alt="Une femme tenant un document PDF dans ses mains et le téléchargeant" >}}
 {{% markdown %}}
-## Charger un document PDF
+### Charger un document PDF
 Chargez le document PDF à signer directement via votre navigateur ou utilisez Skribble via API depuis votre logiciel de gestion.
 {{% /markdown %}}
 {{< /side-by-side >}}
@@ -59,7 +59,7 @@ Chargez le document PDF à signer directement via votre navigateur ou utilisez S
 
 {{< side-by-side bottom=12 mobile-top=6 mobile-bottom=6 img=image3 img-width=400 img-alt="Un homme invite deux personnes à signer le document" >}}
 {{% markdown %}}
-## Inviter à signer
+### Inviter à signer
 Invitez les signataires par e-mail et définissez l'ordre de signature.
 {{% /markdown %}}
 {{< /side-by-side >}}
@@ -68,7 +68,7 @@ Invitez les signataires par e-mail et définissez l'ordre de signature.
 
 {{< side-by-side top=12 bottom=24 mobile-top=6 mobile-bottom=12 img=image4 img-position=right img-width=391 img-alt="Trois personnes signent légalement ensemble un document en ligne" >}}
 {{% markdown %}}
-## Signer légalement
+### Signer légalement
 Signez par simple pression d'un bouton, indépendamment de l'heure et du lieu, de manière juridiquement valable selon le droit suisse et le droit de l'UE.
 {{% /markdown %}}
 {{< /side-by-side >}}
@@ -77,7 +77,7 @@ Signez par simple pression d'un bouton, indépendamment de l'heure et du lieu, d
 
 {{< content top=12 text=center width=narrow >}}
 {{% markdown %}}
-# En signant avec Skribble, vous gagnez du temps au travail
+## En signant avec Skribble, vous gagnez du temps au travail
 {{% /markdown %}}
 {{< /content >}}
 
@@ -101,7 +101,7 @@ Signez par simple pression d'un bouton, indépendamment de l'heure et du lieu, d
 
 {{< content top=20 text=center width=narrow >}}
 {{% markdown %}}
-# Avec Skribble, vous remplissez <br class="hide-for-mobile">les exigences légales
+## Avec Skribble, vous remplissez <br class="hide-for-mobile">les exigences légales
 Avec Skribble, vous signez légalement et en toute sécurité
 en remplissant les conditions suivantes:
 {{% /markdown %}}
@@ -125,7 +125,7 @@ Skribble et ses partenaires gèrent leurs données conformément à la loi féd�
 
 {{< content top=24 text=center width=narrow >}}
 {{% markdown %}}
-# Utilisez Skribble pour maximiser la force probante de votre signature
+## Utilisez Skribble pour maximiser la force probante de votre signature
 La loi établit une distinction entre les signatures électroniques qualifiées (SEQ)
 et les signatures électroniques avancées (SEA). Les deux normes varient
 en termes de domaine d'application et de force probante. Sur Skribble, vous pouvez choisir entre les deux.
@@ -166,7 +166,7 @@ en termes de domaine d'application et de force probante. Sur Skribble, vous pouv
 
 {{< outro >}}
 {{% markdown center %}}
-# Signer légalement <br class="hide-for-mobile">et numériquement maintenant!
+## Signer légalement <br class="hide-for-mobile">et numériquement maintenant!
 Aucune carte de crédit, aucun droit d'entrée
 ou engagement n'est requis.
 {{% /markdown %}}

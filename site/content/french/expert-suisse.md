@@ -22,7 +22,7 @@ Traiter les processus de signature numériquement &ndash; juridiquement valides 
 
 {{< side-by-side top=24 img=image4 mobile-top=12 mobile-bottom=6 img-width=391 img-position=right img-alt="Trois personnes signent légalement ensemble un document en ligne" >}}
 {{% markdown %}}
-## La signature électronique qualifiée avec Skribble simple, intuitif et efficace
+### La signature électronique qualifiée avec Skribble simple, intuitif et efficace
 
 - **Aucun matériel externe requis**
 Skribble peut être utilisé immédiatement
@@ -37,7 +37,7 @@ Invitations à signer par courriel et rappels
 
 {{< side-by-side top=12 bottom=24 mobile-top=6 mobile-bottom=12 img=image5 img-width=430 img-alt="Une personne tient un document juridique entre ses mains. Le logo de swisscom se trouve à l'arrière-plan" >}}
 {{% markdown %}}
-## Skribble répond aux normes juridiques et technologiques les plus élevées.
+### Skribble répond aux normes juridiques et technologiques les plus élevées.
 
 - **SCSE & eIDAS**
 Certificats SEQ de Swisscom
@@ -52,13 +52,13 @@ Conforme FINMA, certifié ISO 27001
 
 {{< content text=center top=12 bottom=12 width=narrow >}}
 {{% markdown %}}
-# Signature gratuite avec Skribble <br class="hide-for-mobile">jusqu'à la fin de l'année <br class="hide-for-mobile">pour les membres EXPERTsuisse. À partir de janvier 2020
+## Signature gratuite avec Skribble <br class="hide-for-mobile">jusqu'à la fin de l'année <br class="hide-for-mobile">pour les membres EXPERTsuisse. À partir de janvier 2020
 {{% /markdown %}}
 
 {{< picture sav-special 200 "Cercle bleu avec le chiffre 12" >}}
 
 {{% markdown %}}
-## par mois par utilisateur au lieu de CHF 25.-
+### par mois par utilisateur au lieu de CHF 25.-
 Exclusivement pour les membres EXPERTsuisse :
 {{< picture expertsuisse-logo 250 "EXPERTsuisse Logo" >}}
 {{% /markdown %}}
@@ -68,7 +68,7 @@ Exclusivement pour les membres EXPERTsuisse :
 
 {{< side-by-side top=12 bottom=24 img=identification img-width=482 img-position=right img-alt="L'identité d'une femme debout dans un téléphone portable est vérifiée par deux personnes" >}}
 {{% markdown %}}
-# Prêt à signer en 5 minutes
+## Prêt à signer en 5 minutes
 
 Tout ce dont tu as besoin c'est d'un téléphone portable et un document d'identification officiel. (passeport ou carte d'identité)
 
@@ -88,7 +88,7 @@ Un entreprise peut également être qualifié pour le faire, pour identifier les
 
 {{< content text=center top=12 width=narrow >}}
 {{% markdown %}}
-# Est-ce que ça va?
+## Est-ce que ça va?
 {{% /markdown %}}
 {{< /content >}}
 
@@ -122,7 +122,7 @@ une vérification d'identité par identification vidéo.
 
 {{< outro >}}
 {{% markdown center %}}
-# Signez dès à présent électroniquement de manière légalement valide!
+## Signez dès à présent électroniquement de manière légalement valide!
 En savoir plus sur l'offre.
 {{% /markdown %}}
 

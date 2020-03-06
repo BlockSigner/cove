@@ -20,7 +20,7 @@ with a qualified electronic signature (QES) according to Swiss law. *
 {{< content top=6 width=narrow >}}
 {{% markdown %}}
 <small>* works for QES according to Swiss law, but not according to EU law (eIDAS).</small>
-### Here's how to do it:
+#### Here's how to do it:
 1. **Select document type:**
 Qualified electronic signature
 deemed equivalent to handwritten signature
@@ -60,7 +60,7 @@ electronic signature (QES)?**
 
 {{< outro >}}
 {{% markdown center %}}
-# Sign now, legally and electronically!
+## Sign now, legally and electronically!
 No credit card, entrance fee or commitment required.
 {{% /markdown %}}
 

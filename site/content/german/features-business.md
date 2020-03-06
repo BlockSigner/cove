@@ -48,7 +48,7 @@ mit zentraler Mitgliederverwaltung und gemeinsamer Abrechnung.
 
 {{< content text=center top=24 bottom=12 width=narrow >}}
 {{% markdown %}}
-# Skribble Business bettet sich <br class="hide-for-mobile">in deine bestehende Infrastruktur ein
+## Skribble Business bettet sich <br class="hide-for-mobile">in deine bestehende Infrastruktur ein
 Das Onboarding neuer Signierenden ist intuitiv und schnell.
 {{% /markdown %}}
 {{< /content >}}
@@ -79,7 +79,7 @@ den Alltag für uns und unseren Kunden."{{< /testimonial >}}
 
 {{< content text=center top=12 width=narrow >}}
 {{% markdown %}}
-# Organisationsweite Einführung <br class="hide-for-mobile">ist einfach und schnell
+## Organisationsweite Einführung <br class="hide-for-mobile">ist einfach und schnell
 Befähige neue und bestehende Mitarbeitende in kürzester Zeit
 zum elektronischen Signieren. Wähle den Onboarding-Prozess, der zu deinem Anspruch an Beweiskraft bzw. zum gewünschten Signatur-Standard passt.
 {{% /markdown %}}
@@ -89,7 +89,7 @@ zum elektronischen Signieren. Wähle den Onboarding-Prozess, der zu deinem Anspr
 
 {{< side-by-side top=12 bottom=12 img=onboarding-qes-de img-width=380 img-alt="Ein grosser Vertrag (QES) mit einem Gericht" >}}
 {{% markdown %}}
-## Onboarding für die qualifizierte elektronische Signatur (QES)
+### Onboarding für die qualifizierte elektronische Signatur (QES)
 Identifikationsservices für höchste Ansprüche an die Beweiskraft der Signatur.
 Geeignet für Verträge mit Formvorschrift.
 {{% /markdown %}}
@@ -105,7 +105,7 @@ Geeignet für Verträge mit Formvorschrift.
 
 {{< content text=center top=8 bottom=8 width=narrow >}}
 {{% markdown %}}
-# Ideales Kosten-Nutzen-Verhältnis
+## Ideales Kosten-Nutzen-Verhältnis
 Wähle das passende Preismodell für deine Organisation
 {{% /markdown %}}
 {{< /content >}}
@@ -124,7 +124,7 @@ Wähle das passende Preismodell für deine Organisation
 
 {{< outro   >}}
 {{% markdown center %}}
-# Jetzt rechtsgültig elektronisch signieren!
+## Jetzt rechtsgültig elektronisch signieren!
 Keine Kreditkarte, Eintrittsgebühr oder
 Verpflichtung erforderlich.
 {{% /markdown %}}

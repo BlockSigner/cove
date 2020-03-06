@@ -49,7 +49,7 @@ Skribble Business customers sign organised as a group - with
 
 {{< content text=center top=24 bottom=12 width=narrow >}}
 {{% markdown %}}
-# Skribble Business embeds itself into your existing infrastructure
+## Skribble Business embeds itself into your existing infrastructure
 The onboarding of new signers is intuitive and fast.
 {{% /markdown %}}
 {{< /content >}}
@@ -81,7 +81,7 @@ us and our customers." {{< /testimonial >}}
 
 {{< content text=center top=12 width=narrow >}}
 {{% markdown %}}
-# Organisation-wide implementation is simple and fast
+## Organisation-wide implementation is simple and fast
 Enable new and existing employees to sign electronically
 in the shortest possible time. Choose the onboarding process that fits your requirements for legal weight or the desired signature standard.
 {{% /markdown %}}
@@ -91,7 +91,7 @@ in the shortest possible time. Choose the onboarding process that fits your requ
 
 {{< side-by-side top=12 bottom=12 img=onboarding-qes-en img-width=380 img-alt="A large contract (QES) with a court" >}}
 {{% markdown %}}
-## On-Boarding for the qualified electronic signature (QES)
+### On-Boarding for the qualified electronic signature (QES)
 Identification services for highest demands on the legal weight of the signature. Suitable for contracts with formal requirements.
 {{% /markdown %}}
 <br>
@@ -107,7 +107,7 @@ Identification services for highest demands on the legal weight of the signature
 
 {{< content text=center top=8 bottom=8 width=narrow >}}
 {{% markdown %}}
-# Ideal cost-benefit ratio
+## Ideal cost-benefit ratio
 Choose the right pricing model for your organization.
 {{% /markdown %}}
 {{< /content >}}
@@ -126,7 +126,7 @@ Choose the right pricing model for your organization.
 
 {{< outro >}}
 {{% markdown center %}}
-# Sign now, legally and electronically!
+## Sign now, legally and electronically!
 No credit card, entrance fee or commitment required.
 {{% /markdown %}}
 

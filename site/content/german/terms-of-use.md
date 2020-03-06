@@ -12,21 +12,21 @@ description: Nutzungsbedingungen meta description
 
 Diese Nutzungsbedingungen regeln Ihre Verwendung der Skribble Cloud-Lösung (Skribble-Dienste). Diese Nutzungsbedingungen bilden einen verbindlichen Vertrag zwischen Ihnen als Systemnutzer der Skribble-Dienste und Skribble AG, Fraumünsterstrasse 16, 8001 Zürich, Schweiz, respektive Skribble Deutschland GmbH, Pforzheimer Straße 128a, 76275 Ettlingen, Deutschland (Skribble).
 
-### Gegenstand und Geltungsbereich
+#### Gegenstand und Geltungsbereich
 1. Sie nutzen die Skribble-Dienste, weil Sie einen Kundenvertrag (Kundenvertrag) mit Skribble abgeschlossen haben, oder weil Sie von einem Kunde von Skribble als berechtigt identifiziert wurden, die Skribble-Dienste zu nutzen.
 2. Um Dokumente fortgeschritten oder qualifiziert elektronisch zu signieren, wird eine Authentifizierung des Unterzeichnenden und eine durch einen zertifizierten Service, einen sogenannte Anbieter von Zertifizierungsdiensten ("Certification Authority"), erstellte Signatur benötigt. Skribble wird diese beiden Komponenten mit verschiedenen vertrauensvollen Partnern, welche die Anforderungen von ZertES und/oder eIDAS erfüllen, in seinen Service integrieren, um damit auf einfachste Art und Weise eine qualifizierte elektronische Signatur (QES) resp. fortgeschrittene elektronische Signatur (FES) zu erstellen.
 3. Diese Nutzungsbedingungen sind anwendbar auf die Nutzung von Skribble durch Sie als Systemnutzer. Systemnutzer ist, wer einen Account unter den Skribble-Diensten eröffnet.
 4. In Ergänzung zu diesen Nutzungsbedingungen gelten die Datenschutzbedingungen von Skribble, sowie die Bedingungen der Anbieterin von Zertifizierungsdiensten.
 
-### Haftungsausschluss
+#### Haftungsausschluss
 1. Skribble schliesst Ihnen als Systemnutzer gegenüber jegliche Haftung aus.
 2. Eine allfällige Haftung von Skribble gegenüber dem Kunden richtet sich nach dem Kundenvertrag mit dem Kunden.
 3. Skribble ist weder eine Anbieterin von Zertifizierungsdiensten noch eine Anerkennungsstelle im Sinne des Bundesgesetz über die elektronische Signatur (ZertES). Skribble ist ebenfalls kein (qualifizierter) Vertrauensdienstanbieter im Sinne der Verordnung des Europäischen Parlaments und des Rates über elektronische Identifizierung und Vertrauensdienste für elektronische Transaktionen im Binnenmarkt (eIDAS Nr. 910/2014). Skribble schliesst deshalb auch jegliche Haftung für Schäden aus, deren Ursache hauptsächlich oder ausschliesslich im Zusammenhang mit den Leistungen der Anbieterin von Zertifizierungsdiensten oder der Anerkennungsstelle stehen.
 
-### Lizenz
+#### Lizenz
 1. Vorbehaltlich der Bedingungen dieser Nutzungsbedingungen gewährt Ihnen Skribble hiermit eine persönliche, begrenzte, nicht ausschliessliche, nicht übertragbare, nicht unterlizenzierbare Lizenz für die Nutzung der Skribble-Dienste.
 
-### Allgemeine Regeln im Umgang mit dem Account
+#### Allgemeine Regeln im Umgang mit dem Account
 1. Jeder Systemnutzer ist verpflichtet, Informationen und persönliche Daten vertraulich zu behandeln und dafür zu sorgen, dass diese vor Einblicken Dritter geschützt sind. Der Systemnutzer verpflichtet sich, entsprechende Vorkehrungen bei der Verwendung von Fest- und Mobilgeräten sowie Ausdrucken von Skribble-Inhalten vorzunehmen und zu berücksichtigen.
 2. Systemnutzer verpflichten sich, ihre Login-Daten zu jeder Zeit geheim zu halten, damit keine unberechtigten Personen Zugang zu den Skribble-Diensten erhalten.
 3. Weder der Kunde noch Systemnutzer dürfen Massnahmen treffen, welche die Funktionalität von den Skribble-Diensten und ihre Verbindung zu Nutzern, Hosts oder Netzwerken beeinträchtigen.
@@ -43,7 +43,7 @@ Diese Nutzungsbedingungen regeln Ihre Verwendung der Skribble Cloud-Lösung (Skr
 
 {{% markdown %}}
 {{% center %}}
-## ***
+### ***
 {{% / center %}}
 {{% /markdown %}}
 
@@ -53,7 +53,7 @@ Diese Nutzungsbedingungen regeln Ihre Verwendung der Skribble Cloud-Lösung (Skr
 
 {{< outro   >}}
 {{% markdown center %}}
-# Jetzt rechtsgültig elektronisch signieren!
+## Jetzt rechtsgültig elektronisch signieren!
 Keine Kreditkarte, Eintrittsgebühr oder
 Verpflichtung erforderlich.
 {{% /markdown %}}

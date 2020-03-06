@@ -22,7 +22,7 @@ Easily handle digital signature processes – legally binding in accordance with
 
 {{< side-by-side top=24 bottom=12 img=image4 mobile-top=12 mobile-bottom=6 img-width=391 img-position=right img-alt="Three people legally sign an online document together" >}}
 {{% markdown %}}
-## The qualified electronic signature is simple, intuitive and efficient with Skribble.
+### The qualified electronic signature is simple, intuitive and efficient with Skribble.
 
 - **No external hardware required**
 Skribble can be used immediately
@@ -37,7 +37,7 @@ Invite and remind to sign by e-mail
 
 {{< side-by-side top=12 bottom=12 mobile-top=6 mobile-bottom=6 img=image5 img-width=430 img-alt="A person holds a legal document in their hands. The Swisscom logo is in the background" >}}
 {{% markdown %}}
-## Skribble meets the highest legal and technological standards
+### Skribble meets the highest legal and technological standards
 
 - **ZertEs & eIDAS**
 QES certificates from Swisscom
@@ -52,13 +52,13 @@ FINMA-compliant, ISO 27001 certified
 
 {{< content text=center top=12 bottom=18 width=narrow >}}
 {{% markdown %}}
-# SAV-FSA members use Skribble at a preferential price
+SAV-FSA members use Skribble at a preferential price
 {{% /markdown %}}
 
 {{< picture sav-special 200 "Blue circle with the number 12" >}}
 
 {{% markdown center %}}
-## per month / user instead of CHF 25.00
+### per month / user instead of CHF 25.00
 Signatures can also be obtained independently of the user.
 {{% /markdown %}}
 {{< /content >}}
@@ -67,7 +67,7 @@ Signatures can also be obtained independently of the user.
 
 {{< side-by-side top=24 bottom=12 img=identification mobile-top=12 mobile-bottom=6 img-width=482 img-alt="The identity of a woman standing in a mobile phone is verified by two persons" >}}
 {{% markdown %}}
-# Ready to sign in 5 minutes
+## Ready to sign in 5 minutes
 
 All you need is a mobile phone and a valid identification document (passport or identity card).
 
@@ -87,7 +87,7 @@ A law firm may also elect to identify persons itself.
 
 {{< outro >}}
 {{% markdown center %}}
-# Sign now, legally and electronically!
+## Sign now, legally and electronically!
 Learn more about the offer.
 {{% /markdown %}}
 
