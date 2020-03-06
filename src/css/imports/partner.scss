@@ -31,6 +31,15 @@ $partner-width: 140px;
     margin: 10px;
     border-radius: 4px;
     background-color: #fff;
+    text-decoration: none;
+    transition: box-shadow .36s cubic-bezier(.4, 0, .2, 1);
+    &:hover {
+      @include skribble-shadow-hover;
+    }
+
+    img {
+      pointer-events: none;
+    }
   }
 
   &__label {
