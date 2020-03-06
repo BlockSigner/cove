@@ -2,7 +2,7 @@
   @include markdown-styling;
 
   &:not(.markdown--legal) {
-    h1, h2, h3, h4, p {
+    h1, h2, h3, h4, h5 p {
       &:first-child {
         margin-top: 0;
       }
