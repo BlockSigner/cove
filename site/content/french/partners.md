@@ -11,8 +11,8 @@ og_image: "TODO:"
 {{< content text=center top=16 bottom=8 width=narrow >}}
 {{% markdown %}}
 # Ensemble, nous faisons plus
-Nous croyons en la puissance des écosystèmes forts. 
-C'est pourquoi nous travaillons avec des partenaires compétents, 
+Nous croyons en la puissance des écosystèmes forts.
+C'est pourquoi nous travaillons avec des partenaires compétents,
 qui partagent nos valeurs et nos objectifs.
 {{% /markdown %}}
 {{< /content >}}

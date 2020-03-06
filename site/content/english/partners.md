@@ -2,7 +2,7 @@
 title: "TODO:"
 description: "TODO:"
 draft: false
-slug: partenaire
+slug: partners
 # opengraph image (for facebook and twitter)
 og_image: "TODO:"
 
@@ -11,8 +11,8 @@ og_image: "TODO:"
 {{< content text=center top=16 bottom=8 width=narrow >}}
 {{% markdown %}}
 # Together we achieve more
-We believe in the power of strong ecosystems. 
-That is why we work together with competent partners, 
+We believe in the power of strong ecosystems.
+That is why we work together with competent partners,
 who share our values and goals.
 {{% /markdown %}}
 {{< /content >}}

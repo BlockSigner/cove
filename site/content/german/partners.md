@@ -11,8 +11,8 @@ og_image: "TODO:"
 {{< content text=center top=16 bottom=8 width=narrow >}}
 {{% markdown %}}
 # Gemeinsam erreichen wir mehr
-Wir glauben an die Kraft starker Ökosysteme. 
-Deshalb arbeiten wir mit kompetenten Partnern zusammen, 
+Wir glauben an die Kraft starker Ökosysteme.
+Deshalb arbeiten wir mit kompetenten Partnern zusammen,
 die unsere Werte und Ziele teilen.
 {{% /markdown %}}
 {{< /content >}}
