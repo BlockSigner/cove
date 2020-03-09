@@ -110,10 +110,21 @@ Wie wir den Alltag unserer Kunden erleichtern.
 {{% /markdown %}}
 {{< /content >}}
 
-{{< testimonial "testimonial/altenburger-logo-202w.svg" " Roland Köchli, Partner Altenburger Legal + Tax" >}}
-„Die Anwendung von Skribble bringt uns
-der kompletten Digitalisierung von Prozessen einen riesigen Schritt näher."
+{{< testimonial "testimonial/altenburger-152w.svg" "Roland Köchli, Partner Altenburger Legal + Tax" >}}
+„Das ständige Ausdrucken von Dokumenten und Einholen von Unterschriften kostet uns viel Zeit und Geld. Skribble hat die perfekte Lösung, die uns einer kompletten Digitalisierung aller Prozesse einen riesigen Schritt näher bringt."
 {{< /testimonial >}}
+
+{{< cta
+  label="Download Use-Case"
+  href="https://cdn2.hubspot.net/hubfs/5051692/Factstheets/Use%20Cases/Altenburger_Skribble_Use-Case_DE.pdf"
+  outlined="true"
+  target="_blank"
+>}}
+
+{{% markdown %}}
+**Lade den Altenburger Use-Case herunter:**
+{{% /markdown %}}
+{{< /cta >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 

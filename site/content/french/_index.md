@@ -29,12 +29,13 @@ de façon digitale, conformément à la loi suisse et européenne.
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< logos-container top=12 bottom=24 title="Confié par:">}}
-  {{< logos-item src="logos/canon-logo-142w.svg" alt="Canon">}}
-  {{< logos-item src="logos/baggenstoss-logo-205w.svg" alt="Baggenstoss">}}
+{{< logos-container top=12 bottom=24 width=wide title="Confié par:">}}
+  {{< logos-item src="logos/canon-142w.svg" alt="Canon">}}
+  {{< logos-item src="logos/baggenstos-205w.svg" alt="Baggenstoss">}}
   {{< logos-line-break >}}
-  {{< logos-item src="logos/easyjet-logo-161w.svg" alt="EasyJet">}}
-  {{< logos-item src="logos/altenburger-logo-202w.svg" alt="Altenburger Legal">}}
+  {{< logos-item src="logos/easyjet-161w.svg" alt="EasyJet">}}
+  {{< logos-item src="logos/altenburger-204w.svg" alt="Altenburger Legal">}}
+  {{< logos-item src="logos/wincasa-185w.svg" alt="Wincasa">}}
 {{< /logos-container >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)

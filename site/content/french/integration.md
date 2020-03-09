@@ -12,7 +12,7 @@ og_image: og/og-skribble-identification.jpg
 {{< content text=center top=12 bottom=8 width=narrow >}}
 {{% markdown %}}
 # Intégration de Skribble
-Avec Skribble, vous choisissez une plate-forme de cloud
+Avec Skribble, vous choisissez une plate-forme en ligne
 qui allie sécurité technologique et simplicité.
 {{% /markdown %}}
 {{< /content >}}

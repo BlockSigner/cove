@@ -82,14 +82,6 @@ les solutions sectorielles**
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< testimonial "testimonial/e-forsight-146w.png" "Think tank e-foresight" >}}
-"Skribble offre une solution conviviale
-pour des signatures électroniques
-qualifiées en Suisse."
-{{< /testimonial >}}
-
-[//]: # (--------------------------------------------------------------------------------------------------------------)
-
 {{< content text=center top=12 width=narrow >}}
 {{% markdown %}}
 # Avec Skribble, vous répondez aux exigences des procédures légales
@@ -111,6 +103,31 @@ La signature électronique qualifiée (SEQ) de Skribble équivaut à la signatur
 Skribble et ses partenaires gèrent leurs données conformément à la loi fédérale sur la protection des données (LPD) et au réglement européen sur la protection des données (RGPD) et les hébergent en Suisse conformément aux normes bancaires.
 {{% /collapsible %}}
 {{< /content >}}
+
+[//]: # (--------------------------------------------------------------------------------------------------------------)
+
+{{< content text=center top=24 width=narrow >}}
+{{% markdown %}}
+# Nos clients s'amusent bien
+Comment nous, chez Skribble, facilitons la vie quotidienne de nos clients.
+{{% /markdown %}}
+{{< /content >}}
+
+{{< testimonial "testimonial/altenburger-152w.svg" "Roland Köchli, partenaire Altenburger Legal + Tax" >}}
+"L'impression constante de documents et l'obtention de signatures nous coûtent beaucoup de temps et d'argent. La solution de Skribble est parfaite, car elle nous rapproche d'un pas de géant vers une numérisation complète de tous les processus".
+{{< /testimonial >}}
+
+{{< cta
+  label="Télécharger le cas d'utilisation"
+  href="https://cdn2.hubspot.net/hubfs/5051692/Factstheets/Use%20Cases/Altenburger_Skribble_Use-Case_FR.pdf"
+  outlined="true"
+  target="_blank"
+>}}
+
+{{% markdown %}}
+**Téléchargez le cas d'utilisation Altenburger :**
+{{% /markdown %}}
+{{< /cta >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 

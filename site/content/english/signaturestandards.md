@@ -118,7 +118,7 @@ This applies to most types of contracts, such as rental, purchase or mortgage ag
 </tr>
 
 <tr>
-<td><div class="icon-fes">FES</div></td>
+<td><div class="icon-fes">AES</div></td>
 <td><strong>High</strong></td>
 <td><ul><li>Swiss mobile phone number</li></ul></td>
 <td><ul><li>Contracts without formal requirement</li></ul></td>

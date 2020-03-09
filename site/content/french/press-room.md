@@ -53,6 +53,7 @@ Les atouts les plus importants de Skribble sont à portée de main :
 {{< /cta >}}
 
 {{< table top=12 width=narrow title="Communiqués de presse" >}}
+
 <tr>
   <td>19.09.2019</td>
   <td><strong>EXPERTsuisse cooperates with Skribble (en allemand)</strong></td>
@@ -107,6 +108,13 @@ Les atouts les plus importants de Skribble sont à portée de main :
 {{< /table >}}
 
 {{< table top=18 width=narrow title="Skribble dans les médias (sélection)" >}}
+<tr>
+  <td style="width:10%;">01.02.2020</td>
+  <td style="width:80%;"><strong>Swiss IT Magazine - Signer numériquement des contrats  (en allemand)</strong></td>
+  <td style="width:10%;">
+    <a href="downloads/20200230_Swiss-IT-Magazin.pdf" target="_blank">Download</a>
+  </td>
+</tr>
 <tr>
   <td style="width:10%;">15.11.2019</td>
   <td style="width:80%;"><strong>Der Organisator - KMU Digital (en allemand)</strong></td>

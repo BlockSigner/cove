@@ -107,6 +107,13 @@ Die wichtigsten Skribble Branding Assets sind gleich hier griffbereit:
 
 {{< table top=18 width=narrow title="Skribble in den Medien (Auswahl)" >}}
 <tr>
+  <td style="width:10%;">01.02.2020</td>
+  <td style="width:80%;"><strong>Swiss IT Magazine - Verträge digital zeichnen</strong></td>
+  <td style="width:10%;">
+    <a href="downloads/20200230_Swiss-IT-Magazin.pdf" target="_blank">Download</a>
+  </td>
+</tr>
+<tr>
   <td style="width:10%;">15.11.2019</td>
   <td style="width:80%;"><strong>Der Organisator - KMU Digital</strong></td>
   <td style="width:10%;">

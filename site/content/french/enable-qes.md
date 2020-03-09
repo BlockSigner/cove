@@ -56,39 +56,6 @@ La force probante de votre signature est portée à 100% (niveau SEQ)
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< content text=center top=12 width=narrow >}}
-{{% markdown %}}
-# Tout va bien?
-{{% /markdown %}}
-{{% /content %}}
-
-{{< content top=6 width=narrow >}}
-{{% collapsible 1 "Que m'apporte l'identification?" %}}
-Sur Skribble, vous avez la possibilité de signer avec [la plus haute norme de signature électronique](/fr/normessignature) disponible: la signature électronique qualifiée (SEQ).
-Elle a une force probante de 100% et peut être utilisée pour les contrats qui nécessitent la forme écrite. Pour la SEQ, la loi exige un contrôle d'identité.
-{{% /collapsible %}}
-
-{{% collapsible 2 "Dois-je être identifié à nouveau avant chaque signature SEQ?" %}}
-Non. Votre e-ID est valable 5 ans ou jusqu'à l'expiration de la pièce d'identité que vous avez présentée lors de votre identification.
-{{% /collapsible %}}
-
-{{% collapsible 3 "Quels documents d'identité puis-je utiliser pour l'identification ?" %}}
-Un passeport ou une carte d'identité en cours de validité. Toutes les autres formes d'identification telles que le permis de séjour ou le permis de conduire
-ne sont pas suffisantes.
-{{% /collapsible %}}
-
-{{% collapsible 4 "Où sont stockées les données des personnes identifiées?" %}}
-Les données collectées sont stockées sur les serveurs haute sécurité
-de Swisscom en Suisse (certification Tier IV).
-{{% /collapsible %}}
-
-{{% collapsible 5 "Le QSE nécessite-t-elle un Mobile ID?" %}}
-Non. Mais avec un Mobile ID, la signature est plus rapide et plus facile, c'est pourquoi nous vous le recommandons. Sur Mobile-ID.ch, vous pouvez vérifier si votre smartphone possède déjà un Mobile ID et si la fonction est déjà activée. Si tel n'est pas le cas, une nouvelle carte SIM avec Mobile ID peut être commandée gratuitement auprès de la plupart des fournisseurs.
-{{% /collapsible %}}
-{{< /content >}}
-
-[//]: # (--------------------------------------------------------------------------------------------------------------)
-
 {{< content text=center top=24 bottom=8 >}}
 {{% markdown %}}
 # Sites d'identification
@@ -122,8 +89,8 @@ Route de Matran 9
 CH-1754 Avry
 
 **Horaires d'ouverture:**
-Mo - Fr: 08.30 - 19.00
-Do: 08.30 - 21.00
+Lu - Ve: 08.30 - 19.00
+Je: 08.30 - 21.00
 Sa: 09.00 - 16.00
 {{% /markdown %}}
 {{< /cta >}}
@@ -207,7 +174,7 @@ Route de Riaz 18
 CH-1630 Bulle
 
 **Horaires d'ouverture:**
-Mo - Fr: 09.00 - 18.30
+Lu - Ve: 09.00 - 18.30
 Sa: 09.00 - 16.00
 {{% /markdown %}}
 {{< /cta >}}
@@ -238,11 +205,102 @@ Avenue de la Gare 22
 CH-1700 Fribourg
 
 **Horaires d'ouverture:**
-Mo - Fr: 08.30 - 19.00
-Do: 08.30 - 21.00
+Lu - Ve: 08.30 - 19.00
+Je: 08.30 - 21.00
 Sa: 09.00 - 16.00
 {{% /markdown %}}
 {{< /cta >}}
+
+[//]: # (--------------------------------------------------------------------------------------------------------------)
+
+{{< cta-group >}}
+{{< cta
+  title="Lenzerheide"
+  label="079 292 45 23"
+  href="tel: +41 79 292 45 23"
+  target="_blank"
+  class="id-site"
+  outlined="true"
+  icon="phone"
+>}}
+
+
+{{< picture
+  name="map-crativ"
+  w="120"
+  alt="Crativ GmbH, Voa Crapera 1, CH-7078 Lenzerheide"
+  href="https://goo.gl/maps/y7XYmYNUtVvfQn7s9"
+  target="_target"
+>}}
+
+{{% markdown %}}
+**Crativ GmbH**
+Voa Crapera 1
+CH-7078 Lenzerheide
+
+**Horaires d'ouverture:**
+Lu - Ve: 09.00 - 17.30
+{{% /markdown %}}
+{{< /cta >}}
+{{< /cta-group >}}
+
+[//]: # (--------------------------------------------------------------------------------------------------------------)
+
+{{< cta-group >}}
+{{< cta
+  title="Lugano"
+  label="091 910 42 00"
+  href="tel: +41 91 910 42 00"
+  target="_blank"
+  class="id-site"
+  outlined="true"
+  icon="phone"
+>}}
+
+{{< picture
+  name="map-moor-lugano"
+  w="120"
+  alt="Avv. Jonathan Moor, Via Luigi Lavizzari 2A (PT), CH-6900 Lugano"
+  href="https://goo.gl/maps/WqiBxRXAQbR8cPSz7"
+  target="_target"
+>}}
+
+{{% markdown %}}
+**Avv. Jonathan Moor**
+Via Luigi Lavizzari 2A (PT)
+CH-6900 Lugano
+
+{{% /markdown %}}
+{{< /cta >}}
+{{< /cta-group >}}
+
+[//]: # (--------------------------------------------------------------------------------------------------------------)
+
+{{< cta-group >}}
+{{< cta
+  title="Poschiavo"
+  label="Organiser un rendez-vous E-ID"
+  href="https://outlook.office365.com/owa/calendar/dynamicstudioGmbH@dynamicstudio.ch/bookings/s/WhXP-1R6j0ekT5-ZFXHihg2"
+  target="_blank"
+  class="id-site"
+  outlined="true"
+>}}
+
+{{< picture
+  name="map-dynamicstudio"
+  w="120"
+  alt="Dynamicstudio GmbH, Via da Mezz 42A, CH-7742 Poschiavo"
+  href="https://g.page/dynamicstudio-gmbh?share"
+  target="_target"
+>}}
+
+{{% markdown %}}
+**Dynamicstudio GmbH**
+Via da Mezz 42A
+CH-7742 Poschiavo
+{{% /markdown %}}
+{{< /cta >}}
+{{< /cta-group >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
@@ -272,7 +330,71 @@ CH-8001 Zurich
 {{% /markdown %}}
 {{< /cta >}}
 
+{{< cta
+  label="044 651 10 92"
+  href="tel: +41 44 651 10 92"
+  target="_blank"
+  class="id-site"
+  outlined="true"
+  icon="phone"
+>}}
+
+{{< picture
+  name="map-swisscom-zhr-flughafen"
+  w="120"
+  alt="Swisscom Shop Flughafen Zürich, Airport Shopping Center, Checkin 3, Flughafenstrasse 3, CH-8302 Kloten"
+  href="https://goo.gl/maps/SMzA9wBurJAZe3E76"
+  target="_blank"
+>}}
+
+{{% markdown %}}
+**Swisscom Shop 
+Flughafen Zürich**
+Airport Shopping Center
+Check-in 3
+Flughafenstrasse 3
+CH-8302 Kloten
+
+**Horaires d'ouverture:**
+Lu - Di: 08.00 - 21.00
+{{% /markdown %}}
+{{< /cta >}}
+
 {{< /cta-group >}}
+
+
+[//]: # (--------------------------------------------------------------------------------------------------------------)
+
+{{< content text=center top=12 width=narrow >}}
+{{% markdown %}}
+# Tout va bien?
+{{% /markdown %}}
+{{% /content %}}
+
+{{< content top=6 width=narrow >}}
+{{% collapsible 1 "Que m'apporte l'identification?" %}}
+Sur Skribble, vous avez la possibilité de signer avec [la plus haute norme de signature électronique](/fr/normessignature) disponible: la signature électronique qualifiée (SEQ).
+Elle a une force probante de 100% et peut être utilisée pour les contrats qui nécessitent la forme écrite. Pour la SEQ, la loi exige un contrôle d'identité.
+{{% /collapsible %}}
+
+{{% collapsible 2 "Dois-je être identifié à nouveau avant chaque signature SEQ?" %}}
+Non. Votre e-ID est valable 5 ans ou jusqu'à l'expiration de la pièce d'identité que vous avez présentée lors de votre identification.
+{{% /collapsible %}}
+
+{{% collapsible 3 "Quels documents d'identité puis-je utiliser pour l'identification ?" %}}
+Un passeport ou une carte d'identité en cours de validité. Toutes les autres formes d'identification telles que le permis de séjour ou le permis de conduire
+ne sont pas suffisantes.
+{{% /collapsible %}}
+
+{{% collapsible 4 "Où sont stockées les données des personnes identifiées?" %}}
+Les données collectées sont stockées sur les serveurs haute sécurité
+de Swisscom en Suisse (certification Tier IV).
+{{% /collapsible %}}
+
+{{% collapsible 5 "Le QSE nécessite-t-elle un Mobile ID?" %}}
+Non. Mais avec un Mobile ID, la signature est plus rapide et plus facile, c'est pourquoi nous vous le recommandons. Sur Mobile-ID.ch, vous pouvez vérifier si votre smartphone possède déjà un Mobile ID et si la fonction est déjà activée. Si tel n'est pas le cas, une nouvelle carte SIM avec Mobile ID peut être commandée gratuitement auprès de la plupart des fournisseurs.
+{{% /collapsible %}}
+{{< /content >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 

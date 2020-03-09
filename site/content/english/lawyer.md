@@ -80,13 +80,6 @@ industry software solutions**
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< testimonial "testimonial/e-forsight-146w.png" "e-foresight Think Tank" >}}
-"Skribble offers a customer-friendly
-solution for qualified electronic signatures in Switzerland."
-{{< /testimonial >}}
-
-[//]: # (--------------------------------------------------------------------------------------------------------------)
-
 {{< content text=center top=24 width=narrow >}}
 {{% markdown %}}
 # Skribble complies with the legal requirements for court processes
@@ -108,6 +101,31 @@ The qualified electronic signature (QES) available on Skribble is equivalent to 
 Skribble and its signing partner Swisscom commit to manage data in accordance with the Federal Act on Data Protection (FADP) and the General Data Protection Regulation (GDPR). Moreover, all data is hosted in Switzerland according to banking standards.
 {{% /collapsible %}}
 {{< /content >}}
+
+[//]: # (--------------------------------------------------------------------------------------------------------------)
+
+{{< content text=center top=24 width=narrow >}}
+{{% markdown %}}
+# Our customers have a good time
+How we at Skribble make everyday life easier for our customers.
+{{% /markdown %}}
+{{< /content >}}
+
+{{< testimonial "testimonial/altenburger-152w.svg" "Roland Köchli, Partner Altenburger Legal + Tax" >}}
+"Constantly printing out documents and running after signatures costs us a lot of time and money. Skribble has the perfect solution that brings us a giant step closer to a complete digitalisation of all processes".
+{{< /testimonial >}}
+
+{{< cta
+  label="Download use case"
+  href="https://cdn2.hubspot.net/hubfs/5051692/Factstheets/Use%20Cases/Altenburger_Skribble_Use-Case_EN.pdf"
+  outlined="true"
+  target="_blank"
+>}}
+
+{{% markdown %}}
+**Download the Altenburger use case:**
+{{% /markdown %}}
+{{< /cta >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
