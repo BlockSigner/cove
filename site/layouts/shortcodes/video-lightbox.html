@@ -1,13 +1,24 @@
-<div>
-  Blah Blah
-  <a href="https://vimeo.com/115041822" class="glightbox2">
-    <img src="small.jpg" alt="image">
-  </a>
-</div>
+<a href="https://www.youtube.com/watch?v=25bPfgO-RYs" class="glightbox">
+  <img src="/logo-skribble.svg" alt="image">
+</a>
 
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/glightbox/dist/css/glightbox.min.css">
-<script src="https://cdn.jsdelivr.net/gh/mcstudios/glightbox/dist/js/glightbox.min.js"></script>
- 
-<!-- <script type="text/javascript">
-    const lightbox = GLightbox({ ...options });
-</script>  -->
+<script>
+  const lightbox = GLightbox({
+    plyr: {
+        css: 'https://cdn.plyr.io/3.5.6/plyr.css', // Default not required to include
+        js: 'https://cdn.plyr.io/3.5.6/plyr.js', // Default not required to include
+        ratio: '16:9',
+        config: {
+            muted: false,
+            hideControls: true,
+            youtube: {
+                noCookie: true,
+                controls: 0,
+                rel: 0,
+                showinfo: 0,
+                iv_load_policy: 3
+            }
+        }
+    }
+});
+</script>
