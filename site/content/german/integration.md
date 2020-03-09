@@ -120,8 +120,7 @@ einen Demo-Schlüssel erstellen.
 
 {{% markdown %}}
 **API-Dokumentation**<br>
-Schau dir unsere API-Dokumentation an.
-(auf Englisch)
+Schau dir unsere API-Dokumentation an. (auf Englisch)
 {{% /markdown %}}
 {{< /cta >}}
 {{< /cta-group >}}

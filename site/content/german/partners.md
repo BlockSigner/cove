@@ -29,15 +29,15 @@ die unsere Werte und Ziele teilen.
 
 {{< partners bottom=12 >}}
   {{< partner field=Signieren img=partner-swisscom href=https://trustservices.swisscom.com/ img-width=73 img-alt=Swisscom >}}
-  {{< partner field=Identifikation img=partner-procivis href=https://procivis.ch/ img-width=118 img-alt=Procivis >}}
+  {{< partner field=Identifikation img=partner-procivis href=https://procivis.ch/de/ img-width=118 img-alt=Procivis >}}
   {{< partner field=Hosting img=partner-vshn img-width=77 href=https://vshn.ch/ img-alt=VSHN >}}
   {{< partner field=Netzwerk img=partner-expert-suisse href=https://www.expertsuisse.ch/ img-width=118 img-alt=Expert-Suisse >}}
-  {{< partner field=Integration img=partner-softcom href=https://softcom.pro/ img-width=80 img-alt=Softcom >}}
+  {{< partner field=Integration img=partner-softcom href=https://softcom.pro/?lang=de img-width=80 img-alt=Softcom >}}
   {{< partner field="Sofware & Integration" img=partner-fidentity href=https://www.fidentity.ch/ img-width=118 img-alt=Fidentity >}}
   {{< partner field=Hosting img=partner-spectas href=https://www.spectas.ch/ img-width=76 img-alt=Spectas >}}
-  {{< partner field="Identifikation & Integration" img=partner-elca href=https://www.elca.ch/ img-width=66 img-alt=ELCA >}}
+  {{< partner field="Identifikation & Integration" img=partner-elca href=https://www.elca.ch/de img-width=66 img-alt=ELCA >}}
   {{< partner field=Netzwerk img=partner-swiss-made href=https://www.swissmadesoftware.org/ img-width=100 img-alt=Swissmadesoftware >}}
-  {{< partner field=Netzwerk img=partner-sav-fsa href=https://www.sav-fsa.ch/ img-width=110 img-alt=SAV-FSA >}}
+  {{< partner field=Netzwerk img=partner-sav-fsa href=https://www.sav-fsa.ch/de/home.html img-width=110 img-alt=SAV-FSA >}}
 {{< /partners >}}
 
 
