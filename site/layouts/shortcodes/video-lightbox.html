@@ -1,24 +1,27 @@
-<a href="https://www.youtube.com/watch?v=25bPfgO-RYs" class="glightbox">
-  <img src="/logo-skribble.svg" alt="image">
-</a>
-
-<script>
-  const lightbox = GLightbox({
-    plyr: {
-        css: 'https://cdn.plyr.io/3.5.6/plyr.css', // Default not required to include
-        js: 'https://cdn.plyr.io/3.5.6/plyr.js', // Default not required to include
-        ratio: '16:9',
-        config: {
-            muted: false,
-            hideControls: true,
-            youtube: {
-                noCookie: true,
-                controls: 0,
-                rel: 0,
-                showinfo: 0,
-                iv_load_policy: 3
-            }
-        }
-    }
-});
-</script>
+<div class="picture">
+  <a href="https://www.youtube.com/embed/{{.Get "vid-youtubeid"}}?rel=0"
+  data-mediabox="my-gallery-name"
+	data-iframe="true"
+	data-width={{.Get "vid-width"}}
+	data-height={{.Get "vid-height"}}
+	data-title={{.Get "vid-description"}}>
+    {{ $width_x2 := mul (int (.Get "pic-width")) 2 }}
+      <picture>
+        <source
+          type="image/webp"
+          srcset="image/{{.Get "pic-name"}}-{{.Get "pic-width"}}w.webp {{.Get "pic-width"}}w, image/{{.Get "pic-name"}}-{{$width_x2}}w.webp {{$width_x2}}w"
+          sizes="(max-width: 767px) 100vw, 620px"
+        />
+        <source
+          type="image/jpeg"
+          srcset="image/{{.Get "pic-name"}}-{{.Get "pic-width"}}w.jpg {{.Get "pic-width"}}w, image/{{.Get "pic-name"}}-{{$width_x2}}w.jpg {{$width_x2}}w"
+          sizes="(max-width: 767px) 100vw, 620px"
+        />
+        <img
+          src="image/{{.Get "pic-name"}}-{{.Get "pic-width"}}w.jpg"
+          alt="{{ .Get "pic-alt" }}"
+          style="width:{{ .Get "pic-width" }}px;"
+        />
+      </picture>
+    </a>
+</div>
