@@ -5,63 +5,114 @@
 
   <main class="main" style="padding-left: 24px; padding-right: 24px">
     <div class="status__header">
-      <img id="status-header-image"/>
+      <img id="status-header-image" />
       <h1 id="status-header-title"></h1>
       <p id="status-header-text"></p>
     </div>
-    
+
     <div class="status__table status-table">
       <ul class="status__list" id="status-list">
 
       </ul>
     </div>
 
+    <div class="incidents__table incidents-table">
+      <ul class="incidents__list" id="incidents-list">
+
+      </ul>
+    </div>
+
     <script>
-      var request = new XMLHttpRequest();
+      const statusApi = "https://status.skribble.com/api/v1/";
 
-      request.onload = function () {
-        if (request.status >= 200 && request.status < 300) {
-          let response = JSON.parse(request.responseText);
-          let overallStatus = 1;
-          response.data.forEach((item) => {
-            let li = document.createElement('div');
-            li.innerHTML = `<div class="status-table__label">${item.name}</div><div class="status-table__status">${item.status}</div>`;
-            li.setAttribute('class', 'status-table__item');
-            document.getElementById('status-list').appendChild(li);
-            if ([2,3].includes(item.status)){
-              if(overallStatus < 4){
-                overallStatus = 3;
-              }
-            } else if ([4].includes(item.status)){
-              overallStatus = item.status;
-            }
-          });
-
-          let image = document.getElementById("status-header-image");
-          let title = document.getElementById("status-header-title");
-          let text = document.getElementById("status-header-text");
-
-          if (overallStatus === 1){
-            image.src = "";
-            title.textContent = "Skribble is up and running";
-            text.innerHTML = "Having trouble? Check our help center or e-mail us at <a href=\"mailto:support@skribble.com\">support@skribble.com</a>";
-          } else if (overallStatus === 3){
-            image.src = "";
-            title.textContent = "Skribble has limited service";
-            text.innerHTML = "We are investigating issues with the „signing platform” and will provide updates here soon.";
-          } else if (overallStatus == 4){
-            image.src = "";
-            title.textContent = "Skribble has a service outage";
-            text.innerHTML = "We are investigating issues with the „signing platform” and will provide updates here soon.";
+      function generateComponentStatus() {
+        var componentRequest = new XMLHttpRequest();
+        componentRequest.onload = function () {
+          if (componentRequest.status >= 200 && componentRequest.status < 300) {
+            showComponentStatus(componentRequest.responseText);
+          } else {
+            console.log("The ComponentRequest failed!");
           }
+        };
+        componentRequest.open("GET", statusApi + "components");
+        componentRequest.send();
+      }
 
-        } else {
-          console.log('The request failed!');
+      function showComponentStatus(statusJsonText) {
+        let statusResult = JSON.parse(statusJsonText);
+        let overallStatus = 1;
+        statusResult.data.forEach((item) => {
+          createComponentListEntry(item.name, item.status);
+          if ([2, 3].includes(item.status)) {
+            if (overallStatus < 4) {
+              overallStatus = 3;
+            }
+          } else if ([4].includes(item.status)) {
+            overallStatus = item.status;
+          }
+        });
+        createHeaderForOverallStatus(overallStatus);
+
+      }
+
+      function createComponentListEntry(name, status) {
+        let li = document.createElement('div');
+        li.innerHTML = `<div class="status-table__label">${name}</div><div class="status-table__status">${status}</div>`;
+        li.setAttribute('class', 'status-table__item');
+        document.getElementById('status-list').appendChild(li);
+      }
+
+      function createHeaderForOverallStatus(overallStatus) {
+        let image = document.getElementById("status-header-image");
+        let title = document.getElementById("status-header-title");
+        let text = document.getElementById("status-header-text");
+        if (overallStatus === 1) {
+          image.src = "";
+          title.textContent = "Skribble is up and running";
+          text.innerHTML = "Having trouble? Check our help center or e-mail us at <a href=\"mailto:support@skribble.com\">support@skribble.com</a>";
+        } else if (overallStatus === 3) {
+          image.src = "";
+          title.textContent = "Skribble has limited service";
+          text.innerHTML = "We are investigating issues with the „signing platform” and will provide updates here soon.";
+        } else if (overallStatus == 4) {
+          image.src = "";
+          title.textContent = "Skribble has a service outage";
+          text.innerHTML = "We are investigating issues with the „signing platform” and will provide updates here soon.";
         }
-      };
+      }
 
-      request.open('GET', 'https://status.skribble.com/api/v1/components');
-      request.send();
+
+      function generateIncidentHistory() {
+        var incidentRequest = new XMLHttpRequest();
+        incidentRequest.onload = function () {
+          if (incidentRequest.status >= 200 && incidentRequest.status < 300) {
+            let incidentResult = JSON.parse(incidentRequest.responseText);
+            incidentResult.data.forEach((item) => {
+              creatIncidentListEntry(item.name, item.status, item.message);
+            });
+          } else {
+            console.log("The IncidentREquest failed!");
+          }
+        };
+        incidentRequest.open("GET", statusApi + "incidents");
+        incidentRequest.send();
+      }
+
+      function creatIncidentListEntry(name, status, message) {
+        let li = document.createElement('div');
+        li.innerHTML = `<div class="status-table__label">${name}</div>
+                        <div class="status-table__status">${status}</div>
+                        <div class="">${message}</div>`;
+        li.setAttribute('class', 'status-table__item');
+        document.getElementById('incidents-list').appendChild(li);
+      }
+
+      // Get the component status and incidents from
+      // our status information system via API 
+      // and show the component status overview
+      // and the incident history
+      generateComponentStatus();
+      generateIncidentHistory();
 
     </script>
 
