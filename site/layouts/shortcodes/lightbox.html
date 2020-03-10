@@ -1,0 +1,39 @@
+<div class="lightbox">
+  <a href="https://www.youtube.com/embed/{{.Get "vid-youtubeid"}}?rel=0"
+  data-mediabox={{.Get "gallery-name"}}
+	data-iframe="true"
+	data-width={{.Get "vid-width"}}
+	data-height={{.Get "vid-height"}}
+	data-title={{.Get "vid-description"}}>
+    {{ $width_x2 := mul (int (.Get "thumbnail-width")) 2 }}
+    <div class="img-overlay-wrap">
+      <picture>
+        <source
+          type="image/webp"
+          srcset="image/{{.Get "thumbnail-name"}}-{{.Get "thumbnail-width"}}w.webp {{.Get "thumbnail-width"}}w, image/{{.Get "thumbnail-name"}}-{{$width_x2}}w.webp {{$width_x2}}w"
+          sizes="(max-width: 767px) 100vw, 620px"
+        />
+        <source
+          type="image/jpeg"
+          srcset="image/{{.Get "thumbnail-name"}}-{{.Get "thumbnail-width"}}w.jpg {{.Get "thumbnail-width"}}w, image/{{.Get "thumbnail-name"}}-{{$width_x2}}w.jpg {{$width_x2}}w"
+          sizes="(max-width: 767px) 100vw, 620px"
+        />
+        <img
+          src="image/{{.Get "thumbnail-name"}}-{{.Get "thumbnail-width"}}w.jpg"
+          alt="{{ .Get "thumbnail-alt" }}"
+          style="width:{{ .Get "thumbnail-width" }}px;"
+        />
+      </picture>
+      <span class="circle-outline">
+        <span class="circle-main">
+          <svg version="1.1" id="Ebene_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+            viewBox="0 0 44 44" enable-background="new 0 0 44 44" xml:space="preserve">
+          <path fill="#FFF" d="M35.2,20.1l-24-15c-0.7-0.4-1.5-0.5-2.3-0.1C8.2,5.4,7.8,6.2,7.8,7v30c0,0.8,0.4,1.6,1.1,1.9c0.3,0.2,0.7,0.3,1.1,0.3
+            c0.4,0,0.8-0.1,1.2-0.3l24-15c0.6-0.4,1-1.1,1-1.9S35.8,20.5,35.2,20.1z"/>
+          </svg>
+        </span>
+      </span>
+    </div>
+    </a>
+    
+</div>

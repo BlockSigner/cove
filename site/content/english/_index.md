@@ -85,15 +85,15 @@ Sign at the push of a button, independent of time and place, legally valid accor
 {{% /markdown %}}
 {{< /content >}}
 
-{{< video-lightbox
+{{< lightbox
   gallery-name="name"
   vid-youtubeid="25bPfgO-RYs"
   vid-width="853"
   vid-height="480"
   vid-description="Awesome video of Skribble being cool"
-  pic-width="1020"
-  pic-name="skribble-ui-en"
-  pic-alt="Skribble plattform - user interface" 
+  thumbnail-width="1020"
+  thumbnail-name="skribble-ui-en"
+  thumbnail-alt="Skribble plattform - user interface" 
 >}}
 
 {{< content bottom=15 text=center >}}
