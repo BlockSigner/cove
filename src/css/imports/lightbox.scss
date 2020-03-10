@@ -5,11 +5,12 @@
 
   .img-overlay-wrap {
     position: relative;
-    display: inline-block; /* <= shrinks container to image size */
-    transition: transform 150ms ease-in-out;
+    display: inline-block;
+    // Michel: change speed of circle growth/opacity change here
+    transition: all 200ms ease-in-out;
   }
 
-  .img-overlay-wrap img { /* <= optional, for responsiveness */
+  .img-overlay-wrap img {
     display: block;
     max-width: 100%;
     height: auto;
@@ -24,6 +25,7 @@
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
+    transition: inherit;
   }
 
   .img-overlay-wrap .circle-main {
@@ -35,7 +37,7 @@
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
-    transition: background-color 200ms ease-in-out;
+    transition: inherit
   }
 
   .img-overlay-wrap svg {
@@ -50,8 +52,19 @@
   .img-overlay-wrap:hover .circle-main {
     background: #006df2;
   }
+
+  .img-overlay-wrap:hover .circle-outline {
+    // Michel: change size of how much circle grows here. Translation percentage must be adapted to scale amount
+    transform: scale(1.2) translate(-40%, -40%);
+  }
+}
+
+// Overrides of the default wa-mediabox stylings
+.wa-mediabox-overlay {
+  // Michel: change black background here
+  background: rgba(20,20,20,.95) !important;
 }
 
 .wa-mediabox-close:hover{
-  background:#006df2 !important
+  background:#006df2 !important;
 }
