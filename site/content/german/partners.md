@@ -1,6 +1,6 @@
 ---
-title: "TODO:"
-description: "TODO:"
+title: Partner von Skribble – Gemeinsam erreichen wir mehr
+description: Wir glauben an die Kraft starker Ökosysteme. Deshalb arbeiten wir mit kompetenten Partnern zusammen, die unsere Werte und Ziele teilen.
 draft: false
 slug: partner
 # opengraph image (for facebook and twitter)
@@ -17,7 +17,7 @@ die unsere Werte und Ziele teilen.
 {{% /markdown %}}
 {{< /content >}}
 
-{{< picture partners 560 "TODO: partners alt text" >}}
+{{< picture partners 560 "Partner von Skribble. Drei Personen, die sich umarmen" >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
