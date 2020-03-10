@@ -2,45 +2,66 @@
 {{ block "header" . }}{{ partial "header" . }}{{end}}
 <!-- wide page template -->
 <div class="wrapper">
+
   <main class="main" style="padding-left: 24px; padding-right: 24px">
-
-
-    <div class="status-table">
-      <ul class="status-list" id="status-list">
+    <div class="status__header">
+      <img id="status-header-image"/>
+      <h1 id="status-header-title"></h1>
+      <p id="status-header-text"></p>
+    </div>
+    
+    <div class="status__table status-table">
+      <ul class="status__list" id="status-list">
 
       </ul>
     </div>
 
     <script>
-      console.log("Testausgabe");
-      // Set up our HTTP request
-      var xhr = new XMLHttpRequest();
+      var request = new XMLHttpRequest();
 
-      // Setup our listener to process completed requests
-      xhr.onload = function () {
-
-        // Process our return data
-        if (xhr.status >= 200 && xhr.status < 300) {
-          // This will run when the request is successful
-          console.log('success!', xhr);
-
-          let response = JSON.parse(xhr.responseText);
-
+      request.onload = function () {
+        if (request.status >= 200 && request.status < 300) {
+          let response = JSON.parse(request.responseText);
+          let overallStatus = 1;
           response.data.forEach((item) => {
             let li = document.createElement('div');
             li.innerHTML = `<div class="status-table__label">${item.name}</div><div class="status-table__status">${item.status}</div>`;
             li.setAttribute('class', 'status-table__item');
             document.getElementById('status-list').appendChild(li);
-          })
+            if ([2,3].includes(item.status)){
+              if(overallStatus < 4){
+                overallStatus = 3;
+              }
+            } else if ([4].includes(item.status)){
+              overallStatus = item.status;
+            }
+          });
+
+          let image = document.getElementById("status-header-image");
+          let title = document.getElementById("status-header-title");
+          let text = document.getElementById("status-header-text");
+
+          if (overallStatus === 1){
+            image.src = "";
+            title.textContent = "Skribble is up and running";
+            text.innerHTML = "Having trouble? Check our help center or e-mail us at <a href=\"mailto:support@skribble.com\">support@skribble.com</a>";
+          } else if (overallStatus === 3){
+            image.src = "";
+            title.textContent = "Skribble has limited service";
+            text.innerHTML = "We are investigating issues with the „signing platform” and will provide updates here soon.";
+          } else if (overallStatus == 4){
+            image.src = "";
+            title.textContent = "Skribble has a service outage";
+            text.innerHTML = "We are investigating issues with the „signing platform” and will provide updates here soon.";
+          }
 
         } else {
-          // This will run when it's not
           console.log('The request failed!');
         }
       };
 
-      xhr.open('GET', 'https://status.skribble.com/api/v1/components');
-      xhr.send();
+      request.open('GET', 'https://status.skribble.com/api/v1/components');
+      request.send();
 
     </script>
 
