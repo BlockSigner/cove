@@ -15,6 +15,18 @@
     height: auto;
   }
 
+  .img-overlay-wrap .circle-outline {
+    background: #006df227;
+    width: 92px;
+    height: 92px;
+    border-radius: 50%;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    transition: opacity 250ms ease-in-out;
+  }
+
   .img-overlay-wrap .circle-main {
     background: #006df2;
     opacity: 70%;
@@ -25,7 +37,7 @@
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
-    transition: opacity 250ms ease-in-out;
+    transition: opacity 200ms ease-in-out;
   }
 
   .img-overlay-wrap svg {
@@ -42,4 +54,6 @@
   }
 }
 
-.wa-mediabox-close:hover{background:#006df2 !important}
+.wa-mediabox-close:hover{
+  background:#006df2 !important
+}
