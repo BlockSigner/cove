@@ -1,0 +1,10 @@
+.status {
+  &-table {
+    width: 500px;
+    &__item {
+      display: flex;
+      justify-content: space-between;
+      width: 100%;
+    }
+  }
+}

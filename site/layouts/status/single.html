@@ -4,6 +4,13 @@
 <div class="wrapper">
   <main class="main" style="padding-left: 24px; padding-right: 24px">
 
+
+    <div class="status-table">
+      <ul class="status-list" id="status-list">
+
+      </ul>
+    </div>
+
     <script>
       console.log("Testausgabe");
       // Set up our HTTP request
@@ -16,13 +23,25 @@
         if (xhr.status >= 200 && xhr.status < 300) {
           // This will run when the request is successful
           console.log('success!', xhr);
+
+          let response = JSON.parse(xhr.responseText);
+
+          response.data.forEach((item) => {
+            let li = document.createElement('div');
+            li.innerHTML = `<div class="status-table__label">${item.name}</div><div class="status-table__status">${item.status}</div>`;
+            li.setAttribute('class', 'status-table__item');
+            document.getElementById('status-list').appendChild(li);
+          })
+
         } else {
           // This will run when it's not
           console.log('The request failed!');
         }
       };
+
       xhr.open('GET', 'https://status.skribble.com/api/v1/components');
       xhr.send();
+
     </script>
 
   </main>
