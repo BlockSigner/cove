@@ -65,6 +65,13 @@
   background: rgba(20,20,20,.95) !important;
 }
 
+.wa-mediabox-frame {
+  // Michel: change opening growth transition here. In this case, I disabled the growth transition by using 0s duration 
+  // If you want to edit also the opacity transitions I will have to add a bit more code
+  transition: width 0s, height 0s, margin 0s !important;
+  -webkit-transition: width 0s, height 0s, margin 0s !important;
+}
+
 .wa-mediabox-close:hover{
   background:#006df2 !important;
 }
