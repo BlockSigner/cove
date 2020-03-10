@@ -3,17 +3,25 @@
 <!-- wide page template -->
 <div class="wrapper">
 
-  <main class="main" style="padding-left: 24px; padding-right: 24px">
-    <div class="status__header">
-      <img id="status-header-image"/>
-      <h1 id="status-header-title"></h1>
-      <p id="status-header-text"></p>
+  <main class="main main--default">
+    <div class="content">
+      <div class="skr-container is-narrow pt-16 text-center">
+        <div class="markdown">
+          <div class="status__header">
+            <img id="status-header-image"/>
+            <h1 id="status-header-title"></h1>
+            <p id="status-header-text"></p>
+          </div>
+        </div>
+      </div>
     </div>
-    
-    <div class="status__table status-table">
-      <ul class="status__list" id="status-list">
 
-      </ul>
+    <div class="content">
+      <div class="skr-container pt-16 pb-16 text-center">
+        <ul class="status-list" id="status-list">
+
+        </ul>
+      </div>
     </div>
 
     <script>
@@ -24,9 +32,33 @@
           let response = JSON.parse(request.responseText);
           let overallStatus = 1;
           response.data.forEach((item) => {
-            let li = document.createElement('div');
-            li.innerHTML = `<div class="status-table__label">${item.name}</div><div class="status-table__status">${item.status}</div>`;
-            li.setAttribute('class', 'status-table__item');
+            let li = document.createElement('li');
+
+            // Prepare status html
+            let statusMsg, statusImgSrc;
+            switch (item.status) {
+              case 0:
+              case 1:
+                statusMsg = 'Good'
+                statusImgSrc = 'status-good.svg';
+                break;
+              case 2:
+              case 3:
+                statusMsg = 'Disrupted';
+                statusImgSrc = 'status-disrupted.svg';
+                break;
+              case 4:
+                statusMsg = 'Outage';
+                statusImgSrc = 'status-outage.svg';
+                break;
+            }
+
+            console.log(statusMsg);
+
+            let statusHtml = `<strong>${statusMsg}</strong><img class="status-list__status-img" src="${statusImgSrc}" />`;
+
+            li.innerHTML = `<div class="status-list__label">${item.name}</div><div class="status-list__status">${statusHtml}</div>`;
+            li.setAttribute('class', 'status-list__item');
             document.getElementById('status-list').appendChild(li);
             if ([2,3].includes(item.status)){
               if(overallStatus < 4){
