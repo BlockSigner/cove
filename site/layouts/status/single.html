@@ -1,0 +1,31 @@
+{{ define "main" }}
+{{ block "header" . }}{{ partial "header" . }}{{end}}
+<!-- wide page template -->
+<div class="wrapper">
+  <main class="main" style="padding-left: 24px; padding-right: 24px">
+
+    <script>
+      console.log("Testausgabe");
+      // Set up our HTTP request
+      var xhr = new XMLHttpRequest();
+
+      // Setup our listener to process completed requests
+      xhr.onload = function () {
+
+        // Process our return data
+        if (xhr.status >= 200 && xhr.status < 300) {
+          // This will run when the request is successful
+          console.log('success!', xhr);
+        } else {
+          // This will run when it's not
+          console.log('The request failed!');
+        }
+      };
+      xhr.open('GET', 'https://status.skribble.com/api/v1/components');
+      xhr.send();
+    </script>
+
+  </main>
+  {{ block "footer" . }}{{ partial "footer" . }}{{end}}
+</div>
+{{ end }}
