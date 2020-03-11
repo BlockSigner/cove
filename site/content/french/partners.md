@@ -4,7 +4,7 @@ description: Nous croyons en la puissance des écosystèmes forts. C'est pourquo
 draft: false
 slug: partenaire
 # opengraph image (for facebook and twitter)
-og_image: "TODO:"
+og_image: og/og-skribble-partners.jpg
 
 ---
 

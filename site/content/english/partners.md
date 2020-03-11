@@ -4,7 +4,7 @@ description: We believe in the power of strong ecosystems. That is why we work t
 draft: false
 slug: partners
 # opengraph image (for facebook and twitter)
-og_image: "TODO:"
+og_image: og/og-skribble-partners.jpg
 
 ---
 
