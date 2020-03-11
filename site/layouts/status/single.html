@@ -17,18 +17,26 @@
     </div>
 
     <div class="content">
-      <div class="skr-container pt-16 pb-16 text-center">
-        <ul class="status-list" id="status-list">
+      <div class="skr-container pt-16 pb-16">
+        <ul class="status-block status-list" id="status-list">
 
         </ul>
       </div>
     </div>
 
     <div class="content">
-      <div class="skr-container pt-16 pb-16 text-center">
-        <ul class="status-list" id="incidents-list">
+      <div class="skr-container pt-16 pb-4">
+        <div class="markdown">
+          <h2>History</h2>
+        </div>
+      </div>
+    </div>
 
-        </ul>
+    <div class="content">
+      <div class="skr-container pb-24">
+        <div class="status-block status-history">
+          <table class="status-history__table" id="incidents-list"></table>
+        </div>
       </div>
     </div>
 
@@ -65,7 +73,7 @@
       }
 
       function createComponentListEntry(name, status) {
-        let li = document.createElement('div'); 
+        let li = document.createElement('li');
         let statusMsg, statusImgSrc;
         switch (status) {
           case 0:
@@ -83,7 +91,7 @@
             statusImgSrc = 'status-outage.svg';
             break;
         }
-        let statusHtml = `<strong>${statusMsg}</strong><img class="status-list__status-img" src="${statusImgSrc}" />`;        
+        let statusHtml = `<strong>${statusMsg}</strong><img class="status-list__status-img" src="${statusImgSrc}" />`;
         li.innerHTML = `<div class="status-list__label">${name}</div><div class="status-list__status">${statusHtml}</div>`;
         li.setAttribute('class', 'status-list__item');
         document.getElementById('status-list').appendChild(li);
@@ -125,16 +133,17 @@
       }
 
       function creatIncidentListEntry(incident) {
-        let li = document.createElement('div');
-        li.innerHTML = `<div class="status-table__label">${incident.name}</div>
-                        <div>${incident.status}</div>
-                        <div class="">${incident.message}</div>`;
-        li.setAttribute('class', 'status-table__item');
+        let li = document.createElement('tr');
+        let date = new Date(incident.occurred_at)
+        li.innerHTML = `<td class="status-history__td status-history__label">${incident.name}</td>
+                        <td class="status-history__td status-history__date">${date.getDate()}.${date.getMonth()}.${date.getFullYear()}<br>${date.getHours()}:${date.getMinutes()}</td>
+                        <td class="status-history__td status-history__message">${incident.message}</td>`;
+        li.setAttribute('class', 'status-history__item');
         document.getElementById('incidents-list').appendChild(li);
       }
 
       // Get the component status and incidents from
-      // our status information system via API 
+      // our status information system via API
       // and show the component status overview
       // and the incident history
       generateComponentStatus();
