@@ -24,10 +24,12 @@
       </div>
     </div>
 
-    <div class="incidents__table incidents-table">
-      <ul class="incidents__list" id="incidents-list">
+    <div class="content">
+      <div class="skr-container pt-16 pb-16 text-center">
+        <ul class="status-list" id="incidents-list">
 
-      </ul>
+        </ul>
+      </div>
     </div>
 
     <script>
@@ -60,11 +62,10 @@
           }
         });
         createHeaderForOverallStatus(overallStatus);
-
       }
 
       function createComponentListEntry(name, status) {
-        let li = document.createElement('div');            // Prepare status html
+        let li = document.createElement('div'); 
         let statusMsg, statusImgSrc;
         switch (status) {
           case 0:
@@ -107,14 +108,13 @@
         }
       }
 
-
       function generateIncidentHistory() {
         var incidentRequest = new XMLHttpRequest();
         incidentRequest.onload = function () {
           if (incidentRequest.status >= 200 && incidentRequest.status < 300) {
             let incidentResult = JSON.parse(incidentRequest.responseText);
             incidentResult.data.forEach((item) => {
-              creatIncidentListEntry(item.name, item.status, item.message);
+              creatIncidentListEntry(item);
             });
           } else {
             console.log("The IncidentREquest failed!");
@@ -124,11 +124,11 @@
         incidentRequest.send();
       }
 
-      function creatIncidentListEntry(name, status, message) {
+      function creatIncidentListEntry(incident) {
         let li = document.createElement('div');
-        li.innerHTML = `<div class="status-table__label">${name}</div>
-                        <div class="status-table__status">${status}</div>
-                        <div class="">${message}</div>`;
+        li.innerHTML = `<div class="status-table__label">${incident.name}</div>
+                        <div>${incident.status}</div>
+                        <div class="">${incident.message}</div>`;
         li.setAttribute('class', 'status-table__item');
         document.getElementById('incidents-list').appendChild(li);
       }
@@ -139,7 +139,6 @@
       // and the incident history
       generateComponentStatus();
       generateIncidentHistory();
-
     </script>
 
   </main>
