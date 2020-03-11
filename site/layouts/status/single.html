@@ -17,31 +17,40 @@
     </div>
 
     <div class="content">
-      <div class="skr-container pt-16 pb-16">
-        <ul class="status-block status-list" id="status-list">
-
-        </ul>
-      </div>
-    </div>
-
-    <div class="content">
-      <div class="skr-container pt-16 pb-4">
-        <div class="markdown">
-          <h2>History</h2>
+      <div class="skr-container pt-16 pb-24">
+        <ul class="status-block status-list" id="status-list"></ul>
+        <div class="status-list-legend">
+          <div></div>
+          <button class="status-history__show" id="show-history" type="button">Show</button>
         </div>
       </div>
     </div>
 
-    <div class="content">
-      <div class="skr-container pb-24">
-        <div class="status-block status-history">
-          <table class="status-history__table" id="incidents-list"></table>
+    <div class="status-history" id="history">
+      <div class="content">
+        <div class="skr-container pt-4 pb-4">
+          <div class="markdown">
+            <h2>History</h2>
+          </div>
+        </div>
+      </div>
+      <div class="content">
+        <div class="skr-container pb-24">
+          <div class="status-block">
+            <table class="status-history__table" id="incidents-list"></table>
+          </div>
         </div>
       </div>
     </div>
 
     <script>
       const statusApi = "https://status.skribble.com/api/v1/";
+
+      document.getElementById('show-history').addEventListener('click', (event) => {
+        let targetElement = event.target || event.srcElement;
+        document.getElementById('history').style.display = 'block';
+        targetElement.style.display = 'none';
+      });
 
       function generateComponentStatus() {
         var componentRequest = new XMLHttpRequest();

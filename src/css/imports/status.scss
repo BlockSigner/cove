@@ -16,6 +16,14 @@
   }
 
   &-list {
+
+    &-legend {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      padding-top: 32px;
+    }
+
     &__item {
       display: flex;
       justify-content: space-between;
@@ -51,6 +59,26 @@
   }
 
   &-history {
+    display: none;
+
+    &__show {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      width: 200px;
+      height: 56px;
+      border: 0;
+      box-shadow: none;
+      border-radius: 3px;
+      background-color: $c-primary;
+      font: bold 1.6rem/1 $averta;
+      color: white;
+      cursor: pointer;
+      &:focus {
+        outline: 0;
+      }
+    }
+
     &__table {
       border-collapse: collapse;
     }
