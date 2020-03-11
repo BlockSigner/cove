@@ -40,19 +40,17 @@ who share our values and goals.
   {{< partner field=Network img=partner-sav-fsa href=https://www.sav-fsa.ch/en/home.html img-width=110 img-alt=SAV-FSA >}}
 {{< /partners >}}
 
-
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< outro   >}}
+{{< outro >}}
 {{% markdown center %}}
-# Jetzt rechtsgültig elektronisch signieren!
-Keine Kreditkarte, Eintrittsgebühr oder
-Verpflichtung erforderlich.
+# Sign now, legally and electronically!
+No credit card, entrance fee or commitment required.
 {{% /markdown %}}
 
 {{< button
-  "Jetzt ausprobieren"
-  "https://my.skribble.com/signup?lang=de"
+  "Try it now"
+  "https://my.skribble.com/signup?lang=en"
   "_blank"
 >}}
 {{< /outro >}}

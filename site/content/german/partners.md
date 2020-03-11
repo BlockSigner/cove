@@ -40,7 +40,6 @@ die unsere Werte und Ziele teilen.
   {{< partner field=Netzwerk img=partner-sav-fsa href=https://www.sav-fsa.ch/de/home.html img-width=110 img-alt=SAV-FSA >}}
 {{< /partners >}}
 
-
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
 {{< outro   >}}
