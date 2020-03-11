@@ -1,4 +1,12 @@
 .status {
+
+  &-header {
+    &__img {
+      margin-left: auto;
+      margin-right: auto;
+    }
+  }
+
   &-block {
     margin: 0;
     padding: 0;
@@ -53,10 +61,6 @@
       border-right: 1px solid $c-border;
       vertical-align: top;
       text-align: left;
-    }
-
-    &__label {
-
     }
 
     &__message {

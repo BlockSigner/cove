@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="226px" height="226px" viewBox="0 0 226 226" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 62 (91390) - https://sketch.com -->
+    <title>Group 8</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <circle id="path-1" cx="93" cy="93" r="93"></circle>
+        <filter x="-16.7%" y="-15.6%" width="133.3%" height="133.3%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="10" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.160784314   0 0 0 0 0.239215686   0 0 0 0 0.4  0 0 0 0.2 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="1---Status-Page" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Status-page---History" transform="translate(-725.000000, -170.000000)">
+            <g id="Group-8" transform="translate(745.000000, 188.000000)">
+                <g id="Oval-Copy-5">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                    <use fill="#03CC81" fill-rule="evenodd" xlink:href="#path-1"></use>
+                </g>
+                <polyline id="Stroke-3-Copy-25" stroke="#FFFFFF" stroke-width="23.3431579" points="53 95.9595915 87.1352 124 134 62"></polyline>
+            </g>
+        </g>
+    </g>
+</svg>

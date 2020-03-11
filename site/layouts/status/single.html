@@ -7,8 +7,8 @@
     <div class="content">
       <div class="skr-container is-narrow pt-16 text-center">
         <div class="markdown">
-          <div class="status__header">
-            <img id="status-header-image" />
+          <div class="status-header">
+            <img class="status-header__img" id="status-header-image" />
             <h1 id="status-header-title"></h1>
             <p id="status-header-text"></p>
           </div>
@@ -102,15 +102,15 @@
         let title = document.getElementById("status-header-title");
         let text = document.getElementById("status-header-text");
         if (overallStatus === 1) {
-          image.src = "";
+          image.src = "status-good-large.svg";
           title.textContent = "Skribble is up and running";
           text.innerHTML = "Having trouble? Check our help center or e-mail us at <a href=\"mailto:support@skribble.com\">support@skribble.com</a>";
         } else if (overallStatus === 3) {
-          image.src = "";
+          image.src = "status-disrupted-large.svg";
           title.textContent = "Skribble has limited service";
           text.innerHTML = "We are investigating issues with the „signing platform” and will provide updates here soon.";
         } else if (overallStatus == 4) {
-          image.src = "";
+          image.src = "status-outage-large.svg";
           title.textContent = "Skribble has a service outage";
           text.innerHTML = "We are investigating issues with the „signing platform” and will provide updates here soon.";
         }
