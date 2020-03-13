@@ -12,12 +12,6 @@
     @font-face {font-family: 'Averta';font-display: fallback;src: url('/fonts/hinted-averta-extrabold.woff') format('woff');font-weight: bold;font-style: normal;}
   </style>
 
-  <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-      new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-      j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-      'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-      })(window,document,'script','dataLayer','GTM-NF4Q7PS');</script>
-  
   <!-- Matomo Tag Manager -->
 <script type="text/javascript">
 var _mtm = _mtm || [];
@@ -69,11 +63,8 @@ g.type='text/javascript'; g.async=true; g.defer=true; g.src='https://analytics.s
 </head>
 
 <body>
-  <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NF4Q7PS"
-      height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-  
   {{ if .Site.Params.outage }} {{ partial "outage-overlay" . }}{{end}}
-  
+
 
   {{ block "main" . }}{{end}}
 
