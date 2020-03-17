@@ -53,7 +53,7 @@ implementation with a few clicks**
 {{% markdown %}}
 With AES for Business, your company domain (e.g. yourcompany.com)
 enables signing. Anyone who registers with Skribble using an e-mail address
-from your organisation (e.g. john.smith @ yourcompany.com) and is a member
+from your organisation (e.g. jsmith@yourcompany.com) and is a member
 of your Business account can sign with AES without any further action.
 {{% /markdown %}}
 {{< /content >}}
