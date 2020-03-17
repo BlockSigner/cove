@@ -72,7 +72,7 @@ Schweizer Telecom-Anbieter sind dazu verpflichtet, vor Vertragsabschluss ID oder
 
 {{< cta
   label="Mehr infos"
-  href="de/identification/fes-fuer-business/"
+  href="de/identifikation/fes-fuer-business/"
   target=""
   outlined="true"
 >}}

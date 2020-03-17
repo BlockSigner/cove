@@ -3,6 +3,7 @@ title: Contrôle d'identité pour la SEQ
 description: Pour la signature électronique qualifiée (SEQ), le signataire doit prouver son identité. Skribble vous aidera.
 draft: false
 slug: sea-pour-business
+translationKey: identification-aes-for-business
 # opengraph image (for facebook and twitter)
 og_image: og/og-skribble-identification.jpg
 
@@ -49,7 +50,7 @@ Permettez à l'ensemble de votre personnel de signer avec la signature électron
 
 {{< content top=4 bottom=6 width=narrow >}}
 {{% markdown %}}
-Avec SEA for Business, le domaine de votre entreprise (par ex. votreentreprise.com) permet la signature. Toute personne qui s'inscrit sur Skribble (par exemple john.smith @ votreentreprise.com) avec une adresse e-mail de votre organisation et qui est membre de votre compte Business peut signer avec SEA sans autre mesure. 
+Avec SEA for Business, le domaine de votre entreprise (par ex. votreentreprise.com) permet la signature. Toute personne qui s'inscrit sur Skribble (par exemple john.smith @ votreentreprise.com) avec une adresse e-mail de votre organisation et qui est membre de votre compte Business peut signer avec SEA sans autre mesure.
 {{% /markdown %}}
 {{< /content >}}
 
@@ -71,7 +72,7 @@ Vous pouvez faire une demande de SEA pour Business directement depuis votre comp
 - Numéro de registre du commerce de votre organisation
 - Nom et adresse e-mail d'une personne de contact interne
 
-Si nous pouvons vérifier l'information, SEA pour Business sera activé et prêt à être utilisé dans les 5 à 6 jours ouvrables. 
+Si nous pouvons vérifier l'information, SEA pour Business sera activé et prêt à être utilisé dans les 5 à 6 jours ouvrables.
 {{% /markdown %}}
 {{< /content >}}
 
@@ -90,7 +91,7 @@ Si nous pouvons vérifier l'information, SEA pour Business sera activé et prêt
 La loi établit une distinction entre les signatures électroniques qualifiées (SEQ)
 et les signatures électroniques avancées (SEA). Les deux normes varient
 en matière de champ d'application et de force probante. La signature électronique avancée (SEA) est juridiquement valable pour les contrats dont la loi ne prescrit pas de forme particulière.
-C’est le cas pour la plupart des types de contrats, tels que les contrats de location, d’achat ou d’hypothèque. 
+C’est le cas pour la plupart des types de contrats, tels que les contrats de location, d’achat ou d’hypothèque.
 {{% /markdown %}}
 {{< /content >}}
 
@@ -148,7 +149,7 @@ EA pour Business peut être utilisée globalement.
 {{% /collapsible %}}
 
 {{% collapsible 3 "Quels contrats puis-je signer avec la SEA?" %}}
-La signature électronique avancée (SEA) est juridiquement valable pour tous les contrats pour lesquels la loi ne prescrit pas de forme spécifique, tels que les contrats de location, d'achat ou d'hypothèque. 
+La signature électronique avancée (SEA) est juridiquement valable pour tous les contrats pour lesquels la loi ne prescrit pas de forme spécifique, tels que les contrats de location, d'achat ou d'hypothèque.
 {{% /collapsible %}}
 
 {{% collapsible 4 "Puis-je combiner la SEA et la SEQ dans mon entreprise?" %}}
@@ -160,7 +161,7 @@ Cela est généralement possible avec une étape de contrôle supplémentaire pe
 {{% /collapsible %}}
 
 {{% collapsible 6 "Qui est le fournisseur de certification?" %}}
-Les certificats de signature sur lesquels Skribble SEA pour Business est basé proviennent de GMO GlobalSign, Ltd, une autorité de certification européenne. 
+Les certificats de signature sur lesquels Skribble SEA pour Business est basé proviennent de GMO GlobalSign, Ltd, une autorité de certification européenne.
 {{% /collapsible %}}
 
 {{% collapsible 7 "Ai-je besoin d'un compte Skribble Business pour utiliser SEA pour Business?" %}}
