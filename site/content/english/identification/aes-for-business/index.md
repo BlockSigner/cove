@@ -156,10 +156,10 @@ Yes, the persons who are to sign at QES level go through an additional identific
 {{% /collapsible %}}
 
 {{% collapsible 5 "Can I use AES for Business if my organisation is not listed in the trade register?" %}}
-This is generally possible with an additional check required during registration. Contact us for an individual evaluatio
+This is generally possible with an additional check required during registration. Contact us for an individual evaluation.
 {{% /collapsible %}}
 
-{{% collapsible 6 "Who is the certification provider?" %}}
+{{% collapsible 6 "Who is the certificate provider?" %}}
 The signature certificates on which Skribble’s AES for Business is based are from GMO GlobalSign, Ltd, a European Certification Authority and Identity Management Company.
 {{% /collapsible %}}
 
