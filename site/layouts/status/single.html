@@ -34,7 +34,7 @@
               Outage
             </div>
           </div>
-          <button class="status-history__show" id="show-history" type="button">Show</button>
+          <button class="status-history__show" id="show-history" type="button">See history</button>
         </div>
       </div>
     </div>
@@ -94,31 +94,6 @@
         createHeaderForOverallStatus(overallStatus);
       }
 
-      function createComponentListEntry(name, status) {
-        let li = document.createElement('li');
-        let statusMsg, statusImgSrc;
-        switch (status) {
-          case 0:
-          case 1:
-            statusMsg = 'Good'
-            statusImgSrc = 'status-good.svg';
-            break;
-          case 2:
-          case 3:
-            statusMsg = 'Disrupted';
-            statusImgSrc = 'status-disrupted.svg';
-            break;
-          case 4:
-            statusMsg = 'Outage';
-            statusImgSrc = 'status-outage.svg';
-            break;
-        }
-        let statusHtml = `<strong>${statusMsg}</strong><img class="status-list__status-img" src="${statusImgSrc}" />`;
-        li.innerHTML = `<div class="status-list__label">${name}</div><div class="status-list__status">${statusHtml}</div>`;
-        li.setAttribute('class', 'status-list__item');
-        document.getElementById('status-list').appendChild(li);
-      }
-
       function createHeaderForOverallStatus(overallStatus) {
         let image = document.getElementById("status-header-image");
         let title = document.getElementById("status-header-title");
@@ -138,6 +113,31 @@
         }
       }
 
+      function createComponentListEntry(name, status) {
+        let liHead = document.createElement('liHead');
+        let statusMsg, statusImgSrc;
+        switch (status) {
+          case 0:
+          case 1:
+            statusMsg = 'Operational'
+            statusImgSrc = 'status-good.svg';
+            break;
+          case 2:
+          case 3:
+            statusMsg = 'Limited service';
+            statusImgSrc = 'status-disrupted.svg';
+            break;
+          case 4:
+            statusMsg = 'Outage';
+            statusImgSrc = 'status-outage.svg';
+            break;
+        }
+        let statusHtml = `<strong>${statusMsg}</strong><img class="status-list__status-img" src="${statusImgSrc}" />`;
+        liHead.innerHTML = `<div class="status-list__label">${name}</div><div class="status-list__status">${statusHtml}</div>`;
+        liHead.setAttribute('class', 'status-list__item');
+        document.getElementById('status-list').appendChild(liHead);
+      }
+
       function generateIncidentHistory() {
         var incidentRequest = new XMLHttpRequest();
         incidentRequest.onload = function () {
@@ -147,21 +147,36 @@
               creatIncidentListEntry(item);
             });
           } else {
-            console.log("The IncidentREquest failed!");
+            console.log("The IncidentRequest failed!");
           }
         };
-        incidentRequest.open("GET", statusApi + "incidents");
+        incidentRequest.open("GET", statusApi + "incidents?sort=occurred_at&order=desc");
         incidentRequest.send();
       }
 
       function creatIncidentListEntry(incident) {
-        let li = document.createElement('tr');
+        let messageText = (incident.message).replace(new RegExp('\r?\n','g'), '<br />');
+        let liHead = document.createElement('tr');
+        liHead.setAttribute('class', 'status-history__item');
         let date = new Date(incident.occurred_at)
-        li.innerHTML = `<td class="status-history__td status-history__label">${incident.name}</td>
-                        <td class="status-history__td status-history__date">${date.getDate()}.${date.getMonth()}.${date.getFullYear()}<br>${date.getHours()}:${date.getMinutes()}</td>
-                        <td class="status-history__td status-history__message">${incident.message}</td>`;
-        li.setAttribute('class', 'status-history__item');
-        document.getElementById('incidents-list').appendChild(li);
+        liHead.innerHTML = `<td class="status-history__td status-history__label"><strong>${incident.name}</strong></td>
+                        <td class="status-history__date status-history__td">${date.getDate()}.${date.getMonth()}.${date.getFullYear()} - ${date.getHours()}:${date.getMinutes()}</td>`; 
+        let liMessage = document.createElement('tr');                        
+        liMessage.innerHTML = `<td class="status-history__td" colspan="2">${messageText}</td>`;
+        document.getElementById('incidents-list').appendChild(liHead);
+        document.getElementById('incidents-list').appendChild(liMessage);
+        incident.updates.forEach((update) => {
+          console.log(update);
+          let liUpdate = createIncidentUpdateEntry(update);
+          document.getElementById('incidents-list').appendChild(liUpdate);
+        });
+      }
+
+      function createIncidentUpdateEntry(update){
+        let messageText = (update.message).replace(new RegExp('\r?\n','g'), '<br />');
+        let liUpdate = document.createElement('tr');
+        liUpdate.innerHTML  = `<td class="status-history__td" colspan="2"><strong>UPDATE: ${update.human_status}</strong><br/>${messageText}</td></tr>`; 
+        return liUpdate;
       }
 
       // Get the component status and incidents from
