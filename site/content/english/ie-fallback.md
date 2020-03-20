@@ -1,10 +1,8 @@
 ---
-title: "TODO:"
-description: "TODO:"
+title: Skribble
+description: Easily handle digital signature processes – legally binding in accordance with Swiss & EU law.
 slug: ie-fallback
 type: blank
-# opengraph image (for facebook and twitter)
-og_image: "TODO:"
 
 ---
 
