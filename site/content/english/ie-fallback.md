@@ -16,22 +16,11 @@ Please switch to another browser!
 You are using an outdated browser which is no longer considered secure. At Skribble we support the current versions of Firefox, Chrome, Microsoft Edge and Safari.
 
 Please use one of these browsers to sign securely.
+{{% /markdown %}}
 
-<!-- <div class="ie-browser-row">
-  <a :href="$t('iefallback.browser1_link')">
-    <img class="ie-browser-icon" src="/Firefox@2x.jpg" />
-    <strong>{{ $t('iefallback.browser1') }}</strong>
-  </a>
-  <a :href="$t('iefallback.browser2_link')">
-    <img class="ie-browser-icon" src="/Opera@2x.jpg" />
-    <strong>{{ $t('iefallback.browser2') }}</strong>
-  </a>
-  <a :href="$t('iefallback.browser3_link')">
-    <img class="ie-browser-icon" src="/Chrome@2x.jpg" />
-    <strong>{{ $t('iefallback.browser3') }}</strong>
-  </a>
-</div> -->
+{{< browser-list >}}
 
+{{% markdown %}}
 Any questions? Write to us at info@skribble.com.
 {{% /markdown %}}
 {{< /side-by-side >}}
