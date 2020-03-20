@@ -28,7 +28,7 @@ Permettez à l'ensemble de votre personnel de signer avec la signature électron
 {{< picture aes-biz-main 375 "Une grande maison avec une grande flèche et un arbre." >}}
 
 {{< cta
-  label="Download Factsheet"
+  label="Télécharger factsheet"
   href="https://cdn2.hubspot.net/hubfs/5051692/Factstheets/Identification/Fran%C3%A7ais/Skribble_Identification_Organisation_SEA_FR.pdf"
   target="_blank"
   outlined="true"
