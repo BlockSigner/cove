@@ -70,7 +70,7 @@ im anerkannten PDF X/A-Format**
 {{< side-by-side top=12 bottom=12 mobile-top=6 mobile-bottom=12 img=integrations img-position=right img-width=381 img-alt="Verbindung der unterschiedlichen Beteiligten bei Gebrauch von Skribble aus einem HRM visuell dargestellt" >}}
 {{% markdown %}}
 ## Keine neue Software notwendig
-Bei gewohnten Tools bleiben: Signiere direkt über den Browser oder aus deiner bestehenden Software heraus. (Kommt Ende 2019)
+Bei gewohnten Tools bleiben: Signiere direkt über den Browser oder aus deiner bestehenden Software heraus.
 
 - **Direkt über den Browser signieren**
 - **Skribble als Plug-in in SAP und anderen Branchenlösungen einbinden**
@@ -130,7 +130,7 @@ Wie wir den Alltag unserer Kunden erleichtern.
 
 {{< content text=center top=24 width=narrow >}}
 {{% markdown %}}
-# Mit Skribble maximierst du <br class="hide-for-mobile">die Beweiskraft deiner Signatur
+# Mit Skribble maximierst du die Beweiskraft deiner Signatur
 Das Gesetz unterscheidet zwischen der qualifizierten E-Signatur (QES)
 und der fortgeschrittenen E-Signatur (FES). Die beiden Standards
 variieren punkto Einsatzgebiet und Beweiskraft.

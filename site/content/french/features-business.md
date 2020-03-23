@@ -89,6 +89,21 @@ ou à la norme de signature souhaitée.
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
+{{< side-by-side top=12 bottom=12 img-position=right img=onboarding-sea-fr img-width=460 img-alt="Un grand contrat (FES) devant une maison" >}}
+{{% markdown %}}
+## Intégration pour la signature électronique avancée (SEA)
+Mise en œuvre à l'échelle de l'organisation en quelques clics. Convient aux contrats sans exigences formelles.
+{{% /markdown %}}
+<br>
+{{< button
+  "En savour plus"
+  "/fr/identification/sea-pour-business"
+  ""
+  "outline">}}
+{{< /side-by-side >}}
+
+[//]: # (--------------------------------------------------------------------------------------------------------------)
+
 {{< side-by-side top=8 bottom=8 img=onboarding-seq-fr img-width=380 img-alt="A large contract (QES) with a court" >}}
 {{% markdown %}}
 ## Intégration pour la signature électronique qualifiée (SEQ)
@@ -96,9 +111,9 @@ Services d'identification pour les plus hautes exigences en matière de force pr
 {{% /markdown %}}
 <br>
 {{< button
-  "Télécharger factsheet"
-  "https://cdn2.hubspot.net/hubfs/5051692/Factstheets/Identification/Fran%C3%A7ais/Skribble_Overview_Identification_FR.pdf"
-  "_blank"
+  "En savour plus"
+  "/fr/identification/"
+  ""
   "outline"
 >}}
 {{< /side-by-side >}}

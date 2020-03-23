@@ -34,7 +34,7 @@ rechtsgültig nach dem Schweizer & EU Gesetz.
   {{< logos-item src="logos/baggenstos-205w.svg" alt="Baggenstoss">}}
   {{< logos-line-break >}}
   {{< logos-item src="logos/easyjet-161w.svg" alt="EasyJet">}}
-  {{< logos-item src="logos/altenburger-204w.svg" alt="Altenburger Legal">}}
+  {{< logos-item src="logos/kellerhalscarrard-124w.svg" alt="Kellerhals Carrard">}}
   {{< logos-item src="logos/wincasa-185w.svg" alt="Wincasa">}}
 {{< /logos-container >}}
 
@@ -148,6 +148,21 @@ variieren punkto Einsatzgebiet und Beweiskraft.
 den Signaturstandards FES und QES wählen.**
 {{% /markdown %}}
 {{< /cta >}}
+
+[//]: # (--------------------------------------------------------------------------------------------------------------)
+
+{{< side-by-side bottom=16 img-position=left img=aes-for-biz-home img-width=345 img-alt="Ein grosses Gebäude mit einem grossen Mauszeiger." >}}
+{{% markdown %}}
+## Organisationsweite Einführung mit wenigen Klicks
+Deine gesamte Mitarbeiterschaft kann innert weniger Tage mit der fortgeschrittenen elektronischen Signatur (FES) signieren.
+{{% /markdown %}}
+<br>
+{{< button
+  "Mehr infos"
+  "/de/identifikation/fes-fuer-business/"
+  ""
+  "outline">}}
+{{< /side-by-side >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 

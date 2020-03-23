@@ -48,7 +48,7 @@ mit zentraler Mitgliederverwaltung und gemeinsamer Abrechnung.
 
 {{< content text=center top=24 bottom=12 width=narrow >}}
 {{% markdown %}}
-# Skribble Business bettet sich <br class="hide-for-mobile">in deine bestehende Infrastruktur ein
+# Skribble Business bettet sich in deine bestehende Infrastruktur ein
 Das Onboarding neuer Signierenden ist intuitiv und schnell.
 {{% /markdown %}}
 {{< /content >}}
@@ -79,11 +79,27 @@ den Alltag für uns und unseren Kunden."{{< /testimonial >}}
 
 {{< content text=center top=12 width=narrow >}}
 {{% markdown %}}
-# Organisationsweite Einführung <br class="hide-for-mobile">ist einfach und schnell
+# Organisationsweite Einführung ist einfach und schnell
 Befähige neue und bestehende Mitarbeitende in kürzester Zeit
 zum elektronischen Signieren. Wähle den Onboarding-Prozess, der zu deinem Anspruch an Beweiskraft bzw. zum gewünschten Signatur-Standard passt.
 {{% /markdown %}}
 {{< /content >}}
+
+[//]: # (--------------------------------------------------------------------------------------------------------------)
+
+{{< side-by-side top=12 bottom=12 img-position=right img=onboarding-fes-de img-width=460 img-alt="Ein grosser Vertrag (FES) vor einem Haus" >}}
+{{% markdown %}}
+## Onboarding für die fortgeschrittene elektronische Signatur (FES)
+Organisationsweite Einführung mit wenigen Klicks.
+Geeignet für Verträge ohne Formvorschrift.
+{{% /markdown %}}
+<br>
+{{< button
+  "Mehr infos"
+  "/de/identifikation/fes-fuer-business/"
+  ""
+  "outline">}}
+{{< /side-by-side >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
@@ -95,9 +111,9 @@ Geeignet für Verträge mit Formvorschrift.
 {{% /markdown %}}
 <br>
 {{< button
-  "Download Factsheet"
-  "https://cdn2.hubspot.net/hubfs/5051692/Factstheets/Identification/Deutsch/Skribble_Overview_Identification.pdf"
-  "_blank"
+  "Mehr infos"
+  "/de/identifikation/"
+  ""
   "outline">}}
 {{< /side-by-side >}}
 

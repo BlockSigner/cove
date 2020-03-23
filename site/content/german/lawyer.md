@@ -105,7 +105,7 @@ Skribble sowie Partner verwalten ihre Daten gemäss dem Bundesgesetz über den D
 
 {{< content text=center top=24 width=narrow >}}
 {{% markdown %}}
-# Unser Kunden haben gut lachen
+# Unser Kunden haben gut lachen {#altenburger}
 Wie wir den Alltag unserer Kunden erleichtern.
 {{% /markdown %}}
 {{< /content >}}
@@ -176,8 +176,8 @@ aus und lass dich identifizieren**
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< testimonial "testimonial/procivis-146w.png" "Daniel Gasteiger, Gründer und CEO von Procivis (eID+)" >}}
-"Das elektronische Signieren von Dokumenten wird eine Kernfunktion vertrauenswürdiger digitaler Identitäten"
+{{< testimonial "testimonial/kellerhalscarrard-124w.svg" "Beat Brechbuehl, Managing Partner Kellerhals Carrhard" >}}
+"Unsere Mandanten können schneller bedient werden und unsere Anwälte sparen Zeit - der Einsatz von Technologie zur Effizienzsteigerung ist eine der Prioritäten der Kanzleien".
 {{< /testimonial >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)

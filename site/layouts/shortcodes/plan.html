@@ -1,5 +1,5 @@
 <div class="plan">
-  <div class="plan-inner {{ cond (eq (.Get 0) "gold") "plan--gold" "" }} {{ cond (eq (.Get 0) "purple") "plan--platinum" "" }}">
+  <div class="plan-inner">
     <div class="plan__subtitle">{{.Get 1}}</div>
     <div class="plan__title">{{.Get 2}}</div>
     <div class="plan__description">{{.Inner}}</div>{{ if (.Get 3) }}<a class="plan__btn btn {{ cond (eq (.Get 6) "outline") "btn--outline" "" }}" target="{{.Get 5}}" href="{{.Get 4}}">{{.Get 3}}</a>{{ end }}

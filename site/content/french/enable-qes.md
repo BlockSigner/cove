@@ -56,7 +56,7 @@ La force probante de votre signature est portée à 100% (niveau SEQ)
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< content text=center top=24 bottom=8 >}}
+{{< content text=center top=12 bottom=8 >}}
 {{% markdown %}}
 # Sites d'identification
 Venez vous identifier gratuitement. Apportez votre passeport
@@ -64,6 +64,23 @@ ou votre carte d'identité en cours de validité et votre téléphone portable.
 {{% /markdown %}}
 {{< /content >}}
 
+
+{{< cta
+  label="Contactez support"
+  href="support@skribble.com"
+  target="_blank"
+  outlined="true"
+>}}
+
+{{< picture info-banner 90 "Circle with info sign." >}}
+
+{{% markdown %}}
+**En raison de la situation actuelle des coronavirus, rendez-vous d'identification par contact personnel ne peuvent plus être tenus.**
+Pour toute question complémentaire, veuillez contacter notre support.
+{{% /markdown %}}
+{{< /cta >}}
+
+[//]: # (--------------------------------------------------------------------------------------------------------------)
 
 {{< cta
   label="026 470 08 90"

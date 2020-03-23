@@ -34,7 +34,7 @@ de façon digitale, conformément à la loi suisse et européenne.
   {{< logos-item src="logos/baggenstos-205w.svg" alt="Baggenstoss">}}
   {{< logos-line-break >}}
   {{< logos-item src="logos/easyjet-161w.svg" alt="EasyJet">}}
-  {{< logos-item src="logos/altenburger-204w.svg" alt="Altenburger Legal">}}
+  {{< logos-item src="logos/kellerhalscarrard-124w.svg" alt="Kellerhals Carrard">}}
   {{< logos-item src="logos/wincasa-185w.svg" alt="Wincasa">}}
 {{< /logos-container >}}
 
@@ -145,6 +145,21 @@ en termes de domaine d'application et de force probante. Sur Skribble, vous pouv
 **Chez Skribble vous avez le choix entre les normes de signature SEA et SEQ.**
 {{% /markdown %}}
 {{< /cta >}}
+
+[//]: # (--------------------------------------------------------------------------------------------------------------)
+
+{{< side-by-side bottom=16 img-position=left img=aes-for-biz-home img-width=345 img-alt="Ein grosses Gebäude mit einem grossen Mauszeiger." >}}
+{{% markdown %}}
+## Implémentation à toute l'organisation en quelques clics
+Permettez à l'ensemble de votre personnel de signer avec la signature électronique avancée (SEA) en quelques jours seulement.
+{{% /markdown %}}
+<br>
+{{< button
+  "En savoir plus"
+  "/fr/identification/sea-pour-business/"
+  ""
+  "outline">}}
+{{< /side-by-side >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
