@@ -83,26 +83,9 @@
       display: none;
     }
 
-    &__show {
-      display: flex;
-      align-items: center;
-      justify-content: center;
-      width: 200px;
-      height: 56px;
-      border: 0;
-      box-shadow: none;
-      border-radius: 3px;
-      background-color: $c-primary;
-      font: bold 1.6rem/1 $averta;
-      color: white;
-      cursor: pointer;
-      &:focus {
-        outline: 0;
-      }
-    }
-
     &__table {
       border-collapse: collapse;
+      width: 100%;
     }
 
     &__td {
@@ -137,12 +120,25 @@
       margin-right: 20px;
       float: left;
       &_toggle-visibility {
+        display: inline;
         cursor: pointer;
         width: 24px;
         height: 24px;
-        vertical-align: bottom;
+        vertical-align: text-bottom;
       }
     }
 
   }
+
+  &-schedule{
+    display: block;
+
+    &__img {      
+      margin-right: 20px;
+      float: left;            
+      width: 24px;
+      height: 24px;      
+    }
+  }
+
 }

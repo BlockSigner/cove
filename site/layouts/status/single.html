@@ -17,9 +17,17 @@
     </div>
 
     <div class="content">
-      <div class="skr-container pt-16 pb-24">
+      <div class="skr-container pt-16 pb-8">
         <ul class="status-block status-list" id="status-list"></ul>
 
+      </div>
+    </div>
+
+    <div class="status-schedule">
+      <div class="content">
+        <div class="skr-container pt-4 pb-4" id="schedule-list">
+
+        </div>
       </div>
     </div>
 
@@ -28,8 +36,7 @@
         <div class="skr-container pt-4 pb-4">
           <div class="markdown" onclick="toggleHistoryVisibility()">
             <nobr>
-              <h2 style="display:inline">Show history</h2><img class="status-history__img_toggle-visibility"
-                style="display:inline" id="toggleImg" src="__arrow-up.svg" />
+              <h2 style="display:inline" id="history-header">History</h2><img class="status-history__img_toggle-visibility" id="toggleImg" src="plus.svg" />
             </nobr>
           </div>
         </div>
@@ -129,6 +136,59 @@
       }
 
 
+      function generateMaintenanceInfo(){
+        var scheduleRequest = new XMLHttpRequest();
+        scheduleRequest.onload = function () {
+          if (scheduleRequest.status >= 200 && scheduleRequest.status < 300) {
+            let scheduleResult = JSON.parse(scheduleRequest.responseText);
+            scheduleResult.data.forEach((schedule) => {
+              let scheduledAt = new Date(schedule.scheduled_at);
+              let today =  new Date();
+              if (scheduledAt.getFullYear() === today.getFullYear() &&
+                  scheduledAt.getMonth() === today.getMonth() &&
+                  scheduledAt.getDate() === today.getDate()) {
+                  createMaintenanceListEntry(schedule);
+              }
+            });
+          } else {
+            console.log("The ScheduleRequest failed!");
+          }
+        };
+
+        scheduleRequest.open("GET", statusApi + "schedules?sort=occurred_at&order=desc");
+        scheduleRequest.send();        
+      } 
+
+
+      function createMaintenanceListEntry(schedule) {
+        let messageText = (schedule.message).replace(new RegExp('\r?\n', 'g'), '<br />');
+        let scheduledAt = new Date(schedule.scheduled_at);
+        let scheduledStr = (scheduledAt.toLocaleDateString(undefined, dateformat));
+
+        let scheduleElem = document.createElement('div');
+        scheduleElem.setAttribute('class', 'status-block');
+
+        let tblElem = document.createElement('table');
+        tblElem.setAttribute('class', 'status-history__table');
+
+        tblElem.innerHTML = `<table class="status-schedule__table">
+                              <tr>
+                                <td class="status-history__td">
+                                  <img class="status-schedule__img" src="info.svg"/><strong class="status-history__header">${schedule.name}</strong>
+                                  <span style="float:right;">${scheduledStr}</span>
+                                </td>
+                              </tr>
+                              <tr>
+                                <td class="status-history__td status-history__message">${messageText}</td>
+                              </tr>
+                            </table>`;
+        scheduleElem.appendChild(tblElem);                      
+        document.getElementById('schedule-list').appendChild(scheduleElem);
+        document.getElementById('schedule-list').style.display = "block";
+      }
+
+
+
       function generateIncidentHistory() {
         var incidentRequest = new XMLHttpRequest();
         incidentRequest.onload = function () {
@@ -138,8 +198,6 @@
             incidentResult.data.forEach((incident) => {
               let occuredAt = new Date(incident.occurred_at);
               let xDaysAgo = new Date().setDate(new Date().getDate() - 7);
-              console.log("occ: " + occuredAt);
-              console.log("pst: " + xDaysAgo);
               if (occuredAt > xDaysAgo) {
                 creatIncidentListEntry(incident);
                 isEmptyHistory = false;
@@ -226,14 +284,14 @@
       function toggleHistoryVisibility() {
         let historyElement = document.getElementById("incidents-list");
         let toggleImage = document.getElementById("toggleImg");
-        console.log("DISPLAY: <" + historyElement.style.display + ">");
+        let historyHeader = document.getElementById("history-header");        
         if (historyElement.style.display == "none" ||
           historyElement.style.display == "") {
           historyElement.style.display = "block";
-          toggleImage.src = "__arrow-down.svg";
+          toggleImage.src = "minus.svg";
         } else {
           historyElement.style.display = "none";
-          toggleImage.src = "__arrow-up.svg";
+          toggleImage.src = "plus.svg";
         }
       }
 
@@ -243,6 +301,7 @@
       // and show the component status overview
       // and the incident history
       generateComponentStatus();
+      generateMaintenanceInfo(); 
       generateIncidentHistory();
     </script>
 
