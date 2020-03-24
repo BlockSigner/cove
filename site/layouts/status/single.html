@@ -19,51 +19,33 @@
     <div class="content">
       <div class="skr-container pt-16 pb-24">
         <ul class="status-block status-list" id="status-list"></ul>
-        <div class="status-list-legend">
-          <div class="status-list-legend__labels">
-            <div class="status-list-legend__label">
-              <img src="status-good.svg" />
-              Good
-            </div>
-            <div class="status-list-legend__label">
-              <img src="status-disrupted.svg" />
-              Disrupted
-            </div>
-            <div class="status-list-legend__label">
-              <img src="status-outage.svg" />
-              Outage
-            </div>
-          </div>
-          <button class="status-history__show" id="show-history" type="button">See history</button>
-        </div>
+
       </div>
     </div>
 
-    <div class="status-history" id="history">
+    <div class="status-history">
       <div class="content">
         <div class="skr-container pt-4 pb-4">
-          <div class="markdown">
-            <h2>History</h2>
+          <div class="markdown" onclick="toggleHistoryVisibility()">
+            <nobr>
+              <h2 style="display:inline">Show history</h2><img class="status-history__img_toggle-visibility"
+                style="display:inline" id="toggleImg" src="__arrow-up.svg" />
+            </nobr>
           </div>
         </div>
       </div>
       <div class="content">
         <div class="skr-container pb-24">
-          <div class="status-block">
-            <table class="status-history__table" id="incidents-list"></table>
+          <div class="status-history__incidents" id="incidents-list">
+
           </div>
         </div>
       </div>
     </div>
 
     <script>
-      const statusApi = "https://status.skribble.com/api/v1/";
-
-      document.getElementById('show-history').addEventListener('click', (event) => {
-        let targetElement = event.target || event.srcElement;
-        document.getElementById('history').style.display = 'block';
-        targetElement.style.display = 'none';
-      });
+      const statusApi = "https://status.skribble.info/api/v1/";
+      const dateformat = { year: 'numeric', month: '2-digit', day: '2-digit', hour: '2-digit', minute: '2-digit' };
 
       function generateComponentStatus() {
         var componentRequest = new XMLHttpRequest();
@@ -78,26 +60,29 @@
         componentRequest.send();
       }
 
+
       function showComponentStatus(statusJsonText) {
         let statusResult = JSON.parse(statusJsonText);
         let overallStatus = 1;
-        statusResult.data.forEach((item) => {
-          createComponentListEntry(item.name, item.status);
-          if ([2, 3].includes(item.status)) {
+        statusResult.data.forEach((component) => {
+          createComponentListEntry(component.name, component.status);
+          if ([2, 3].includes(component.status)) {
             if (overallStatus < 4) {
               overallStatus = 3;
             }
-          } else if ([4].includes(item.status)) {
-            overallStatus = item.status;
+          } else if ([4].includes(component.status)) {
+            overallStatus = component.status;
           }
         });
         createHeaderForOverallStatus(overallStatus);
       }
 
+
       function createHeaderForOverallStatus(overallStatus) {
         let image = document.getElementById("status-header-image");
         let title = document.getElementById("status-header-title");
         let text = document.getElementById("status-header-text");
+
         if (overallStatus === 1) {
           image.src = "status-good-large.svg";
           title.textContent = "Skribble is up and running";
@@ -113,8 +98,11 @@
         }
       }
 
+
       function createComponentListEntry(name, status) {
         let liHead = document.createElement('liHead');
+        liHead.setAttribute('class', 'status-list__item');
+
         let statusMsg, statusImgSrc;
         switch (status) {
           case 0:
@@ -132,52 +120,123 @@
             statusImgSrc = 'status-outage.svg';
             break;
         }
-        let statusHtml = `<strong>${statusMsg}</strong><img class="status-list__status-img" src="${statusImgSrc}" />`;
-        liHead.innerHTML = `<div class="status-list__label">${name}</div><div class="status-list__status">${statusHtml}</div>`;
-        liHead.setAttribute('class', 'status-list__item');
+
+        let statusHtml = `<strong>${statusMsg}</strong>
+                          <img class="status-list__status-img" src="${statusImgSrc}" />`;
+        liHead.innerHTML = `<div class="status-list__label">${name}</div>
+                            <div class="status-list__status">${statusHtml}</div>`;
         document.getElementById('status-list').appendChild(liHead);
       }
+
 
       function generateIncidentHistory() {
         var incidentRequest = new XMLHttpRequest();
         incidentRequest.onload = function () {
           if (incidentRequest.status >= 200 && incidentRequest.status < 300) {
             let incidentResult = JSON.parse(incidentRequest.responseText);
-            incidentResult.data.forEach((item) => {
-              creatIncidentListEntry(item);
+            let isEmptyHistory = true;
+            incidentResult.data.forEach((incident) => {
+              let occuredAt = new Date(incident.occurred_at);
+              let xDaysAgo = new Date().setDate(new Date().getDate() - 7);
+              console.log("occ: " + occuredAt);
+              console.log("pst: " + xDaysAgo);
+              if (occuredAt > xDaysAgo) {
+                creatIncidentListEntry(incident);
+                isEmptyHistory = false;
+              }
             });
+            if (isEmptyHistory) {
+              createEmptyIncidentListInfo();
+              toggleHistoryVisibility();
+            }
           } else {
             console.log("The IncidentRequest failed!");
           }
         };
+
         incidentRequest.open("GET", statusApi + "incidents?sort=occurred_at&order=desc");
         incidentRequest.send();
       }
 
+
       function creatIncidentListEntry(incident) {
-        let messageText = (incident.message).replace(new RegExp('\r?\n','g'), '<br />');
-        let liHead = document.createElement('tr');
-        liHead.setAttribute('class', 'status-history__item');
-        let date = new Date(incident.occurred_at)
-        liHead.innerHTML = `<td class="status-history__td status-history__label"><strong>${incident.name}</strong></td>
-                        <td class="status-history__date status-history__td">${date.getDate()}.${date.getMonth()}.${date.getFullYear()} - ${date.getHours()}:${date.getMinutes()}</td>`; 
-        let liMessage = document.createElement('tr');                        
-        liMessage.innerHTML = `<td class="status-history__td" colspan="2">${messageText}</td>`;
-        document.getElementById('incidents-list').appendChild(liHead);
-        document.getElementById('incidents-list').appendChild(liMessage);
+        let messageText = (incident.message).replace(new RegExp('\r?\n', 'g'), '<br />');
+        let occuredAt = new Date(incident.occurred_at);
+        let occuredStr = (occuredAt.toLocaleDateString(undefined, dateformat));
+
+        let incidentElem = document.createElement('div');
+        incidentElem.setAttribute('class', 'status-block');
+
+        let tblElem = document.createElement('table');
+        tblElem.setAttribute('class', 'status-history__table');
+
+        let statusImgSrc;
+        if (incident.status == 4) {
+          statusImgSrc = 'status-good.svg';
+        } else {
+          statusImgSrc = 'status-disrupted.svg';
+        }
+
+        tblElem.innerHTML = `<table class="status-history__table">
+                              <tr>
+                                <td class="status-history__td">
+                                  <img class="status-history__img" src="${statusImgSrc}"/><strong class="status-history__header">${incident.name}</strong>
+                                  <span style="float:right;">${occuredStr}</span>
+                                </td>
+                              </tr>
+                              <tr>
+                                <td class="status-history__td status-history__message">${messageText}</td>
+                              </tr>
+                            </table>`;
+
         incident.updates.forEach((update) => {
-          console.log(update);
           let liUpdate = createIncidentUpdateEntry(update);
-          document.getElementById('incidents-list').appendChild(liUpdate);
+          tblElem.appendChild(liUpdate);
         });
+
+        incidentElem.appendChild(tblElem);
+        document.getElementById('incidents-list').appendChild(incidentElem);
       }
 
-      function createIncidentUpdateEntry(update){
-        let messageText = (update.message).replace(new RegExp('\r?\n','g'), '<br />');
+
+      function createEmptyIncidentListInfo() {
+        console.log("empty elem");        
+        let noIncidentElem = document.createElement('div');
+        noIncidentElem.setAttribute('class', 'status-block status-history__block');
+        noIncidentElem.innerHTML = `<span style="margin">No incidents occured in the last seven days.</span>`;
+        document.getElementById('incidents-list').appendChild(noIncidentElem);
+      }
+
+
+      function createIncidentUpdateEntry(update) {
+        let updatedAt = new Date(update.updated_at);
+        let updatedStr = (updatedAt.toLocaleDateString(undefined, dateformat));
+
+        let messageText = (update.message).replace(new RegExp('\r?\n', 'g'), '<br />');
         let liUpdate = document.createElement('tr');
-        liUpdate.innerHTML  = `<td class="status-history__td" colspan="2"><strong>UPDATE: ${update.human_status}</strong><br/>${messageText}</td></tr>`; 
+        liUpdate.innerHTML = `<td class="status-history__td status-history__update">
+                                  <strong class="status-history__header">Update: ${update.human_status}</strong>
+                                  <span style="float:right;">${updatedStr}</span><br/>
+                                  ${messageText}
+                                </td>`;
         return liUpdate;
       }
+
+
+      function toggleHistoryVisibility() {
+        let historyElement = document.getElementById("incidents-list");
+        let toggleImage = document.getElementById("toggleImg");
+        console.log("DISPLAY: <" + historyElement.style.display + ">");
+        if (historyElement.style.display == "none" ||
+          historyElement.style.display == "") {
+          historyElement.style.display = "block";
+          toggleImage.src = "__arrow-down.svg";
+        } else {
+          historyElement.style.display = "none";
+          toggleImage.src = "__arrow-up.svg";
+        }
+      }
+
 
       // Get the component status and incidents from
       // our status information system via API
