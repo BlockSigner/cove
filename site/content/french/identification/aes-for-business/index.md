@@ -1,6 +1,6 @@
 ---
-title: Contrôle d'identité pour la SEQ
-description: Pour la signature électronique qualifiée (SEQ), le signataire doit prouver son identité. Skribble vous aidera.
+title: SEA pour Business – implémentation à toute l'organisation en quelques clics
+description: Permettez à l'ensemble de votre personnel de signer avec la signature électronique avancée (SEA).
 draft: false
 slug: sea-pour-business
 translationKey: identification-aes-for-business
