@@ -70,23 +70,13 @@
       flex: 1 1 25%;
       padding: 20px;
       border-left: 1px solid $c-border;
-      &-img {
-        width: 24px;
-        height: 24px;
-      }
     }
   }
 
-  &-history {
-
-    &__incidents{
-      display: none;
-    }
-
-    &__table {
-      border-collapse: collapse;
-      width: 100%;
-    }
+  &-table {    
+    border-collapse: collapse;
+    padding: 20px;
+    width: 100%;
 
     &__td {
       padding: 20px;
@@ -95,19 +85,28 @@
       vertical-align: top;
       text-align: left;
     }
-    
-    &__date {
-      text-align: right;
+
+    &__header {
+      color: $c-text-alt;
+      &_image {      
+        margin-right: 20px;
+        float: left;            
+        width: 24px;
+        height: 24px;      
+      }
     }
 
     &__message {
       border-bottom: 1px solid $c-border;
     }
-    
-    &__header {
-      color: $c-text-alt;
-    }
+  }
 
+  &-history {
+
+    &__incidents{
+      display: none;
+    }
+    
     &__block{
       padding: 10px;
     }
@@ -130,15 +129,5 @@
 
   }
 
-  &-schedule{
-    display: block;
-
-    &__img {      
-      margin-right: 20px;
-      float: left;            
-      width: 24px;
-      height: 24px;      
-    }
-  }
 
 }

@@ -169,19 +169,17 @@
         scheduleElem.setAttribute('class', 'status-block');
 
         let tblElem = document.createElement('table');
-        tblElem.setAttribute('class', 'status-history__table');
+        tblElem.setAttribute('class', 'status-table');
 
-        tblElem.innerHTML = `<table class="status-schedule__table">
-                              <tr>
-                                <td class="status-history__td">
-                                  <img class="status-schedule__img" src="info.svg"/><strong class="status-history__header">${schedule.name}</strong>
+        tblElem.innerHTML = `<tr>
+                                <td class="status-table__td">
+                                  <img class="status-table__header_image" src="info.svg"/><strong class="status-table__header">${schedule.name}</strong>
                                   <span style="float:right;">${scheduledStr}</span>
                                 </td>
                               </tr>
                               <tr>
-                                <td class="status-history__td status-history__message">${messageText}</td>
-                              </tr>
-                            </table>`;
+                                <td class="status-table__td status-table__message">${messageText}</td>
+                              </tr>`;
         scheduleElem.appendChild(tblElem);                      
         document.getElementById('schedule-list').appendChild(scheduleElem);
         document.getElementById('schedule-list').style.display = "block";
@@ -226,7 +224,7 @@
         incidentElem.setAttribute('class', 'status-block');
 
         let tblElem = document.createElement('table');
-        tblElem.setAttribute('class', 'status-history__table');
+        tblElem.setAttribute('class', 'status-table');
 
         let statusImgSrc;
         if (incident.status == 4) {
@@ -235,17 +233,15 @@
           statusImgSrc = 'status-disrupted.svg';
         }
 
-        tblElem.innerHTML = `<table class="status-history__table">
-                              <tr>
-                                <td class="status-history__td">
-                                  <img class="status-history__img" src="${statusImgSrc}"/><strong class="status-history__header">${incident.name}</strong>
+        tblElem.innerHTML = `<tr>
+                                <td class="status-table__td">
+                                  <img class="status-history__img" src="${statusImgSrc}"/><strong class="status-table__header">${incident.name}</strong>
                                   <span style="float:right;">${occuredStr}</span>
                                 </td>
                               </tr>
                               <tr>
-                                <td class="status-history__td status-history__message">${messageText}</td>
-                              </tr>
-                            </table>`;
+                                <td class="status-table__td status-table__message">${messageText}</td>
+                              </tr>`;
 
         incident.updates.forEach((update) => {
           let liUpdate = createIncidentUpdateEntry(update);
@@ -257,8 +253,7 @@
       }
 
 
-      function createEmptyIncidentListInfo() {
-        console.log("empty elem");        
+      function createEmptyIncidentListInfo() {             
         let noIncidentElem = document.createElement('div');
         noIncidentElem.setAttribute('class', 'status-block status-history__block');
         noIncidentElem.innerHTML = `<span style="margin">No incidents occured in the last seven days.</span>`;
@@ -272,8 +267,8 @@
 
         let messageText = (update.message).replace(new RegExp('\r?\n', 'g'), '<br />');
         let liUpdate = document.createElement('tr');
-        liUpdate.innerHTML = `<td class="status-history__td status-history__update">
-                                  <strong class="status-history__header">Update: ${update.human_status}</strong>
+        liUpdate.innerHTML = `<td class="status-table__td status-history__update">
+                                  <strong class="status-table__header">Update: ${update.human_status}</strong>
                                   <span style="float:right;">${updatedStr}</span><br/>
                                   ${messageText}
                                 </td>`;
