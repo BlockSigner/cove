@@ -1,6 +1,6 @@
 ---
-title: Identity verification for QES – Skribble makes it easy
-description: The qualified electronic signature (QES) requires the signing party to verify his or her identity. Skribble offers suitable means of identification for every business context.
+title: AES for Business – Organisation-wide implementation with just a few clicks
+description: Enable your entire staff to sign with the advanced electronic signature.
 type: default
 slug: aes-for-business
 translationKey: identification-aes-for-business

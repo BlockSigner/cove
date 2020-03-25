@@ -1,6 +1,6 @@
 ---
-title: Identitätsprüfung für die QES - Skribble macht es einfach
-description: Für die qualifizierte elektronische Signatur (QES) muss der Unterzeichnende seine Identität beweisen. Skribble bietet für jeden Geschäftskontext eine passende Identifikationsmöglichkeit an.
+title: FES für Business – Organisationsweite Einführung mit wenigen Klicks
+description: Deine gesamte Mitarbeiterschaft kann innerhalb kürzester Zeit mit der fortgeschrittenen elektronischen Signatur (FES) signieren.
 draft: false
 slug: fes-fuer-business
 translationKey: identification-aes-for-business

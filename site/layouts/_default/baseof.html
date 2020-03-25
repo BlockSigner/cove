@@ -41,7 +41,7 @@ g.type='text/javascript'; g.async=true; g.defer=true; g.src='https://analytics.s
   <meta property="og:title" content="{{ .Title }}">
 
   <meta property="og:description" content="{{ .Description }}">
-  <meta property="og:url" content="https://www.skribble.com/">
+  <meta property="og:url" content="https://www.skribble.com{{ .Permalink }}">
   <meta property="og:site_name" content="Skribble">
   <!-- use open graph image from pages, or if undefined use og-skribble -->
   {{ if .Params.og_image }}
