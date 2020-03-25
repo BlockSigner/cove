@@ -281,6 +281,9 @@ languages:
         - name: QES validator
           url: /qes-validator/
           weight: 25
+        - name: Status
+          url: /status/
+          weight: 30          
       meta:
         - name: Privacy Policy
           url: /privacy/

@@ -23,7 +23,7 @@
       </div>
     </div>
 
-    <div class="status-schedule">
+    <div class="status-schedule" id="schedule-block">
       <div class="content">
         <div class="skr-container pt-4 pb-4" id="schedule-list">
 
@@ -182,7 +182,7 @@
                               </tr>`;
         scheduleElem.appendChild(tblElem);                      
         document.getElementById('schedule-list').appendChild(scheduleElem);
-        document.getElementById('schedule-list').style.display = "block";
+        document.getElementById('schedule-block').style.display = "none";
       }
 
 
