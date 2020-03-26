@@ -3,11 +3,13 @@
 <!-- wide page template -->
 <div class="wrapper">
 
-  <main class="main main--default">
+  <main class="main main--status">
+
     <div class="content">
       <div class="skr-container is-narrow pt-16 text-center">
+        <div data-status-loading class="status__loading">Loading...</div>
         <div class="markdown">
-          <div class="status-header">
+          <div data-status class="status-header">
             <img class="status-header__img" id="status-header-image" />
             <h1 id="status-header-title"></h1>
             <p id="status-header-text"></p>
@@ -18,8 +20,7 @@
 
     <div class="content">
       <div class="skr-container pt-16 pb-8">
-        <ul class="status-block status-list" id="status-list"></ul>
-
+        <ul data-status class="status-block status-list" id="status-list"></ul>
       </div>
     </div>
 
@@ -59,6 +60,12 @@
         componentRequest.onload = function () {
           if (componentRequest.status >= 200 && componentRequest.status < 300) {
             showComponentStatus(componentRequest.responseText);
+
+            // Remove Loading... and show current status
+            document.querySelectorAll('[data-status-loading]')[0].remove();
+            document.querySelectorAll('[data-status]').forEach((el) => {
+              el.classList.add('show');
+            });
           } else {
             console.log("The ComponentRequest failed!");
           }
@@ -156,8 +163,8 @@
         };
 
         scheduleRequest.open("GET", statusApi + "schedules?sort=occurred_at&order=desc");
-        scheduleRequest.send();        
-      } 
+        scheduleRequest.send();
+      }
 
 
       function createMaintenanceListEntry(schedule) {
@@ -180,7 +187,7 @@
                               <tr>
                                 <td class="status-table__td status-table__message">${messageText}</td>
                               </tr>`;
-        scheduleElem.appendChild(tblElem);                      
+        scheduleElem.appendChild(tblElem);
         document.getElementById('schedule-list').appendChild(scheduleElem);
         document.getElementById('schedule-block').style.display = "block";
       }
@@ -253,7 +260,7 @@
       }
 
 
-      function createEmptyIncidentListInfo() {             
+      function createEmptyIncidentListInfo() {
         let noIncidentElem = document.createElement('div');
         noIncidentElem.setAttribute('class', 'status-block status-history__block');
         noIncidentElem.innerHTML = `<span style="margin">No incidents occured in the last seven days.</span>`;
@@ -279,7 +286,7 @@
       function toggleHistoryVisibility() {
         let historyElement = document.getElementById("incidents-list");
         let toggleImage = document.getElementById("toggleImg");
-        let historyHeader = document.getElementById("history-header");        
+        let historyHeader = document.getElementById("history-header");
         if (historyElement.style.display == "none" ||
           historyElement.style.display == "") {
           historyElement.style.display = "block";
@@ -290,13 +297,20 @@
         }
       }
 
+      // Show initial Loading... after 700ms
+      setTimeout(() => {
+        let el;
+        if (el = document.querySelectorAll('[data-status-loading]')[0]) {
+          el.style.display = 'block';
+        }
+      }, 700);
 
       // Get the component status and incidents from
       // our status information system via API
       // and show the component status overview
       // and the incident history
       generateComponentStatus();
-      generateMaintenanceInfo(); 
+      generateMaintenanceInfo();
       generateIncidentHistory();
     </script>
 

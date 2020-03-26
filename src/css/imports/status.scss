@@ -1,9 +1,18 @@
 .status {
 
+  &__loading {
+    display: none;
+    padding: 100px 0;
+  }
+
   &-header {
     &__img {
       margin-left: auto;
       margin-right: auto;
+    }
+    visibility: hidden;
+    &.show {
+      visibility: visible;
     }
   }
 
@@ -12,8 +21,12 @@
     padding: 0;
     list-style-type: none;
     box-shadow: 0 2px 20px 0 rgba(41,61,102,0.20);
-    border: 1px solid $c-border;
+    border: 1px solid rgba($c-border, .5);
     width: 100%;
+    visibility: hidden;
+    &.show {
+      visibility: visible;
+    }
   }
 
   &-list {
@@ -73,7 +86,7 @@
     }
   }
 
-  &-table {    
+  &-table {
     border-collapse: collapse;
     padding: 20px;
     width: 100%;
@@ -88,11 +101,11 @@
 
     &__header {
       color: $c-text-alt;
-      &_image {      
+      &_image {
         margin-right: 20px;
-        float: left;            
+        float: left;
         width: 24px;
-        height: 24px;      
+        height: 24px;
       }
     }
 
@@ -106,7 +119,7 @@
     &__incidents{
       display: none;
     }
-    
+
     &__block{
       padding: 10px;
     }
@@ -115,7 +128,7 @@
       padding-left: 40px;
     }
 
-    &__img {      
+    &__img {
       margin-right: 20px;
       float: left;
       &_toggle-visibility {
@@ -128,10 +141,7 @@
     }
 
   }
-
   &-schedule {
     display : none;
   }
-
-
 }
