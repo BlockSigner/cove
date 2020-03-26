@@ -19,7 +19,7 @@ Here you will find everything you need to write about Skribble.
 
 {{< content top=12 bottom=8 width=narrow >}}
 {{% markdown %}}
-The TrustTech company Skribble, founded in March 2018, is a Swiss provider of electronic signatures with offices in Zurich (CH) and Karlsruhe (DE). As a one-stop shop for electronic signing, Skribble provides the legally suitable electronic signature for every type of contract. The basis is formed by legally regulated standards, including the qualified electronic signature (QES) – the only form of electronic signature that is legally equivalent to the handwritten signature. The state-approved certification technology for QES is provided among others by Swisscom. Skribble has 18 employees.
+The TrustTech company Skribble, founded in March 2018, is a Swiss provider of electronic signatures with offices in Zurich (CH) and Karlsruhe (DE). As a one-stop shop for electronic signing, Skribble provides the legally suitable electronic signature for every type of contract. The basis is formed by legally regulated standards, including the qualified electronic signature (QES) – the only form of electronic signature that is legally equivalent to the handwritten signature. The state-approved certification technology for QES is provided by Swisscom. Skribble has 18 employees.
 {{% /markdown %}}
 {{< /content >}}
 
