@@ -179,10 +179,9 @@ la SEQ. Vous n'avez besoin que d'un document de voyage valide
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< testimonial "testimonial/procivis-146w.png" "Daniel Gasteiger, Fondateur et CEO de Procivis (eID+)" >}}
-"La signature électronique des documents devient une fonction essentielle <br class="hide-for-mobile">des identités numériques de confiance."
+{{< testimonial "testimonial/kellerhalscarrard-124w.svg" "Beat Brechbuehl, Managing Partner Kellerhals Carrhard" >}}
+"Nos clients peuvent être servis plus rapidement et nos avocats gagnent du temps - l'utilisation de la technologie pour améliorer l'efficacité est l'une des priorités des cabinets d'avocats".
 {{< /testimonial >}}
-
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 

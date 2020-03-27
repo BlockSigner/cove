@@ -40,14 +40,16 @@ The remaining ten percent require a high degree of trust, for example signing em
 
 {{< content top=6 width=narrow >}}
 {{% markdown %}}
-Contracts no longer have to take a detour via printers and paper in order to be signed in a legally valid manner.
+Agreements should no longer have to take a detour via printer and paper in order to be legally signed: 
 
-With Skribble, signature processes are handled 100% digitally, building on Swiss and European standards/regulations that grant electronic signatures the same legal weight as handwritten signatures.
+Skribble is a one-stop shop for electronic signatures that makes signature processes 100% digital. Skribble provides the legally suitable electronic signature for every type of contract – even if the law requires the same legal weight as a handwritten signature.
 
-Security does not come at the expense of simplicity: every company, regardless of size and technical know-how, should be able to benefit from the advantages of this digital transformation.
+Security does not come at the expense of simplicity: every company, regardless of size and technological experience, should be able to benefit from the advantages of digital transformation. This is why Skribble can be used securely even without any IT knowledge. 
 
 ## And that's just the beginning:
-Building trust in digital business relationships should become as simple and intuitive as toasting bread. In 2018 we formed a team of Trust Shapers that has been working towards this future.
+Building trust in digital business relationships should be as simple and
+intuitive as shaking hands. Since its founding in 2018, a growing team of 
+trust shapers has been working towards this future at Skribble.
 {{< /markdown >}}
 {{< /content >}}
 
@@ -63,5 +65,3 @@ No credit card, entrance fee or commitment required.
   "_blank"
 >}}
 {{< /outro >}}
-
-

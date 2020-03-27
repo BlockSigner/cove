@@ -55,13 +55,29 @@ The legal weight of your signature is raised to 100% (QES level)
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< content text=center top=24 bottom=8 >}}
+
+{{< content text=center top=12 bottom=8 >}}
 {{% markdown %}}
 # Identification sites
 Come by and get identified for free. Bring a valid passport
 or your identity card as well as your mobile phone.
 {{% /markdown %}}
 {{< /content >}}
+
+{{< cta
+  label="Contact Support"
+  href="support@skribble.com"
+  target="_blank"
+  outlined="true"
+>}}
+
+{{< picture info-banner 90 "Circle with info sign." >}}
+
+{{% markdown %}}
+**Due to the coronavirus situation, appointements for a face to face identification can no longer be made.**
+Please contact our support if you have further questions. 
+{{% /markdown %}}
+{{< /cta >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
@@ -350,7 +366,7 @@ CH-8001 Zurich
 >}}
 
 {{% markdown %}}
-**Swisscom Shop 
+**Swisscom Shop
 Flughafen Zürich**
 Airport Shopping Center
 Check-in 3

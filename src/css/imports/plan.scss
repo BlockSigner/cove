@@ -15,7 +15,7 @@
     flex-direction: column;
     align-items: flex-start;
     max-width: 100%;
-    border-top: 7px solid transparent;
+    height: 100%;
     border-radius: 2px;
     background-color: #fff;
     box-shadow: rgba(#283E66, .1) 0 10px 20px 0;
@@ -47,6 +47,10 @@
     border-bottom: 1px solid $c-border;
     &:last-child {
       border-bottom: 0;
+    } 
+
+    .picture:first-child {
+      padding-top: 0;
     }
 
     p {

@@ -177,9 +177,8 @@ and get identified**
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< testimonial "testimonial/procivis-146w.png" "Daniel Gasteiger, founder and CEO of Procivis (eID+)" >}}
-"The electronic signing of documents becomes a core function of trusted
-digital identities"
+{{< testimonial "testimonial/kellerhalscarrard-124w.svg" "Beat Brechbuehl, Managing Partner Kellerhals Carrhard" >}}
+“Our clients can be served faster and our lawyers save time - using technology to enhance efficiency is one of the law firms priorities."
 {{< /testimonial >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)

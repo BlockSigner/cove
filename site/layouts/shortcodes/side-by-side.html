@@ -14,7 +14,13 @@
           {{.Inner}}
         </div>
       {{ end }}
-      {{ if .Get "img" }}
+      {{ if .Get "jpg-only" }}
+        <img
+          src="image/{{.Get "img"}}-{{.Get "img-width"}}w.jpg"
+          alt="{{ .Get "img-alt" }}"
+          style="width:{{ .Get "img-width" }}px;"
+        />
+      {{ else if .Get "img" }}
         <div class="side-by-side__img">
           {{ partial "picture" (dict "alt" (.Get "img-alt") "filename" (.Get "img") "natural_width" (.Get "img-width")) }}
         </div>

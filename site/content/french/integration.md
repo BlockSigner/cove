@@ -123,8 +123,7 @@ dans votre compte Skribble Business.
 
 {{% markdown %}}
 **Documentation API**<br>
-Consultez notre documentation API.
-(en Anglais)
+Consultez notre documentation API. (en Anglais)
 {{% /markdown %}}
 {{< /cta >}}
 {{< /cta-group >}}

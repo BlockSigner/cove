@@ -1,0 +1,26 @@
+.browser-list {
+  display: flex;
+  margin: 1.44em 0;
+
+  &__link {
+    display: flex;
+    align-items: center;
+    color: $c-text-alt;
+    font-weight: bold;
+    font-size: 1.6rem;
+    text-decoration: none;
+    &:hover {
+      color: $c-primary;
+    }
+
+    + .browser-list__link {
+      margin-left: 20px;
+    }
+  }
+
+  &__image {
+    width: 43px;
+    height: 44px;
+    margin-right: 12px;
+  }
+}

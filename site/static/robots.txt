@@ -1,6 +1,7 @@
 User-agent: *
 Disallow: /terms-of-use
 Disallow: /privacy
+Disallow: /upgrade-your-browser
 Disallow: /de/nutzungsbedingungen
 Disallow: /de/datenschutz
 Disallow: /fr/politique-de-confidentialite/

@@ -19,7 +19,7 @@ Hier findest du alles was du brauchst, um über Skribble zu schreiben.
 
 {{< content top=12 bottom=8 width=narrow >}}
 {{% markdown %}}
-Skribble, gegründet im März 2018, ist ein Schweizer Anbieter von elektronischen Signaturen mit Büros in Zürich (CH) und Karlsruhe (DE). Die TrustTech-Firma ermöglicht es, elektronische Dokumente einfach rechtsgültig zu signieren. Die Grundlage bilden gesetzlich geregelte Standards, unter anderem die qualifizierte elektronische Signatur (QES) – die einzige Form der elektronischen Signatur, die der handschriftlichen Unterschrift vor dem Gesetz gleichgestellt ist. Die staatlich anerkannte Zertifizierungstechnologie für die QES liefert Swisscom. Zu den bestehenden Kunden gehört unter Anderem der Kanton Freiburg. Skribble zählt 15 Mitarbeitende.
+Die TrustTech-Firma Skribble, gegründet im März 2018, ist ein Schweizer Anbieter von elektronischen Signaturen mit Büros in Zürich (CH) und Karlsruhe (DE). Als One-Stop-Shop für elektronisches Signieren liefert Skribble für jede Art von Vertrag die rechtlich passende elektronische Signatur. Die Grundlage bilden gesetzlich geregelte Standards, unter anderem die qualifizierte elektronische Signatur (QES) – die einzige Form der elektronischen Signatur, die der handschriftlichen Unterschrift vor dem Gesetz gleichgestellt ist. Die staatlich anerkannte Zertifizierungstechnologie für die QES liefert Swisscom. Skribble zählt 18 Mitarbeitende.
 {{% /markdown %}}
 {{< /content >}}
 

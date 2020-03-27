@@ -11,6 +11,19 @@
   }
 }
 
+@mixin persistent-motion {
+  transition-duration: .36s;
+  transition-timing-function: cubic-bezier(.4, 0, .2, 1);
+}
+
+@mixin skribble-shadow {
+  box-shadow: 0 2px 20px 0 rgba(41,61,102,0.20);
+}
+
+@mixin skribble-shadow-hover {
+  box-shadow: 0 2px 4px -1px rgba(41,61,102,.2), 0 4px 5px 0 rgba(41,61,102,.14), 0 1px 10px 0 rgba(41,61,102,.12);
+}
+
 @mixin half-padding {
   padding-top: $standard-padding / 2;
   padding-bottom: $standard-padding / 2;

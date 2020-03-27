@@ -44,7 +44,21 @@ sondern auch einfach.
   {{< features-item src="features/visual-signature.svg"
     headline="Visuelle Signatur"
     description="Personalisiere deine persönliche visuelle Signatur und laden deine handschriftliche Unterschrift als PNG, JPG oder GIF hoch.">}}
+  
+  {{< features-item src="features/additional-signer.svg"
+    headline="Signaturanfrage erweitern"
+    description="Erlaube den Signierenden, zusätzliche Personen zum Signieren einzuladen.">}}
+
+  {{< features-item src="features/assign-signer.svg"
+    headline="Signaturen zuweisen"
+    description="Leite eine erhaltene Signatureinladung an die erforderlichen Personen weiter.">}}
+
 {{< /features-container >}}
+
+{{< content text=center top=4 bottom=12 width=narrow >}}
+{{% markdown %}}
+{{% /markdown %}}
+{{< /content >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 

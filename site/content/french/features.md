@@ -45,7 +45,20 @@ légalement valable, mais aussi simple.
     headline="Signature visuelle"
     description="Personnalisez votre signature visuelle personnelle et téléchargez votre signature manuscrite personnelle au format PNG, JPG ou GIF.">}}
 
+  {{< features-item src="features/additional-signer.svg"
+    headline="Étendre la demande de signature"
+    description="Permettre aux signataires d'inviter d'autres personnes à signer.">}}
+
+  {{< features-item src="features/assign-signer.svg"
+    headline="Assigner les signatures"
+    description="Transmettez une invitation de signature reçue aux personnes requises.">}}
+
 {{< /features-container >}}
+
+{{< content text=center top=4 bottom=12 width=narrow >}}
+{{% markdown %}}
+{{% /markdown %}}
+{{< /content >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 

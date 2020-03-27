@@ -47,7 +47,21 @@ Skribble Business customers sign organised as a group - with
     description="View the current and all past invoices at any time.">}}
 {{< /features-container >}}
 
-{{< content text=center top=24 bottom=12 width=narrow >}}
+{{< content text=center top=4 bottom=12 width=narrow >}}
+{{% markdown %}}
+{{% /markdown %}}
+{{< /content >}}
+
+[//]: # (--------------------------------------------------------------------------------------------------------------)
+
+{{< testimonial "testimonial/fr-logo-99w.svg" "Stéphane Schwab, Head of E-Government, State of Fribourg" >}}
+"Thanks to Skribble, we can digitize administrative processes from A to Z.
+This makes everyday life easier for
+us and our customers." {{< /testimonial >}}
+
+[//]: # (--------------------------------------------------------------------------------------------------------------)
+
+{{< content text=center top=12 bottom=12 width=narrow >}}
 {{% markdown %}}
 # Skribble Business embeds itself into your existing infrastructure
 The onboarding of new signers is intuitive and fast.
@@ -70,12 +84,11 @@ The onboarding of new signers is intuitive and fast.
 
 {{< /features-container >}}
 
-[//]: # (--------------------------------------------------------------------------------------------------------------)
+{{< content text=center bottom=12 width=narrow >}}
+{{% markdown %}}
+{{% /markdown %}}
+{{< /content >}}
 
-{{< testimonial "testimonial/fr-logo-99w.svg" "Stéphane Schwab, Head of E-Government, State of Fribourg" >}}
-"Thanks to Skribble, we can digitize administrative processes from A to Z.
-This makes everyday life easier for
-us and our customers." {{< /testimonial >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
@@ -89,23 +102,39 @@ in the shortest possible time. Choose the onboarding process that fits your requ
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< side-by-side top=12 bottom=12 img=onboarding-qes-en img-width=380 img-alt="A large contract (QES) with a court" >}}
+{{< side-by-side top=12 bottom=12 img-position=right img=onboarding-aes-en img-width=460 img-alt="A large contract (FES) in front of a house" >}}
+{{% markdown %}}
+## Onboarding for Advanced electronic signature (AES)
+Organisation-wide implementation with a few clicks.
+Suitable for contracts without formal requirements.
+{{% /markdown %}}
+<br>
+{{< button
+  "Learn more"
+  "/identification/aes-for-business/"
+  ""
+  "outline">}}
+{{< /side-by-side >}}
+
+[//]: # (--------------------------------------------------------------------------------------------------------------)
+
+{{< side-by-side top=4 bottom=12 img=onboarding-qes-en img-width=380 img-alt="A large contract (QES) with a court" >}}
 {{% markdown %}}
 ## On-Boarding for the qualified electronic signature (QES)
 Identification services for highest demands on the legal weight of the signature. Suitable for contracts with formal requirements.
 {{% /markdown %}}
 <br>
 {{< button
-  "Download Factsheet"
-  "https://cdn2.hubspot.net/hubfs/5051692/Factstheets/Identification/English/Skribble_Overview_Identification_EN.pdf"
-  "_blank"
+  "Learn more"
+  "/identification/"
+  ""
   "outline"
 >}}
 {{< /side-by-side >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< content text=center top=8 bottom=8 width=narrow >}}
+{{< content text=center top=16 bottom=8 width=narrow >}}
 {{% markdown %}}
 # Ideal cost-benefit ratio
 Choose the right pricing model for your organization.
