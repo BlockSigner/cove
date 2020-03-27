@@ -1,7 +1,7 @@
 ---
 title: Skribble
 description: Easily handle digital signature processes – legally binding in accordance with Swiss & EU law.
-slug: ie-fallback
+slug: upgrade-your-browser
 type: blank
 
 ---
