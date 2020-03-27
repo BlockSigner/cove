@@ -171,7 +171,7 @@
         let scheduledStr = (scheduledAt.toLocaleDateString(undefined, dateformat));
 
         let scheduleElem = document.createElement('div');
-        scheduleElem.setAttribute('class', 'status-block');
+        scheduleElem.setAttribute('class', 'status-block show');
 
         let tblElem = document.createElement('table');
         tblElem.setAttribute('class', 'status-table');
@@ -189,7 +189,6 @@
         document.getElementById('schedule-list').appendChild(scheduleElem);
         document.getElementById('schedule-block').style.display = "block";
       }
-
 
 
       function generateIncidentHistory() {
@@ -226,7 +225,7 @@
         let occuredStr = (occuredAt.toLocaleDateString(undefined, dateformat));
 
         let incidentElem = document.createElement('div');
-        incidentElem.setAttribute('class', 'status-block');
+        incidentElem.setAttribute('class', 'status-block show');
 
         let tblElem = document.createElement('table');
         tblElem.setAttribute('class', 'status-table');
@@ -260,7 +259,7 @@
 
       function createEmptyIncidentListInfo() {
         let noIncidentElem = document.createElement('div');
-        noIncidentElem.setAttribute('class', 'status-block status-history__block');
+        noIncidentElem.setAttribute('class', 'status-block show status-history__block');
         noIncidentElem.innerHTML = `<span style="margin">No incidents occured in the last seven days.</span>`;
         document.getElementById('incidents-list').appendChild(noIncidentElem);
       }
