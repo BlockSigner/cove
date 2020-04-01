@@ -71,7 +71,7 @@ Schweizer Telecom-Anbieter sind dazu verpflichtet, vor Vertragsabschluss ID oder
 {{< cta-group >}}
 
 {{< cta
-  label="Mehr infos"
+  label="Mehr erfahren"
   href="de/identifikation/fes-fuer-business/"
   target=""
   outlined="true"
@@ -85,7 +85,7 @@ Schweizer Telecom-Anbieter sind dazu verpflichtet, vor Vertragsabschluss ID oder
 {{< /cta >}}
 
 {{< cta
-  label="Mehr infos"
+  label="Mehr erfahren"
   href="https://www.skribble.com/de/signaturstandards/"
   target=""
   outlined="true"
