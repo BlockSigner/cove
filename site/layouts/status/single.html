@@ -19,8 +19,8 @@
     </div>
 
     <div class="content">
-      <div class="skr-container pt-16 pb-8">
-        <ul data-status class="status-block status-list" id="status-list"></ul>
+      <div class="skr-container pt-10 pb-8">
+        <table data-status data-status-list class="status-block status-list"></table>
       </div>
     </div>
 
@@ -112,8 +112,8 @@
 
 
       function createComponentListEntry(name, status) {
-        let liHead = document.createElement('liHead');
-        liHead.setAttribute('class', 'status-list__item');
+        let row = document.createElement('tr');
+        row.setAttribute('class', 'status-list__row');
 
         let statusMsg, statusImgSrc;
         switch (status) {
@@ -133,11 +133,16 @@
             break;
         }
 
-        let statusHtml = `<strong>${statusMsg}</strong>
-                          <img class="status-list__status-img" src="${statusImgSrc}" />`;
-        liHead.innerHTML = `<div class="status-list__label">${name}</div>
-                            <div class="status-list__status">${statusHtml}</div>`;
-        document.getElementById('status-list').appendChild(liHead);
+        row.innerHTML = `
+          <td class="status-list__column">${name}</td>
+          <td class="status-list__column">
+            <div class="status-list__status">
+              <strong>${statusMsg}</strong>
+              <img src="${statusImgSrc}" />
+            </div>
+          </td>`;
+
+        document.querySelectorAll('[data-status-list]')[0].appendChild(row);
       }
 
 
