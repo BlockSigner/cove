@@ -1,5 +1,7 @@
 <footer>
-  {{ partial "footer-slots" . }}
+  {{ if not (eq (.Scratch.Get "hide-conversion") "true") }}
+    {{ partial "footer-slots" . }}
+  {{ end }}
   {{ partial "footer-navigation" . }}
   {{ partial "footer-language-switcher" . }}
 </footer>

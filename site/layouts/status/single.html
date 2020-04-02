@@ -322,6 +322,7 @@
     </script>
 
   </main>
+  {{ .Scratch.Set "hide-conversion" "true" }}
   {{ block "footer" . }}{{ partial "footer" . }}{{end}}
 </div>
 {{ end }}
