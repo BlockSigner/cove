@@ -21,30 +21,26 @@
     <div class="content">
       <div class="skr-container pt-10 pb-8">
         <table data-status data-status-list class="status-block status-list"></table>
+        <div class="status-list-legend">
+          <div></div>
+          <button class="btn btn--outline" type="button" onclick="toggleHistoryVisibility()">History</button>
+        </div>
       </div>
     </div>
 
     <div class="status-schedule" id="schedule-block">
       <div class="content">
-        <div class="skr-container pt-4 pb-4" id="schedule-list">
-
-        </div>
+        <div class="skr-container pt-4 pb-4" id="schedule-list"></div>
       </div>
     </div>
 
-    <div class="status-history">
-      <div class="content">
-        <div class="skr-container pt-4 pb-4">
-          <div class="markdown" onclick="toggleHistoryVisibility()">
-              <h2 style="display:inline" id="history-header">History</h2><img class="status-history__img_toggle-visibility" id="toggleImg" src="plus.svg" />
+    <div class="content">
+      <div class="skr-container pt-4 pb-4">
+        <div class="status-history" id="incidents-list">
+          <div class="markdown">
+            <h2 id="history-header">History</h2>
           </div>
-        </div>
-      </div>
-      <div class="content">
-        <div class="skr-container pb-24">
-          <div class="status-history__incidents" id="incidents-list">
-
-          </div>
+          <div class="status-history__incidents"></div>
         </div>
       </div>
     </div>
@@ -212,7 +208,6 @@
             });
             if (isEmptyHistory) {
               createEmptyIncidentListInfo();
-              toggleHistoryVisibility();
             }
           } else {
             console.log("The IncidentRequest failed!");
@@ -287,15 +282,12 @@
 
       function toggleHistoryVisibility() {
         let historyElement = document.getElementById("incidents-list");
-        let toggleImage = document.getElementById("toggleImg");
-        let historyHeader = document.getElementById("history-header");
+
         if (historyElement.style.display == "none" ||
           historyElement.style.display == "") {
           historyElement.style.display = "block";
-          toggleImage.src = "minus.svg";
         } else {
           historyElement.style.display = "none";
-          toggleImage.src = "plus.svg";
         }
       }
 

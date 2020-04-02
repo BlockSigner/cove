@@ -110,9 +110,10 @@
   }
 
   &-history {
+    display: none;
 
-    &__incidents{
-      display: none;
+    &__incidents {
+      margin-top: 20px;
     }
 
     &__block{
