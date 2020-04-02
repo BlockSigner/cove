@@ -22,7 +22,20 @@
       <div class="skr-container pt-10 pb-8">
         <table data-status data-status-list class="status-block status-list"></table>
         <div class="status-list-legend">
-          <div></div>
+          <div class="status-list-legend__labels">
+            <div class="status-list-legend__label">
+              <img class="status-list-legend__img" src="status-good.svg" alt="Operational: green" />
+              Operational
+            </div>
+            <div class="status-list-legend__label">
+              <img class="status-list-legend__img" src="status-disrupted.svg" alt="Limited service: yellow" />
+              Limited service
+            </div>
+            <div class="status-list-legend__label">
+              <img class="status-list-legend__img" src="status-outage.svg" alt="Outage: red" />
+              Outage
+            </div>
+          </div>
           <button class="btn btn--outline" type="button" onclick="toggleHistoryVisibility()">History</button>
         </div>
       </div>

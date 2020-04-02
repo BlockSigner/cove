@@ -60,8 +60,11 @@
       justify-content: space-between;
       align-items: center;
       padding-top: 32px;
+      @include max-width {
+        flex-wrap: wrap;
+      }
 
-      &_img {
+      &__img {
         margin-right: 10px;
       }
 
@@ -69,6 +72,10 @@
         display: flex;
         align-items: center;
         height: 56px;
+        @include max-width {
+          flex-wrap: wrap;
+          height: auto;
+        }
       }
 
       &__label {
