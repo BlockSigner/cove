@@ -8,7 +8,9 @@ slug: signaturstandards
 
 {{< content text=center top=16 width=narrow >}}
 {{% markdown %}}
-# Wie viel Beweiskraft braucht meine E-Signatur?
+Wie viel Beweiskraft 
+braucht meine E-Signatur?
+=========================
 Das Gesetz unterscheidet zwischen der qualifizierten E-Signatur (QES),
 der fortgeschrittenen E-Signatur (FES) und der einfachen E-Signatur (EES).
 Die drei Standards variieren punkto Einsatzgebiet und Beweiskraft.
