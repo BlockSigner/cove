@@ -33,15 +33,16 @@
     border-collapse: collapse;
     border-spacing: 0;
     table-layout: auto;
+    color: $c-text-alt;
 
     &__column {
       padding: 20px;
       border: 1px solid $c-border;
       &:first-child {
-        width: 75%;
+        width: 78%;
       }
       &:last-child {
-        width: 25%;
+        width: 22%;
       }
     }
 
