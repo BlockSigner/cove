@@ -34,7 +34,7 @@ Diese Nutzungsbedingungen regeln Ihre Verwendung der Skribble Cloud-Lösung (Skr
 5. Systemnutzer nutzen die Plattform nicht in unzulässiger Weise. Insbesondere dürfen der Kunde und Systemnutzer:
     1. die Skribble-Dienste nicht in einer Art und Weise nutzen, die Urheberrechte, 	Datenbankrechte, Marken, Geheimhaltungsansprüche oder andere Rechte des geistigen Eigentums verletzt oder gegen Datenschutzrecht oder das Recht auf Privatsphäre oder sonstige Persönlichkeitsrechte Dritter verstösst.
     2. die Skribble-Dienste nicht für gewerbliche Zwecke ausserhalb des von 	Skribble vorgegebenen Rahmens nutzen.
-    3. Schadsoftware (wie z.B. Viren, Malware, Trojaner, Viren, Scripte), andere 	Computercodes, -dateien oder -programme (wie Browser mit Scraping- oder Crawling-Funktion) in die Skribble-Dienste einspielen.
+    3. keine Schadsoftware (wie z.B. Viren, Malware, Trojaner, Viren, Scripte), andere 	Computercodes, -dateien oder -programme (wie Browser mit Scraping- oder Crawling-Funktion) in die Skribble-Dienste einspielen.
     4. keine unaufgeforderte Massenmailings versenden (SPAM, Mailbomben, etc.).
 6. Systemnutzer dürfen sich nicht als eine fremde Person oder Organisation ausgeben oder ihre Zugehörigkeit bzw. Beziehung zu einer solchen falsch angeben oder auf andere Art falsch darstellen.
 7. Systemnutzer sorgen selbständig für die Sicherung von Daten in ihrem Account. Skribble schuldet keine Datenverfügbarkeit.
