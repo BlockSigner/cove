@@ -1,0 +1,19 @@
+<div class="signature-quality-bar siqaba">
+  <div class="siqaba__stage">
+    <div class="siqaba__heading">
+      {{ .Get "title" }}
+    </div>
+    <div class="siqaba__bar {{ if .Get "class" }}{{ .Get "class" }}{{ end }}">
+      <div class="siqaba__row">
+        <div class="siqaba__title">{{ .Get "top-left" }}</div>
+        <div class="siqaba__top">{{ .Get "top-right" }}</div>
+      </div>
+      {{ if .Get "bottom-right" }}
+        <div class="siqaba__row">
+          <div></div>
+          <div class="siqaba__bottom">{{ .Get "bottom-right" }}</div>
+        </div>
+      {{ end }}
+    </div>
+  </div>
+</div>

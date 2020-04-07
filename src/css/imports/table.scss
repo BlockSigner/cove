@@ -4,6 +4,50 @@
   border-collapse: collapse;
   font-size: 1.6rem;
 
+  &-lock-container {
+    overflow: hidden;
+    @media only screen and (max-width: 870px) {
+      overflow: auto;
+      max-width: 100%;
+      margin-left: 10px;
+      margin-right: 10px;
+    }
+
+    .table {
+      min-width: 870px;
+
+      &--qualities-no-legend {
+        min-width: 660px;
+      }
+    }
+  }
+
+  &--fixed {
+    table-layout: fixed;
+  }
+
+  ul {
+    padding: 0 0 0 5px;
+    margin: 0;
+    list-style: none;
+    text-indent: -1.05em;
+
+    li {
+      margin: 0;
+      padding-left: 0;
+      margin-left: 8px;
+      &:before {
+        position: static;
+        top: auto;
+        display: inline;
+        border-radius: 0;
+        background: inherit;
+        margin: 0 1rem 0 0;
+        content: "•";
+      }
+    }
+  }
+
   tr {
     td {
       &:first-child {
@@ -47,6 +91,92 @@
     color: $c-text-alt;
     @include max-width {
       font-size: 1.8rem;
+    }
+  }
+
+  &--qualities {
+    width: 870px;
+    margin-left: auto;
+    margin-right: auto;
+    border-bottom: 0;
+
+    p:last-child {
+      margin-bottom: 0;
+    }
+
+    &, strong {
+      font-size: 1.4rem;
+    }
+
+    thead th {
+      width: 26%;
+      height: 0;
+      padding: 0;
+      font-size: .1px;
+      color: transparent;
+      &:first-child {
+        width: 22%;
+      }
+    }
+
+    tbody {
+      th {
+        padding: 0;
+        text-align: left;
+      }
+      tr {
+        &:first-child td {
+          border: 0;
+        }
+      }
+    }
+
+    tr td:last-child {
+      padding-right: 20px;
+    }
+
+    td {
+      border: 1px solid $c-border;
+    }
+
+    th {
+      font-weight: bold;
+      color: $c-text-alt;
+    }
+
+    th, td {
+      padding: 20px;
+      vertical-align: top;
+      white-space: normal;
+    }
+
+    .table__row-title {
+      position: relative;
+      padding: 20px 0;
+
+      &:before {
+        position: absolute;
+        left: 0;
+        right: 40px;
+        top: 0;
+        height: 3px;
+        background: $c-border;
+        content: '';
+      }
+    }
+
+    .signature-quality-bar,
+    tr .signature-quality-bar:last-child {
+      padding: 0;
+      vertical-align: bottom;
+    }
+
+    &-no-legend {
+      width: 660px;
+
+      thead th:first-child {
+        width: 0;
+      }
     }
   }
 }

@@ -206,6 +206,8 @@ Laissez-nous vous conseiller et trouver la solution d'identification adaptée à
 {{% markdown %}}
 # Identité électronique (e-ID)
 Les personnes qui se connectent à Skribble avec une e-ID vérifiée activent automatiquement la SEQ.
+
+**Prochainement:**
 {{% /markdown %}}
 
 {{< picture e-id-map 790 "E-ID, où vous pourrez bientôt vous inscrire avec Skribble." >}}

@@ -42,7 +42,7 @@
     }
 
     #qes-fes-table {
-      .icon-qes, .icon-fes {
+      .icon-qes, .icon-fes, .icon-ses {
         width: 44px;
         height: 44px;
         color: white;
@@ -61,20 +61,8 @@
         background-color: #006fe6;
       }
 
-      ul {
-        padding: 0px 0px 0px 5px;
-        margin: 0px;
-        list-style: none;
-        text-indent: -1.05em;
-
-        li {
-          margin-left: 8px;
-        }
-
-        li:before {
-          content: "•";
-          margin: 0 1rem 0 0;
-        }
+      .icon-ses {
+        background-color: #0B9BF0;
       }
 
       th:first-child, td:first-child {
@@ -110,7 +98,7 @@
         margin: 0px;
         border-spacing: 12px 0px;
       }
-      
+
       .header-with-image {
         display: flex;
         justify-content: space-between;
@@ -123,7 +111,7 @@
       td {
         border-top: none;
         border-bottom: 1px solid #DADEE6;
-        
+
         @media only screen and (max-width: 640px) {
           padding: 18px 8px !important;
         }
@@ -141,5 +129,5 @@
         border-bottom: none;
       };
     }
-    
+
 }

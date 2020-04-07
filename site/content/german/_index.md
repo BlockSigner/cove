@@ -103,7 +103,7 @@ den Alltag für uns und unseren Kunden." {{< /testimonial >}}
 
 {{< content top=20 text=center width=narrow >}}
 {{% markdown %}}
-# Mit Skribble erfüllst du <br class="hide-for-mobile">die rechtlichen Anforderungen
+# Mit Skribble erfüllst du die rechtlichen Anforderungen
 Signiere rechtsgültig und sicher gemäss folgenden Erfordernissen:
 {{% /markdown %}}
 {{< /content >}}
@@ -126,14 +126,100 @@ Skribble sowie Partner verwalten ihre Daten gemäss dem Bundesgesetz über den D
 
 {{< content top=24 text=center width=narrow >}}
 {{% markdown %}}
-# Mit Skribble maximierst du die Beweiskraft deiner Signatur
-Das Gesetz unterscheidet zwischen der qualifizierten E-Signatur (QES)
-und der fortgeschrittenen E-Signatur (FES). Die beiden Standards
-variieren punkto Einsatzgebiet und Beweiskraft.
+# Signiere immer mit dem optimalen Standard 
+Das Gesetz unterscheidet drei Signaturstandards. Sie variieren 
+punkto Einsatzgebiet und Beweiskraft. Bei Skribbble erhältst 
+du alle Standards aus einer Hand.
 {{% /markdown %}}
 {{< /content >}}
 
-{{< picture beweiskraft 664 "Ein Mann unterschreibt mit einem Füller digitale Dokumente nach Schweizer und Europäischen Recht" >}}
+{{< table top=12 bottom=12 lock-for-mobile="true" class="table--qualities table--qualities-no-legend" layout=fixed >}}
+<thead>
+  <tr>
+    <th scope="col"></th>
+    <th scope="col">EES</th>
+    <th scope="col">FES</th>
+    <th scope="col">QES</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <th scope="row"></th>
+    <td class="signature-quality-bar">
+      {{< signature-quality-bar
+        class=ses
+        title=Basic
+        top-left=EES
+        top-right="Einfache elektronische Signatur"
+      >}}
+    </td>
+    <td class="signature-quality-bar">
+      {{< signature-quality-bar
+        class=aes
+        title=Hoch
+        top-left=FES
+        top-right="Fortgeschrittene elektronische Signatur"
+        bottom-right=""
+      >}}
+    </td>
+    <td class="signature-quality-bar">
+      {{< signature-quality-bar
+        class=qes
+        title=Maximal
+        top-left=QES
+        top-right="Qualifizierte elektronische Signatur"
+        bottom-right="Handschriftlichen Unterschrift vor dem Gesetz gleichgestellt"
+      >}}
+    </td>
+  </tr>
+  <tr>
+    <th scope="row"></th>
+    <td>
+{{% markdown %}}
+
+**Dokumente**
+ohne gesetzliche Formvorschrift mit geringem Haftungsrisiko.
+&nbsp;
+
+**Beispiele:**
+Lieferanten-Offerten
+Bestellungen/Aufträge
+Organisationsinterne Dokumente
+Bekanntmachungen
+
+{{% /markdown %}}
+    </td>
+    <td>
+{{% markdown %}}
+**Dokumente**
+ohne gesetzliche Formvorschrift mit kalkulierbarem Haftungsrisiko.
+
+**Beispiele:**
+Mietvertrag 
+Kaufvertrag
+Einfacher Arbeitsvertrag
+Kontoeröffnung
+
+{{% /markdown %}}
+    </td>
+    <td>
+{{% markdown %}}
+
+**Dokumente**
+mit gesetzlicher Formvorschrift oder hohem Haftungsrisiko. 
+&nbsp;
+
+**Beispiele:**
+Konsumkreditvertrag
+Leiharbeitsverträge Kader-Arbeitsverträge
+Revisionsberichte
+Behördendokumente
+{{% /markdown %}}
+    </td>
+  </tr>
+
+</tbody>
+{{< /table >}}
 
 
 {{< cta
@@ -144,8 +230,7 @@ variieren punkto Einsatzgebiet und Beweiskraft.
 >}}
 
 {{% markdown %}}
-**Auf Skribble kannst du zwischen
-den Signaturstandards FES und QES wählen.**
+**Auf Skribble hast du die Wahl zwischen den Signaturstandards QES, FES und EES.**
 {{% /markdown %}}
 {{< /cta >}}
 

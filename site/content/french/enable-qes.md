@@ -399,8 +399,7 @@ Non. Votre e-ID est valable 5 ans ou jusqu'à l'expiration de la pièce d'identi
 {{% /collapsible %}}
 
 {{% collapsible 3 "Quels documents d'identité puis-je utiliser pour l'identification ?" %}}
-Un passeport ou une carte d'identité en cours de validité. Toutes les autres formes d'identification telles que le permis de séjour ou le permis de conduire
-ne sont pas suffisantes.
+Un passeport ou une carte d'identité en cours de validité. Toutes les autres formes d'identification telles que le permis de séjour ou le permis de conduire ne sont pas suffisantes.
 {{% /collapsible %}}
 
 {{% collapsible 4 "Où sont stockées les données des personnes identifiées?" %}}

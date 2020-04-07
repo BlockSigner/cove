@@ -71,7 +71,7 @@ Schweizer Telecom-Anbieter sind dazu verpflichtet, vor Vertragsabschluss ID oder
 {{< cta-group >}}
 
 {{< cta
-  label="Mehr infos"
+  label="Mehr erfahren"
   href="de/identifikation/fes-fuer-business/"
   target=""
   outlined="true"
@@ -85,7 +85,7 @@ Schweizer Telecom-Anbieter sind dazu verpflichtet, vor Vertragsabschluss ID oder
 {{< /cta >}}
 
 {{< cta
-  label="Mehr infos"
+  label="Mehr erfahren"
   href="https://www.skribble.com/de/signaturstandards/"
   target=""
   outlined="true"
@@ -206,6 +206,8 @@ Lass dich beraten und finde die passende Identifikations-Lösung für deine Firm
 {{% markdown %}}
 # Elektronische Identität (E-ID)
 Personen, die sich mit einer geprüften E-ID bei Skribble anmelden, schalten die QES automatisch frei.
+
+**Bald verfügbar:**
 {{% /markdown %}}
 
 {{< picture e-id-map 790 "E-ID, wo du in kürze bei Skribble signieren kannst." >}}

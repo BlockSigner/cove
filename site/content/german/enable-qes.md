@@ -402,13 +402,11 @@ Nein. Deine E-ID ist 5 Jahre lang gültig oder bis zum Ablauf des Ausweises, den
 {{% /collapsible %}}
 
 {{% collapsible 3 "Welche Ausweisdokumente kann ich für die Identifikation nutzen?" %}}
-Ein gültiger Pass oder eine gültige Identitätskarte. Alle anderen Ausweise wie
-der Ausländerausweis oder Führerschein reichen nicht aus.
+Ein gültiger Pass oder eine gültige Identitätskarte. Alle anderen Ausweise wie der Ausländerausweis oder Führerschein reichen nicht aus.
 {{% /collapsible %}}
 
 {{% collapsible 4 "Wo werden die Daten der identifizierten Personen gespeichert?" %}}
-Die erfassten Daten werden auf den Hochsicherheitsservern der Swisscom in
-der Schweiz gespeichert (Tier IV-Zertifizierung).
+Die erfassten Daten werden auf den Hochsicherheitsservern der Swisscom in der Schweiz gespeichert (Tier IV-Zertifizierung).
 {{% /collapsible %}}
 
 {{% collapsible 5 "Braucht es für die QES eine Mobile ID?" %}}

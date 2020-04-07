@@ -132,14 +132,78 @@ Skribble and its signing partner Swisscom commit to manage data in accordance wi
 
 {{< content top=24 text=center width=narrow >}}
 {{% markdown %}}
-# Use Skribble to maximise the legal weight of your signature
-The law distinguishes between qualified e-signatures (QES)
-and advanced e-signatures (AES). The two standards vary in terms
-of area of application and legal weight.
+# Always sign with the optimal standard
+The law distinguishes between three signature standards. 
+They vary in terms of area of application and legal weight. 
+Skribble is your one-stop-shop for all standards.
+
 {{% /markdown %}}
 {{< /content >}}
 
-{{< picture legal_weight 664 "Legal-weight" >}}
+{{< table top=12 bottom=12 lock-for-mobile="true" class="table--qualities table--qualities-no-legend" layout=fixed >}}
+<thead>
+  <tr>
+    <th scope="col"></th>
+    <th scope="col">SES</th>
+    <th scope="col">AES</th>
+    <th scope="col">QES</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <th scope="row"></th>
+    <td class="signature-quality-bar">
+      {{< signature-quality-bar
+        class=ses
+        title=Basic
+        top-left=SES
+        top-right="Simple electronic signature"
+      >}}
+    </td>
+    <td class="signature-quality-bar">
+      {{< signature-quality-bar
+        class=aes
+        title=High
+        top-left=AES
+        top-right="Advanced electronic signature"
+        bottom-right=""
+      >}}
+    </td>
+    <td class="signature-quality-bar">
+      {{< signature-quality-bar
+        class=qes
+        title=Maximum
+        top-left=QES
+        top-right="Qualified electronic signature"
+        bottom-right="Legally equivalent to the handwritten signature"
+      >}}
+    </td>
+  </tr>
+  <tr>
+    <th scope="row"></th>
+    <td>
+{{% markdown %}}
+**Documents**
+without formal requirements with low liability risk.
+&nbsp;
+{{% /markdown %}}
+    </td>
+    <td>
+{{% markdown %}}
+**Documents**
+without legal form requirement and with calculable liability risk.
+{{% /markdown %}}
+    </td>
+    <td>
+{{% markdown %}}
+**Documents**
+with legal form requirements or high liability risk.
+&nbsp;
+{{% /markdown %}}
+    </td>
+  </tr>
+</tbody>
+{{< /table >}}
 
 {{< cta
   bottom=24
@@ -149,7 +213,7 @@ of area of application and legal weight.
 >}}
 
 {{% markdown %}}
-**At Skribble you have the choice between the signature standards AES and QES.**
+**On Skribble you can choose between the signature standards QES, AES and SES.**
 {{% /markdown %}}
 {{< /cta >}}
 

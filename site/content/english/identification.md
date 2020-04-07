@@ -206,6 +206,8 @@ Let us advise you and find the right identification solution for your company.
 {{% markdown %}}
 # Electronic identity (e-ID)
 People who log on to Skribble with a verified e-ID automatically activate QES.
+
+**Coming soon:**
 {{% /markdown %}}
 
 {{< picture e-id-map 790 "Identification for the QES. Let us advise you and find the right identification solution for your company." >}}
