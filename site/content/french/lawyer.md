@@ -209,9 +209,6 @@ Non. Vous n'avez ni besoin d'une clé USB ni d'un lecteur de carte pour signer a
 Pas uniquement. Grâce à la signature visuelle, on peut voir sur le contrat imprimé qu'il a été signé numériquement. Cependant, comme les certificats numériques sont perdus lors de l'impression, la traçabilité de la signature et donc le caractère concluant correspondant ne sont pas donnés. Un contrat signé avec une signature électronique qualifiée doit donc toujours être conservé sous forme électronique.
 {{% /collapsible %}}
 
-{{% collapsible 14 "Quelle est la durée de validité de la signature Skribble? " %}}
-La SEQ est légalement valide pour une durée illimitée.
-{{% /collapsible %}}
 {{< /content >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
