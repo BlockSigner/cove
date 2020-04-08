@@ -205,9 +205,6 @@ Ja. Auf Skribble kannst du den höchsten verfügbaren E-Signatur-Standard wähle
 Nicht ausschliesslich. Dank der visuellen Signatur ist auf dem ausgedruckten Vertrag ersichtlich, dass er digital signiert wurde. Da die digitalen Zertifikate mit dem Ausdrucken aber verloren gehen, ist die Nachvollziehbarkeit der Signatur und damit die entsprechende Beweiskraft nicht gegeben. Ein Vertrag, welcher mit einer qualifizierten elektronischen Signatur unterschrieben ist, muss deshalb immer in elektronischer Form gespeichert werden.
 {{% /collapsible %}}
 
-{{% collapsible 14 "Wie lange ist die Skribble Signatur rechtsgültig?" %}}
-Die QES ist zeitlich uneingeschränkt rechtsgültig.
-{{% /collapsible %}}
 {{< /content >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
