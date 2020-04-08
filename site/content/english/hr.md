@@ -199,10 +199,6 @@ Yes. On Skribble you can choose the highest e-signature standard available: the 
 Not exclusively. Thanks to the visual signature, it can be seen on the printed contract that it has been digitally signed. However, since the digital certificates are lost when printed out, the traceability of the signature and thus the corresponding conclusiveness is not given. A contract signed with a qualified electronic signature must therefore always be stored in electronic form.
 {{% /collapsible %}}
 
-{{% collapsible 14 "How long is a Skribble signature legally binding?" %}}
-The QES is legally valid for an unlimited period of time.
-{{% /collapsible %}}
-
 {{< /content >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
