@@ -83,7 +83,7 @@ desto höher deren Beweiskraft.
 {{< picture signaturestandard-teaser 90 "Eine Hand mit einem Füllfederhalter unterzeichnet einen grünen Vertrag." >}}
 
 {{% markdown %}}
-**Signaturstandards: Wann nutze ich QES, wann FES?**
+**Wann nutze ich welchen Signaturstandard?**
 {{% /markdown %}}
 {{< /cta >}}
 
