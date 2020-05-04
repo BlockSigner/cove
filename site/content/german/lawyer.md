@@ -88,8 +88,8 @@ Du signierst rechtsgültig und sicher gemäss folgenden Erfordernissen:
 {{< /content >}}
 
 {{< content top=6 width=narrow >}}
-{{% collapsible 1 "E-Signatur-Standards QES und FES gemäss ZertES/eIDAS" "check" %}}
-Skribble arbeitet ausschliesslich mit gesetzlich definierten E-Signatur-Standards: Die qualifizierte elektronische Signatur (QES) und die fortgeschrittene elektronische Signatur (FES).
+{{% collapsible 1 "E-Signatur-Standards gemäss ZertES/eIDAS" "check" %}}
+Skribble arbeitet mit gesetzlich definierten E-Signatur-Standards: Die qualifizierte elektronische Signatur (QES), die fortgeschrittene elektronische Signatur (FES) und die einfache elektronische Signatur (EES).
 {{% /collapsible %}}
 
 {{% collapsible 2 "Schriftlichkeitserfordernis gemäss OR/BGB" "check" %}}
