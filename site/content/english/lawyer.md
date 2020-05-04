@@ -89,8 +89,8 @@ with the following requirements:
 {{< /content >}}
 
 {{< content top=6 width=narrow >}}
-{{% collapsible 1 "E-signature standards QES and AES according to ZertES/eIDAS" "check" %}}
-Skribble works exclusively with legally defined e-signature standards: The qualified electronic signature (QES) and the advanced electronic signature (AES).
+{{% collapsible 1 "E-signature standards according to ZertES/eIDAS" "check" %}}
+Skribble works with legally defined e-signature standards: The qualified electronic signature (QES), the advanced electronic signature (AES) and the simple electronic signature (SES).
 {{% /collapsible %}}
 
 {{% collapsible 2 "Requirement of written form according to OR/BGB" "check" %}}
