@@ -108,8 +108,8 @@ en remplissant les conditions suivantes:
 {{< /content >}}
 
 {{< content top=6 width=narrow >}}
-{{% collapsible 1 "Normes de signature électronique SEQ und SEA selon SCSE/eIDAS" "check" %}}
-Skribble travaille exclusivement avec des standards de signature électronique légalement définis: la signature électronique qualifiée (SEQ) et la signature électronique avancée (SEA).
+{{% collapsible 1 "Normes de signature électronique selon SCSE/eIDAS" "check" %}}
+Skribble travaille avec des standards de signature électronique légalement définis: la signature électronique qualifiée (SEQ), la signature électronique avancée (SEA) et la signature électronique simple (SES).
 {{% /collapsible %}}
 
 {{% collapsible 2 "Exigence de la forme écrite selon le CO/BGB" "check" %}}
