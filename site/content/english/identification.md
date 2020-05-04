@@ -246,11 +246,15 @@ A growing number of people in Europe have a validated electronic identity (e-ID)
 {{< content text=left width=narrow >}}
 
 {{% collapsible 10 "When do I use which signature standard?" %}}
-The advanced electronic signature (AES) is legally valid for all contracts for which the law does not prescribe a specific form (contracts without the written form). You use the qualified electronic signature (QES) for contracts with a written requirement or to meet internal compliance requirements. You can find examples and more information at: https://www.skribble.com/signaturestandards/
+The simple electronic signature (SES) and the advanced electronic signature (AES) are legally valid for all contracts for which the law does not prescribe a specific form (contracts without the written form). You use the qualified electronic signature (QES) for contracts with a written requirement or to meet internal compliance requirements. You can find examples and more information at: https://www.skribble.com/signaturestandards/
 {{% /collapsible %}}
 
-{{% collapsible 12 "Why is identification different for AES and QES?" %}}
-The legal identification requirements are not the same. QES is the highest standard and is equivalent to a handwritten signature. The identification requirements for QES are precisely defined in the law. With AES, providers have more freedom. When selecting identification procedures for AES, Skribble pays attention to simplicity of use and maximisation of legal weight.
+{{% collapsible 11 "Which identification measures are required for the simple electronic signature (SES)?" %}}
+With SES, the e-mail address serves as an identification element. The e-mail address must be confirmed by clicking on a link that is sent to the corresponding e-mail address.
+{{% /collapsible %}}
+
+{{% collapsible 12 "Why is identification different for EES, AES and QES?" %}}
+The legal identification requirements are not the same. QES is the highest standard and is equivalent to a handwritten signature. The identification requirements for QES are precisely defined in the law. With SES and AES, providers have more freedom. When selecting identification procedures for EES and AES, Skribble pays attention to simplicity of use and maximisation of legal weight.
 {{% /collapsible %}}
 
 {{< /content >}}
