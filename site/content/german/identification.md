@@ -248,6 +248,10 @@ Eine wachsende Anzahl Menschen in Europa verfügt über eine geprüfte elektroni
 Die fortgeschrittene elektronische Signatur (FES) ist bei allen Verträgen rechtsgültig, bei denen das Gesetz keine spezielle Form vorschreibt (formfreie Verträge). Die qualifizierte elektronische Signatur (QES) nutzt du bei Verträgen mit Formvorschrift oder um internen Compliance-Anforderungen zu genügen. Beispiele und mehr Informationen findest du unter: https://www.skribble.com/de/signaturstandards/
 {{% /collapsible %}}
 
+{{% collapsible 11 "Welche Identifikationmsmassnahmen werden für die einfache elektronische Signatur (EES) vorausgesetzt?" %}}
+Bei der EES dient die E-Mail-Adresse als Identifikationselement. Die E-Mail-Adresse muss mit Klick auf einen Link, der an die entsprechende E-Mail-Adresse gesendet wird, bestätigt werden.
+{{% /collapsible %}}
+
 {{% collapsible 12 "Wieso unterscheidet sich die Identifikation bei der FES und der QES?" %}}
 Die gesetzlichen Identifikations-Anforderungen sind nicht dieselben.
 Die QES ist der höchste Standard und der handschriftlichen Unterschrift gleichgestellt. Die Identifikationsanforderung für die QES sind im Gesetzt genau definiert.
