@@ -245,13 +245,17 @@ Un nombre croissant de personnes en Europe a une identité électronique validé
 {{< content text=left width=narrow >}}
 
 {{% collapsible 10 "Quand dois-je utiliser quelle norme de signature?" %}}
-La signature électronique avancée (SEA) est juridiquement valable pour tous les contrats pour lesquels la loi ne prescrit pas de forme spécifique (contrats sans forme). Vous utilisez la signature électronique qualifiée (SEQ) pour les contrats comportant une exigence formelle ou pour répondre à des exigences de conformité internes. Vous trouverez des exemples et de plus amples informations sur le site: https://www.skribble.com/fr/normessignature/.
+La signature électronique simple (SES) et la signature électronique avancée (SEA) sont juridiquement valables pour tous les contrats pour lesquels la loi ne prescrit pas de forme spécifique (contrats sans forme). Vous utilisez la signature électronique qualifiée (SEQ) pour les contrats comportant une exigence formelle ou pour répondre à des exigences de conformité internes. Vous trouverez des exemples et de plus amples informations sur le site: https://www.skribble.com/fr/normessignature/.
 {{% /collapsible %}}
 
-{{% collapsible 12 "Pourquoi l'identification est-elle différente entre la SEA et la SEQ ?" %}}
+{{% collapsible 11 "Quelles sont les mesures d'identification requises pour la signature électronique simple (SES)?" %}}
+Dans le cas de la SES, l'adresse e-mail sert comme élément d'identification. L'adresse e-mail doit être confirmé en cliquant sur un lien qui est envoyé à l'adresse e-mail correspondante.
+{{% /collapsible %}}
+
+{{% collapsible 12 "Pourquoi l'identification est-elle différente entre la EES, SEA et la SEQ ?" %}}
 Les exigences légales d'identification ne sont pas les mêmes.
 La SEQ est la norme la plus élevée et équivaut à une signature manuscrite. Les exigences d'identification pour la SEQ sont précisément définies dans la loi.
-Avec la SEA, les fournisseurs sont plus libres. Lors de la sélection des procédures d'identification pour la SEA, Skribble est attentif à la simplicité d'utilisation et à la maximisation de la force probante.
+Avec la SES et la SEA, les fournisseurs sont plus libres. Lors de la sélection des procédures d'identification pour la SES et la SEA, Skribble est attentif à la simplicité d'utilisation et à la maximisation de la force probante.
 {{% /collapsible %}}
 
 {{< /content >}}
