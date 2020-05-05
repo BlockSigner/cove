@@ -1,5 +1,5 @@
 ---
-title: Nous vous identifions avec l’ID-app de Swisscom
+title: Maximisez la valeur probante de votre signature électronique
 description: Quatre petites étapes et vous pouvez commencer à signer. Il vous suffit d’avoir un téléphone mobile et un document de voyage valide.
 draft: false
 slug: debloquez-seq
