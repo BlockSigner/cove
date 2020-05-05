@@ -1,6 +1,6 @@
 ---
-title: Skribble – Legally binding electronic signatures with Skribble
-description: Easily handle digital signature processes – legally binding in accordance with Swiss & EU law.
+title: Skribble features
+description: With Skribble you not only sign legally, but also with ease. Upload the ready to sign PDF document via browser or use Skribble via API.
 
 draft: false
 slug: features
