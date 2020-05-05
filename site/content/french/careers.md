@@ -1,6 +1,7 @@
 ---
 title: Votre carrière au Skribble
-description: Avec Skribble, les processus de signature sont gérés à 100% numériquement, sur la base de la signature électronique qualifiée "SEQ" – la signature électronique qui équivaut à une signature manuscrite, selon la loi suisse et européenne.
+description: Collaborer et progresser avec des personnes motivées et inspirantes. Nous te permettons de surmonter des nouveaux challenges et de développer Skribble et toi-même.
+
 draft: false
 slug: carriere
 # opengraph image (for facebook and twitter)
