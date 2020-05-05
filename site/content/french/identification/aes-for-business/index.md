@@ -1,6 +1,6 @@
 ---
 title: SEA pour Business – implémentation à toute l'organisation en quelques clics
-description: Permettez à l'ensemble de votre personnel de signer avec la signature électronique avancée (SEA).
+description: Permettez à l'ensemble de votre personnel de signer avec la signature électronique avancée (SEA). Adresse e-mail professionnelle comme élément d’identification.
 draft: false
 slug: sea-pour-business
 translationKey: identification-aes-for-business
