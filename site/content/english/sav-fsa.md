@@ -1,6 +1,6 @@
 ---
 title: Skribble – Legally binding electronic signatures with Skribble
-description: Easily handle digital signature processes – legally binding in accordance with Swiss & EU law.
+description: SAV-FSA members use Skribble at a preferential price. Easily handle digital signature processes – legally binding in accordance with Swiss & EU law.
 draft: false
 slug: sav-fsa
 type: blank
