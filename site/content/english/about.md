@@ -1,6 +1,6 @@
 ---
 title: Skribble builds trust in the digital world
-description: With Skribble signature processes are 100% digital, based on the qualified electronic signature “QES” - the e-signature, which is equivalent to your hand-written signature according to Swiss and EU law.
+description: Skribble is a one-stop shop for electronic signatures that makes signature processes 100% digital. Skribble provides the legally suitable electronic signature for every type of contract.
 draft: false
 slug: about
 # opengraph image (for facebook and twitter)
