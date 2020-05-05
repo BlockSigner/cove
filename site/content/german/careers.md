@@ -1,6 +1,6 @@
 ---
-title: Your career at Skribble
-description: Mit Skribble werden Signaturprozesse 100% digital abgewickelt, basierend auf der qualifizierten elektronischen Signatur “QES” - die e-Unterschrift, die vor Schweizer und EU Gesetz der handschriftlichen Unterschrift gleichgestellt ist.
+title: Arbeiten bei Skribble
+description: Entwickle dich und deine Karriere zusammen mit motivierten und inspirierenden Personen. Wir bieten dir die Chance neue Herausforderungen gemeinsam zu lösen und zu wachsen.
 draft: false
 slug: karriere
 # opengraph image (for facebook and twitter)
