@@ -1,5 +1,5 @@
 ---
-title: QES vs. AES at a glance. At Skribble you have the choice.
+title: SES, AES & QES at a glance. At Skribble you have the choice
 description: How much legal weight do you need? The law distinguishes between qualified e-signatures (QES) and advanced e-signatures (AES).
 draft: false
 slug: signaturestandards
