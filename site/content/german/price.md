@@ -1,6 +1,6 @@
 ---
 title: Signiere einfacher mit dem passenden Preismodell
-description: Skribble eignet sich sowohl für gelegentliches wie auch für häufiges Signieren.
+description: Skribble eignet sich sowohl für gelegentliches wie auch für häufiges Signieren. Finde das passende Preismodell für deine Anwendung.
 draft: false
 slug: preise
 
