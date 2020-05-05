@@ -1,6 +1,6 @@
 ---
-title: Skribble builds trust in the digital world
-description: With Skribble signature processes are 100% digital, based on the qualified electronic signature “QES” - the e-signature, which is equivalent to your hand-written signature according to Swiss and EU law.
+title: Sign economically with the right plan
+description: Skribble is suitable for both occasional and frequent signing. No credit card, entrance fee or commitment required.
 draft: false
 slug: pricing
 # opengraph image (for facebook and twitter)
