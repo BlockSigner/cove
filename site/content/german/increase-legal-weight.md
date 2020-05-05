@@ -1,6 +1,6 @@
 ---
-title: Erhöhe die Beweiskraft deiner E-Signatur
-description: Schalte einen E-Signatur-Standard mit höherer Beweiskraft frei. Das Verfahren unterscheidet sich je nach Standard. Je eindeutiger deine E-Singatur dir als Person zugeordnet werden kann, desto höher deren Beweiskraft.
+title: Erhöhe die Beweiskraft deiner elektronischen Signatur
+description: Schalte einen E-Signatur-Standard mit höherer Beweiskraft frei. Je eindeutiger deine E-Singatur dir als Person zugeordnet werden kann, desto höher deren Beweiskraft.
 draft: false
 slug: beweiskraft-erhoehen
 # opengraph image (for facebook and twitter)
