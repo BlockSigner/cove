@@ -1,5 +1,5 @@
 ---
-title: SEQ vs SEA en un coup d'œil. Sur Skribble, vous pouvez choisir entre les deux
+title: De combien de force probante ma e-signature a-t-elle besoin?
 description: La loi établit une distinction entre les signatures électroniques qualifiées (SEQ) et les signatures électroniques avancées (SEA).
 draft: false
 slug: normessignature
