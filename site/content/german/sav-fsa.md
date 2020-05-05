@@ -1,6 +1,6 @@
 ---
-title: Skribble – Rechtsgültig elektronisch signieren
-description: Signaturprozesse einfach digital abwickeln – Rechtsgültig nach dem Schweizer & EU-Gesetz.
+title: SAV-FSA Mitglieder nutzen Skribble zum Vorzugspreis
+description: Über Skribble signierst du ohne USB-Stick oder Card-Reader mit dem höchsten verfügbaren E-Signatur-Standard (QES).
 draft: false
 slug: sav-fsa
 type: blank
