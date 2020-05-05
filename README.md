@@ -7,6 +7,7 @@ Deploy:
 
 # Table of Contents
 - [How to Use](#how-to-use)
+- [Update my.skribble status banner](#update-myskribble-status-banner)
 - [Frontend Components](#frontend-components)
   - [The basics](#the-basics)
   - [Menu component](#menu-component)
@@ -111,16 +112,12 @@ After publishing, your changes appear on the cove GitHub page of BlockSigner: ht
 
 The changes are online after merging into master. Master is automatically built and deployed.
 
----
-
 ## Update my.skribble status banner
 To show the status message in WAVE, edit the https://github.com/BlockSigner/cove/blob/master/site/static/my.skribble/status.txt file in the COVE repository. An example text can be found here: https://github.com/BlockSigner/cove/commit/b4f8cbb61ce515260d4f07bcaa39b293b8700ec5 
 
 Once the system is back to normal, empty the status.txt file to hide the status message or revert your commit.
 
-**Heads-up:** Don't put any HTML in status.txt
-
----
+**Heads-up:** Don't put any HTML in `status.txt`
 
 ## Frontend components
 Frontend components can be inserted as needed in the markdown files that make up the pages of the website. You cannot add components in the Front Matter. The Front Matter defines page specific meta content. We use it for the meta title and description of the page and for defining open graph images. The Front Matter area is indicated by 3 opening and 3 closing hyphens ( `---` ).
@@ -415,8 +412,6 @@ To provide a little bit of structure, we add the testimonial images in a folder 
 1. image
 2. footer
 3. alt (optional)
-
----
 
 ## Outlines
 To show component outlines and component labels, add the following styling to `main.scss`.
