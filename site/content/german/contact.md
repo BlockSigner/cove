@@ -1,5 +1,5 @@
 ---
-title: Skribble – Kontakt
+title: Kontakt – Skribble
 description: Du möchtest gerne elektronisch Signieren oder hast eine Frage? Dann kannst du dich gerne per Telefon oder E-Mail bei uns melden.
 draft: false
 slug: kontakt
