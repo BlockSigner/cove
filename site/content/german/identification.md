@@ -251,7 +251,7 @@ Bei der EES dient die E-Mail-Adresse als Identifikationselement. Die E-Mail-Adre
 
 {{% collapsible 12 "Wieso unterscheidet sich die Identifikation bei der EES, der FES und der QES?" %}}
 Die gesetzlichen Identifikations-Anforderungen sind nicht dieselben.
-Die QES ist der höchste Standard und der handschriftlichen Unterschrift gleichgestellt. Die Identifikationsanforderung für die QES sind im Gesetzt genau definiert.
+Die QES ist der höchste Standard und der handschriftlichen Unterschrift gleichgestellt. Die Identifikationsanforderungen für die QES sind im Gesetzt genau definiert.
 Bei der EES und der FES sind die Anbieter freier. Skribble achtet bei der Auswahl der Identifikationsverfahren für die EES und die FES auf die Einfachheit der Anwendung und die Maximierung der Beweiskraft.
 {{% /collapsible %}}
 
