@@ -255,8 +255,8 @@ The simple electronic signature (SES) and the advanced electronic signature (AES
 With SES, the e-mail address serves as an identification element. The e-mail address must be confirmed by clicking on a link that is sent to the corresponding e-mail address.
 {{% /collapsible %}}
 
-{{% collapsible 12 "Why is identification different for EES, AES and QES?" %}}
-The legal identification requirements are not the same. QES is the highest standard and is equivalent to a handwritten signature. The identification requirements for QES are precisely defined in the law. With SES and AES, providers have more freedom. When selecting identification procedures for EES and AES, Skribble pays attention to simplicity of use and maximisation of legal weight.
+{{% collapsible 12 "Why is identification different for SES, AES and QES?" %}}
+The legal identification requirements are not the same. QES is the highest standard and is equivalent to a handwritten signature. The identification requirements for QES are precisely defined in the law. With SES and AES, providers have more freedom. When selecting identification procedures for SES and AES, Skribble pays attention to simplicity of use and maximisation of legal weight.
 {{% /collapsible %}}
 
 {{< /content >}}
