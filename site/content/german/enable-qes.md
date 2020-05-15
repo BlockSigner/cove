@@ -8,15 +8,45 @@ slug: qes-freischalten
 og_image: og/og-skribble-identification.jpg
 
 ---
-
-{{< content text=center top=16 width=narrow >}}
+{{< content text=center top=16 bottom=8 width=narrow >}}
 {{% markdown %}}
 Maximiere die Beweiskraft 
 deiner E-Signatur
 ===============
-Schalte den höchsten verfügbaren E-Signatur-Standard (QES) frei,
-in dem du dich im persönlichen Kontakt mit der ID-App
-von Swisscom identifizieren lässt.
+Die (QES) schaltest du frei, in dem du dich online 
+via Video-Call oder im persönlichen Kontakt 
+mit der ID-App von Swisscom identifizieren lässt.
+{{% /markdown %}}
+{{< /content >}}
+
+[//]: # (--------------------------------------------------------------------------------------------------------------)
+
+{{< side-by-side top=12 bottom=24 mobile-top=6 mobile-bottom=12 img=qes-increase img-position=left img-width=315 img-alt="A man is sitting in front of a laptop, above him is a software window, where a woman stands out with a big magnifying glass and checks an identity card." >}}
+{{% markdown %}}
+Video-Identifikation 
+online
+===============
+Die Identifikation wird in Zusammenarbeit mit unseren Partnern Swisscom Trust Services und IdentityTM angeboten. 
+{{% /markdown %}}
+<br>
+{{< button
+  "Jetzt QES freischalten"
+  "http://videoident.me"
+  "_blank"
+  "outline"
+>}}
+{{< /side-by-side >}}
+
+[//]: # (--------------------------------------------------------------------------------------------------------------)
+
+
+{{< content text=center top=16 width=narrow >}}
+{{% markdown %}}
+Identifikation 
+im persönlichen Kontakt
+===============
+Die QES schaltest du frei, in dem du dich im persönlichen Kontakt
+mit der ID-App von Swisscom identifizieren lässt.
 {{% /markdown %}}
 {{< /content >}}
 
@@ -59,29 +89,13 @@ Die Beweiskraft deiner Signatur wird auf 100% angehoben (QES-Level)
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< content text=center top=12 bottom=8 >}}
+{{< content text=center top=24 bottom=8 >}}
 {{% markdown %}}
 # Standorte für die Identitätsprüfung
 Komm vorbei und lass dich kostenlos identifizieren.
 Bringe deinen gültigen Pass oder Identitätskarte mit sowie dein Mobiltelefon.
 {{% /markdown %}}
 {{< /content >}}
-
-{{< cta
-  label="Support kontaktieren"
-  href="support@skribble.com"
-  target="_blank"
-  outlined="true"
->}}
-
-{{< picture info-banner 90 "Circle with info sign." >}}
-
-{{% markdown %}}
-**Aufgrund der aktuellen Coronavirus-Situation können keine persönlichen Identifkationstermine wahrgenommen werden.**
-Bei Fragen bitte an Support wenden.
-{{% /markdown %}}
-{{< /cta >}}
-
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
@@ -330,11 +344,11 @@ CH-7742 Poschiavo
 
 {{< cta
   title="Zürich"
-  label="E-ID-Termin vereinbaren"
-  href="https://help.skribble.com/meetings/patrick182/identifikation-bei-skribble"
-  target="_blank"
+  label="076 200 77 48"
+  href="tel:+41762007748"
   class="id-site"
   outlined="true"
+  icon="phone"
 >}}
 
 {{< picture
@@ -346,10 +360,12 @@ CH-7742 Poschiavo
 >}}
 
 {{% markdown %}}
-**Skribble AG**
-FlexOffice
+**FlexOffice**
 Fraumünsterstrasse 16
 CH-8001 Zürich
+
+**Öffnungszeiten:**
+Mo - Fr: 09.00 - 17.00
 {{% /markdown %}}
 {{< /cta >}}
 
@@ -416,7 +432,7 @@ Nein. Aber mit einer Mobile-ID geht das Signieren schneller und einfacher, daher
 {{% /collapsible %}}
 
 {{% collapsible 6 "Was, wenn ich noch nicht persönlich identifiziert wurde?" %}}
-Die persönliche Identifikation wird nur für das Signieren mit dem höchsten E-Signatur-Standard (QES) vorausgesetzt. Wurdest du noch nicht persönlich identifiziert, signierst du mit dem zweithöchsten Standard (FES).
+Die persönliche Identifikation wird nur für das Signieren mit dem höchsten E-Signatur-Standard (QES) vorausgesetzt. Wurdest du noch nicht persönlich identifiziert, signierst du entweder mit einer einfachen (EES) oder fortgeschrittenen elektronischen Signatur (FES).
 {{% /collapsible %}}
 {{< /content >}}
 

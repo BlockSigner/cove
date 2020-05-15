@@ -138,7 +138,70 @@ of application and legal weight.
 {{% /markdown %}}
 {{< /content >}}
 
-{{< picture legal_weight 664 "Legal-weight" >}}
+{{< table top=8 lock-for-mobile="true" class="table--qualities table--qualities-no-legend" layout=fixed >}}
+<thead>
+  <tr>
+    <th scope="col"></th>
+    <th scope="col">SES</th>
+    <th scope="col">AES</th>
+    <th scope="col">QES</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <th scope="row"></th>
+    <td class="signature-quality-bar">
+      {{< signature-quality-bar
+        class=ses
+        title=Basic
+        top-left=SES
+        top-right="Simple electronic signature"
+      >}}
+    </td>
+    <td class="signature-quality-bar">
+      {{< signature-quality-bar
+        class=aes
+        title=High
+        top-left=AES
+        top-right="Advanced electronic signature"
+        bottom-right=""
+      >}}
+    </td>
+    <td class="signature-quality-bar">
+      {{< signature-quality-bar
+        class=qes
+        title=Maximum
+        top-left=QES
+        top-right="Qualified electronic signature"
+        bottom-right="Equal to a handwritten signature according to Swiss and EU law"
+      >}}
+    </td>
+  </tr>
+  <tr>
+    <th scope="row"></th>
+    <td>
+{{% markdown %}}
+**Documents**
+that are informal or internal and have a low liability risk.
+&nbsp;
+{{% /markdown %}}
+    </td>
+    <td>
+{{% markdown %}}
+**Documents**
+without legal form requirement and with calculable liability risk.
+{{% /markdown %}}
+    </td>
+    <td>
+{{% markdown %}}
+**Documents**
+with legal form requirements or high liability risk.
+&nbsp;
+{{% /markdown %}}
+    </td>
+  </tr>
+</tbody>
+{{< /table >}}
 
 {{< cta
   label="Learn more"
@@ -195,8 +258,8 @@ Skribble' s data centre is located in Switzerland and is ISO 270001 certified (a
 {{% /collapsible %}}
 
 {{% collapsible 11 "What if I haven't been identified yet?" %}}
-Personal identification is only required in order to sign with the highest e-signature standard (QES). If you haven't been identified yet, you can sign with the second highest standard (AES).
-{{% /collapsible %}}
+Personal identification is only required for signing with the highest e-signature standard (QES). If you have not yet been identified in personal contact, you sign either with a simple (SES) or an advanced electronic signature (AES).
+{{< /collapsible >}}
 
 {{% collapsible 12 "Do I need additional hardware for signing with Skribble?" %}}
 No. You don't need a USB stick or a card reader to sign with Skribble. The two-factor authentication takes place with Skribble via mobile phone (Mobile ID or one time password).

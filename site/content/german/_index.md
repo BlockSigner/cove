@@ -79,7 +79,9 @@ und EU-Recht.
 
 {{< content top=12 bottom=6 text=center width=narrow >}}
 {{% markdown %}}
-# Signierst du mit Skribble, <br class="hide-for-mobile">sparst du Zeit im Arbeitsalltag
+Signierst du mit Skribble, 
+sparst du Zeit im Arbeitsalltag
+===============
 {{% /markdown %}}
 {{< /content >}}
 
@@ -103,7 +105,9 @@ den Alltag für uns und unseren Kunden." {{< /testimonial >}}
 
 {{< content top=20 text=center width=narrow >}}
 {{% markdown %}}
-# Mit Skribble erfüllst du die rechtlichen Anforderungen
+Mit Skribble erfüllst du 
+die rechtlichen Anforderungen
+===============
 Signiere rechtsgültig und sicher gemäss folgenden Erfordernissen:
 {{% /markdown %}}
 {{< /content >}}
@@ -126,14 +130,16 @@ Skribble sowie Partner verwalten ihre Daten gemäss dem Bundesgesetz über den D
 
 {{< content top=24 text=center width=narrow >}}
 {{% markdown %}}
-# Signiere immer mit dem optimalen Standard 
+Signiere immer 
+mit dem optimalen Standard 
+===============
 Das Gesetz unterscheidet drei Signaturstandards. Sie variieren 
 punkto Einsatzgebiet und Beweiskraft. Bei Skribbble erhältst 
 du alle Standards aus einer Hand.
 {{% /markdown %}}
 {{< /content >}}
 
-{{< table top=12 bottom=12 lock-for-mobile="true" class="table--qualities table--qualities-no-legend" layout=fixed >}}
+{{< table top=8 lock-for-mobile="true" class="table--qualities table--qualities-no-legend" layout=fixed >}}
 <thead>
   <tr>
     <th scope="col"></th>
@@ -178,27 +184,14 @@ du alle Standards aus einer Hand.
 {{% markdown %}}
 
 **Dokumente**
-ohne gesetzliche Formvorschrift mit geringem Haftungsrisiko.
+interner oder informeller Natur mit geringem Haftungsrisiko.
 &nbsp;
-
-**Beispiele:**
-Lieferanten-Offerten
-Bestellungen/Aufträge
-Organisationsinterne Dokumente
-Bekanntmachungen
-
 {{% /markdown %}}
     </td>
     <td>
 {{% markdown %}}
 **Dokumente**
 ohne gesetzliche Formvorschrift mit kalkulierbarem Haftungsrisiko.
-
-**Beispiele:**
-Mietvertrag 
-Kaufvertrag
-Einfacher Arbeitsvertrag
-Kontoeröffnung
 
 {{% /markdown %}}
     </td>
@@ -208,12 +201,6 @@ Kontoeröffnung
 **Dokumente**
 mit gesetzlicher Formvorschrift oder hohem Haftungsrisiko. 
 &nbsp;
-
-**Beispiele:**
-Konsumkreditvertrag
-Leiharbeitsverträge Kader-Arbeitsverträge
-Revisionsberichte
-Behördendokumente
 {{% /markdown %}}
     </td>
   </tr>
@@ -236,18 +223,43 @@ Behördendokumente
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< side-by-side width=narrow bottom=16 img-position=left img=aes-for-biz-home img-width=345 img-alt="Ein grosses Gebäude mit einem grossen Mauszeiger." >}}
+{{< content text=center top=4 width=narrow >}}
 {{% markdown %}}
-## Organisationsweite Einführung mit wenigen Klicks
-Deine gesamte Mitarbeiterschaft kann innert weniger Tage mit der fortgeschrittenen elektronischen Signatur (FES) signieren.
+Mit wenigen Klicks 
+zu mehr Beweiskraft 
+===============
+{{% /markdown %}}
+{{< /content >}}
+
+{{< content top=4 bottom=24 width=narrow display=flex >}}
+{{< step >}}
+{{< picture "video-ident" 250 "Eine lupe vergrößert das bild eines mannes in einem pass." >}}
+{{% markdown %}}
+**Video-Identifikation**
+Schalte die qualifizierte elektronische Signatur (QES) von zu Hause aus frei, in dem du dich via Video-Call identifizieren lässt.
 {{% /markdown %}}
 <br>
 {{< button
-  "Mehr infos"
+  "Mehr erfahren"
+  "/de/qes-freischalten/"
+  ""
+  "outline">}}
+{{< /step >}}
+
+{{< step >}}
+{{< picture "aes-for-biz-home-id" 280 "Ein grosser Pfeil, wie er eine Organsation, ein Hochhaus anklickt." >}}
+{{% markdown %}}
+**Organisationsweite Einführung**
+Schalte die fortgeschrittene elektronische Signatur (FES) innert weniger Tage für die gesamte Mitarbeiterschaft frei.
+{{% /markdown %}}
+<br>
+{{< button
+  "Mehr erfahren"
   "/de/identifikation/fes-fuer-business/"
   ""
   "outline">}}
-{{< /side-by-side >}}
+{{< /step >}}
+{{< /content >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 

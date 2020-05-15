@@ -81,7 +81,9 @@ Sign at the push of a button, independent of time and place, legally valid accor
 
 {{< content text=center top=12 width=narrow >}}
 {{% markdown %}}
-# If you sign with Skribble you save time at work
+If you sign with Skribble 
+you save time at work
+===============
 {{% /markdown %}}
 {{< /content >}}
 
@@ -140,7 +142,7 @@ Skribble is your one-stop-shop for all standards.
 {{% /markdown %}}
 {{< /content >}}
 
-{{< table top=12 bottom=12 lock-for-mobile="true" class="table--qualities table--qualities-no-legend" layout=fixed >}}
+{{< table top=8 lock-for-mobile="true" class="table--qualities table--qualities-no-legend" layout=fixed >}}
 <thead>
   <tr>
     <th scope="col"></th>
@@ -184,7 +186,7 @@ Skribble is your one-stop-shop for all standards.
     <td>
 {{% markdown %}}
 **Documents**
-without formal requirements with low liability risk.
+that are informal or internal and have a low liability risk.
 &nbsp;
 {{% /markdown %}}
     </td>
@@ -219,10 +221,34 @@ with legal form requirements or high liability risk.
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< side-by-side width=narrow bottom=16 img-position=left img=aes-for-biz-home img-width=345 img-alt="A large company building with a big cursor." >}}
+{{< content text=center top=4 width=narrow >}}
 {{% markdown %}}
-## Organisation-wide implementation with just a few clicks
-Enable your entire staff to sign with the advanced electronic signature (AES) within just a few days.
+More legal weight 
+with just a few clicks
+===============
+{{% /markdown %}}
+{{< /content >}}
+
+{{< content top=4 bottom=24 width=narrow display=flex >}}
+{{< step >}}
+{{< picture "video-ident" 250 "A magnifying glass enlarges the image of a man in a passport." >}}
+{{% markdown %}}
+**Online identification**
+Enable the qualified electronic signature (QES) from home by getting yourself identified via video-call.
+{{% /markdown %}}
+<br>
+{{< button
+  "Learn more"
+  "/enable-qes/"
+  ""
+  "outline">}}
+{{< /step >}}
+
+{{< step >}}
+{{< picture "aes-for-biz-home-id" 280 "A big arrow, clicking on an organization, a high-rise building." >}}
+{{% markdown %}}
+**Organisation-wide implementation**
+Enable the advanced electronic signature (AES) for your entire staff within just a few days.
 {{% /markdown %}}
 <br>
 {{< button
@@ -230,7 +256,8 @@ Enable your entire staff to sign with the advanced electronic signature (AES) wi
   "/identification/aes-for-business/"
   ""
   "outline">}}
-{{< /side-by-side >}}
+{{< /step >}}
+{{< /content >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 

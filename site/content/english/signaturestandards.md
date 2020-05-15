@@ -1,5 +1,5 @@
 ---
-title: QES vs. AES at a glance. At Skribble you have the choice.
+title: SES, AES & QES at a glance. At Skribble you have the choice
 description: How much legal weight do you need? The law distinguishes between qualified e-signatures (QES) and advanced e-signatures (AES).
 draft: false
 slug: signaturestandards
@@ -11,9 +11,8 @@ slug: signaturestandards
 How much legal weight 
 does my e-signature need?
 =========================
-The law distinguishes between qualified e-signatures (QES),
-advanced e-signatures (AES) and simple electronic signature (SES). The three 
-standards vary in terms of area of application and legal weight.
+The law distinguishes between the qualified electronic signature (QES), the advanced electronic signature (AES) and the simple electronic signature (SES). 
+The three standards vary in terms of area of application and legal weight.
 {{% /markdown %}}
 {{< /content >}}
 
@@ -66,15 +65,14 @@ standards vary in terms of area of application and legal weight.
 {{% markdown %}}
 
 **Documents**
-without formal requirements with low liability risk.
+that are informal or internal and have a low liability risk.
 &nbsp;
 
 **Examples:**
-- Supplier offers
-- Orders
-- Organization internal documents
-- Announcements
-
+- Supplier offer
+- Order
+- Internal document
+- Announcement
 {{% /markdown %}}
     </td>
     <td>
@@ -98,11 +96,10 @@ with legal form requirements or high liability risk.
 
 **Examples:**
 - Consumer credit contract
-- Temporary employment contracts
-- Management employment contracts
-- Audit reports
-- Entries with authorities
-
+- Temporary employment contract
+- Management employment contract
+- Audit report
+- Entry with authorities
 {{% /markdown %}}
     </td>
   </tr>
@@ -113,15 +110,15 @@ with legal form requirements or high liability risk.
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
 {{< cta
-  label="More info"
+  label="Download Factsheet"
   href="https://cdn2.hubspot.net/hubfs/5051692/Factstheets/Barometer/English/skribble-legalweight-barometer.pdf"
   outlined="true"
   target="_blank"
 >}}
 
 {{% markdown %}}
-**More information about:** 
-Legal security and identity verification and authentication methods.
+**More information about** 
+Legal security, identity check and authentication methods.
 {{% /markdown %}}
 {{< /cta >}}
 
@@ -139,7 +136,7 @@ The all-round carefree signature for the highest demands
 {{< content top=6 bottom=6 width=narrow >}}
 {{% markdown %}}
 **The qualified electronic signature (QES) is legally equal to the handwritten signature.**
-You use QES to maximise the legal weight of your contracts or when the law requires it to be in writing. The latter applies, for example, to loan or wage agreements with a competition clause. For signing with QES on Skribble, a prior identity check in personal contact or an e-ID is required.
+You use QES to maximise the legal weight of your contracts or when the law requires it to be in writing. The latter applies, for example, to loan or wage agreements with a competition clause. For signing with QES on Skribble, a prior identity check in personal contact or via video call or an e-ID is required.
 {{% /markdown %}}
 {{< /content >}}
 

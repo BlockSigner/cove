@@ -1,6 +1,6 @@
 ---
 title: Increase the legal weight of your e-signature
-description: Enable an e-signature standard with higher legal weight. The procedure differs depending on the standard. The more uniquely your e-signature can be attributed to you as a person, the higher its legal weig
+description: Enable an e-signature standard with higher legal weight. The procedure differs depending on the standard. Choose between a SES, AES or the QES.
 draft: false
 slug: increase-legal-weight
 # opengraph image (for facebook and twitter)
@@ -126,7 +126,7 @@ Organisation-wide implementation in just a few days
 {{% markdown %}}
 **Maximum legal weight** 
 # Qualified electronic signature (QES)
-Enable the QES by getting yourself identified 
+Enable the QES by getting yourself identified online via video-call or
 by personal contact with the ID app by Swisscom.
 {{% /markdown %}}
 {{< /content >}}

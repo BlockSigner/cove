@@ -1,6 +1,6 @@
 ---
-title: Signer électroniquement dans les RH
-description: Avec Skribble, vous signez en toute sécurité juridique et en toute simplicité par voie numérique – des contrats de travail aux références en passant par les certificats de salaire.
+title: Fonctionnalités Business de Skribble
+description: Les clients Skribble Business signent comme un groupe - avec une administration centrale des membres et une facturation commune. L’intégration des nouveaux signataires est intuitive et rapide.
 draft: false
 slug: fonctionnalites-affaires
 type: fonctionnalites-affaires
@@ -20,11 +20,7 @@ avec une administration centrale des membres et une facturation commune.
 
 {{< picture skribble-biz-ui-fr 1020 "Skribble Business-Account - benutzeroberfläche" >}}
 
-{{< features-container >}}
-
-  {{< features-item src="features-biz/abrechnung.svg"
-    headline="Sélectionnez le modèle de prix par membre"
-    description="Activez le modèle de tarif Forfait pour les abonnés fréquents et réduisez vos coûts.">}}
+{{< features-container width=wide >}}
 
   {{< features-item src="features-biz/preismodell.svg"
     headline="Comptabilité commune"
@@ -67,7 +63,7 @@ L'intégration des nouveaux signataires est intuitive et rapide.
 {{% /markdown %}}
 {{< /content >}}
 
-{{< features-container >}}
+{{< features-container width=wide >}}
 
   {{< features-item src="features-biz/api-integration.svg"
     headline="Intégration de l'API"

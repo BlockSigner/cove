@@ -155,15 +155,15 @@ groups:
           regular_landscape: team/barbara-stutz-l
           retina_landscape: team/barbara-stutz-l@2x
           alt_text:
-      - name: Roland Jordan
-        position: Customer Growth Manager
-        type: 2
+      - name: Soraya Kohler
+        position: Customer Happiness Manager
+        type: 0
         images:
-          regular_portrait: team/roland-jordan-l
-          retina_portrait: team/roland-jordan-l@2x
-          regular_landscape: team/roland-jordan-l
-          retina_landscape: team/roland-jordan-l@2x
-          alt_text:
+          regular_portrait: team/soraya-kohler-l
+          retina_portrait: team/soraya-kohler-l@2x
+          regular_landscape: team/soraya-kohler-l
+          retina_landscape: team/soraya-kohler-l@2x
+          alt_text:    
       - name: Maxim Markert
         position: Sales & Business Engineering
         type: 1
@@ -172,6 +172,15 @@ groups:
           retina_portrait: team/maxim-markert-l@2x
           regular_landscape: team/maxim-markert-l
           retina_landscape: team/maxim-markert-l@2x
+          alt_text:
+      - name: Roland Jordan
+        position: Customer Growth Manager
+        type: 2
+        images:
+          regular_portrait: team/roland-jordan-l
+          retina_portrait: team/roland-jordan-l@2x
+          regular_landscape: team/roland-jordan-l
+          retina_landscape: team/roland-jordan-l@2x
           alt_text:
   - title: Advisors
     people:

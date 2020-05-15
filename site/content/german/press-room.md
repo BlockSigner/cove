@@ -1,6 +1,6 @@
 ---
-title: Skribble schafft Vertrauen in der digitalen Welt
-description: Mit Skribble werden Signaturprozesse 100% digital abgewickelt, basierend auf der qualifizierten elektronischen Signatur “QES” - die e-Unterschrift, die vor Schweizer und EU Gesetz der handschriftlichen Unterschrift gleichgestellt ist.
+title: Skribble für Medien
+description: Hier findest du alles was du brauchst, um über Skribble zu schreiben. Die TrustTech-Firma Skribble, gegründet im März 2018, ist ein Schweizer Anbieter von elektronischen Signaturen mit Büros in Zürich und Karlsruhe.
 draft: false
 slug: medien
 # opengraph image (for facebook and twitter)

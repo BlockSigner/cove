@@ -1,6 +1,6 @@
 ---
 title: Your career at Skribble
-description: With Skribble signature processes are 100% digital, based on the qualified electronic signature “QES” - the e-signature, which is equivalent to your hand-written signature according to Swiss and EU law.
+description: Work and grow together with motivated and inspiring people. We offer you the chance to tackle new challenges and to develop Skribble and yourself.
 draft: false
 slug: careers
 # opengraph image (for facebook and twitter)

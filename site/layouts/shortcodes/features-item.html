@@ -1,12 +1,11 @@
-<div class="features-item">
-    <li class="features-flex-item">
-        <div class="features-image">
-            <img src="{{ .Get "src" }}" {{ if .Get "alt"}} alt="{{ .Get "alt"}}" {{ end }}/>
-        </div>
-        
-    <div class="features-text">
-        <p><strong>{{ .Get "headline" }}</strong></p>
-        <p>{{ .Get "description" }}</p>
+<li class="features-item">
+  <div class="features-item__flex">
+    <div class="features-item__image">
+      <img src="{{ .Get "src" }}" {{ if .Get "alt"}} alt="{{ .Get "alt"}}" {{ end }}/>
+    </div>  
+    <div class="features-item__text">
+      <p><strong>{{ .Get "headline" }}</strong></p>
+      <p>{{ .Get "description" }}</p>
     </div>
-    </li>
-</div>
+  </div>
+</li>

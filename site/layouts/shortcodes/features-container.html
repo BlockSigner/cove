@@ -1,5 +1,14 @@
-<div class="features-container container">
-    <ul class="features-flex-container">
-        {{.Inner}}
-      </ul>
+<div class="features-container">
+  <div class="
+    skr-container
+    {{ if .Get "top"  }}pt-{{ .Get "top" }}{{ end }}
+    {{ if .Get "bottom"  }}pb-{{ .Get "bottom" }}{{ end }}
+    {{ if .Get "mobile-top"  }}ptm-{{ .Get "mobile-top" }}{{ end }}
+    {{ if .Get "mobile-bottom"  }}pbm-{{ .Get "mobile-bottom" }}{{ end }}
+    {{ if .Get "width"  }}is-{{ .Get "width" }}{{ end }}
+  ">
+    <ul class="features-container__inner">
+      {{.Inner}}
+    </ul>
+  </div>
 </div>

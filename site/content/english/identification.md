@@ -1,6 +1,6 @@
 ---
-title: Identity verification for QES – Skribble makes it easy
-description: The qualified electronic signature (QES) requires the signing party to verify his or her identity. Skribble offers suitable means of identification for every business context.
+title: Identity verification for electronic signing
+description: Each e-signature must be uniquely attributable to one person. Therefore, Skribble requires the identification of the signatories. The procedures differ depending on the application.
 slug: identification
 # opengraph image (for facebook and twitter)
 og_image: og/og-skribble-identification.jpg
@@ -124,7 +124,9 @@ For contracts requiring the written form, the qualified electronic signature (QE
 {{< content text=center top=8 bottom=4 width=narrow >}}
 {{% markdown %}}
 **Identification Service**
-You can have the identity of the signers verified by Skribble or you can perform identifications yourself.
+Enable the QES by getting yourself identified online via video-call or
+by personal contact with the ID app by Swisscom.
+&nbsp;
 {{% /markdown %}}
 {{< /content >}}
 
@@ -170,16 +172,16 @@ Appropriate if new QES signers are constantly being added.
 {{< plan
   white
   "Identification"
-  "Direct"
-  "Learn more"
-  "https://www.skribble.com/enable-qes/"
+  "Online via video"
+  "Enable QES now"
+  "/enable-qes/"
   ""
   "outline"
 >}}
 
 {{< picture id-direct 210 "A man is sitting in front of a laptop, above him is a sotware window, where a woman stands out with a big magnifying glass and checks an identity card." >}}
 
-You come to us or one of our partners for identification.
+Enable the highest e-signature standard QES from home.
 
 Suitable for individual signatories.
 &nbsp;
@@ -221,7 +223,7 @@ A growing number of people in Europe have a validated electronic identity (e-ID)
 
 {{< content text=left top=4 bottom=8 width=narrow >}}
 {{< cta
-  label="Download factsheet"
+  label="Download Factsheet"
   href="https://cdn2.hubspot.net/hubfs/5051692/Factstheets/Identification/English/Skribble_ID-Options_EN.pdf"
   target="_blank"
   outlined="true"

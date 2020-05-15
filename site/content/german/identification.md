@@ -1,6 +1,6 @@
 ---
-title: Identitätsprüfung für die QES - Skribble macht es einfach
-description: Für die qualifizierte elektronische Signatur (QES) muss der Unterzeichnende seine Identität beweisen. Skribble bietet für jeden Geschäftskontext eine passende Identifikationsmöglichkeit an.
+title: Identitätsprüfung für elektronisches Signieren
+description: Jede E-Signatur muss eindeutig einer Person zugewiesen werden können. Die Verfahren unterscheiden sich je nach Anwendungsfall.
 draft: false
 slug: identifikation
 # opengraph image (for facebook and twitter)
@@ -121,7 +121,8 @@ Für Verträge mit Formvorschrift oder hohem Abspruch an Beweiskraft wird typisc
 {{< content text=center top=8 bottom=4 width=narrow >}}
 {{% markdown %}}
 **Identififkations-Service**
-Du lässt die Identität der Signierenden von Skribble prüfen oder führst du Identifikationen selbst durch. Dir stehen drei Optinen zur Verfügung.
+Die QES schaltest du frei, in dem du dich online via Video-Call oder im persönlichen Kontakt mit der ID-App von Swisscom identifizieren lässt.
+&nbsp;
 {{% /markdown %}}
 {{< /content >}}
 
@@ -168,25 +169,21 @@ QES-Signierende hinzukommen.
 {{< plan
   white
   "Identification"
-  "Direct"
-  "Mehr erfahren"
-  "https://www.skribble.com/de/qes-freischalten/"
+  "Online via Video"
+  "Jetzt QES freischalten"
+  "/de/qes-freischalten/"
   ""
   "outline"
 >}}
 
 {{< picture id-direct 210 "Ein Mann sitzt vor einem Laptop, darüber ist eine Sotware-Fenster, wo eine Frau mit einer grossen Lupe herausragt und überprüft eine Identitätskarte." >}}
-
-Du kommst bei uns oder einem unserer Partner vorbei.
-
-Passend für einzelne Signierende.
+Schalte den höchsten E-Signatur-Standard QES von zu Hause aus frei.
 &nbsp;
 &nbsp;
 {{% /plan %}}
 {{< /content >}}
 
 {{< content text=center top=8 width=narrow >}}
-
 {{< cta
   label="Download Factsheet"
   href="https://cdn2.hubspot.net/hubfs/5051692/Factstheets/Identification/Deutsch/Skribble_Overview_Identification.pdf"
@@ -220,7 +217,7 @@ Eine wachsende Anzahl Menschen in Europa verfügt über eine geprüfte elektroni
 
 {{< content text=left top=4 bottom=8 width=narrow >}}
 {{< cta
-  label="Factsheet herunterlden"
+  label="Download Factsheet"
   href="https://cdn2.hubspot.net/hubfs/5051692/Factstheets/Identification/Deutsch/Skribble_ID-Optionen_DE.pdf"
   target="_blank"
   outlined="true"

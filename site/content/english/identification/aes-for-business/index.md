@@ -1,6 +1,6 @@
 ---
-title: AES for Business – Organisation-wide implementation with just a few clicks
-description: Enable your entire staff to sign with the advanced electronic signature.
+title: Advanced electronic signature (AES) for business
+description: Organisation-wide implementation within just a few days. Enable your entire staff to sign with the advanced electronic signature.
 type: default
 slug: aes-for-business
 translationKey: identification-aes-for-business

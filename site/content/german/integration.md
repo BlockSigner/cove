@@ -25,7 +25,7 @@ technologische Sicherheit und Einfachheit vereint.
 {{% /markdown %}}
 {{< /content >}}
 
-{{< features-container >}}
+{{< features-container width=wide >}}
 
   {{< features-item src="integrations/api.svg"
     headline="Moderne Schnittstelle mit detaillierter Dokumentation"
@@ -42,24 +42,25 @@ technologische Sicherheit und Einfachheit vereint.
   {{< features-item src="integrations/web-ui.svg"
     headline="Optimiertes Webinterface für die Nutzung via Browser"
     description="Skribbles optimierte Benutzeroberfläche liefert dir ein intuitives Benutzererlebnis für alle modernen Browser und Geräte.">}}
-
 {{< /features-container >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
+{{< content top=12 >}}
 {{< testimonial "testimonial/softcom-logo-108w.png" "Rémy Tzaud, CEO von Softcom" >}}
 "Wir haben die API für den Kanton Freiburg in einem halben Tag integriert. Die API von Skribble lässt keine Wünsche offen."
 {{< /testimonial >}}
+{{< /content >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< content text=center top=12 bottom=16 width=narrow >}}
+{{< content text=center top=16 bottom=16 width=narrow >}}
 {{% markdown %}}
 # Mit Skribble arbeitest du auf höchsten Technologie- und Security-Standards
 {{% /markdown %}}
 {{< /content >}}
 
-{{< features-container >}}
+{{< features-container width=wide bottom=16 >}}
 
   {{< features-item src="integrations/http-web.svg"
     headline="HTTPS Web-Kommunikation"
@@ -84,19 +85,19 @@ technologische Sicherheit und Einfachheit vereint.
   {{< features-item src="integrations/support.svg"
     headline="Überwachung und Support"
     description="Help-Base, FAQ, Chat-Bot, Live-Chat, Hotline (9.00– 12.00 und 14.00–17.00). Überwachung und Management der Server ist 24/7 gewährleistet.">}}
-
 {{< /features-container >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< testimonial "testimonial/swissmade-logo-300w.png" "" >}}
-Skribble trägt das label
-<a href="https://www.swissmadesoftware.org/" target="_blank" class="text-decoration: none;">Swiss made Software</a>, das für Qualität, Zuverlässigkeit und Präzision in der Software-Entwicklung steht.
+{{< content top=4 >}}
+{{< testimonial "testimonial/descartesfinance-300w.png" "Adriano Lucatelli, CEO von Descarte Finance" >}}
+"Mit Skribble wickeln wir das komplette Onboarding für unser Säule 3a-Produkt digital ab. Die Zusammenarbeit mit einem lokalen Partner mit Schweizer Hosting unterstreicht unsere Positionierung als Schweizer Anbieter."
 {{< /testimonial >}}
+{{< /content >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< content text=center top=12 bottom=4 width=narrow >}}
+{{< content text=center top=16 bottom=4 width=narrow >}}
 {{% markdown %}}
 # API ausprobieren
 In deinem Skribble Business Konto kannst du
@@ -124,6 +125,15 @@ Schau dir unsere API-Dokumentation an. (auf Englisch)
 {{% /markdown %}}
 {{< /cta >}}
 {{< /cta-group >}}
+
+[//]: # (--------------------------------------------------------------------------------------------------------------)
+
+{{< content top=12 >}}
+{{< testimonial "testimonial/swissmade-logo-300w.png" "" >}}
+Skribble trägt das label
+Swiss made Software, das für Qualität, Zuverlässigkeit und Präzision in der Software-Entwicklung steht.
+{{< /testimonial >}}
+{{< /content >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 

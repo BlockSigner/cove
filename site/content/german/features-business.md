@@ -1,6 +1,6 @@
 ---
-title: Identitätsprüfung für die QES - Skribble macht es einfach
-description: Für die qualifizierte elektronische Signatur (QES) muss der Unterzeichnende seine Identität beweisen. Skribble bietet für jeden Geschäftskontext eine passende Identifikationsmöglichkeit an.
+title: Alle Business-Features von Skribble auf einen Blick
+description: Skribble Business Kunden signieren als Organisation – mit zentraler Mitgliederverwaltung und gemeinsamer Abrechnung. Das Onboarding neuer Signierenden ist intuitiv und schnell.
 draft: false
 slug: business-features
 type: business-features
@@ -19,11 +19,7 @@ mit zentraler Mitgliederverwaltung und gemeinsamer Abrechnung.
 
 {{< picture skribble-biz-ui-de 1020 "Skribble Business-Account - benutzeroberfläche" >}}
 
-{{< features-container >}}
-
-  {{< features-item src="features-biz/abrechnung.svg"
-    headline="Preismodell pro Mitglied wählen"
-    description="Aktivere für häufig signierende Mitglieder das Flatrate-Modell und senke so deine Kosten.">}}
+{{< features-container width=wide >}}
 
   {{< features-item src="features-biz/preismodell.svg"
     headline="Gemeinsame Abrechnung"
@@ -66,7 +62,7 @@ Das Onboarding neuer Signierenden ist intuitiv und schnell.
 {{% /markdown %}}
 {{< /content >}}
 
-{{< features-container >}}
+{{< features-container width=wide >}}
 
   {{< features-item src="features-biz/api-integration.svg"
     headline="API-Integration"

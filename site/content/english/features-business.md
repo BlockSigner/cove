@@ -1,6 +1,6 @@
 ---
-title: Skribble – Legally binding electronic signatures with Skribble
-description: Easily handle digital signature processes – legally binding in accordance with Swiss & EU law.
+title: Skribble business features
+description: Skribble Business customers sign organised as a group - with centralised member administration, joint billing and embeds itself into your existing infrastructure.
 
 draft: false
 slug: business-features
@@ -20,11 +20,7 @@ Skribble Business customers sign organised as a group - with
 
 {{< picture skribble-biz-ui-en 1020 "Skribble Business-Account - benutzeroberfläche" >}}
 
-{{< features-container >}}
-
-  {{< features-item src="features-biz/abrechnung.svg"
-    headline="Select price model per member"
-    description="Activate the flat rate model for frequent signers and reduce your costs.">}}
+{{< features-container width=wide >}}
 
   {{< features-item src="features-biz/preismodell.svg"
     headline="Joint billing"
@@ -68,7 +64,7 @@ The onboarding of new signers is intuitive and fast.
 {{% /markdown %}}
 {{< /content >}}
 
-{{< features-container >}}
+{{< features-container width=wide >}}
 
   {{< features-item src="features-biz/api-integration.svg"
     headline="API integration"

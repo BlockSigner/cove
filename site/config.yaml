@@ -182,7 +182,7 @@ languages:
         title: Beweiskraft erhöhen?
         text: Lass dich identifizieren und schalte einen höheren E-Signatur-Standard frei.
         button:
-          label: Identifizieren lassen
+          label: Beweiskraft erhöhen
           href: /de/beweiskraft-erhoehen/
           target:
       rightSlot:
@@ -371,7 +371,7 @@ languages:
         title: Want to increase the legal weight?
         text: Get identified and unlock a higher e-signature standard.
         button:
-          label: Get identified
+          label: Increase legal weight
           href: /increase-legal-weight/
           target:
       rightSlot:
@@ -560,7 +560,7 @@ languages:
         title: Augmenter la force probante?
         text: Identifiez-vous et débloquez une norme de signature électronique plus élevée.
         button:
-          label: S'identifier
+          label: Augmenter la force probante
           href: /fr/maximiser-force-probante/
           target:
       rightSlot:

@@ -1,6 +1,6 @@
 ---
-title: Contrôle d'identité pour la SEQ
-description: Pour la signature électronique qualifiée (SEQ), le signataire doit prouver son identité. Skribble vous aidera.
+title: Vérification de l’identité pour la signature électronique
+description: Chaque signature électronique doit être attribuable à une seule personne. Skribble nécessite donc l’identification des signataires. Les procédures diffèrent en fonction de la demande.
 draft: false
 slug: identification
 # opengraph image (for facebook and twitter)
@@ -124,7 +124,10 @@ Pour les contrats comportant des exigences formelles, la signature électronique
 {{< content text=center top=8 bottom=4 width=narrow >}}
 {{% markdown %}}
 **Service d'identification**
-Vous pouvez faire vérifier l'identité des signataires par Skribble ou vous pouvez procéder vous-même aux identifications.
+Déverrouillez la norme de signature électronique la plus élevée (SEQ) 
+en vous identifiant en ligne par appel vidéo ou par contact personnel 
+avec l’ID-app de Swisscom.
+&nbsp;
 {{% /markdown %}}
 {{< /content >}}
 
@@ -170,17 +173,15 @@ Approprié si de nouveaux signataires de SEQ sont constamment ajoutés.
 {{< plan
   white
   "Identification"
-  "Direct"
-  "En savoir plus"
-  "https://www.skribble.com/fr/debloquez-seq/"
+  "En ligne par vidéo"
+  "Déverrouiller SEQ maintenant"
+  "/fr/debloquez-seq/"
   ""
   "outline"
 >}}
 
 {{< picture id-direct 210 "Un homme est assis devant un ordinateur portable, au-dessus de lui se trouve une fenêtre de sotware, où une femme avec une grosse loupe fait saillie et vérifie une carte d'identité." >}}
-
-Vous venez chez nous ou chez l'un de nos partenaires pour vous faire identifier.
-
+Déverrouillez la norme de signature électronique SEQ la plus élevée depuis chez vous.
 Convient aux signataires individuels.
 &nbsp;
 &nbsp;
@@ -215,13 +216,14 @@ Les personnes qui se connectent à Skribble avec une e-ID vérifiée activent au
 {{< picture e-id-map 810 "E-ID, où vous pourrez bientôt vous inscrire avec Skribble." >}}
 
 {{% markdown %}}
-Un nombre croissant de personnes en Europe a une identité électronique validée (e-ID). Skribble les met en réseau. Cela signifie que des millions de personnes peuvent signer immédiatement avec la SEQ sans procédure d'identification supplémentaire.
+Un nombre croissant de personnes en Europe a une identité électronique validée (e-ID). Skribble les met en réseau. Cela signifie que des millions 
+de personnes peuvent signer immédiatement avec la SEQ sans procédure d'identification supplémentaire.
 {{% /markdown %}}
 {{< /content >}}
 
 {{< content text=left top=4 bottom=8 width=narrow >}}
 {{< cta
-  label="Télécharcher factsheet"
+  label="Télécharger factsheet"
   href="https://cdn2.hubspot.net/hubfs/5051692/Factstheets/Identification/Fran%C3%A7ais/Skribble_ID-Options_FR.pdf"
   target="_blank"
   outlined="true"

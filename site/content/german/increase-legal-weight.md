@@ -1,6 +1,6 @@
 ---
-title: Erhöhe die Beweiskraft deiner E-Signatur
-description: Schalte einen E-Signatur-Standard mit höherer Beweiskraft frei. Das Verfahren unterscheidet sich je nach Standard. Je eindeutiger deine E-Singatur dir als Person zugeordnet werden kann, desto höher deren Beweiskraft.
+title: Erhöhe die Beweiskraft deiner elektronischen Signatur
+description: Schalte einen E-Signatur-Standard mit höherer Beweiskraft frei. Je eindeutiger deine E-Singatur dir als Person zugeordnet werden kann, desto höher deren Beweiskraft.
 draft: false
 slug: beweiskraft-erhoehen
 # opengraph image (for facebook and twitter)
@@ -127,8 +127,12 @@ Organisationsweite Einführung mit wenigen Klicks
 {{< content text=center top=16 bottom=8 width=narrow >}}
 {{% markdown %}}
 **Maximale Beweiskraft** 
-# Qualifizierte elektronische Signatur (QES)
-Die QES schaltest du frei, in dem du dich im persönlichen Kontakt mit der ID-App von Swisscom identifizieren lässt.
+
+Qualifizierte elektronische 
+Signatur (QES)
+===============
+Die QES schaltest du frei, in dem du dich online via Video-Call 
+oder im persönlichen Kontakt mit der ID-App von Swisscom identifizieren lässt.
 {{% /markdown %}}
 {{< /content >}}
 

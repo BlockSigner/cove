@@ -1,6 +1,6 @@
 ---
 title: Maximiser la force probante de votre signature électronique
-description: Activez une norme de signature électronique ayant une valeur probante plus élevée. La procédure diffère selon la norme. Plus votre signature électronique peut vous être attribuée sans ambiguïté, plus sa force probante est élevée.
+description: Activez une norme de signature électronique ayant une valeur probante plus élevée. La procédure diffère selon la norme. Choisissez entre SES, SEA et SEQ.
 draft: false
 slug: maximiser-force-probante
 # opengraph image (for facebook and twitter)
@@ -129,8 +129,8 @@ Implémentation à toute l'organisation en quelques jours
 **Force probante maximum** 
 # Signature électronique qualifiée (SEQ)
 Déverrouillez la norme de signature électronique 
-la plus élevée (SEQ) en vous identifiant par contact personnel 
-avec l’ID-app de Swisscom.
+la plus élevée (SEQ) en vous identifiant en ligne par appel vidéo 
+ou par contact personnel avec l’ID-app de Swisscom.
 {{% /markdown %}}
 {{< /content >}}
 

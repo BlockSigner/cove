@@ -77,7 +77,9 @@ Signez par simple pression d'un bouton, indépendamment de l'heure et du lieu, d
 
 {{< content top=12 text=center width=narrow >}}
 {{% markdown %}}
-# En signant avec Skribble, vous gagnez du temps au travail
+En signant avec Skribble, 
+vous gagnez du temps au travail
+===============
 {{% /markdown %}}
 {{< /content >}}
 
@@ -101,7 +103,9 @@ Signez par simple pression d'un bouton, indépendamment de l'heure et du lieu, d
 
 {{< content top=20 text=center width=narrow >}}
 {{% markdown %}}
-# Avec Skribble, vous remplissez <br class="hide-for-mobile">les exigences légales
+Avec Skribble, vous remplissez 
+les exigences légales
+===============
 Avec Skribble, vous signez légalement et en toute sécurité
 en remplissant les conditions suivantes:
 {{% /markdown %}}
@@ -125,14 +129,16 @@ Skribble et ses partenaires gèrent leurs données conformément à la loi féd�
 
 {{< content top=24 text=center width=narrow >}}
 {{% markdown %}}
-# Signez toujours avec la norme optimale
+Signez toujours 
+avec la norme optimale
+===============
 La loi distingue trois normes de signature. Ils varient en termes 
 de domaine d’application et de force probante. Skribble est votre guichet 
 unique pour toutes les normes.
 {{% /markdown %}}
 {{< /content >}}
 
-{{< table top=12 bottom=12 lock-for-mobile="true" class="table--qualities table--qualities-no-legend" layout=fixed >}}
+{{< table top=8 lock-for-mobile="true" class="table--qualities table--qualities-no-legend" layout=fixed >}}
 <thead>
   <tr>
     <th scope="col"></th>
@@ -177,7 +183,7 @@ unique pour toutes les normes.
 {{% markdown %}}
 
 **Documents**
-sans exigences formelles juridiques avec un faible risque de responsabilité.
+informelles ou internes avec un faible risque de responsabilité.
 
 {{% /markdown %}}
     </td>
@@ -215,10 +221,34 @@ avec exigences formelles juridiques ou avec un risque de responsabilité fort.
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< side-by-side width=narrow bottom=16 img-position=left img=aes-for-biz-home img-width=345 img-alt="Ein grosses Gebäude mit einem grossen Mauszeiger." >}}
+{{< content text=center top=4 width=narrow >}}
 {{% markdown %}}
-## Implémentation à toute l'organisation en quelques clics
-Permettez à l'ensemble de votre personnel de signer avec la signature électronique avancée (SEA) en quelques jours seulement.
+Plus de force probante 
+en quelques clics
+===============
+{{% /markdown %}}
+{{< /content >}}
+
+{{< content top=4 bottom=24 width=narrow display=flex >}}
+{{< step >}}
+{{< picture "video-ident" 250 "Une loupe agrandit l'image d'un homme dans un passeport." >}}
+{{% markdown %}}
+**Identification vidéo**
+Déverrouillez la signature électronique qualifiée (SEQ) depuis votre domicile en vous identifiant en ligne par appel vidéo.
+{{% /markdown %}}
+<br>
+{{< button
+  "En savoir plus"
+  "/fr/debloquez-seq/"
+  ""
+  "outline">}}
+{{< /step >}}
+
+{{< step >}}
+{{< picture "aes-for-biz-home-id" 280 "Une grande flèche, un clic sur une organisation, un immeuble de grande hauteur." >}}
+{{% markdown %}}
+**Implémentation à toute l'organisation**
+Déverrouillez la signature électronique avancée (SEA) pour l'ensemble de votre personnel en quelques jours seulement.
 {{% /markdown %}}
 <br>
 {{< button
@@ -226,7 +256,10 @@ Permettez à l'ensemble de votre personnel de signer avec la signature électron
   "/fr/identification/sea-pour-business/"
   ""
   "outline">}}
-{{< /side-by-side >}}
+{{< /step >}}
+
+
+{{< /content >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
