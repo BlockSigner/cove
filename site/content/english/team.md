@@ -102,7 +102,7 @@ groups:
           retina_landscape: team/luc-lippuner-l@2x
           alt_text:
       - name: Patrick Meade
-        position: Happiness Manager
+        position: Part-time Happiness Manager
         type: 1
         images:
           regular_portrait: team/patrick-meade-l
