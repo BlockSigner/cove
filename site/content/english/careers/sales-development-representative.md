@@ -20,7 +20,7 @@ og_image: og/og-career.jpg
 {{< content text=center top=12 >}}
 {{% markdown %}}
 Sales Development 
-Representative (SDR), Skribble
+Representative (SDR)
 ===============
 Zurich, 60-100%, permanent
 {{% /markdown %}}
