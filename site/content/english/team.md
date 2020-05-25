@@ -174,7 +174,7 @@ groups:
           retina_landscape: team/maxim-markert-l@2x
           alt_text:
       - name: Jevgenija Litvina
-        position: Content & Communication
+        position: Test Engineer
         type: 1
         images:
           regular_portrait: team/jevgenija-litvina-l
