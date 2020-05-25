@@ -19,7 +19,7 @@ og_image: og/og-career.jpg
 
 {{< content text=center top=12 >}}
 {{% markdown %}}
-Success Manager, Skribble
+Success Manager
 ===============
 Zurich, 60-100%, permanent
 {{% /markdown %}}
