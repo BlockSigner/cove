@@ -93,7 +93,7 @@ groups:
           retina_landscape: team/till-graf-l@2x
           alt_text:
       - name: Luc Lippuner
-        position: Content & Communications
+        position: PR & Communications
         type: 0
         images:
           regular_portrait: team/luc-lippuner-l
