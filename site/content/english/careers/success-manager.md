@@ -49,7 +49,7 @@ Our team is highly motivated, positive and collaborates closely together. We are
 You help us grow Skribble in Germany by supporting and advising our customers in the application of Skribble. You ensure customers can roll out Skribble across business areas and help them get the most value out of it. You support customers navigating the change required in their business processes. You strive to make our customers extra-happy and sometimes that might require a visit and personal training.
 
 ## Your Background
-- 2+ years experience in consulting individuals or organisations - ideally as account manager or customer success manager (B2B SaaS would be perfect, but we’re also interested in other profiles if you have been responsible for a complex product or service in an innovative environment)
+- 2+ years experience in consulting people or organisations - ideally as account manager or customer success manager (B2B SaaS would be perfect, but we’re also interested in other profiles if you have been responsible for a complex product or service in an innovative environment)
 - Friends describe you as honest, communicative, empathetic and pragmatic
 - You are flexible and enjoy working in a highly dynamic environment
 - German is your native language and you are fluent in English (other languages are a plus)
