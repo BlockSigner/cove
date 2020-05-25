@@ -51,7 +51,7 @@ Our team is highly motivated, positive and collaborates closely together. We are
 You are the first, fantastic contact our future customers will have with Skribble. You follow-up with and qualify inbound leads, help create custom pitches for specific accounts and work closely with the respective account executive to achieve our goals. You identify prospects, do outbound sales and occasionally accompany Account Executives on trips - and much, much more.
 
 ## Your Background
-- 2+ years experience in consulting individuals or organisations - ideally as sales development representative (inbound/outbound), business development representative, account manager or customer success manager (B2B SaaS would be perfect, but we’re also interested in other profiles if you have been responsible for a complex product or service in an innovative environment)
+- 2+ years experience in consulting people or organisations - ideally as sales development representative (inbound/outbound), business development representative, account manager or customer success manager (B2B SaaS would be perfect, but we’re also interested in other profiles if you have been responsible for a complex product or service in an innovative environment)
 - Friends describe you as honest, communicative, empathetic and pragmatic
 - You are flexible and enjoy working in a dynamic environment
 - German is your native language and you are fluent in English (other languages are a plus)
