@@ -75,7 +75,7 @@ You help us grow Skribble in Germany by consulting enterprises on digital signin
 
 {{< content text=center top=6 >}}
 {{< button
-  "Jetzt bewerben"
+  "Weiter"
   "https://diversify.typeform.com/to/oTmhoA"
   "_blank"
   ""
