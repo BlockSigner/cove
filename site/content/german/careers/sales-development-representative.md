@@ -43,7 +43,7 @@ Zürich, 60-100%, permanent
 Skribble aims to simplify the lives of people and create trust in the digital world. Worldwide. Our mission is to contribute a key element that is intuitive in usage and simple to implement: digital signatures. We advise and support organizations in the implementation of digital signatures, so that we all are better off by trusting more, wasting less time, and safeguarding environmental resources.  
 
 ## The Team
-This team is highly motivated, positive and works as a tight-knit squad. They are growing fast and are ambitious to bring Skribble to Europe. They are nice, fun-loving people, working on a non-commission basis and strive to make the world a better place: one signature at a time. They always have each other’s backs - like a family. Off work, they can be found riding bikes or supporting the local food community.
+Our team is highly motivated, positive and collaborates closely together. We are growing fast and the next step is to bring Skribble to Europe. We are nice, fun-loving people, working on a non-commission basis and strive to make the world a better place: one signature at a time. We always have each other’s backs - like a family. Off work, we can be found riding bikes, playing video games or chilling with family and friends.
 
 ## Your Contribution
 You are the first, fantastic contact our future customers will have with Skribble. You follow-up with and qualify inbound leads, help create custom pitches for specific accounts and work closely with the respective account executive to achieve our goals. You identify prospects, do outbound sales and occasionally accompany Account Executives on trips - and much, much more.
