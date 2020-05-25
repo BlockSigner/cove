@@ -4,7 +4,8 @@ description: Mit Skribble werden Signaturprozesse 100% digital abgewickelt, basi
 draft: false
 url: /de/karriere/395/sales-development-representative/
 # opengraph image (for facebook and twitter)
-og_image: og/og-career.jpg
+og_image: og/og-skribble-career.jpg
+
 ---
 
 {{< content text=center top=12 >}}

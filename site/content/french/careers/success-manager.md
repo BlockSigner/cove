@@ -4,7 +4,7 @@ description: Avec Skribble, les processus de signature sont gérés à 100% num�
 draft: false
 url: /fr/carriere/216/success-manager/
 # opengraph image (for facebook and twitter)
-og_image: og/og-career.jpg
+og_image: og/og-skribble-career.jpg
 
 
 ---

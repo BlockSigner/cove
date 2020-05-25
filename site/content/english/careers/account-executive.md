@@ -4,7 +4,7 @@ description: With Skribble signature processes are 100% digital, based on the qu
 draft: false
 url: /careers/388/account-executive/
 # opengraph image (for facebook and twitter)
-og_image: og/og-career.jpg
+og_image: og/og-skribble-career.jpg
 
 ---
 
