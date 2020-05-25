@@ -20,7 +20,7 @@ og_image: og/og-career.jpg
 {{< content text=center top=12 >}}
 {{% markdown %}}
 Sales Consultant 
-Germany, Skribble
+Germany
 ===============
 Zurich, 60-100%, permanent
 {{% /markdown %}}
