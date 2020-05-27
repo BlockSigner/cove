@@ -418,7 +418,7 @@ languages:
           url: "/fr/identification/"
           weight: 25
           parent: platforme
-        - name: Maximiser force probante
+        - name: Augmenter la force probante
           url: "/fr/maximiser-force-probante/"
           weight: 30
           parent: platforme
