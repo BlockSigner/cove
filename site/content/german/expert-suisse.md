@@ -68,13 +68,13 @@ Exklusiv für EXPERTsuisse Mitglieder:
 {{% markdown %}}
 # Bereit zum Signieren in 5 Minuten
 
-Du benötigst nur ein Mobiltelefon und einen gültigen Ausweis (Pass oder Identitätskarte).
+Sie benötigen nur ein Mobiltelefon und einen gültigen Ausweis (Pass oder Identitätskarte).
 
-- **Skribble kommt bei dir vorbei**
-- **Wir identifizieren dich**
-- **Du bist sofort signierbereit**
+- **Skribble kommt bei Ihnen vorbei**
+- **Wir identifizieren Sie**
+- **Sie sind sofort signierbereit**
 
-Deine Firma kann auch dazu befähigt werden, selbst Personen zu identifizieren.
+Ihre Firma kann auch dazu befähigt werden, selbst Personen zu identifizieren.
 {{% /markdown %}}
 {{< intro-partner
   "image/swisscom.png"
@@ -110,7 +110,7 @@ Nicht ausschliesslich. Dank der visuellen Signatur ist auf dem ausgedruckten Ver
 {{% /collapsible %}}
 
 {{% collapsible 1 "Warum muss ich mich identifizieren lassen?" %}}
-Bei Skribble signierst du mit der qualifizierten elektronischen Signatur (QES).
+Bei Skribble signieren Sie mit der qualifizierten elektronischen Signatur (QES).
 Das ist der höchste E-Signatur-Standard. Für diesen verlangt das Gesetz eine Identitätsprüfung im persönlichen Kontakt. Ausnahme bilden Finanzintermediäre, welche die Identitiätsprüfung mittels Video-Identifikation vornehmen dürfen.
 {{% /collapsible %}}
 {{< /content >}}
