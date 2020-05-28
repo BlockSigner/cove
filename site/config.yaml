@@ -180,7 +180,7 @@ languages:
     footer:
       leftSlot:
         title: Beweiskraft erhöhen?
-        text: Lass dich identifizieren und schalte einen höheren E-Signatur-Standard frei.
+        text: Lassen Sie sich identifizieren und schalten Sie einen höheren E-Signatur-Standard frei.
         button:
           label: Beweiskraft erhöhen
           href: /de/beweiskraft-erhoehen/
