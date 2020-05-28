@@ -1,6 +1,6 @@
 ---
-title: So einfach nutzt du Skribble – via Browser oder einer Integration
-description: Mit Skribble wählst du eine Online-Plattform, die technologische Sicherheit und Einfachheit vereint. Nutze Skribble über den Browser oder integriere die Plattform.
+title: So einfach nutzen Sie Skribble – via Browser oder einer Integration
+description: Mit Skribble wählen Sie eine Online-Plattform, die technologische Sicherheit und Einfachheit vereint. Nutzen Sie Skribble über den Browser oder integrieren Sie die Plattform.
 draft: false
 slug: integrationen
 type: integrationen
@@ -12,7 +12,7 @@ og_image: og/og-skribble-identification.jpg
 {{< content text=center top=16 bottom=8 width=narrow >}}
 {{% markdown %}}
 # Skribble Integration
-Mit Skribble wählst du eine Online-Plattform, die
+Mit Skribble wählen Sie eine Online-Plattform, die
 technologische Sicherheit und Einfachheit vereint.
 {{% /markdown %}}
 {{< /content >}}
@@ -21,7 +21,7 @@ technologische Sicherheit und Einfachheit vereint.
 
 {{< content text=center top=12 bottom=8 width=narrow >}}
 {{% markdown %}}
-### Nutze Skribble über den Browser oder integriere die Plattform via API in eure bestehende Softwareumgebung
+### Nutzen Sie Skribble über den Browser oder integrieren Sie die Plattform via API in Ihre bestehende Softwareumgebung
 {{% /markdown %}}
 {{< /content >}}
 
@@ -29,19 +29,19 @@ technologische Sicherheit und Einfachheit vereint.
 
   {{< features-item src="integrations/api.svg"
     headline="Moderne Schnittstelle mit detaillierter Dokumentation"
-    description="Die moderne JSON REST-API ist einfach und schnell integriert. Unsere API-Dokumentation liefert dir alle Details, die du brauchst.">}}
+    description="Die moderne JSON REST-API ist einfach und schnell integriert. Unsere API-Dokumentation liefert Ihnen alle Informationen, die Sie brauchen.">}}
 
   {{< features-item src="integrations/api-testing.svg"
     headline="API-Testing mit Demo-Account"
-    description="Mit unserem Demo-Account testest du die API unverbindlich und kostenlos.">}}
+    description="Mit unserem Demo-Account testesten Sie die API unverbindlich und kostenlos.">}}
 
   {{< features-item src="integrations/plugin-dms.svg"
     headline="Plug-in für DMS und Branchenlösungen"
-    description="Integriere Skribble als Plug-in in Dokumenten-Management-Systeme wie OneDrive und SharePoint, oder in Branchen-Lösungen wie Abacus und SAP.">}}
+    description="Integrieren Sie Skribble als Plug-in in Dokumenten-Management-Systeme wie OneDrive und SharePoint, oder in Branchen-Lösungen wie Abacus und SAP.">}}
 
   {{< features-item src="integrations/web-ui.svg"
     headline="Optimiertes Webinterface für die Nutzung via Browser"
-    description="Skribbles optimierte Benutzeroberfläche liefert dir ein intuitives Benutzererlebnis für alle modernen Browser und Geräte.">}}
+    description="Skribbles optimierte Benutzeroberfläche liefert Ihnen ein intuitives Benutzererlebnis für alle modernen Browser und Geräte.">}}
 {{< /features-container >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
@@ -56,7 +56,7 @@ technologische Sicherheit und Einfachheit vereint.
 
 {{< content text=center top=16 bottom=16 width=narrow >}}
 {{% markdown %}}
-# Mit Skribble arbeitest du auf höchsten Technologie- und Security-Standards
+# Mit Skribble arbeiten Sie auf höchsten Technologie- und Security-Standards
 {{% /markdown %}}
 {{< /content >}}
 
@@ -100,8 +100,7 @@ technologische Sicherheit und Einfachheit vereint.
 {{< content text=center top=16 bottom=4 width=narrow >}}
 {{% markdown %}}
 # API ausprobieren
-In deinem Skribble Business Konto kannst du
-einen Demo-Schlüssel erstellen.
+In Ihrem Skribble Business Konto können Sie einen Demo-Schlüssel erstellen.
 {{% /markdown %}}
 {{< /content >}}
 
@@ -121,7 +120,7 @@ einen Demo-Schlüssel erstellen.
 
 {{% markdown %}}
 **API-Dokumentation**<br>
-Schau dir unsere API-Dokumentation an. (auf Englisch)
+Schauen Sie sich unsere API-Dokumentation an. (auf Englisch)
 {{% /markdown %}}
 {{< /cta >}}
 {{< /cta-group >}}
