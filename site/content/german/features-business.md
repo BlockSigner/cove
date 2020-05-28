@@ -27,19 +27,19 @@ mit zentraler Mitgliederverwaltung und gemeinsamer Abrechnung.
 
   {{< features-item src="features-biz/mitgliederverwaltung.svg"
     headline="Zentrale Mitgliederverwaltung"
-    description="Füge neue Mitglieder hinzu, passe ihr Preismodell an und vergib Administrationsrechte.">}}
+    description="Fügen Sie neue Mitglieder hinzu, passen Sie deren Preismodell an und vergeben Sie Administrationsrechte.">}}
 
   {{< features-item src="features-biz/domain-whitelist.svg"
     headline="Automatische Mitglieder Anmeldung"
-    description="Wer sich mit einer E-Mail-Adresse deiner Firma bei Skribble registriert, wird automatisch Mitglied deines Business-Kontos (Domain Whitelisting).">}}
+    description="Wer sich mit einer E-Mail-Adresse Ihrer Firma bei Skribble registriert, wird automatisch Mitglied Ihres Business-Kontos (Domain Whitelisting).">}}
 
   {{< features-item src="features-biz/activity.svg"
     headline="Aktivitätsübersicht"
-    description="Behalte den Überblick über die Vorgänge in deinem Business-Konto, gefiltert nach Datum, Aktivität und mehr.">}}
+    description="Behalten Sie den Überblick über die Vorgänge in Ihrem Business-Konto, gefiltert nach Datum, Aktivität und mehr.">}}
 
   {{< features-item src="features-biz/rechnungshistorie.svg"
     headline="Rechnungshistorie"
-    description="Sehe die aktuelle und alle vergangenen Rechnungen jederzeit ein.">}}
+    description="Sehen Sie die aktuellen und alle vergangenen Rechnungen jederzeit ein.">}}
 {{< /features-container >}}
 
 {{< content text=center top=4 bottom=12 width=narrow >}}
@@ -57,7 +57,7 @@ den Alltag für uns und unseren Kunden."{{< /testimonial >}}
 
 {{< content text=center top=12 bottom=12 width=narrow >}}
 {{% markdown %}}
-# Skribble Business bettet sich in deine bestehende Infrastruktur ein
+# Skribble Business bettet sich in Ihre bestehende Infrastruktur ein
 Das Onboarding neuer Signierenden ist intuitiv und schnell.
 {{% /markdown %}}
 {{< /content >}}
@@ -66,15 +66,15 @@ Das Onboarding neuer Signierenden ist intuitiv und schnell.
 
   {{< features-item src="features-biz/api-integration.svg"
     headline="API-Integration"
-    description="Binde Skribble an deine bestehende Software an und signiere direkt aus deinen gewohnten Tools heraus.">}}
+    description="Binden Sie Skribble an Ihre bestehende Software an und signieren Sie direkt aus Ihren gewohnten Tools heraus.">}}
 
   {{< features-item src="features-biz/api-key-generation.svg"
     headline="API-Schlüssel selbst generieren"
-    description="Erstelle und verwalte deine API-Schlüssel für Testzwecke oder für die Produktion.">}}
+    description="Erstellen und verwalten Sie Ihre API-Schlüssel für Testzwecke oder für die Produktion.">}}
 
   {{< features-item src="features-biz/direct-sign.svg"
     headline="Direct Sign"
-    description="Externe Personen müssen über kein Skribble-Konto verfügen, um deine Dokumente zu signieren.">}}
+    description="Externe Personen müssen über kein Skribble-Konto verfügen, um Ihre Dokumente zu signieren.">}}
 
 {{< /features-container >}}
 
@@ -88,8 +88,8 @@ Das Onboarding neuer Signierenden ist intuitiv und schnell.
 {{< content text=center top=8 bottom=4 width=narrow >}}
 {{% markdown %}}
 # Organisationsweite Einführung ist einfach und schnell
-Befähige neue und bestehende Mitarbeitende in kürzester Zeit
-zum elektronischen Signieren. Wähle den Onboarding-Prozess, der zu deinem Anspruch an Beweiskraft bzw. zum gewünschten Signatur-Standard passt.
+Befähigen Sie neue und bestehende Mitarbeitende in kürzester Zeit
+zum elektronischen Signieren. Wählen Sie den Onboarding-Prozess, der zu Ihrem Anspruch an Beweiskraft bzw. zum gewünschten Signatur-Standard passt.
 {{% /markdown %}}
 {{< /content >}}
 
@@ -130,7 +130,7 @@ Geeignet für Verträge mit Formvorschrift.
 {{< content text=center top=16 bottom=8 width=narrow >}}
 {{% markdown %}}
 # Ideales Kosten-Nutzen-Verhältnis
-Wähle das passende Preismodell für deine Organisation
+Wählen Sie das passende Preismodell für Ihre Organisation
 {{% /markdown %}}
 {{< /content >}}
 
