@@ -1,6 +1,6 @@
 ---
 title: Identitätsprüfung für die QES - Skribble macht es einfach
-description: In 4 Schritten machen wir dich signierbereit. Du benötigst nur ein Mobiltelefon und ein gültiges Reisedokument.
+description: In 4 Schritten machen wir Sie signierbereit. Sie benötigen nur ein Mobiltelefon und ein gültiges Reisedokument.
 draft: false
 slug: qes-freischalten
 
@@ -10,12 +10,12 @@ og_image: og/og-skribble-identification.jpg
 ---
 {{< content text=center top=16 bottom=8 width=narrow >}}
 {{% markdown %}}
-Maximiere die Beweiskraft 
-deiner E-Signatur
+Maximieren Sie die Beweiskraft 
+Ihrer E-Signatur
 ===============
-Die (QES) schaltest du frei, in dem du dich online 
+Die (QES) schalten Sie frei, in dem Sie sich online 
 via Video-Call oder im persönlichen Kontakt 
-mit der ID-App von Swisscom identifizieren lässt.
+mit der ID-App von Swisscom identifizieren lassen.
 {{% /markdown %}}
 {{< /content >}}
 
@@ -45,8 +45,8 @@ Die Identifikation wird in Zusammenarbeit mit unseren Partnern Swisscom Trust Se
 Identifikation 
 im persönlichen Kontakt
 ===============
-Die QES schaltest du frei, in dem du dich im persönlichen Kontakt
-mit der ID-App von Swisscom identifizieren lässt.
+Die QES schalten Sie frei, in dem Sie sich im persönlichen Kontakt
+mit der ID-App von Swisscom identifizieren lassen.
 {{% /markdown %}}
 {{< /content >}}
 
@@ -55,7 +55,7 @@ mit der ID-App von Swisscom identifizieren lässt.
 {{< picture "identification-step-1" 252 "Eine lupe vergrößert das bild eines mannes in einem pass" >}}
 {{% markdown %}}
 **Schritt 1**
-Vereinbare einen Identifikations-Termin und komm persönlich vorbei.
+Vereinbaren Sie einen Identifikations-Termin und kommen Sie persönlich vorbei.
 {{% /markdown %}}
 {{< /step >}}
 
@@ -63,7 +63,7 @@ Vereinbare einen Identifikations-Termin und komm persönlich vorbei.
 {{< picture "identification-step-2" 158 "Eine elektronische identität auf einem mobiltelefon" >}}
 {{% markdown %}}
 **Schritt 2**
-Wir scannen und prüfen deinen Ausweis mit der ID-App von Swisscom.
+Wir scannen und prüfen Ihren Ausweis mit der ID-App von Swisscom.
 {{% /markdown %}}
 {{< /step >}}
 {{< /content >}}
@@ -73,7 +73,7 @@ Wir scannen und prüfen deinen Ausweis mit der ID-App von Swisscom.
 {{< picture "identification-step-3" 270 "Ein mann der erfolgreich elektronisch identifiziert ist" >}}
 {{% markdown %}}
 **Schritt 3**
-Swisscom verifiziert deine Daten und legt sie sicher ab.
+Swisscom verifiziert Ihre Daten und legt sie sicher ab.
 {{% /markdown %}}
 {{< /step >}}
 
@@ -81,7 +81,7 @@ Swisscom verifiziert deine Daten und legt sie sicher ab.
 {{< picture "identification-step-4" 270 "Eine person hält ein rechtsgültiges dokument in den händen. Im hintergrund befindet sich das swisscom logo" >}}
 {{% markdown %}}
 **Schritt 4**
-Die Beweiskraft deiner Signatur wird auf 100% angehoben (QES-Level)
+Die Beweiskraft Ihrer Signatur wird auf 100% angehoben (QES-Level)
 {{% /markdown %}}
 {{< /step >}}
 {{< /content >}}
@@ -92,8 +92,8 @@ Die Beweiskraft deiner Signatur wird auf 100% angehoben (QES-Level)
 {{< content text=center top=24 bottom=8 >}}
 {{% markdown %}}
 # Standorte für die Identitätsprüfung
-Komm vorbei und lass dich kostenlos identifizieren.
-Bringe deinen gültigen Pass oder Identitätskarte mit sowie dein Mobiltelefon.
+Kommen Sie vorbei und lassen Sie sich kostenlos identifizieren.
+Bringen Sie einen gültigen Pass oder Identitätskarte mit sowie Ihr Mobiltelefon.
 {{% /markdown %}}
 {{< /content >}}
 
@@ -443,11 +443,11 @@ Mo - So: 08.00 - 21.00
 
 {{< content top=6 width=narrow >}}
 {{% collapsible 1 "Was bringt mir die Identifikation?" %}}
-Auf Skribble hast du die Möglichkeit, mit dem [höchsten verfügbaren E-Signatur-Standard](/de/signaturstandards) zu signieren: Die qualifizierten elektronischen Signatur (QES). Diese hat eine Beweiskraft von 100% und kann für Verträge eingesetzt werden, die die Schriftlichkeit verlangen. Für die QES verlangt das Gesetz eine Identitätsprüfung.
+Auf Skribble haben Sie die Möglichkeit, mit dem [höchsten verfügbaren E-Signatur-Standard](/de/signaturstandards) zu signieren: Die qualifizierten elektronischen Signatur (QES). Diese hat eine Beweiskraft von 100% und kann für Verträge eingesetzt werden, die die Schriftlichkeit verlangen. Für die QES verlangt das Gesetz eine Identitätsprüfung.
 {{% /collapsible %}}
 
 {{% collapsible 2 "Muss ich mich vor jeder QES-Signatur neu identifizieren lassen?" %}}
-Nein. Deine E-ID ist 5 Jahre lang gültig oder bis zum Ablauf des Ausweises, den du bei der Identifikation vorgewiesen hast.
+Nein. Ihre E-ID ist 5 Jahre lang gültig oder bis zum Ablauf des Ausweises, den Sie bei der Identifikation vorgewiesen haben.
 {{% /collapsible %}}
 
 {{% collapsible 3 "Welche Ausweisdokumente kann ich für die Identifikation nutzen?" %}}
@@ -463,7 +463,7 @@ Nein. Aber mit einer Mobile-ID geht das Signieren schneller und einfacher, daher
 {{% /collapsible %}}
 
 {{% collapsible 6 "Was, wenn ich noch nicht persönlich identifiziert wurde?" %}}
-Die persönliche Identifikation wird nur für das Signieren mit dem höchsten E-Signatur-Standard (QES) vorausgesetzt. Wurdest du noch nicht persönlich identifiziert, signierst du entweder mit einer einfachen (EES) oder fortgeschrittenen elektronischen Signatur (FES).
+Die persönliche Identifikation wird nur für das Signieren mit dem höchsten E-Signatur-Standard (QES) vorausgesetzt. Wurden Sie noch nicht persönlich identifiziert, signieren Sie entweder mit einer einfachen (EES) oder fortgeschrittenen elektronischen Signatur (FES).
 {{% /collapsible %}}
 {{< /content >}}
 
