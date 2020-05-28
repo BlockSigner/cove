@@ -33,7 +33,7 @@ technologische Sicherheit und Einfachheit vereint.
 
   {{< features-item src="integrations/api-testing.svg"
     headline="API-Testing mit Demo-Account"
-    description="Mit unserem Demo-Account testesten Sie die API unverbindlich und kostenlos.">}}
+    description="Mit unserem Demo-Account testen Sie die API unverbindlich und kostenlos.">}}
 
   {{< features-item src="integrations/plugin-dms.svg"
     headline="Plug-in für DMS und Branchenlösungen"
@@ -41,7 +41,7 @@ technologische Sicherheit und Einfachheit vereint.
 
   {{< features-item src="integrations/web-ui.svg"
     headline="Optimiertes Webinterface für die Nutzung via Browser"
-    description="Skribbles optimierte Benutzeroberfläche liefert Ihnen ein intuitives Benutzererlebnis für alle modernen Browser und Geräte.">}}
+    description="Skribbles optimierte Benutzeroberfläche liefert Ihnen ein intuitives Benutzererlebnis auf allen modernen Browsern und Geräten.">}}
 {{< /features-container >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
@@ -90,7 +90,7 @@ technologische Sicherheit und Einfachheit vereint.
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
 {{< content top=4 >}}
-{{< testimonial "testimonial/descartesfinance-300w.png" "Adriano Lucatelli, CEO von Descarte Finance" >}}
+{{< testimonial "testimonial/descartesfinance-300w.png" "Adriano Lucatelli, CEO von Descartes Finance" >}}
 "Mit Skribble wickeln wir das komplette Onboarding für unser Säule 3a-Produkt digital ab. Die Zusammenarbeit mit einem lokalen Partner mit Schweizer Hosting unterstreicht unsere Positionierung als Schweizer Anbieter."
 {{< /testimonial >}}
 {{< /content >}}
@@ -100,7 +100,7 @@ technologische Sicherheit und Einfachheit vereint.
 {{< content text=center top=16 bottom=4 width=narrow >}}
 {{% markdown %}}
 # API ausprobieren
-In Ihrem Skribble Business Konto können Sie einen Demo-Schlüssel erstellen.
+In Ihrem Skribble Business Konto erstellen Sie einfach einen Demo-Schlüssel.
 {{% /markdown %}}
 {{< /content >}}
 
@@ -129,7 +129,7 @@ Schauen Sie sich unsere API-Dokumentation an. (auf Englisch)
 
 {{< content top=12 >}}
 {{< testimonial "testimonial/swissmade-logo-300w.png" "" >}}
-Skribble trägt das label
+Skribble trägt das Label
 Swiss made Software, das für Qualität, Zuverlässigkeit und Präzision in der Software-Entwicklung steht.
 {{< /testimonial >}}
 {{< /content >}}
