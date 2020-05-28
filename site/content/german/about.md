@@ -28,7 +28,7 @@ Es war einmal die Unterschrift &ndash; heute signieren wir mit Skribble.
 {{% markdown %}}
 Die Digitalisierung macht vieles schneller, günstiger und einfacher. Das gilt auch für den Geschäftsalltag, zumindest bei 90 Prozent der Prozesse.
 
-Bei den übrigen zehn Prozent handelt es sich um Schritte, die ein hohes Mass an Vertrauen verlangen, zum Beispiel das Unterschreiben von Arbeitsverträgen. Hierbei verlassen sich viele Firmen noch auf bewährte analoge Prozesse &ndash; auf dem digitalen Weg ist dieselbe Rechtsgrundlage nicht oder nur mit enormen Mehraufwand garantiert. Zumindest bis anhin.
+Bei den übrigen zehn Prozent handelt es sich um Schritte, die ein hohes Mass an Vertrauen verlangen, zum Beispiel das Unterschreiben von Arbeitsverträgen. Hierbei verlassen sich viele Firmen noch auf bewährte analoge Prozesse &ndash; auf dem digitalen Weg ist dieselbe Rechtsgrundlage nicht oder nur mit enormem Mehraufwand garantiert. Zumindest bis anhin.
 
 ## Skribble will das ändern:
 {{% /markdown %}}
