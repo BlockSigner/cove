@@ -51,7 +51,7 @@ rechtsgültig nach dem Schweizer & EU Gesetz.
 {{< side-by-side top=24 img=image2 mobile-top=12 mobile-bottom=6 img-width=416 img-position=right img-alt="Eine frau hält ein PDF dokument in den händen und lädt es hoch" >}}
 {{% markdown %}}
 ## Dokumente als PDF hochladen
-Lade das signierbereite PDF-Dokument direkt via Browser hoch oder nutze Skribble via API aus deiner Unternehmenssoftware heraus.
+Laden Sie das signierbereite PDF-Dokument direkt via Browser hoch oder nutzen Sie Skribble via API aus Ihrer Unternehmenssoftware heraus.
 {{% /markdown %}}
 {{< /side-by-side >}}
 
@@ -60,7 +60,7 @@ Lade das signierbereite PDF-Dokument direkt via Browser hoch oder nutze Skribble
 {{< side-by-side bottom=12 mobile-top=6 mobile-bottom=6 img=image3 img-width=400 img-alt="Ein mann lädt zwei personen zum signieren ein" >}}
 {{% markdown %}}
 ## Zum Signieren einladen
-Lade die signierenden Personen per E-Mail ein und lege die Signatur-Reihenfolge fest.
+Laden Sie die signierenden Personen per E-Mail ein und legen Sie die Signatur-Reihenfolge fest.
 {{% /markdown %}}
 {{< /side-by-side >}}
 
@@ -69,7 +69,7 @@ Lade die signierenden Personen per E-Mail ein und lege die Signatur-Reihenfolge 
 {{< side-by-side top=12 bottom=24 mobile-top=6 mobile-bottom=12 img=image4 img-position=right img-width=391 img-alt="Three people legally sign a document online" >}}
 {{% markdown %}}
 ## Rechtsgültig signieren
-Signiere per Knopfdruck, unabhängig
+Signieren Sie per Knopfdruck, unabhängig
 von Zeit und Ort, rechtsgültig nach Schweizer
 und EU-Recht.
 {{% /markdown %}}
@@ -79,8 +79,8 @@ und EU-Recht.
 
 {{< content top=12 bottom=6 text=center width=narrow >}}
 {{% markdown %}}
-Signierst du mit Skribble, 
-sparst du Zeit im Arbeitsalltag
+Signieren Sie mit Skribble, 
+sparen Sie Zeit im Arbeitsalltag
 ===============
 {{% /markdown %}}
 {{< /content >}}
@@ -105,10 +105,10 @@ den Alltag für uns und unseren Kunden." {{< /testimonial >}}
 
 {{< content top=20 text=center width=narrow >}}
 {{% markdown %}}
-Mit Skribble erfüllst du 
+Mit Skribble erfüllen Sie 
 die rechtlichen Anforderungen
 ===============
-Signiere rechtsgültig und sicher gemäss folgenden Erfordernissen:
+Signieren Sie rechtsgültig und sicher gemäss folgenden Erfordernissen:
 {{% /markdown %}}
 {{< /content >}}
 
@@ -130,12 +130,12 @@ Skribble sowie Partner verwalten ihre Daten gemäss dem Bundesgesetz über den D
 
 {{< content top=24 text=center width=narrow >}}
 {{% markdown %}}
-Signiere immer 
+Signieren Sie immer 
 mit dem optimalen Standard 
 ===============
 Das Gesetz unterscheidet drei Signaturstandards. Sie variieren 
-punkto Einsatzgebiet und Beweiskraft. Bei Skribbble erhältst 
-du alle Standards aus einer Hand.
+punkto Einsatzgebiet und Beweiskraft. Bei Skribbble erhalten Sie 
+alle Standards aus einer Hand.
 {{% /markdown %}}
 {{< /content >}}
 
@@ -217,7 +217,7 @@ mit gesetzlicher Formvorschrift oder hohem Haftungsrisiko.
 >}}
 
 {{% markdown %}}
-**Auf Skribble hast du die Wahl zwischen den Signaturstandards QES, FES und EES.**
+**Auf Skribble haben Sie die Wahl zwischen den Signaturstandards QES, FES und EES.**
 {{% /markdown %}}
 {{< /cta >}}
 
@@ -241,7 +241,7 @@ zu mehr Beweiskraft
 {{< picture "video-ident" 250 "Eine lupe vergrößert das bild eines mannes in einem pass." >}}
 {{% markdown %}}
 **Video-Identifikation**
-Schalte die qualifizierte elektronische Signatur (QES) von zu Hause aus frei, in dem du dich via Video-Call identifizieren lässt.
+Schalten Sie die qualifizierte elektronische Signatur (QES) von zu Hause aus frei, in dem Sie sich via Video-Call identifizieren lassen.
 {{% /markdown %}}
 <br>
 {{< button
@@ -255,7 +255,7 @@ Schalte die qualifizierte elektronische Signatur (QES) von zu Hause aus frei, in
 {{< picture "aes-for-biz-home-id" 280 "Ein grosser Pfeil, wie er eine Organsation, ein Hochhaus anklickt." >}}
 {{% markdown %}}
 **Organisationsweite Einführung**
-Schalte die fortgeschrittene elektronische Signatur (FES) innert weniger Tage für die gesamte Mitarbeiterschaft frei.
+Schalten Sie die fortgeschrittene elektronische Signatur (FES) innert weniger Tage für die gesamte Mitarbeiterschaft frei.
 {{% /markdown %}}
 <br>
 {{< button
