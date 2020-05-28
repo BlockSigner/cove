@@ -22,7 +22,7 @@ Die Verfahren unterscheiden sich je nach Anwendungsfall.
 {{< content text=center top=16 bottom=8 width=narrow >}}
 {{% markdown %}}
 # Verträge ohne Formvorschrift
-Für formfreie Verträge wird typischerweise die fortgeschrittene elektronische Signatur (FES) eingesetzt. Bei der FES setzt das Gesetzt voraus, dass die Identität der Signierenden im Nachhinein rekonstruiert werden kann.
+Für formfreie Verträge wird typischerweise die fortgeschrittene elektronische Signatur (FES) eingesetzt. Bei der FES setzt das Gesetz voraus, dass die Identität der Signierenden im Nachhinein rekonstruiert werden kann.
 {{% /markdown %}}
 {{< /content >}}
 
@@ -106,7 +106,7 @@ Wann nutze ich QES, wann FES?
 {{< content text=center top=16 bottom=8 width=narrow >}}
 {{% markdown %}}
 # Verträge mit Formvorschrift
-Für Verträge mit Formvorschrift oder hohem Abspruch an Beweiskraft wird typischerweise die qualifizierte elektronische Signatur (QES) eingesetzt. Bei der QES setzt das Gesetzt voraus, dass die Identität der Signierenden im Voraus im persönlichen Kontakt geprüft wird.
+Für Verträge mit Formvorschrift oder hohem Abspruch an Beweiskraft wird typischerweise die qualifizierte elektronische Signatur (QES) eingesetzt. Bei der QES setzt das Gesetz voraus, dass die Identität der Signierenden im Voraus im persönlichen Kontakt geprüft wird.
 {{% /markdown %}}
 {{< /content >}}
 
@@ -211,7 +211,7 @@ schalten die QES automatisch frei.
 {{< picture e-id-map 810 "E-ID, wo du in kürze bei Skribble signieren kannst." >}}
 
 {{% markdown %}}
-Eine wachsende Anzahl Menschen in Europa verfügt über eine geprüfte elektronische Identität (E-ID). Skribble bindet diese an. So können Millionen von Menschen ohne zusätzliche Identifikationsverfahren sofort mit QES signeiren.
+Eine wachsende Anzahl Menschen in Europa verfügt über eine geprüfte elektronische Identität (E-ID). Skribble bindet diese an. So können Millionen von Menschen ohne zusätzliche Identifikationsverfahren sofort mit QES signieren.
 {{% /markdown %}}
 {{< /content >}}
 
@@ -242,7 +242,7 @@ Eine wachsende Anzahl Menschen in Europa verfügt über eine geprüfte elektroni
 {{< content text=left width=narrow >}}
 
 {{% collapsible 10 "Wann verwende ich welchen Signaturstandard?" %}}
-Die einfache und die fortgeschrittene elektronische Signatur (EES und FES) sind bei allen Verträgen rechtsgültig, bei denen das Gesetz keine spezielle Form vorschreibt (formfreie Verträge). Die qualifizierte elektronische Signatur (QES) nutzten Sie bei Verträgen mit Formvorschrift oder um internen Compliance-Anforderungen zu genügen. Beispiele und mehr Informationen finden Sie unter: https://www.skribble.com/de/signaturstandards/
+Die einfache und die fortgeschrittene elektronische Signatur (EES und FES) sind bei allen Verträgen rechtsgültig, bei denen das Gesetz keine spezielle Form vorschreibt (formfreie Verträge). Die qualifizierte elektronische Signatur (QES) nutzen Sie bei Verträgen mit Formvorschrift oder um internen Compliance-Anforderungen zu genügen. Beispiele und mehr Informationen finden Sie unter: https://www.skribble.com/de/signaturstandards/
 {{% /collapsible %}}
 
 {{% collapsible 11 "Welche Identifikationmsmassnahmen werden für die einfache elektronische Signatur (EES) vorausgesetzt?" %}}
@@ -251,7 +251,7 @@ Bei der EES dient die E-Mail-Adresse als Identifikationselement. Die E-Mail-Adre
 
 {{% collapsible 12 "Wieso unterscheidet sich die Identifikation bei der EES, der FES und der QES?" %}}
 Die gesetzlichen Identifikationsanforderungen sind nicht dieselben.
-Die QES ist der höchste Standard und der handschriftlichen Unterschrift gleichgestellt. Die Identifikationsanforderungen für die QES sind im Gesetzt genau definiert.
+Die QES ist der höchste Standard und der handschriftlichen Unterschrift gleichgestellt. Die Identifikationsanforderungen für die QES sind im Gesetz genau definiert.
 Bei der EES und der FES sind die Anbieter freier. Skribble achtet bei der Auswahl der Identifikationsverfahren für die EES und die FES auf die Einfachheit der Anwendung und die Maximierung der Beweiskraft.
 {{% /collapsible %}}
 
