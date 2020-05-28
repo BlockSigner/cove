@@ -187,7 +187,7 @@ languages:
           target:
       rightSlot:
         title: Kontakt aufnehmen?
-        text: Gerne kontaktiert dich Skribble um deine Fragen zu beantworten.
+        text: Gerne kontaktieren wir Sie um Ihre Fragen zu beantworten.
         button:
           label: Telefonat vereinbaren
           href: https://help.skribble.com/meetings/patrick182/call-mit-skribble
@@ -198,7 +198,7 @@ languages:
         titleColumn3: Über uns
         titleColumn4: Ressourcen
       newsletterTitle: Newsletter
-      newsletterText: Elektronische Signaturen und digitales Vertrauen sind brandaktuelle Themen. Bleibe auf dem Laufenden! <br class="hide-for-mobile">Siehe unsere <a href="/de/datenschutz">Datenschutzerklärungen</a>.
+      newsletterText: Elektronische Signaturen und digitales Vertrauen sind brandaktuelle Themen. Bleiben Sie auf dem Laufenden! <br class="hide-for-mobile">Unsere <a href="/de/datenschutz">Datenschutzerklärungen</a> anschauen.
   en:
     languageName: English
     flagCode: GB
