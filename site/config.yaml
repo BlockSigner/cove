@@ -187,7 +187,7 @@ languages:
           target:
       rightSlot:
         title: Kontakt aufnehmen?
-        text: Gerne kontaktieren wir Sie um Ihre Fragen zu beantworten.
+        text: Gerne beantworten wir Ihre Fragen im persönlichen Kontakt.
         button:
           label: Telefonat vereinbaren
           href: https://help.skribble.com/meetings/patrick182/call-mit-skribble
