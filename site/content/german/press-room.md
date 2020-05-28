@@ -1,6 +1,6 @@
 ---
 title: Skribble für Medien
-description: Hier findest du alles was du brauchst, um über Skribble zu schreiben. Die TrustTech-Firma Skribble, gegründet im März 2018, ist ein Schweizer Anbieter von elektronischen Signaturen mit Büros in Zürich und Karlsruhe.
+description: Hier finden Sie alles was Sie brauchen, um über Skribble zu schreiben. Die TrustTech-Firma Skribble, gegründet im März 2018, ist ein Schweizer Anbieter von elektronischen Signaturen mit Büros in Zürich und Karlsruhe.
 draft: false
 slug: medien
 # opengraph image (for facebook and twitter)
@@ -11,7 +11,7 @@ og_image: og/og-skribble-mission.jpg
 {{< content text=center top=16 bottom=4 width=narrow >}}
 {{% markdown %}}
 # Skribble für Medien
-Hier findest du alles was du brauchst, um über Skribble zu schreiben.
+Hier finden Sie alles was Sie brauchen, um über Skribble zu schreiben.
 {{% /markdown %}}
 {{< /content >}}
 
