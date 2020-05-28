@@ -1,6 +1,6 @@
 ---
-title: Welches Signatur brauche ich? Auf Skribble kannst du wählen
-description: Wie viel Beweiskraft brauchst du? Das Gesetz unterscheidet zwischen der qualifizierten E-Signatur (QES) und der fortgeschrittenen E-Signatur (FES).
+title: Welches Signatur brauche ich? Auf Skribble können Sie wählen
+description: Wie viel Beweiskraft brauchen Sie? Das Gesetz unterscheidet zwischen der qualifizierten E-Signatur (QES) und der fortgeschrittenen E-Signatur (FES).
 draft: false
 slug: signaturstandards
 
@@ -138,7 +138,7 @@ Die rundum-sorglos-Signatur für höchste Ansprüche
 {{< content top=6 bottom=6 width=narrow >}}
 {{% markdown %}}
 **Die qualifizierte elektronische Signatur (QES) ist der handschriftlichen Signatur rechtlich gleichgestellt.**
-Du setzt die QES ein, um die Beweiskraft deiner Verträge zu maximieren oder wenn das Gesetz die Schriftlichkeit verlangt.
+Sie setzen die QES ein, um die Beweiskraft Ihrer Verträge zu maximieren oder wenn das Gesetz die Schriftlichkeit verlangt.
 Letzteres trifft z.B. bei Kredit- oder Arbeitsverträgen mit Konkurrenzklausel zu.
 Das Signieren mit QES auf Skribble setzt eine vorgängige Identitätsprüfung im persönlichen Kontakt oder per Video oder eine bestehende E-ID voraus.
 {{% /markdown %}}
@@ -164,7 +164,7 @@ die elektronische Signatur."
 
 {{% markdown %}}
 **Identitätsprüfung**
-So schaltest du die QES auf Skribble frei.
+So schalten Sie die QES auf Skribble frei.
 {{% /markdown %}}
 {{< /cta >}}
 
@@ -178,7 +178,7 @@ So schaltest du die QES auf Skribble frei.
 
 {{% markdown %}}
 **QES validieren**
-Prüfe, ob ein Dokument mit QES signiert wurde.
+Prüfen Sie, ob ein Dokument mit QES signiert wurde.
 {{% /markdown %}}
 {{< /cta >}}
 {{< /cta-group >}}
@@ -278,8 +278,8 @@ Sie ist rechtsgültig bei Dokumenten, bei denen das Gesetz keine spezielle Form 
 {{< picture "contact" 92 "Hast du Fragen? Wir helfen dir gerne weiter." >}}
 
 {{% markdown %}}
-**Hast du fragen?
-Wir helfen dir gerne weiter.**
+**Haben Sie Fragen?
+Wir helfen Ihnen gerne weiter.**
 {{% /markdown %}}
 {{< /cta >}}
 
