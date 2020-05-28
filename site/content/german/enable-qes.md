@@ -459,7 +459,7 @@ Die erfassten Daten werden auf den Hochsicherheitsservern der Swisscom in der Sc
 {{% /collapsible %}}
 
 {{% collapsible 5 "Braucht es für die QES eine Mobile ID?" %}}
-Nein. Aber mit einer Mobile-ID geht das Signieren schneller und einfacher, daher empfehlen wir sie. Auf Mobile-ID.ch kann überprüft werden ob das eigene Smartphone bereits eine Mobile-ID hat und ob die Funktion bereits aktiviert ist. Wenn dies nicht der Fall ist, kann bei den meisten Anbietern kostenlos eine neue SIM-Karte mit Mobile-ID bestellt werden.
+Nein. Aber mit einer Mobile ID geht das Signieren schneller und einfacher, daher empfehlen wir sie. Auf Mobile ID.ch kann überprüft werden ob das eigene Smartphone bereits eine Mobile ID hat und ob die Funktion bereits aktiviert ist. Wenn dies nicht der Fall ist, kann bei den meisten Anbietern kostenlos eine neue SIM-Karte mit Mobile ID bestellt werden.
 {{% /collapsible %}}
 
 {{% collapsible 6 "Was, wenn ich noch nicht persönlich identifiziert wurde?" %}}
