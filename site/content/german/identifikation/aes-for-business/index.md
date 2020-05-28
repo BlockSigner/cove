@@ -51,7 +51,7 @@ Einführung mit wenigen Klicks**
 
 {{< content top=4 bottom=6 width=narrow >}}
 {{% markdown %}}
-Bei FES für Business schaltet deine Firmen-Domäne (z.B. deinefirma.com) das Signieren frei. Jede Person, die sich mit einer E-Mail-Adresse Ihrer Organisation bei Skribble registriert (z.B. erika.mustermann @ deinefirma.com) und Mitglied Ihres Business-Kontos ist, kann ohne weitere Massnahmen mit FES signieren.
+Bei FES für Business schaltet Ihre Firmen-Domäne (z.B. ihrefirma.com) das Signieren frei. Jede Person, die sich mit einer E-Mail-Adresse Ihrer Organisation bei Skribble registriert (z.B. erika.mustermann @ ihrefirma.com) und Mitglied Ihres Business-Kontos ist, kann ohne weitere Massnahmen mit FES signieren.
 {{% /markdown %}}
 {{< /content >}}
 
