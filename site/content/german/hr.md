@@ -93,7 +93,7 @@ Skribble arbeitet mit gesetzlich definierten E-Signatur-Standards: Die qualifizi
 {{% /collapsible %}}
 
 {{% collapsible 2 "Schriftlichkeitserfordernis gemäss OR/BGB" "check" %}}
-Die auf Skribble verfügbare qualifizierte elektronische Signatur (QES) ist der handschriftlichen Signatur gleichgestellt gemäss nationalen Gesetzgebungen in der Schweizer und der EU (z.B. OR in der Schweiz oder BGB in Deutschland).
+Die auf Skribble verfügbare qualifizierte elektronische Signatur (QES) ist der handschriftlichen Signatur gleichgestellt gemäss nationalen Gesetzgebungen in der Schweiz und der EU (z.B. OR in der Schweiz oder BGB in Deutschland).
 {{% /collapsible %}}
 
 {{% collapsible 3 "Datenschutz gemäss DSG/DSGVO" "check" %}}
@@ -131,9 +131,9 @@ Wie wir den Alltag unserer Kunden erleichtern.
 {{< content text=center top=24 width=narrow >}}
 {{% markdown %}}
 # Mit Skribble maximieren Sie die Beweiskraft Ihrer Signatur
-Das Gesetz unterscheidet zwischen der qualifizierten E-Signatur (QES)
-und der fortgeschrittenen E-Signatur (FES). Die beiden Standards
-variieren punkto Einsatzgebiet und Beweiskraft.
+Das Gesetz unterscheidet drei Signaturstandards. Sie variieren
+punkto Einsatzgebiet und Beweiskraft. Bei Skribbble erhalten 
+Sie alle Standards aus einer Hand.
 {{% /markdown %}}
 {{< /content >}}
 
