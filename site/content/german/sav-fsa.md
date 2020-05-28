@@ -1,6 +1,6 @@
 ---
 title: SAV-FSA Mitglieder nutzen Skribble zum Vorzugspreis
-description: Über Skribble signierst du ohne USB-Stick oder Card-Reader mit dem höchsten verfügbaren E-Signatur-Standard (QES).
+description: Über Skribble signieren Sie ohne USB-Stick oder Card-Reader mit dem höchsten verfügbaren E-Signatur-Standard (QES).
 draft: false
 slug: sav-fsa
 type: blank
@@ -68,11 +68,11 @@ Signaturen können auch nutzerunabhängig bezogen werden.
 {{% markdown %}}
 # Bereit zum Signieren in 5 Minuten
 
-Du benötigst nur ein Mobiltelefon und ein gültiges Ausweispapier (Pass oder Identitätskarte).
+Sie benötigen nur ein Mobiltelefon und ein gültiges Ausweispapier (Pass oder Identitätskarte).
 
-- **Skribble kommt bei dir vorbei**
-- **Wir identifizieren dich**
-- **Du bist sofort signierbereit**
+- **Skribble kommt bei Ihnen vorbei**
+- **Wir identifizieren Sie**
+- **Sie sind sofort signierbereit**
 
 Eine Kanzlei kann auch dazu befähigt werden, selbst Personen zu identifizieren.
 {{% /markdown %}}
