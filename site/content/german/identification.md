@@ -47,7 +47,7 @@ Für formfreie Verträge wird typischerweise die fortgeschrittene elektronische 
 
 {{< picture company-email 280 "Ein Softwarfenster mit einem Mann und einer Frau in einer Blase." >}}
 
-Signaturstandards, die die Identität ihrer Mitarbeitenden standardmässig erfassen, können die FES via Firmen-E-Mail-Adresse freischalten. Wer über eine entsprechenden E-Mail-Adresse verfügt, kann sofort mit FES signieren.
+Unternehmen, die die Identität ihrer Mitarbeitenden standardmässig erfassen, können die FES via Firmen-E-Mail-Adresse freischalten. Wer über eine entsprechenden E-Mail-Adresse verfügt, kann sofort mit FES signieren.
 {{< /plan >}}
 
 {{< plan
@@ -121,7 +121,7 @@ Für Verträge mit Formvorschrift oder hohem Abspruch an Beweiskraft wird typisc
 {{< content text=center top=8 bottom=4 width=narrow >}}
 {{% markdown %}}
 **Identififkations-Service**
-Die QES schaltest du frei, in dem du dich online via Video-Call oder im persönlichen Kontakt mit der ID-App von Swisscom identifizieren lässt.
+Die QES schalten Sie frei, in dem Sie sich online via Video-Call oder im persönlichen Kontakt mit der ID-App von Swisscom identifizieren lassen.
 &nbsp;
 {{% /markdown %}}
 {{< /content >}}
@@ -177,7 +177,7 @@ QES-Signierende hinzukommen.
 >}}
 
 {{< picture id-direct 210 "Ein Mann sitzt vor einem Laptop, darüber ist eine Sotware-Fenster, wo eine Frau mit einer grossen Lupe herausragt und überprüft eine Identitätskarte." >}}
-Schalte den höchsten E-Signatur-Standard QES von zu Hause aus frei.
+Schalten Sie den höchsten E-Signatur-Standard QES von zu Hause aus frei.
 &nbsp;
 &nbsp;
 {{% /plan %}}
@@ -195,7 +195,7 @@ Schalte den höchsten E-Signatur-Standard QES von zu Hause aus frei.
 
 {{% markdown %}}
 **Identifikation für die QES: Skribble macht es einfach**
-Lass dich beraten und finde die passende Identifikations-Lösung für deine Firma.
+Lassen Sie sich beraten und finden Sie die passende Identifikations-Lösung für Ihre Firma.
 {{% /markdown %}}
 {{< /cta >}}
 {{< /content >}}
@@ -242,7 +242,7 @@ Eine wachsende Anzahl Menschen in Europa verfügt über eine geprüfte elektroni
 {{< content text=left width=narrow >}}
 
 {{% collapsible 10 "Wann verwende ich welchen Signaturstandard?" %}}
-Die einfache und die fortgeschrittene elektronische Signatur (EES und FES) sind bei allen Verträgen rechtsgültig, bei denen das Gesetz keine spezielle Form vorschreibt (formfreie Verträge). Die qualifizierte elektronische Signatur (QES) nutzt du bei Verträgen mit Formvorschrift oder um internen Compliance-Anforderungen zu genügen. Beispiele und mehr Informationen findest du unter: https://www.skribble.com/de/signaturstandards/
+Die einfache und die fortgeschrittene elektronische Signatur (EES und FES) sind bei allen Verträgen rechtsgültig, bei denen das Gesetz keine spezielle Form vorschreibt (formfreie Verträge). Die qualifizierte elektronische Signatur (QES) nutzten Sie bei Verträgen mit Formvorschrift oder um internen Compliance-Anforderungen zu genügen. Beispiele und mehr Informationen finden Sie unter: https://www.skribble.com/de/signaturstandards/
 {{% /collapsible %}}
 
 {{% collapsible 11 "Welche Identifikationmsmassnahmen werden für die einfache elektronische Signatur (EES) vorausgesetzt?" %}}
@@ -265,10 +265,10 @@ Bei der EES und der FES sind die Anbieter freier. Skribble achtet bei der Auswah
   outlined="true"
 >}}
 
-{{< picture consult 92 "Identifikation für die QES. Lass dich beraten und finde die passende Identifikations-Lösung für deine Firma." >}}
+{{< picture consult 92 "Identifikation für die QES. Lassen Sie sich beraten und finden Sie die passende Identifikations-Lösung für Ihre Firma." >}}
 
 {{% markdown %}}
-**Hast du Fragen? Wir helfen dir gerne telefonisch weiter.**
+**Haben Sie Fragen? Wir helfen Ihnen gerne telefonisch weiter.**
 {{% /markdown %}}
 {{< /cta >}}
 {{< /content >}}
