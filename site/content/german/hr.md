@@ -214,7 +214,7 @@ mit gesetzlicher Formvorschrift oder hohem Haftungsrisiko.
 
 {{% markdown %}}
 **Auf Skribble können Sie zwischen
-den Signaturstandards FES und QES wählen.**
+den Signaturstandards EES, FES und QES wählen.**
 {{% /markdown %}}
 {{< /cta >}}
 
