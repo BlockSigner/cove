@@ -207,7 +207,7 @@ mit gesetzlicher Formvorschrift oder hohem Haftungsrisiko.
 {{< /table >}}
 
 {{< cta
-  label="Erfahre mehr"
+  label="Mehr erfahren"
   href="/de/signaturstandards/"
   outlined="true"
 >}}
