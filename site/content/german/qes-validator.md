@@ -1,6 +1,6 @@
 ---
-title: Überprüfe, ob dein Dokument mit der QES signiert wurde
-description: Mit dem Validator der Schweizer Bundesverwaltung kannst du prüfen, ob dein Dokument mit einer qualifizierten elektronischen Signatur (QES) signiert wurde.
+title: Überprüfen Sie, ob Ihr Dokument mit der QES signiert wurde
+description: Mit dem Validator der Schweizer Bundesverwaltung können Sie prüfen, ob Ihr Dokument mit einer qualifizierten elektronischen Signatur (QES) signiert wurde.
 draft: false
 slug: qes-validator
 
@@ -8,9 +8,9 @@ slug: qes-validator
 
 {{< content text=center top=16 bottom=8 width=narrow >}}
 {{% markdown %}}
-# So prüfst du, ob dein Dokument <br class="hide-for-mobile">mit der QES signiert wurde
-Mit dem Validator der Schweizer Bundesverwaltung kannst du prüfen,
-ob dein Dokument mit einer qualifizierten elektronischen Signatur (QES)
+# So prüfsten Sie, ob Ihr Dokument <br class="hide-for-mobile">mit der QES signiert wurde
+Mit dem Validator der Schweizer Bundesverwaltung können Sie prüfen,
+ob Ihr Dokument mit einer qualifizierten elektronischen Signatur (QES)
 nach Schweizer Recht signiert wurde. *
 {{% /markdown %}}
 {{< /content >}}
@@ -20,12 +20,12 @@ nach Schweizer Recht signiert wurde. *
 {{< content top=6 width=narrow >}}
 {{% markdown %}}
 <small>* funktioniert für QES nach Schweizer Recht, nicht aber nach EU-Recht (eIDAS).</small>
-### So gehst du vor:
-1. **Wähle den Dokument-Typ:**
+### So gehen Sie vor:
+1. **Wählen Sie den Dokument-Typ:**
 Der eigenhändigen Unterschrift gleichgestellte
 qualifizierte elektronische Signatur
-2. **Lade dein Dokument hoch**
-3. **Klicke auf Prüfen**
+2. **Laden Sie Ihr Dokument hoch**
+3. **Klicken Sie auf Prüfen**
 {{% /markdown %}}
 {{< /content >}}
 
