@@ -1,6 +1,6 @@
 ---
-title: Erhöhe die Beweiskraft deiner elektronischen Signatur
-description: Schalte einen E-Signatur-Standard mit höherer Beweiskraft frei. Je eindeutiger deine E-Singatur dir als Person zugeordnet werden kann, desto höher deren Beweiskraft.
+title: Erhöhen Sie die Beweiskraft Ihrer elektronischen Signatur
+description: Schalten Sie einen E-Signatur-Standard mit höherer Beweiskraft frei. Je eindeutiger Ihre E-Singatur Ihnen als Person zugeordnet werden kann, desto höher deren Beweiskraft.
 draft: false
 slug: beweiskraft-erhoehen
 # opengraph image (for facebook and twitter)
@@ -10,12 +10,12 @@ og_image: og/og-skribble-increase-legal-weight.jpg
 
 {{< content text=center top=16 bottom=8 width=narrow >}}
 {{% markdown %}}
-Erhöhe die Beweiskraft 
-deiner E-Signatur
+Erhöhen Sie die Beweiskraft 
+Ihrer E-Signatur
 ===============	
-Schalte einen E-Signatur-Standard mit höherer Beweiskraft frei. 
+Schalten Sie einen E-Signatur-Standard mit höherer Beweiskraft frei. 
 Das Verfahren unterscheidet sich je nach Standard.
-Je eindeutiger deine E-Singatur dir als Person zugeordnet werden kann, 
+Je eindeutiger Ihre E-Singatur Ihnen als Person zugeordnet werden kann, 
 desto höher deren Beweiskraft.
 {{% /markdown %}}
 {{< /content >}}
@@ -96,8 +96,8 @@ desto höher deren Beweiskraft.
 {{% markdown %}}
 **Hohe Beweiskraft** 
 # Fortgeschrittene elektronische Signatur (FES)
-Die FES schaltest du frei, indem du dein Konto bei Skribble mit einer Schweizer Mobiltelefonnummer verbindest. Anpassen kannst du das in deinem Profil.
-Als Skribble Business-Kunde kannst du das Freischalten der FES via Firmen-E-Mail-Adresse aktivieren (FES für Business).
+Die FES schalten Sie frei, indem Sie Ihr Konto bei Skribble mit einer Schweizer Mobiltelefonnummer verbinden. Anpassen können Sie das in Ihrem Profil.
+Als Skribble Business-Kunde können Sie das Freischalten der FES via Firmen-E-Mail-Adresse aktivieren (FES für Business).
 {{% /markdown %}}
 {{< /content >}}
 
@@ -131,8 +131,8 @@ Organisationsweite Einführung mit wenigen Klicks
 Qualifizierte elektronische 
 Signatur (QES)
 ===============
-Die QES schaltest du frei, in dem du dich online via Video-Call 
-oder im persönlichen Kontakt mit der ID-App von Swisscom identifizieren lässt.
+Die QES schalten Sie frei, in dem Sie sich online via Video-Call 
+oder im persönlichen Kontakt mit der ID-App von Swisscom identifizieren lassen.
 {{% /markdown %}}
 {{< /content >}}
 
@@ -150,7 +150,7 @@ oder im persönlichen Kontakt mit der ID-App von Swisscom identifizieren lässt.
 
 {{% markdown %}}
 **Identifizieren lassen**
-So schaltest du die QES auf Skribble frei.
+So schalten Sie die QES auf Skribble frei.
 {{% /markdown %}}
 {{< /cta >}}
 
@@ -164,7 +164,7 @@ So schaltest du die QES auf Skribble frei.
 {{< picture consult 92 "Identifikation für die QES. Lass dich beraten und finde die passende Identifikations-Lösung für deine Firma." >}}
 
 {{% markdown %}}
-**Hast du Fragen? Wir helfen dir gerne telefonisch weiter.**
+**Haben Sie Fragen? Wir helfen Ihnen gerne telefonisch weiter.**
 {{% /markdown %}}
 {{< /cta >}}
 {{< /cta-group >}}
