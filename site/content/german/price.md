@@ -1,6 +1,6 @@
 ---
-title: Signiere einfacher mit dem passenden Preismodell
-description: Skribble eignet sich sowohl für gelegentliches wie auch für häufiges Signieren. Finde das passende Preismodell für deine Anwendung.
+title: Signieren Sie einfacher mit dem passenden Preismodell
+description: Skribble eignet sich sowohl für gelegentliches wie auch für häufiges Signieren. Finden Sie das passende Preismodell für Ihre Anwendung.
 draft: false
 slug: preise
 
@@ -8,7 +8,7 @@ slug: preise
 
 {{< content text=center top=16 width=narrow >}}
 {{% markdown %}}
-Signiere einfacher 
+Signieren Sie einfacher 
 mit dem passenden Preismodell
 ===============	
 Skribble eignet sich sowohl für Einzelpersonen 
@@ -21,7 +21,7 @@ als auch für Organisationen, die häufig signieren.
   bottom=6
   width=narrow
   title="Free"
-  description="<p>Du signierst <strong>2 Mal pro Monat kostenlos.</strong> Keine Kreditkarte erforderlich.</p>"
+  description="<p>Sie signieren <strong>2 Mal pro Monat kostenlos.</strong> Keine Kreditkarte erforderlich.</p>"
   button-text="Jetzt kostenlos ausprobieren"
   button-link="https://my.skribble.com/signup?lang=de"
   subtext="Konto jederzeit löschbar. Keine Kreditkarte notwendig."
@@ -31,8 +31,8 @@ als auch für Organisationen, die häufig signieren.
 
 {{< content text=center top=12 width=narrow >}}
 {{% markdown %}}
-## Signierst du häufiger?
-Nach dem Registrieren kannst du jederzeit auf
+## Signieren Sie häufiger?
+Nach dem Registrieren können Sie jederzeit auf
 eines der folgenden Modelle umstellen:
 {{% /markdown %}}
 {{< /content >}}
@@ -42,9 +42,9 @@ eines der folgenden Modelle umstellen:
   bottom=6
   width=narrow
   title="Fair Flat"
-  description="<p>Geeignet für dich, wenn du <strong>mehr als 2 Mal pro Monat</strong> selbst signierst oder andere zum Signieren einlädst.</p><p class='top-spaced'>Maximal</p><p><strong>CHF <span class='large'>2.50</span> pro Signatur</strong></p><p>bis zu einer Obergrenze von</p><p><strong>CHF <span class='large'>30.–</span> pro Monat</strong></p>"
+  description="<p>Geeignet für Sie, wenn Sie <strong>mehr als 2 Mal pro Monat</strong> selbst signieren oder andere zum Signieren einladen.</p><p class='top-spaced'>Maximal</p><p><strong>CHF <span class='large'>2.50</span> pro Signatur</strong></p><p>bis zu einer Obergrenze von</p><p><strong>CHF <span class='large'>30.–</span> pro Monat</strong></p>"
   has-comparison="true"
-  comparison-caption="Lädst du andere zum Signieren ein, kommen weitere CHF 2.00 bis 2.50 pro Signatur hinzu. Downgrade auf das Preismodell Free jederzeit möglich."
+  comparison-caption="Laden Sie andere zum Signieren ein, kommen weitere CHF 2.00 bis 2.50 pro Signatur hinzu. Downgrade auf das Preismodell Free jederzeit möglich."
   button-text="Jetzt ausprobieren"
   button-link="https://my.skribble.com/signup?lang=de"
   subtext="Keine Abonnements-Verpflichtungen. Die ersten zwei Signaturen sind jeden Monat kostenlos."
@@ -63,7 +63,7 @@ eines der folgenden Modelle umstellen:
   bottom=6
   width=narrow
   title="Business"
-  description="<strong>Du nutzt Skribble in deiner Organisation.</strong> Profitiere von zentraler Benutzerverwaltung und bezahle bequem auf Rechnung."
+  description="<strong>Sie nutzen Skribble in Ihrer Organisation.</strong> Profitueren Sie von zentraler Benutzerverwaltung und bezahlen Sie bequem auf Rechnung."
   has-comparison="true"  
   comparison-single="<p><strong>CHF <span class='large'>85.–</span> pro Monat (jährliche Abrechnung)</strong></p>und beinhaltet 600 Signaturen pro Jahr für alle Nutzer, inkl. externe Parteien</p><p>(gilt für alle E-Signatur-Standards: EES, FES und QES).</p><h4><strong>Zusätzliche Signaturen werden im Pay-per-Use Preismodell abgerechnet:</strong></h4><p><strong>EES:</strong> CHF 1.20</p><p><strong>FES:</strong> CHF 1.70</p><p><strong>QES:</strong> CHF 2.50</p>"
   comparison-title="Die Business-Flatrate kostet:"
@@ -87,9 +87,9 @@ eines der folgenden Modelle umstellen:
 
 <tbody>
 <tr>
-<td>Du signierst 2 Mal pro Monat kostenlos</td>
-<td>Du signierst mehr als 2 Mal pro Monat selbst oder holst Signaturen ein. Du hinterlegst eine Kreditkarte und bezahlst Ende Monat nur, was du tatsächlich gebraucht hast.</td>
-<td>Ihr nutzt Skribble gemeinsam in eurer Organisation. Die Nutzerverwaltung ist zentriert. Abgerechnet wird einheitlich per Rechnung. Die Signaturplattform bindet ihr via API an eure eigenen Systeme an.</td>
+<td>Sie signieren 2 Mal pro Monat kostenlos</td>
+<td>Sie signieren mehr als 2 Mal pro Monat selbst oder holen Signaturen ein. Sie hinterlegen eine Kreditkarte und bezahlen Ende Monat nur, was Sie tatsächlich gebraucht haben.</td>
+<td>Sie nutzen Skribble gemeinsam in Ihrer Organisation. Die Nutzerverwaltung ist zentriert. Abgerechnet wird einheitlich per Rechnung. Die Signaturplattform binden Sie via API an Ihre eigenen Systeme an.</td>
 </tr>
 
 <tr>
@@ -232,7 +232,7 @@ eines der folgenden Modelle umstellen:
 {{< picture package-6-1-out 100 "" >}}
 
 {{% markdown %}}
-**Wann brauchst du welchen Signaturstandard?**
+**Wann brauchen Sie welchen Signaturstandard?**
 {{% /markdown %}}
 {{< /cta >}}
 {{< cta
@@ -244,7 +244,7 @@ eines der folgenden Modelle umstellen:
 {{< picture qes-erklaert 122 "Signiert mit Skribble bedeutet rechtsgültig (QES) signiert nach Schweizer und EU-Gesetz." >}}
 
 {{% markdown %}}
-**Du interssierst dich für Zusatzservices im Bereich der Identifikation?**
+**Sie interssieren sich für Zusatzservices im Bereich der Identifikation?**
 {{% /markdown %}}
 {{< /cta >}}
 {{< /cta-group >}}
