@@ -1,6 +1,6 @@
 ---
 title: FES für Business – Organisationsweite Einführung mit wenigen Klicks
-description: Deine gesamte Mitarbeiterschaft kann innerhalb kürzester Zeit mit der fortgeschrittenen elektronischen Signatur (FES) signieren.
+description: Ihre gesamte Mitarbeiterschaft kann innerhalb kürzester Zeit mit der fortgeschrittenen elektronischen Signatur (FES) signieren.
 draft: false
 slug: fes-fuer-business
 translationKey: identification-aes-for-business
@@ -21,7 +21,7 @@ og_image: og/og-skribble-aes-for-business.jpg
 {{< content text=center top=16 bottom=4 width=narrow >}}
 {{% markdown %}}
 # FES für Business: Organisationsweite Einführung in wenigen Tagen
-Deine gesamte Mitarbeiterschaft kann innerhalb kürzester Zeit mit der fortgeschrittenen elektronischen Signatur (FES) signieren.
+Ihre gesamte Mitarbeiterschaft kann innerhalb kürzester Zeit mit der fortgeschrittenen elektronischen Signatur (FES) signieren.
 {{% /markdown %}}
 {{< /content >}}
 
@@ -51,7 +51,7 @@ Einführung mit wenigen Klicks**
 
 {{< content top=4 bottom=6 width=narrow >}}
 {{% markdown %}}
-Bei FES für Business schaltet deine Firmen-Domäne (z.B. deinefirma.com) das Signieren frei. Jede Person, die sich mit einer E-Mail-Adresse deiner Organisation bei Skribble registriert (z.B. erika.mustermann @ deinefirma.com) und Mitglied deines Business-Kontos ist, kann ohne weitere Massnahmen mit FES signieren.
+Bei FES für Business schaltet deine Firmen-Domäne (z.B. deinefirma.com) das Signieren frei. Jede Person, die sich mit einer E-Mail-Adresse Ihrer Organisation bei Skribble registriert (z.B. erika.mustermann @ deinefirma.com) und Mitglied Ihres Business-Kontos ist, kann ohne weitere Massnahmen mit FES signieren.
 {{% /markdown %}}
 {{< /content >}}
 
@@ -67,11 +67,11 @@ Bei FES für Business schaltet deine Firmen-Domäne (z.B. deinefirma.com) das Si
 
 {{< content top=8 bottom=6 width=narrow >}}
 {{% markdown %}}
-FES für Business kannst du direkt in deinem Skribble Business-Konto beantragen. Wir werden von dir folgende Informationen brauchen:
+FES für Business können Sie direkt in Ihrem Skribble Business-Konto beantragen. Wir werden von Ihnen folgende Informationen brauchen:
 
-- Domäne, die die FES freischalten soll (z.B. deinefirma.com)
-- Handelsregisternummer deiner Organisation
-- Name und E-Mail-Adresse einer Ansprechperson innerhalb deiner Organisation
+- Domäne, die die FES freischalten soll (z.B. ihrefirma.com)
+- Handelsregisternummer Ihrer Organisation
+- Name und E-Mail-Adresse einer Ansprechperson innerhalb Ihrer Organisation
 
 Können wir die Angaben verifizieren, wird FES für Business innerhalb von 5 bis 6 Arbeitstagen aktiviert und ist einsatzbereit.
 {{% /markdown %}}
@@ -150,7 +150,7 @@ Das Gesetz unterscheidet zwischen der qualifizierten E-Signatur (QES) und der fo
 
 {{< content top=8 bottom=6 width=narrow >}}
 {{% markdown %}}
-Skribbles Signatur-Plattform ist so konzipiert, dass neue Signierende ohne Erklärungsbedarf loslegen können. Signieren kann man über jedes Endgerät online auf Skribble.com. Alternativ bindet ihr Skribble an eure bestehenden Systeme an (via API). So können Mitarbeitende direkt aus eurer gewohnten Software heraus signieren.
+Skribbles Signatur-Plattform ist so konzipiert, dass neue Signierende ohne Erklärungsbedarf loslegen können. Signieren kann man über jedes Endgerät online auf Skribble.com. Alternativ binden Sie Skribble an Ihre bestehenden Systeme an (via API). So können Mitarbeitende direkt aus der gewohnten Software heraus signieren.
 {{% /markdown %}}
 {{< /content >}}
 
@@ -184,7 +184,7 @@ Die wichtigsten Fragen und Antworten
 
 {{< content top=6 width=narrow >}}
 {{% collapsible 1 "Muss ich alle meine Mitarbeitenden manuell für das Signieren identifizieren?" %}}
-Nein. Die Firmen-E-Mail-Adresse dient als Identifikationsmittel: Jede Person in deinem Business-Konto mit einer solchen Adresse kann mit FES signieren. Voraussetzung ist, dass deine Organisation den Pass oder die Identitätskarte der Mitarbeitenden einmalig geprüft hat (z.B. im Anstellungsprozess).
+Nein. Die Firmen-E-Mail-Adresse dient als Identifikationsmittel: Jede Person in Ihrem Business-Konto mit einer solchen Adresse kann mit FES signieren. Voraussetzung ist, dass Ihre Organisation den Pass oder die Identitätskarte der Mitarbeitenden einmalig geprüft hat (z.B. im Anstellungsprozess).
 {{% /collapsible %}}
 
 {{% collapsible 2 "In welchen Ländern kann ich FES für Business einsetzen?" %}}
@@ -200,7 +200,7 @@ Ja. Mitarbeitende, die auf QES-Level signieren sollen, durchlaufen dafür einen 
 {{% /collapsible %}}
 
 {{% collapsible 5 "Kann ich FES für Business nutzen, wenn meine Organisation nicht im Handelsregister eingetragen ist?" %}}
-Mit einem zusätzlichen Prüfschritt ist das grundsätzlich möglich. Kontaktiere uns für eine individuelle Abklärung.
+Mit einem zusätzlichen Prüfschritt ist das grundsätzlich möglich. Kontaktieren Sie uns für eine individuelle Abklärung.
 {{% /collapsible %}}
 
 {{% collapsible 6 "Wer ist der Zertifizierungsanbieter?" %}}
