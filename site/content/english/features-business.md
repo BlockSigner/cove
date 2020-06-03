@@ -28,7 +28,7 @@ Skribble Business customers sign organised as a group - with
 
   {{< features-item src="features-biz/mitgliederverwaltung.svg"
     headline="Centralised member administration"
-    description="Add new members, adjust their pricing model and assign administration rights.">}}
+    description="Add new members, and assign administration rights.">}}
 
   {{< features-item src="features-biz/domain-whitelist.svg"
     headline="Member auto registration"
