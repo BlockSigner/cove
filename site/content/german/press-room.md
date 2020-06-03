@@ -54,6 +54,13 @@ Die wichtigsten Skribble Branding Assets sind gleich hier griffbereit:
 
 {{< table top=12 width=narrow title="Medienmitteilungen" >}}
 <tr>
+  <td>28.05.2020</td>
+  <td><strong>Zweite Finanzierungsrunde abgeschlossen</strong></td>
+  <td>
+    <a href="site/content/english/downloads/20200528_Skribble_Medienmitteilung_Abschluss_Finanzierungsrunde (5).pdf" target="_blank">Download</a>
+  </td>
+</tr>
+<tr>
   <td>19.09.2019</td>
   <td><strong>EXPERTsuisse kooperiert mit Skribble</strong></td>
   <td>
