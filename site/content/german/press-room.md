@@ -57,7 +57,7 @@ Die wichtigsten Skribble Branding Assets sind gleich hier griffbereit:
   <td>28.05.2020</td>
   <td><strong>Zweite Finanzierungsrunde abgeschlossen</strong></td>
   <td>
-    <a href="site/content/english/downloads/20200528_Skribble_Medienmitteilung_Abschluss_Finanzierungsrunde (5).pdf" target="_blank">Download</a>
+    <a href="downloads/20200528_Medienmitteilung_Abschluss_Finanzierungsrunde_Skribble.pdf" target="_blank">Download</a>
   </td>
 </tr>
 <tr>
