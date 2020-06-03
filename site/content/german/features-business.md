@@ -27,7 +27,7 @@ mit zentraler Mitgliederverwaltung und gemeinsamer Abrechnung.
 
   {{< features-item src="features-biz/mitgliederverwaltung.svg"
     headline="Zentrale Mitgliederverwaltung"
-    description="Fügen Sie neue Mitglieder hinzu, passen Sie deren Preismodell an und vergeben Sie Administrationsrechte.">}}
+    description="Fügen Sie neue Mitglieder hinzu und vergeben Sie Administrationsrechte.">}}
 
   {{< features-item src="features-biz/domain-whitelist.svg"
     headline="Automatische Mitglieder Anmeldung"
