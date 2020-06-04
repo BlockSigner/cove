@@ -79,7 +79,7 @@ L'intégration des nouveaux signataires est intuitive et rapide.
     
   {{< features-item src="features-biz/company-branding.svg"
     headline="Company Branding"
-    description="Remplacez le logo de Skribble sur la plateforme de signature par le logo de votre entreprise.">}}
+    description="Personnalisez la plateforme de signature en remplaçant le logo de Skribble par le logo de votre entreprise.">}}
 
 {{< /features-container >}}
 
