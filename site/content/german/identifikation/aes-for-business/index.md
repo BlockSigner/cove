@@ -73,7 +73,7 @@ FES für Business können Sie direkt in Ihrem Skribble Business-Konto beantragen
 - Handelsregisternummer Ihrer Organisation
 - Name und E-Mail-Adresse einer Ansprechperson innerhalb Ihrer Organisation
 
-Können wir die Angaben verifizieren, wird FES für Business innerhalb von 5 bis 6 Arbeitstagen aktiviert und ist einsatzbereit.
+Können wir die Angaben verifizieren, wird FES für Business innerhalb von 1 bis 2 Wochen aktiviert und ist einsatzbereit.
 {{% /markdown %}}
 {{< /content >}}
 
