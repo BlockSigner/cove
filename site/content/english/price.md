@@ -162,6 +162,12 @@ to one of the following plans at any time:
 </tr>
 
 <tr>
+<td></td>
+<td></td>
+<td>Company Branding</td>
+</tr>
+
+<tr>
 <td><strong>Billing</strong></td>
 <td><strong>Billing</strong></td>
 <td><strong>Billing</strong></td>
