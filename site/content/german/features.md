@@ -55,7 +55,7 @@ sondern auch einfach.
     
   {{< features-item src="features/filter-search.svg"
     headline="Dokumente durchsuchen"
-    description="Finden Sie ein gesuchtes Dokument schnell, in dem Sie ihre Dokumente nach Namen filtern.">}}
+    description="Finden Sie ein gesuchtes Dokument schnell, in dem Sie Ihre Dokumente nach Namen filtern.">}}
 
 {{< /features-container >}}
 
