@@ -52,6 +52,10 @@ With Skribble you not only sign legally, but also with ease.
   {{< features-item src="features/assign-signer.svg"
     headline="Assign signatures"
     description="Pass on a received signature invitation to the required people.">}}
+    
+  {{< features-item src="features/filter-search.svg"
+    headline="Search documents"
+    description="Quickly find the document you are looking for by using the search function.">}}
 
 {{< /features-container >}}
 
