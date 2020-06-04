@@ -80,7 +80,7 @@ The onboarding of new signers is intuitive and fast.
     
   {{< features-item src="features-biz/company-branding.svg"
     headline="Company Branding"
-    description="Replace Skribbles logo on the signing platform with your company logo.">}}
+    description="Replace Skribble's logo on the signing platform with your company logo.">}}
 
 {{< /features-container >}}
 
