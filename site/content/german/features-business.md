@@ -75,6 +75,10 @@ Das Onboarding neuer Signierenden ist intuitiv und schnell.
   {{< features-item src="features-biz/direct-sign.svg"
     headline="Direct Sign"
     description="Externe Personen müssen über kein Skribble-Konto verfügen, um Ihre Dokumente zu signieren.">}}
+    
+  {{< features-item src="features-biz/company-branding.svg"
+    headline="Company Branding"
+    description="Ersetzen Sie Skribbles Logo auf der Signaturplattform durch ihr eigenes Unternehmenslogo.">}}
 
 {{< /features-container >}}
 
