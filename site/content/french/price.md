@@ -158,6 +158,12 @@ passer à l'un des modèles tarifaires suivants:
 </tr>
 
 <tr>
+<td></td>
+<td></td>
+<td>Company Branding</td>
+</tr>
+
+<tr>
 <td><strong>Facturation</strong></td>
 <td><strong>Facturation</strong></td>
 <td><strong>Facturation</strong></td>
