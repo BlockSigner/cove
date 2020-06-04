@@ -159,6 +159,12 @@ eines der folgenden Modelle umstellen:
 </tr>
 
 <tr>
+<td></td>
+<td></td>
+<td>Company Branding</td>
+</tr>
+
+<tr>
 <td><strong>Abrechnung</strong></td>
 <td><strong>Abrechnung</strong></td>
 <td><strong>Abrechnung</strong></td>
