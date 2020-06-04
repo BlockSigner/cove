@@ -75,7 +75,7 @@ You can register for AES for Business directly in your Skribble Business account
 - Trade register number of your organisation
 - Name and e-mail address of an internal contact person
 
-If we can verify the information, AES for Business will be activated and ready for use within 5 to 6 working days.
+If we can verify the information, AES for Business will be activated and ready for use within 1 to 2 weeks.
 {{% /markdown %}}
 {{< /content >}}
 
