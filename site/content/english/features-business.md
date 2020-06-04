@@ -77,6 +77,10 @@ The onboarding of new signers is intuitive and fast.
   {{< features-item src="features-biz/direct-sign.svg"
     headline="Direct sign"
     description="External people do not need to have a Skribble account to sign your documents.">}}
+    
+  {{< features-item src="features-biz/company-branding.svg"
+    headline="Company Branding"
+    description="Replace Skribbles logo on the signing platform with your company logo.">}}
 
 {{< /features-container >}}
 
