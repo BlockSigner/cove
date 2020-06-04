@@ -72,7 +72,7 @@ Vous pouvez faire une demande de SEA pour Business directement depuis votre comp
 - Numéro de registre du commerce de votre organisation
 - Nom et adresse e-mail d'une personne de contact interne
 
-Si nous pouvons vérifier l'information, SEA pour Business sera activé et prêt à être utilisé dans les 5 à 6 jours ouvrables.
+Si nous pouvons vérifier l'information, SEA pour Business sera activé et prêt à être utilisé dans 1 à 2 semaines.
 {{% /markdown %}}
 {{< /content >}}
 
