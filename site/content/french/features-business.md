@@ -76,6 +76,10 @@ L'intégration des nouveaux signataires est intuitive et rapide.
   {{< features-item src="features-biz/direct-sign.svg"
     headline="Direct Sign"
     description="Les personnes extérieures n'ont pas besoin d'avoir un compte Skribble pour signer vos documents.">}}
+    
+  {{< features-item src="features-biz/company-branding.svg"
+    headline="Company Branding"
+    description="Remplacez le logo de Skribble sur la plateforme de signature par le logo de votre entreprise.">}}
 
 {{< /features-container >}}
 
