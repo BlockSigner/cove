@@ -55,7 +55,7 @@ légalement valable, mais aussi simple.
     
   {{< features-item src="features/filter-search.svg"
     headline="Recherche de documents"
-    description="Trouvez rapidement un document que vous recherchez en filtrant vos documents par nom.">}}
+    description="Trouvez immédiatement le document que vous recherchez en effectuant une recherche par nom.">}}
 
 {{< /features-container >}}
 
