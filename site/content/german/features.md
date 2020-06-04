@@ -52,6 +52,10 @@ sondern auch einfach.
   {{< features-item src="features/assign-signer.svg"
     headline="Signaturen zuweisen"
     description="Leiten Sie eine erhaltene Signatureinladung an die erforderlichen Personen weiter.">}}
+    
+  {{< features-item src="features/filter-search.svg"
+    headline="Dokumente durchsuchen"
+    description="Finden Sie ein gesuchtes Dokument schnell, in dem Sie ihre Dokumente nach Namen filtern.">}}
 
 {{< /features-container >}}
 
