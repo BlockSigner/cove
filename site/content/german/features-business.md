@@ -78,7 +78,7 @@ Das Onboarding neuer Signierenden ist intuitiv und schnell.
     
   {{< features-item src="features-biz/company-branding.svg"
     headline="Company Branding"
-    description="Ersetzen Sie Skribbles Logo auf der Signaturplattform durch ihr eigenes Unternehmenslogo.">}}
+    description="Personalisieren Sie die Signaturplattform, indem Sie das Logo von Skribble durch Ihr Unternehmenslogo ersetzen.">}}
 
 {{< /features-container >}}
 
