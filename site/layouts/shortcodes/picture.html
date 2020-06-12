@@ -2,7 +2,7 @@
 <div class="picture">
   {{ if .Get "href" }}
     <a href="{{.Get "href"}}" target="{{.Get "target"}}">
-  {{ else}}
+  {{ else }}
     <div class="picture">
   {{ end }}
     {{ $width_x2 := mul (int (.Get "w")) 2 }}

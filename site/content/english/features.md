@@ -1,6 +1,6 @@
 ---
-title: Skribble – Legally binding electronic signatures with Skribble
-description: Easily handle digital signature processes – legally binding in accordance with Swiss & EU law.
+title: Skribble features
+description: With Skribble you not only sign legally, but also with ease. Upload the ready to sign PDF document via browser or use Skribble via API.
 
 draft: false
 slug: features
@@ -19,7 +19,7 @@ With Skribble you not only sign legally, but also with ease.
 
 {{< picture skribble-ui-en 1020 "Skribble plattform - user interface" >}}
 
-{{< features-container >}}
+{{< features-container width=wide >}}
 
   {{< features-item src="features/dragdrop.svg"
     headline="Upload via drag & drop"
@@ -45,25 +45,38 @@ With Skribble you not only sign legally, but also with ease.
     headline="Visual signature"
     description="Customise your personal visual signature and upload your personal handwritten signature as a PNG, JPG or GIF.">}}
 
+  {{< features-item src="features/additional-signer.svg"
+    headline="Extend signature request"
+    description="Allow the signers to invite additional people to sign.">}}
+
+  {{< features-item src="features/assign-signer.svg"
+    headline="Assign signatures"
+    description="Pass on a received signature invitation to the required people.">}}
+    
+  {{< features-item src="features/filter-search.svg"
+    headline="Search documents"
+    description="Find the document you are looking for immediately by searching your documents by name.">}}
+
 {{< /features-container >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
+{{< content top=12 >}}
 {{< testimonial "testimonial/fr-logo-99w.svg" "Stéphane Schwab, Head of E-Government, Canton of Fribourg" >}}
-"Thanks to Skribble, we can digitize administrative processes from A to Z.
-This makes everyday life easier for
-us and our customers." {{< /testimonial >}}
+"Thanks to Skribble, we can digitize administrative processes from A to Z. This makes everyday life easier for us and our customers." 
+{{< /testimonial >}}
+{{< /content >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< content text=center top=12 bottom=8 width=narrow >}}
+{{< content text=center top=20 bottom=8 width=narrow >}}
 {{% markdown %}}
 ## Coming soon
 Our vision is great. We develop Skribble day by day.
 {{% /markdown %}}
 {{< /content >}}
 
-{{< features-container >}}
+{{< features-container width=wide >}}
 
   {{< features-item src="features/eid-sign.svg"
     headline="Signing with SwissID/ eID+"
@@ -84,6 +97,15 @@ Our vision is great. We develop Skribble day by day.
 {{< /features-container >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
+
+{{< content top=20 >}}
+{{< testimonial "testimonial/kantonschaffhausen-300w.png" "Titus Fleck, IT Manager, Canton of Schaffhausen" >}}
+"Skribble provides us with the organisation certificate and the QES, which are the decisive technical components for the end-to-end digitalisation of our citizen services".
+{{< /testimonial >}}
+{{< /content >}}
+
+[//]: # (--------------------------------------------------------------------------------------------------------------)
+
 
 {{< outro >}}
 {{% markdown center %}}

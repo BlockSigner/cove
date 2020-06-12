@@ -15,7 +15,7 @@ languages:
     flagCode: DE
     weight: 2
     contentDir: content/german
-    phone: +41 44 505 16 64
+    # phone: +41 44 505 16 64
     outageMsg: Im Moment ist Skribble für einige Benutzer nur eingeschränkt nutzbar. Unser Hosting Anbieter hat schwerwiegende Netzwerksausfälle. Wir arbeiten aktiv an einer Lösung und beobachten die Entwicklung. Updates folgen.
     menu:
       main:
@@ -40,8 +40,8 @@ languages:
           url: "/de/identifikation/"
           weight: 30
           parent: plattform
-        - name: QES freischalten
-          url: "/de/qes-freischalten/"
+        - name: Beweiskraft erhöhen
+          url: "/de/beweiskraft-erhoehen/"
           weight: 35
           parent: plattform
         # Solutions dropdown
@@ -61,6 +61,10 @@ languages:
         - name: Preise
           url: "/de/preise/"
           weight: 20
+        # Kontakt
+        - name: Kontakt
+          url: "/de/kontakt/"
+          weight: 25
       footer1:
         - name: Features
           url: /de/features/
@@ -74,9 +78,15 @@ languages:
         - name: Identifikation
           url: /de/identifikation/
           weight: 20
+        - name: Beweiskraft erhöhen
+          url: "/de/beweiskraft-erhoehen/"
+          weight: 25 
+        - name: FES für Business
+          url: "/de/identifikation/fes-fuer-business/"
+          weight: 30
         - name: QES freischalten
           url: /de/qes-freischalten/
-          weight: 25
+          weight: 35
       footer2:
         - name: HR
           url: /de/hr/
@@ -97,9 +107,12 @@ languages:
         - name: Medien
           url: /de/medien/
           weight: 20
+        - name: Partner
+          url: /de/partner/
+          weight: 25
         - name: Kontakt
           url: "/de/kontakt/"
-          weight: 25
+          weight: 30
       footer4:
         - name: News
           url: https://news.skribble.com
@@ -116,6 +129,9 @@ languages:
         - name: QES-Validator
           url: /de/qes-validator/
           weight: 25
+        - name: Status
+          url: /status/
+          weight: 30  
       meta:
         - name: Datenschutzbestimmungen
           url: /de/datenschutz/
@@ -155,17 +171,17 @@ languages:
         href: https://help.skribble.com/meetings/patrick182/call-mit-skribble
     footer:
       leftSlot:
-        title: Beweiskraft maximieren?
-        text: Lass dich identifizieren und schalte den höchsten E-Signatur-Standard frei.
+        title: Beweiskraft erhöhen?
+        text: Lassen Sie sich identifizieren und schalten Sie einen höheren E-Signatur-Standard frei.
         button:
-          label: Identifizieren lassen
-          href: /de/qes-freischalten/
+          label: Beweiskraft erhöhen
+          href: /de/beweiskraft-erhoehen/
           target:
       rightSlot:
-        title: Demo vereinbaren?
-        text: Wir kommen gerne persönlich vorbei um dir Skribble zu zeigen.
+        title: Kontakt aufnehmen?
+        text: Gerne beantworten wir Ihre Fragen im persönlichen Kontakt.
         button:
-          label:  Telefongespräch vereinbaren
+          label: Telefonat vereinbaren
           href: https://help.skribble.com/meetings/patrick182/call-mit-skribble
           target: _blank
       navigation:
@@ -174,13 +190,13 @@ languages:
         titleColumn3: Über uns
         titleColumn4: Ressourcen
       newsletterTitle: Newsletter
-      newsletterText: Elektronische Signaturen und digitales Vertrauen sind brandaktuelle Themen. Bleibe auf dem Laufenden! <br class="hide-for-mobile">Siehe unsere <a href="/de/datenschutz">Datenschutzerklärungen</a>.
+      newsletterText: Elektronische Signaturen und digitales Vertrauen sind brandaktuelle Themen. Bleiben Sie auf dem Laufenden! <br class="hide-for-mobile">Unsere <a href="/de/datenschutz">Datenschutzerklärungen</a> anschauen.
   en:
     languageName: English
     flagCode: GB
     weight: 1
     contentDir: content/english
-    phone: +41 44 505 16 64
+    # phone: +41 44 505 16 64
     outageMsg: Service is currently degraded for certain users of Skribble. Our hosting provider is experiencing a major network outage. We are monitoring the situation and will keep you updated.
     menu:
       main:
@@ -205,8 +221,8 @@ languages:
           url: "/identification/"
           weight: 30
           parent: platform
-        - name: Enable QES
-          url: "/enable-qes/"
+        - name: Increase legal weight
+          url: "/increase-legal-weight/"
           weight: 35
           parent: platform
         # Solutions dropdown
@@ -226,6 +242,10 @@ languages:
         - name: Pricing
           url: "/pricing/"
           weight: 20
+        # Contact
+        - name: Contact
+          url: "/Contact/"
+          weight: 25
       footer1:
         - name: Features
           url: /features/
@@ -239,9 +259,15 @@ languages:
         - name: Identification
           url: /identification/
           weight: 30
+        - name: Increase legal weight
+          url: /increase-legal-weight/
+          weight: 35
+        - name: AES for Business
+          url: /identification/aes-for-business/
+          weight: 40
         - name: Enable QES
           url: /enable-qes/
-          weight: 35
+          weight: 45
       footer2:
         - name: HR
           url: /hr/
@@ -262,9 +288,12 @@ languages:
         - name: Press room
           url: /pressroom/
           weight: 20
+        - name: Partners
+          url: /partners/
+          weight: 25
         - name: Contact
           url: "/contact/"
-          weight: 25
+          weight: 30
       footer4:
         - name: News
           url: https://news.skribble.com
@@ -281,6 +310,9 @@ languages:
         - name: QES validator
           url: /qes-validator/
           weight: 25
+        - name: Status
+          url: /status/
+          weight: 30          
       meta:
         - name: Privacy Policy
           url: /privacy/
@@ -320,15 +352,15 @@ languages:
         href: https://help.skribble.com/meetings/patrick182/telephone-consultation-skribble
     footer:
       leftSlot:
-        title: Want to maximise the legal weight?
-        text: Get identified and unlock the highest e-signature standard.
+        title: Want to increase the legal weight?
+        text: Get identified and unlock a higher e-signature standard.
         button:
-          label: Get identified
-          href: /enable-qes/
+          label: Increase legal weight
+          href: /increase-legal-weight/
           target:
       rightSlot:
-        title: Want to schedule a demo session?
-        text: We are pleased to come by to introduce you to Skribble.
+        title: Want to get in touch?
+        text: Skribble will be glad to contact you to answer your questions.
         button:
           label: Arrange a call
           href: https://help.skribble.com/meetings/patrick182/telephone-consultation-skribble
@@ -345,7 +377,7 @@ languages:
     flagCode: FR
     weight: 3
     contentDir: content/french
-    phone: +41 44 505 16 64
+    # phone: +41 44 505 16 64
     outageMsg: Le service de Skribble est actuellement dégradé pour certains clients. Notre Hosting Provider fait face à une majeure panne de réseau . Nous surveillons la situation et vous tiendrons au courant.
     menu:
       main:
@@ -370,8 +402,8 @@ languages:
           url: "/fr/identification/"
           weight: 25
           parent: platforme
-        - name: Débloquez SEQ
-          url: "/fr/debloquez-seq/"
+        - name: Augmenter force probante
+          url: "/fr/augmenter-force-probante/"
           weight: 30
           parent: platforme
         # Solutions dropdown
@@ -391,22 +423,32 @@ languages:
         - name: Tarifs
           url: "/fr/tarifs/"
           weight: 25
+        # Contact
+        - name: Contact
+          url: "/fr/Contact/"
+          weight: 35
       footer1:
         - name: Fonctionnalités
-          url: "/fr/fonctionnalites/"
+          url: /fr/fonctionnalites/
           weight: 5
         - name: Fonctionnalités affaires
-          url: "/fr/fonctionnalites-affaires/"
+          url: /fr/fonctionnalites-affaires/
           weight: 10
         - name: Integrations
-          url: "/fr/integrations/"
+          url: /fr/integrations/
           weight: 15
         - name: Identification
           url: /fr/identification/
           weight: 20
+        - name: Augmenter force probante
+          url: /fr/augmenter-force-probante/
+          weight: 25
+        - name: SEA pour Business
+          url: /fr/identification/sea-pour-business/
+          weight: 30
         - name: Débloquez SEQ
           url: /fr/debloquez-seq/
-          weight: 25
+          weight: 35
       footer2:
         - name: RH
           url: /fr/ressources-humaines/
@@ -427,9 +469,12 @@ languages:
         - name: Médias
           url: /fr/medias/
           weight: 20
+        - name: Partenaire
+          url: /fr/partenaire/
+          weight: 25
         - name: Contact
           url: "/fr/contact/"
-          weight: 25
+          weight: 30
       footer4:
         - name: News
           url: https://news.skribble.com
@@ -446,7 +491,9 @@ languages:
         - name: Validateur SEQ
           url: /fr/validateur-seq/
           weight: 25
-
+        - name: Status
+          url: /status/
+          weight: 30  
       meta:
         - name: Politique de Confidentialité
           url: /fr/politique-de-confidentialite/
@@ -486,17 +533,17 @@ languages:
         href: https://help.skribble.com/meetings/patrick182/consultation-telephone-skribble
     footer:
       leftSlot:
-        title: Maximiser la force probante?
-        text: Identifiez-vous et débloquez le standard de signature électronique le plus élevé.
+        title: Augmenter la force probante?
+        text: Identifiez-vous et débloquez une norme de signature électronique plus élevée.
         button:
-          label: S'identifier
-          href: /fr/debloquez-qes/
+          label: Augmenter la force probante
+          href: /fr/augmenter-force-probante/
           target:
       rightSlot:
-        title: Organiser une démonstration?
-        text: Nous passons volontiers en personne afin de vous présenter Skribble.
+        title: Entrer en contact?
+        text: Nous nous ferons un plaisir de vous contacter pour répondre à vos questions.
         button:
-          label: Organiser un appel téléphonique
+          label: Organiser un appel
           href: https://help.skribble.com/meetings/patrick182/consultation-telephone-skribble
           target: _blank
       navigation:

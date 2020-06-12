@@ -1,6 +1,6 @@
 ---
-title: Signer électroniquement dans les RH
-description: Avec Skribble, vous signez en toute sécurité juridique et en toute simplicité par voie numérique – des contrats de travail aux références en passant par les certificats de salaire.
+title: Fonctionnalités Business de Skribble
+description: Les clients Skribble Business signent comme un groupe - avec une administration centrale des membres et une facturation commune. L’intégration des nouveaux signataires est intuitive et rapide.
 draft: false
 slug: fonctionnalites-affaires
 type: fonctionnalites-affaires
@@ -20,11 +20,7 @@ avec une administration centrale des membres et une facturation commune.
 
 {{< picture skribble-biz-ui-fr 1020 "Skribble Business-Account - benutzeroberfläche" >}}
 
-{{< features-container >}}
-
-  {{< features-item src="features-biz/abrechnung.svg"
-    headline="Sélectionnez le modèle de prix par membre"
-    description="Activez le modèle de tarif Forfait pour les abonnés fréquents et réduisez vos coûts.">}}
+{{< features-container width=wide >}}
 
   {{< features-item src="features-biz/preismodell.svg"
     headline="Comptabilité commune"
@@ -32,7 +28,7 @@ avec une administration centrale des membres et une facturation commune.
 
   {{< features-item src="features-biz/mitgliederverwaltung.svg"
     headline="Administration centrale des membres"
-    description="Ajoutez de nouveaux membres, ajustez leur modèle de prix et attribuez des droits d'administration. ">}}
+    description="Ajoutez de nouveaux membres et attribuez des droits d'administration. ">}}
 
   {{< features-item src="features-biz/domain-whitelist.svg"
     headline="Devient automatiquement membre"
@@ -47,14 +43,27 @@ avec une administration centrale des membres et une facturation commune.
     description="Visualisez les factures actuelles et toutes les factures passées à tout moment.">}}
 {{< /features-container >}}
 
-{{< content text=center top=24 bottom=12 width=narrow >}}
+{{< content text=center bottom=12 width=narrow >}}
+{{% markdown %}}
+{{% /markdown %}}
+{{< /content >}}
+
+[//]: # (--------------------------------------------------------------------------------------------------------------)
+
+{{< testimonial "testimonial/fr-logo-99w.svg" "Stéphane Schwab, Chef de E-Gouvernement du canton de Fribourg" >}}
+"Grâce à Skribble, nous pouvons numériser les processus administratifs de A à Z.
+Cela facilite notre vie quotidienne et celle de nos clients." {{< /testimonial >}}
+
+[//]: # (--------------------------------------------------------------------------------------------------------------)
+
+{{< content text=center top=12 bottom=12 width=narrow >}}
 {{% markdown %}}
 # Skribble Business s'intègre <br class="hide-for-mobile">dans votre infrastructure existante
 L'intégration des nouveaux signataires est intuitive et rapide.
 {{% /markdown %}}
 {{< /content >}}
 
-{{< features-container >}}
+{{< features-container width=wide >}}
 
   {{< features-item src="features-biz/api-integration.svg"
     headline="Intégration de l'API"
@@ -67,14 +76,12 @@ L'intégration des nouveaux signataires est intuitive et rapide.
   {{< features-item src="features-biz/direct-sign.svg"
     headline="Direct Sign"
     description="Les personnes extérieures n'ont pas besoin d'avoir un compte Skribble pour signer vos documents.">}}
+    
+  {{< features-item src="features-biz/company-branding.svg"
+    headline="Company Branding"
+    description="Personnalisez la plateforme de signature en remplaçant le logo de Skribble par le logo de votre entreprise.">}}
 
 {{< /features-container >}}
-
-[//]: # (--------------------------------------------------------------------------------------------------------------)
-
-{{< testimonial "testimonial/fr-logo-99w.svg" "Stéphane Schwab, Chef de E-Gouvernement du canton de Fribourg" >}}
-"Grâce à Skribble, nous pouvons numériser les processus administratifs de A à Z.
-Cela facilite notre vie quotidienne et celle de nos clients." {{< /testimonial >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
@@ -89,23 +96,43 @@ ou à la norme de signature souhaitée.
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< side-by-side top=8 bottom=8 img=onboarding-seq-fr img-width=380 img-alt="A large contract (QES) with a court" >}}
+{{< side-by-side top=8 bottom=12 img-position=right img=onboarding-sea-fr img-width=460 img-alt="Un grand contrat (FES) devant une maison" >}}
+{{% markdown %}}
+## Intégration pour la signature électronique avancée (SEA)
+Mise en œuvre à l'échelle de l'organisation en quelques clics. Convient aux contrats sans exigences formelles.
+{{% /markdown %}}
+<br>
+{{< button
+  "En savour plus"
+  "/fr/identification/sea-pour-business"
+  ""
+  "outline">}}
+{{< /side-by-side >}}
+
+[//]: # (--------------------------------------------------------------------------------------------------------------)
+
+{{< side-by-side top=4 bottom=16 img=onboarding-seq-fr img-width=380 img-alt="A large contract (QES) with a court" >}}
 {{% markdown %}}
 ### Intégration pour la signature électronique qualifiée (SEQ)
 Services d'identification pour les plus hautes exigences en matière de force probante de la signature. Convient aux contrats avec des exigences formelles.
 {{% /markdown %}}
 <br>
 {{< button
-  "Télécharger factsheet"
-  "https://cdn2.hubspot.net/hubfs/5051692/Factstheets/Identification/Fran%C3%A7ais/Skribble_Overview_Identification_FR.pdf"
-  "_blank"
+  "En savour plus"
+  "/fr/identification/"
+  ""
   "outline"
 >}}
 {{< /side-by-side >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< content text=center top=12 width=narrow >}}
+{{< testimonial "testimonial/swisscanto-300w.svg" "Swisscanto Freizügigkeits-Stiftungen" >}}
+"Nous sommes fiers que le compte de libre passage puisse être ouvert entièrement numériquement chez nous grâce à Skribble. Avec sa signature électronique avancée, Skribble nous offre une solution sécurisée à haute force probante". {{< /testimonial >}}
+
+[//]: # (--------------------------------------------------------------------------------------------------------------)
+
+{{< content text=center top=16 width=narrow >}}
 {{% markdown %}}
 ## Rapport coût-bénéfice idéal
 Choisissez le bon modèle de prix pour votre organisation.

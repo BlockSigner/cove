@@ -1,5 +1,5 @@
 ---
-title: Skribble – Kontakt
+title: Kontakt – Skribble
 description: Du möchtest gerne elektronisch Signieren oder hast eine Frage? Dann kannst du dich gerne per Telefon oder E-Mail bei uns melden.
 draft: false
 slug: kontakt
@@ -21,9 +21,17 @@ map:
           Fraumünsterstrasse 16
           CH-8001 Zürich
         email: info@skribble.com
+        phone: 
+          title: Telefon
+          text: "+41 44 505 16 64"
         opening_hours:
           title: Öffnungszeiten
-          description: 9 bis 17 Uhr
+          text: 9 bis 17 Uhr
+        contact_form:
+          title: Kontakt 
+          link:
+            label: Kontakt via Formular
+            href: https://help.skribble.com/kb-tickets/new
     - title: Karlsruhe (Ettlingen)
       picture:
         name: map-karlsruhe
@@ -37,7 +45,7 @@ map:
         email: info@skribble.com
         opening_hours:
           title: Öffnungszeiten
-          description: 9 bis 17 Uhr
+          text: 9 bis 17 Uhr
 
 
 ---

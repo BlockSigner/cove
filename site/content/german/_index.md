@@ -31,10 +31,10 @@ rechtsgültig nach dem Schweizer & EU Gesetz.
 
 {{< logos-container top=12 bottom=24 width=wide title="Uns vertrauen:">}}
   {{< logos-item src="logos/canon-142w.svg" alt="Canon">}}
-  {{< logos-item src="logos/baggenstos-205w.svg" alt="Baggenstoss">}}
+  {{< logos-item src="logos/helvetia-186w.svg" alt="Helvetia Versicherung">}}
   {{< logos-line-break >}}
   {{< logos-item src="logos/easyjet-161w.svg" alt="EasyJet">}}
-  {{< logos-item src="logos/altenburger-204w.svg" alt="Altenburger Legal">}}
+  {{< logos-item src="logos/kellerhalscarrard-124w.svg" alt="Kellerhals Carrard">}}
   {{< logos-item src="logos/wincasa-185w.svg" alt="Wincasa">}}
 {{< /logos-container >}}
 
@@ -51,7 +51,7 @@ rechtsgültig nach dem Schweizer & EU Gesetz.
 {{< side-by-side top=24 img=image2 mobile-top=12 mobile-bottom=6 img-width=416 img-position=right img-alt="Eine frau hält ein PDF dokument in den händen und lädt es hoch" >}}
 {{% markdown %}}
 ### Dokumente als PDF hochladen
-Lade das signierbereite PDF-Dokument direkt via Browser hoch oder nutze Skribble via API aus deiner Unternehmenssoftware heraus.
+Laden Sie das signierbereite PDF-Dokument direkt via Browser hoch oder nutzen Sie Skribble via API aus Ihrer Unternehmenssoftware heraus.
 {{% /markdown %}}
 {{< /side-by-side >}}
 
@@ -60,7 +60,7 @@ Lade das signierbereite PDF-Dokument direkt via Browser hoch oder nutze Skribble
 {{< side-by-side bottom=12 mobile-top=6 mobile-bottom=6 img=image3 img-width=400 img-alt="Ein mann lädt zwei personen zum signieren ein" >}}
 {{% markdown %}}
 ### Zum Signieren einladen
-Lade die signierenden Personen per E-Mail ein und lege die Signatur-Reihenfolge fest.
+Laden Sie die signierenden Personen per E-Mail ein und legen Sie die Signatur-Reihenfolge fest.
 {{% /markdown %}}
 {{< /side-by-side >}}
 
@@ -69,7 +69,7 @@ Lade die signierenden Personen per E-Mail ein und lege die Signatur-Reihenfolge 
 {{< side-by-side top=12 bottom=24 mobile-top=6 mobile-bottom=12 img=image4 img-position=right img-width=391 img-alt="Three people legally sign a document online" >}}
 {{% markdown %}}
 ### Rechtsgültig signieren
-Signiere per Knopfdruck, unabhängig
+Signieren Sie per Knopfdruck, unabhängig
 von Zeit und Ort, rechtsgültig nach Schweizer
 und EU-Recht.
 {{% /markdown %}}
@@ -79,7 +79,9 @@ und EU-Recht.
 
 {{< content top=12 bottom=6 text=center width=narrow >}}
 {{% markdown %}}
-## Signierst du mit Skribble, <br class="hide-for-mobile">sparst du Zeit im Arbeitsalltag
+Signieren Sie mit Skribble, 
+sparen Sie Zeit im Arbeitsalltag
+===============
 {{% /markdown %}}
 {{< /content >}}
 
@@ -103,14 +105,16 @@ den Alltag für uns und unseren Kunden." {{< /testimonial >}}
 
 {{< content top=20 text=center width=narrow >}}
 {{% markdown %}}
-## Mit Skribble erfüllst du <br class="hide-for-mobile">die rechtlichen Anforderungen
-Signiere rechtsgültig und sicher gemäss folgenden Erfordernissen:
+Mit Skribble erfüllen Sie 
+die rechtlichen Anforderungen
+===============
+Signieren Sie rechtsgültig und sicher gemäss folgenden Erfordernissen:
 {{% /markdown %}}
 {{< /content >}}
 
 {{< content top=6 width=narrow >}}
-{{% collapsible 1 "E-Signatur-Standards QES und FES gemäss ZertES/eIDAS" "check" %}}
-Skribble arbeitet ausschliesslich mit gesetzlich definierten E-Signatur-Standards: Die qualifizierte elektronische Signatur (QES) und die fortgeschrittene elektronische Signatur (FES).
+{{% collapsible 1 "E-Signatur-Standards gemäss ZertES/eIDAS" "check" %}}
+Skribble arbeitet mit gesetzlich definierten E-Signatur-Standards: Die qualifizierte elektronische Signatur (QES), die fortgeschrittene elektronische Signatur (FES) und die einfache elektronische Signatur (EES).
 {{% /collapsible %}}
 
 {{% collapsible 2 "Schriftlichkeitserfordernis gemäss OR/BGB" "check" %}}
@@ -126,34 +130,150 @@ Skribble sowie Partner verwalten ihre Daten gemäss dem Bundesgesetz über den D
 
 {{< content top=24 text=center width=narrow >}}
 {{% markdown %}}
-## Mit Skribble maximierst du die Beweiskraft deiner Signatur
-Das Gesetz unterscheidet zwischen der qualifizierten E-Signatur (QES)
-und der fortgeschrittenen E-Signatur (FES). Die beiden Standards
-variieren punkto Einsatzgebiet und Beweiskraft.
+Signieren Sie immer 
+mit dem optimalen Standard 
+===============
+Das Gesetz unterscheidet drei Signaturstandards. Sie variieren 
+punkto Einsatzgebiet und Beweiskraft. Bei Skribbble erhalten Sie 
+alle Standards aus einer Hand.
 {{% /markdown %}}
 {{< /content >}}
 
-{{< picture beweiskraft 664 "Ein Mann unterschreibt mit einem Füller digitale Dokumente nach Schweizer und Europäischen Recht" >}}
+{{< table top=8 lock-for-mobile="true" class="table--qualities table--qualities-no-legend" layout=fixed >}}
+<thead>
+  <tr>
+    <th scope="col"></th>
+    <th scope="col">EES</th>
+    <th scope="col">FES</th>
+    <th scope="col">QES</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <th scope="row"></th>
+    <td class="signature-quality-bar">
+      {{< signature-quality-bar
+        class=ses
+        title=Basic
+        top-left=EES
+        top-right="Einfache elektronische Signatur"
+      >}}
+    </td>
+    <td class="signature-quality-bar">
+      {{< signature-quality-bar
+        class=aes
+        title=Hoch
+        top-left=FES
+        top-right="Fortgeschrittene elektronische Signatur"
+        bottom-right=""
+      >}}
+    </td>
+    <td class="signature-quality-bar">
+      {{< signature-quality-bar
+        class=qes
+        title=Maximal
+        top-left=QES
+        top-right="Qualifizierte elektronische Signatur"
+        bottom-right="Der handschriftlichen Unterschrift gemäss Schweizer und EU-Recht gleichgestellt"
+      >}}
+    </td>
+  </tr>
+  <tr>
+    <th scope="row"></th>
+    <td>
+{{% markdown %}}
+
+**Dokumente**
+interner oder informeller Natur mit geringem Haftungsrisiko.
+&nbsp;
+{{% /markdown %}}
+    </td>
+    <td>
+{{% markdown %}}
+**Dokumente**
+ohne gesetzliche Formvorschrift mit kalkulierbarem Haftungsrisiko.
+
+{{% /markdown %}}
+    </td>
+    <td>
+{{% markdown %}}
+
+**Dokumente**
+mit gesetzlicher Formvorschrift oder hohem Haftungsrisiko. 
+&nbsp;
+{{% /markdown %}}
+    </td>
+  </tr>
+
+</tbody>
+{{< /table >}}
 
 
 {{< cta
-  bottom=24
+  bottom=12
   label="Erfahre mehr"
   href="/de/signaturstandards/"
   outlined="true"
 >}}
 
 {{% markdown %}}
-**Auf Skribble kannst du zwischen
-den Signaturstandards FES und QES wählen.**
+**Auf Skribble haben Sie die Wahl zwischen den Signaturstandards QES, FES und EES.**
 {{% /markdown %}}
 {{< /cta >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
+{{< testimonial "testimonial/helvetia-300w.svg" "Martin Tschopp, Chief Customer Officer von Helvetia Schweiz" >}}
+"Bei Helvetia sind in vielen Bereichen ‹nasse› Unterschriften nötig, zum Beispiel in der Lebensversicherung, aber auch in internen Prozessen. Mit Skribble können wir diese Prozesse komplett digitalisieren." 
+{{< /testimonial >}}
+
+[//]: # (--------------------------------------------------------------------------------------------------------------)
+
+{{< content text=center top=20 width=narrow >}}
+{{% markdown %}}
+Mit wenigen Klicks 
+zu mehr Beweiskraft 
+===============
+{{% /markdown %}}
+{{< /content >}}
+
+{{< content top=4 bottom=18 width=narrow display=flex >}}
+{{< step >}}
+{{< picture "video-ident" 250 "Eine lupe vergrößert das bild eines mannes in einem pass." >}}
+{{% markdown %}}
+**Video-Identifikation**
+Schalten Sie die qualifizierte elektronische Signatur (QES) von zu Hause aus frei, in dem Sie sich via Video-Call identifizieren lassen.
+{{% /markdown %}}
+<br>
+{{< button
+  "Mehr erfahren"
+  "/de/qes-freischalten/"
+  ""
+  "outline">}}
+{{< /step >}}
+
+{{< step >}}
+{{< picture "aes-for-biz-home-id" 280 "Ein grosser Pfeil, wie er eine Organsation, ein Hochhaus anklickt." >}}
+{{% markdown %}}
+**Organisationsweite Einführung**
+Schalten Sie die fortgeschrittene elektronische Signatur (FES) innert weniger Tage für die gesamte Mitarbeiterschaft frei.
+{{% /markdown %}}
+<br>
+{{< button
+  "Mehr erfahren"
+  "/de/identifikation/fes-fuer-business/"
+  ""
+  "outline">}}
+{{< /step >}}
+{{< /content >}}
+
+[//]: # (--------------------------------------------------------------------------------------------------------------)
+
+{{< content top=4 >}}
 {{< testimonial "testimonial/easyjet-155w.svg" "Sarah Jackson, Country HR & Administration Manager easyJet" >}}
 "Im schnelllebigen HR-Umfeld ist es wichtig, so effizient wie möglich zu sein. Das war mit unserem analogen Signaturprozess bisher schwierig, denn ich bin ständig auf Achse zwischen verschiedenen Standorten"
 {{< /testimonial >}}
+{{< /content >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 

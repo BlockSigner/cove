@@ -1,0 +1,151 @@
+.status {
+
+  &__loading {
+    display: none;
+    padding: 100px 0;
+  }
+
+  &-header {
+    &__img {
+      margin-left: auto;
+      margin-right: auto;
+    }
+    visibility: hidden;
+    &.show {
+      visibility: visible;
+    }
+  }
+
+  &-block {
+    margin-bottom: 20px;
+    padding: 0;
+    list-style-type: none;
+    box-shadow: 0 2px 20px 0 rgba(41,61,102,0.20);
+    border: 1px solid rgba($c-border, .5);
+    width: 100%;
+    visibility: hidden;
+    &.show {
+      visibility: visible;
+    }
+  }
+
+  &-list {
+    border-collapse: collapse;
+    border-spacing: 0;
+    table-layout: auto;
+    color: $c-text-alt;
+
+    &__column {
+      padding: 20px;
+      border: 1px solid $c-border;
+      &:first-child {
+        width: 78%;
+      }
+      &:last-child {
+        width: 22%;
+      }
+    }
+
+    &__status {
+      display: flex;
+      justify-content: flex-end;
+      width: 100%;
+
+      > img {
+        margin-left: 20px;
+      }
+    }
+
+    &-legend {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      padding-top: 32px;
+      @include max-width {
+        flex-wrap: wrap;
+      }
+
+      &__img {
+        margin-right: 10px;
+      }
+
+      &__labels {
+        display: flex;
+        align-items: center;
+        height: 56px;
+        @include max-width {
+          flex-wrap: wrap;
+          height: auto;
+        }
+      }
+
+      &__label {
+        display: flex;
+        align-items: center;
+        margin-right: 20px;
+        font-weight: bold;
+        color: $c-text-alt;
+      }
+    }
+  }
+
+  &-table {
+    border-collapse: collapse;
+    padding: 20px;
+    width: 100%;
+
+    &__td {
+      padding: 20px;
+      border-bottom: 1px solid $c-border;
+      border-right: 1px solid $c-border;
+      vertical-align: top;
+      text-align: left;
+    }
+
+    &__header {
+      color: $c-text-alt;
+      &_image {
+        margin-right: 20px;
+        float: left;
+        width: 24px;
+        height: 24px;
+      }
+    }
+
+    &__message {
+      border-bottom: 1px solid $c-border;
+    }
+  }
+
+  &-history {
+    display: none;
+
+    &__incidents {
+      margin-top: 20px;
+    }
+
+    &__block{
+      padding: 10px;
+    }
+
+    &__update {
+      padding-left: 40px;
+    }
+
+    &__img {
+      margin-right: 20px;
+      float: left;
+      &_toggle-visibility {
+        display: inline;
+        cursor: pointer;
+        width: 24px;
+        height: 24px;
+        vertical-align: text-bottom;
+      }
+    }
+
+  }
+  &-schedule {
+    display : none;
+  }
+}

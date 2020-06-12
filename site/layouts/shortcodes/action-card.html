@@ -15,20 +15,29 @@
                     <div class="image">{{.Inner}}</div>
                     {{if .Get "caption"}}<div class="caption"><p>{{.Get "caption"}}</p></div>{{ end }}
                 </div>
-            </div>{{if .Get "has-comparison"}}
-            <div class="comparison">
-                <p class="comparison-title"><strong>{{.Get "comparison-title"}}</strong></p>
-                {{if .Get "comparison-first"}}
-                <div class="comparison-container">
-                    <div class="comparison-first">{{.Get "comparison-first" | safeHTML}}</div>
-                    <div class="comparison-separator">
-                        <div class="separator-text"><strong>{{.Get "or"}}</strong></div>
-                    </div>
-                    <div class="comparison-second">{{.Get "comparison-second" | safeHTML}}</div>
-                </div>{{ end }}
-                <p class="comparison-caption"><strong>{{.Get "comparison-caption"}}</strong></p>
             </div>
-            {{ end }}<div class="action-card__content no-top-padding">
+            {{if .Get "has-comparison"}}
+                <div class="comparison">
+                    {{if .Get "comparison-title"}}<p class="comparison-title"><strong>{{.Get "comparison-title"}}</strong></p>{{ end }}
+                    {{if .Get "comparison-single"}}
+                        <div class="comparison-container">
+                            <div class="comparison-single">
+                                {{.Get "comparison-single" | safeHTML}}
+                            </div>
+                        </div>
+                    {{else if .Get "comparison-first"}}
+                        <div class="comparison-container">
+                            <div class="comparison-first">{{.Get "comparison-first" | safeHTML}}</div>
+                            <div class="comparison-separator">
+                                <div class="separator-text"><strong>{{.Get "or"}}</strong></div>
+                            </div>
+                            <div class="comparison-second">{{.Get "comparison-second" | safeHTML}}</div>
+                        </div>
+                    {{ end }}
+                    <p class="comparison-caption"><strong>{{.Get "comparison-caption"}}</strong></p>
+                </div>
+            {{ end }}
+            <div class="action-card__content no-top-padding">
                 <div class="button">
                     <a class="btn" href="{{ .Get "button-link" }}">{{ .Get "button-text" }}</a>
                 </div>

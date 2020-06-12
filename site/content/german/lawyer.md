@@ -1,6 +1,6 @@
 ---
 title: Die digitale Unterschrift für Anwälte von Skribble
-description: Ohne zusätzliche Hardware kannst Dokumente mit der qualifizierten elektronischen Signatur (QES) signieren. Vertragsparteien unterschreiben zeitsparend parallel.
+description: Ohne zusätzliche Hardware können Sie Dokumente mit der qualifizierten elektronischen Signatur (QES) signieren. Vertragsparteien unterschreiben zeitsparend parallel.
 draft: false
 slug: anwaelte
 
@@ -12,7 +12,7 @@ og_image: og/og-skribble-identification.jpg
 {{< content text=center top=16 bottom=8 width=narrow >}}
 {{% markdown %}}
 # Elektronische Signatur für Anwälte
-Über Skribble signierst du ohne USB-Stick oder Card-Reader
+Über Skribble signieren Sie ohne USB-Stick oder Card-Reader
 mit dem höchsten verfügbaren E-Signatur-Standard (QES).
 {{% /markdown %}}
 {{< /content >}}
@@ -39,8 +39,8 @@ wenn der Vertrag signiert wurde**
 
 {{< side-by-side top=12 bottom=12 mobile-top=6 mobile-bottom=6 img=batch-process img-position=right img-width=380 img-alt="Ein Stapel Dokumente werden mit einem Klick signiert" >}}
 {{% markdown %}}
-### Erledige den Stapel <br class="hide-for-mobile">mit nur einer Signatur
-Digitale Unterschriftsmappe: Sammle deine Verträge digital und signiere sie gleichzeitig mit wenigen Klicks. Einen USB-Stick oder Card-Reader brauchst du trotz QES-Standard nicht.
+### Erledigen Sie den Stapel <br class="hide-for-mobile">mit nur einer Signatur
+Digitale Unterschriftsmappe: Sammeln Sie die Verträge digital und signieren Sie diese gleichzeitig mit wenigen Klicks. Einen USB-Stick oder Card-Reader brauchen Sie trotz QES-Standard nicht.
 
 - **Stapelsignatur für beliebige
 Anzahl Verträge**
@@ -54,7 +54,7 @@ keine externe Hardware erforderlich**
 
 {{< side-by-side top=12 bottom=8 mobile-top=6 mobile-bottom=6 img=authorities-input img-width=394 img-alt="Zwei Leute machen Schritt-für Schritt eine Behörden Eingabe" >}}
 {{% markdown %}}
-### Eingaben bei Behörden <br class="hide-for-mobile">machst du online
+### Eingaben bei Behörden <br class="hide-for-mobile">machen Sie online
 Von Änderungen am Handelsregister bis Gerichtseingaben: Das Ausdrucken, Versenden und Einscannen entfällt.
 
 - **Nahtlose Integration in PrivaSphere (folgt bald)**
@@ -69,7 +69,7 @@ Kanzleien und Behörden/Gerichten in der Schweiz**
 {{< side-by-side top=12 bottom=8 mobile-top=6 mobile-bottom=12 img=crm-systeme-lawyer img-position=right img-width=421 img-alt="Signiere aus deinen gewohnten Tools heraus, beispielsweise WinJur oder Vertec." >}}
 {{% markdown %}}
 ### Keine neue Software notwendig
-Bei gewohnten Tools bleiben: Signiere direkt über den Browser oder aus deiner bestehenden Software heraus.
+Bei gewohnten Tools bleiben: Signieren Sie direkt über den Browser oder aus Ihrer bestehenden Software heraus.
 
 - **Direkt über den Browser signieren**
 - **Skribble als Plug-in in Branchen-Software-
@@ -82,14 +82,14 @@ Lösungen einbinden**
 
 {{< content text=center top=24 width=narrow >}}
 {{% markdown %}}
-## Mit Skribble erfüllst du <br class="hide-for-mobile">die rechtlichen Anforderungen <br class="hide-for-mobile">an Anwalts-Prozessen
-Du signierst rechtsgültig und sicher gemäss folgenden Erfordernissen:
+## Mit Skribble erfüllen Sie <br class="hide-for-mobile">die rechtlichen Anforderungen <br class="hide-for-mobile">an Anwalts-Prozesse
+Sie signieren rechtsgültig und sicher gemäss folgenden Erfordernissen:
 {{% /markdown %}}
 {{< /content >}}
 
 {{< content top=6 width=narrow >}}
-{{% collapsible 1 "E-Signatur-Standards QES und FES gemäss ZertES/eIDAS" "check" %}}
-Skribble arbeitet ausschliesslich mit gesetzlich definierten E-Signatur-Standards: Die qualifizierte elektronische Signatur (QES) und die fortgeschrittene elektronische Signatur (FES).
+{{% collapsible 1 "E-Signatur-Standards gemäss ZertES/eIDAS" "check" %}}
+Skribble arbeitet mit gesetzlich definierten E-Signatur-Standards: Die qualifizierte elektronische Signatur (QES), die fortgeschrittene elektronische Signatur (FES) und die einfache elektronische Signatur (EES).
 {{% /collapsible %}}
 
 {{% collapsible 2 "Schriftlichkeitserfordernis gemäss OR/BGB" "check" %}}
@@ -105,7 +105,7 @@ Skribble sowie Partner verwalten ihre Daten gemäss dem Bundesgesetz über den D
 
 {{< content text=center top=24 width=narrow >}}
 {{% markdown %}}
-## Unser Kunden haben gut lachen
+## Unser Kunden haben gut lachen {#altenburger}
 Wie wir den Alltag unserer Kunden erleichtern.
 {{% /markdown %}}
 {{< /content >}}
@@ -122,7 +122,7 @@ Wie wir den Alltag unserer Kunden erleichtern.
 >}}
 
 {{% markdown %}}
-**Lade den Altenburger Use-Case herunter:**
+**Laden Sie den Altenburger Use-Case herunter:**
 {{% /markdown %}}
 {{< /cta >}}
 
@@ -130,17 +130,81 @@ Wie wir den Alltag unserer Kunden erleichtern.
 
 {{< content text=center top=24 width=narrow >}}
 {{% markdown %}}
-## Mit Skribble maximierst du die Beweiskraft deiner Signatur
+## Mit Skribble maximieren Sie die Beweiskraft Ihrer Signatur
 Das Gesetz unterscheidet zwischen der qualifizierten E-Signatur (QES)
 und der fortgeschrittenen E-Signatur (FES).Die beiden Standards variieren
 punkto Einsatzgebiet und Beweiskraft.
 {{% /markdown %}}
 {{< /content >}}
 
-{{< picture beweiskraft 664 "Ein Mann unterschreibt mit einem Füller digitale Dokumente nach Schweizer und Europäischen Recht" >}}
+{{< table top=8 lock-for-mobile="true" class="table--qualities table--qualities-no-legend" layout=fixed >}}
+<thead>
+  <tr>
+    <th scope="col"></th>
+    <th scope="col">EES</th>
+    <th scope="col">FES</th>
+    <th scope="col">QES</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <th scope="row"></th>
+    <td class="signature-quality-bar">
+      {{< signature-quality-bar
+        class=ses
+        title=Basic
+        top-left=EES
+        top-right="Einfache elektronische Signatur"
+      >}}
+    </td>
+    <td class="signature-quality-bar">
+      {{< signature-quality-bar
+        class=aes
+        title=Hoch
+        top-left=FES
+        top-right="Fortgeschrittene elektronische Signatur"
+        bottom-right=""
+      >}}
+    </td>
+    <td class="signature-quality-bar">
+      {{< signature-quality-bar
+        class=qes
+        title=Maximal
+        top-left=QES
+        top-right="Qualifizierte elektronische Signatur"
+        bottom-right="Der handschriftlichen Unterschrift gemäss Schweizer und EU-Recht gleichgestellt"
+      >}}
+    </td>
+  </tr>
+  <tr>
+    <th scope="row"></th>
+    <td>
+{{% markdown %}}
 
-[//]: # (--------------------------------------------------------------------------------------------------------------)
+**Dokumente**
+interner oder informeller Natur mit geringem Haftungsrisiko.
+&nbsp;
+{{% /markdown %}}
+    </td>
+    <td>
+{{% markdown %}}
+**Dokumente**
+ohne gesetzliche Formvorschrift mit kalkulierbarem Haftungsrisiko.
 
+{{% /markdown %}}
+    </td>
+    <td>
+{{% markdown %}}
+
+**Dokumente**
+mit gesetzlicher Formvorschrift oder hohem Haftungsrisiko. 
+&nbsp;
+{{% /markdown %}}
+    </td>
+  </tr>
+
+</tbody>
+{{< /table >}}
 {{< cta
   label="Erfahre mehr"
   href="/de/signaturstandards/"
@@ -148,16 +212,16 @@ punkto Einsatzgebiet und Beweiskraft.
 >}}
 
 {{% markdown %}}
-**Auf Skribble kannst du zwischen
+**Auf Skribble können Sie zwischen
 den Signaturstandards FES und QES wählen.**
 {{% /markdown %}}
 {{< /cta >}}
 
 {{< content text=center top=12 bottom=4 width=narrow >}}
 {{% markdown %}}
-## Lass dich identifizieren
-Damit schaltest du den höchsten verfügbaren E-Signatur-Standard QES frei.
-Du benötigst nur ein gültiges Reisedokument (ID oder Pass).
+## Lassen Sie sich identifizieren
+Damit schalten Sie den höchsten verfügbaren E-Signatur-Standard QES frei.
+Sie benötigen nur ein gültiges Reisedokument (ID oder Pass).
 {{% /markdown %}}
 {{< /content >}}
 
@@ -169,15 +233,15 @@ Du benötigst nur ein gültiges Reisedokument (ID oder Pass).
 
 >}}
 {{% markdown %}}
-**Wähle einen Termin
-aus und lass dich identifizieren**
+**Wählen Sie einen Termin
+aus und lassen Sie sich identifizieren**
 {{% /markdown %}}
 {{< /cta >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< testimonial "testimonial/procivis-146w.png" "Daniel Gasteiger, Gründer und CEO von Procivis (eID+)" >}}
-"Das elektronische Signieren von Dokumenten wird eine Kernfunktion vertrauenswürdiger digitaler Identitäten"
+{{< testimonial "testimonial/kellerhalscarrard-124w.svg" "Beat Brechbuehl, Managing Partner Kellerhals Carrhard" >}}
+"Unsere Mandanten können schneller bedient werden und unsere Anwälte sparen Zeit - der Einsatz von Technologie zur Effizienzsteigerung ist eine der Prioritäten der Kanzleien".
 {{< /testimonial >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
@@ -194,20 +258,17 @@ Das Datenzentrum von Skribble ist in der Schweiz und nach ISO 270001 zertifizier
 {{% /collapsible %}}
 
 {{% collapsible 11 "Was, wenn ich noch nicht persönlich identifiziert wurde?" %}}
-Die persönliche Identifikation wird nur für das Signieren mit dem höchsten E-Signatur-Standard (QES) vorausgesetzt. Wurdest du noch nicht persönlich identifiziert, signierst du mit dem zweithöchsten Standard (FES).
+Die persönliche Identifikation wird nur für das Signieren mit dem höchsten E-Signatur-Standard (QES) vorausgesetzt. Wurden Sie noch nicht persönlich identifiziert, signieren Sie entweder mit einer einfachen (EES) oder fortgeschrittenen elektronischen Signatur (FES).
 {{% /collapsible %}}
 
 {{% collapsible 12 "Brauche ich für das Signieren mit Skribble zusätzliche Hardware?" %}}
-Nein. Du brauchst weder einen USB-Stick noch ein Kartenlesegerät für da Signieren mit Skribble. Die Zwei-Faktor-Authentifizierung findet bei Skribble via Handy statt (Mobile ID oder One-Time-Password).
+Nein. Sie brauchen weder einen USB-Stick noch ein Kartenlesegerät für da Signieren mit Skribble. Die Zwei-Faktor-Authentifizierung findet bei Skribble via Handy statt (Mobile ID oder One-Time-Password).
 {{% /collapsible %}}
 
 {{% collapsible 13 "Kann ich den digital signierten Vertrag in Papierform aufbewahren?" %}}
 Nicht ausschliesslich. Dank der visuellen Signatur ist auf dem ausgedruckten Vertrag ersichtlich, dass er digital signiert wurde. Da die digitalen Zertifikate mit dem Ausdrucken aber verloren gehen, ist die Nachvollziehbarkeit der Signatur und damit die entsprechende Beweiskraft nicht gegeben. Ein Vertrag, welcher mit einer qualifizierten elektronischen Signatur unterschrieben ist, muss deshalb immer in elektronischer Form gespeichert werden.
 {{% /collapsible %}}
 
-{{% collapsible 14 "Wie lange ist die Skribble Signatur rechtsgültig?" %}}
-Die QES ist zeitlich uneingeschränkt rechtsgültig.
-{{% /collapsible %}}
 {{< /content >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)

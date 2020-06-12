@@ -1,6 +1,6 @@
 ---
-title: Skribble crée la confiance dans le monde digital
-description: Avec Skribble, les processus de signature sont gérés à 100% numériquement, sur la base de la signature électronique qualifiée "SEQ" – la signature électronique qui équivaut à une signature manuscrite, selon la loi suisse et européenne.
+title: Signez plus facilement avec le bon modèle tarifaire
+description: Skribble convient tant aux signatures occasionnelles qu’aux signatures fréquentes. Comparer les forfaits en détails.
 draft: false
 slug: tarifs
 # opengraph image (for facebook and twitter)
@@ -10,7 +10,9 @@ og_image: og/og-skribble-service.jpg
 
 {{< content text=center top=16 width=narrow >}}
 {{% markdown %}}
-# Signez plus facilement avec le bon modèle tarifaire
+Signez plus facilement 
+avec le bon modèle tarifaire
+===============	
 Skribble convient tant aux signatures occasionnelles
 qu'aux signatures fréquentes
 {{% /markdown %}}
@@ -44,7 +46,7 @@ passer à l'un des modèles tarifaires suivants:
   title="Fair Flat"
   description="<p>Vous signez personnellement ou obtenez <strong>plus de deux signatures par mois.</strong></p><p class='top-spaced'>Maximum</p><p><strong>CHF <span class='large'>2.50</span> par signature</strong></p><p>jusqu'à un plafond de</p><p><strong>CHF <span class='large'>30.-</span> par mois</strong></p>"
   has-comparison="true"
-  comparison-caption="L'invitation de nouveau signataires coûte 2.50.– par signature."
+  comparison-caption="Si vous invitez d'autres personnes à signer, un montant supplémentaire de CHF 2.00 à 2.50 par signature est ajouté. Vous pouvez rétrograder au modèle tarifaire Free à tout moment."
   button-text="Essayer maintenant"
   button-link="https://my.skribble.com/signup?lang=fr"
   subtext="Aucune obligation d'abonnement. Les deux premières signatures sont gratuites tous les mois."
@@ -63,16 +65,17 @@ passer à l'un des modèles tarifaires suivants:
   bottom=6
   width=narrow
   title="Business"
-  description="<p>Vous utilisez Skribble dans votre organisation. L'administration des utilisateurs est centrée, la facturation est uniforme par facture.</p>"
-  has-comparison="true"
-  comparison-title="Le bon modèle pour chaque signataire:"
+  description="<strong>Vous utilisez Skribble au sein de votre organisation.</strong> Bénéficiez d'une gestion centralisée des utilisateurs et payez commodément sur facture."
+  has-comparison="true"  
+  comparison-single="<p><strong>CHF <span class='large'>85.–</span> par mois (facturation annuelle)</strong></p>et comprend 600 signatures par an pour tous les utilisateurs, y compris les parties externes (s'applique à toutes les normes de signature électronique : EES, FES et QES).</p><h4><strong>Les signatures supplémentaires sont facturées selon le modèle tarifaire Pay-per-use :</strong></h4><p><strong>SES:</strong> CHF 1.20</p><p><strong>SEA:</strong> CHF 1.70</p><p><strong>SEQ:</strong> CHF 2.50</p>"
+  comparison-caption="Monatliche Abrechnung: CHF 100.– pro Monat mit 50 Signaturen (jeder E-Signatur-Standard) für alle Nutzer inkl. externe Parteien"
+  comparison-title="Le forfait d’entreprise coûte :"
   comparison-first="<p><strong>Pay-Per-Use</strong></p><p>Pour les employés qui signent <strong>moins</strong> de 12 fois par mois et pour les personnes externes à l'entreprise.</p><p class='top-spaced'>Maximum</p><p><strong>CHF <span class='large'>2.50</strong></span></p><p> par signature au maximum</p>"
   or="Ou"
-  comparison-second="<p><strong>Forfait</strong></p><p>Pour les employés qui signent <strong>plus</strong> de 12 fois par mois.</p><br><br><p class='top-spaced'>Maximum</p><p><strong>CHF <span class='large'>25</strong></span></p><p>par utilisateur/ mois</p>"
-  comparison-caption="Les prix diminuent significativement en fonction du volume de signatures ou en signant avec une norme différente."
+  comparison-caption="Facturation mensuelle : 100.– CHF par mois avec 50 signatures (toute norme de signature électronique) pour tous les utilisateurs, y compris les parties externes."
   button-text="Obtenir des conseils"
   button-link="https://help.skribble.com/meetings/patrick182/consultation-telephone-skribble"
-  subtext=""
+  subtext="Résiliable mensuellement ou annuellement"
 >}}
     {{< picture business-visual 270 "" >}}
 {{< /action-card >}}
@@ -132,14 +135,14 @@ passer à l'un des modèles tarifaires suivants:
 
 <tr>
 <td></td>
-<td></td>
-<td>Ajouter/supprimer des utilisateurs</td>
+<td>Direct Sign</td>
+<td>Direct Sign</td>
 </tr>
 
 <tr>
 <td></td>
 <td></td>
-<td>Affecter des utilisateurs à un modèle tarifaire</td>
+<td>Ajouter/supprimer des utilisateurs</td>
 </tr>
 
 <tr>
@@ -152,12 +155,6 @@ passer à l'un des modèles tarifaires suivants:
 <td></td>
 <td></td>
 <td>Connexion via API</td>
-</tr>
-
-<tr>
-<td></td>
-<td></td>
-<td>Direct Sign</td>
 </tr>
 
 <tr>
@@ -185,24 +182,6 @@ passer à l'un des modèles tarifaires suivants:
 </tr>
 
 <tr>
-<td><strong>Evolution des prix</strong></td>
-<td><strong>Evolution des prix</strong></td>
-<td><strong>Evolution des prix</strong></td>
-</tr>
-
-<tr>
-<td></td>
-<td>Coûts réduits grâce à l'utilisation de la norme de signature électronique inférieure (SEA)</td>
-<td>Coûts réduits grâce à l'utilisation de la norme de signature électronique inférieure (SEA)</td>
-</tr>
-
-<tr>
-<td></td>
-<td></td>
-<td>Plus il y a de signatures, moins l'unité est chère.<br>Plus il y a de signataires, plus le forfait est avantageux</td>
-</tr>
-
-<tr>
 <td><strong>Gamme de prix</strong></td>
 <td><strong>Gamme de prix</strong></td>
 <td><strong>Gamme de prix</strong></td>
@@ -210,14 +189,8 @@ passer à l'un des modèles tarifaires suivants:
 
 <tr>
 <td></td>
-<td>CHF 2.00 ou CHF 2.50 par signature (TVA incluse)</td>
-<td><strong>Pay-Per-Use</strong><br>CHF 0.60 jusqu'à max. 2.50 par signature (hors TVA)</td>
-</tr>
-
-<tr>
-<td></td>
-<td></td>
-<td><strong>Flat rate</strong><br>CHF 10.- jusqu'à max. 25.- par utilisateur (hors TVA)</td>
+<td>CHF 2.– pour la SES et la SEA  ou CHF 2.50 pour la SEQ</td>
+<td>CHF 1.20 pour la SES, CHF 1.70 pour la SEA ou CHF 2.50 pour la SEQ.</td>
 </tr>
 
 <tr>

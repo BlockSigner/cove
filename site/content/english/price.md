@@ -1,6 +1,6 @@
 ---
-title: Skribble builds trust in the digital world
-description: With Skribble signature processes are 100% digital, based on the qualified electronic signature “QES” - the e-signature, which is equivalent to your hand-written signature according to Swiss and EU law.
+title: Sign economically with the right plan
+description: Skribble is suitable for both occasional and frequent signing. No credit card, entrance fee or commitment required.
 draft: false
 slug: pricing
 # opengraph image (for facebook and twitter)
@@ -9,7 +9,9 @@ og_image: og/og-skribble-mission.jpg
 
 {{< content text=center top=16 width=narrow >}}
 {{% markdown %}}
-# Sign economically with the right plan
+Sign economically 
+with the right plan
+===============	
 Skribble is suitable for both occasional
 and frequent signing.
 {{% /markdown %}}
@@ -43,7 +45,7 @@ to one of the following plans at any time:
   title="Fair Flat"
   description="<p>You sign or request <strong>more than two signatures per month.</strong></p><p class='top-spaced'>Maximum</p><p><strong>CHF <span class='large'>2.50</span> per signature</strong></p><p>up to a maximum of</p><p><strong>CHF <span class='large'>30.-</span> per month</strong></p>"
   has-comparison="true"
-  comparison-caption="If you invite others to sign, another 2.50 per signature request will be added."
+  comparison-caption="If you invite other people to sign, an additional amount of CHF 2.00 to 2.50 per signature is added. You can downgrade to the Free plan at any time."
   button-text="Try it now"
   button-link="https://my.skribble.com/signup"
   subtext="No subscription commitment. The first two signatures are free each month."
@@ -62,16 +64,15 @@ to one of the following plans at any time:
   bottom=6
   width=narrow
   title="Business"
-  description="<p>Skribble for your organisation. User administration is centralised and your organisation is invoiced monthly.</p>"
+  description="<strong>Skribble for your organisation.</strong> Benefit from centralised user administration and billing by invoice."
+  has-comparison="true"  
+  comparison-single="<p><strong>CHF <span class='large'>85.–</span> per month (yearly billing)</strong></p>and includes 600 signatures per year for all users, including external parties</p><p> (applies to all e-signature standards: SES, AES and QES).</p><h4><strong>Additional signatures are billed according to the Pay-per-use plan:</strong></h4><p><strong>SES:</strong> CHF 1.20</p><p><strong>AES:</strong> CHF 1.70</p><p><strong>QES:</strong> CHF 2.50</p>"
   has-comparison="true"
-  comparison-title="Choose the right plan for each signer:"
-  comparison-first="<p><strong>Pay-Per-Use</strong></p><p>For employees who sign <strong>less</strong> than 12 times a month and for people external to the company.</p><p class='top-spaced'>Maximum</p><p><strong>CHF <span class='large'>2.50</strong></span></p><p>per signature</p>"
-  or="Or"
-  comparison-second="<p><strong>Flat rate</strong></p><p>For employees who sign <strong>more</strong> than 12 times a month.</p><br><p class='top-spaced'>Maximum</p><p><strong>CHF <span class='large'>25</strong></span></p><p>per user/month</p>"
-  comparison-caption="The prices decrease significantly if you sign more or with a different standard."
+  comparison-title="The business flat rate costs:"
+  comparison-caption="Monthly billing: CHF 100.– per month with 50 signatures (any e-signature standard) for all users including external parties."
   button-text="Get advice now"
   button-link="https://help.skribble.com/meetings/patrick182/telephone-consultation-skribble"
-  subtext=""
+  subtext="Monthly or yearly termination"
 >}}
   {{< picture business-visual 270 "" >}}
 {{< /action-card >}}
@@ -136,19 +137,17 @@ to one of the following plans at any time:
 <td>Billing history</td>
 </tr>
 
+<tr>
+<td></td>
+<td>Direct Sign</td>
+<td>Direct Sign</td>
+</tr>
 
 <tr>
 <td></td>
 <td></td>
 <td>Add/remove users</td>
 </tr>
-
-<tr>
-<td></td>
-<td></td>
-<td>Assign user to plan</td>
-</tr>
-
 
 <tr>
 <td></td>
@@ -160,12 +159,6 @@ to one of the following plans at any time:
 <td></td>
 <td></td>
 <td>Integration via API</td>
-</tr>
-
-<tr>
-<td></td>
-<td></td>
-<td>Direct Sign</td>
 </tr>
 
 <tr>
@@ -193,24 +186,6 @@ to one of the following plans at any time:
 </tr>
 
 <tr>
-<td><strong>Price scale</strong></td>
-<td><strong>Price scale</strong></td>
-<td><strong>Price scale</strong></td>
-</tr>
-
-<tr>
-<td></td>
-<td>Lower costs when using the lower e-signature standard (AES)</td>
-<td>Lower costs when using the lower e-signature standard (AES)</td>
-</tr>
-
-<tr>
-<td></td>
-<td></td>
-<td>The more signatures, the cheaper the unit price.<br>The more users, the lower the flat rate.</td>
-</tr>
-
-<tr>
 <td><strong>Price range</strong></td>
 <td><strong>Price range</strong></td>
 <td><strong>Price range</strong></td>
@@ -218,16 +193,10 @@ to one of the following plans at any time:
 
 <tr>
 <td></td>
-<td>CHF 2.00 or CHF 2.50 per signature (excl. VAT)</td>
-<td><strong>Pay-per-use</strong><br>CHF 0.60 up to a max. of 2.50 per signature (excl. VAT)</td>
+<td>CHF 2.– for the SES and the AES or CHF 2.50 for the QES</td>
+<td>CHF 1.20 for the SES, CHF 1.70 for the AES or CHF 2.50 for the QES.</td>
 </tr>
 
-<tr>
-<td></td>
-<td></td>
-<td><strong>Flat rate
-</strong><br>CHF 10.- up to a max. of 25.- per user (excl. VAT)</td>
-</tr>
 
 <tr>
 <td>{{< button

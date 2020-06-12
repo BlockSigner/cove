@@ -8,10 +8,44 @@ slug: enable-qes
 og_image: og/og-skribble-identification.jpg
 
 ---
-
-{{< content text=center top=12 width=narrow >}}
+{{< content text=center top=16 bottom=8 width=narrow >}}
 {{% markdown %}}
-# Maximise the legal weight of your electronic signature
+Maximise the legal weight 
+of your electronic signature
+===============	
+Enable the highest e-signing standard (QES) by getting 
+yourself identified online via video-call or by personal contact 
+with the ID app by Swisscom.
+{{% /markdown %}}
+{{< /content >}}
+
+[//]: # (--------------------------------------------------------------------------------------------------------------)
+
+
+{{< side-by-side top=12 bottom=24 mobile-top=6 mobile-bottom=12 img=qes-increase img-position=left img-width=315 img-alt="A man is sitting in front of a laptop, above him is a software window, where a woman stands out with a big magnifying glass and checks an identity card." >}}
+{{% markdown %}}
+Online identification 
+via video
+===============
+The identification is offered in cooperation 
+with our partners Swisscom Trust Services and IdentityTM.  
+{{% /markdown %}}
+<br>
+{{< button
+  "Enable QES now"
+  "http://videoident.me"
+  "_blank"
+  "outline"
+>}}
+{{< /side-by-side >}}
+
+[//]: # (--------------------------------------------------------------------------------------------------------------)
+
+{{< content text=center top=16 width=narrow >}}
+{{% markdown %}}
+Identification 
+by personal contact
+===============
 Enable the highest e-signing standard (QES) by getting yourself identified
 by personal contact with the Swisscom ID app.
 {{% /markdown %}}
@@ -54,6 +88,7 @@ The legal weight of your signature is raised to 100% (QES level)
 {{< /content >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
+
 
 {{< content text=center top=24 bottom=8 >}}
 {{% markdown %}}
@@ -122,12 +157,41 @@ CH-3123 Belp
 {{< /cta >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
+{{< cta-group >}}
+{{< cta
+  label="031 318 06 45"
+  href="tel: +41 031 318 06 45"
+  target="_blank"
+  title="Bern"
+  class="id-site"
+  outlined="true"
+  icon="phone"
+>}}
+
+{{< picture
+  name="map-swisscom-bern-hb"
+  w="120"
+  alt="Swisscom Shop Bern Bahnhof, Bahnhofplatz 10 b, 3011 Bern"
+  href="https://goo.gl/maps/RVVkbAMC3xjqpsK67"
+  target="_target"
+>}}
+
+{{% markdown %}}
+**Swisscom Shop Bern Bahnhof**
+Bahnhofplatz 10 b
+3011 Bern
+
+**Opening hours:**
+Mo - Sa: 09.00 - 20.00
+So: 10.00 - 20.00
+{{% /markdown %}}
+{{< /cta >}}
 
 {{< cta
   label="031 381 70 60"
   href="tel: +41 031 381 70 60"
   target="_blank"
-  title="Bern"
+  title=""
   class="id-site"
   outlined="true"
   icon="phone"
@@ -147,6 +211,7 @@ Belpstrasse 45
 CH-3007 Bern
 {{% /markdown %}}
 {{< /cta >}}
+{{< /cta-group >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
@@ -308,12 +373,12 @@ CH-7742 Poschiavo
 {{< cta-group >}}
 
 {{< cta
-  title="Zurich"
-  label="Schedule an E-ID appointment"
-  href="https://help.skribble.com/meetings/patrick182/skribble-id-zurich"
-  target="_blank"
+  title="Zürich"
+  label="076 200 77 48"
+  href="tel:+41762007748"
   class="id-site"
   outlined="true"
+  icon="phone"
 >}}
 
 {{< picture
@@ -325,10 +390,12 @@ CH-7742 Poschiavo
 >}}
 
 {{% markdown %}}
-**Skribble AG**
-FlexOffice
+**FlexOffice**
 Fraumünsterstrasse 16
 CH-8001 Zurich
+
+**Opening hours:**
+Mo - Fr: 09.00 - 17.00
 {{% /markdown %}}
 {{< /cta >}}
 
@@ -350,7 +417,7 @@ CH-8001 Zurich
 >}}
 
 {{% markdown %}}
-**Swisscom Shop 
+**Swisscom Shop
 Flughafen Zürich**
 Airport Shopping Center
 Check-in 3
@@ -374,8 +441,7 @@ Mo - Su: 08.00 - 21.00
 
 {{< content top=6 width=narrow >}}
 {{% collapsible 1 "Maximise the legal weight of your electronic signature" %}}
-At Skribble you sign with the qualified electronic signature (QES). This is [the highest e-signature standard](/signaturestandards). For this, the law requires an identity verification through personal contact. Exceptions are financial intermediaries who may
-carry out identity verification using video identification.{{< /collapsible >}}
+At Skribble you sign with the qualified electronic signature (QES). This is [the highest e-signature standard](/signaturestandards). For this, the law requires an identity verification through personal contact. Exceptions are financial intermediaries who may carry out identity verification using video identification.{{< /collapsible >}}
 
 {{% collapsible 2 "Do I have to be identified again before each QES signature?" %}}
 No. Your e-ID is valid for 5 years or until the expiry of the document of identification you presented during identification.
@@ -398,7 +464,7 @@ If this is not the case, a new SIM card with Mobile ID can be ordered
 {{< /collapsible >}}
 
 {{% collapsible 6 "What if I haven't been identified yet?" %}}
-Personal identification is only required for signing with the highest e-signature standard (QES). If you have not yet been identified in personal contact, you sign with the second highest standard (AES).
+Personal identification is only required for signing with the highest e-signature standard (QES). If you have not yet been identified in personal contact, you sign either with a simple (SES) or an advanced electronic signature (AES).
 {{< /collapsible >}}
 {{< /content >}}
 

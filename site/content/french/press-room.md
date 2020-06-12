@@ -1,6 +1,6 @@
 ---
 title: Skribble crée la confiance dans le monde digital
-description: Avec Skribble, les processus de signature sont gérés à 100% numériquement, sur la base de la signature électronique qualifiée "SEQ" – la signature électronique qui équivaut à une signature manuscrite, selon la loi suisse et européenne.
+description: Avec Skribble, les processus de signature sont gérés à 100% numériquement, sur la base de normes légales qui remplacent la signature manuscrite légalement valide et probante.
 draft: false
 slug: medias
 # opengraph image (for facebook and twitter)
@@ -19,7 +19,7 @@ Retrouvez ici tout le nécessaire pour écrire sur Skribble.
 
 {{< content top=12 bottom=8 width=narrow >}}
 {{% markdown %}}
-Fondé en mars 2018, Skribble est un fournisseur suisse de signatures électroniques ayant des bureaux à Zurich (CH) et à Karlsruhe (DE). La société TrustTech permet de signer des documents électroniques facilement et légalement. La base est constituée par des normes légalement réglementées, y compris la signature électronique qualifiée (SEQ) – la seule forme de signature électronique qui équivaut à une signature manuscrite devant la loi. Swisscom fournit la technologie de certification homologuée par l’Etat pour la SEQ. Le canton de Fribourg fait partie de ses clients actuels. Skribble compte 15 employés.
+Fondée en mars 2018, Skribble est une société TrustTech suisse spécialisée dans le domaine des signatures électroniques ayant des bureaux à Zurich (CH) et à Karlsruhe (DE). Skribble est un guichet unique qui fournit des signatures électroniques propres à chaque type de contrat remplissant les exigences légales en force. Ceci s’applique aussi à la signature électronique qualifiée (SEQ) – la seule forme de signature électronique qui équivaut à une signature manuscrite devant la loi. Swisscom fournit la technologie de certification homologuée par l’Etat pour la SEQ. Skribble compte 19 employés.
 {{% /markdown %}}
 {{< /content >}}
 
@@ -54,6 +54,13 @@ Les atouts les plus importants de Skribble sont à portée de main :
 
 {{< table top=12 width=narrow title="Communiqués de presse" >}}
 
+<tr>
+  <td>28.05.2020</td>
+  <td><strong>Clôture du deuxième cycle de financement (en allemand)</strong></td>
+  <td>
+    <a href="downloads/20200528_Medienmitteilung_Abschluss_Finanzierungsrunde_Skribble.pdf" target="_blank">Download</a>
+  </td>
+</tr>
 <tr>
   <td>19.09.2019</td>
   <td><strong>EXPERTsuisse cooperates with Skribble (en allemand)</strong></td>

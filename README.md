@@ -7,6 +7,7 @@ Deploy:
 
 # Table of Contents
 - [How to Use](#how-to-use)
+- [Update my.skribble status banner](#update-myskribble-status-banner)
 - [Frontend Components](#frontend-components)
   - [The basics](#the-basics)
   - [Menu component](#menu-component)
@@ -111,7 +112,12 @@ After publishing, your changes appear on the cove GitHub page of BlockSigner: ht
 
 The changes are online after merging into master. Master is automatically built and deployed.
 
----
+## Update my.skribble status banner
+To show the status message in WAVE, edit the https://github.com/BlockSigner/cove/blob/master/site/static/my.skribble/status.txt file in the COVE repository. An example text can be found here: https://github.com/BlockSigner/cove/commit/b4f8cbb61ce515260d4f07bcaa39b293b8700ec5 
+
+Once the system is back to normal, empty the status.txt file to hide the status message or revert your commit.
+
+**Heads-up:** Don't put any HTML in `status.txt`
 
 ## Frontend components
 Frontend components can be inserted as needed in the markdown files that make up the pages of the website. You cannot add components in the Front Matter. The Front Matter defines page specific meta content. We use it for the meta title and description of the page and for defining open graph images. The Front Matter area is indicated by 3 opening and 3 closing hyphens ( `---` ).
@@ -271,11 +277,18 @@ A picture can be inserted inside the shortcode in the regular picture format sho
 - `button-text`
 - `button-link`
 - `subtext`
-- `has-comparison` (optional) set to `true` in case you want to have an internal comparison panel between two options
-- `comparison-title` (optional) if `has-comparison` is set to true, this text will be the title of the comparison
-- `comparison-first` (optional) if `has-comparison` is set to true, this will be the content of the first element
-- `comparison-second` (optional) if `has-comparison` is set to true, this will be the content of the second element
-- `comparison-caption` (optional) if `has-comparison` is set to true, this text will be the caption of the comparison
+- `has-comparison` (optional) set to `true` in case you want to have an internal comparison panel.
+
+If `has-comparison` is set to true, you have the following additional options:
+- `comparison-title` (optional) title of the comparison panel
+- `comparison-caption` (optional) caption of the comparison panel
+
+The comparison panel can either be a full width single panel:
+- `comparison-single` (optional) content of the full width comparison panel
+
+Or alternatively, two side-by-side panels (top-and-bottom in mobile)
+- `comparison-first` (optional) content of the first element
+- `comparison-second` (optional) content of the second element
 
 Full example:
 ```
@@ -399,8 +412,6 @@ To provide a little bit of structure, we add the testimonial images in a folder 
 1. image
 2. footer
 3. alt (optional)
-
----
 
 ## Outlines
 To show component outlines and component labels, add the following styling to `main.scss`.

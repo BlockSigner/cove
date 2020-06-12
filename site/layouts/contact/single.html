@@ -16,17 +16,26 @@
             <div style="display: flex; flex-flow: row wrap; padding-top: 20px; max-width: 492px; padding-bottom: 30px">
               <div style="flex:1 ; min-width: 220px;">
                 <p style="font-weight: bold; font-size: 18px; color: #293D66">{{ .address.title}}</p>
-                <p>
-                  {{ range (split .address.full "\n") }}
-                    {{ printf "%s" . }}<br>
+                <p> 
+                  {{ range $i, $e := (split .address.full "\n") }}
+                    {{ if $i }}<br>{{ end }}
+                    {{ printf "%s" $e }}
                   {{ end }}
                 </p>
+                <p style="font-weight: bold; font-size: 18px; color: #293D66; margin-top: 10px;">{{ .address.opening_hours.title }}</p>
+                <p>{{ .address.opening_hours.text }}</p>
               </div>
               <div style="padding-right: 20px">
                 <p style="font-weight: bold; font-size: 18px; color: #293D66">Email</p>
-                <p><a href="mailto:{{ .address.email}}">{{ .address.email}}</a></p>
-                <p style="font-weight: bold; font-size: 18px; color: #293D66; margin-top: 10px;">{{ .address.opening_hours.title }}</p>
-                <p>{{ .address.opening_hours.description }}</p>
+                <p><a href="mailto:{{ .address.email }}">{{ .address.email}}</a></p>
+                {{ if .address.phone }}
+                  <p style="font-weight: bold; font-size: 18px; color: #293D66; margin-top: 10px;">{{ .address.phone.title }}</p>
+                  <p><a href="tel:{{ replaceRE "(\\s)" "" .address.phone.text }}">{{ .address.phone.text }}</a></p>
+                {{ end }}
+                {{ if .address.phone }}
+                  <p style="font-weight: bold; font-size: 18px; color: #293D66; margin-top: 10px;">{{ .address.contact_form.title }}</p>
+                  <p><a target="_blank" href="{{ .address.contact_form.link.href }}">{{ .address.contact_form.link.label }}</a></p>
+                {{ end }}
               </div>
             </div>
           </div>

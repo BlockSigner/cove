@@ -19,13 +19,13 @@ technological security with simplicity.
 
 {{< picture integration-main 580 "An engineer stands in front of an API window with API documentation." >}}
 
-{{< content text=center top=12 bottom=8 width=narrow >}}
+{{< content text=center top=12 width=narrow >}}
 {{% markdown %}}
 #### Use Skribble via your browser or integrate the platform into your existing software environment via API
 {{% /markdown %}}
 {{< /content >}}
 
-{{< features-container >}}
+{{< features-container width=wide >}}
  {{< features-item src="integrations/api.svg"
     headline="Modern interface with detailed documentation"
     description="The modern JSON REST API is easy and quick to integrate. Our API documentation gives you all the details you need.">}}
@@ -43,9 +43,10 @@ technological security with simplicity.
     description="Skribble's optimised user interface gives you an intuitive user experience for all modern browsers and devices.">}}
 {{< /features-container >}}
 
+
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< content top=12 >}}
+{{< content top=4 bottom=4 >}}
 {{< testimonial "testimonial/softcom-logo-108w.png" "Rémy Tzaud, CEO of Softcom" >}}
 "We integrated the API for the Canton of Fribourg in half a day. The API from Skribble leaves nothing to be desired."
 {{< /testimonial >}}
@@ -53,13 +54,13 @@ technological security with simplicity.
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< content text=center top=12 bottom=16 width=narrow >}}
+{{< content text=center top=16 bottom=16 width=narrow >}}
 {{% markdown %}}
 ## With Skribble you benefit from the highest standards of technology and security
 {{% /markdown %}}
 {{< /content >}}
 
-{{< features-container >}}
+{{< features-container bottom=16 width=wide >}}
 
   {{< features-item src="integrations/http-web.svg"
     headline="HTTPS web communication"
@@ -89,11 +90,11 @@ technological security with simplicity.
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< testimonial "testimonial/swissmade-logo-300w.png" "" >}}
-Skribble holds the label
-<a href="https://www.swissmadesoftware.org/en/home/home.html" target="_blank" class="text-decoration: none;">Swiss made Software</a>, which stands
-for quality, reliability and precision in software development.
+{{< content top=12 >}}
+{{< testimonial "testimonial/descartesfinance-300w.png" "Adriano Lucatelli, CEO of Descarte Finance" >}}
+"Thanks to Skribble, we are able to process the entire onboarding process of our pillar 3a product in digital form. The cooperation with a local partner with Swiss hosting underlines our positioning as a Swiss provider".
 {{< /testimonial >}}
+{{< /content >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
@@ -124,6 +125,20 @@ Check out our API documentation.
 {{% /markdown %}}
 {{< /cta >}}
 {{< /cta-group >}}
+
+{{< content text=center top=4 bottom=4 width=narrow >}}
+{{% markdown %}}
+&nbsp;
+{{% /markdown %}}
+{{< /content >}}
+
+[//]: # (--------------------------------------------------------------------------------------------------------------)
+
+{{< testimonial "testimonial/swissmade-logo-300w.png" "" >}}
+Skribble holds the label
+Swiss made Software , which stands
+for quality, reliability and precision in software development.
+{{< /testimonial >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 

@@ -31,10 +31,10 @@ de façon digitale, conformément à la loi suisse et européenne.
 
 {{< logos-container top=12 bottom=24 width=wide title="Confié par:">}}
   {{< logos-item src="logos/canon-142w.svg" alt="Canon">}}
-  {{< logos-item src="logos/baggenstos-205w.svg" alt="Baggenstoss">}}
+  {{< logos-item src="logos/helvetia-186w.svg" alt="Helvetia Versicherung">}}
   {{< logos-line-break >}}
   {{< logos-item src="logos/easyjet-161w.svg" alt="EasyJet">}}
-  {{< logos-item src="logos/altenburger-204w.svg" alt="Altenburger Legal">}}
+  {{< logos-item src="logos/kellerhalscarrard-124w.svg" alt="Kellerhals Carrard">}}
   {{< logos-item src="logos/wincasa-185w.svg" alt="Wincasa">}}
 {{< /logos-container >}}
 
@@ -77,7 +77,9 @@ Signez par simple pression d'un bouton, indépendamment de l'heure et du lieu, d
 
 {{< content top=12 text=center width=narrow >}}
 {{% markdown %}}
-## En signant avec Skribble, vous gagnez du temps au travail
+En signant avec Skribble, 
+vous gagnez du temps au travail
+===============
 {{% /markdown %}}
 {{< /content >}}
 
@@ -101,15 +103,17 @@ Signez par simple pression d'un bouton, indépendamment de l'heure et du lieu, d
 
 {{< content top=20 text=center width=narrow >}}
 {{% markdown %}}
-## Avec Skribble, vous remplissez <br class="hide-for-mobile">les exigences légales
+Avec Skribble, vous remplissez 
+les exigences légales
+===============
 Avec Skribble, vous signez légalement et en toute sécurité
 en remplissant les conditions suivantes:
 {{% /markdown %}}
 {{< /content >}}
 
 {{< content top=6 width=narrow >}}
-{{% collapsible 1 "Normes de signature électronique SEQ und SEA selon SCSE/eIDAS" "check" %}}
-Skribble travaille exclusivement avec des standards de signature électronique légalement définis: la signature électronique qualifiée (SEQ) et la signature électronique avancée (SEA).
+{{% collapsible 1 "Normes de signature électronique selon SCSE/eIDAS" "check" %}}
+Skribble travaille avec des standards de signature électronique légalement définis: la signature électronique qualifiée (SEQ), la signature électronique avancée (SEA) et la signature électronique simple (SES).
 {{% /collapsible %}}
 
 {{% collapsible 2 "Exigence de la forme écrite selon le CO/BGB" "check" %}}
@@ -125,14 +129,83 @@ Skribble et ses partenaires gèrent leurs données conformément à la loi féd�
 
 {{< content top=24 text=center width=narrow >}}
 {{% markdown %}}
-## Utilisez Skribble pour maximiser la force probante de votre signature
-La loi établit une distinction entre les signatures électroniques qualifiées (SEQ)
-et les signatures électroniques avancées (SEA). Les deux normes varient
-en termes de domaine d'application et de force probante. Sur Skribble, vous pouvez choisir entre les deux.
+Signez toujours 
+avec la norme optimale
+===============
+La loi distingue trois normes de signature. Ils varient en termes 
+de domaine d’application et de force probante. Skribble est votre guichet 
+unique pour toutes les normes.
 {{% /markdown %}}
 {{< /content >}}
 
-{{< picture force_probante 664 "Force_Probante" >}}
+{{< table top=8 lock-for-mobile="true" class="table--qualities table--qualities-no-legend" layout=fixed >}}
+<thead>
+  <tr>
+    <th scope="col"></th>
+    <th scope="col">SES</th>
+    <th scope="col">SEA</th>
+    <th scope="col">SEQ</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <th scope="row"></th>
+    <td class="signature-quality-bar">
+      {{< signature-quality-bar
+        class=ses
+        title=Basique
+        top-left=SES
+        top-right="Signature électronique simple"
+      >}}
+    </td>
+    <td class="signature-quality-bar">
+      {{< signature-quality-bar
+        class=aes
+        title=Elevée
+        top-left=SEA
+        top-right="Signature électronique avancée"
+        bottom-right=""
+      >}}
+    </td>
+    <td class="signature-quality-bar">
+      {{< signature-quality-bar
+        class=qes
+        title=Maximum
+        top-left=SEQ
+        top-right="Signature électronique qualifiée"
+        bottom-right="Équivaut à une signature manuscrite en vertu du droit suisse et européen"
+      >}}
+    </td>
+  </tr>
+  <tr>
+    <th scope="row"></th>
+    <td>
+{{% markdown %}}
+
+**Documents**
+informelles ou internes avec un faible risque de responsabilité.
+
+{{% /markdown %}}
+    </td>
+    <td>
+{{% markdown %}}
+**Documents**
+sans exigence formelle juridique avec un risque de responsabilité calculable.
+
+{{% /markdown %}}
+    </td>
+    <td>
+{{% markdown %}}
+
+**Documents**
+avec exigences formelles juridiques ou avec un risque de responsabilité fort. 
+
+{{% /markdown %}}
+    </td>
+  </tr>
+
+</tbody>
+{{< /table >}}
 
 {{< cta
   bottom=24
@@ -142,9 +215,57 @@ en termes de domaine d'application et de force probante. Sur Skribble, vous pouv
 >}}
 
 {{% markdown %}}
-**Chez Skribble vous avez le choix entre les normes de signature SEA et SEQ.**
+**Sur Skribble, vous pouvez choisir entre les normes de signature SEQ, SEA et SES.**
 {{% /markdown %}}
 {{< /cta >}}
+
+[//]: # (--------------------------------------------------------------------------------------------------------------)
+
+{{< testimonial "testimonial/helvetia-300w.svg" "Martin Tschopp, Chief Customer Officer de l'Helvetia Schweiz" >}}
+"Chez Helvetia, de nombreux secteurs nécessitent encore des signatures manuscrites, par exemple dans l’assurance vie et dans les procédures internes. Skribble nous permet de les numériser intégralement."
+{{< /testimonial >}}
+
+[//]: # (--------------------------------------------------------------------------------------------------------------)
+
+{{< content text=center top=20 width=narrow >}}
+{{% markdown %}}
+Plus de force probante 
+en quelques clics
+===============
+{{% /markdown %}}
+{{< /content >}}
+
+{{< content top=4 bottom=24 width=narrow display=flex >}}
+{{< step >}}
+{{< picture "video-ident" 250 "Une loupe agrandit l'image d'un homme dans un passeport." >}}
+{{% markdown %}}
+**Identification vidéo**
+Déverrouillez la signature électronique qualifiée (SEQ) depuis votre domicile en vous identifiant en ligne par appel vidéo.
+{{% /markdown %}}
+<br>
+{{< button
+  "En savoir plus"
+  "/fr/debloquez-seq/"
+  ""
+  "outline">}}
+{{< /step >}}
+
+{{< step >}}
+{{< picture "aes-for-biz-home-id" 280 "Une grande flèche, un clic sur une organisation, un immeuble de grande hauteur." >}}
+{{% markdown %}}
+**Implémentation à toute l'organisation**
+Déverrouillez la signature électronique avancée (SEA) pour l'ensemble de votre personnel en quelques jours seulement.
+{{% /markdown %}}
+<br>
+{{< button
+  "En savoir plus"
+  "/fr/identification/sea-pour-business/"
+  ""
+  "outline">}}
+{{< /step >}}
+
+
+{{< /content >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 

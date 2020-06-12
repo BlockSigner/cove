@@ -1,0 +1,8 @@
+<div class="partner">
+  <a href="{{ .Get "href" }}" target="_blank" class="partner__logo">
+    {{ partial "picture" (dict "alt" (.Get "img-alt") "filename" (printf "partner/%s" (.Get "img")) "natural_width" (.Get "img-width")) }}
+  </a>
+  <div class="partner__label">
+    {{ .Get "field" }}
+  </div>
+</div>

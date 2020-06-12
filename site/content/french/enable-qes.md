@@ -1,5 +1,5 @@
 ---
-title: Nous vous identifions avec l’ID-app de Swisscom
+title: Maximisez la valeur probante de votre signature électronique
 description: Quatre petites étapes et vous pouvez commencer à signer. Il vous suffit d’avoir un téléphone mobile et un document de voyage valide.
 draft: false
 slug: debloquez-seq
@@ -8,12 +8,44 @@ slug: debloquez-seq
 og_image: og/og-skribble-identification.jpg
 
 ---
-
-{{< content text=center top=12 width=narrow >}}
+{{< content text=center top=16 bottom=8 width=narrow >}}
 {{% markdown %}}
-# Maximisez la valeur probante de votre signature électronique
-Déverrouillez la norme de signature électronique la plus élevée (SEQ)
-en vous identifiant par contact personnel avec l'ID-app de Swisscom.
+Maximisez la valeur probante 
+de votre signature électronique
+===============
+Déverrouillez la norme de signature électronique la plus élevée (SEQ) 
+en vous identifiant en ligne par appel vidéo ou par contact 
+personnel avec l’ID-app de Swisscom.
+{{% /markdown %}}
+{{< /content >}}
+
+[//]: # (--------------------------------------------------------------------------------------------------------------)
+
+{{< side-by-side top=12 bottom=24 mobile-top=6 mobile-bottom=12 img=qes-increase img-position=left img-width=315 img-alt="A man is sitting in front of a laptop, above him is a software window, where a woman stands out with a big magnifying glass and checks an identity card." >}}
+{{% markdown %}}
+Identification 
+par vidéo en ligne
+===============
+L'identification est proposée en coopération avec nos partenaires Swisscom Trust Services et IdentityTM.    
+{{% /markdown %}}
+<br>
+{{< button
+  "Déverrouiller SEQ maintenant"
+  "http://videoident.me"
+  "_blank"
+  "outline"
+>}}
+{{< /side-by-side >}}
+
+[//]: # (--------------------------------------------------------------------------------------------------------------)
+
+{{< content text=center top=16 width=narrow >}}
+{{% markdown %}}
+Identification 
+par contact personnel
+===============
+Déverrouillez la norme de signature électronique la plus élevée (SEQ) 
+en vous identifiant par contact personnel avec l’ID-app de Swisscom.
 {{% /markdown %}}
 {{< /content >}}
 
@@ -64,6 +96,7 @@ ou votre carte d'identité en cours de validité et votre téléphone portable.
 {{% /markdown %}}
 {{< /content >}}
 
+[//]: # (--------------------------------------------------------------------------------------------------------------)
 
 {{< cta
   label="026 470 08 90"
@@ -123,11 +156,41 @@ CH-3123 Belp
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
+{{< cta-group >}}
+{{< cta
+  label="031 318 06 45"
+  href="tel: +41 031 318 06 45"
+  target="_blank"
+  title="Bern"
+  class="id-site"
+  outlined="true"
+  icon="phone"
+>}}
+
+{{< picture
+  name="map-swisscom-bern-hb"
+  w="120"
+  alt="Swisscom Shop Bern Bahnhof, Bahnhofplatz 10 b, 3011 Bern"
+  href="https://goo.gl/maps/RVVkbAMC3xjqpsK67"
+  target="_target"
+>}}
+
+{{% markdown %}}
+**Swisscom Shop Bern Bahnhof**
+Bahnhofplatz 10 b
+3011 Bern
+
+**Horaires d'ouverture:**
+Lu - Sa: 09.00 - 20.00
+Di: 10.00 - 20.00
+{{% /markdown %}}
+{{< /cta >}}
+
 {{< cta
   label="031 381 70 60"
   href="tel: +41 031 381 70 60"
   target="_blank"
-  title="Bern"
+  title=""
   class="id-site"
   outlined="true"
   icon="phone"
@@ -147,6 +210,7 @@ Belpstrasse 45
 CH-3007 Bern
 {{% /markdown %}}
 {{< /cta >}}
+{{< /cta-group >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
@@ -306,12 +370,12 @@ CH-7742 Poschiavo
 
 {{< cta-group >}}
 {{< cta
-  title="Zurich"
-  label="Organiser un rendez-vous E-ID"
-  href="https://help.skribble.com/meetings/patrick182/identification-chez-skribble"
-  target="_blank"
+  title="Zürich"
+  label="076 200 77 48"
+  href="tel:+41762007748"
   class="id-site"
   outlined="true"
+  icon="phone"
 >}}
 
 {{< picture
@@ -323,10 +387,12 @@ CH-7742 Poschiavo
 >}}
 
 {{% markdown %}}
-**Skribble AG**
-FlexOffice
+**FlexOffice**
 Fraumünsterstrasse 16
 CH-8001 Zurich
+
+**Horaires d'ouverture:**
+Lu - Ve: 09.00 - 17.00
 {{% /markdown %}}
 {{< /cta >}}
 
@@ -382,8 +448,7 @@ Non. Votre e-ID est valable 5 ans ou jusqu'à l'expiration de la pièce d'identi
 {{% /collapsible %}}
 
 {{% collapsible 3 "Quels documents d'identité puis-je utiliser pour l'identification ?" %}}
-Un passeport ou une carte d'identité en cours de validité. Toutes les autres formes d'identification telles que le permis de séjour ou le permis de conduire
-ne sont pas suffisantes.
+Un passeport ou une carte d'identité en cours de validité. Toutes les autres formes d'identification telles que le permis de séjour ou le permis de conduire ne sont pas suffisantes.
 {{% /collapsible %}}
 
 {{% collapsible 4 "Où sont stockées les données des personnes identifiées?" %}}
@@ -394,6 +459,10 @@ de Swisscom en Suisse (certification Tier IV).
 {{% collapsible 5 "Le QSE nécessite-t-elle un Mobile ID?" %}}
 Non. Mais avec un Mobile ID, la signature est plus rapide et plus facile, c'est pourquoi nous vous le recommandons. Sur Mobile-ID.ch, vous pouvez vérifier si votre smartphone possède déjà un Mobile ID et si la fonction est déjà activée. Si tel n'est pas le cas, une nouvelle carte SIM avec Mobile ID peut être commandée gratuitement auprès de la plupart des fournisseurs.
 {{% /collapsible %}}
+
+{{% collapsible 6 "Et si je n'ai pas encore été identifié ?" %}}
+L'identification personnelle n'est requise que pour signer avec la norme de signature électronique (QES) la plus élevée. Si vous n'avez pas encore été identifié en contact personnel, vous signez soit avec une signature électronique simple (SES), soit avec une signature électronique avancée (AES).
+{{< /collapsible >}}
 {{< /content >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)

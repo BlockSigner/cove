@@ -5,10 +5,11 @@ draft: false
 slug: equipe
 type: team
 
+
 # trust shapers, advisors, ...
 # expects jpg and web image formats
 groups:
-  - title: Trust shapers
+  - title: Trust Shapers
     text: Les gens derrière Skribble
     people:
       - name: Philipp Dick
@@ -92,6 +93,15 @@ groups:
           regular_landscape: team/till-graf-l
           retina_landscape: team/till-graf-l@2x
           alt_text:
+      - name: Luc Lippuner
+        position: Content & Communications
+        type: 0
+        images:
+          regular_portrait: team/luc-lippuner-l
+          retina_portrait: team/luc-lippuner-l@2x
+          regular_landscape: team/luc-lippuner-l
+          retina_landscape: team/luc-lippuner-l@2x
+          alt_text:
       - name: Patrick Meade
         position: Happiness Manager
         type: 1
@@ -110,14 +120,14 @@ groups:
           regular_landscape: team/dominik-kumpf-l
           retina_landscape: team/dominik-kumpf-l@2x
           alt_text:
-      - name: Luc Lippuner
-        position: Content & Communications
+      - name: Rainer Görmann
+        position: Engineering
         type: 0
         images:
-          regular_portrait: team/luc-lippuner-l
-          retina_portrait: team/luc-lippuner-l@2x
-          regular_landscape: team/luc-lippuner-l
-          retina_landscape: team/luc-lippuner-l@2x
+          regular_portrait: team/rainer-goermann-l
+          retina_portrait: team/rainer-goermann-l@2x
+          regular_landscape: team/rainer-goermann-l
+          retina_landscape: team/rainer-goermann-l@2x
           alt_text:
       - name: João Bárcia
         position: Engineering
@@ -128,18 +138,9 @@ groups:
           regular_landscape: team/joao-barcia-l
           retina_landscape: team/joao-barcia-l@2x
           alt_text:
-      - name: Rainer Görmann
-        position: Engineering
-        type: 2
-        images:
-          regular_portrait: team/rainer-goermann-l
-          retina_portrait: team/rainer-goermann-l@2x
-          regular_landscape: team/rainer-goermann-l
-          retina_landscape: team/rainer-goermann-l@2x
-          alt_text:
       - name: Chantal Marty
         position: CFO
-        type: 0
+        type: 2
         images:
           regular_portrait: team/chantal-marty-l
           retina_portrait: team/chantal-marty-l@2x
@@ -155,14 +156,41 @@ groups:
           regular_landscape: team/barbara-stutz-l
           retina_landscape: team/barbara-stutz-l@2x
           alt_text:
+      - name: Soraya Kohler
+        position: Customer Happiness Manager
+        type: 0
+        images:
+          regular_portrait: team/soraya-kohler-l
+          retina_portrait: team/soraya-kohler-l@2x
+          regular_landscape: team/soraya-kohler-l
+          retina_landscape: team/soraya-kohler-l@2x
+          alt_text:
       - name: Maxim Markert
-        position: Sales & Business Engineering
-        type: 2
+        position: Chief Growth Officer
+        type: 1
         images:
           regular_portrait: team/maxim-markert-l
           retina_portrait: team/maxim-markert-l@2x
           regular_landscape: team/maxim-markert-l
           retina_landscape: team/maxim-markert-l@2x
+          alt_text:
+      - name: Jevgenija Litvina
+        position: Content & Communication
+        type: 1
+        images:
+          regular_portrait: team/jevgenija-litvina-l
+          retina_portrait: team/jevgenija-litvina-l@2x
+          regular_landscape: team/jevgenija-litvina-l
+          retina_landscape: team/jevgenija-litvina-l@2x
+          alt_text:
+      - name: Roland Jordan
+        position: Customer Growth Manager
+        type: 2
+        images:
+          regular_portrait: team/roland-jordan-l
+          retina_portrait: team/roland-jordan-l@2x
+          regular_landscape: team/roland-jordan-l
+          retina_landscape: team/roland-jordan-l@2x
           alt_text:
   - title: Advisors
     people:

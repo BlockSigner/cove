@@ -82,12 +82,12 @@ with the following requirements:
 {{< /content >}}
 
 {{< content top=6 width=narrow >}}
-{{% collapsible 1 "E-signature standards QES and AES according to ZertES/eIDAS" "check" %}}
-Skribble works exclusively with legally defined e-signature standards: The qualified electronic signature (QES) and the advanced electronic signature (AES).
+{{% collapsible 1 "E-signature standards according to ZertES/eIDAS" "check" %}}
+Skribble works with legally defined e-signature standards: The qualified electronic signature (QES), the advanced electronic signature (AES) and the simple electronic signature (SES).
 {{% /collapsible %}}
 
 {{% collapsible 2 "Requirement of written form according to OR/BGB" "check" %}}
-The qualified electronic signature (QES) available on Skribble is equivalent to the handwritten signature before national laws in Switzerland and the EU (e.g. OR in Switzerland or BGB in Germany).
+The qualified electronic signature (QES) available on Skribble is legally equivalent to a handwritten signature in Switzerland and the EU (eg. OR in Switzerland or BGB in Germany).
 {{% /collapsible %}}
 
 {{% collapsible 3 "Data protection according to FADP/GDPR" "check" %}}
@@ -132,7 +132,70 @@ of application and legal weight.
 {{% /markdown %}}
 {{< /content >}}
 
-{{< picture legal_weight 664 "Legal-weight" >}}
+{{< table top=8 lock-for-mobile="true" class="table--qualities table--qualities-no-legend" layout=fixed >}}
+<thead>
+  <tr>
+    <th scope="col"></th>
+    <th scope="col">SES</th>
+    <th scope="col">AES</th>
+    <th scope="col">QES</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <th scope="row"></th>
+    <td class="signature-quality-bar">
+      {{< signature-quality-bar
+        class=ses
+        title=Basic
+        top-left=SES
+        top-right="Simple electronic signature"
+      >}}
+    </td>
+    <td class="signature-quality-bar">
+      {{< signature-quality-bar
+        class=aes
+        title=High
+        top-left=AES
+        top-right="Advanced electronic signature"
+        bottom-right=""
+      >}}
+    </td>
+    <td class="signature-quality-bar">
+      {{< signature-quality-bar
+        class=qes
+        title=Maximum
+        top-left=QES
+        top-right="Qualified electronic signature"
+        bottom-right="Equal to a handwritten signature according to Swiss and EU law"
+      >}}
+    </td>
+  </tr>
+  <tr>
+    <th scope="row"></th>
+    <td>
+{{% markdown %}}
+**Documents**
+that are informal or internal and have a low liability risk.
+&nbsp;
+{{% /markdown %}}
+    </td>
+    <td>
+{{% markdown %}}
+**Documents**
+without legal form requirement and with calculable liability risk.
+{{% /markdown %}}
+    </td>
+    <td>
+{{% markdown %}}
+**Documents**
+with legal form requirements or high liability risk.
+&nbsp;
+{{% /markdown %}}
+    </td>
+  </tr>
+</tbody>
+{{< /table >}}
 
 {{< cta
   label="Learn more"
@@ -188,8 +251,8 @@ Skribble' s data centre is located in Switzerland and is ISO 270001 certified (a
 {{% /collapsible %}}
 
 {{% collapsible 11 "What if I haven't been identified yet?" %}}
-Personal identification is only required for signing with the highest e-signature standard (QES). If you have not yet been identified in personal contact, you sign with the second highest standard (AES).
-{{% /collapsible %}}
+Personal identification is only required for signing with the highest e-signature standard (QES). If you have not yet been identified in personal contact, you sign either with a simple (SES) or an advanced electronic signature (AES).
+{{< /collapsible >}}
 
 {{% collapsible 12 "Is signing with Skribble legally binding?" %}}
 Yes. On Skribble you can choose the highest e-signature standard available: the qualified electronic signature (QES). It has the highest legal weight in court.
@@ -197,10 +260,6 @@ Yes. On Skribble you can choose the highest e-signature standard available: the 
 
 {{% collapsible 13 "Can I store the digitally signed contract in paper form?" %}}
 Not exclusively. Thanks to the visual signature, it can be seen on the printed contract that it has been digitally signed. However, since the digital certificates are lost when printed out, the traceability of the signature and thus the corresponding conclusiveness is not given. A contract signed with a qualified electronic signature must therefore always be stored in electronic form.
-{{% /collapsible %}}
-
-{{% collapsible 14 "How long is a Skribble signature legally binding?" %}}
-The QES is legally valid for an unlimited period of time.
 {{% /collapsible %}}
 
 {{< /content >}}

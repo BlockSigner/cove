@@ -1,6 +1,6 @@
 ---
-title: Contrôle d'identité pour la SEQ
-description: Pour la signature électronique qualifiée (SEQ), le signataire doit prouver son identité. Skribble vous aidera.
+title: Vérification de l’identité pour la signature électronique
+description: Chaque signature électronique doit être attribuable à une seule personne. Skribble nécessite donc l’identification des signataires. Les procédures diffèrent en fonction de la demande.
 draft: false
 slug: identification
 # opengraph image (for facebook and twitter)
@@ -8,132 +8,267 @@ og_image: og/og-skribble-identification.jpg
 
 ---
 
-{{< content text=center top=16 bottom=4 width=narrow >}}
+{{< content text=center top=16 bottom=8 width=narrow >}}
 {{% markdown %}}
-# Contrôle d'identité pour la SEQ
-Pour la signature électronique qualifiée (SEQ),
-le signataire doit prouver son identité. Skribble vous aidera.
+Vérification de l'identité pour 
+la signature électronique
+===============	
+Chaque signature électronique doit être attribuable à une seule personne.
+Skribble nécessite donc l'identification des signataires.
+Les procédures diffèrent en fonction de la demande.
 {{% /markdown %}}
 {{< /content >}}
 
-{{< picture identification 482 "L'identité d'une femme debout dans un téléphone portable est vérifiée par deux personnes" >}}
+{{< picture identification 500 "L'identité d'une femme debout dans un téléphone portable est vérifiée par deux personnes." >}}
+
+{{< content text=center top=16 bottom=8 width=narrow >}}
+{{% markdown %}}
+# Contrats sans exigence formelle
+La signature électronique avancée (SEA) est généralement utilisée pour les contrats qui ne sont pas formalisés. Avec la SEA, la loi exige que l'identité du signataire puisse être reconstituée par la suite.
+{{% /markdown %}}
+{{< /content >}}
+
+{{< picture contract-no-requirement 480 "Une femme est assise sur un contrat, un homme regarde derrière le contrat." >}}
+
+{{< content text=center top=16 bottom=8 width=narrow >}}
+{{% markdown %}}
+**Options d'identification pour la signature électronique avancée (SEA):**
+{{% /markdown %}}
+{{< /content >}}
+
+{{< content text=left width=wide display=flex >}}
+{{< plan
+  white
+  ""
+  "Adresse électronique de l'entreprise"
+  ""
+  ""
+  "_blank"
+  "outline"
+>}}
+
+{{< picture company-email 280 "Une fenêtre de logiciel avec un homme et une femme dans une bulle." >}}
+
+Les entreprises qui enregistrent l'identité de leurs employés par défaut peuvent activer la SEA via l'adresse électronique de l'entreprise. Toute personne disposant d'une adresse électronique correspondante peut signer immédiatement avec la SEA.
+{{< /plan >}}
+
+{{< plan
+  white
+  ""
+  "Numéro de téléphone portable (CH)"
+  ""
+  ""
+  "_blank"
+  "outline"
+>}}
+
+{{< picture mobile-nr 260 "Un téléphone portable dépasse des maisons." >}}
+
+Les fournisseurs de télécommunications suisses sont tenus d'enregistrer la carte d'identité ou le passeport de leurs clients avant de conclure un contrat. Toute personne s'inscrivant sur Skribble avec un numéro de téléphone portable suisse peut signer immédiatement avec la SEA.
+{{% /plan %}}
+
+{{< /content >}}
+
+
+{{< content text=center top=8 width=narrow >}}
+{{< cta-group >}}
+
+{{< cta
+  label="En savoir plus"
+  href="fr/identification/sea-pour-business/"
+  target=""
+  outlined="true"
+>}}
+
+{{< picture aes-biz-teaser 90 "Une maison en tant qu'organisation et une flèche." >}}
+
+{{% markdown %}}
+**SEA pour Business :** 
+Implémentation à toute l’organisation en quelques jours seulement.
+{{% /markdown %}}
+{{< /cta >}}
+
+
+{{< cta
+  label="En savoir plus"
+  href="https://www.skribble.com/fr/normessignature/"
+  target=""
+  outlined="true"
+>}}
+
+{{< picture signaturestandard-teaser 90 "Une main avec un stylo plume signe un contrat vert." >}}
+
+{{% markdown %}}
+**Normes de signature**
+Quand dois-je utiliser la SEQ, quand la SEA ?
+{{% /markdown %}}
+{{< /cta >}}
+{{< /cta-group >}}
+{{< /content >}}
+
+{{< content text=center top=16 bottom=8 width=narrow >}}
+{{% markdown %}}
+## Contrats avec exigences formelles
+Pour les contrats comportant des exigences formelles, la signature électronique qualifiée (SEQ) est généralement utilisée. Avec le SEQ, la loi exige que l'identité du signataire soit vérifiée au préalable via un contact personnel.
+{{% /markdown %}}
+{{< /content >}}
+
+{{< picture contract-with-requirement 480 "Une femme avec un téléphone portable regarde derrière un contrat et devant lui se tient un homme d'affaires avec un ordinateur portable." >}}
+
+{{< content text=center top=8 bottom=0 width=narrow >}}
+{{% markdown %}}
+**Options d'identification pour la signature électronique qualifiée (SEQ) :**
+{{% /markdown %}}
+{{< /content >}}
+
+{{< content text=center top=8 bottom=4 width=narrow >}}
+{{% markdown %}}
+**Service d'identification**
+Déverrouillez la norme de signature électronique la plus élevée (SEQ) 
+en vous identifiant en ligne par appel vidéo ou par contact personnel 
+avec l’ID-app de Swisscom.
+&nbsp;
+{{% /markdown %}}
+{{< /content >}}
+
+
+{{< content width=wide display=flex >}}
+
+{{< plan
+  white
+  "Identification"
+  "Unlimited"
+  "Contactez-nous dès maintenant"
+  "https://help.skribble.com/meetings/patrick182/consultation-telephone-skribble"
+  "_blank"
+  "outline"
+>}}
+
+{{< picture id-easy 270 "Une femme et un homme sont debout devant une grande fenêtre de logiciel et l'homme tient une grande trappe avec une carte d'identité à l'intérieur." >}}
+
+Vous faites les identifications vous-même.
+
+Approprié si de nouveaux signataires de SEQ sont constamment ajoutés.
+
+&nbsp;
+{{% /plan %}}
+
+{{< plan
+  white
+  "Identification"
+  "En ligne par vidéo"
+  "Déverrouiller SEQ maintenant"
+  "/fr/debloquez-seq/"
+  ""
+  "outline"
+>}}
+
+{{< picture id-direct 210 "Un homme est assis devant un ordinateur portable, au-dessus de lui se trouve une fenêtre de sotware, où une femme avec une grosse loupe fait saillie et vérifie une carte d'identité." >}}
+Déverrouillez la norme de signature électronique SEQ la plus élevée depuis chez vous.
+Convient aux signataires individuels.
+&nbsp;
+&nbsp;
+{{% /plan %}}
+{{< /content >}}
+
+{{< content text=center top=8 width=narrow >}}
 
 {{< cta
   label="Télécharger factsheet"
-  href="https://cdn2.hubspot.net/hubfs/5051692/Skribble%20Overview/Skribble_Overview_Identification_FR.pdf"
+  href="https://cdn2.hubspot.net/hubfs/5051692/Factstheets/Identification/Fran%C3%A7ais/Skribble_Overview_Identification_FR.pdf"
   target="_blank"
   outlined="true"
 >}}
+
+{{< picture consult 92 "Identifikation für die QES. Lass dich beraten und finde die passende Identifikations-Lösung für deine Firma." >}}
+
 {{% markdown %}}
-**Vérification d'identité pour SEQ - Skribble rend l'utilisation facile**<br>
+**Identification pour la SQE - Skribble facilite les choses**
+Laissez-nous vous conseiller et trouver la solution d'identification adaptée à votre entreprise.
 {{% /markdown %}}
 {{< /cta >}}
+{{< /content >}}
 
-[//]: # (--------------------------------------------------------------------------------------------------------------)
+{{< content text=center top=12 bottom=4 width=narrow >}}
 
-{{< content text=center top=24 bottom=8 width=narrow >}}
 {{% markdown %}}
-## Utiliser une e-ID existante
-Les personnes qui ont une e-ID vérifiée peuvent signer avec SEQ
-sur Skribble sans contrôle d'identité supplémentaire.
+# Identité électronique (e-ID)
+Les personnes qui se connectent à Skribble avec une e-ID vérifiée activent automatiquement la SEQ.
+{{% /markdown %}}
+
+{{< picture e-id-map 810 "E-ID, où vous pourrez bientôt vous inscrire avec Skribble." >}}
+
+{{% markdown %}}
+Un nombre croissant de personnes en Europe a une identité électronique validée (e-ID). Skribble les met en réseau. Cela signifie que des millions 
+de personnes peuvent signer immédiatement avec la SEQ sans procédure d'identification supplémentaire.
 {{% /markdown %}}
 {{< /content >}}
 
-{{< picture "identification-id" 412 "Une carte d'identité électronique juridiquement valable" >}}
-
-{{< content text=center top=12 bottom=6 width=narrow >}}
-{{% markdown %}}
-Un nombre croissant de personnes en Europe a une identité électronique vérifiée (e-ID). Skribble les relie. Des millions d'utilisateurs peuvent commencer à signer avec SEQ immédiatement.
-
-**Les personnes qui se connectent avec une e-ID
-activent automatiquement la SEQ.**
-{{% /markdown %}}
-{{< /content >}}
-
-{{< picture e-id-map 826 "E-ID, où vous pourrez bientôt signer Skribble." >}}
-
-{{< content text=center top=12 bottom=6 width=narrow >}}
-{{% markdown %}}
-**Plus d'e-ID suivront cette année.**
-{{% /markdown %}}
-{{< /content >}}
-
+{{< content text=left top=4 bottom=4 width=narrow >}}
 {{< cta
-  label="Fixer un rendez-vous"
-  href="https://help.skribble.com/meetings/patrick182/consultation-telephone-skribble"
+  label="Télécharger factsheet"
+  href="https://cdn2.hubspot.net/hubfs/5051692/Factstheets/Identification/Fran%C3%A7ais/Skribble_ID-Options_FR.pdf"
   target="_blank"
+  outlined="true"
 >}}
 
-{{< picture consult 92 "Identification pour l'EQS. Laissez-nous vous conseiller et trouver la bonne solution d'identification pour votre entreprise." >}}
-
 {{% markdown %}}
-**Identification pour la SEQ**
-Laissez-nous vous conseiller et trouvez
-la solution d'identification idéale pour votre entreprise.
+**Toutes les options d'identification en un coup d'œil.**
 {{% /markdown %}}
 {{< /cta >}}
+{{< /content >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< testimonial "testimonial/e-forsight-146w.png" "Think tank e-foresight" >}}
-"Comme aucune norme sur l'e-ID n'est encore émergente en Suisse, compatibilité des identités numériques est essentielle pour minimiser le risque d'investissement
-à perte." {{< /testimonial >}}
+{{< content top=4 >}}
+{{< testimonial "testimonial/mobiliar-300w.svg" "Thomas Kühne, responsable TI de la Groupe Mobilière" >}}
+"L'investissement dans Skribble est le complément parfait de notre engagement dans SwissID. Ces deux solutions multiplient leur valeur ajoutée grâce à une intégration d'un seul coup. Une symbiose idéale et un excellent exemple de coopération dans l'écosystème technologique suisse."
+{{< /testimonial >}}
+{{< /content >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< content text=center top=12 width=narrow >}}
+
+{{< content text=center top=12 bottom=8 width=narrow >}}
 {{% markdown %}}
-## Utiliser la service <br class="hide-for-mobile">d'identification de Skribble
-Si vous n'avez pas d'e-ID, l'identification peut se faire à l'aide de Skribble.
+## Tout va bien?
 {{% /markdown %}}
 {{< /content >}}
 
-{{< picture "create-identity" 385 "Une loupe agrandit l'image d'une femme dans un passeport" >}}
+{{< content text=left width=narrow >}}
 
-{{< row >}}
-{{% plan
-  gold
-  "Service d'identification"
-  "Identification Easy"
-  "Download Factsheet"
-  "https://cdn2.hubspot.net/hubfs/5051692/Skribble%20Factsheets/Skribble_Overview_Identification%20Easy_FR.pdf"
-  "_blank"
-  "outline"
-%}}
-**Nous** identifions les signataires.
+{{% collapsible 10 "Quand dois-je utiliser quelle norme de signature?" %}}
+La signature électronique simple (SES) et la signature électronique avancée (SEA) sont juridiquement valables pour tous les contrats pour lesquels la loi ne prescrit pas de forme spécifique (contrats sans forme). Vous utilisez la signature électronique qualifiée (SEQ) pour les contrats comportant une exigence formelle ou pour répondre à des exigences de conformité internes. Vous trouverez des exemples et de plus amples informations sur le site: https://www.skribble.com/fr/normessignature/.
+{{% /collapsible %}}
 
-Approprié si vous utilisez la SEQ pour un cercle prédéfini de personnes.
+{{% collapsible 11 "Quelles sont les mesures d'identification requises pour la signature électronique simple (SES)?" %}}
+Dans le cas de la SES, l'adresse e-mail sert comme élément d'identification. L'adresse e-mail doit être confirmé en cliquant sur un lien qui est envoyé à l'adresse e-mail correspondante.
+{{% /collapsible %}}
 
-{{% /plan %}}
+{{% collapsible 12 "Pourquoi l'identification est-elle différente entre la EES, SEA et la SEQ ?" %}}
+Les exigences légales d'identification ne sont pas les mêmes.
+La SEQ est la norme la plus élevée et équivaut à une signature manuscrite. Les exigences d'identification pour la SEQ sont précisément définies dans la loi.
+Avec la SES et la SEA, les fournisseurs sont plus libres. Lors de la sélection des procédures d'identification pour la SES et la SEA, Skribble est attentif à la simplicité d'utilisation et à la maximisation de la force probante.
+{{% /collapsible %}}
 
-{{% plan
-  purple
-  "Service d'identification"
-  "Identification Unlimited"
-  "Download Factsheet"
-  "https://cdn2.hubspot.net/hubfs/5051692/Skribble%20Factsheets/Skribble_Overview_Identification%20Unlimited_FR.pdf"
-  "_blank"
-  "outline"
-%}}
-**Vous** identifiez les signataires
+{{< /content >}}
 
-Approprié si de nouveaux signataires SEQ sont constamment ajoutés.
-
-{{% /plan %}}
-{{< /row >}}
-
+{{< content text=left top=12 bottom=8 width=narrow >}}
 {{< cta
   label="Organiser un appel"
-  href="https://help.skribble.com/meetings/patrick182/identification-chez-skribble"
+  href="https://help.skribble.com/meetings/patrick182/identification-chez-skribble?pk_vid=9255ddb07f7fc8e515837572965a2471"
   target="_blank"
+  outlined="true"
 >}}
-{{< picture consult 92 "Identification pour le QES. Laissez-nous vous conseiller et trouver la bonne solution d'identification pour votre entreprise." >}}
+
+{{< picture consult 92 "Identifikation für die QES. Lass dich beraten und finde die passende Identifikations-Lösung für deine Firma." >}}
+
 {{% markdown %}}
-**Des questions?<br>Nous nous ferons un plaisir de vous aider.**
+**Vous avez des questions ? Nous vous aiderons volontiers par téléphone.**
 {{% /markdown %}}
 {{< /cta >}}
+{{< /content >}}
 
-[//]: # (--------------------------------------------------------------------------------------------------------------)
 
 {{< outro >}}
 {{% markdown center %}}

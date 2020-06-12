@@ -91,8 +91,8 @@ en remplissant les conditions suivantes:
 {{< /content >}}
 
 {{< content top=6 width=narrow >}}
-{{% collapsible 1 "Normes de signature électronique SEQ und SEA selon SCSE/eIDAS" "check" %}}
-Skribble travaille exclusivement avec des standards de signature électronique légalement définis: la signature électronique qualifiée (SEQ) et la signature électronique avancée (SEA).
+{{% collapsible 1 "Normes de signature électronique selon SCSE/eIDAS" "check" %}}
+Skribble travaille avec des standards de signature électronique légalement définis: la signature électronique qualifiée (SEQ), la signature électronique avancée (SEA) et la signature électronique simple (SES).
 {{% /collapsible %}}
 
 {{% collapsible 2 "Exigence de la forme écrite selon le CO/BGB" "check" %}}
@@ -141,7 +141,74 @@ Sur Skribble, vous pouvez choisir entre les deux.
 {{% /markdown %}}
 {{< /content >}}
 
-{{< picture force_probante 664 "Force_Probante" >}}
+{{< table top=8 lock-for-mobile="true" class="table--qualities table--qualities-no-legend" layout=fixed >}}
+<thead>
+  <tr>
+    <th scope="col"></th>
+    <th scope="col">SES</th>
+    <th scope="col">SEA</th>
+    <th scope="col">SEQ</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <th scope="row"></th>
+    <td class="signature-quality-bar">
+      {{< signature-quality-bar
+        class=ses
+        title=Basique
+        top-left=SES
+        top-right="Signature électronique simple"
+      >}}
+    </td>
+    <td class="signature-quality-bar">
+      {{< signature-quality-bar
+        class=aes
+        title=Elevée
+        top-left=SEA
+        top-right="Signature électronique avancée"
+        bottom-right=""
+      >}}
+    </td>
+    <td class="signature-quality-bar">
+      {{< signature-quality-bar
+        class=qes
+        title=Maximum
+        top-left=SEQ
+        top-right="Signature électronique qualifiée"
+        bottom-right="Équivaut à une signature manuscrite en vertu du droit suisse et européen"
+      >}}
+    </td>
+  </tr>
+  <tr>
+    <th scope="row"></th>
+    <td>
+{{% markdown %}}
+
+**Documents**
+informelles ou internes avec un faible risque de responsabilité.
+
+{{% /markdown %}}
+    </td>
+    <td>
+{{% markdown %}}
+**Documents**
+sans exigence formelle juridique avec un risque de responsabilité calculable.
+
+{{% /markdown %}}
+    </td>
+    <td>
+{{% markdown %}}
+
+**Documents**
+avec exigences formelles juridiques ou avec un risque de responsabilité fort. 
+
+{{% /markdown %}}
+    </td>
+  </tr>
+
+</tbody>
+{{< /table >}}
 
 {{< cta
   label="En savoir plus"
@@ -179,10 +246,9 @@ la SEQ. Vous n'avez besoin que d'un document de voyage valide
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< testimonial "testimonial/procivis-146w.png" "Daniel Gasteiger, Fondateur et CEO de Procivis (eID+)" >}}
-"La signature électronique des documents devient une fonction essentielle <br class="hide-for-mobile">des identités numériques de confiance."
+{{< testimonial "testimonial/kellerhalscarrard-124w.svg" "Beat Brechbuehl, Managing Partner Kellerhals Carrhard" >}}
+"Nos clients peuvent être servis plus rapidement et nos avocats gagnent du temps - l'utilisation de la technologie pour améliorer l'efficacité est l'une des priorités des cabinets d'avocats".
 {{< /testimonial >}}
-
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
@@ -198,8 +264,8 @@ la SEQ. Vous n'avez besoin que d'un document de voyage valide
 Le centre de données Skribble est situé en Suisse et est certifié ISO 270001 (hébergement bancaire standard).
 {{% /collapsible %}}
 
-{{% collapsible 11 "Et si je n'ai pas encore été identifié personnellement?" %}}
-L'identification en contact personnel n'est requise que pour signer avec la norme la plus élevée de signature électronique (SEQ). Si vous n'avez pas encore été identifié personnellement, vous signez avec la deuxième norme la plus élevée (SEA).
+{{% collapsible 11 "Et si je n'ai pas encore été identifié ?" %}}
+L'identification personnelle n'est requise que pour signer avec la norme de signature électronique (QES) la plus élevée. Si vous n'avez pas encore été identifié en contact personnel, vous signez soit avec une signature électronique simple (SES), soit avec une signature électronique avancée (AES).
 {{% /collapsible %}}
 
 {{% collapsible 12 "Ai-je besoin de matérield'un hardware supplémentaire pour signer avec Skribble?" %}}
@@ -210,9 +276,6 @@ Non. Vous n'avez ni besoin d'une clé USB ni d'un lecteur de carte pour signer a
 Pas uniquement. Grâce à la signature visuelle, on peut voir sur le contrat imprimé qu'il a été signé numériquement. Cependant, comme les certificats numériques sont perdus lors de l'impression, la traçabilité de la signature et donc le caractère concluant correspondant ne sont pas donnés. Un contrat signé avec une signature électronique qualifiée doit donc toujours être conservé sous forme électronique.
 {{% /collapsible %}}
 
-{{% collapsible 14 "Quelle est la durée de validité de la signature Skribble? " %}}
-La SEQ est légalement valide pour une durée illimitée.
-{{% /collapsible %}}
 {{< /content >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)

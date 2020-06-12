@@ -1,6 +1,6 @@
 ---
-title: Skribble schafft Vertrauen in der digitalen Welt
-description: Mit Skribble werden Signaturprozesse 100% digital abgewickelt, basierend auf der qualifizierten elektronischen Signatur “QES” - die e-Unterschrift, die vor Schweizer und EU Gesetz der handschriftlichen Unterschrift gleichgestellt ist.
+title: Skribble für Medien
+description: Hier finden Sie alles was Sie brauchen, um über Skribble zu schreiben. Die TrustTech-Firma Skribble, gegründet im März 2018, ist ein Schweizer Anbieter von elektronischen Signaturen mit Büros in Zürich und Karlsruhe.
 draft: false
 slug: medien
 # opengraph image (for facebook and twitter)
@@ -11,7 +11,7 @@ og_image: og/og-skribble-mission.jpg
 {{< content text=center top=16 bottom=4 width=narrow >}}
 {{% markdown %}}
 # Skribble für Medien
-Hier findest du alles was du brauchst, um über Skribble zu schreiben.
+Hier finden Sie alles was Sie brauchen, um über Skribble zu schreiben.
 {{% /markdown %}}
 {{< /content >}}
 
@@ -19,7 +19,7 @@ Hier findest du alles was du brauchst, um über Skribble zu schreiben.
 
 {{< content top=12 bottom=8 width=narrow >}}
 {{% markdown %}}
-Skribble, gegründet im März 2018, ist ein Schweizer Anbieter von elektronischen Signaturen mit Büros in Zürich (CH) und Karlsruhe (DE). Die TrustTech-Firma ermöglicht es, elektronische Dokumente einfach rechtsgültig zu signieren. Die Grundlage bilden gesetzlich geregelte Standards, unter anderem die qualifizierte elektronische Signatur (QES) – die einzige Form der elektronischen Signatur, die der handschriftlichen Unterschrift vor dem Gesetz gleichgestellt ist. Die staatlich anerkannte Zertifizierungstechnologie für die QES liefert Swisscom. Zu den bestehenden Kunden gehört unter Anderem der Kanton Freiburg. Skribble zählt 15 Mitarbeitende.
+Die TrustTech-Firma Skribble, gegründet im März 2018, ist ein Schweizer Anbieter von elektronischen Signaturen mit Büros in Zürich (CH) und Karlsruhe (DE). Als One-Stop-Shop für elektronisches Signieren liefert Skribble für jede Art von Vertrag die rechtlich passende elektronische Signatur. Die Grundlage bilden gesetzlich geregelte Standards, unter anderem die qualifizierte elektronische Signatur (QES) – die einzige Form der elektronischen Signatur, die der handschriftlichen Unterschrift vor dem Gesetz gleichgestellt ist. Die staatlich anerkannte Zertifizierungstechnologie für die QES liefert Swisscom. Skribble zählt 19 Mitarbeitende.
 {{% /markdown %}}
 {{< /content >}}
 
@@ -53,6 +53,13 @@ Die wichtigsten Skribble Branding Assets sind gleich hier griffbereit:
 {{< /cta >}}
 
 {{< table top=12 width=narrow title="Medienmitteilungen" >}}
+<tr>
+  <td>28.05.2020</td>
+  <td><strong>Zweite Finanzierungsrunde abgeschlossen</strong></td>
+  <td>
+    <a href="downloads/20200528_Medienmitteilung_Abschluss_Finanzierungsrunde_Skribble.pdf" target="_blank">Download</a>
+  </td>
+</tr>
 <tr>
   <td>19.09.2019</td>
   <td><strong>EXPERTsuisse kooperiert mit Skribble</strong></td>

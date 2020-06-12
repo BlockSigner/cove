@@ -1,6 +1,6 @@
 ---
-title: Welches Signatur brauche ich? Auf Skribble kannst du wählen
-description: Wie viel Beweiskraft brauchst du? Das Gesetz unterscheidet zwischen der qualifizierten E-Signatur (QES) und der fortgeschrittenen E-Signatur (FES).
+title: Welches Signatur brauche ich? Auf Skribble können Sie wählen
+description: Wie viel Beweiskraft brauchen Sie? Das Gesetz unterscheidet zwischen der qualifizierten E-Signatur (QES) und der fortgeschrittenen E-Signatur (FES).
 draft: false
 slug: signaturstandards
 
@@ -8,13 +8,123 @@ slug: signaturstandards
 
 {{< content text=center top=16 width=narrow >}}
 {{% markdown %}}
-# Wie viel Beweiskraft braucht meine E-Signatur?
-Das Gesetz unterscheidet zwischen der qualifizierten E-Signatur (QES) und
-der fortgeschrittenen E-Signatur (FES). Die beiden Standards variieren punkto Einsatzgebiet und Beweiskraft. Auf Skribble kannst du wählen.
+Wie viel Beweiskraft 
+braucht meine E-Signatur?
+=========================
+Das Gesetz unterscheidet zwischen der qualifizierten E-Signatur (QES),
+der fortgeschrittenen E-Signatur (FES) und der einfachen E-Signatur (EES).
+Die drei Standards variieren punkto Einsatzgebiet und Beweiskraft.
 {{% /markdown %}}
 {{< /content >}}
 
-{{< picture beweiskraft 664 "Beweiskraft der FES und der QES" >}}
+{{< table top=12 bottom=12 lock-for-mobile="true" class="table--qualities" layout=fixed >}}
+<thead>
+  <tr>
+    <th scope="col"></th>
+    <th scope="col">EES</th>
+    <th scope="col">FES</th>
+    <th scope="col">QES</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <th scope="row">
+      <div class="table__row-title">Beweiskraft</div>
+    </th>
+    <td class="signature-quality-bar">
+      {{< signature-quality-bar
+        class=ses
+        title=Basic
+        top-left=EES
+        top-right="Einfache elektronische Signatur"
+      >}}
+    </td>
+    <td class="signature-quality-bar">
+      {{< signature-quality-bar
+        class=aes
+        title=Hoch
+        top-left=FES
+        top-right="Fortgeschrittene elektronische Signatur"
+        bottom-right=""
+      >}}
+    </td>
+    <td class="signature-quality-bar">
+      {{< signature-quality-bar
+        class=qes
+        title=Maximal
+        top-left=QES
+        top-right="Qualifizierte elektronische Signatur"
+        bottom-right="Der handschriftlichen Unterschrift gemäss Schweizer und EU-Recht gleichgestellt"
+      >}}
+    </td>
+  </tr>
+  <tr>
+    <th scope="row">
+      <div class="table__row-title">Anwendung</div>
+    </th>
+    <td>
+{{% markdown %}}
+
+**Dokumente**
+interner oder informeller Natur mit geringem Haftungsrisiko.
+&nbsp;
+
+**Beispiele:**
+- Lieferanten-Offerten
+- Bestellungen/Aufträge
+- Organisationsinterne Dokumente
+- Bekanntmachungen
+
+{{% /markdown %}}
+    </td>
+    <td>
+{{% markdown %}}
+**Dokumente**
+ohne gesetzliche Formvorschrift mit kalkulierbarem Haftungsrisiko.
+
+**Beispiele:**
+- Mietvertrag 
+- Kaufvertrag
+- Einfacher Arbeitsvertrag
+- Kontoeröffnung
+
+{{% /markdown %}}
+    </td>
+    <td>
+{{% markdown %}}
+
+**Dokumente**
+mit gesetzlicher Formvorschrift oder hohem Haftungsrisiko. 
+&nbsp;
+
+**Beispiele:**
+- Konsumkreditvertrag
+- Leiharbeitsverträge Kader-Arbeitsverträge
+- Revisionsberichte
+- Behördendokumente
+{{% /markdown %}}
+    </td>
+  </tr>
+
+</tbody>
+{{< /table >}}
+
+[//]: # (--------------------------------------------------------------------------------------------------------------)
+
+{{< cta
+  label="Download Factsheet"
+  href="https://cdn2.hubspot.net/hubfs/5051692/Factstheets/Barometer/Deutsch/skribble-beweiskraftbarometer.pdf"
+  outlined="true"
+  target="_blank"
+>}}
+
+{{% markdown %}}
+**Weitere Informationen zu** 
+Rechtssicherheit, Identitätsprüfung und Authentisierungsverfahren.
+{{% /markdown %}}
+{{< /cta >}}
+
+[//]: # (--------------------------------------------------------------------------------------------------------------)
 
 {{< content text=center top=12 width=narrow >}}
 {{% markdown %}}
@@ -28,9 +138,9 @@ Die rundum-sorglos-Signatur für höchste Ansprüche
 {{< content top=6 bottom=6 width=narrow >}}
 {{% markdown %}}
 **Die qualifizierte elektronische Signatur (QES) ist der handschriftlichen Signatur rechtlich gleichgestellt.**
-Du setzt die QES ein, um die Beweiskraft deiner Verträge zu maximieren oder wenn das Gesetz die Schriftlichkeit verlangt.
+Sie setzen die QES ein, um die Beweiskraft Ihrer Verträge zu maximieren oder wenn das Gesetz die Schriftlichkeit verlangt.
 Letzteres trifft z.B. bei Kredit- oder Arbeitsverträgen mit Konkurrenzklausel zu.
-Für das Signieren mit QES auf Skribble wird eine vorgängige Identitätsprüfung im persönlichen Kontakt oder eine E-ID vorausgesetzt.
+Das Signieren mit QES auf Skribble setzt eine vorgängige Identitätsprüfung im persönlichen Kontakt oder per Video oder eine bestehende E-ID voraus.
 {{% /markdown %}}
 {{< /content >}}
 
@@ -54,7 +164,7 @@ die elektronische Signatur."
 
 {{% markdown %}}
 **Identitätsprüfung**
-So schaltest du die QES auf Skribble frei.
+So schalten Sie die QES auf Skribble frei.
 {{% /markdown %}}
 {{< /cta >}}
 
@@ -68,7 +178,7 @@ So schaltest du die QES auf Skribble frei.
 
 {{% markdown %}}
 **QES validieren**
-Prüfe, ob ein Dokument mit QES signiert wurde.
+Prüfen Sie, ob ein Dokument mit QES signiert wurde.
 {{% /markdown %}}
 {{< /cta >}}
 {{< /cta-group >}}
@@ -88,13 +198,33 @@ Sofort einsatzbereit dank geringeren Auflagen
 {{< content top=6 bottom=6 width=narrow >}}
 {{% markdown %}}
 **Die fortgeschrittene elektronische Signatur (FES) ist rechtsgültig bei Verträgen, bei denen das Gesetz keine spezielle Form vorschreibt.**
-Das trifft für die meisten Vertragsarten zu, so zum Beispiel bei Miet-, Kauf- oder Hypothekarverträgen. Jeder, der eine Schweizer Mobiltelefonnummer hat, kann auf Skribble sofort mit dem Signieren mit FES loslegen.
+Das trifft für die meisten Vertragsarten zu, so zum Beispiel bei Miet-, Kauf- oder Hypothekarverträgen. Jeder, der eine Schweizer Mobiltelefonnummer hat oder zu einer für FES für Business registrierten Firma gehört, kann sofort mit dem Signieren mit FES loslegen.
 {{% /markdown %}}
 {{< /content >}}
 
-{{< content text=center top=12 width=narrow >}}
+[//]: # (--------------------------------------------------------------------------------------------------------------)
+
+{{< content text=center top=24 width=narrow >}}
 {{% markdown %}}
-### QES vs. FES auf einen Blick
+## EES: Der digitale Handschlag
+Die Ein-Klick-Lösung für Alltagsdokumente
+{{% /markdown %}}
+{{< /content >}}
+
+{{< picture ses-visual 297 "Eine Frau sitz auf dem Stuhl vor ihrem Laptop." >}}
+
+{{< content top=6 bottom=6 width=narrow >}}
+{{% markdown %}}
+**Die einfache elektronische Signatur (EES) kommt zur Anwendung, wenn ein geringes Haftungsrisiko vorliegt.**
+Sie ist rechtsgültig bei Dokumenten, bei denen das Gesetz keine spezielle Form vorschreibt. Typische Anwendungsfälle sind Informationsschreiben, Bestellungen und organisationsinterne Dokumente. Jeder, der über eine E-Mail-Adresse verfügt, kann auf Skribble sofort mit dem Signieren mit EES loslegen.
+{{% /markdown %}}
+{{< /content >}}
+
+[//]: # (--------------------------------------------------------------------------------------------------------------)
+
+{{< content text=center top=24 width=narrow >}}
+{{% markdown %}}
+### QES vs. FES vs. EES auf einen Blick
 {{% /markdown %}}
 {{< /content >}}
 {{< table-dense id="qes-fes-table" >}}
@@ -103,7 +233,7 @@ Das trifft für die meisten Vertragsarten zu, so zum Beispiel bei Miet-, Kauf- o
 <tr>
 <th>Standard</th>
 <th>Beweiskraft</th>
-<th>Voraussetzungen</th>
+<th>Identifizierungs-Anforderungen</th>
 <th>Anwendungsbereich</th>
 <th>Anwendungsbeispiele</th>
 </tr>
@@ -112,18 +242,26 @@ Das trifft für die meisten Vertragsarten zu, so zum Beispiel bei Miet-, Kauf- o
 <tbody>
 <tr>
 <td><div class="icon-qes">QES</div></td>
-<td><strong>Sehr Hoch</strong></td>
-<td><ul><li>Persönliche Identifikation oder E-ID</li><li>Mobiltelefonnummer</li></ul></td>
-<td><ul><li>Verträge mit Schriftlichkeitserfordernis</li><li>Maximierung der Beweiskraft formfreier Verträge (Risikominimierung)</li></ul></td>
-<td><ul><li>Kreditvertrag</li><li>Arbeitsvertrag mit Konkurrenzklausel</li><li>heikler formfreier Vertrag</li></ul></td>
+<td><strong>Maximal</strong></td>
+<td><ul><li>Persönliche Identifikation/ verifizierte E-ID und</li><li>Mobiltelefonnummer</li></ul></td>
+<td><ul><li>Dokumente mit gesetzlicher Formvorschrift (Schriftlichkeitserfordernis)</li><li>Maximierung der Beweiskraft formfreier Verträge (Risikominimierung)</li></ul></td>
+<td><ul><li>Konsumkreditvertrag</li><li>Leiharbeitsverträge Kader-Arbeitsverträge</li><li>Revisionsberichte</li><li>Behördendokumente</li></ul></td>
 </tr>
 
 <tr>
 <td><div class="icon-fes">FES</div></td>
 <td><strong>Hoch</strong></td>
-<td><ul><li>Schweizer Mobiltelefonnummer</li></ul></td>
-<td><ul><li>Formfreie Verträge</li></ul></td>
+<td><ul><li>Schweizer Mobiltelefonnummer</li><li>Firmen-E-Mail-Adresse</li></ul></td>
+<td><ul><li>Verträge ohne Formvorschrift</li></ul></td>
 <td><ul><li>Mietverträge</li><li>Kaufverträge</li><li>Hypotheken</li><li>einfacher Arbeitsvertrag</li></ul></td>
+</tr>
+
+<tr>
+<td><div class="icon-ses">EES</div></td>
+<td><strong>Basic</strong></td>
+<td><ul><li>E-Mail Adresse</li></ul></td>
+<td><ul><li>Informelle Dokumente</li></ul></td>
+<td><ul><li>Informationsschreiben</li><li>Bekanntmachungen</li><li>Organisationsinterne Dokumente</li></ul></td>
 </tr>
 </tbody>
 
@@ -134,14 +272,14 @@ Das trifft für die meisten Vertragsarten zu, so zum Beispiel bei Miet-, Kauf- o
 {{< cta
   label="Skribble kontaktieren"
   href="mailto:info@skribble.com"
-  outlined=""
+  outlined="true"
 >}}
 
 {{< picture "contact" 92 "Hast du Fragen? Wir helfen dir gerne weiter." >}}
 
 {{% markdown %}}
-**Hast du fragen?
-Wir helfen dir gerne weiter.**
+**Haben Sie Fragen?
+Wir helfen Ihnen gerne weiter.**
 {{% /markdown %}}
 {{< /cta >}}
 

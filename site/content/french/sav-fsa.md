@@ -1,6 +1,6 @@
 ---
 title: Skribble – Signature électronique légalement valide
-description: Traiter les processus de signature numériquement - juridiquement valides selon le droit suisse et européen.
+description: Les membres de la SAV-FSA utilisent Skribble à un prix préférentiel. Traiter les processus de signature numériquement - juridiquement valides selon le droit suisse et européen.
 draft: false
 slug: sav-fsa
 type: blank

@@ -1,6 +1,6 @@
 ---
-title: Skribble – Legally binding electronic signatures with Skribble
-description: Easily handle digital signature processes – legally binding in accordance with Swiss & EU law.
+title: Skribble business features
+description: Skribble Business customers sign organised as a group - with centralised member administration, joint billing and embeds itself into your existing infrastructure.
 
 draft: false
 slug: business-features
@@ -20,11 +20,7 @@ Skribble Business customers sign organised as a group - with
 
 {{< picture skribble-biz-ui-en 1020 "Skribble Business-Account - benutzeroberfläche" >}}
 
-{{< features-container >}}
-
-  {{< features-item src="features-biz/abrechnung.svg"
-    headline="Select price model per member"
-    description="Activate the flat rate model for frequent signers and reduce your costs.">}}
+{{< features-container width=wide >}}
 
   {{< features-item src="features-biz/preismodell.svg"
     headline="Joint billing"
@@ -32,7 +28,7 @@ Skribble Business customers sign organised as a group - with
 
   {{< features-item src="features-biz/mitgliederverwaltung.svg"
     headline="Centralised member administration"
-    description="Add new members, adjust their pricing model and assign administration rights.">}}
+    description="Add new members, and assign administration rights.">}}
 
   {{< features-item src="features-biz/domain-whitelist.svg"
     headline="Member auto registration"
@@ -47,14 +43,28 @@ Skribble Business customers sign organised as a group - with
     description="View the current and all past invoices at any time.">}}
 {{< /features-container >}}
 
-{{< content text=center top=24 bottom=12 width=narrow >}}
+{{< content text=center top=4 bottom=12 width=narrow >}}
+{{% markdown %}}
+{{% /markdown %}}
+{{< /content >}}
+
+[//]: # (--------------------------------------------------------------------------------------------------------------)
+
+{{< testimonial "testimonial/fr-logo-99w.svg" "Stéphane Schwab, Head of E-Government, State of Fribourg" >}}
+"Thanks to Skribble, we can digitize administrative processes from A to Z.
+This makes everyday life easier for
+us and our customers." {{< /testimonial >}}
+
+[//]: # (--------------------------------------------------------------------------------------------------------------)
+
+{{< content text=center top=12 bottom=12 width=narrow >}}
 {{% markdown %}}
 ## Skribble Business embeds itself into your existing infrastructure
 The onboarding of new signers is intuitive and fast.
 {{% /markdown %}}
 {{< /content >}}
 
-{{< features-container >}}
+{{< features-container width=wide >}}
 
   {{< features-item src="features-biz/api-integration.svg"
     headline="API integration"
@@ -67,15 +77,18 @@ The onboarding of new signers is intuitive and fast.
   {{< features-item src="features-biz/direct-sign.svg"
     headline="Direct sign"
     description="External people do not need to have a Skribble account to sign your documents.">}}
+    
+  {{< features-item src="features-biz/company-branding.svg"
+    headline="Company Branding"
+    description="Personalise the signing platform by replacing Skribble's logo with your company logo.">}}
 
 {{< /features-container >}}
 
-[//]: # (--------------------------------------------------------------------------------------------------------------)
+{{< content text=center bottom=12 width=narrow >}}
+{{% markdown %}}
+{{% /markdown %}}
+{{< /content >}}
 
-{{< testimonial "testimonial/fr-logo-99w.svg" "Stéphane Schwab, Head of E-Government, State of Fribourg" >}}
-"Thanks to Skribble, we can digitize administrative processes from A to Z.
-This makes everyday life easier for
-us and our customers." {{< /testimonial >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
@@ -89,23 +102,45 @@ in the shortest possible time. Choose the onboarding process that fits your requ
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< side-by-side top=12 bottom=12 img=onboarding-qes-en img-width=380 img-alt="A large contract (QES) with a court" >}}
+{{< side-by-side top=12 bottom=12 img-position=right img=onboarding-aes-en img-width=460 img-alt="A large contract (FES) in front of a house" >}}
+{{% markdown %}}
+## Onboarding for Advanced electronic signature (AES)
+Organisation-wide implementation with a few clicks.
+Suitable for contracts without formal requirements.
+{{% /markdown %}}
+<br>
+{{< button
+  "Learn more"
+  "/identification/aes-for-business/"
+  ""
+  "outline">}}
+{{< /side-by-side >}}
+
+[//]: # (--------------------------------------------------------------------------------------------------------------)
+
+{{< side-by-side top=4 bottom=12 img=onboarding-qes-en img-width=380 img-alt="A large contract (QES) with a court" >}}
 {{% markdown %}}
 ### On-Boarding for the qualified electronic signature (QES)
 Identification services for highest demands on the legal weight of the signature. Suitable for contracts with formal requirements.
 {{% /markdown %}}
 <br>
 {{< button
-  "Download Factsheet"
-  "https://cdn2.hubspot.net/hubfs/5051692/Factstheets/Identification/English/Skribble_Overview_Identification_EN.pdf"
-  "_blank"
+  "Learn more"
+  "/identification/"
+  ""
   "outline"
 >}}
 {{< /side-by-side >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< content text=center top=8 bottom=8 width=narrow >}}
+{{< testimonial "testimonial/swisscanto-300w.svg" "Swisscanto Freizügigkeits-Stiftungen" >}}
+"We are proud that our customers can open a vested benefits account fully digitally, thanks to Skribble. With its advanced electronic signature, Skribble provides a secure solution with high legal weight". {{< /testimonial >}}
+
+[//]: # (--------------------------------------------------------------------------------------------------------------)
+
+
+{{< content text=center top=16 bottom=8 width=narrow >}}
 {{% markdown %}}
 ## Ideal cost-benefit ratio
 Choose the right pricing model for your organization.

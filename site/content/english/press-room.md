@@ -1,6 +1,6 @@
 ---
 title: Skribble builds trust in the digital world
-description: With Skribble signature processes are 100% digital, based on the qualified electronic signature “QES” - the e-signature, which is equivalent to your hand-written signature according to Swiss and EU law.
+description: Skribble is a one-stop shop for electronic signatures that makes signature processes 100% digital. Skribble provides the legally suitable electronic signature for every type of contract.
 draft: false
 slug: pressroom
 # opengraph image (for facebook and twitter)
@@ -19,7 +19,7 @@ Here you will find everything you need to write about Skribble.
 
 {{< content top=12 bottom=8 width=narrow >}}
 {{% markdown %}}
-Skribble, founded in March 2018, is a Swiss provider of electronic signatures with offices in Zurich (CH) and Karlsruhe (DE). The TrustTech company enables electronic documents to be signed easily and with legal validity. Built on legally regulated standards, including the qualified electronic signature (QES) - the only form of electronic signature that is equivalent to a handwritten signature before the law, Skribble partners with Swisscom to supply the state-approved certification technology for QES. Existing customers include the Canton of Fribourg. Skribble has 15 employees.
+The TrustTech company Skribble, founded in March 2018, is a Swiss provider of electronic signatures with offices in Zurich (CH) and Karlsruhe (DE). As a one-stop shop for electronic signing, Skribble provides the legally suitable electronic signature for every type of contract. The basis is formed by legally regulated standards, including the qualified electronic signature (QES) – the only form of electronic signature that is legally equivalent to the handwritten signature. The state-approved certification technology for QES is provided by Swisscom. Skribble has 19 employees.
 {{% /markdown %}}
 {{< /content >}}
 
@@ -53,6 +53,13 @@ The Most Important Skribble Branding Assets are right here at hand:
 {{< /cta >}}
 
 {{< table top=12 width=narrow title="Media releases" >}}
+<tr>
+  <td>28.05.2020</td>
+  <td><strong>Second financing round closed (in German)</strong></td>
+  <td>
+    <a href="downloads/20200528_Medienmitteilung_Abschluss_Finanzierungsrunde_Skribble.pdf" target="_blank">Download</a>
+  </td>
+</tr>
 <tr>
   <td>19.09.2019</td>
   <td><strong>EXPERTsuisse cooperates with Skribble (in German)</strong></td>

@@ -1,10 +1,11 @@
 ---
 title: Votre carrière au Skribble
-description: Avec Skribble, les processus de signature sont gérés à 100% numériquement, sur la base de la signature électronique qualifiée "SEQ" – la signature électronique qui équivaut à une signature manuscrite, selon la loi suisse et européenne.
+description: Collaborer et progresser avec des personnes motivées et inspirantes. Nous te permettons de surmonter des nouveaux challenges et de développer Skribble et toi-même.
+
 draft: false
 slug: carriere
 # opengraph image (for facebook and twitter)
-og_image: og/og-career.jpg
+og_image: og/og-skribble-career.jpg
 
 ---
 
@@ -19,18 +20,45 @@ et de développer Skribble et toi-même.
 
 {{< picture career 640 "3 candidats avec leurs listes de contrôle" >}}
 
+{{< cta-group >}}
 {{< cta
   title="Nous recherchons"
   label="Plus d'info"
-  href="/fr/carriere/465/sales-manager-de"
+  href="/fr/carriere/395/sales-development-representative/"
   target=""
   outlined="true"
 >}}
 {{% markdown %}}
-**Sales Manager, Allemagne (100%)**
-(Annonce en Allemand)
+**Sales Development Representative (60-100%), Zurich**
+(Annonce en Anglais)
 {{% /markdown %}}
 {{< /cta >}}
+
+{{< cta
+  label="Plus d'info"
+  href="/fr/carriere/388/account-executive/"
+  target=""
+  outlined="true"
+>}}
+{{% markdown %}}
+**Account Executive Allemagne (60-100%), Zurich**
+(Annonce en Anglais)
+{{% /markdown %}}
+{{< /cta >}}
+
+{{< cta
+  label="Plus d'info"
+  href="/fr/carriere/216/success-manager/"
+  target=""
+  outlined="true"
+>}}
+{{% markdown %}}
+**Success Manager (60-100%), Zurich**
+(Annonce en Anglais)
+{{% /markdown %}}
+{{< /cta >}}
+
+{{< /cta-group >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 

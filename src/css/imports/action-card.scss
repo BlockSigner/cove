@@ -73,8 +73,8 @@
                 width: 55%;
 
                 .picture {
-                    padding: 0px 16px 0px 0px;
-                    justify-content: right;
+                    padding: 0px;
+                    justify-content: flex-end;
                 }
 
                 @media only screen and (max-width: 720px) {
@@ -133,6 +133,13 @@
         .comparison-container {
             display: flex;
             flex-flow: row wrap;
+            width: 100%;
+        }
+
+        .comparison-single {
+            width: 100%;
+            border-top: 1px solid #DADEE6;
+            padding: 12px 48px 12px 24px;
         }
 
         .comparison-first {

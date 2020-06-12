@@ -21,9 +21,17 @@ map:
           Fraumünsterstrasse 16
           CH-8001 Zurich
         email: info@skribble.com
+        phone: 
+          title: Phone
+          text: "+41 44 505 16 64"
         opening_hours:
           title: Opening hours
-          description: From 9 to 17
+          text: From 9 to 17
+        contact_form:
+          title: Contact 
+          link:
+            label: Contact by form
+            href: https://help.skribble.com/kb-tickets/new
     - title: Karlsruhe (Ettlingen)
       picture:
         name: map-karlsruhe
@@ -37,7 +45,7 @@ map:
         email: info@skribble.com
         opening_hours:
           title: Opening hours
-          description: From 9 to 17
+          text: From 9 to 17
 ---
 
 {{< outro >}}
