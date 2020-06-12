@@ -34,22 +34,22 @@ Zurich, 60-100%, permanent
 
 {{< content top=12 width=narrow >}}
 {{% markdown %}}
-## Be authentic, honest and deliver on your promises the rest will take care of itself. 
+### Be authentic, honest and deliver on your promises the rest will take care of itself. 
 {{% /markdown %}}
 {{< /content >}}
 
 {{< content top=12 width=narrow >}}
 {{% markdown %}}
-## Our Mission
+### Our Mission
 Skribble aims to simplify the lives of people and create trust in the digital world. Worldwide. Our mission is to contribute a key element that is intuitive in usage and simple to implement: digital signatures. We advise and support organizations in the implementation of digital signatures, so that we all are better off by trusting more, wasting less time, and safeguarding environmental resources.
 
-## The Team
+### The Team
 Our team is highly motivated, positive and collaborates closely together. We are growing fast and the next step is to bring Skribble to Europe. We are nice, fun-loving people, working on a non-commission basis and strive to make the world a better place: one signature at a time. We always have each other’s backs - like a family. Off work, we can be found riding bikes, playing video games or chilling with family and friends.
 
-## Your Contribution
+### Your Contribution
 You help us grow Skribble in Germany by consulting enterprises on digital signing and business process digitisation. You are the face and brand of Skribble in the market: You listen to customers, build lasting relationships and suggest solutions tailored to their needs. You focus on large organisations and travel to meet them in person.
 
-## Your Background
+### Your Background
 - 2+ years experience in consulting people or organisations - ideally as sales development representative (inbound/outbound), business development representative, account manager or customer success manager (B2B SaaS would be perfect, but we’re also interested in other profiles if you have been responsible for a complex product or service in an innovative environment)
 - Friends describe you as honest, communicative, empathetic and pragmatic
 - You are flexible and enjoy working in a dynamic environment
@@ -57,7 +57,7 @@ You help us grow Skribble in Germany by consulting enterprises on digital signin
 - You’re a team player, motivated by purpose and delivering results
 - You can imagine to travel between Switzerland and Germany about 30-50% of your work-time
 
-## Our Offering
+### Our Offering
 - Opportunity to be part of a fast growing tech company with an aspiring and experienced team 
 - A job with a purpose: save human and environmental resources by enabling digital signatures #worksmarter
 - Company culture of trust, self-responsibility, and transparency
@@ -69,7 +69,7 @@ You help us grow Skribble in Germany by consulting enterprises on digital signin
 
 {{< content text=center top=12 >}}
 {{% markdown %}}
-# Apply now!
+## Apply now!
 We look forward to receiving your application and your CV. 
 {{% /markdown %}}
 {{< /content >}}
