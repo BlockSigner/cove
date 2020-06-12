@@ -21,7 +21,7 @@ Die Verfahren unterscheiden sich je nach Anwendungsfall.
 
 {{< content text=center top=16 bottom=8 width=narrow >}}
 {{% markdown %}}
-# Verträge ohne Formvorschrift
+## Verträge ohne Formvorschrift
 Für formfreie Verträge wird typischerweise die fortgeschrittene elektronische Signatur (FES) eingesetzt. Bei der FES setzt das Gesetz voraus, dass die Identität der Signierenden im Nachhinein rekonstruiert werden kann.
 {{% /markdown %}}
 {{< /content >}}
@@ -105,7 +105,7 @@ Wann nutze ich QES, wann FES?
 
 {{< content text=center top=16 bottom=8 width=narrow >}}
 {{% markdown %}}
-# Verträge mit Formvorschrift
+## Verträge mit Formvorschrift
 Für Verträge mit Formvorschrift oder hohem Abspruch an Beweiskraft wird typischerweise die qualifizierte elektronische Signatur (QES) eingesetzt. Bei der QES setzt das Gesetz voraus, dass die Identität der Signierenden im Voraus im persönlichen Kontakt geprüft wird.
 {{% /markdown %}}
 {{< /content >}}
@@ -186,7 +186,7 @@ Lassen Sie sich beraten und finden Sie die passende Identifikations-Lösung für
 
 {{< content text=center top=16 bottom=4 width=narrow >}}
 {{% markdown %}}
-# Elektronische Identität (E-ID)
+## Elektronische Identität (E-ID)
 Personen, die sich mit einer geprüften E-ID bei Skribble anmelden, 
 schalten die QES automatisch frei.
 {{% /markdown %}}

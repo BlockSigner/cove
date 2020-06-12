@@ -108,7 +108,7 @@ When do I use QES, when AES?
 
 {{< content text=center top=16 bottom=8 width=narrow >}}
 {{% markdown %}}
-# Contracts requiring the written form
+## Contracts requiring the written form
 For contracts requiring the written form, the qualified electronic signature (QES) is typically used. With QES, the law requires that the identity of the signatory be verified in advance in personal contact.
 {{% /markdown %}}
 {{< /content >}}
@@ -193,7 +193,7 @@ Let us advise you and find the right identification solution for your company.
 {{< content text=center top=12 bottom=4 width=narrow >}}
 
 {{% markdown %}}
-# Electronic identity (e-ID)
+## Electronic identity (e-ID)
 People who log on to Skribble with a verified e-ID automatically activate QES.
 {{% /markdown %}}
 
@@ -232,7 +232,7 @@ A growing number of people in Europe have a validated electronic identity (e-ID)
 
 {{< content text=center top=12 bottom=8 width=narrow >}}
 {{% markdown %}}
-# All clear?
+## All clear?
 {{% /markdown %}}
 {{< /content >}}
 

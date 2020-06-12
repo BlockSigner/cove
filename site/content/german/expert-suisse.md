@@ -119,7 +119,7 @@ Das ist der höchste E-Signatur-Standard. Für diesen verlangt das Gesetz eine I
 
 {{< outro >}}
 {{% markdown center %}}
-# Jetzt rechtsgültig elektronisch signieren
+## Jetzt rechtsgültig elektronisch signieren
 Erfahre mehr über das Angebot.
 {{% /markdown %}}
 

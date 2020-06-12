@@ -50,7 +50,7 @@ FINMA-compliant, ISO 27001 certified
 
 {{< content text=center top=12 bottom=12 width=narrow >}}
 {{% markdown %}}
-# Free signing with Skribble
+## Free signing with Skribble
 until the end of the year for EXPERTsuisse members. As of January 2020
 {{% /markdown %}}
 
@@ -67,7 +67,7 @@ Exclusively for EXPERTsuisse members:
 
 {{< side-by-side top=12 bottom=24 img=identification img-width=482 img-position=right img-alt="The identity of a woman standing in a mobile phone is verified by two persons" >}}
 {{% markdown %}}
-# Ready to sign in 5 minutes
+## Ready to sign in 5 minutes
 
 All you need is a mobile phone and a valid identification document (passport or identity card).
 
@@ -87,7 +87,7 @@ A firm may also elect to identify persons itself.
 
 {{< content text=center top=12 width=narrow >}}
 {{% markdown %}}
-# All clear?
+## All clear?
 {{% /markdown %}}
 {{< /content >}}
 

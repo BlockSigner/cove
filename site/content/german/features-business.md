@@ -91,7 +91,7 @@ Das Onboarding neuer Signierenden ist intuitiv und schnell.
 
 {{< content text=center top=8 bottom=4 width=narrow >}}
 {{% markdown %}}
-# Organisationsweite Einführung ist einfach und schnell
+## Organisationsweite Einführung ist einfach und schnell
 Befähigen Sie neue und bestehende Mitarbeitende in kürzester Zeit
 zum elektronischen Signieren. Wählen Sie den Onboarding-Prozess, der zu Ihrem Anspruch an Beweiskraft bzw. zum gewünschten Signatur-Standard passt.
 {{% /markdown %}}

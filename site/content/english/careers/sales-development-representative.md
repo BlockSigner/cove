@@ -86,7 +86,7 @@ to [answer your questions](https://help.skribble.com/kb-tickets/new).
 
 {{< outro >}}
 {{% markdown center %}}
-# Sign now, legally and electronically!
+## Sign now, legally and electronically!
 No credit card, entrance fee or commitment required.
 {{% /markdown %}}
 

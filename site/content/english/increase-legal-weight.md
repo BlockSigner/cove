@@ -125,7 +125,7 @@ Organisation-wide implementation in just a few days
 {{< content text=center top=16 bottom=8 width=narrow >}}
 {{% markdown %}}
 **Maximum legal weight** 
-# Qualified electronic signature (QES)
+## Qualified electronic signature (QES)
 Enable the QES by getting yourself identified online via video-call or
 by personal contact with the ID app by Swisscom.
 {{% /markdown %}}
@@ -168,7 +168,7 @@ We are happy to help you.**
 
 {{< outro >}}
 {{% markdown center %}}
-# Sign now, legally and electronically!
+## Sign now, legally and electronically!
 No credit card, entrance fee or commitment required.
 {{% /markdown %}}
 

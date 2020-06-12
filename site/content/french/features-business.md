@@ -58,7 +58,7 @@ Cela facilite notre vie quotidienne et celle de nos clients." {{< /testimonial >
 
 {{< content text=center top=12 bottom=12 width=narrow >}}
 {{% markdown %}}
-# Skribble Business s'intègre <br class="hide-for-mobile">dans votre infrastructure existante
+## Skribble Business s'intègre <br class="hide-for-mobile">dans votre infrastructure existante
 L'intégration des nouveaux signataires est intuitive et rapide.
 {{% /markdown %}}
 {{< /content >}}

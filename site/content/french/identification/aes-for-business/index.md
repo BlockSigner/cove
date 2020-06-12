@@ -42,7 +42,7 @@ Permettez à l'ensemble de votre personnel de signer avec la signature électron
 
 {{< content text=center top=16 bottom=4 width=narrow >}}
 {{% markdown %}}
-# Adresse e-mail professionnelle comme élément d'identification
+## Adresse e-mail professionnelle comme élément d'identification
 {{% /markdown %}}
 {{< /content >}}
 
@@ -58,7 +58,7 @@ Avec SEA for Business, le domaine de votre entreprise (par ex. votreentreprise.c
 
 {{< content text=center top=8 bottom=8 width=narrow >}}
 {{% markdown %}}
-# Inscription unique
+## Inscription unique
 {{% /markdown %}}
 {{< /content >}}
 
@@ -80,7 +80,7 @@ Si nous pouvons vérifier l'information, SEA pour Business sera activé et prêt
 
 {{< content text=center top=16 bottom=4 width=narrow >}}
 {{% markdown %}}
-# SEA: Norme de signature largement applicable
+## SEA: Norme de signature largement applicable
 {{% /markdown %}}
 {{< /content >}}
 
@@ -143,7 +143,7 @@ C’est le cas pour la plupart des types de contrats, tels que les contrats de l
 
 {{< content text=center top=16 bottom=8 width=narrow >}}
 {{% markdown %}}
-# Explication évidente pour les employés
+## Explication évidente pour les employés
 {{% /markdown %}}
 {{< /content >}}
 
@@ -176,7 +176,7 @@ La plate-forme de signature Skribble est conçue pour que les nouveaux signatair
 
 {{< content top=20 text=center width=narrow >}}
 {{% markdown %}}
-# SEA pour Business
+## SEA pour Business
 Les questions et réponses les plus importantes
 {{% /markdown %}}
 {{< /content >}}
@@ -222,7 +222,7 @@ Non. La SEA est également activée lorsqu'une personne s'inscrit avec un numér
 
 {{< outro >}}
 {{% markdown center %}}
-# Signer légalement <br class="hide-for-mobile">et numériquement maintenant!
+## Signer légalement <br class="hide-for-mobile">et numériquement maintenant!
 Aucune carte de crédit, aucun droit d'entrée
 ou engagement n'est requis.
 {{% /markdown %}}

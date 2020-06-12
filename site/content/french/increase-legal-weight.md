@@ -127,7 +127,7 @@ Implémentation à toute l'organisation en quelques jours
 {{< content text=center top=16 bottom=8 width=narrow >}}
 {{% markdown %}}
 **Force probante maximum** 
-# Signature électronique qualifiée (SEQ)
+## Signature électronique qualifiée (SEQ)
 Déverrouillez la norme de signature électronique 
 la plus élevée (SEQ) en vous identifiant en ligne par appel vidéo 
 ou par contact personnel avec l’ID-app de Swisscom.
@@ -169,7 +169,7 @@ Comment déverrouiller la SEQ sur Skribble
 
 {{< outro >}}
 {{% markdown center %}}
-# Signer légalement <br class="hide-for-mobile">et numériquement maintenant!
+## Signer légalement <br class="hide-for-mobile">et numériquement maintenant!
 Aucune carte de crédit, aucun droit d'entrée
 ou engagement n'est requis.
 {{% /markdown %}}

@@ -46,7 +46,7 @@ legally binding in accordance with Swiss & EU law.
 
 {{< content text=center top=12 width=narrow >}}
 {{% markdown %}}
-# Sign legally in three steps
+## Sign legally in three steps
 {{% /markdown %}}
 {{< /content >}}
 
@@ -63,7 +63,7 @@ Upload the PDF document directly via browser or use Skribble via API from your b
 
 {{< side-by-side bottom=12 mobile-top=6 mobile-bottom=6 img=image3 img-width=400 img-alt="A man invites two people to sign the document" >}}
 {{% markdown %}}
-## Invite people to sign
+### Invite people to sign
 Define the order in which people should sign and invite them by e-mail.
 {{% /markdown %}}
 {{< /side-by-side >}}
@@ -72,7 +72,7 @@ Define the order in which people should sign and invite them by e-mail.
 
 {{< side-by-side top=12 bottom=24 mobile-top=6 mobile-bottom=12 img=image4 img-position=right img-width=391 img-alt="Three people legally sign a document online" >}}
 {{% markdown %}}
-## Sign with legal validity
+### Sign with legal validity
 Sign at the push of a button, independent of time and place, legally valid according to Swiss and EU law.
 {{% /markdown %}}
 {{< /side-by-side >}}
@@ -110,7 +110,7 @@ us and our customers." {{< /testimonial >}}
 
 {{< content top=20 text=center width=narrow >}}
 {{% markdown %}}
-# Skribble complies with legal requirements
+## Skribble complies with legal requirements
 With Skribble you sign legally and securely according
 to the following requirements:
 {{% /markdown %}}
@@ -134,7 +134,7 @@ Skribble and its signing partner Swisscom commit to manage data in accordance wi
 
 {{< content top=24 text=center width=narrow >}}
 {{% markdown %}}
-# Always sign with the optimal standard
+## Always sign with the optimal standard
 The law distinguishes between three signature standards. 
 They vary in terms of area of application and legal weight. 
 Skribble is your one-stop-shop for all standards.
@@ -285,7 +285,7 @@ Enable the advanced electronic signature (AES) for your entire staff within just
 
 {{< outro >}}
 {{% markdown center %}}
-# Sign now, legally and electronically!
+## Sign now, legally and electronically!
 No credit card, entrance fee or commitment required.
 {{% /markdown %}}
 

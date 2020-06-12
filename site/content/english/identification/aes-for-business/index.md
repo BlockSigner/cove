@@ -43,7 +43,7 @@ implementation with a few clicks**
 
 {{< content text=center top=16 bottom=4 width=narrow >}}
 {{% markdown %}}
-# Company e-mail address as identification element
+## Company e-mail address as identification element
 {{% /markdown %}}
 {{< /content >}}
 
@@ -62,7 +62,7 @@ of your Business account can sign with AES without any further action.
 
 {{< content text=center top=16 bottom=8 width=narrow >}}
 {{% markdown %}}
-# One-time registration
+## One-time registration
 {{% /markdown %}}
 {{< /content >}}
 
@@ -83,7 +83,7 @@ If we can verify the information, AES for Business will be activated and ready f
 
 {{< content text=center top=16 bottom=4 width=narrow >}}
 {{% markdown %}}
-# AES: Widely applicable signature standard
+## AES: Widely applicable signature standard
 {{% /markdown %}}
 {{< /content >}}
 
@@ -142,7 +142,7 @@ The law distinguishes between qualified electronic signatures (QES) and advanced
 
 {{< content text=center top=16 bottom=8 width=narrow >}}
 {{% markdown %}}
-# Self-explanatory for employees
+## Self-explanatory for employees
 {{% /markdown %}}
 {{< /content >}}
 
@@ -175,7 +175,7 @@ Skribble's signing platform is designed so that new employees can get started wi
 
 {{< content top=20 text=center width=narrow >}}
 {{% markdown %}}
-# AES for Business
+## AES for Business
 The most important questions & answers
 {{% /markdown %}}
 {{< /content >}}
@@ -221,7 +221,7 @@ No. AES can also be activated using a Swiss mobile phone number. This second sol
 
 {{< outro >}}
 {{% markdown center %}}
-# Sign now, legally and electronically!
+## Sign now, legally and electronically!
 No credit card, entrance fee or commitment required.
 {{% /markdown %}}
 

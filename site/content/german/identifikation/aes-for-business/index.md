@@ -43,7 +43,7 @@ Einführung mit wenigen Klicks**
 
 {{< content text=center top=16 bottom=4 width=narrow >}}
 {{% markdown %}}
-# Firmen-Mail-Adresse als Identifikationselement
+## Firmen-Mail-Adresse als Identifikationselement
 {{% /markdown %}}
 {{< /content >}}
 
@@ -59,7 +59,7 @@ Bei FES für Business schaltet Ihre Firmen-Domäne (z.B. ihrefirma.com) das Sign
 
 {{< content text=center top=16 bottom=8 width=narrow >}}
 {{% markdown %}}
-# Einmalige Registration
+## Einmalige Registration
 {{% /markdown %}}
 {{< /content >}}
 
@@ -81,7 +81,7 @@ Können wir die Angaben verifizieren, wird FES für Business innerhalb von 1 bis
 
 {{< content text=center top=16 bottom=4 width=narrow >}}
 {{% markdown %}}
-# FES: Breit einsetzbarer Signatur-Standard
+## FES: Breit einsetzbarer Signatur-Standard
 {{% /markdown %}}
 {{< /content >}}
 
@@ -142,7 +142,7 @@ Das Gesetz unterscheidet zwischen der qualifizierten E-Signatur (QES) und der fo
 
 {{< content text=center top=16 bottom=8 width=narrow >}}
 {{% markdown %}}
-# Selbsterklärend für Mitarbeitende
+## Selbsterklärend für Mitarbeitende
 {{% /markdown %}}
 {{< /content >}}
 
@@ -175,7 +175,7 @@ Skribbles Signatur-Plattform ist so konzipiert, dass neue Signierende ohne Erkl�
 
 {{< content top=20 text=center width=narrow >}}
 {{% markdown %}}
-# FES für Business
+## FES für Business
 Die wichtigsten Fragen und Antworten
 {{% /markdown %}}
 {{< /content >}}
@@ -219,7 +219,7 @@ Nein. Die FES wird auch freigeschaltet, wenn sich jemand mit einer Schweizer Mob
 
 {{< outro >}}
 {{% markdown center %}}
-# Jetzt rechtsgültig elektronisch signieren!
+## Jetzt rechtsgültig elektronisch signieren!
 Keine Kreditkarte, Eintrittsgebühr oder
 Verpflichtung erforderlich.
 {{% /markdown %}}
