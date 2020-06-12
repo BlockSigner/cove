@@ -13,12 +13,12 @@ description: Conditions d'utilisation meta description
 
 En tant qu'utilisateur du système Skribble, vous devez respecter les conditions d'utilisation suivantes :
 
-#### Objet et champ d'application
+### Objet et champ d'application
 1. Pour signer un document électroniquement de manière qualifiée, une authentification forte du signataire et une           signature créée par un service certifié, soit une autorité dite de certification, sont nécessaires. Skribble intégre       ces deux composants dans son service avec différents partenaires de confiance qui répondent aux exigences de SCSE et/      ou eIDAS, afin de créer des QES de la manière la plus simple possible.
 2. Ces conditions d'utilisation s'appliquent à votre utilisation de Skribble en tant qu'utilisateur système.                L'utilisateur système est celui qui ouvre un compte sous Skribble.
 3. Outre les présentes conditions d'utilisation, les conditions de protection des données et les conditions du              prestataire de services de certification s'appliquent.
 
-#### Règles générales de gestion du compte
+### Règles générales de gestion du compte
 1. Chaque utilisateur du système est tenu de traiter les informations et les données personnelles de manière confidentielle et de veiller à ce qu'elles soient protégées contre tout accès par des tiers. L'utilisateur du système s'engage à prendre les précautions nécessaires lors de l'utilisation d'appareils fixes et mobiles et lors de l'impression de documents.
 2. Les utilisateurs du système s'assurent que leurs informations de connexion sont gardées secrètes en tout temps afin d'empêcher les personnes non autorisées d'avoir accès à Skribble.
 3. Ni le client ni les utilisateurs du système ne peuvent prendre des mesures qui nuisent à la fonctionnalité de Skribble et à sa connexion aux utilisateurs, hôtes ou réseaux.
@@ -38,7 +38,7 @@ En tant qu'utilisateur du système Skribble, vous devez respecter les conditions
 
 {{< outro >}}
 {{% markdown center %}}
-## Signer légalement <br class="hide-for-mobile">et numériquement maintenant!
+# Signer légalement <br class="hide-for-mobile">et numériquement maintenant!
 Aucune carte de crédit, aucun droit d'entrée
 ou engagement n'est requis.
 {{% /markdown %}}

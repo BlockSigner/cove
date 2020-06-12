@@ -12,21 +12,21 @@ description: terms-of-use meta description
 
 These Terms of Use govern your use of the Skribble Cloud Solution (Skribble Service). These terms of use form a binding contract between you as a System User of the Skribble Service and Skribble AG, Fraumünsterstrasse 16, 8001 Zurich, Switzerland, respectively Skribble Deutschland GmbH, Pforzheimer Straße 128a, 76275 Ettlingen, Germany (Skribble).
 
-#### Subject matter and scope
+### Subject matter and scope
 1. You are using the Skribble Services because you have signed a Customer Contract with Skribble, or because you have been identified by a Skribble Customer as authorized to use the Skribble Service.
 2. In order to sign documents electronically in an advanced or qualified manner, an authentication of the signer and a signature created by a certified service, a so-called Certification Authority, is required. Skribble will integrate these two components into its service with various trusted partners who meet the requirements of ZertES and/or eIDAS in order to create qualified electronic signatures (QES) or advanced electronic signatures (AES) in the simplest possible way.
 3. These Terms of Use apply to the use of Skribble by you as a System User. The System User is who opens an account under the Skribble Service.
 4. In addition to these Terms of Use, the Privacy Policy of Skribble and the terms and conditions of the provider of certification services shall apply.
 
-#### Exclusion of liability
+### Exclusion of liability
 1. Skribble accepts no liability whatsoever towards you as the System User.
 2. Any liability of Skribble towards the Customer shall be governed by the Customer Contract with the Customer.
 3. Skribble is neither a provider of certification services nor a certification authority within the meaning of the Federal Electronic Signature Act (ZertES). Nor is Skribble a (qualified) trust service provider within the meaning of the Regulation of the European Parliament and of the Council on electronic identification and trust services for electronic transactions in the internal market (eIDAS No. 910/2014). Skribble therefore excludes any liability for damages caused mainly or exclusively in connection with the services of the certification service provider or the certification authority.
 
-#### License
+### License
 1. Subject to the terms of these Terms of Use, Skribble hereby grants you a personal, limited, non-exclusive, non-transferable, non-sublicensable license to use the Skribble Services.
 
-#### General rules for handling the account
+### General rules for handling the account
 1. Every System User undertakes to treat information and personal data confidentially and to ensure that they are protected from third party access. The System User undertakes to take appropriate precautions when using desktop and mobile devices and when using printouts.
 2. System Users shall ensure that their login information is kept secret at all times to prevent unauthorized persons from gaining access to the Skribble Service.
 3. Neither the Customer nor System Users may take measures that impair the functionality of the Skribble Service and its connection to users, servers or networks.
@@ -42,7 +42,7 @@ These Terms of Use govern your use of the Skribble Cloud Solution (Skribble Serv
 {{% /markdown %}}
 
 {{% markdown center %}}
-### ***
+## ***
 {{% /markdown %}}
 {{< /content >}}
 
