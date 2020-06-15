@@ -8,7 +8,7 @@ Deploy:
 # Table of Contents
 - [How to Use](#how-to-use)
 - [Update my.skribble status banner](#update-myskribble-status-banner)
-- [SEO Optimization (single H1 per page)](#SEO-Optimization-(single-H1-per-page))
+- [SEO Optimization (single H1 per page)](#seo-optimization-single-h1-per-page)
 - [Frontend Components](#frontend-components)
   - [The basics](#the-basics)
   - [Menu component](#menu-component)
@@ -121,14 +121,17 @@ Once the system is back to normal, empty the status.txt file to hide the status 
 **Heads-up:** Don't put any HTML in `status.txt`
 
 ## SEO Optimization (single H1 per page)
-**Heads-up:** Due to Search Engine Optimization (SEO) concerns we should only use one Header1 per page
+**Heads-up:** Due to Search Engine Optimization (SEO) concerns we should only use one Header1 per page.
+
+Even though we should only use one Header1 per page, there are some pages where we want to have multiple texts which have the same size and style as a Header1. In this cases, use a Header2. It looks just like a Header1 but doesn't mess up SEO.
 ```
-#    This is a Header1
-##   This is a Header2 (it looks just like a Header1 but doesn't mess up SEO)
-###  This is a Header3
-#### This is a Header4
+#     This is a Header1
+##    This is a Header2 (it looks just like a Header1 but doesn't mess up SEO)
+###   This is a Header3
+####  This is a Header4
+##### This is a Header5
 ```
-Even though we should only use one Header1 per page, there are some pages where we want to have multiple texts which have the same size and style as the Header1. In this case use a Header2. It looks just like a Header1 but doesn't mess up SEO.
+
 
 ## Frontend components
 Frontend components can be inserted as needed in the markdown files that make up the pages of the website. You cannot add components in the Front Matter. The Front Matter defines page specific meta content. We use it for the meta title and description of the page and for defining open graph images. The Front Matter area is indicated by 3 opening and 3 closing hyphens ( `---` ).
