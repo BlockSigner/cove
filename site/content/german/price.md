@@ -167,7 +167,7 @@ eines der folgenden Modelle umstellen:
 <tr>
 <td>Kostenlos - keine Abrechnung</td>
 <td>Ende Monat per Kreditkarte</td>
-<td>Ende Monat per Kreditkarte oder Rechnung</td>
+<td>Per Rechnung – die Flat Rate im Voraus, zusätzliche Signaturen im Folgemonat.</td>
 </tr>
 
 <tr>
