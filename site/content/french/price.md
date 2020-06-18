@@ -166,7 +166,7 @@ passer à l'un des modèles tarifaires suivants:
 <tr>
 <td>Gratuit - pas de facturation</td>
 <td>À la fin du mois, par carte de crédit</td>
-<td>À la fin du mois par carte de crédit ou sur facture</td>
+<td>Sur facture - le forfait à l'avance, les signatures supplémentaires dans le mois suivant.</td>
 </tr>
 
 <tr>
