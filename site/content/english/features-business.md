@@ -31,7 +31,7 @@ Skribble Business customers sign organised as a group - with
     description="Add new members, and assign administration rights.">}}
 
   {{< features-item src="features-biz/domain-whitelist.svg"
-    headline="Member auto registration"
+    headline="Add members automatically"
     description="Anyone who registers with Skribble using an e-mail address from your company automatically becomes a member of your business account (Domain Whitelisting).">}}
 
   {{< features-item src="features-biz/activity.svg"
