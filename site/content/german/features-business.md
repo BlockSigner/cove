@@ -31,7 +31,7 @@ mit zentraler Mitgliederverwaltung und gemeinsamer Abrechnung.
 
   {{< features-item src="features-biz/domain-whitelist.svg"
     headline="Mitglieder automatisch hinzufügen"
-    description="Wer sich mit einer E-Mail-Adresse Ihrer Firma bei Skribble registriert, wird automatisch Mitglied Ihres Business-Kontos (Domain Whitelisting).">}}
+    description="Wer sich mit einer E-Mail-Adresse Ihres Unternehmens bei Skribble registriert, wird automatisch Mitglied Ihres Business-Kontos (Domain Whitelisting).">}}
 
   {{< features-item src="features-biz/activity.svg"
     headline="Aktivitätsübersicht"
