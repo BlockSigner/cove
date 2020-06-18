@@ -31,8 +31,8 @@ avec une administration centrale des membres et une facturation commune.
     description="Ajoutez de nouveaux membres et attribuez des droits d'administration. ">}}
 
   {{< features-item src="features-biz/domain-whitelist.svg"
-    headline="Devient automatiquement membre"
-    description="Toute personne qui s'inscrit à Skribble avec une adresse e-mail de votre société devient automatiquement membre de votre compte professionnel (liste blanche de domaines).">}}
+    headline="Ajouter des membres automatiquement"
+    description="Toute personne qui s'inscrit à Skribble avec une adresse e-mail de votre entreprise devient automatiquement membre de votre compte professionnel (liste blanche de domaines).">}}
 
   {{< features-item src="features-biz/activity.svg"
     headline="Synthèse des activités"
