@@ -170,7 +170,7 @@ to one of the following plans at any time:
 <tr>
 <td>Free of charge - no billing</td>
 <td>At the end of the month by credit card</td>
-<td>At the end of the month by credit card or invoice</td>
+<td>By invoice – the flat rate in advance, additional signatures in the following month.</td>
 </tr>
 
 <tr>
