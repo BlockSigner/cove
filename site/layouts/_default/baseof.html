@@ -12,21 +12,24 @@
     @font-face {font-family: 'Averta';font-display: fallback;src: url('/fonts/hinted-averta-extrabold.woff') format('woff');font-weight: bold;font-style: normal;}
   </style>
 
-  <!-- Matomo Tag Manager -->
-<script type="text/javascript">
-var _mtm = _mtm || [];
-_mtm.push({'mtm.startTime': (new Date().getTime()), 'event': 'mtm.Start'});
-var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
-g.type='text/javascript'; g.async=true; g.defer=true; g.src='https://analytics.skribble.com/js/container_O54h38yS.js'; s.parentNode.insertBefore(g,s);
-</script>
+  <script defer type="text/javascript" src="/cookieconsent/config.js"></script>
+  <script defer type="text/javascript" src="/cookieconsent/klaro.js"></script>
 
-<script type="text/javascript">
-var _mtm = _mtm || [];
-_mtm.push({'mtm.startTime': (new Date().getTime()), 'event': 'mtm.Start'});
-var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
-g.type='text/javascript'; g.async=true; g.defer=true; g.src='https://analytics.skribble.com/js/container_O54h38yS.js'; s.parentNode.insertBefore(g,s);
-</script>
-<!-- End Matomo Tag Manager -->
+  <!-- Matomo Tag Manager -->
+  <script type="text/plain" data-type="text/javascript" data-name="matomo">
+  var _mtm = _mtm || [];
+  _mtm.push({'mtm.startTime': (new Date().getTime()), 'event': 'mtm.Start'});
+  var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+  g.type='text/javascript'; g.async=true; g.defer=true; g.src='https://analytics.skribble.com/js/container_O54h38yS.js'; s.parentNode.insertBefore(g,s);
+  </script>
+
+  <script type="text/plain" data-type="text/javascript" data-name="matomo">
+  var _mtm = _mtm || [];
+  _mtm.push({'mtm.startTime': (new Date().getTime()), 'event': 'mtm.Start'});
+  var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+  g.type='text/javascript'; g.async=true; g.defer=true; g.src='https://analytics.skribble.com/js/container_O54h38yS.js'; s.parentNode.insertBefore(g,s);
+  </script>
+  <!-- End Matomo Tag Manager -->
 
   <meta name="theme-color" content="#293d66"/>
   <meta name="description" content="{{ .Description }}" />
@@ -75,7 +78,7 @@ g.type='text/javascript'; g.async=true; g.defer=true; g.src='https://analytics.s
     <script src="{{ relURL . }}"></script>
   {{ end }}
 
-  <script type="text/javascript" id="hs-script-loader" async defer src="//js.hs-scripts.com/5051692.js"></script>
+  <script type="text/plain" data-type="text/javascript" data-name="hubspot" id="hs-script-loader" async defer data-src="//js.hs-scripts.com/5051692.js"></script>
 </body>
 
 </html>
