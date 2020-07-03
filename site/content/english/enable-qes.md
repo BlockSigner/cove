@@ -374,8 +374,8 @@ CH-7742 Poschiavo
 
 {{< cta
   title="Zürich"
-  label="076 200 77 48"
-  href="tel:+41762007748"
+  label="044 505 16 64"
+  href="tel:+41445051664"
   class="id-site"
   outlined="true"
   icon="phone"
@@ -390,7 +390,7 @@ CH-7742 Poschiavo
 >}}
 
 {{% markdown %}}
-**FlexOffice**
+**Skribble - FlexOffice**
 Fraumünsterstrasse 16
 CH-8001 Zurich
 
