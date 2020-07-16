@@ -86,11 +86,15 @@ var klaroConfig = {
             hubspot: {
                 description: 'Chat widget, collecting of visitor statistics & protection against DDoS attacks',
             },
+            klaro: {
+                description: 'Saves your cookie preferences'
+            },
             purposes: {
                 security: 'Security',
                 analytics: 'Analytics',
                 livechat: 'Live Chat',
                 advertising: 'Advertising',
+                preferences: 'Preferences'
             },
         },
     },
@@ -106,7 +110,6 @@ var klaroConfig = {
             // cookies: ['inline-tracker'],
             // optOut: false,
         },
-        // The apps will appear in the modal in the same order as defined here.
         {
             // Each app should have a unique (and short) name.
             name: 'matomo',
@@ -162,6 +165,16 @@ var klaroConfig = {
             // If "onlyOnce" is set to true, the app will only be executed
             // once regardless how often the user toggles it on and off.
             onlyOnce: true,
+        },
+        // The apps will appear in the modal in the same order as defined here.
+        {
+            name: 'klaro',
+            title: 'Klaro',
+            purposes: ['preferences'],
+            // default: true,
+            required: true
+            // cookies: ['inline-tracker'],
+            // optOut: false,
         },
     ],
 };
