@@ -80,14 +80,11 @@ var klaroConfig = {
             //     description:
             //         'Here you can see and customize the information that we collect about you. Entries marked as "Example" are just for demonstration purposes and are not really used on this website.',
             // },
-            cloudflare: {
-                description: 'Protection against DDoS attacks'
-            },
             matomo: {
                 description: 'Collecting of visitor statistics',
             },
             hubspot: {
-                description: 'Chat widget & collecting of visitor statistics',
+                description: 'Chat widget, collecting of visitor statistics & protection against DDoS attacks',
             },
             purposes: {
                 security: 'Security',
@@ -100,6 +97,15 @@ var klaroConfig = {
 
     // This is a list of third-party apps that Klaro will manage for you.
     apps: [
+        // The apps will appear in the modal in the same order as defined here.
+        {
+            name: 'hubspot',
+            title: 'Hubspot, Facebook, Bing, Cloudflare',
+            purposes: ['advertising', 'analytics', 'livechat', 'security'],
+            default: true,
+            // cookies: ['inline-tracker'],
+            // optOut: false,
+        },
         // The apps will appear in the modal in the same order as defined here.
         {
             // Each app should have a unique (and short) name.
@@ -156,25 +162,6 @@ var klaroConfig = {
             // If "onlyOnce" is set to true, the app will only be executed
             // once regardless how often the user toggles it on and off.
             onlyOnce: true,
-        },
-
-        // The apps will appear in the modal in the same order as defined here.
-        {
-            name: 'hubspot',
-            title: 'Hubspot, Facebook, Bing',
-            purposes: ['advertising', 'analytics', 'livechat'],
-            default: true,
-            // cookies: ['inline-tracker'],
-            // optOut: false,
-        },
-        
-        {
-            name: 'cloudflare',
-            title: 'Cloudflare',
-            purposes: ['security'],
-            // cookies: ['inline-tracker'],
-            // optOut: false,
-            required: true,
         },
     ],
 };
