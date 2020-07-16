@@ -1,0 +1,17 @@
+.cookie-resetter {
+    margin-bottom: 42px;
+
+    a {
+        color: #60718e;
+        transition: color 0.36s cubic-bezier(0.4, 0, 0.2, 1);
+        text-decoration: underline;
+        text-decoration-line: underline;
+        cursor: pointer;
+    }
+
+    a:hover {
+        color: -webkit-link;
+        text-decoration-style: initial;
+        text-decoration-color: initial;
+    }
+}
