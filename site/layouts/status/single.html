@@ -177,13 +177,16 @@
         var scheduleRequest = new XMLHttpRequest();
         scheduleRequest.onload = function () {
           if (scheduleRequest.status >= 200 && scheduleRequest.status < 300) {
-            let scheduleResult = JSON.parse(scheduleRequest.responseText);
+            let today = new Date();
+            let fiveDaysAgo = new Date();
+            fiveDaysAgo.setDate(fiveDaysAgo.getDate() - 5);      
+
+            let scheduleResult = JSON.parse(scheduleRequest.responseText);            
             scheduleResult.data.forEach((schedule) => {
               let scheduledAt = new Date(schedule.scheduled_at);
-              let today =  new Date();
-              if (scheduledAt.getFullYear() === today.getFullYear() &&
-                  scheduledAt.getMonth() === today.getMonth() &&
-                  scheduledAt.getDate() === today.getDate()) {
+              let completedAt = new Date(schedule.completed_at);        
+              console.log(scheduledAt + " - " + fiveDaysAgo + " - " + today + " - " + completedAt);
+              if ((scheduledAt > fiveDaysAgo) && (today < completedAt)) {
                   createMaintenanceListEntry(schedule);
               }
             });
@@ -200,7 +203,9 @@
       function createMaintenanceListEntry(schedule) {
         let messageText = (schedule.message).replace(new RegExp('\r?\n', 'g'), '<br />');
         let scheduledAt = new Date(schedule.scheduled_at);
+        let completedAt = new Date(schedule.completed_at);   
         let scheduledStr = (scheduledAt.toLocaleDateString(undefined, dateformat));
+        let completedStr = (completedAt.toLocaleDateString(undefined, dateformat));
 
         let scheduleElem = document.createElement('div');
         scheduleElem.setAttribute('class', 'status-block show');
@@ -211,7 +216,7 @@
         tblElem.innerHTML = `<tr>
                                 <td class="status-table__td">
                                   <img class="status-table__header_image" src="info.svg"/><strong class="status-table__header">${schedule.name}</strong>
-                                  <span style="float:right;">${scheduledStr}</span>
+                                  <span style="float:right;">${scheduledStr} - ${completedStr}</span>
                                 </td>
                               </tr>
                               <tr>
