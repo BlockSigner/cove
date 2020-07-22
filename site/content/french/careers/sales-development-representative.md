@@ -77,7 +77,7 @@ se fera un plaisir d'y répondre.
 {{< content text=center top=4 >}}
 {{< button
   "Postulez maintenant"
-  "https://share.hsforms.com/1GDSoid6YS_GylqWhkt0MvA309ws"
+  "https://forms.gle/MRQxZbw8DusZ5zT37"
   "_blank"
   ""
 >}}
