@@ -185,7 +185,7 @@
             scheduleResult.data.forEach((schedule) => {
               let scheduledAt = new Date(schedule.scheduled_at);
               let completedAt = new Date(schedule.completed_at);        
-              if ((scheduledAt > fiveDaysAgo) (scheduletAt <= today) && (today < completedAt)) {
+              if ((scheduledAt > fiveDaysAgo) && (scheduletAt <= today) && (today < completedAt)) {
                   createMaintenanceListEntry(schedule);
               }
             });
