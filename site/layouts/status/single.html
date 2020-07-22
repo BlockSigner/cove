@@ -178,14 +178,15 @@
         scheduleRequest.onload = function () {
           if (scheduleRequest.status >= 200 && scheduleRequest.status < 300) {
             let today = new Date();
-            let fiveDaysAgo = new Date();
-            fiveDaysAgo.setDate(fiveDaysAgo.getDate() - 5);      
 
             let scheduleResult = JSON.parse(scheduleRequest.responseText);            
             scheduleResult.data.forEach((schedule) => {
               let scheduledAt = new Date(schedule.scheduled_at);
               let completedAt = new Date(schedule.completed_at);        
-              if ((scheduledAt > fiveDaysAgo) && (scheduledAt <= today) && (today < completedAt)) {
+              let fiveDaysBeforeScheduled = new Date();
+              fiveDaysBeforeScheduled.setDate(scheduledAt.getDate() - 5);      
+
+              if ((today >= fiveDaysBeforeScheduled) && (today < completedAt)) {
                   createMaintenanceListEntry(schedule);
               }
             });
