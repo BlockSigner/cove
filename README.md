@@ -31,6 +31,7 @@ Deploy:
     - [features-container and features-item](#-features-container--and--features-item-)
     - [intro](#-intro-)
     - [intro-partner](#-intro-partner-)
+    - [lightbox](#-lightbox-)
     - [logos-container and logos-item](#-logos-container--and--logos-item-)
     - [plan](#-plan-)
     - [outro](#-outro-)
@@ -371,6 +372,30 @@ The features component allows you to present a responsive grid of images with a 
 
 #### {{< intro >}}
 #### {{< intro-partner >}}
+
+#### {{< lightbox >}}
+The lightbox allows you to show a youtube video lightbox frame. Currently it is composed of a clickable thumbnail and the video that is opened. In the future can be upgraded to have multiple videos/images as a gallery as per the demos at https://jiri.hybek.cz/wa-mediabox/.
+```
+{{< lightbox
+  gallery-name="name"
+  vid-youtubeid="25bPfgO-RYs"
+  vid-width="853"
+  vid-height="480"
+  vid-description="Amazing video of Skribble in action"
+  thumbnail-name="skribble-ui-en"
+  thumbnail-width="1020"
+  thumbnail-alt="Skribble plattform - user interface" 
+>}}
+```
+- gallery-name: The name of the gallery that the video belongs to (if page only has one video, the name is irrelevant)
+- vid-youtubeid: id of youtube video. Can be found on the youtube video's URL
+- vid-width: Intended width of the video (will be smaller if the screen is smaller)
+- vid-height: Intended height of the video (will be smaller if the screen is smaller)
+- vid-description: Caption to be displayed with the video
+- thumbnail-name: Name of the clickable image to be used in the thumbnail
+- thumbnail-width: Intended width of the video (will be smaller if the screen is smaller)
+- thumbnail-alt: alternate text for the image, if the image cannot be displayed
+
 
 #### {{< logos-container >}} and {{< logos-item >}}
 The logos component allows you to present responsive rows of logos or pictures. It is composed of two shortcodes to be used nested, as in the following example:

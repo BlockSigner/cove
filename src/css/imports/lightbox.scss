@@ -1,0 +1,77 @@
+.lightbox {
+  @include half-padding;
+  display: flex;
+  justify-content: center;
+
+  .img-overlay-wrap {
+    position: relative;
+    display: inline-block;
+    // Michel: change speed of circle growth/opacity change here
+    transition: all 200ms ease-in-out;
+  }
+
+  .img-overlay-wrap img {
+    display: block;
+    max-width: 100%;
+    height: auto;
+  }
+
+  .img-overlay-wrap .circle-outline {
+    background: #006df227;
+    width: 92px;
+    height: 92px;
+    border-radius: 50%;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    transition: inherit;
+  }
+
+  .img-overlay-wrap .circle-main {
+    background: #006df29d;
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    transition: inherit
+  }
+
+  .img-overlay-wrap svg {
+    position: absolute;
+    height: 40px;
+    width: 40px;
+    top: 50%;
+    left: 50%;
+    transform: translate(-40%, -50%);
+  }
+
+  .img-overlay-wrap:hover .circle-main {
+    background: #006df2;
+  }
+
+  .img-overlay-wrap:hover .circle-outline {
+    // Michel: change size of how much circle grows here. Translation percentage must be adapted to scale amount
+    transform: scale(1.2) translate(-40%, -40%);
+  }
+}
+
+// Overrides of the default wa-mediabox stylings
+.wa-mediabox-overlay {
+  // Michel: change black background here
+  background: rgba(20,20,20,.95) !important;
+}
+
+.wa-mediabox-frame {
+  // Michel: change opening growth transition here. In this case, I disabled the growth transition by using 0s duration 
+  // If you want to edit also the opacity transitions I will have to add a bit more code
+  transition: width 0s, height 0s, margin 0s !important;
+  -webkit-transition: width 0s, height 0s, margin 0s !important;
+}
+
+.wa-mediabox-close:hover{
+  background:#006df2 !important;
+}

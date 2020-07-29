@@ -87,7 +87,16 @@ you save time at work
 {{% /markdown %}}
 {{< /content >}}
 
-{{< picture skribble-ui-en 1020 "Skribble plattform - user interface" >}}
+{{< lightbox
+  gallery-name="name"
+  vid-youtubeid="25bPfgO-RYs"
+  vid-width="853"
+  vid-height="480"
+  vid-description="Amazing video of Skribble in action"
+  thumbnail-width="1020"
+  thumbnail-name="skribble-ui-en"
+  thumbnail-alt="Skribble plattform - user interface" 
+>}}
 
 {{< content bottom=15 text=center >}}
 {{< button
