@@ -48,7 +48,7 @@ var klaroConfig = {
     // use the value given in the global "lang" variable. If that does
     // not exist, it will use the value given in the "lang" attribute of your
     // HTML tag. If that also doesn't exist, it will use 'en'.
-    //lang: 'en',
+    lang: 'en',
 
     // You can overwrite existing translations and add translations for your
     // app descriptions and purposes. See `src/translations/` for a full
@@ -58,28 +58,7 @@ var klaroConfig = {
     // Example config that shows how to overwrite translations:
     // https://github.com/KIProtect/klaro/blob/master/src/configs/i18n.js
     translations: {
-        // If you erase the "consentModal" translations, Klaro will use the
-        // bundled translations.
-        de: {
-            // consentModal: {
-            //     description:
-            //         'Hier können Sie einsehen und anpassen, welche Information wir über Sie sammeln. Einträge die als "Beispiel" gekennzeichnet sind dienen lediglich zu Demonstrationszwecken und werden nicht wirklich verwendet.',
-            // },
-            matomo: {
-                description: 'Sammeln von Besucherstatistiken',
-            },
-            purposes: {
-                analytics: 'Besucher-Statistiken',
-                security: 'Sicherheit',
-                livechat: 'Livechat',
-                advertising: 'Anzeigen von Werbung',
-            },
-        },
         en: {
-            // consentModal: {
-            //     description:
-            //         'Here you can see and customize the information that we collect about you. Entries marked as "Example" are just for demonstration purposes and are not really used on this website.',
-            // },
             matomo: {
                 description: 'Collecting of visitor statistics',
             },
@@ -103,78 +82,32 @@ var klaroConfig = {
     apps: [
         // The apps will appear in the modal in the same order as defined here.
         {
-            name: 'hubspot',
-            title: 'Hubspot, Facebook, Bing, Cloudflare',
-            purposes: ['advertising', 'analytics', 'livechat', 'security'],
-            default: true,
-            // cookies: ['inline-tracker'],
-            // optOut: false,
-        },
-        {
             // Each app should have a unique (and short) name.
-            name: 'matomo',
-
+            name: 'hubspot',
+            // The title of you app as listed in the consent modal.
+            title: 'Hubspot, Facebook, Bing, Cloudflare',
+            // The purpose(s) of this app. Will be listed on the consent notice.
+            // Do not forget to add translations for all purposes you list here.
+            purposes: ['advertising', 'analytics', 'livechat', 'security'],
             // If "default" is set to true, the app will be enabled by default
             // Overwrites global "default" setting.
             // We recommend leaving this to "false" for apps that collect
             // personal information.
             default: true,
-
-            // The title of you app as listed in the consent modal.
-            title: 'Matomo',
-
-            // The purpose(s) of this app. Will be listed on the consent notice.
-            // Do not forget to add translations for all purposes you list here.
-            purposes: ['analytics'],
-
-            // A list of regex expressions or strings giving the names of
-            // cookies set by this app. If the user withdraws consent for a
-            // given app, Klaro will then automatically delete all matching
-            // cookies.
-            cookies: [
-                // you can also explicitly provide a path and a domain for
-                // a given cookie. This is necessary if you have apps that
-                // set cookies for a path that is not "/" or a domain that
-                // is not the current domain. If you do not set these values
-                // properly, the cookie can't be deleted by Klaro
-                // (there is no way to access the path or domain of a cookie in JS)
-                [/^_pk_.*$/, '/', 'klaro.kiprotect.com'], //for the production version
-                [/^_pk_.*$/, '/', 'localhost'], //for the local version
-                'piwik_ignore',
-            ],
-
-            // An optional callback function that will be called each time
-            // the consent state for the app changes (true=consented). Passes
-            // the `app` config as the second parameter as well.
-            callback: function(consent, app) {
-                // This is an example callback function.
-                console.log(
-                    'User consent for app ' + app.name + ': consent=' + consent
-                );
-            },
-
-            // If "required" is set to true, Klaro will not allow this app to
-            // be disabled by the user.
-            required: false,
-
-            // If "optOut" is set to true, Klaro will load this app even before
-            // the user gave explicit consent.
-            // We recommend always leaving this "false".
-            optOut: false,
-
-            // If "onlyOnce" is set to true, the app will only be executed
-            // once regardless how often the user toggles it on and off.
-            onlyOnce: true,
         },
-        // The apps will appear in the modal in the same order as defined here.
+        {
+            name: 'matomo',
+            title: 'Matomo',
+            purposes: ['analytics'],
+            default: true,
+        },
         {
             name: 'klaro',
             title: 'Klaro',
             purposes: ['preferences'],
-            // default: true,
+            // If "required" is set to true, Klaro will not allow this app to
+            // be disabled by the user.
             required: true
-            // cookies: ['inline-tracker'],
-            // optOut: false,
         },
     ],
 };
