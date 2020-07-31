@@ -50,9 +50,8 @@ avec une administration centrale des membres et une facturation commune.
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< testimonial "testimonial/fr-logo-99w.svg" "Stéphane Schwab, Chef de E-Gouvernement du canton de Fribourg" >}}
-"Grâce à Skribble, nous pouvons numériser les processus administratifs de A à Z.
-Cela facilite notre vie quotidienne et celle de nos clients." {{< /testimonial >}}
+{{< testimonial "testimonial/uniqa-100w.png" "Jaroslav Molik, Reinsurance Manager, UNIQA Re" >}}
+"Skribble m'a apporté une énorme tranquillité d'esprit dans mon travail quotidien. Nous pouvons désormais obtenir la signature de contrats avec des affiliés en Autriche, en Europe centrale et orientale, en temps voulu et de manière plus sûre" {{< /testimonial >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
@@ -98,7 +97,7 @@ ou à la norme de signature souhaitée.
 
 {{< side-by-side top=8 bottom=12 img-position=right img=onboarding-sea-fr img-width=460 img-alt="Un grand contrat (FES) devant une maison" >}}
 {{% markdown %}}
-## Intégration pour la signature électronique avancée (SEA)
+### Intégration pour la signature électronique avancée (SEA)
 Mise en œuvre à l'échelle de l'organisation en quelques clics. Convient aux contrats sans exigences formelles.
 {{% /markdown %}}
 <br>

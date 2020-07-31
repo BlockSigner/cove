@@ -177,13 +177,16 @@
         var scheduleRequest = new XMLHttpRequest();
         scheduleRequest.onload = function () {
           if (scheduleRequest.status >= 200 && scheduleRequest.status < 300) {
-            let scheduleResult = JSON.parse(scheduleRequest.responseText);
+            let today = new Date();
+
+            let scheduleResult = JSON.parse(scheduleRequest.responseText);            
             scheduleResult.data.forEach((schedule) => {
               let scheduledAt = new Date(schedule.scheduled_at);
-              let today =  new Date();
-              if (scheduledAt.getFullYear() === today.getFullYear() &&
-                  scheduledAt.getMonth() === today.getMonth() &&
-                  scheduledAt.getDate() === today.getDate()) {
+              let completedAt = new Date(schedule.completed_at);        
+              let fiveDaysBeforeScheduled = new Date();
+              fiveDaysBeforeScheduled.setDate(scheduledAt.getDate() - 5);      
+
+              if ((today >= fiveDaysBeforeScheduled) && (today < completedAt)) {
                   createMaintenanceListEntry(schedule);
               }
             });
@@ -200,7 +203,9 @@
       function createMaintenanceListEntry(schedule) {
         let messageText = (schedule.message).replace(new RegExp('\r?\n', 'g'), '<br />');
         let scheduledAt = new Date(schedule.scheduled_at);
-        let scheduledStr = (scheduledAt.toLocaleDateString(undefined, dateformat));
+        let completedAt = new Date(schedule.completed_at);   
+        let scheduledStr = (scheduledAt.toLocaleDateString("en-GB", dateformat));
+        let completedStr = (completedAt.toLocaleDateString("en-GB", dateformat));
 
         let scheduleElem = document.createElement('div');
         scheduleElem.setAttribute('class', 'status-block show');
@@ -211,7 +216,7 @@
         tblElem.innerHTML = `<tr>
                                 <td class="status-table__td">
                                   <img class="status-table__header_image" src="info.svg"/><strong class="status-table__header">${schedule.name}</strong>
-                                  <span style="float:right;">${scheduledStr}</span>
+                                  <span style="float:right;">${scheduledStr} - ${completedStr}</span>
                                 </td>
                               </tr>
                               <tr>
@@ -253,7 +258,7 @@
       function creatIncidentListEntry(incident) {
         let messageText = (incident.message).replace(new RegExp('\r?\n', 'g'), '<br />');
         let occuredAt = new Date(incident.occurred_at);
-        let occuredStr = (occuredAt.toLocaleDateString(undefined, dateformat));
+        let occuredStr = (occuredAt.toLocaleDateString("en-GB", dateformat));
 
         let incidentElem = document.createElement('div');
         incidentElem.setAttribute('class', 'status-block show');
@@ -298,7 +303,7 @@
 
       function createIncidentUpdateEntry(update) {
         let updatedAt = new Date(update.updated_at);
-        let updatedStr = (updatedAt.toLocaleDateString(undefined, dateformat));
+        let updatedStr = (updatedAt.toLocaleDateString("en-GB", dateformat));
 
         let messageText = (update.message).replace(new RegExp('\r?\n', 'g'), '<br />');
         let liUpdate = document.createElement('tr');

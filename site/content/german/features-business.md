@@ -49,9 +49,8 @@ mit zentraler Mitgliederverwaltung und gemeinsamer Abrechnung.
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< testimonial "testimonial/fr-logo-99w.svg" "Stéphane Schwab, Leiter E-Government, Kanton Freiburg" >}}
-"Dank Skribble können wir Administrationsprozesse von A bis Z digitalisieren. Das erleichtert
-den Alltag für uns und unseren Kunden."{{< /testimonial >}}
+{{< testimonial "testimonial/uniqa-100w.png" "Jaroslav Molik, Reinsurance Manager, UNIQA Re" >}}
+"Dank Skribble bin ich bei meiner täglichen Arbeit deutlich gelassener, da wir Verträge mit Tochtergesellschaften in Österreich, Mittel- und Osteuropa heute deutlich schneller und sicherer abschliessen können." {{< /testimonial >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
@@ -101,7 +100,7 @@ zum elektronischen Signieren. Wählen Sie den Onboarding-Prozess, der zu Ihrem A
 
 {{< side-by-side top=12 bottom=12 img-position=right img=onboarding-fes-de img-width=460 img-alt="Ein grosser Vertrag (FES) vor einem Haus" >}}
 {{% markdown %}}
-## Onboarding für die fortgeschrittene elektronische Signatur (FES)
+### Onboarding für die fortgeschrittene elektronische Signatur (FES)
 Organisationsweite Einführung mit wenigen Klicks.
 Geeignet für Verträge ohne Formvorschrift.
 {{% /markdown %}}
