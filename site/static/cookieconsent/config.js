@@ -195,7 +195,7 @@ var klaroConfig = {
       consentModal: {
         title: "Informationen, die wir speichern",
         description:
-          "Hier können Sie einsehen und anpassen, welche Information speichern.\n",
+          "Hier können Sie einsehen und anpassen, welche Information wir speichern.\n",
         privacyPolicy: {
           name: "Datenschutzerklärung",
           text: "Weitere Details finden Sie in unserer {privacyPolicy}.\n",
