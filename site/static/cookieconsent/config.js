@@ -107,7 +107,7 @@ var klaroConfig = {
         purposes: "Purposes",
         purpose: "Purpose",
       },
-      poweredBy: "Powered by Klaro!",
+      poweredBy: "",
       matomo: {
         description: "Collects visitor statistics",
       },
@@ -172,7 +172,7 @@ var klaroConfig = {
       //     purposes: "Purposes",
       //     purpose: "Purpose",
       //   },
-      //   poweredBy: "Powered by Klaro!",
+      poweredBy: "",
       matomo: {
         description: "Collecte de statistiques sur les visiteurs",
       },
@@ -236,7 +236,7 @@ var klaroConfig = {
       //     purposes: "Purposes",
       //     purpose: "Purpose",
       //   },
-      //   poweredBy: "Powered by Klaro!",
+      poweredBy: "",
       matomo: {
         description: "Sammeln von Besucherstatistiken",
       },
