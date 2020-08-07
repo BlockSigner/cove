@@ -1,0 +1,31 @@
+.klaro {
+  .cm-btn {
+    border-radius: 3px !important;
+    padding: 8px 12px !important;
+  }
+
+  .cookie-notice {
+    a {
+      color: white !important
+    }
+    
+    .cm-btn {
+      background: #006df2 !important;
+    }
+  }
+
+  .cookie-modal {
+    a {
+      color: #006df2 !important
+    }
+
+    .cm-btn-accept-all {
+      background: #006df2 !important
+      
+    }
+
+    .cm-btn-info {
+      background: #60718e !important
+    }
+  }
+}
