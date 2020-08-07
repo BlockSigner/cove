@@ -1,14 +1,20 @@
 ---
 title: Terms of use
 slug: terms-of-use
+aliases:
+  - terms-of-use/archive/20191001
+  - terms-of-use-v2019-10-01
 draft: false
-description: terms-of-use meta description
+description: Skribble's Terms of Use (2019-10-01)
 ---
 
 {{< content top=16 width=narrow >}}
 {{% markdown legal %}}
 # Terms of Use of Skribble
-(Version 2019.10.01)
+
+[Archived versions](/terms-of-use/archive)
+
+<small>(Version 2019.10.01)</small>
 
 These Terms of Use govern your use of the Skribble Cloud Solution (Skribble Service). These terms of use form a binding contract between you as a System User of the Skribble Service and Skribble AG, Fraumünsterstrasse 16, 8001 Zurich, Switzerland, respectively Skribble Deutschland GmbH, Pforzheimer Straße 128a, 76275 Ettlingen, Germany (Skribble).
 

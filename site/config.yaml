@@ -498,7 +498,7 @@ languages:
         - name: Politique de Confidentialité
           url: /fr/politique-de-confidentialite/
           weight: 5
-        - name: Conditions Dutilisation
+        - name: Conditions d'utilisation
           url: /fr/conditions-dutilisation/
           weight: 10
         - name: CG
@@ -511,7 +511,7 @@ languages:
         - name: Politique de Confidentialité
           url: /fr/politique-de-confidentialite/
           weight: 5
-        - name: Conditions Dutilisation
+        - name: Conditions d'utilisation
           url: /fr/conditions-dutilisation/
           weight: 10
         - name: CG

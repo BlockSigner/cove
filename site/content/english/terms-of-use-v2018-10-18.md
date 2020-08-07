@@ -1,15 +1,19 @@
 ---
-title: Terms of use
-slug: terms-of-use-v2018-10-18
+title: Terms of Use
+slug: terms-of-use/archive/20181018
+aliases:
+  - terms-of-use-v2018-10-18
 draft: false
-description: terms-of-use meta description
+description: Skribble's Terms of Use (2018-10-18)
 ---
 
 {{< content top=16 >}}
 {{% markdown legal %}}
-# Skribble Terms of Use by Skribble AG
+# Terms of Use of Skribble
 
-(Version 2018.10.18 – valid until 2019.09.30)
+[Archived versions](/terms-of-use/archive)
+
+<small>(Version 2018.10.18 – valid until 2019.09.30)</small>
 
 As a Skribble user, you must comply with the following principles of lawful use:
 

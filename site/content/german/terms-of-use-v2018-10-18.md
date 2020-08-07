@@ -1,15 +1,19 @@
 ---
 title: Nutzungsbedingungen
-slug: nutzungsbedingungen-v2018-10-18
+slug: nutzungsbedingungen/archiv/20181018
+aliases:
+  - nutzungsbedingungen-v2018-10-18
 draft: false
-description: Nutzungsbedingungen meta description
+description: Nutzungsbedingungen von Skribble (2018-10-18)
 ---
 
 {{< content top=16 width=narrow >}}
 {{% markdown legal %}}
-# Nutzungsbedingungen<br>von Skribble AG
+# Nutzungsbedingungen von Skribble
 
-(Version 2018.10.18 – gültig bis 2019.09.30)
+[Archivierte Versionen](/de/nutzungsbedingungen/archiv)
+
+<small>(Version 2018.10.18 – gültig bis 2019.09.30)</small>
 
 Als Systemnutzer von Skribble sind Sie verpflichtet, die nachstehenden Grundsätze rechtmässiger Nutzung
 einzuhalten:

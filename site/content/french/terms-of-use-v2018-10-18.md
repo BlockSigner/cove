@@ -1,15 +1,19 @@
 ---
 title: Conditions d'utilisation
-slug: conditions-dutilisation-v2018-10-18
+slug: conditions-dutilisation/archives/20181018
+aliases:
+  - conditions-dutilisation-v2018-10-18
 draft: false
-description: Conditions d'utilisation meta description
+description: Conditions d'utilisation de Skribble (2018-10-18)
 ---
 
 {{< content top=16 >}}
 {{% markdown legal %}}
-# Skribble Conditions d'utilisation<br>de Skribble SA
+# Conditions d'utilisation de Skribble
 
-(Version 2018.10.18 – valide jusqu'au 2019.09.30)
+[Versions archivées](/fr/conditions-dutilisation/archives)
+
+<small>(Version 2018.10.18 – valide jusqu'au 2019.09.30)</small>
 
 En tant qu'utilisateur du système Skribble, vous devez respecter les conditions d'utilisation suivantes :
 
