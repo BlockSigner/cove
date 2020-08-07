@@ -11,7 +11,7 @@ var klaroConfig = {
 
   // How Klaro should store the user's preferences. It can be either 'cookie'
   // (the default) or 'localStorage'.
-  storageMethod: "cookie",
+  storageMethod: "localStorage",
 
   // You can customize the name of the cookie that Klaro uses for storing
   // user consent decisions. If undefined, Klaro will use 'klaro'.
@@ -43,10 +43,10 @@ var klaroConfig = {
 
   // Show "accept all" to accept all apps instead of "ok" that only accepts
   // required and "default: true" apps
-  acceptAll: false,
+  acceptAll: true,
 
   // replace "decline" with cookie manager modal
-  hideDeclineAll: false,
+  hideDeclineAll: true,
 
   // You can define the UI language directly here. If undefined, Klaro will
   // use the value given in the global "lang" variable. If that does
@@ -154,7 +154,7 @@ var klaroConfig = {
       //   save: "Save",
       decline: "Refuser",
       //   close: "Close",
-      //   acceptAll: "Accept all",
+      acceptAll: "Accept tous",
       acceptSelected: "Accepter la sélection",
       //   app: {
       //     disableAll: {
@@ -218,7 +218,7 @@ var klaroConfig = {
       //   save: "Save",
       decline: "Ablehnen",
       //   close: "Close",
-      //   acceptAll: "Accept all",
+      acceptAll: "Allen akzeptieren",
       acceptSelected: "Auswahl akzeptieren",
       //   app: {
       //     disableAll: {
@@ -264,29 +264,15 @@ var klaroConfig = {
       // Each app should have a unique (and short) name.
       name: "hubspot",
       // The title of you app as listed in the consent modal.
-      title: "Hubspot, Facebook, Bing, Cloudflare",
+      title: "Hubspot, Google Tag Manager, Facebook, Bing, Cloudflare",
       // The purpose(s) of this app. Will be listed on the consent notice.
       // Do not forget to add translations for all purposes you list here.
       purposes: ["advertising", "analytics", "livechat", "security"],
-      // If "default" is set to true, the app will be enabled by default
-      // Overwrites global "default" setting.
-      // We recommend leaving this to "false" for apps that collect
-      // personal information.
-      default: true,
     },
     {
       name: "matomo",
       title: "Matomo",
       purposes: ["analytics"],
-      default: true,
-    },
-    {
-      name: "klaro",
-      title: "Klaro",
-      purposes: ["preferences"],
-      // If "required" is set to true, Klaro will not allow this app to
-      // be disabled by the user.
-      required: true,
     },
   ],
 };
