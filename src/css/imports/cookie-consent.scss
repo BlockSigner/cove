@@ -25,7 +25,11 @@
     }
 
     .cm-btn-info {
-      background: #60718e !important
+      background: #888888 !important
+    }
+
+    .cm-app-input:checked+.cm-app-label .slider {
+      background-color: #006df2 !important
     }
   }
 }
