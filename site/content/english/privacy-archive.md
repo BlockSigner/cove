@@ -9,7 +9,8 @@ description: Privacy policy archive
 {{% markdown %}}
 # Privacy Policy Archive
 
-* [Effective date: 22 October 2019 (current)](/privacy/archive/20191022)
+* [Effective date: 19 August 2020 (current)](/privacy/archive/20200819)
+* [Effective date: 22 October 2019](/privacy/archive/20191022)
 * [Effective date: 18 October 2018](/privacy/archive/20181018)
 
 {{% /markdown %}}
