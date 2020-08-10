@@ -9,7 +9,8 @@ description: Archive Conditions d'utilisation
 {{% markdown %}}
 # Archive Conditions d'utilisation
 
-* [À compter du 1 octobre 2019 (actuellement en vigueur)](/fr/conditions-dutilisation/archives/20191001)
+* [À compter du 19 août 2020 (actuellement en vigueur)](/fr/conditions-dutilisation/archives/20200819)
+* [À compter du 1 octobre 2019](/fr/conditions-dutilisation/archives/20191001)
 * [À compter du 18 octobre 2018](/fr/conditions-dutilisation/archives/20181018)
 
 {{% /markdown %}}

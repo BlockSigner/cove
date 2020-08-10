@@ -1,10 +1,11 @@
 ---
 title: Nutzungsbedingungen
-slug: nutzungsbedingungen/archiv/20191001
+slug: nutzungsbedingungen
 aliases:
-  - nutzungsbedingungen-v2019-10-01
+  - nutzungsbedingungen/archiv/20200819
+  - nutzungsbedingungen-v2020-08-19
 draft: false
-description: Nutzungsbedingungen von Skribble (2019-10-01)
+description: Nutzungsbedingungen von Skribble (2020-08-19)
 ---
 
 {{< content top=16 width=narrow >}}
@@ -13,7 +14,7 @@ description: Nutzungsbedingungen von Skribble (2019-10-01)
 
 [Archivierte Versionen](/de/nutzungsbedingungen/archiv)
 
-<small>(Version 2019.10.01 – gültig bis 2020.08.18)</small>
+<small>(Version 2020.08.19)</small>
 
 Diese Nutzungsbedingungen regeln Ihre Verwendung der Skribble Cloud-Lösung (Skribble-Dienste). Diese Nutzungsbedingungen bilden einen verbindlichen Vertrag zwischen Ihnen als Systemnutzer der Skribble-Dienste und Skribble AG, Fraumünsterstrasse 16, 8001 Zürich, Schweiz, respektive Skribble Deutschland GmbH, Pforzheimer Straße 128a, 76275 Ettlingen, Deutschland (Skribble).
 

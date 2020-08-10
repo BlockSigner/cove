@@ -9,7 +9,8 @@ description: Archiv Nutzungsbedingungen
 {{% markdown %}}
 # Archiv Nutzungsbedingungen
 
-* [Wirksam ab: 1. Oktober 2019 (aktuell)](/de/nutzungsbedingungen/archiv/20191001)
+* [Wirksam ab: 19. August 2020 (aktuell)](/de/nutzungsbedingungen/archiv/20200819)
+* [Wirksam ab: 1. Oktober 2019](/de/nutzungsbedingungen/archiv/20191001)
 * [Wirksam ab: 18. Oktober 2018](/de/nutzungsbedingungen/archiv/20181018)
 
 {{% /markdown %}}
