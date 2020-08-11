@@ -53,13 +53,6 @@ FINMA-Konform, ISO 27001 zertifiziert
 ## SAV-FSA Mitglieder nutzen Skribble zum Vorzugspreis
 {{% /markdown %}}
 
-{{< picture sav-special 200 "Blauer kreis mit der nummer 12" >}}
-
-{{% markdown center %}}
-### pro Monat / Nutzer anstatt CHF 25.-
-Signaturen können auch nutzerunabhängig bezogen werden.
-{{% /markdown %}}
-
 {{< /content >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
@@ -103,6 +96,4 @@ Erfahre mehr über das Angebot.
 			L6.9,2.1C6.7,1.7,6.2,1.4,5.7,1.5L1.3,2.7c-0.5,0.1-0.8,0.5-0.8,1c0.3,5.2,2.4,10,6,13.7c3.7,3.6,8.6,5.8,13.7,6
 			c0.5,0,0.9-0.3,1-0.8l1.2-4.4C22.6,17.8,22.3,17.3,21.9,17.1z"/>
   </svg>
-  +41 44 505 16 64
 </a>
-{{< /outro >}}
