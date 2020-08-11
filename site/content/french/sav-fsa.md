@@ -53,12 +53,6 @@ Conforme FINMA, certifié ISO 27001
 ## Les membres de la SAV-FSA utilisent Skribble à un prix préférentiel
 {{% /markdown %}}
 
-{{< picture sav-special 200 "Cercle bleu avec le chiffre 12" >}}
-
-{{% markdown center %}}
-### par mois / utilisateur au lieu de CHF 25.-
-Les signatures peuvent également être obtenues selon un modèle prépayé.
-{{% /markdown %}}
 {{< /content >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
@@ -102,6 +96,5 @@ En savoir plus sur l'offre.
 			L6.9,2.1C6.7,1.7,6.2,1.4,5.7,1.5L1.3,2.7c-0.5,0.1-0.8,0.5-0.8,1c0.3,5.2,2.4,10,6,13.7c3.7,3.6,8.6,5.8,13.7,6
 			c0.5,0,0.9-0.3,1-0.8l1.2-4.4C22.6,17.8,22.3,17.3,21.9,17.1z"/>
   </svg>
-  +41 44 505 16 64
 </a>
-{{< /outro >}}
+
