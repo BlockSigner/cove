@@ -11,11 +11,11 @@ var klaroConfig = {
 
   // How Klaro should store the user's preferences. It can be either 'cookie'
   // (the default) or 'localStorage'.
-  storageMethod: "localStorage",
+  storageMethod: "cookie",
 
   // You can customize the name of the cookie that Klaro uses for storing
   // user consent decisions. If undefined, Klaro will use 'klaro'.
-  cookieName: "klaro",
+  cookieName: "klaroCookiePreferences",
 
   // You can also set a custom expiration time for the Klaro cookie.
   // By default, it will expire after 120 days.
@@ -24,7 +24,7 @@ var klaroConfig = {
   // You can change to cookie domain for the consent manager itself.
   // Use this if you want to get consent once for multiple matching domains.
   // If undefined, Klaro will use the current domain.
-  //cookieDomain: '.github.com',
+  cookieDomain: '.skribble.com',
 
   // Put a link to your privacy policy here (relative or absolute).
   privacyPolicy: {
@@ -273,6 +273,14 @@ var klaroConfig = {
       name: "matomo",
       title: "Matomo",
       purposes: ["analytics"],
+    },
+    {	
+      name: "klaro",	
+      title: "Klaro",	
+      purposes: ["preferences"],	
+      // If "required" is set to true, Klaro will not allow this app to	
+      // be disabled by the user.	
+      required: true,	
     },
   ],
 };
