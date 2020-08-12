@@ -154,7 +154,7 @@ var klaroConfig = {
       //   save: "Save",
       decline: "Refuser",
       //   close: "Close",
-      acceptAll: "Accept tous",
+      acceptAll: "Accepter tous",
       acceptSelected: "Accepter la sélection",
       //   app: {
       //     disableAll: {
