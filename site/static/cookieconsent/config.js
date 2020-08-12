@@ -280,6 +280,7 @@ var klaroConfig = {
       purposes: ["preferences"],	
       // If "required" is set to true, Klaro will not allow this app to	
       // be disabled by the user.	
+      default: true,
       required: true,	
     },
   ],
