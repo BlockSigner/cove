@@ -218,7 +218,7 @@ var klaroConfig = {
       //   save: "Save",
       decline: "Ablehnen",
       //   close: "Close",
-      acceptAll: "Allen akzeptieren",
+      acceptAll: "Alle akzeptieren",
       acceptSelected: "Auswahl akzeptieren",
       //   app: {
       //     disableAll: {
