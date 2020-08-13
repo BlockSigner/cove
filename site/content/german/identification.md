@@ -188,13 +188,13 @@ Lassen Sie sich beraten und finden Sie die passende Identifikations-Lösung für
 {{% markdown %}}
 ## Elektronische Identität (E-ID)
 Personen, die sich mit einer geprüften E-ID bei Skribble anmelden, 
-schalten die QES automatisch frei.
+schalten die QES oder die FES automatisch frei.
 {{% /markdown %}}
 
 {{< picture e-id-map 810 "E-ID, wo du in kürze bei Skribble signieren kannst." >}}
 
 {{% markdown %}}
-Eine wachsende Anzahl Menschen in Europa verfügt über eine geprüfte elektronische Identität (E-ID). Skribble bindet diese an. So können Millionen von Menschen ohne zusätzliche Identifikationsverfahren sofort mit QES signieren.
+Eine wachsende Anzahl Menschen in Europa verfügt über eine geprüfte elektronische Identität (E-ID). Skribble bindet diese an. So können Millionen von Menschen ohne zusätzliche Identifikationsverfahren sofort mit QES oder FES signieren.
 {{% /markdown %}}
 {{< /content >}}
 
