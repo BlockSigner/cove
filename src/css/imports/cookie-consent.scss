@@ -1,39 +1,39 @@
-.klaro {
+#klaro-skribble {
   .cm-btn {
-    border-radius: 3px !important;
-    padding: 8px 12px !important;
+    border-radius: 3px;
+    padding: 8px 12px;
   }
 
   .cookie-notice {
     a {
-      color: white !important
+      color: white
     }
     
     .cm-btn {
-      background: #006df2 !important;
+      background: #006df2;
     }
   }
 
   .cookie-modal {
     a {
-      color: #006df2 !important
+      color: #006df2
     }
 
     .cm-btn-accept-all {
-      background: #006df2 !important
+      background: #006df2
       
     }
 
     .cm-btn-info {
-      background: #888888 !important
+      background: #888888
     }
 
     .cm-app-input:checked+.cm-app-label .slider {
-      background-color: #006df2 !important
+      background-color: #006df2
     }
     .cm-app-input.required:checked+.cm-app-label .slider {
-      background-color: #60718e !important;
-      opacity: 0.6 !important
+      background-color: #60718e;
+      opacity: 0.6
     
     }
   }
