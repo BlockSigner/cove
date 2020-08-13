@@ -193,14 +193,14 @@ Laissez-nous vous conseiller et trouver la solution d'identification adaptée à
 
 {{% markdown %}}
 ## Identité électronique (e-ID)
-Les personnes qui se connectent à Skribble avec une e-ID vérifiée activent automatiquement la SEQ.
+Les personnes qui se connectent à Skribble avec une e-ID vérifiée activent automatiquement la SEQ ou la SEA.
 {{% /markdown %}}
 
 {{< picture e-id-map 810 "E-ID, où vous pourrez bientôt vous inscrire avec Skribble." >}}
 
 {{% markdown %}}
 Un nombre croissant de personnes en Europe a une identité électronique validée (e-ID). Skribble les met en réseau. Cela signifie que des millions 
-de personnes peuvent signer immédiatement avec la SEQ sans procédure d'identification supplémentaire.
+de personnes peuvent signer immédiatement avec la SEQ ou la SEA sans procédure d'identification supplémentaire.
 {{% /markdown %}}
 {{< /content >}}
 
