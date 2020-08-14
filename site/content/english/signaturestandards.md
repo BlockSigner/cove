@@ -211,8 +211,8 @@ The one-click solution for everyday documents
 
 {{< content top=6 bottom=6 width=narrow >}}
 {{% markdown %}}
-**The simple electronic signature (EES) is used when there is a low liability risk.**
-It is legally valid for documents where the law does not prescribe a specific form. Typical use cases are information letters, orders and internal documents. Anyone who has an e-mail address can start signing with EES immediately on Skribble.
+**The simple electronic signature (SES) is used when there is a low liability risk.**
+It is legally valid for documents where the law does not prescribe a specific form. Typical use cases are information letters, orders and internal documents. Anyone who has an e-mail address can start signing with SES immediately on Skribble.
 {{% /markdown %}}
 {{< /content >}}
 
