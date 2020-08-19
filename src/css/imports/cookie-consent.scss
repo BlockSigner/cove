@@ -1,4 +1,8 @@
 #klaro-skribble {
+  .cm-btn, .cm-link, button {
+    cursor: pointer;
+  }
+
   .cm-btn {
     border-radius: 3px;
     padding: 8px 12px;
