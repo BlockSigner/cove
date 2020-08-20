@@ -58,7 +58,7 @@ You help us grow Skribble internationally by building and shaping our customer s
 ### Our Offering
 - Opportunity to be part of a fast growing tech company with an aspiring and experienced team 
 - A job with a purpose: save human and environmental resources by enabling digital signatures #worksmarter
-- Company culture of trust,self-responsibility and transparency
+- Company culture of trust, self-responsibility and transparency
 - Flexibility in the organisation of your working time, place of work and your devices
 - Office in the heart of Zurich within 2 mins walking distance from the lake
 
