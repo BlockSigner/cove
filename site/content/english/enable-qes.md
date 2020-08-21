@@ -110,18 +110,12 @@ or your identity card as well as your mobile phone.
   icon="phone"
 >}}
 
-{{< picture
-  name="map-swisscom-avry"
-  w="120"
-  alt="Swisscom Shop, Route de Matran 9, CH-1754 Avry"
-  href="https://goo.gl/maps/MWYKV8TTfATvNYP27"
-  target="_target"
->}}
-
 {{% markdown %}}
 **Swisscom Shop**
 Route de Matran
 9 CH-1754 Avry
+[Open in Google Maps](https://goo.gl/maps/kDo661CfCQeuz93Q8)
+
 
 **Opening hours:**
 Mo - Fr: 08.30 - 19.00
@@ -141,14 +135,6 @@ Sa: 09.00 - 16.00
   outlined="true"
 >}}
 
-{{< picture
-  name="map-natelprofi"
-  w="120"
-  alt="Natel Profi, Dorfstrasse 6, CH-3123 Belp"
-  href="https://goo.gl/maps/UvxKGxgQ5eooKsA29"
-  target="_target"
->}}
-
 {{% markdown %}}
 **Natel Profi**
 Dorfstrasse 6
@@ -166,14 +152,6 @@ CH-3123 Belp
   class="id-site"
   outlined="true"
   icon="phone"
->}}
-
-{{< picture
-  name="map-swisscom-bern-hb"
-  w="120"
-  alt="Swisscom Shop Bern Bahnhof, Bahnhofplatz 10 b, 3011 Bern"
-  href="https://goo.gl/maps/RVVkbAMC3xjqpsK67"
-  target="_target"
 >}}
 
 {{% markdown %}}
@@ -197,14 +175,6 @@ So: 10.00 - 20.00
   icon="phone"
 >}}
 
-{{< picture
-  name="map-natelspycher"
-  w="120"
-  alt="Natel Spycher, Belpstrasse 45, CH-3007 Bern"
-  href="https://goo.gl/maps/DooeRbjvdNkVeXuS6"
-  target="_target"
->}}
-
 {{% markdown %}}
 **Natel Spycher**
 Belpstrasse 45
@@ -223,14 +193,6 @@ CH-3007 Bern
   class="id-site"
   outlined="true"
   icon="phone"
->}}
-
-{{< picture
-  name="map-swisscom-bulle"
-  w="120"
-  alt="Swisscom Shop, Route de Riaz 18, CH-1630 Bulle"
-  href="https://goo.gl/maps/M2pmMETdTWCMtPSv7"
-  target="_target"
 >}}
 
 {{% markdown %}}
@@ -254,14 +216,6 @@ Sa: 09.00 - 16.00
   class="id-site"
   outlined="true"
   icon="phone"
->}}
-
-{{< picture
-  name="map-swisscom-fribourg"
-  w="120"
-  alt="Swisscom Shop, Avenue de la Gare 22, CH-1700 Fribourg"
-  href="https://goo.gl/maps/YrkaK1fmfYQYYQEp8"
-  target="_target"
 >}}
 
 {{% markdown %}}
@@ -289,14 +243,6 @@ Sa: 09.00 - 16.00
   icon="phone"
 >}}
 
-{{< picture
-  name="map-crativ"
-  w="120"
-  alt="Crativ GmbH, Voa Crapera 1, CH-7078 Lenzerheide"
-  href="https://goo.gl/maps/y7XYmYNUtVvfQn7s9"
-  target="_target"
->}}
-
 {{% markdown %}}
 **Crativ GmbH**
 Voa Crapera 1
@@ -321,14 +267,6 @@ Mo - Fr: 09.00 - 17.30
   icon="phone"
 >}}
 
-{{< picture
-  name="map-moor-lugano"
-  w="120"
-  alt="Avv. Jonathan Moor, Via Luigi Lavizzari 2A (PT), CH-6900 Lugano"
-  href="https://goo.gl/maps/WqiBxRXAQbR8cPSz7"
-  target="_target"
->}}
-
 {{% markdown %}}
 **Avv. Jonathan Moor**
 Via Luigi Lavizzari 2A (PT)
@@ -348,14 +286,6 @@ CH-6900 Lugano
   target="_blank"
   class="id-site"
   outlined="true"
->}}
-
-{{< picture
-  name="map-dynamicstudio"
-  w="120"
-  alt="Dynamicstudio GmbH, Via da Mezz 42A, CH-7742 Poschiavo"
-  href="https://g.page/dynamicstudio-gmbh?share"
-  target="_target"
 >}}
 
 {{% markdown %}}
@@ -381,14 +311,6 @@ CH-7742 Poschiavo
   icon="phone"
 >}}
 
-{{< picture
-  name="map-flexoffice-zurich"
-  w="120"
-  alt="Skribble AG, FlexOffice Fraumünster, Fraumünsterstrasse 16, CH-8001 Zurich"
-  href="https://g.page/flexofficeswiss?share"
-  target="_blank"
->}}
-
 {{% markdown %}}
 **FlexOffice**
 Fraumünsterstrasse 16
@@ -406,14 +328,6 @@ Mo - Fr: 09.00 - 17.00
   class="id-site"
   outlined="true"
   icon="phone"
->}}
-
-{{< picture
-  name="map-swisscom-zhr-flughafen"
-  w="120"
-  alt="Swisscom Shop Flughafen Zürich, Airport Shopping Center, Checkin 3, Flughafenstrasse 3, CH-8302 Kloten"
-  href="https://goo.gl/maps/SMzA9wBurJAZe3E76"
-  target="_blank"
 >}}
 
 {{% markdown %}}
