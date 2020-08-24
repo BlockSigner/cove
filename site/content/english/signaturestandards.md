@@ -66,7 +66,6 @@ The three standards vary in terms of area of application and legal weight.
 
 **Documents**
 without legal form requirement and with low liability risk.
-&nbsp;
 
 **Examples:****
 - Supplier offer
