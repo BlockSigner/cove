@@ -8,7 +8,7 @@ type: contact
 # map component
 map:
   title: Skribble Office
-  subtitle: Gleich beim Paradeplatz, im Herzen von Zürich
+  subtitle: Unser Produkt ist digital, die Menschen dahinter aus Fleisch und Blut. Man trifft sie in unseren Offices in der Schweiz und in Deutschland.
   columns:
     - title: Zürich
       picture:
