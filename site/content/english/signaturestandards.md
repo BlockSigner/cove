@@ -65,7 +65,7 @@ The three standards vary in terms of area of application and legal weight.
 {{% markdown %}}
 
 **Documents**
-that are informal or internal and have a low liability risk.
+without legal form requirement and with low liability risk.
 &nbsp;
 
 **Examples:****
@@ -107,7 +107,7 @@ with legal form requirements or high liability risk.
   <tr>
     <th scope="row">
     </th>
-    <td colspan="3">{{% markdown %}}****The choice of the e-signature standard depends on applicable formal requirements and internal policies and may differ from the listed examples. Consult a legal advisor for your specific case.**{{% /markdown %}}</td>
+    <td colspan="3">{{% markdown %}}**The choice of the e-signature standard depends on applicable formal requirements and internal policies and may differ from the listed examples. Consult a legal advisor for your specific case.{{% /markdown %}}</td>
     <td></td>
     <td></td>
   </tr>
