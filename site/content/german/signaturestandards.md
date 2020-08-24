@@ -66,10 +66,10 @@ Die drei Standards variieren punkto Einsatzgebiet und Beweiskraft.
 {{% markdown %}}
 
 **Dokumente**
-interner oder informeller Natur mit geringem Haftungsrisiko.
+ohne gesetzliche Formvorschrift mit geringem Haftungsrisiko. 
 &nbsp;
 
-**Beispiele:****
+**Beispiele*:**
 - Lieferanten-Offerten
 - Bestellungen/Aufträge
 - Organisationsinterne Dokumente
@@ -108,7 +108,7 @@ mit gesetzlicher Formvorschrift oder hohem Haftungsrisiko.
   <tr>
     <th scope="row">
     </th>
-    <td colspan="3">{{% markdown %}}****Die Wahl des E-Signatur-Standards ist von geltenden Formvorschriften und internen Richtlinien abhängig und kann von den aufgeführten Beispielen abweichen. Konsultieren Sie eine Rechtsberatung für Ihren konkreten Fall.**{{% /markdown %}}</td>
+    <td colspan="3">{{% markdown %}}**Die Wahl des E-Signatur-Standards ist von geltenden Formvorschriften und internen Richtlinien abhängig und kann von den aufgeführten Beispielen abweichen. Konsultieren Sie eine Rechtsberatung für Ihren konkreten Fall.{{% /markdown %}}</td>
     <td></td>
     <td></td>
   </tr>
