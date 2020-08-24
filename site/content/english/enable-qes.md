@@ -127,6 +127,29 @@ Sa: 09.00 - 16.00
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
 {{< cta
+  label="058 255 29 62"
+  href="tel: +41 058 255 29 62"
+  target="_blank"
+  title="Basel"
+  class="id-site"
+  outlined="true"
+  icon="phone"
+>}}
+
+{{% markdown %}}
+**FlexOffice**
+Barfüsserplatz 3
+CH-4051 Basel
+[Open in Google Maps](https://g.page/flexoffice-bs-bp?share)
+
+**Opening hours:**
+Mo - Fr: 09.00 - 17.00
+{{% /markdown %}}
+{{< /cta >}}
+
+[//]: # (--------------------------------------------------------------------------------------------------------------)
+
+{{< cta
   label="Schedule an E-ID appointment"
   href="https://4ndl.bookafy.com/service/e-id-fur-skribble-in-belp"
   target="_blank"
@@ -139,6 +162,7 @@ Sa: 09.00 - 16.00
 **Natel Profi**
 Dorfstrasse 6
 CH-3123 Belp
+[Open in Google Maps](https://g.page/natelprofi?share)
 {{% /markdown %}}
 {{< /cta >}}
 
@@ -158,6 +182,7 @@ CH-3123 Belp
 **Swisscom Shop Bern Bahnhof**
 Bahnhofplatz 10 b
 3011 Bern
+[Open in Google Maps](https://goo.gl/maps/6w4p72rAb9mHg2J39)
 
 **Opening hours:**
 Mo - Sa: 09.00 - 20.00
@@ -179,6 +204,7 @@ So: 10.00 - 20.00
 **Natel Spycher**
 Belpstrasse 45
 CH-3007 Bern
+[Open in Google Maps](https://goo.gl/maps/r3UBuWuHJhNS9MA16)
 {{% /markdown %}}
 {{< /cta >}}
 {{< /cta-group >}}
@@ -199,6 +225,7 @@ CH-3007 Bern
 **Swisscom Shop**
 Route de Riaz 18
 CH-1630 Bulle
+[Open in Google Maps](https://goo.gl/maps/ZUfzbrDy4qZ8ARMS8)
 
 **Opening hours:**
 Mo - Fr: 09.00 - 18.30
@@ -222,6 +249,7 @@ Sa: 09.00 - 16.00
 **Swisscom Shop**
 Avenue de la Gare 22
 CH-1700 Fribourg
+[Open in Google Maps](https://goo.gl/maps/qgtHiHtQkVABZcbFA)
 
 **Opening hours:**
 Mo - Fr: 08.30 - 19.00
@@ -247,6 +275,7 @@ Sa: 09.00 - 16.00
 **Crativ GmbH**
 Voa Crapera 1
 CH-7078 Lenzerheide
+[Open in Google Maps](https://goo.gl/maps/os2zQE8xV3tsUHhD8)
 
 **Opening hours:**
 Mo - Fr: 09.00 - 17.30
@@ -271,6 +300,7 @@ Mo - Fr: 09.00 - 17.30
 **Avv. Jonathan Moor**
 Via Luigi Lavizzari 2A (PT)
 CH-6900 Lugano
+[Open in Google Maps](https://goo.gl/maps/EHNx93o4FpuD6QXQ8)
 
 {{% /markdown %}}
 {{< /cta >}}
@@ -292,6 +322,8 @@ CH-6900 Lugano
 **Dynamicstudio GmbH**
 Via da Mezz 42A
 CH-7742 Poschiavo
+[Open in Google Maps](https://g.page/dynamicstudio-gmbh?share)
+
 {{% /markdown %}}
 {{< /cta >}}
 {{< /cta-group >}}
@@ -315,6 +347,7 @@ CH-7742 Poschiavo
 **FlexOffice**
 Fraumünsterstrasse 16
 CH-8001 Zurich
+[Open in Google Maps](https://g.page/flexofficeswiss?share)
 
 **Opening hours:**
 Mo - Fr: 09.00 - 17.00
@@ -337,6 +370,7 @@ Airport Shopping Center
 Check-in 3
 Flughafenstrasse 3
 CH-8302 Kloten
+[Open in Google Maps](https://goo.gl/maps/JE2faJc18JKTgLbA7)
 
 **Opening hours:**
 Mo - Su: 08.00 - 21.00
