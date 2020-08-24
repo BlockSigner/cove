@@ -8,7 +8,7 @@ type: contact
 # map component
 map:
   title: Skribble Offices
-  subtitle: Right by Paradeplatz, in the heart of Zurich
+  subtitle: While our product is digital, you can meet us in the flesh at our offices in Switzerland and Germany.
   columns:
     - title: Zurich
       picture:
