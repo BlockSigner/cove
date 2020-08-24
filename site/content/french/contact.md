@@ -9,7 +9,7 @@ og_image: og/og-skribble.jpg
 # map component
 map:
   title: Bureau de Skribble
-  subtitle: Juste à côté de la Paradeplatz, au cœur de Zurich
+  subtitle: Notre produit est numérique, les personnes derrière la compagnie en chair et en os. Vous pouvez les rencontrer dans nos bureaux en Suisse et en Allemagne.
   columns:
     - title: Zürich
       picture:
