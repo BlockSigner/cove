@@ -69,7 +69,7 @@ Die drei Standards variieren punkto Einsatzgebiet und Beweiskraft.
 ohne gesetzliche Formvorschrift mit geringem Haftungsrisiko. 
 &nbsp;
 
-**Beispiele*:**
+**Beispiele**:**
 - Lieferanten-Offerten
 - Bestellungen/Aufträge
 - Organisationsinterne Dokumente
