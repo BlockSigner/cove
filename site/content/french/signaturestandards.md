@@ -66,7 +66,7 @@ et de force probante.
 {{% markdown %}}
 
 **Documents**
-informelles ou internes avec un faible risque de responsabilité.
+sans exigence formelle juridique avec un faible risque de responsabilité.
 
 **Exemples :****
 - Offres des fournisseurs
@@ -109,7 +109,7 @@ avec exigences formelles juridiques ou avec un risque de responsabilité fort.
   <tr>
     <th scope="row">
     </th>
-    <td colspan="3">{{% markdown %}}****Le choix de la norme de signature électronique dépend des exigences formelles applicables et des directives internes et peut différer des exemples donnés. Consultez un conseil juridique pour votre cas précis.**{{% /markdown %}}</td>
+    <td colspan="3">{{% markdown %}}**Le choix de la norme de signature électronique dépend des exigences formelles applicables et des directives internes et peut différer des exemples donnés. Consultez un conseil juridique pour votre cas précis.{{% /markdown %}}</td>
     <td></td>
     <td></td>
   </tr>
