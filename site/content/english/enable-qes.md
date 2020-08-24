@@ -116,7 +116,6 @@ Route de Matran
 9 CH-1754 Avry
 [Open in Google Maps](https://goo.gl/maps/kDo661CfCQeuz93Q8)
 
-
 **Opening hours:**
 Mo - Fr: 08.30 - 19.00
 Do: 08.30 - 21.00
@@ -329,8 +328,6 @@ CH-7742 Poschiavo
 {{< /cta-group >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
-
-
 
 {{< cta-group >}}
 
