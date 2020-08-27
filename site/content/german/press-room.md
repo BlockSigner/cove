@@ -57,7 +57,7 @@ Die wichtigsten Skribble Branding Assets sind gleich hier griffbereit:
   <td>27.08.2020</td>
   <td><strong>Skribble erhält weiteres Wachstumskapital</strong></td>
   <td>
-    <a href="https://news.skribble.com/facebook-early-stage-investor-beteiligt-sich-an-skribble" target="_blank">Lesen</a>
+    <a href="https://news.skribble.com/facebook-early-stage-investor-beteiligt-sich-an-skribble" target="_blank">Jetzt lesen</a>
   </td>
 </tr>
 <tr>
