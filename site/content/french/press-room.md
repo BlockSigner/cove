@@ -58,7 +58,7 @@ Les atouts les plus importants de Skribble sont à portée de main :
   <td>27.08.2020</td>
   <td><strong>Skribble reçoit du capital de croissance supplémentaire (en allemand)</strong></td>
   <td>
-    <a href="https://news.skribble.com/facebook-early-stage-investor-beteiligt-sich-an-skribble" target="_blank">Lire</a>
+    <a href="https://news.skribble.com/facebook-early-stage-investor-beteiligt-sich-an-skribble" target="_blank">Lire maintenant</a>
   </td>
 </tr>
 
