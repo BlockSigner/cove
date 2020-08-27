@@ -57,7 +57,7 @@ The Most Important Skribble Branding Assets are right here at hand:
   <td>27.08.2020</td>
   <td><strong>Skribble receives further growth capital (in German)</strong></td>
   <td>
-    <a href="https://news.skribble.com/facebook-early-stage-investor-beteiligt-sich-an-skribble" target="_blank">Read</a>
+    <a href="https://news.skribble.com/facebook-early-stage-investor-beteiligt-sich-an-skribble" target="_blank">Read now</a>
   </td>
 </tr>
 <tr>
