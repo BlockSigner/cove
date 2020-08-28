@@ -1,5 +1,7 @@
 <picture>
+  {{ if .url }}
   <a href="{{ .url }}" target="_blank">
+  {{ end }}
     {{ $width_x2 := mul (int .natural_width) 2 }}
     <source
       type="image/webp"
@@ -16,5 +18,7 @@
       src="image/{{ .filename }}-{{ .natural_width }}w.jpg"
       width="{{ .natural_width }}"
     />
+  {{ if .url }}
   </a>
+  {{ end }}
 </picture>
