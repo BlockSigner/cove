@@ -34,7 +34,7 @@ who share our values and goals.
   {{< partner field=Network img=partner-expert-suisse href=https://www.expertsuisse.ch/en-home img-width=118 img-alt=Expert-Suisse >}}
   {{< partner field=Integration img=partner-softcom href=https://softcom.pro/?lang=en img-width=80 img-alt=Softcom >}}
   {{< partner field="Software & Integration" img=partner-fidentity href=https://www.fidentity.ch/ img-width=118 img-alt=Fidentity >}}
-  {{< partner field="Software & Integration" img=partner-spectas href=https://www.spectas.ch/kopiya-home-1 img-width=76 img-alt=Spectas >}}
+  {{< partner field="Software & Integration" img=partner-spectas href=https://www.spectas.ch/ img-width=76 img-alt=Spectas >}}
   {{< partner field="Identification & Integration" img=partner-elca href=https://www.elca.ch/en img-width=66 img-alt=ELCA >}}
   {{< partner field=Network img=partner-swiss-made href=https://www.swissmadesoftware.org/en/home/home.html img-width=100 img-alt=Swissmadesoftware >}}
   {{< partner field=Network img=partner-sav-fsa href=https://www.sav-fsa.ch/en/home.html img-width=110 img-alt=SAV-FSA >}}
