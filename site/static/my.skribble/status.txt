@@ -1,1 +1,0 @@
-Service is currently degraded. One of our signing providers is experiencing problems. We are monitoring the situation and will keep you updated.
