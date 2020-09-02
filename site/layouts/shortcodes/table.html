@@ -11,7 +11,7 @@
     {{ if .Get "lock-for-mobile" }}<div class="table-lock-container">{{ end }}
     <table class="table {{ if eq (.Get "layout") "fixed" }}table--fixed{{ end }} {{ if .Get "class" }}{{ .Get "class" }}{{ end }}">
       <tbody>
-        {{.Inner}}
+        {{.Inner|markdownify}}
       </tbody>
     </table>
     {{ if .Get "lock-for-mobile" }}</div>{{ end }}

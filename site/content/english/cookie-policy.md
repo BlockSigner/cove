@@ -34,14 +34,56 @@ Most browsers accept cookies by default. Cookies can be rejected in the security
 By law, we may store cookies on your device if they are absolutely necessary for the operation of this website. For all other types of cookies we would like to ask you for your consent, which you can give us via the cookie banner or the consent management tool.
 
 We generally use cookies of the following categories:
+{{% /markdown %}}
 
-| Category | Description |
-| ----------- | ----------- |
-| Performance | These cookies are used to perform advertising, web analytics, live chat and security measures. These include third party cookies. |
-| Statistics | These cookies collect information about the way our website is used, number of visits, average time spent, pages viewed, error reports. |
-| Preferences (Functional) | These cookies enable the website to store information already entered (such as user names, language settings) and to offer the user improved, more personalized functions. |
-| Required | These cookies are essential for the website to function properly. Without these cookies, our services would not work. |
+{{< table-dense class="cookies-table" >}}
+<thead>
+  <tr>
+    <th>Category</th>
+    <th>Description</th>
+    <th></th>
+    <th></th>
+    <th></th>
+    <th></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Performance cookies</td>
+    <td>These cookies are used to perform advertising, web analytics, live chat and security measures. These include third party cookies.</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Statistics</td>
+    <td>These cookies collect information about the way our website is used, number of visits, average time spent, pages viewed, error reports.</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Preferences (Functional)</td>
+    <td>These cookies enable the website to store information already entered (such as user names, language settings) and to offer the user improved, more personalized functions.</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Required cookies</td>
+    <td>These cookies are essential for the website to function properly. Without these cookies, our services would not work.</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+</tbody>
+{{< /table-dense >}}
 
+{{% markdown %}}
 Cookies can also be permanent or temporary. So-called permanent cookies store a file for a certain period of time until the cookie expires on your terminal device or until you delete it manually. This saves e.g. language settings so that you do not have to make these settings again for our website. 
 
 A so-called **session cookie** temporarily stores a session identification while you are active on the website. This prevents, for example, that you have to log in again when you change pages. Session cookies are deleted when you log out or lose their validity as soon as your session has expired.
@@ -51,44 +93,284 @@ Cookies can also be used as **third-party cookies**. Third-party cookies come fr
 The following is a summary of the cookies we use, which should inform you about the purpose and nature of each cookie and how long it is stored.
 
 #### Cookies (skribble.com)
-| Cookie name 	| Domain 	| Duration of storage 	| Purpose 	| Category 	| Country 	|
-|-	|-	|-	|-	|-	|-	|
-| __cfduid 	| .usemessages.com 	| 1 month 	| Used by the Content Delivery Network (CDN) CloudFlare to speed up the loading times of this website. 	| Required 	| Switzerland 	|
-| __hssc 	| .skribble.com 	| 30 min. 	| Used by HubSpot for website analytics. 	| Analytics (Performance) 	| USA 	|
-| __hssrc 	| .skribble.com 	| 12 months 	| Used by HubSpot for website analytics. 	| Analytics (Performance) 	| Switzerland 	|
-| __hstc 	| .skribble.com 	| 13 months 	| Used by Skribble for server-based website analytics and user tracking. 	| Analytics (Performance) 	| USA 	|
-| _pk_id.1.26e9 	| .skribble.com 	| 13 months 	| Used by Skribble / Matomo for server-based website analytics. 	| Analytics (Performance) 	| Switzerland 	|
-| _pk_ses.1.26e9 	| .skribble.com 	| 1 day 	| Used by Skribble / Matomo for server-based website analytics. 	| Analytics (Performance) 	| Switzerland 	|
-| _uetsid 	| .skribble.com 	| 1 day 	| Is used by Microsoft Bing to display a range of advertisements. 	| Marketing 	| USA 	|
-| _uetvid 	| .skribble.com 	| 16 days 	| Is used by Microsoft Bing to assign an anonymous visitor ID. 	| Marketing 	| USA 	|
-| 1P_JAR 	| .google.com 	| 1 day 	| Is used by Google and informs about which ads the visitor might have seen before. 	| Marketing 	| USA 	|
-| ANID 	| .google.com 	| 1 year 	| Used by Google to display advertising. 	| Marketing 	| USA 	|
-| CONSENT 	| .google.com 	| 17 years 	| Is used by Google to store the consent of the visitor. 	| Marketing 	| USA 	|
-| DV 	| www.google.com 	| 1 day 	| Is used by Google to collect information about how visitors use the website. 	| Marketing 	| USA 	|
-| HubSpotutk 	| .skribble.com 	| 13 months 	| Used by HubSpot to manage visitor identities. It is used to check for duplicate contacts in forms. 	| Functional 	| USA 	|
-| IDE 	| .doubleclick.net 	| 25 days 	| Is used by Google or Doubleclick to display advertising and is used as a "real time bidding advertising exchange". 	| Marketing 	| USA 	|
-| Klaro 	| www.skribble.com 	| 1 year 	| Is used by the consent management tool Klaro to store the user consent. 	| Required 	| Switzerland 	|
-| messagesUtk 	| .skribble.com 	| 13 months 	| Used by the HubSpot Chat Bot. 	| Functional 	| USA 	|
-| NID 	| .google.com 	| 6 months 	| Is used by Google to display advertising and for user tracking. The NID cookie contains a unique ID that Google uses to store your preferred settings and other information, including your preferred language (e.g., English), how many search results you want to be displayed per page (e.g., 10 or 20), and whether you want the Google SafeSearch filter to be enabled. 	| Marketing 	| USA 	|
-| x-access-token 	| my.skribble.com 	| For the duration of the session 	| Used by Skribble for user authentication. 	| Required 	| Switzerland 	|
 
+{{% /markdown %}}
+
+{{< table-dense class="cookies-table" >}}
+<thead>
+  <tr>
+    <th>Cookie name</th>
+    <th>Domain</th>
+    <th>Duration of storage</th>
+    <th>Purpose</th>
+    <th>Category</th>
+    <th>Country</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>__cfduid</td>
+    <td>.usemessages.com</td>
+    <td>1 month</td>
+    <td>Used by the Content Delivery Network (CDN) CloudFlare to speed up the loading times of this website.</td>
+    <td>Required</td>
+    <td>Switzerland</td>
+  </tr>
+  <tr>
+    <td>__hssc</td>
+    <td>.skribble.com</td>
+    <td>30 min.</td>
+    <td>Used by HubSpot for website analytics.</td>
+    <td>Analytics (Performance)</td>
+    <td>USA</td>
+  </tr>
+  <tr>
+    <td>__hssrc</td>
+    <td>.skribble.com</td>
+    <td>12 months</td>
+    <td>Used by HubSpot for website analytics.</td>
+    <td>Analytics (Performance)</td>
+    <td>Switzerland</td>
+  </tr>
+  <tr>
+    <td>__hstc</td>
+    <td>.skribble.com</td>
+    <td>13 months</td>
+    <td>Used by Skribble for server-based website analytics and user tracking.</td>
+    <td>Analytics (Performance)</td>
+    <td>USA</td>
+  </tr>
+  <tr>
+    <td>_pk_id.1.26e9</td>
+    <td>.skribble.com</td>
+    <td>13 months</td>
+    <td>Used by Skribble / Matomo for server-based website analytics.</td>
+    <td>Analytics (Performance)</td>
+    <td>Switzerland</td>
+  </tr>
+  <tr>
+    <td>_pk_ses.1.26e9</td>
+    <td>.skribble.com</td>
+    <td>1 day</td>
+    <td>Used by Skribble / Matomo for server-based website analytics.</td>
+    <td>Analytics (Performance)</td>
+    <td>Switzerland</td>
+  </tr>
+  <tr>
+    <td>_uetsid</td>
+    <td>.skribble.com</td>
+    <td>1 day</td>
+    <td>Is used by Microsoft Bing to display a range of advertisements.</td>
+    <td>Marketing</td>
+    <td>USA</td>
+  </tr>
+  <tr>
+    <td>_uetvid</td>
+    <td>.skribble.com</td>
+    <td>16 days</td>
+    <td>Is used by Microsoft Bing to assign an anonymous visitor ID.</td>
+    <td>Marketing</td>
+    <td>USA</td>
+  </tr>
+  <tr>
+    <td>1P_JAR</td>
+    <td>.google.com</td>
+    <td>1 day</td>
+    <td>Is used by Google and informs about which ads the visitor might have seen before.</td>
+    <td>Marketing</td>
+    <td>USA</td>
+  </tr>
+  <tr>
+    <td>ANID</td>
+    <td>.google.com</td>
+    <td>1 year</td>
+    <td>Used by Google to display advertising.</td>
+    <td>Marketing</td>
+    <td>USA</td>
+  </tr>
+  <tr>
+    <td>CONSENT</td>
+    <td>.google.com</td>
+    <td>17 years</td>
+    <td>Is used by Google to store the consent of the visitor.</td>
+    <td>Marketing</td>
+    <td>USA</td>
+  </tr>
+  <tr>
+    <td>DV</td>
+    <td>www.google.com</td>
+    <td>1 day</td>
+    <td>Is used by Google to collect information about how visitors use the website.</td>
+    <td>Marketing</td>
+    <td>USA</td>
+  </tr>
+  <tr>
+    <td>HubSpotutk</td>
+    <td>.skribble.com</td>
+    <td>13 months</td>
+    <td>Used by HubSpot to manage visitor identities. It is used to check for duplicate contacts in forms.</td>
+    <td>Functional</td>
+    <td>USA</td>
+  </tr>
+  <tr>
+    <td>IDE</td>
+    <td>.doubleclick.net</td>
+    <td>25 days</td>
+    <td>Is used by Google or Doubleclick to display advertising and is used as a "real time bidding advertising exchange".</td>
+    <td>Marketing</td>
+    <td>USA</td>
+  </tr>
+  <tr>
+    <td>Klaro</td>
+    <td><a href="http://www.skribble.com/">www.skribble.com</a></td>
+    <td>1 year</td>
+    <td>Is used by the consent management tool Klaro to store the user consent.</td>
+    <td>Required</td>
+    <td>Switzerland</td>
+  </tr>
+  <tr>
+    <td>messagesUtk</td>
+    <td>.skribble.com</td>
+    <td>13 months</td>
+    <td>Used by the HubSpot Chat Bot.</td>
+    <td>Functional</td>
+    <td>USA</td>
+  </tr>
+  <tr>
+    <td>NID</td>
+    <td>.google.com</td>
+    <td>6 months</td>
+    <td>Is used by Google to display advertising and for user tracking. The NID cookie contains a unique ID that Google uses to store your preferred settings and other information, including your preferred language (e.g., English), how many search results you want to be displayed per page (e.g., 10 or 20), and whether you want the Google SafeSearch filter to be enabled.</td>
+    <td>Marketing</td>
+    <td>USA</td>
+  </tr>
+  <tr>
+    <td>x-access-token</td>
+    <td>my.skribble.com</td>
+    <td>For the duration of the session</td>
+    <td>Used by Skribble for user authentication.</td>
+    <td>Required</td>
+    <td>Switzerland</td>
+  </tr>
+</tbody>
+{{< /table-dense >}}
+
+{{% markdown %}}
 
 #### Cookies (my.skribble.com)
-| Cookie name 	| Domain 	| Duration of storage 	| Purpose 	| Category 	| Country 	|
-|-	|-	|-	|-	|-	|-	|
-| __cfduid 	| .usemessages.com 	| 1 month 	| Is used by the Content Delivery Network (CDN) CloudFlare to speed up the loading times of this website. 	| Required 	| Switzerland 	|
-| __hssc 	| .skribble.com 	| 30 min. 	| Used by Skribble / HubSpot for website analytics. 	| Analytics (Performance) 	| USA 	|
-| __hssrc 	| .skribble.com 	| 12 months 	| Used by Skribble / HubSpot for website analytics. 	| Analytics (Performance) 	| USA 	|
-| __hstc 	| .skribble.com 	| 13 months 	| Used by Skribble / HubSpot for server-based website analytics and user tracking. 	| Analytics (Performance) 	| USA 	|
-| _pk_id.1.bb2a 	| my.skribble.com 	| 13 months 	| Used by Skribble / Matomo for server-based website analytics. 	| Analytics (Performance) 	| Switzerland 	|
-| _pk_ses.1.bb2a 	| my.skribble.com 	| 1 day 	| Used by Skribble / Matomo for server-based website analytics. 	| Analytics (Performance) 	| Switzerland 	|
-| _uetsid 	| .skribble.com 	| 1 day 	| Is used by Microsoft Bing to display a range of advertisements. 	| Marketing 	| USA 	|
-| _uetvid 	| .skribble.com 	| 16 days 	| Is used by Microsoft Bing to assign an anonymous visitor ID. 	| Marketing 	| USA 	|
-| HubSpotutk 	| .skribble.com 	| 13 months 	| Is used by the HubSpot Chat Bot to identify users. 	| Functional 	| USA 	|
-| Klaro 	| www.skribble.com 	| 1 year 	| Is used by the consent management tool Klaro to store the user consent. 	| Required 	| Switzerland 	|
-| messagesUtk 	| .skribble.com 	| 13 months 	| Used by the HubSpot Chat Bot. 	| Functional 	| USA 	|
-| x-access-token 	| my.skribble.com 	| For the duration of the session 	| Used by Skribble for user authentication. 	| Required 	| Switzerland 	|
+
 {{% /markdown %}}
+
+{{< table-dense class="cookies-table" >}}
+<thead>
+  <tr>
+    <th>Cookie name</th>
+    <th>Domain</th>
+    <th>Duration of storage</th>
+    <th>Purpose</th>
+    <th>Category</th>
+    <th>Country</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>__cfduid</td>
+    <td>.usemessages.com</td>
+    <td>1 month</td>
+    <td>Is used by the Content Delivery Network (CDN) CloudFlare to speed up the loading times of this website.</td>
+    <td>Required</td>
+    <td>Switzerland</td>
+  </tr>
+  <tr>
+    <td>__hssc</td>
+    <td>.skribble.com</td>
+    <td>30 min.</td>
+    <td>Used by Skribble / HubSpot for website analytics.</td>
+    <td>Analytics (Performance)</td>
+    <td>USA</td>
+  </tr>
+  <tr>
+    <td>__hssrc</td>
+    <td>.skribble.com</td>
+    <td>12 months</td>
+    <td>Used by Skribble / HubSpot for website analytics.</td>
+    <td>Analytics (Performance)</td>
+    <td>USA</td>
+  </tr>
+  <tr>
+    <td>__hstc</td>
+    <td>.skribble.com</td>
+    <td>13 months</td>
+    <td>Used by Skribble / HubSpot for server-based website analytics and user tracking.</td>
+    <td>Analytics (Performance)</td>
+    <td>USA</td>
+  </tr>
+  <tr>
+    <td>_pk_id.1.bb2a</td>
+    <td>my.skribble.com</td>
+    <td>13 months</td>
+    <td>Used by Skribble / Matomo for server-based website analytics.</td>
+    <td>Analytics (Performance)</td>
+    <td>Switzerland</td>
+  </tr>
+  <tr>
+    <td>_pk_ses.1.bb2a</td>
+    <td>my.skribble.com</td>
+    <td>1 day</td>
+    <td>Used by Skribble / Matomo for server-based website analytics.</td>
+    <td>Analytics (Performance)</td>
+    <td>Switzerland</td>
+  </tr>
+  <tr>
+    <td>_uetsid</td>
+    <td>.skribble.com</td>
+    <td>1 day</td>
+    <td>Is used by Microsoft Bing to display a range of advertisements.</td>
+    <td>Marketing</td>
+    <td>USA</td>
+  </tr>
+  <tr>
+    <td>_uetvid</td>
+    <td>.skribble.com</td>
+    <td>16 days</td>
+    <td>Is used by Microsoft Bing to assign an anonymous visitor ID.</td>
+    <td>Marketing</td>
+    <td>USA</td>
+  </tr>
+  <tr>
+    <td>HubSpotutk</td>
+    <td>.skribble.com</td>
+    <td>13 months</td>
+    <td>Is used by the HubSpot Chat Bot to identify users.</td>
+    <td>Functional</td>
+    <td>USA</td>
+  </tr>
+  <tr>
+    <td>Klaro</td>
+    <td><a href="http://www.skribble.com/">www.skribble.com</a></td>
+    <td>1 year</td>
+    <td>Is used by the consent management tool Klaro to store the user consent.</td>
+    <td>Required</td>
+    <td>Switzerland</td>
+  </tr>
+  <tr>
+    <td>messagesUtk</td>
+    <td>.skribble.com</td>
+    <td>13 months</td>
+    <td>Used by the HubSpot Chat Bot.</td>
+    <td>Functional</td>
+    <td>USA</td>
+  </tr>
+  <tr>
+    <td>x-access-token</td>
+    <td>my.skribble.com</td>
+    <td>For the duration of the session</td>
+    <td>Used by Skribble for user authentication.</td>
+    <td>Required</td>
+    <td>Switzerland</td>
+  </tr>
+</tbody>
+{{< /table-dense >}}
 
 {{< /content >}}
 
