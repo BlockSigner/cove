@@ -17,6 +17,8 @@ description: Skribble's Cookie Policy (2020-09-02)
 
 {{% /markdown %}}
 
+{{< cookie-resetter text="Reset cookie preferences">}}
+
 {{% markdown legal %}}
 ### General information
 This cookie policy explains which cookies we use for which purposes on our website (skribble.com and my.skribble.com) and what options you have for handling cookies.
