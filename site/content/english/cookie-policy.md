@@ -41,44 +41,24 @@ We generally use cookies of the following categories:
   <tr>
     <th>Category</th>
     <th>Description</th>
-    <th></th>
-    <th></th>
-    <th></th>
-    <th></th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td>Performance cookies</td>
+    <td>Performance</td>
     <td>These cookies are used to perform advertising, web analytics, live chat and security measures. These include third party cookies.</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
   </tr>
   <tr>
     <td>Statistics</td>
     <td>These cookies collect information about the way our website is used, number of visits, average time spent, pages viewed, error reports.</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
   </tr>
   <tr>
     <td>Preferences (Functional)</td>
     <td>These cookies enable the website to store information already entered (such as user names, language settings) and to offer the user improved, more personalized functions.</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
   </tr>
   <tr>
-    <td>Required cookies</td>
+    <td>Required</td>
     <td>These cookies are essential for the website to function properly. Without these cookies, our services would not work.</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
   </tr>
 </tbody>
 {{< /table-dense >}}
@@ -96,7 +76,7 @@ The following is a summary of the cookies we use, which should inform you about 
 
 {{% /markdown %}}
 
-{{< table-dense class="cookies-table" >}}
+{{< table-dense class="cookies-table small-font" >}}
 <thead>
   <tr>
     <th>Cookie name</th>
@@ -222,7 +202,7 @@ The following is a summary of the cookies we use, which should inform you about 
   </tr>
   <tr>
     <td>Klaro</td>
-    <td><a href="http://www.skribble.com/">www.skribble.com</a></td>
+    <td>www.skribble.com</td>
     <td>1 year</td>
     <td>Is used by the consent management tool Klaro to store the user consent.</td>
     <td>Required</td>
@@ -261,7 +241,7 @@ The following is a summary of the cookies we use, which should inform you about 
 
 {{% /markdown %}}
 
-{{< table-dense class="cookies-table" >}}
+{{< table-dense class="cookies-table small-font" >}}
 <thead>
   <tr>
     <th>Cookie name</th>
@@ -347,7 +327,7 @@ The following is a summary of the cookies we use, which should inform you about 
   </tr>
   <tr>
     <td>Klaro</td>
-    <td><a href="http://www.skribble.com/">www.skribble.com</a></td>
+    <td>www.skribble.com</td>
     <td>1 year</td>
     <td>Is used by the consent management tool Klaro to store the user consent.</td>
     <td>Required</td>

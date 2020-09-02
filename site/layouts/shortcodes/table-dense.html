@@ -1,5 +1,5 @@
-<div class="table-dense-container">
-    <table class="table-dense {{ if .Get "class" }}{{ .Get "class" }}{{ end }}" {{ if .Get "id"}}id="{{.Get "id"}}"{{end}} {{ if eq (.Get "layout") "fixed" }}table--fixed{{ end }} >
+<div class="table-dense-container {{ if .Get "class" }}{{ .Get "class" }}{{ end }}">
+    <table class="table-dense" {{ if .Get "id"}}id="{{.Get "id"}}"{{end}} {{ if eq (.Get "layout") "fixed" }}table--fixed{{ end }} >
         {{.Inner | safeHTML }}
     </table>
 </div>

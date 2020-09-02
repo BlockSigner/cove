@@ -1,4 +1,4 @@
-.table-dense-container{
+.table-dense-container {
   margin: auto;
   margin-bottom: 88px;
   max-width: 90%;
@@ -38,6 +38,18 @@
           width: 100%;
           margin-bottom: 9px;
         }
+      }
+    }
+
+    &.small-font > .table-dense {
+      font-size: 14px;
+
+      th {
+        padding: 10px;
+      }
+
+      td {
+        padding: 10px !important;
       }
     }
 
@@ -130,8 +142,17 @@
       };
     }
 
-    .cookies-table {
-      color: red
+    &.cookies-table {
+      margin: 20px 0px 40px 0px;
+      max-width: 100%;
+
+      th:first-child, td:first-child {
+        width: 80px;
+      }
+
+      th:nth-child(3), td:nth-child(3) {
+        min-width: 90px;
+      }
     }
 
 }
