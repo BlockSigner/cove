@@ -27,7 +27,7 @@ sondern auch einfach.
 
   {{< features-item src="features/invitesign.svg"
     headline="Zum Signieren einladen"
-    description="Laden Sie die signierenden Personen per E-Mail ein und legen Sie die Signatur-Reihenfolge fest.">}}
+    description="Laden Sie die signierenden Personen per E-Mail ein und wählen sie den E-Signatur-Standard, mit dem signiert werden soll.">}}
 
   {{< features-item src="features/confirm_mobile.svg"
     headline="Mit Handy bestätigen"
