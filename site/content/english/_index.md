@@ -65,7 +65,7 @@ Upload the PDF document directly via browser or use Skribble via API from your b
 {{< side-by-side bottom=12 mobile-top=6 mobile-bottom=6 img=image3 img-width=400 img-alt="A man invites two people to sign the document" >}}
 {{% markdown %}}
 ### Invite people to sign
-Define the order in which people should sign and invite them by e-mail.
+Invite the signatories by e-mail and select the e-signature standard to be used for signing.
 {{% /markdown %}}
 {{< /side-by-side >}}
 
