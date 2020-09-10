@@ -69,7 +69,6 @@ You are the first, fantastic contact our future customers will have with Skribbl
 {{% markdown %}}
 ## Apply now!
 We look forward to receiving your application and your CV.
-We are taking a summer break. Please allow 3-4 weeks from receipt of your application for an initial response time.
 {{% /markdown %}}
 {{< /content >}}
 
