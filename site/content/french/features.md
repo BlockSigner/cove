@@ -27,7 +27,7 @@ légalement valable, mais aussi simple.
 
   {{< features-item src="features/invitesign.svg"
     headline="Inviter à signer"
-    description="Invitez les signataires par e-mail et sélectionnez la norme de signature électronique à utiliser pour signer.">}}
+    description="Invitez les signataires par e-mail et sélectionnez la norme de signature électronique à utiliser.">}}
 
   {{< features-item src="features/confirm_mobile.svg"
     headline="Confirmer avec votre mobile"
