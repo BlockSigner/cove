@@ -68,7 +68,7 @@ You help us grow Skribble in Germany by supporting and advising our customers in
 {{< content text=center top=12 width=narrow >}}
 {{% markdown %}}
 ## Jetzt bewerben
-Wir machen eine kurze Sommerpause. Bitte rechne mit einer Reaktionszeit von 3-4 Wochen ab Eingang deiner Bewerbung bei uns.
+Wir freuen uns auf Deine Bewerbung und Deinen CV.
 {{% /markdown %}}
 {{< /content >}}
 
