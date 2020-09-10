@@ -70,7 +70,6 @@ You help us grow Skribble in Germany by supporting and advising our customers in
 {{% markdown %}}
 ## Apply now!
 We look forward to receiving your application and your CV.
-We are taking a summer break. Please allow 3-4 weeks from receipt of your application for an initial response time.
 {{% /markdown %}}
 {{< /content >}}
 
