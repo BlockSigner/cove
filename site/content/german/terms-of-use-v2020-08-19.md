@@ -3,7 +3,6 @@ title: Nutzungsbedingungen
 slug: nutzungsbedingungen
 aliases:
   - nutzungsbedingungen/archiv/20200819
-  - nutzungsbedingungen-v2020-08-19
 draft: false
 description: Nutzungsbedingungen für Systemnutzer von Skribble (2020-08-19)
 ---
