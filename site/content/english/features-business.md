@@ -53,9 +53,21 @@ Skribble Business customers sign organised as a group - with
 {{< testimonial "testimonial/uniqa-100w.png" "Jaroslav Molik, Reinsurance Manager, UNIQA Re" >}}
 "Skribble has given me enormous peace of mind in my daily work. We can now get contracts with affiliates in Austria, Central & Eastern Europe signed in a timely and more secure manner." {{< /testimonial >}}
 
+{{< cta
+  label="Download use case"
+  href=""
+  outlined="true"
+  target="_blank"
+>}}
+
+{{% markdown %}}
+**Download the UNIQA Re use case:**
+{{% /markdown %}}
+{{< /cta >}}
+
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< content text=center top=12 bottom=12 width=narrow >}}
+{{< content text=center top=24 bottom=12 width=narrow >}}
 {{% markdown %}}
 ## Skribble Business embeds itself into your existing infrastructure
 The onboarding of new signers is intuitive and fast.

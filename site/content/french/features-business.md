@@ -51,11 +51,23 @@ avec une administration centrale des membres et une facturation commune.
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
 {{< testimonial "testimonial/uniqa-100w.png" "Jaroslav Molik, Reinsurance Manager, UNIQA Re" >}}
-"Skribble m'a apporté une énorme tranquillité d'esprit dans mon travail quotidien. Nous pouvons désormais obtenir la signature de contrats avec des affiliés en Autriche, en Europe centrale et orientale, en temps voulu et de manière plus sûre" {{< /testimonial >}}
+"Skribble m'a apporté une énorme tranquillité d'esprit dans mon travail quotidien. Nous pouvons désormais obtenir la signature de contrats avec des affiliés en Autriche, en Europe centrale et orientale, en temps voulu et de manière plus sûre." {{< /testimonial >}}
+
+{{< cta
+  label="Télécharger le cas d'utilisation"
+  href=""
+  outlined="true"
+  target="_blank"
+>}}
+
+{{% markdown %}}
+**Téléchargez le cas d'utilisation UNIQA Re :**
+{{% /markdown %}}
+{{< /cta >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< content text=center top=12 bottom=12 width=narrow >}}
+{{< content text=center top=24 bottom=12 width=narrow >}}
 {{% markdown %}}
 ## Skribble Business s'intègre <br class="hide-for-mobile">dans votre infrastructure existante
 L'intégration des nouveaux signataires est intuitive et rapide.

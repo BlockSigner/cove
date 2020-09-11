@@ -52,9 +52,22 @@ mit zentraler Mitgliederverwaltung und gemeinsamer Abrechnung.
 {{< testimonial "testimonial/uniqa-100w.png" "Jaroslav Molik, Reinsurance Manager, UNIQA Re" >}}
 "Dank Skribble bin ich bei meiner täglichen Arbeit deutlich gelassener, da wir Verträge mit Tochtergesellschaften in Österreich, Mittel- und Osteuropa heute deutlich schneller und sicherer abschliessen können." {{< /testimonial >}}
 
+{{< cta
+  label="Download Use-Case"
+  href=""
+  outlined="true"
+  target="_blank"
+>}}
+
+{{% markdown %}}
+**Laden Sie den UNIQA Re Use-Case herunter:**
+{{% /markdown %}}
+{{< /cta >}}
+
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< content text=center top=12 bottom=12 width=narrow >}}
+
+{{< content text=center top=24 bottom=12 width=narrow >}}
 {{% markdown %}}
 ## Skribble Business bettet sich in Ihre bestehende Infrastruktur ein
 Das Onboarding neuer Signierenden ist intuitiv und schnell.
