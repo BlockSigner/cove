@@ -47,7 +47,7 @@ Grundsätzlich setzen wir Cookies der folgenden Kategorien ein:
 </thead>
 <tbody>
   <tr>
-    <td>Performance</td>
+    <td>Performance-Cookies (Leistung)</td>
     <td>Diese Cookies werden dazu verwendet, Werbung, Web-Analyse, Live Chat und Sicherheitsmaßnahmen durchzuführen. Dies sind u.a. Cookies von Drittanbietern (Third Party Cookies).</td>
   </tr>
   <tr>
@@ -55,11 +55,11 @@ Grundsätzlich setzen wir Cookies der folgenden Kategorien ein:
     <td>Diese Cookies sammeln Informationen über die Nutzungsweise unserer Website, Anzahl der Besuche, durchschnittliche Verweilzeit, aufgerufene Seiten, Fehlerberichte.</td>
   </tr>
   <tr>
-    <td>Präferenzen</td>
+    <td>Präferenzen (Funktional)</td>
     <td>Diese Cookies ermöglichen es der Website, bereits getätigte Angaben (wie z.B. Benutzernamen, Spracheinstellungen) zu speichern und dem Nutzer verbesserte, persönlichere Funktionen anzubieten.</td>
   </tr>
   <tr>
-    <td>Notwendige</td>
+    <td>Notwendige Cookies</td>
     <td>Diese Cookies sind unverzichtbar, damit die Website funktioniert. Ohne diese Cookies würden unsere Dienstleistungen nicht funktionieren.</td>
   </tr>
 </tbody>

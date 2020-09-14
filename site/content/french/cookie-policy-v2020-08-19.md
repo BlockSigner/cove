@@ -47,19 +47,19 @@ En principe, nous utilisons les cookies des catégories suivantes:
 </thead>
 <tbody>
   <tr>
-    <td>Performance</td>
+    <td>Cookies de performance</td>
     <td>Ces cookies sont utilisés à des fins de publicité, d’analyse Web, d’utilisation du chat en direct et de mise en œuvre de mesures de sécurité. Ce sont, entre autres, des cookies de prestataires tiers (cookies tiers).</td>
   </tr>
   <tr>
-    <td>Statistiques</td>
+    <td>Cookies statistiques</td>
     <td>Ces cookies collectent des informations sur l’utilisation de notre site Internet, le nombre de visites, la durée moyenne des visites, les pages consultées et les rapports d’erreurs.</td>
   </tr>
   <tr>
-    <td>Préférences</td>
+    <td>Cookies de préférences (fonctionnels)</td>
     <td>Ces cookies permettent au site Internet d’enregistrer les données déjà renseignées (telles que le nom d’utilisateur ou les préférences linguistiques) pour proposer à l’utilisateur des fonctionnalités optimisées et personnalisées.</td>
   </tr>
   <tr>
-    <td>Nécessaires</td>
+    <td>Cookies nécessaires</td>
     <td>Ces cookies sont indispensables au fonctionnement du site Internet. Nos services ne fonctionneraient pas en leur absence.</td>
   </tr>
 </tbody>

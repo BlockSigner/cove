@@ -47,7 +47,7 @@ We generally use cookies of the following categories:
 </thead>
 <tbody>
   <tr>
-    <td>Performance</td>
+    <td>Performance cookies</td>
     <td>These cookies are used to perform advertising, web analytics, live chat and security measures. These include third party cookies.</td>
   </tr>
   <tr>
@@ -59,7 +59,7 @@ We generally use cookies of the following categories:
     <td>These cookies enable the website to store information already entered (such as user names, language settings) and to offer the user improved, more personalized functions.</td>
   </tr>
   <tr>
-    <td>Required</td>
+    <td>Required cookies</td>
     <td>These cookies are essential for the website to function properly. Without these cookies, our services would not work.</td>
   </tr>
 </tbody>
