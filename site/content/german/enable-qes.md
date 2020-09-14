@@ -14,8 +14,8 @@ Maximieren Sie die Beweiskraft
 Ihrer E-Signatur
 ===============
 Die (QES) schalten Sie frei, in dem Sie sich online 
-via Video-Call oder im persönlichen Kontakt 
-mit der ID-App von Swisscom identifizieren lassen.
+via Video (EU) oder im persönlichen Kontakt (Schweiz)
+identifizieren lassen.
 {{% /markdown %}}
 {{< /content >}}
 
@@ -23,7 +23,7 @@ mit der ID-App von Swisscom identifizieren lassen.
 
 {{< side-by-side top=12 bottom=24 mobile-top=6 mobile-bottom=12 img=qes-increase img-position=left img-width=315 img-alt="A man is sitting in front of a laptop, above him is a software window, where a woman stands out with a big magnifying glass and checks an identity card." >}}
 {{% markdown %}}
-Video-Identifikation 
+EU: Video-Identifikation 
 online
 ===============
 Die Identifikation wird in Zusammenarbeit mit unseren Partnern Swisscom Trust Services und IdentityTM angeboten. 
@@ -42,11 +42,11 @@ Die Identifikation wird in Zusammenarbeit mit unseren Partnern Swisscom Trust Se
 
 {{< content text=center top=16 width=narrow >}}
 {{% markdown %}}
-Identifikation 
+Schweiz: Identifikation 
 im persönlichen Kontakt
 ===============
-Die QES schalten Sie frei, in dem Sie sich im persönlichen Kontakt
-mit der ID-App von Swisscom identifizieren lassen.
+Lassen Sie sich im persönlichen Kontakt
+mit der ID-App von Swisscom identifizieren.
 {{% /markdown %}}
 {{< /content >}}
 
@@ -81,7 +81,7 @@ Swisscom verifiziert Ihre Daten und legt sie sicher ab.
 {{< picture "identification-step-4" 270 "Eine person hält ein rechtsgültiges dokument in den händen. Im hintergrund befindet sich das swisscom logo" >}}
 {{% markdown %}}
 **Schritt 4**
-Die Beweiskraft Ihrer Signatur wird auf 100% angehoben (QES-Level)
+Die QES wird auf Skribble für Sie freigeschaltet.
 {{% /markdown %}}
 {{< /step >}}
 {{< /content >}}
