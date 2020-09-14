@@ -14,8 +14,8 @@ Maximisez la valeur probante
 de votre signature électronique
 ===============
 Déverrouillez la norme de signature électronique la plus élevée (SEQ) 
-en vous identifiant en ligne par appel vidéo ou par contact 
-personnel avec l’ID-app de Swisscom.
+en vous identifiant en ligne par appel vidéo (UE) ou par contact 
+personnel (Suisse).
 {{% /markdown %}}
 {{< /content >}}
 
@@ -23,7 +23,7 @@ personnel avec l’ID-app de Swisscom.
 
 {{< side-by-side top=12 bottom=24 mobile-top=6 mobile-bottom=12 img=qes-increase img-position=left img-width=315 img-alt="A man is sitting in front of a laptop, above him is a software window, where a woman stands out with a big magnifying glass and checks an identity card." >}}
 {{% markdown %}}
-Identification 
+UE: Identification 
 par vidéo en ligne
 ===============
 L'identification est proposée en coopération avec nos partenaires Swisscom Trust Services et IdentityTM.    
@@ -41,11 +41,12 @@ L'identification est proposée en coopération avec nos partenaires Swisscom Tru
 
 {{< content text=center top=16 width=narrow >}}
 {{% markdown %}}
-Identification 
+Suisse: Identification 
 par contact personnel
 ===============
-Déverrouillez la norme de signature électronique la plus élevée (SEQ) 
-en vous identifiant par contact personnel avec l’ID-app de Swisscom.
+
+Laissez-vous identifier par contact personnel
+avec l’ID-app de Swisscom.
 {{% /markdown %}}
 {{< /content >}}
 
@@ -81,7 +82,7 @@ Swisscom vérifie les données et les stocke en toute sécurité.
 {{< picture "identification-step-4" 270 "Une personne tient un document juridique entre ses mains. Le logo de swisscom se trouve à l'arrière-plan" >}}
 {{% markdown %}}
 **Etape 4**
-La force probante de votre signature est portée à 100% (niveau SEQ)
+Le QES sera activé pour vous sur Skribble.
 {{% /markdown %}}
 {{< /step >}}
 {{< /content >}}
