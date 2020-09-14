@@ -28,7 +28,7 @@ var klaroConfig = {
 
   // Put a link to your privacy policy here (relative or absolute).
   privacyPolicy: {
-    default: "/cookies",
+    default: "/cookie-policy",
     fr: "fr/cookies",
     de: "de/cookies",
   },

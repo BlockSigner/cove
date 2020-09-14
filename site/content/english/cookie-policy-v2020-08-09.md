@@ -1,11 +1,11 @@
 ---
 title: Cookie Policy
-slug: cookies
+slug: cookie-policy
 aliases:
-  - cookies/archive/20200902
-  - cookies-v2020-09-02
+  - cookies/archive/20200809
+  - cookies-v2020-08-09
 draft: false
-description: Skribble's Cookie Policy (2020-09-02)
+description: Skribble's Cookie Policy (2020-08-09)
 ---
 
 
@@ -13,7 +13,7 @@ description: Skribble's Cookie Policy (2020-09-02)
 {{% markdown %}}
 # Cookie Policy
 
-<small>(Version 2020.09.02)</small>
+<small>(Version 2020.08.09)</small>
 
 {{% /markdown %}}
 

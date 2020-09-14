@@ -13,7 +13,7 @@ description: Politique relative aux cookies (2020-09-02)
 {{% markdown %}}
 # Cookie Policy
 
-<small>(Version 2020.09.02)</small>
+<small>(Version 2020.08.09)</small>
 
 {{% /markdown %}}
 

@@ -330,7 +330,7 @@ languages:
           url: /gtc/
           weight: 10
         - name: Cookie Policy
-          url: /cookies/
+          url: /cookie-policy/
           weight: 15
         - name: Imprint
           url: /imprint/
@@ -346,7 +346,7 @@ languages:
           url: /gtc/
           weight: 15
         - name: Cookie Policy
-          url: /cookies/
+          url: /cookie-policy/
           weight: 20
         - name: Imprint
           url: /imprint/
