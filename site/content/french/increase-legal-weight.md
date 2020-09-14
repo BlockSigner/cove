@@ -125,7 +125,7 @@ Comment déverrouiller la SEQ sur Skribble
 # Signature électronique avancée (SEA)
 Vous activez la SEA en connectant votre compte Skribble avec un 
 numéro de téléphone portable suisse. Vous pouvez le paramétrer 
-dans votre profil. Si vous êtes un client Skribble Business ou Enterprise, vous pouvez 
+dans votre profil. Si vous êtes un client Skribble Business ou Enterprise, vous pouvez demander l'activation de la SEA via l'adresse électronique de l'entreprise (SEA pour Business).
 demander l'activation de la SEA via l'adresse électronique 
 de l'entreprise (SEA pour Business).
 {{% /markdown %}}
