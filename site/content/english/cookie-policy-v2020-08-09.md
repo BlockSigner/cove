@@ -66,7 +66,7 @@ We generally use cookies of the following categories:
 {{< /table-dense >}}
 
 {{% markdown %}}
-Cookies can also be permanent or temporary. So-called permanent cookies store a file for a certain period of time until the cookie expires on your terminal device or until you delete it manually. This saves e.g. language settings so that you do not have to make these settings again for our website. 
+Cookies can also be permanent or temporary. So-called **permanent cookies** store a file for a certain period of time until the cookie expires on your terminal device or until you delete it manually. This saves e.g. language settings so that you do not have to make these settings again for our website. 
 
 A so-called **session cookie** temporarily stores a session identification while you are active on the website. This prevents, for example, that you have to log in again when you change pages. Session cookies are deleted when you log out or lose their validity as soon as your session has expired.
 

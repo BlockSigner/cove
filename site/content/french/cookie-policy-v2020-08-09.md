@@ -1,6 +1,6 @@
 ---
 title: Cookie Policy
-slug: cookies
+slug: politique-relative-aux-cookies
 aliases:
   - cookies/archive/20200902
   - cookies-v2020-09-02
@@ -17,62 +17,62 @@ description: Politique relative aux cookies (2020-09-02)
 
 {{% /markdown %}}
 
-{{< cookie-resetter text="Reset cookie preferences">}}
+{{< cookie-resetter text="Réinitialiser les paramètres de cookies">}}
 
 {{% markdown legal %}}
 ### Généralités
-This cookie policy explains which cookies we use for which purposes on our website (skribble.com and my.skribble.com) and what options you have for handling cookies.
+La présente politique relative aux cookies précise quels cookies nous utilisons sur notre site Internet (skribble.com et my.skribble.com), à quelles fins nous les utilisons et quelles sont vos possibilités de paramétrage.
 
-We use technology on our website to make the website easier to use and to improve the user-friendliness of the website or to provide various functionalities, thus making the website more user-friendly, effective and secure. Such technologies include cookies, pixels and scripts (hereinafter "cookies").
+Nous avons recours sur notre site Internet à des technologies qui facilitent l’utilisation de notre site, qui le rendent plus agréable pour l’utilisateur et qui nous permettent de proposer différentes fonctionnalités et d’offrir un site globalement plus convivial, efficace et sûr. Il s’agit notamment de cookies, de pixels et de scripts (ci-après les «cookies»).
 
-Cookies are small data sets that are stored on your terminal device and contain data such as personal page settings and login information. This data record is generated and sent to you by the web server with which you have established a connection via your web browser.
+Les cookies sont de petits fichiers de données enregistrés sur votre terminal qui contiennent des données telles que vos préférences d’affichage des pages et vos données de connexion. Ces fichiers de données sont créés et vous sont transmis par le serveur Web auquel vous vous connectez par le biais de votre navigateur.
 
-### Handling of cookies
-In principle, it is also possible to access our website without cookies. You can object to the use of cookies at any time with effect for the future by setting your browser to accept no cookies or only certain cookies or by informing you as soon as cookies are sent. However, if you would like to use the functionalities of our website extensively, you should accept the cookies that enable the use of certain functions or make them more convenient. 
+### Gestion des cookies
+En principe, vous pouvez accéder à notre site Internet même si vous désactivez les cookies. Vous pouvez, à tout moment et sans effet rétroactif, vous opposer à l’utilisation de cookies en paramétrant votre navigateur de sorte qu’il refuse la totalité ou une partie des cookies ou de sorte à être informé(e) dès lors que des cookies sont utilisés. Si vous souhaitez toutefois pouvoir utiliser l’intégralité des fonctionnalités de notre site Internet, vous devrez accepter les cookies qui permettent ou rendent plus agréable l’utilisation de certaines fonctionnalités. 
 
-Most browsers accept cookies by default. Cookies can be rejected in the security settings. If you do not accept cookies, certain features on our website may not be available to you and some pages may not be displayed correctly. For detailed instructions on how to prevent cookies from being stored by changing your browser settings, please visit: [All About Cookies](https://www.allaboutcookies.org)
+La majorité des navigateurs autorisent les cookies par défaut. Il est possible de désactiver les cookies dans les paramètres de sécurité. Si vous n’autorisez pas les cookies, certaines fonctionnalités sur notre site Internet ne seront plus accessibles et il se peut que certaines pages ne puissent s’afficher correctement. Pour savoir précisément comment paramétrer votre navigateur de sorte à refuser les cookies, rendez-vous sur: [All About Cookies](https://www.allaboutcookies.org/fr)
 
-### Which cookies do we use?
-By law, we may store cookies on your device if they are absolutely necessary for the operation of this website. For all other types of cookies we would like to ask you for your consent, which you can give us via the cookie banner or the consent management tool.
+### Quels cookies utilisons-nous?
+La loi nous autorise à enregistrer des cookies sur votre appareil lorsque ceux-ci sont strictement nécessaires au fonctionnement de ce site Internet. Dans tous les autres cas, nous vous demandons votre consentement par le biais d’un bandeau cookies ou d’un outil de gestion du consentement.
 
-We generally use cookies of the following categories:
+En principe, nous utilisons les cookies des catégories suivantes:
 {{% /markdown %}}
 
 {{< table-dense class="cookies-table" >}}
 <thead>
   <tr>
-    <th>Category</th>
+    <th>Catégorie</th>
     <th>Description</th>
   </tr>
 </thead>
 <tbody>
   <tr>
     <td>Performance</td>
-    <td>These cookies are used to perform advertising, web analytics, live chat and security measures. These include third party cookies.</td>
+    <td>Ces cookies sont utilisés à des fins de publicité, d’analyse Web, d’utilisation du chat en direct et de mise en œuvre de mesures de sécurité. Ce sont, entre autres, des cookies de prestataires tiers (cookies tiers).</td>
   </tr>
   <tr>
-    <td>Statistics</td>
-    <td>These cookies collect information about the way our website is used, number of visits, average time spent, pages viewed, error reports.</td>
+    <td>Statistiques</td>
+    <td>Ces cookies collectent des informations sur l’utilisation de notre site Internet, le nombre de visites, la durée moyenne des visites, les pages consultées et les rapports d’erreurs.</td>
   </tr>
   <tr>
-    <td>Preferences (Functional)</td>
-    <td>These cookies enable the website to store information already entered (such as user names, language settings) and to offer the user improved, more personalized functions.</td>
+    <td>Préférences</td>
+    <td>Ces cookies permettent au site Internet d’enregistrer les données déjà renseignées (telles que le nom d’utilisateur ou les préférences linguistiques) pour proposer à l’utilisateur des fonctionnalités optimisées et personnalisées.</td>
   </tr>
   <tr>
-    <td>Required</td>
-    <td>These cookies are essential for the website to function properly. Without these cookies, our services would not work.</td>
+    <td>Nécessaires</td>
+    <td>Ces cookies sont indispensables au fonctionnement du site Internet. Nos services ne fonctionneraient pas en leur absence.</td>
   </tr>
 </tbody>
 {{< /table-dense >}}
 
 {{% markdown %}}
-Cookies can also be permanent or temporary. So-called permanent cookies store a file for a certain period of time until the cookie expires on your terminal device or until you delete it manually. This saves e.g. language settings so that you do not have to make these settings again for our website. 
+Les cookies peuvent être permanents ou temporaires. Les **cookies permanents** enregistrent un fichier pendant un certain temps jusqu’à expiration du cookie sur votre terminal ou jusqu’à ce que vous le supprimiez manuellement. Ils permettent par exemple d’enregistrer vos préférences linguistiques de sorte que vous n’ayez pas à les préciser à nouveau pour notre site Internet. 
 
-A so-called **session cookie** temporarily stores a session identification while you are active on the website. This prevents, for example, that you have to log in again when you change pages. Session cookies are deleted when you log out or lose their validity as soon as your session has expired.
+Les **cookies de session** enregistrent quant à eux temporairement un identifiant de session pour toute la durée de votre visite sur le site Internet. Cela vous permet de ne pas avoir à vous identifier à nouveau lorsque vous changez de page. Les cookies de session sont supprimés lorsque vous vous déconnectez ou expirent à la fin de votre session.
 
-Cookies can also be used as **third-party cookies**. Third-party cookies come from providers other than Skribble. For example, they may be used to collect information for advertising, custom content and web statistics.
+Il se peut également que nous utilisions des **cookies de prestataires tiers**. Ce sont des cookies générés par des prestataires autres que Skribble. Ils peuvent par exemple collecter des informations à des fins statistiques, publicitaires ou de publication de contenus personnalisés.
 
-The following is a summary of the cookies we use, which should inform you about the purpose and nature of each cookie and how long it is stored.
+Vous trouverez ci-après un récapitulatif des cookies que nous utilisons ainsi que leur finalité, leur nature et leur durée de conservation.
 
 #### Cookies (skribble.com)
 
@@ -81,158 +81,158 @@ The following is a summary of the cookies we use, which should inform you about 
 {{< table-dense class="cookies-table small-font" >}}
 <thead>
   <tr>
-    <th>Cookie name</th>
-    <th>Domain</th>
-    <th>Duration of storage</th>
-    <th>Purpose</th>
-    <th>Category</th>
-    <th>Country</th>
+    <th>Nom du cookie</th>
+    <th>Prestataire/Domaine</th>
+    <th>Durée de conservation</th>
+    <th>Finalité</th>
+    <th>Catégorie</th>
+    <th>Pays</th>
   </tr>
 </thead>
 <tbody>
   <tr>
     <td>__cfduid</td>
     <td>.usemessages.com</td>
-    <td>1 month</td>
-    <td>Used by the Content Delivery Network (CDN) CloudFlare to speed up the loading times of this website.</td>
-    <td>Required</td>
-    <td>Switzerland</td>
+    <td>1 mois</td>
+    <td>Utilisé par le réseau de diffusion de contenu (CDN) CloudFlare afin de permettre un chargement plus rapide des pages de ce site Internet.</td>
+    <td>Nécessaire</td>
+    <td>Suisse</td>
   </tr>
   <tr>
     <td>__hssc</td>
     <td>.skribble.com</td>
-    <td>30 min.</td>
-    <td>Used by HubSpot for website analytics.</td>
-    <td>Analytics (Performance)</td>
-    <td>USA</td>
+    <td>30 min</td>
+    <td>Utilisé par HubSpot à des fins d’analyse de site Internet.</td>
+    <td>Analyse (performance)</td>
+    <td>Etats-Unis</td>
   </tr>
   <tr>
     <td>__hssrc</td>
     <td>.skribble.com</td>
-    <td>12 months</td>
-    <td>Used by HubSpot for website analytics.</td>
-    <td>Analytics (Performance)</td>
-    <td>Switzerland</td>
+    <td>12 mois</td>
+    <td>Utilisé par HubSpot à des fins d’analyse de site Internet</td>
+    <td>Analyse (performance)</td>
+    <td>Suisse</td>
   </tr>
   <tr>
     <td>__hstc</td>
     <td>.skribble.com</td>
-    <td>13 months</td>
-    <td>Used by Skribble for server-based website analytics and user tracking.</td>
-    <td>Analytics (Performance)</td>
-    <td>USA</td>
+    <td>13 mois</td>
+    <td>Utilisé par Skribble à des fins de traçage des utilisateurs et d’analyse de site Internet côté serveur.</td>
+    <td>Analyse (performance)</td>
+    <td>Etats-Unis</td>
   </tr>
   <tr>
     <td>_pk_id.1.26e9</td>
     <td>.skribble.com</td>
-    <td>13 months</td>
-    <td>Used by Skribble / Matomo for server-based website analytics.</td>
-    <td>Analytics (Performance)</td>
-    <td>Switzerland</td>
+    <td>13 mois</td>
+    <td>Utilisé par Skribble/Matomo à des fins d’analyse de site Internet côté serveur.</td>
+    <td>Analyse (performance)</td>
+    <td>Suisse</td>
   </tr>
   <tr>
     <td>_pk_ses.1.26e9</td>
     <td>.skribble.com</td>
-    <td>1 day</td>
-    <td>Used by Skribble / Matomo for server-based website analytics.</td>
-    <td>Analytics (Performance)</td>
-    <td>Switzerland</td>
+    <td>1 jour</td>
+    <td>Utilisé par Skribble/Matomo à des fins d’analyse de site Internet basée sur le serveur.</td>
+    <td>Analyse (performance)</td>
+    <td>Suisse</td>
   </tr>
   <tr>
     <td>_uetsid</td>
     <td>.skribble.com</td>
-    <td>1 day</td>
-    <td>Is used by Microsoft Bing to display a range of advertisements.</td>
+    <td>1 jour</td>
+    <td>Utilisé par Microsoft Bing à des fins d’affichage d’une gamme de produits publicitaires.</td>
     <td>Marketing</td>
-    <td>USA</td>
+    <td>Etats-Unis</td>
   </tr>
   <tr>
     <td>_uetvid</td>
     <td>.skribble.com</td>
-    <td>16 days</td>
-    <td>Is used by Microsoft Bing to assign an anonymous visitor ID.</td>
+    <td>16 jours</td>
+    <td>Utilisé par Microsoft Bing afin d’attribuer un ID utilisateur anonymisé.</td>
     <td>Marketing</td>
-    <td>USA</td>
+    <td>Etats-Unis</td>
   </tr>
   <tr>
     <td>1P_JAR</td>
     <td>.google.com</td>
-    <td>1 day</td>
-    <td>Is used by Google and informs about which ads the visitor might have seen before.</td>
+    <td>1 jour</td>
+    <td>Utilisé par Google pour savoir quelle publicité le visiteur pourrait avoir vue auparavant.</td>
     <td>Marketing</td>
-    <td>USA</td>
+    <td>Etats-Unis</td>
   </tr>
   <tr>
     <td>ANID</td>
     <td>.google.com</td>
-    <td>1 year</td>
-    <td>Used by Google to display advertising.</td>
+    <td>1 an</td>
+    <td>Utilisé par Google à des fins d’affichage de publicités.</td>
     <td>Marketing</td>
-    <td>USA</td>
+    <td>Etats-Unis</td>
   </tr>
   <tr>
     <td>CONSENT</td>
     <td>.google.com</td>
-    <td>17 years</td>
-    <td>Is used by Google to store the consent of the visitor.</td>
+    <td>17 ans</td>
+    <td>Utilisé par Google à des fins d’enregistrement du consentement du visiteur.</td>
     <td>Marketing</td>
-    <td>USA</td>
+    <td>Etats-Unis</td>
   </tr>
   <tr>
     <td>DV</td>
-    <td>www.google.com</td>
-    <td>1 day</td>
-    <td>Is used by Google to collect information about how visitors use the website.</td>
+    <td>.google.com</td>
+    <td>1 jour</td>
+    <td>Utilisé par Google à des fins de collecte de données sur la façon dont les visiteurs utilisent le site Internet.</td>
     <td>Marketing</td>
-    <td>USA</td>
+    <td>Etats-Unis</td>
   </tr>
   <tr>
     <td>HubSpotutk</td>
     <td>.skribble.com</td>
-    <td>13 months</td>
-    <td>Used by HubSpot to manage visitor identities. It is used to check for duplicate contacts in forms.</td>
-    <td>Functional</td>
-    <td>USA</td>
+    <td>13 mois</td>
+    <td>Utilisé par HubSpot à des fins de gestion des identifiants utilisateurs. Permet de vérifier la présence de doublons dans les coordonnées renseignées dans les formulaires.</td>
+    <td>Fonctionnel</td>
+    <td>Etats-Unis</td>
   </tr>
   <tr>
     <td>IDE</td>
     <td>.doubleclick.net</td>
-    <td>25 days</td>
-    <td>Is used by Google or Doubleclick to display advertising and is used as a "real time bidding advertising exchange".</td>
+    <td>25 jours</td>
+    <td>Utilisé par Google ou Doubleclick à des fins d’affichage de publicités et d’achat d’espaces publicitaires via une plateforme d’échanges en «Real Time Bidding».</td>
     <td>Marketing</td>
-    <td>USA</td>
+    <td>Etats-Unis</td>
   </tr>
   <tr>
     <td>Klaro</td>
-    <td>www.skribble.com</td>
-    <td>1 year</td>
-    <td>Is used by the consent management tool Klaro to store the user consent.</td>
-    <td>Required</td>
-    <td>Switzerland</td>
+    <td>.skribble.com</td>
+    <td>1 an</td>
+    <td>Utilisé par l’outil de gestion du consentement Klaro à des fins d’enregistrement du consentement des utilisateurs.</td>
+    <td>Nécessaire</td>
+    <td>Suisse</td>
   </tr>
   <tr>
     <td>messagesUtk</td>
     <td>.skribble.com</td>
-    <td>13 months</td>
-    <td>Used by the HubSpot Chat Bot.</td>
-    <td>Functional</td>
-    <td>USA</td>
+    <td>13 mois</td>
+    <td>Utilisé par le chatbot de HubSpot.</td>
+    <td>Fonctionnel</td>
+    <td>Etats-Unis</td>
   </tr>
   <tr>
     <td>NID</td>
     <td>.google.com</td>
-    <td>6 months</td>
-    <td>Is used by Google to display advertising and for user tracking. The NID cookie contains a unique ID that Google uses to store your preferred settings and other information, including your preferred language (e.g., English), how many search results you want to be displayed per page (e.g., 10 or 20), and whether you want the Google SafeSearch filter to be enabled.</td>
+    <td>6 mois</td>
+    <td>Utilisé par Google à des fins d’affichage de publicités et de suivi des utilisateurs. Le cookie NID contient un ID unique permettant à Google d’enregistrer vos préférences et d’autres informations, notamment votre langue préférée (p. ex; le français), le nombre de résultats de recherche à afficher par page (p. ex. 10 ou 20) et l’état souhaité pour le filtre SafeSearch de Google (activé ou désactivé).</td>
     <td>Marketing</td>
-    <td>USA</td>
+    <td>Etats-Unis</td>
   </tr>
   <tr>
     <td>x-access-token</td>
     <td>my.skribble.com</td>
-    <td>For the duration of the session</td>
-    <td>Used by Skribble for user authentication.</td>
-    <td>Required</td>
-    <td>Switzerland</td>
+    <td>Durée de la session</td>
+    <td>Utilisé par Skribble à des fins d’authentification des utilisateurs.</td>
+    <td>Nécessaire</td>
+    <td>Suisse</td>
   </tr>
 </tbody>
 {{< /table-dense >}}
@@ -246,110 +246,110 @@ The following is a summary of the cookies we use, which should inform you about 
 {{< table-dense class="cookies-table small-font" >}}
 <thead>
   <tr>
-    <th>Cookie name</th>
-    <th>Domain</th>
-    <th>Duration of storage</th>
-    <th>Purpose</th>
-    <th>Category</th>
-    <th>Country</th>
+    <th>Nom du cookie</th>
+    <th>Prestataire/Domaine</th>
+    <th>Durée de conservation</th>
+    <th>Finalité</th>
+    <th>Catégorie</th>
+    <th>Pays</th>
   </tr>
 </thead>
 <tbody>
   <tr>
     <td>__cfduid</td>
     <td>.usemessages.com</td>
-    <td>1 month</td>
-    <td>Is used by the Content Delivery Network (CDN) CloudFlare to speed up the loading times of this website.</td>
-    <td>Required</td>
-    <td>Switzerland</td>
+    <td>1 mois</td>
+    <td>Utilisé par le réseau de diffusion de contenu (CDN) CloudFlare afin de permettre un chargement plus rapide des pages de ce site Internet</td>
+    <td>Nécessaire</td>
+    <td>Suisse</td>
   </tr>
   <tr>
     <td>__hssc</td>
     <td>.skribble.com</td>
-    <td>30 min.</td>
-    <td>Used by Skribble / HubSpot for website analytics.</td>
-    <td>Analytics (Performance)</td>
-    <td>USA</td>
+    <td>30 min</td>
+    <td>Utilisé par HubSpot à des fins d’analyse de site Internet</td>
+    <td>Analyse (performance)</td>
+    <td>Etats-Unis</td>
   </tr>
   <tr>
     <td>__hssrc</td>
     <td>.skribble.com</td>
-    <td>12 months</td>
-    <td>Used by Skribble / HubSpot for website analytics.</td>
-    <td>Analytics (Performance)</td>
-    <td>USA</td>
+    <td>12 mois</td>
+    <td>Utilisé par HubSpot à des fins d’analyse de site Internet</td>
+    <td>Analyse (performance)</td>
+    <td>Etats-Unis</td>
   </tr>
   <tr>
     <td>__hstc</td>
     <td>.skribble.com</td>
-    <td>13 months</td>
-    <td>Used by Skribble / HubSpot for server-based website analytics and user tracking.</td>
-    <td>Analytics (Performance)</td>
-    <td>USA</td>
+    <td>13 mois</td>
+    <td>Utilisé par HubSpot à des fins de traçage des utilisateurs et d’analyse de site Internet côté serveur.</td>
+    <td>Analyse (performance)</td>
+    <td>Etats-Unis</td>
   </tr>
   <tr>
     <td>_pk_id.1.bb2a</td>
     <td>my.skribble.com</td>
-    <td>13 months</td>
-    <td>Used by Skribble / Matomo for server-based website analytics.</td>
-    <td>Analytics (Performance)</td>
-    <td>Switzerland</td>
+    <td>13 mois</td>
+    <td>Utilisé par Skribble/Matomo à des fins d’analyse de site Internet côté serveur</td>
+    <td>Analyse (performance)</td>
+    <td>Suisse</td>
   </tr>
   <tr>
     <td>_pk_ses.1.bb2a</td>
     <td>my.skribble.com</td>
-    <td>1 day</td>
-    <td>Used by Skribble / Matomo for server-based website analytics.</td>
-    <td>Analytics (Performance)</td>
-    <td>Switzerland</td>
+    <td>1 jour</td>
+    <td>Utilisé par Skribble/Matomo à des fins d’analyse de site Internet basée sur le serveur</td>
+    <td>Analyse (performance)</td>
+    <td>Suisse</td>
   </tr>
   <tr>
     <td>_uetsid</td>
     <td>.skribble.com</td>
-    <td>1 day</td>
-    <td>Is used by Microsoft Bing to display a range of advertisements.</td>
+    <td>1 jour</td>
+    <td>Utilisé par Microsoft Bing à des fins d’affichage d’une gamme de produits publicitaires</td>
     <td>Marketing</td>
-    <td>USA</td>
+    <td>Etats-Unis</td>
   </tr>
   <tr>
     <td>_uetvid</td>
     <td>.skribble.com</td>
-    <td>16 days</td>
-    <td>Is used by Microsoft Bing to assign an anonymous visitor ID.</td>
+    <td>16 jours</td>
+    <td>Utilisé par Microsoft Bing à des fins de création d’un ID anonymisé unique.</td>
     <td>Marketing</td>
-    <td>USA</td>
+    <td>Etats-Unis</td>
   </tr>
   <tr>
     <td>HubSpotutk</td>
     <td>.skribble.com</td>
-    <td>13 months</td>
-    <td>Is used by the HubSpot Chat Bot to identify users.</td>
-    <td>Functional</td>
-    <td>USA</td>
+    <td>13 mois</td>
+    <td>Utilisé par le chatbot de HubSpot à des fins d’identification des utilisateurs.</td>
+    <td>Fonctionnel</td>
+    <td>Etats-Unis</td>
   </tr>
   <tr>
     <td>Klaro</td>
-    <td>www.skribble.com</td>
-    <td>1 year</td>
-    <td>Is used by the consent management tool Klaro to store the user consent.</td>
-    <td>Required</td>
-    <td>Switzerland</td>
+    <td>.skribble.com</td>
+    <td>1 an</td>
+    <td>Utilisé par l’outil de gestion du consentement Klaro à des fins d’enregistrement du consentement des utilisateurs</td>
+    <td>Nécessaire</td>
+    <td>Suisse</td>
   </tr>
   <tr>
     <td>messagesUtk</td>
     <td>.skribble.com</td>
-    <td>13 months</td>
-    <td>Used by the HubSpot Chat Bot.</td>
-    <td>Functional</td>
-    <td>USA</td>
+    <td>13 mois</td>
+    <td>Utilisé par le chatbot de HubSpot</td>
+    <td>Fonctionnel</td>
+    <td>Etats-Unis</td>
   </tr>
   <tr>
     <td>x-access-token</td>
     <td>my.skribble.com</td>
-    <td>For the duration of the session</td>
-    <td>Used by Skribble for user authentication.</td>
-    <td>Required</td>
-    <td>Switzerland</td>
+    <td>Durée de la session</td>
+    <td>Utilisé par Skribble à des fins d’authentification des utilisateurs</td>
+    <td>Nécessaire</td>
+    <td>Suisse</td>
   </tr>
 </tbody>
 {{< /table-dense >}}

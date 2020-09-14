@@ -516,8 +516,8 @@ languages:
         - name: CG
           url: /fr/cg/
           weight: 15
-        - name: Cookies
-          url: /fr/cookies/
+        - name: Politique relative aux cookies
+          url: /fr/politique-relative-aux-cookies/
           weight: 20
         - name: Impressum
           url: /fr/impressum/
@@ -532,8 +532,8 @@ languages:
         - name: CG
           url: /fr/cg/
           weight: 15
-        - name: Cookie Policy
-          url: /fr/cookies/
+        - name: Politique relative aux cookies
+          url: /fr/politique-relative-aux-cookies/
           weight: 20
         - name: Impressum
           url: /fr/impressum/
