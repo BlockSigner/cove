@@ -3,7 +3,6 @@ title: Terms of use
 slug: terms-of-use
 aliases:
   - terms-of-use/archive/20200819
-  - terms-of-use-v2020-08-19
 draft: false
 description: Terms of Use for System Users of Skribble (2020-08-19)
 ---

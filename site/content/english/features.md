@@ -27,7 +27,7 @@ With Skribble you not only sign legally, but also with ease.
 
   {{< features-item src="features/invitesign.svg"
     headline="Invite to sign"
-    description="Invite the signatories by e-mail and define the order of the signatures.">}}
+    description="Invite the signatories by e-mail and select the e-signature standard to be used for signing.">}}
 
   {{< features-item src="features/confirm_mobile.svg"
     headline="Confirm with mobile phone"

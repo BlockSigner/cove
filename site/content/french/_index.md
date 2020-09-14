@@ -61,7 +61,7 @@ Chargez le document PDF à signer directement via votre navigateur ou utilisez S
 {{< side-by-side bottom=12 mobile-top=6 mobile-bottom=6 img=image3 img-width=400 img-alt="Un homme invite deux personnes à signer le document" >}}
 {{% markdown %}}
 ### Inviter à signer
-Invitez les signataires par e-mail et définissez l'ordre de signature.
+Invitez les signataires par e-mail et sélectionnez la norme de signature électronique à utiliser.
 {{% /markdown %}}
 {{< /side-by-side >}}
 

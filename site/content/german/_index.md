@@ -61,7 +61,7 @@ Laden Sie das signierbereite PDF-Dokument direkt via Browser hoch oder nutzen Si
 {{< side-by-side bottom=12 mobile-top=6 mobile-bottom=6 img=image3 img-width=400 img-alt="Ein mann lädt zwei personen zum signieren ein" >}}
 {{% markdown %}}
 ### Zum Signieren einladen
-Laden Sie die signierenden Personen per E-Mail ein und legen Sie die Signatur-Reihenfolge fest.
+Laden Sie die signierenden Personen per E-Mail ein und wählen sie den E-Signatur-Standard, mit dem signiert werden soll.
 {{% /markdown %}}
 {{< /side-by-side >}}
 

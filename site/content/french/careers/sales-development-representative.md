@@ -68,7 +68,7 @@ You are the first, fantastic contact our future customers will have with Skribbl
 {{< content text=center top=12 width="narrow" >}}
 {{% markdown %}}
 ## Postulez maintenant
-Nous prenons une courte pause estivale. Veuillez prévoir un délai de 3 à 4 semaines à compter de la date de réception de votre demande pour y répondre.
+Nous attendons avec impatience votre candidature et votre CV.
 {{% /markdown %}}
 {{< /content >}}
 

@@ -3,7 +3,6 @@ title: Conditions d'utilisation
 slug: conditions-dutilisation
 aliases:
   - conditions-dutilisation/archives/20200819
-  - conditions-dutilisation-v2020-08-19
 draft: false
 description: Conditions d'utilisation pour les Utilisateurs du Système de Skribble (2020-08-19)
 ---
