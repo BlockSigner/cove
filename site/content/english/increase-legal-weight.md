@@ -14,8 +14,8 @@ Increase the legal weight
 of your e-signature
 ===============	
 Enable an e-signature standard with higher legal weight. The procedure 
-differs depending on the standard. The more uniquely your e-signature 
-can be attributed to you as a person, the higher its legal weight.
+differs depending on the standard. The more unambiguously an e-signature
+can be assigned to a person, the higher its legal weight.
 {{% /markdown %}}
 {{< /content >}}
 
@@ -90,11 +90,40 @@ can be attributed to you as a person, the higher its legal weight.
 
 {{< content text=center top=16 bottom=8 width=narrow >}}
 {{% markdown %}}
+**Maximum legal weight** 
+## Qualified electronic signature (QES)
+Enable the QES by getting yourself identified online via video-call (EU) or
+by personal contact (Switzerland).
+{{% /markdown %}}
+{{< /content >}}
+
+{{< picture qes-increase 315 "A man is sitting in front of a laptop, above him is a software window, where a woman stands out with a big magnifying glass and checks an identity card." >}}
+
+
+{{< cta
+  label="Learn more"
+  href="/enable-qes/"
+  target=""
+  outlined="true"
+>}}
+
+{{< picture identify 96 "A house as an organization and an arrow." >}}
+
+{{% markdown %}}
+**Get identified**
+This is how you unlock QES on Skribble
+{{% /markdown %}}
+{{< /cta >}}
+
+[//]: # (--------------------------------------------------------------------------------------------------------------)
+
+{{< content text=center top=16 bottom=8 width=narrow >}}
+{{% markdown %}}
 **High legal weight** 
 # Advanced electronic signature (AES)
 Enable the AES by connecting your Skribble account with 
 a Swiss mobile phone number. You can do this in your Skribble profile.
-As a Skribble Business customer you can enable the activation 
+As a Skribble Business or Enterprise customer you can request the activation 
 of the AES via company e-mail address (AES for Business).
 {{% /markdown %}}
 {{< /content >}}
@@ -120,34 +149,6 @@ Organisation-wide implementation in just a few days
 {{< /cta >}}
 {{< /content >}}
 
-[//]: # (--------------------------------------------------------------------------------------------------------------)
-
-{{< content text=center top=16 bottom=8 width=narrow >}}
-{{% markdown %}}
-**Maximum legal weight** 
-## Qualified electronic signature (QES)
-Enable the QES by getting yourself identified online via video-call or
-by personal contact with the ID app by Swisscom.
-{{% /markdown %}}
-{{< /content >}}
-
-{{< picture qes-increase 315 "A man is sitting in front of a laptop, above him is a software window, where a woman stands out with a big magnifying glass and checks an identity card." >}}
-
-
-{{< cta
-  label="Learn more"
-  href="/enable-qes/"
-  target=""
-  outlined="true"
->}}
-
-{{< picture identify 96 "A house as an organization and an arrow." >}}
-
-{{% markdown %}}
-**Get identified**
-This is how you unlock QES on Skribble
-{{% /markdown %}}
-{{< /cta >}}
 
 {{< cta
   label="Contact Skribble"
