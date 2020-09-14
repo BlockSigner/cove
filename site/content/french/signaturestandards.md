@@ -145,7 +145,7 @@ La signature complète et sans souci pour les exigences les plus élevées
 {{< content top=6 bottom=6 width=narrow >}}
 {{% markdown %}}
 **La signature électronique qualifiée (SEQ) équivaut légalement à la signature manuscrite.**
-Vous utilisez la SEQ pour maximiser la force probante de vos contrats ou lorsque la loi exige la forme écrite. Cette dernière s'applique, par exemple, aux accords de crédit ou contrats de travail comportant une clause de concurrence. Pour signer avec la SEQ sur Skribble, un contrôle d'identité préalable avec contact personnel ou par appel vidéo ou une e-ID est nécessaire.
+Vous utilisez la SEQ pour maximiser la force probante de vos contrats ou lorsque la loi exige la forme écrite. Cette dernière s'applique, par exemple, aux accords de crédit ou contrats de travail comportant une clause de concurrence. Pour signer avec la SEQ sur Skribble, un contrôle d'identité préalable avec contact personnel ou par appel vidéo ou une e-ID vérifiée est nécessaire.
 {{% /markdown %}}
 {{< /content >}}
 
