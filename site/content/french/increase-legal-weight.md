@@ -13,8 +13,8 @@ Augmenter la force probante
 de votre signature électronique
 ===============	
 Activez une norme de signature électronique ayant une valeur 
-probante plus élevée. La procédure diffère selon la norme. Plus votre 
-signature électronique peut vous être attribuée sans ambiguïté, 
+probante plus élevée. La procédure diffère selon la norme. Plus une 
+signature électronique peut être attribuée sans ambiguïté à une personne,
 plus sa force probante est élevée.
 {{% /markdown %}}
 {{< /content >}}
@@ -92,12 +92,41 @@ plus sa force probante est élevée.
 
 {{< content text=center top=16 bottom=8 width=narrow >}}
 {{% markdown %}}
+**Force probante maximum** 
+## Signature électronique qualifiée (SEQ)
+Déverrouillez la norme de signature électronique 
+la plus élevée (SEQ) en vous identifiant en ligne par appel vidéo (UE)
+ou par contact personnel (Suisse).
+{{% /markdown %}}
+{{< /content >}}
+
+{{< picture qes-increase 315 "in Mann sitzt vor einem Laptop, darüber ist eine Sotware-Fenster, wo eine Frau mit einer grossen Lupe herausragt und überprüft eine Identitätskarte." >}}
+
+{{< cta
+  label="En savoir plus"
+  href="/fr/debloquez-seq/"
+  target=""
+  outlined="true"
+>}}
+
+{{< picture identify 96 "Une maison comme organisation et une flèche." >}}
+
+{{% markdown %}}
+**S'identifier**
+Comment déverrouiller la SEQ sur Skribble
+{{% /markdown %}}
+{{< /cta >}}
+
+[//]: # (--------------------------------------------------------------------------------------------------------------)
+
+{{< content text=center top=16 bottom=8 width=narrow >}}
+{{% markdown %}}
 **Force probante élevée** 
 # Signature électronique avancée (SEA)
 Vous activez la SEA en connectant votre compte Skribble avec un 
 numéro de téléphone portable suisse. Vous pouvez le paramétrer 
-dans votre profil. Si vous êtes un client Skribble Business, vous pouvez 
-déverrouiller l'activation de la SEA via l'adresse électronique 
+dans votre profil. Si vous êtes un client Skribble Business ou Enterprise, vous pouvez 
+demander l'activation de la SEA via l'adresse électronique 
 de l'entreprise (SEA pour Business).
 {{% /markdown %}}
 {{< /content >}}
@@ -121,35 +150,6 @@ Implémentation à toute l'organisation en quelques jours
 {{% /markdown %}}
 {{< /cta >}}
 {{< /content >}}
-
-[//]: # (--------------------------------------------------------------------------------------------------------------)
-
-{{< content text=center top=16 bottom=8 width=narrow >}}
-{{% markdown %}}
-**Force probante maximum** 
-## Signature électronique qualifiée (SEQ)
-Déverrouillez la norme de signature électronique 
-la plus élevée (SEQ) en vous identifiant en ligne par appel vidéo 
-ou par contact personnel avec l’ID-app de Swisscom.
-{{% /markdown %}}
-{{< /content >}}
-
-{{< picture qes-increase 315 "in Mann sitzt vor einem Laptop, darüber ist eine Sotware-Fenster, wo eine Frau mit einer grossen Lupe herausragt und überprüft eine Identitätskarte." >}}
-
-{{< cta
-  label="En savoir plus"
-  href="/fr/debloquez-seq/"
-  target=""
-  outlined="true"
->}}
-
-{{< picture identify 96 "Une maison comme organisation et une flèche." >}}
-
-{{% markdown %}}
-**S'identifier**
-Comment déverrouiller la SEQ sur Skribble
-{{% /markdown %}}
-{{< /cta >}}
 
 {{< cta
   label="Contacter Skribble"
