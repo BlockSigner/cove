@@ -142,9 +142,12 @@ languages:
         - name: AGB
           url: /de/agb/
           weight: 15
+        - name: Cookies
+          url: /de/cookies/
+          weight: 20
         - name: Impressum
           url: /de/impressum/
-          weight: 20
+          weight: 25
       footermobile:
         - name: Datenschutzbestimmungen
           url: /de/datenschutz/
@@ -155,9 +158,12 @@ languages:
         - name: AGB
           url: /de/agb/
           weight: 15
+        - name: Cookie Policy
+          url: /de/cookies/
+          weight: 20
         - name: Impressum
           url: /de/impressum/
-          weight: 20
+          weight: 25
 
     header:
       login:
@@ -323,9 +329,12 @@ languages:
         - name: GTC
           url: /gtc/
           weight: 10
+        - name: Cookie Policy
+          url: /cookies/
+          weight: 15
         - name: Imprint
           url: /imprint/
-          weight: 15
+          weight: 20
       footermobile:
         - name: Privacy Policy
           url: /privacy/
@@ -336,9 +345,12 @@ languages:
         - name: GTC
           url: /gtc/
           weight: 15
+        - name: Cookie Policy
+          url: /cookies/
+          weight: 20
         - name: Imprint
           url: /imprint/
-          weight: 20
+          weight: 25
 
     header:
       login:
@@ -504,9 +516,12 @@ languages:
         - name: CG
           url: /fr/cg/
           weight: 15
+        - name: Cookies
+          url: /fr/cookies/
+          weight: 20
         - name: Impressum
           url: /fr/impressum/
-          weight: 20
+          weight: 25
       footermobile:
         - name: Politique de Confidentialité
           url: /fr/politique-de-confidentialite/
@@ -517,9 +532,12 @@ languages:
         - name: CG
           url: /fr/cg/
           weight: 15
+        - name: Cookie Policy
+          url: /fr/cookies/
+          weight: 20
         - name: Impressum
           url: /fr/impressum/
-          weight: 20
+          weight: 25
 
     header:
       login:
