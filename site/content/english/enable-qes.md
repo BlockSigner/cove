@@ -14,8 +14,7 @@ Maximise the legal weight
 of your electronic signature
 ===============	
 Enable the highest e-signing standard (QES) by getting 
-yourself identified online via video-call or by personal contact 
-with the ID app by Swisscom.
+yourself identified online via video (EU) or by personal contact (Switzerland).
 {{% /markdown %}}
 {{< /content >}}
 
@@ -24,7 +23,7 @@ with the ID app by Swisscom.
 
 {{< side-by-side top=12 bottom=24 mobile-top=6 mobile-bottom=12 img=qes-increase img-position=left img-width=315 img-alt="A man is sitting in front of a laptop, above him is a software window, where a woman stands out with a big magnifying glass and checks an identity card." >}}
 {{% markdown %}}
-Online identification 
+EU: Online identification 
 via video
 ===============
 The identification is offered in cooperation 
@@ -43,11 +42,11 @@ with our partners Swisscom Trust Services and IdentityTM.
 
 {{< content text=center top=16 width=narrow >}}
 {{% markdown %}}
-Identification 
+Switzerland: Identification 
 by personal contact
 ===============
-Enable the highest e-signing standard (QES) by getting yourself identified
-by personal contact with the Swisscom ID app.
+Get yourself identified by personal contact
+with the Swisscom ID app.
 {{% /markdown %}}
 {{< /content >}}
 
@@ -82,7 +81,7 @@ Swisscom verifies the data and stores them securely.
 {{< picture "identification-step-4" 270 "A person holds a legal document in their hands. The Swisscom logo is in the background" >}}
 {{% markdown %}}
 **Step 4**
-The legal weight of your signature is raised to 100% (QES level)
+The QES will be enabled for you on Skribble.
 {{% /markdown %}}
 {{< /step >}}
 {{< /content >}}
