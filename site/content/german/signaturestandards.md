@@ -146,7 +146,7 @@ Die rundum-sorglos-Signatur für höchste Ansprüche
 **Die qualifizierte elektronische Signatur (QES) ist der handschriftlichen Signatur rechtlich gleichgestellt.**
 Sie setzen die QES ein, um die Beweiskraft Ihrer Verträge zu maximieren oder wenn das Gesetz die Schriftlichkeit verlangt.
 Letzteres trifft z.B. bei Kredit- oder Arbeitsverträgen mit Konkurrenzklausel zu.
-Das Signieren mit QES auf Skribble setzt eine vorgängige Identitätsprüfung im persönlichen Kontakt oder per Video oder eine bestehende E-ID voraus.
+Das Signieren mit QES auf Skribble setzt eine vorgängige Identitätsprüfung im persönlichen Kontakt oder per Video oder eine geprüfte E-ID voraus.
 {{% /markdown %}}
 {{< /content >}}
 
