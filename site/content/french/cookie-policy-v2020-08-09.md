@@ -2,8 +2,8 @@
 title: Cookie Policy
 slug: politique-relative-aux-cookies
 aliases:
-  - cookies/archive/20200902
-  - cookies-v2020-09-02
+  - politique-relative-aux-cookies/archive/20200902
+  - politique-relative-aux-cookies-v2020-09-02
 draft: false
 description: Politique relative aux cookies (2020-09-02)
 ---

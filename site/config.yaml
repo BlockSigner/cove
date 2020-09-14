@@ -142,8 +142,8 @@ languages:
         - name: AGB
           url: /de/agb/
           weight: 15
-        - name: Cookies
-          url: /de/cookies/
+        - name: Cookie-Richtlinie
+          url: /de/cookie-richtlinie/
           weight: 20
         - name: Impressum
           url: /de/impressum/
@@ -158,8 +158,8 @@ languages:
         - name: AGB
           url: /de/agb/
           weight: 15
-        - name: Cookie Policy
-          url: /de/cookies/
+        - name: Cookie-Richtlinie
+          url: /de/cookie-richtlinie/
           weight: 20
         - name: Impressum
           url: /de/impressum/
