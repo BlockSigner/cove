@@ -226,17 +226,52 @@ All you need is a valid travel document (ID or passport).
 {{% /markdown %}}
 {{< /content >}}
 
-{{< picture "create-identity" 385 "A magnifying glass enlarges the image of a woman in a passport" >}}
+{{< content top=4 width=wide display=flex >}}
 
-{{< cta
-  label="Schedule an appointment"
-  href="enable-qes"
+{{< plan
+  white
+  "Identification"
+  "Unlimited"
+  "Contact Skribble"
+  "https://share.hsforms.com/1eikgwNSWS9aCXBpqMVvrtQ309ws"
+  "_blank"
+  "outline"
 >}}
+
+{{< picture id-easy 270 "A woman and a man are standing in front of a large software window and the man is holding a big hatch with an identity card inside." >}}
+
+
+You perform the identifications yourself.
+
+Appropriate if new QES signers are constantly being added.
+&nbsp;
+{{% /plan %}}
+
+{{< plan
+  white
+  "Identification"
+  "Online via video"
+  "Enable QES now"
+  "/enable-qes/"
+  ""
+  "outline"
+>}}
+
+{{< picture id-direct 210 "A man is sitting in front of a laptop, above him is a sotware window, where a woman stands out with a big magnifying glass and checks an identity card." >}}
+
+Enable the highest e-signature standard QES from home.
+
+Suitable for individual signatories.
+&nbsp;
+&nbsp;
+{{% /plan %}}
+{{< /content >}}
+
+
+{{< content text=center top=8 bottom=4 width=narrow >}}
 {{% markdown %}}
-**Make an appointment
-and get identified**
 {{% /markdown %}}
-{{< /cta >}}
+{{< /content >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
@@ -281,8 +316,19 @@ No credit card, entrance fee or commitment required.
 {{% /markdown %}}
 
 {{< button
-  "Try it now"
+  "Get started"
   "https://my.skribble.com/signup?lang=en"
   "_blank"
 >}}
+{{< button
+  "Contact Sales"
+  "https://share.hsforms.com/1eikgwNSWS9aCXBpqMVvrtQ309ws"
+  "_blank"
+  outline
+>}}
+{{< content top=6 >}}
+{{< markdown center >}}
+{{% small %}}2 signatures per month are free.{{% /small %}}
+{{< /markdown >}}
+{{< /content >}}
 {{< /outro >}}

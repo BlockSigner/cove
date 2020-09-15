@@ -23,6 +23,7 @@ and frequent signing.
   width=narrow
   title="Free"
   description="<p>You can sign <strong>twice per month free of charge.</strong> No credit card required.</p>"
+  button-target="_blank"
   button-text="Try it now"
   button-link="https://my.skribble.com/signup"
   subtext="Your account can be deleted at any time. No credit card required."
@@ -46,6 +47,7 @@ to one of the following plans at any time:
   description="<p>You sign or request <strong>more than two signatures per month.</strong></p><p class='top-spaced'>Maximum</p><p><strong>CHF <span class='large'>2.50</span> per signature</strong></p><p>up to a maximum of</p><p><strong>CHF <span class='large'>30.-</span> per month</strong></p>"
   has-comparison="true"
   comparison-caption="If you invite other people to sign, an additional amount of CHF 2.00 to 2.50 per signature is added. You can downgrade to the Free plan at any time."
+  button-target="_blank"
   button-text="Try it now"
   button-link="https://my.skribble.com/signup"
   subtext="No subscription commitment. The first two signatures are free each month."
@@ -70,8 +72,9 @@ to one of the following plans at any time:
   has-comparison="true"
   comparison-title="The business flat rate costs:"
   comparison-caption="Monthly billing: CHF 100.– per month with 50 signatures (any e-signature standard) for all users including external parties."
+  button-target="_blank"
   button-text="Get advice now"
-  button-link="https://help.skribble.com/meetings/patrick182/telephone-consultation-skribble"
+  button-link="https://share.hsforms.com/1eikgwNSWS9aCXBpqMVvrtQ309ws"
   subtext="Monthly or yearly termination"
 >}}
   {{< picture business-visual 270 "" >}}
@@ -211,7 +214,7 @@ to one of the following plans at any time:
 >}}No subscription commitment</br>Your account can be deleted at any time</td>
 <td>{{< button
   "Get advice now"
-  "https://help.skribble.com/meetings/patrick182/telephone-consultation-skribble"
+  "https://share.hsforms.com/1eikgwNSWS9aCXBpqMVvrtQ309ws"
   "_blank"
 >}}Monthly or yearly notice</td>
 </tr>
@@ -263,8 +266,19 @@ No credit card, entrance fee or commitment required.
 {{% /markdown %}}
 
 {{< button
-  "Try it now"
+  "Get started"
   "https://my.skribble.com/signup?lang=en"
   "_blank"
 >}}
+{{< button
+  "Contact Sales"
+  "https://share.hsforms.com/1eikgwNSWS9aCXBpqMVvrtQ309ws"
+  "_blank"
+  outline
+>}}
+{{< content top=6 >}}
+{{< markdown center >}}
+{{% small %}}2 signatures per month are free.{{% /small %}}
+{{< /markdown >}}
+{{< /content >}}
 {{< /outro >}}

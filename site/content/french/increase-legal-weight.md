@@ -151,18 +151,6 @@ Comment déverrouiller la SEQ sur Skribble
 {{% /markdown %}}
 {{< /cta >}}
 
-{{< cta
-  label="Contacter Skribble"
-  href="mailto:info@skribble.com"
-  outlined="true"
->}}
-
-{{< picture "contact" 92 "Vous avez des questions ? Nous nous ferons un plaisir de vous aider." >}}
-
-{{% markdown %}}
-**Vous avez des questions? Nous nous ferons un plaisir de vous aider.**
-{{% /markdown %}}
-{{< /cta >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
@@ -175,8 +163,19 @@ ou engagement n'est requis.
 {{% /markdown %}}
 
 {{< button
-  "Essayer maintenant"
+  "Démarrer"
   "https://my.skribble.com/signup?lang=fr"
   "_blank"
 >}}
+{{< button
+  "Contacter les ventes"
+  "https://share.hsforms.com/1JHPHJU3QQz2TlyX14QDdKg309ws"
+  "_blank"
+  outline
+>}}
+{{< content top=6 >}}
+{{< markdown center >}}
+{{% small %}}2 signatures par mois sont gratuites.{{% /small %}} 
+{{< /markdown >}}
+{{< /content >}}
 {{< /outro >}}

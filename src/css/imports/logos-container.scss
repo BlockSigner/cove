@@ -3,9 +3,10 @@
     padding-right: 15%;
     padding-left: 15%;
   }
-
+  
   .logos-title {
-    margin-bottom: 20px;
+    margin-bottom: 40px;
+    text-align: center;
     color: $c-text-alt;
     @media screen and (max-width: 600px) {
       text-align: center;

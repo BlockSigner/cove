@@ -139,7 +139,7 @@ avec l’ID-app de Swisscom.
   "Identification"
   "Unlimited"
   "Contactez-nous dès maintenant"
-  "https://help.skribble.com/meetings/patrick182/consultation-telephone-skribble"
+  "https://share.hsforms.com/1JHPHJU3QQz2TlyX14QDdKg309ws"
   "_blank"
   "outline"
 >}}
@@ -171,25 +171,7 @@ Convient aux signataires individuels.
 {{% /plan %}}
 {{< /content >}}
 
-{{< content text=center top=8 width=narrow >}}
-
-{{< cta
-  label="Télécharger factsheet"
-  href="https://cdn2.hubspot.net/hubfs/5051692/Factstheets/Identification/Fran%C3%A7ais/Skribble_Overview_Identification_FR.pdf"
-  target="_blank"
-  outlined="true"
->}}
-
-{{< picture consult 92 "Identifikation für die QES. Lass dich beraten und finde die passende Identifikations-Lösung für deine Firma." >}}
-
-{{% markdown %}}
-**Identification pour la SQE - Skribble facilite les choses**
-Laissez-nous vous conseiller et trouver la solution d'identification adaptée à votre entreprise.
-{{% /markdown %}}
-{{< /cta >}}
-{{< /content >}}
-
-{{< content text=center top=12 bottom=4 width=narrow >}}
+{{< content text=center top=20 bottom=4 width=narrow >}}
 
 {{% markdown %}}
 ## Identité électronique (e-ID)
@@ -253,23 +235,6 @@ Avec la SES et la SEA, les fournisseurs sont plus libres. Lors de la sélection 
 
 {{< /content >}}
 
-{{< content text=left top=12 bottom=8 width=narrow >}}
-{{< cta
-  label="Organiser un appel"
-  href="https://help.skribble.com/meetings/patrick182/identification-chez-skribble?pk_vid=9255ddb07f7fc8e515837572965a2471"
-  target="_blank"
-  outlined="true"
->}}
-
-{{< picture consult 92 "Identifikation für die QES. Lass dich beraten und finde die passende Identifikations-Lösung für deine Firma." >}}
-
-{{% markdown %}}
-**Vous avez des questions ? Nous vous aiderons volontiers par téléphone.**
-{{% /markdown %}}
-{{< /cta >}}
-{{< /content >}}
-
-
 {{< outro >}}
 {{% markdown center %}}
 ## Signer légalement <br class="hide-for-mobile">et numériquement maintenant!
@@ -278,8 +243,19 @@ ou engagement n'est requis.
 {{% /markdown %}}
 
 {{< button
-  "Essayer maintenant"
+  "Démarrer"
   "https://my.skribble.com/signup?lang=fr"
   "_blank"
 >}}
+{{< button
+  "Contacter les ventes"
+  "https://share.hsforms.com/1gxsCjIJRQhaM4GEcCmL7QQ309ws"
+  "_blank"
+  outline
+>}}
+{{< content top=6 >}}
+{{< markdown center >}}
+{{% small %}}2 signatures par mois sont gratuites.{{% /small %}} 
+{{< /markdown >}}
+{{< /content >}}
 {{< /outro >}}

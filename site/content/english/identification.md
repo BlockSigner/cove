@@ -106,7 +106,7 @@ When do I use QES, when AES?
 
 
 
-{{< content text=center top=16 bottom=8 width=narrow >}}
+{{< content text=center top=20 bottom=8 width=narrow >}}
 {{% markdown %}}
 ## Contracts requiring the written form
 For contracts requiring the written form, the qualified electronic signature (QES) is typically used. With QES, the law requires that the identity of the signatory be verified in advance in personal contact.
@@ -138,7 +138,7 @@ by personal contact with the ID app by Swisscom.
   "Identification"
   "Unlimited"
   "Contact Skribble"
-  "https://help.skribble.com/meetings/patrick182/skribble-id-zurich"
+  "https://share.hsforms.com/1eikgwNSWS9aCXBpqMVvrtQ309ws"
   "_blank"
   "outline"
 >}}
@@ -172,25 +172,8 @@ Suitable for individual signatories.
 {{% /plan %}}
 {{< /content >}}
 
-{{< content text=center top=8 width=narrow >}}
 
-{{< cta
-  label="Download Factsheet"
-  href="https://cdn2.hubspot.net/hubfs/5051692/Factstheets/Identification/English/Skribble_Overview_Identification_EN.pdf"
-  target="_blank"
-  outlined="true"
->}}
-
-{{< picture consult 92 "Identification for the QES. Let us advise you and find the right identification solution for your company." >}}
-
-{{% markdown %}}
-**Identification for QES - Skribble makes it easy**
-Let us advise you and find the right identification solution for your company.
-{{% /markdown %}}
-{{< /cta >}}
-{{< /content >}}
-
-{{< content text=center top=12 bottom=4 width=narrow >}}
+{{< content text=center top=20 bottom=4 width=narrow >}}
 
 {{% markdown %}}
 ## Electronic identity (eID)
@@ -252,22 +235,6 @@ The legal identification requirements are not the same. QES is the highest stand
 
 {{< /content >}}
 
-{{< content text=left top=12 bottom=8 width=narrow >}}
-{{< cta
-  label="Schedule a phone call"
-  href="https://help.skribble.com/meetings/patrick182/skribble-id-zurich?pk_vid=9255ddb07f7fc8e515837572375a2471"
-  target="_blank"
-  outlined="true"
->}}
-
-{{< picture consult 92 "Identification for the QES. Let us advise you and find the right identification solution for your company." >}}
-
-{{% markdown %}}
-**Do you have any questions? We will gladly help you on the phone.**
-{{% /markdown %}}
-{{< /cta >}}
-{{< /content >}}
-
 {{< outro >}}
 {{% markdown center %}}
 ## Sign now, legally and electronically!
@@ -275,8 +242,19 @@ No credit card, entrance fee or commitment required.
 {{% /markdown %}}
 
 {{< button
-  "Try it now"
+  "Get started"
   "https://my.skribble.com/signup?lang=en"
   "_blank"
 >}}
+{{< button
+  "Contact Sales"
+  "https://share.hsforms.com/1eikgwNSWS9aCXBpqMVvrtQ309ws"
+  "_blank"
+  outline
+>}}
+{{< content top=6 >}}
+{{< markdown center >}}
+{{% small %}}2 signatures per month are free.{{% /small %}}
+{{< /markdown >}}
+{{< /content >}}
 {{< /outro >}}

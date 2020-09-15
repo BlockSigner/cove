@@ -54,14 +54,26 @@ Bâtir la confiance dans les relations d'affaires numériques devrait être auss
 
 {{< outro >}}
 {{% markdown center %}}
-### Signer légalement <br class="hide-for-mobile">et numériquement maintenant!
+## Signer légalement <br class="hide-for-mobile">et numériquement maintenant!
 Aucune carte de crédit, aucun droit d'entrée
 ou engagement n'est requis.
 {{% /markdown %}}
 
 {{< button
-  "Essayer maintenant"
+  "Démarrer"
   "https://my.skribble.com/signup?lang=fr"
   "_blank"
 >}}
+{{< button
+  "Contacter les ventes"
+  "https://share.hsforms.com/1JHPHJU3QQz2TlyX14QDdKg309ws"
+  "_blank"
+  outline
+>}}
+{{< content top=6 >}}
+{{< markdown center >}}
+{{% small %}}2 signatures par mois sont gratuites.{{% /small %}} 
+{{< /markdown >}}
+{{< /content >}}
 {{< /outro >}}
+

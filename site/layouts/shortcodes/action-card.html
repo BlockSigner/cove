@@ -39,7 +39,7 @@
             {{ end }}
             <div class="action-card__content no-top-padding">
                 <div class="button">
-                    <a class="btn" href="{{ .Get "button-link" }}">{{ .Get "button-text" }}</a>
+                    <a class="btn" href="{{ .Get "button-link" }}" target="{{.Get "button-target"}}">{{ .Get "button-text" }}</a>
                 </div>
                 <div class="subtext">{{ .Get "subtext" }}</div>
             </div>

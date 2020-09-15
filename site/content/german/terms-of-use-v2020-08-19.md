@@ -3,7 +3,6 @@ title: Nutzungsbedingungen
 slug: nutzungsbedingungen
 aliases:
   - nutzungsbedingungen/archiv/20200819
-  - nutzungsbedingungen-v2020-08-19
 draft: false
 description: Nutzungsbedingungen für Systemnutzer von Skribble (2020-08-19)
 ---
@@ -57,7 +56,7 @@ Diese Nutzungsbedingungen regeln Ihre Verwendung der Skribble Cloud-Lösung (Skr
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< outro   >}}
+{{< outro >}}
 {{% markdown center %}}
 ## Jetzt rechtsgültig elektronisch signieren!
 Keine Kreditkarte, Eintrittsgebühr oder
@@ -65,8 +64,19 @@ Verpflichtung erforderlich.
 {{% /markdown %}}
 
 {{< button
-  "Jetzt ausprobieren"
+  "Jetzt loslegen"
   "https://my.skribble.com/signup?lang=de"
   "_blank"
 >}}
+{{< button
+  "Sales kontaktieren"
+  "https://share.hsforms.com/1gxsCjIJRQhaM4GEcCmL7QQ309ws"
+  "_blank"
+  outline
+>}}
+{{< content top=6 >}}
+{{< markdown center >}}
+{{% small %}}2 Signaturen pro Monat sind kostenlos.{{% /small %}} 
+{{< /markdown >}}
+{{< /content >}}
 {{< /outro >}}

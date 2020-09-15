@@ -22,6 +22,7 @@ als auch für Organisationen, die häufig signieren.
   width=narrow
   title="Free"
   description="<p>Sie signieren <strong>2 Mal pro Monat kostenlos.</strong> Keine Kreditkarte erforderlich.</p>"
+  button-target="_blank"
   button-text="Jetzt kostenlos ausprobieren"
   button-link="https://my.skribble.com/signup?lang=de"
   subtext="Konto jederzeit löschbar. Keine Kreditkarte notwendig."
@@ -45,6 +46,7 @@ eines der folgenden Modelle umstellen:
   description="<p>Geeignet für Sie, wenn Sie <strong>mehr als 2 Mal pro Monat</strong> selbst signieren oder andere zum Signieren einladen.</p><p class='top-spaced'>Maximal</p><p><strong>CHF <span class='large'>2.50</span> pro Signatur</strong></p><p>bis zu einer Obergrenze von</p><p><strong>CHF <span class='large'>30.–</span> pro Monat</strong></p>"
   has-comparison="true"
   comparison-caption="Laden Sie andere zum Signieren ein, kommen weitere CHF 2.00 bis 2.50 pro Signatur hinzu. Downgrade auf das Preismodell Free jederzeit möglich."
+  button-target="_blank"
   button-text="Jetzt ausprobieren"
   button-link="https://my.skribble.com/signup?lang=de"
   subtext="Keine Abonnements-Verpflichtungen. Die ersten zwei Signaturen sind jeden Monat kostenlos."
@@ -68,8 +70,9 @@ eines der folgenden Modelle umstellen:
   comparison-single="<p><strong>CHF <span class='large'>85.–</span> pro Monat (jährliche Abrechnung)</strong></p>und beinhaltet 600 Signaturen pro Jahr für alle Nutzer, inkl. externe Parteien</p><p>(gilt für alle E-Signatur-Standards: EES, FES und QES).</p><h4><strong>Zusätzliche Signaturen werden im Pay-per-Use Preismodell abgerechnet:</strong></h4><p><strong>EES:</strong> CHF 1.20</p><p><strong>FES:</strong> CHF 1.70</p><p><strong>QES:</strong> CHF 2.50</p>"
   comparison-title="Die Business-Flatrate kostet:"
   comparison-caption="Monatliche Abrechnung: CHF 100.– pro Monat inkl. 50 Signaturen (jeder E-Signatur-Standard) für alle Nutzer inkl. externe Parteien"
+  button-target="_blank"
   button-text="Jetzt beraten lassen"
-  button-link="https://help.skribble.com/meetings/patrick182/call-mit-skribble"
+  button-link="https://share.hsforms.com/1gxsCjIJRQhaM4GEcCmL7QQ309ws"
   subtext="Monatlich oder jährlich kündbar"
 >}}
     {{< picture business-visual 270 "" >}}
@@ -208,7 +211,7 @@ eines der folgenden Modelle umstellen:
 >}}Keine Abonnementsverpflichtungen<br>Konto jederzeit löschbar</td>
 <td>{{< button
   "Jetzt beraten lassen"
-  "https://help.skribble.com/meetings/patrick182/call-mit-skribble"
+  "https://share.hsforms.com/1gxsCjIJRQhaM4GEcCmL7QQ309ws"
   "_blank"
 >}}Monatlich oder jährlich kündbar</td>
 </tr>
@@ -251,7 +254,7 @@ eines der folgenden Modelle umstellen:
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< outro   >}}
+{{< outro >}}
 {{% markdown center %}}
 ## Jetzt rechtsgültig elektronisch signieren!
 Keine Kreditkarte, Eintrittsgebühr oder
@@ -259,8 +262,19 @@ Verpflichtung erforderlich.
 {{% /markdown %}}
 
 {{< button
-  "Jetzt ausprobieren"
+  "Jetzt loslegen"
   "https://my.skribble.com/signup?lang=de"
   "_blank"
 >}}
+{{< button
+  "Sales kontaktieren"
+  "https://share.hsforms.com/1gxsCjIJRQhaM4GEcCmL7QQ309ws"
+  "_blank"
+  outline
+>}}
+{{< content top=6 >}}
+{{< markdown center >}}
+{{% small %}}2 Signaturen pro Monat sind kostenlos.{{% /small %}} 
+{{< /markdown >}}
+{{< /content >}}
 {{< /outro >}}

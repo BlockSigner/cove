@@ -34,6 +34,13 @@
     @include max-width {
       width: 100%;
     }
+    
+    + .btn {
+      margin-left: 16px;
+      @include max-width {
+        margin-left: 0;
+      }
+    }
   }
 
   .markdown {

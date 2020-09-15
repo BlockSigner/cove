@@ -3,7 +3,6 @@ title: Conditions d'utilisation
 slug: conditions-dutilisation
 aliases:
   - conditions-dutilisation/archives/20200819
-  - conditions-dutilisation-v2020-08-19
 draft: false
 description: Conditions d'utilisation pour les Utilisateurs du Système de Skribble (2020-08-19)
 ---
@@ -64,8 +63,19 @@ ou engagement n'est requis.
 {{% /markdown %}}
 
 {{< button
-  "Essayer maintenant"
+  "Démarrer"
   "https://my.skribble.com/signup?lang=fr"
   "_blank"
 >}}
+{{< button
+  "Contacter les ventes"
+  "https://share.hsforms.com/1JHPHJU3QQz2TlyX14QDdKg309ws"
+  "_blank"
+  outline
+>}}
+{{< content top=6 >}}
+{{< markdown center >}}
+{{% small %}}2 signatures par mois sont gratuites.{{% /small %}} 
+{{< /markdown >}}
+{{< /content >}}
 {{< /outro >}}

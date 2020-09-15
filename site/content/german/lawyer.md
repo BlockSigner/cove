@@ -206,7 +206,7 @@ mit gesetzlicher Formvorschrift oder hohem Haftungsrisiko.
 </tbody>
 {{< /table >}}
 {{< cta
-  label="Erfahre mehr"
+  label="Mehr erfahren"
   href="/de/signaturstandards/"
   outlined="true"
 >}}
@@ -217,7 +217,7 @@ den Signaturstandards FES und QES wählen.**
 {{% /markdown %}}
 {{< /cta >}}
 
-{{< content text=center top=12 bottom=4 width=narrow >}}
+{{< content text=center top=12 width=narrow >}}
 {{% markdown %}}
 ## Lassen Sie sich identifizieren
 Damit schalten Sie den höchsten verfügbaren E-Signatur-Standard QES frei.
@@ -225,18 +225,49 @@ Sie benötigen nur ein gültiges Reisedokument (ID oder Pass).
 {{% /markdown %}}
 {{< /content >}}
 
-{{< picture "create-identity" 385 "Eine Lupe vergrössert das Bild einer Frau in einem Pass" >}}
+{{< content top=8 width=wide display=flex >}}
 
-{{< cta
-  label="Termin vereinbaren"
-  href="/de/qes-freischalten/"
-
+{{< plan
+  white
+  "Identification"
+  "Unlimited"
+  "Jetzt kontaktieren"
+  "https://share.hsforms.com/1gxsCjIJRQhaM4GEcCmL7QQ309ws"
+  "_blank"
+  "outline"
 >}}
+
+{{< picture id-easy 270 "Eine Frau und ein Mann stehen vor einem grossen Softwarefenster und der Mann haltet eine grosse Luppe mit einer Identitätskarte drin." >}}
+
+
+Ihr führt die Identifikationen selbst durch.
+
+Passend, wenn laufend neue
+QES-Signierende hinzukommen.
+&nbsp;
+{{% /plan %}}
+
+{{< plan
+  white
+  "Identification"
+  "Online via Video"
+  "Jetzt QES freischalten"
+  "/de/qes-freischalten/"
+  ""
+  "outline"
+>}}
+
+{{< picture id-direct 210 "Ein Mann sitzt vor einem Laptop, darüber ist eine Sotware-Fenster, wo eine Frau mit einer grossen Lupe herausragt und überprüft eine Identitätskarte." >}}
+Schalten Sie den höchsten E-Signatur-Standard QES von zu Hause aus frei.
+&nbsp;
+&nbsp;
+{{% /plan %}}
+{{< /content >}}
+
+{{< content text=center top=8 bottom=4 width=narrow >}}
 {{% markdown %}}
-**Wählen Sie einen Termin
-aus und lassen Sie sich identifizieren**
 {{% /markdown %}}
-{{< /cta >}}
+{{< /content >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
@@ -273,7 +304,7 @@ Nicht ausschliesslich. Dank der visuellen Signatur ist auf dem ausgedruckten Ver
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< outro   >}}
+{{< outro >}}
 {{% markdown center %}}
 ## Jetzt rechtsgültig elektronisch signieren!
 Keine Kreditkarte, Eintrittsgebühr oder
@@ -281,8 +312,19 @@ Verpflichtung erforderlich.
 {{% /markdown %}}
 
 {{< button
-  "Jetzt ausprobieren"
+  "Jetzt loslegen"
   "https://my.skribble.com/signup?lang=de"
   "_blank"
 >}}
+{{< button
+  "Sales kontaktieren"
+  "https://share.hsforms.com/1gxsCjIJRQhaM4GEcCmL7QQ309ws"
+  "_blank"
+  outline
+>}}
+{{< content top=6 >}}
+{{< markdown center >}}
+{{% small %}}2 Signaturen pro Monat sind kostenlos.{{% /small %}} 
+{{< /markdown >}}
+{{< /content >}}
 {{< /outro >}}

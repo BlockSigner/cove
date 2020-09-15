@@ -233,16 +233,49 @@ la SEQ. Vous n'avez besoin que d'un document de voyage valide
 {{% /markdown %}}
 {{< /content >}}
 
-{{< picture "create-identity" 385 "Une loupe agrandit l'image d'une femme dans un passeport" >}}
+{{< content top=4 width=wide display=flex >}}
 
-{{< cta
-  label="Organiser un rendez-vous"
-  href="/fr/debloquez-qes/"
+{{< plan
+  white
+  "Identification"
+  "Unlimited"
+  "Contactez-nous dès maintenant"
+  "https://share.hsforms.com/1JHPHJU3QQz2TlyX14QDdKg309ws"
+  "_blank"
+  "outline"
 >}}
+
+{{< picture id-easy 270 "Une femme et un homme sont debout devant une grande fenêtre de logiciel et l'homme tient une grande trappe avec une carte d'identité à l'intérieur." >}}
+
+Vous faites les identifications vous-même.
+
+Approprié si de nouveaux signataires de SEQ sont constamment ajoutés.
+
+&nbsp;
+{{% /plan %}}
+
+{{< plan
+  white
+  "Identification"
+  "En ligne par vidéo"
+  "Déverrouiller SEQ maintenant"
+  "/fr/debloquez-seq/"
+  ""
+  "outline"
+>}}
+
+{{< picture id-direct 210 "Un homme est assis devant un ordinateur portable, au-dessus de lui se trouve une fenêtre de sotware, où une femme avec une grosse loupe fait saillie et vérifie une carte d'identité." >}}
+Déverrouillez la norme de signature électronique SEQ la plus élevée depuis chez vous.
+Convient aux signataires individuels.
+&nbsp;
+&nbsp;
+{{% /plan %}}
+{{< /content >}}
+
+{{< content text=center top=8 bottom=4 width=narrow >}}
 {{% markdown %}}
-**Choisissez un rendez-vous <br class="hide-for-mobile">et laissez-nous vous identifier**
 {{% /markdown %}}
-{{< /cta >}}
+{{< /content >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
@@ -288,8 +321,19 @@ ou engagement n'est requis.
 {{% /markdown %}}
 
 {{< button
-  "Essayer maintenant"
+  "Démarrer"
   "https://my.skribble.com/signup?lang=fr"
   "_blank"
 >}}
+{{< button
+  "Contacter les ventes"
+  "https://share.hsforms.com/1JHPHJU3QQz2TlyX14QDdKg309ws"
+  "_blank"
+  outline
+>}}
+{{< content top=6 >}}
+{{< markdown center >}}
+{{% small %}}2 signatures par mois sont gratuites.{{% /small %}} 
+{{< /markdown >}}
+{{< /content >}}
 {{< /outro >}}
