@@ -11,7 +11,7 @@ description: Politique relative aux cookies (2020-08-19)
 
 {{< content top=16 width=narrow >}}
 {{% markdown %}}
-# Cookie Policy
+# Politique relative aux cookies
 
 <small>(Version 2020.08.19)</small>
 
