@@ -142,7 +142,7 @@ languages:
         - name: AGB
           url: /de/agb/
           weight: 15
-        - name: Cookie-Richtlinie
+        - name: Cookies
           url: /de/cookie-richtlinie/
           weight: 20
         - name: Impressum
@@ -158,7 +158,7 @@ languages:
         - name: AGB
           url: /de/agb/
           weight: 15
-        - name: Cookie-Richtlinie
+        - name: Cookies
           url: /de/cookie-richtlinie/
           weight: 20
         - name: Impressum
@@ -329,7 +329,7 @@ languages:
         - name: GTC
           url: /gtc/
           weight: 10
-        - name: Cookie Policy
+        - name: Cookies
           url: /cookie-policy/
           weight: 15
         - name: Imprint
@@ -345,7 +345,7 @@ languages:
         - name: GTC
           url: /gtc/
           weight: 15
-        - name: Cookie Policy
+        - name: Cookies
           url: /cookie-policy/
           weight: 20
         - name: Imprint
@@ -516,7 +516,7 @@ languages:
         - name: CG
           url: /fr/cg/
           weight: 15
-        - name: Politique relative aux cookies
+        - name: Cookies
           url: /fr/politique-relative-aux-cookies/
           weight: 20
         - name: Impressum
@@ -532,7 +532,7 @@ languages:
         - name: CG
           url: /fr/cg/
           weight: 15
-        - name: Politique relative aux cookies
+        - name: Cookies
           url: /fr/politique-relative-aux-cookies/
           weight: 20
         - name: Impressum
