@@ -182,7 +182,7 @@ punkto Einsatzgebiet und Beweiskraft.
 {{% markdown %}}
 
 **Dokumente**
-interner oder informeller Natur mit geringem Haftungsrisiko.
+ohne gesetzliche Formvorschrift mit geringem Haftungsrisiko.
 &nbsp;
 {{% /markdown %}}
     </td>
