@@ -186,7 +186,7 @@ Sur Skribble, vous pouvez choisir entre les deux.
 {{% markdown %}}
 
 **Documents**
-informelles ou internes avec un faible risque de responsabilité.
+sans exigence formelle juridique avec un faible risque de responsabilité.
 
 {{% /markdown %}}
     </td>
