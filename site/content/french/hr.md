@@ -192,7 +192,7 @@ en termes de domaine d'application et de force probante. Sur Skribble, vous pouv
 {{% markdown %}}
 
 **Documents**
-informelles ou internes avec un faible risque de responsabilité.
+sans exigence formelle juridique avec un faible risque de responsabilité.
 
 {{% /markdown %}}
     </td>
