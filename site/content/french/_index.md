@@ -206,7 +206,7 @@ unique pour toutes les normes.
 {{% markdown %}}
 
 **Documents**
-informelles ou internes avec un faible risque de responsabilité.
+sans exigence formelle juridique avec un faible risque de responsabilité.
 
 {{% /markdown %}}
     </td>
