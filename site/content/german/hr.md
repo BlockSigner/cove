@@ -188,7 +188,7 @@ Sie alle Standards aus einer Hand.
 {{% markdown %}}
 
 **Dokumente**
-interner oder informeller Natur mit geringem Haftungsrisiko.
+ohne gesetzliche Formvorschrift mit geringem Haftungsrisiko.
 &nbsp;
 {{% /markdown %}}
     </td>
