@@ -3,7 +3,6 @@ title: Cookie-Richtlinie
 slug: cookie-richtlinie
 aliases:
   - cookie-richtlinie/archive/20200819
-  - cookie-richtlinie-v2020-08-19
 draft: false
 description: Cookie-Richtlinie (2020-08-19)
 ---
@@ -82,7 +81,7 @@ Im Folgenden finden Sie eine Zusammenfassung der von uns verwendeten Cookies, di
 <thead>
   <tr>
     <th>Cookiename</th>
-    <th>Anbieter/Domain</th>
+    <th>Anbieter/ Domain</th>
     <th>Speicherdauer</th>
     <th>Zweck</th>
     <th>Kategorie</th>
@@ -247,7 +246,7 @@ Im Folgenden finden Sie eine Zusammenfassung der von uns verwendeten Cookies, di
 <thead>
   <tr>
     <th>Cookiename</th>
-    <th>Anbieter/Domain</th>
+    <th>Anbieter/ Domain</th>
     <th>Speicherdauer</th>
     <th>Zweck</th>
     <th>Kategorie</th>

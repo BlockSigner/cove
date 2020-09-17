@@ -2,8 +2,7 @@
 title: Cookie Policy
 slug: cookie-policy
 aliases:
-  - cookies/archive/20200819
-  - cookies-v2020-08-19
+  - cookie-policy/archive/20200819
 draft: false
 description: Skribble's Cookie Policy (2020-08-19)
 ---

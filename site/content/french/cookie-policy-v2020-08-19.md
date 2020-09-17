@@ -3,7 +3,6 @@ title: Cookie Policy
 slug: politique-relative-aux-cookies
 aliases:
   - politique-relative-aux-cookies/archive/20200819
-  - politique-relative-aux-cookies-v2020-08-19
 draft: false
 description: Politique relative aux cookies (2020-08-19)
 ---
@@ -82,7 +81,7 @@ Vous trouverez ci-après un récapitulatif des cookies que nous utilisons ainsi 
 <thead>
   <tr>
     <th>Nom du cookie</th>
-    <th>Prestataire/Domaine</th>
+    <th>Prestataire/ Domaine</th>
     <th>Durée de conservation</th>
     <th>Finalité</th>
     <th>Catégorie</th>
@@ -247,7 +246,7 @@ Vous trouverez ci-après un récapitulatif des cookies que nous utilisons ainsi 
 <thead>
   <tr>
     <th>Nom du cookie</th>
-    <th>Prestataire/Domaine</th>
+    <th>Prestataire/ Domaine</th>
     <th>Durée de conservation</th>
     <th>Finalité</th>
     <th>Catégorie</th>
