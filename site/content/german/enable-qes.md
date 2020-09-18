@@ -55,7 +55,7 @@ mit der ID-App von Swisscom identifizieren lassen.
 {{< picture "identification-step-1" 252 "Eine lupe vergrößert das bild eines mannes in einem pass" >}}
 {{% markdown %}}
 **Schritt 1**
-Finden Sie einen Standort in Ihrer Nähe, um Sie zu identifizieren
+Finden Sie einen Standort in Ihrer Nähe, um sich identifizieren zu lassen
 {{% /markdown %}}
 {{< /step >}}
 
@@ -90,14 +90,14 @@ Die Beweiskraft Ihrer Signatur wird auf 100% angehoben (QES-Level)
 
 {{< side-by-side top=24 bottom=24 width=narrow mobile-top=6 mobile-bottom=12 img=swisscom-ra-teaser img-position=left img-width=240 img-alt="A man with a big mouth examines the identity of two people." >}}
 {{% markdown %}}
-In wenigen Minuten
-idenfizieren lassen
+In wenigen Minuten kostenlos
+identifizieren
 ===============
 Zusammen mit unserem Partner Swisscom Trust Services bieten wir eine wachsende Zahl von Identifikationsstandorten in der ganzen Schweiz an.
 {{% /markdown %}}
 <br>
 {{< button
-  "Für QES identifizieren lassen"
+  "Standort finden"
   "https://trustservices.swisscom.com/srs-direct/"
   "_blank"
   "outline"

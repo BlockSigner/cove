@@ -54,7 +54,7 @@ en vous identifiant par contact personnel avec l’ID-app de Swisscom.
 {{< picture "identification-step-1" 252 "Une loupe grossit l'image d'un homme dans un col" >}}
 {{% markdown %}}
 **Etape 1**
-Trouvez un endroit près de chez vous pour vous identifier
+Trouvez un endroit près de chez pour être identifié
 {{% /markdown %}}
 {{< /step >}}
 
@@ -72,7 +72,7 @@ Apportez votre passeport ou votre carte d'identité et votre téléphone portabl
 {{< picture "identification-step-3" 270 "Un homme qui a été identifié électroniquement avec succès" >}}
 {{% markdown %}}
 **Etape 3**
-Faites vérifier votre identité et stocker vos données en toute sécurité
+Faites vérifier votre identité et enregistrer vos données en toute sécurité
 {{% /markdown %}}
 {{< /step >}}
 
@@ -89,13 +89,13 @@ La force probante de votre signature est portée à 100% (niveau SEQ)
 
 {{< side-by-side top=24 bottom=24 width=narrow mobile-top=6 mobile-bottom=12 img=swisscom-ra-teaser img-position=left img-width=240 img-alt="A man with a big mouth examines the identity of two people." >}}
 {{% markdown %}}
-Identifiez-vous en quelques minutes
+Identification gratuite en quelques minutes
 ===============
 En collaboration avec notre partenaire Swisscom Trust Services, nous proposons un nombre croissant de lieux d'identification dans toute la Suisse.
 {{% /markdown %}}
 <br>
 {{< button
-  "Faites-vous identifier pour le QES"
+  "Trouvez endroit"
   "https://trustservices.swisscom.com/en/srs-direct/"
   "_blank"
   "outline"

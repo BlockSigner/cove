@@ -54,7 +54,7 @@ by personal contact with the Swisscom ID app.
 {{< picture "identification-step-1" 252 "A magnifying glass magnifies the image of a man in a passport" >}}
 {{% markdown %}}
 **Step 1**
-Find a location near you to identify you
+Find a location nearby to get identified
 {{% /markdown %}}
 {{< /step >}}
 
@@ -89,14 +89,15 @@ The legal weight of your signature is raised to 100% (QES level)
 
 {{< side-by-side top=24 bottom=24 width=narrow mobile-top=6 mobile-bottom=12 img=swisscom-ra-teaser img-position=left img-width=240 img-alt="A man with a big mouth examines the identity of two people." >}}
 {{% markdown %}}
-Walk in and get identified 
-in a few minutes
+Walk in and 
+get identified
+for free
 ===============
 Together with our partner Swisscom Trust Services, we offer a growing number of identification sites all over Switzerland.
 {{% /markdown %}}
 <br>
 {{< button
-  "Get identified for QES"
+  "Find location"
   "https://trustservices.swisscom.com/en/srs-direct/"
   "_blank"
   "outline"
