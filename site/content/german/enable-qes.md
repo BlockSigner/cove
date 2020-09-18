@@ -90,7 +90,7 @@ Die Beweiskraft Ihrer Signatur wird auf 100% angehoben (QES-Level)
 
 {{< side-by-side top=24 bottom=24 width=narrow mobile-top=6 mobile-bottom=12 img=swisscom-ra-teaser img-position=left img-width=240 img-alt="A man with a big mouth examines the identity of two people." >}}
 {{% markdown %}}
-Sich in wenigen Minuten
+In wenigen Minuten
 idenfizieren lassen
 ===============
 Zusammen mit unserem Partner Swisscom Trust Services bieten wir eine wachsende Zahl von Identifikationsstandorten in der ganzen Schweiz an.
