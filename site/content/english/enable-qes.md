@@ -21,7 +21,6 @@ with the ID app by Swisscom.
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-
 {{< side-by-side top=12 bottom=24 mobile-top=6 mobile-bottom=12 img=qes-increase img-position=left img-width=315 img-alt="A man is sitting in front of a laptop, above him is a software window, where a woman stands out with a big magnifying glass and checks an identity card." >}}
 {{% markdown %}}
 Online identification 
@@ -89,6 +88,23 @@ The legal weight of your signature is raised to 100% (QES level)
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
+{{< side-by-side top=24 bottom=24 width=narrow mobile-top=6 mobile-bottom=12 img=swisscom-ra-teaser img-position=left img-width=280 img-alt="A man with a big mouth examines the identity of two people." >}}
+{{% markdown %}}
+Get identified 
+for free.
+===============
+Bring a valid passport or your identity card as well as your mobile phone. The identification is offered in cooperation with our partner Swisscom Trust Services.  
+{{% /markdown %}}
+<br>
+{{< button
+  "Find location"
+  "https://trustservices.swisscom.com/en/srs-direct/"
+  "_blank"
+  "outline"
+>}}
+{{< /side-by-side >}}
+
+[//]: # (--------------------------------------------------------------------------------------------------------------)
 
 {{< content text=center top=24 bottom=8 >}}
 {{% markdown %}}
