@@ -88,7 +88,7 @@ The legal weight of your signature is raised to 100% (QES level)
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< side-by-side top=24 bottom=24 width=narrow mobile-top=6 mobile-bottom=12 img=swisscom-ra-teaser img-position=left img-width=280 img-alt="A man with a big mouth examines the identity of two people." >}}
+{{< side-by-side top=24 bottom=24 width=narrow mobile-top=6 mobile-bottom=12 img=swisscom-ra-teaser img-position=left img-width=240 img-alt="A man with a big mouth examines the identity of two people." >}}
 {{% markdown %}}
 Get identified 
 for free.
