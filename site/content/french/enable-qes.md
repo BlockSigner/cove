@@ -92,6 +92,8 @@ La force probante de votre signature est portée à 100% (niveau SEQ)
 Identification gratuite en quelques minutes
 ===============
 En collaboration avec notre partenaire Swisscom Trust Services, nous proposons un nombre croissant de lieux d'identification dans toute la Suisse.
+
+Actuellement disponible qu'en anglais.
 {{% /markdown %}}
 <br>
 {{< button
