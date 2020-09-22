@@ -9,58 +9,80 @@ og_image: og/og-skribble-identification.jpg
 
 ---
 
-{{< content text=center top=16 bottom=8 width=narrow >}}
+{{< intro top=24 bottom=12 width=wide img=vertical-lawyer-main img-width=560 img-alt="Man handle different document processes" >}}
+
 {{% markdown %}}
 # Electronic signature for lawyers
 With Skribble you sign without USB stick or card reader
 with the highest e-signing standard (QES).
-{{% /markdown %}}
-{{< /content >}}
 
-{{< picture vertical-lawyer-main 560 "man handle different document processes" >}}
+**Sign safely:**
+- Powers of attorney and NDA's
+- International treaties
+- Submissions to authorities
+{{% /markdown %}}
+
+{{< button
+  "Get started"
+  "https://my.skribble.com/signup"
+  "_blank"
+>}}
+{{< button
+  "Contact Sales"
+  "https://share.hsforms.com/1eikgwNSWS9aCXBpqMVvrtQ309ws"
+  "_blank"
+  outline
+>}}
+{{< /intro >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
 {{< side-by-side top=24 bottom=12 img=sign-parallel mobile-top=12 mobile-bottom=6 img-width=387 img-alt="Man sign a contract with two other people at the same time" >}}
 {{% markdown %}}
-### All contractual parties sign digitally
+## All contractual parties sign digitally
 Multiple contractual parties: Instead of sending contracts by post from one person to the next, everyone signs online, saving time.
 
-- **Automatically invite people to
-sign by e-mail**
-- **Overview of all completed and outstanding
-signatures**
-- **Get notified automatically when
-the contract is signed**
+- Automatically invite people to
+sign by e-mail
+- Overview of all completed and outstanding
+signatures
+- Get notified automatically when
+the contract is signed
 {{% /markdown %}}
 {{< /side-by-side >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< side-by-side top=12 bottom=12 mobile-top=6 mobile-bottom=6 img=batch-process img-position=right img-width=380 img-alt="A stack of documents is signed with one click" >}}
+{{< side-by-side top=24 bottom=24 mobile-top=6 mobile-bottom=6 img=batch-process img-position=right img-width=380 img-alt="A stack of documents is signed with one click" >}}
 {{% markdown %}}
-### Finish the pile <br class="hide-for-mobile">with only one signature
+## Finish the pile with only one signature
 Digital signature folder: Collect your contracts digitally and sign them simultaneously with just a few clicks. Despite the QES standard, you don't need a USB stick or card reader.
 
-- **Batch signature for any number of contracts**
-- **Two factor authentication via mobile phone -
-no external hardware required**
-- **Independent of time and place**
+- Batch signature for any number of contracts
+- Two factor authentication via mobile phone -
+no external hardware required
+- Independent of time and place
 {{% /markdown %}}
 {{< /side-by-side >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< side-by-side top=12 bottom=12 mobile-top=6 mobile-bottom=6 img=authorities-input img-width=394 img-alt="Two people make step-by-step entries to authorities." >}}
+{{< testimonial "testimonial/kellerhalscarrard-124w.svg" "Beat Brechbuehl, Managing Partner Kellerhals Carrhard" >}}
+“Our clients can be served faster and our lawyers save time - using technology to enhance efficiency is one of the law firms priorities."
+{{< /testimonial >}}
+
+[//]: # (--------------------------------------------------------------------------------------------------------------)
+
+{{< side-by-side top=24 bottom=12 mobile-top=6 mobile-bottom=6 img=authorities-input img-width=394 img-alt="Two people make step-by-step entries to authorities." >}}
 {{% markdown %}}
-### Entries with authorities made online
+## Entries with authorities made online
 From changes to the commercial register to court submissions: Printing, sending and scanning are no longer necessary.
 
-- **Seamless integration with PrivaSphere
-(coming soon)**
-- **Recognised for communication between
-law firms and authorities/courts in Switzerland**
-- **Saves time and money**
+- Seamless integration with PrivaSphere
+(coming soon)
+- Recognised for communication between
+law firms and authorities/courts in Switzerland
+- Saves time and money
 {{% /markdown %}}
 {{< /side-by-side >}}
 
@@ -68,19 +90,19 @@ law firms and authorities/courts in Switzerland**
 
 {{< side-by-side top=24 bottom=16 mobile-top=6 mobile-bottom=12 img=crm-systeme-lawyer img-position=right img-width=421 img-alt="Existing systems, e.g. Google Drive, One Drive, Drop Box or Secure Safe" >}}
 {{% markdown %}}
-### No new software required
+## No new software required
 Stay with familiar tools: Sign directly via your browser or from your existing software.
 
-- **Sign directly via your browser**
-- **Integrate Skribble as a plug-in into
-industry software solutions**
-- **Seamless integration via modern APIs**
+- Sign directly via your browser
+- Integrate Skribble as a plug-in into
+industry software solutions
+- Seamless integration via modern APIs
 {{% /markdown %}}
 {{< /side-by-side >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< content text=center top=24 width=narrow >}}
+{{< content text=center top=20 width=narrow >}}
 {{% markdown %}}
 ## Skribble complies with the legal requirements for court processes
 You sign with legal effect and securely in accordance
@@ -275,13 +297,7 @@ Suitable for individual signatories.
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< testimonial "testimonial/kellerhalscarrard-124w.svg" "Beat Brechbuehl, Managing Partner Kellerhals Carrhard" >}}
-“Our clients can be served faster and our lawyers save time - using technology to enhance efficiency is one of the law firms priorities."
-{{< /testimonial >}}
-
-[//]: # (--------------------------------------------------------------------------------------------------------------)
-
-{{< content text=center top=16 bottom=4 width=narrow >}}
+{{< content text=center top=24 bottom=4 width=narrow >}}
 {{% markdown %}}
 ## All clear?
 {{% /markdown %}}

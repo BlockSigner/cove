@@ -9,80 +9,101 @@ og_image: og/og-skribble-identification.jpg
 
 ---
 
-{{< content text=center top=16 bottom=8 width=narrow >}}
+{{< intro top=24 bottom=12 width=wide img=vertical-lawyer-main img-width=560 img-alt="L'un traite de différents processus contractuels" >}}
 {{% markdown %}}
 # Signature électronique pour juristes
 Avec Skribble vous signez sans clé USB ou lecteur de carte
 avec la plus haute norme de signature électronique (SEQ).
-{{% /markdown %}}
-{{< /content >}}
 
-{{< picture vertical-lawyer-main 560 "L'un traite de différents processus contractuels" >}}
+**Signez en toute sécurité :**
+- Procurations et accords de confidentialité
+- Traités internationaux
+- Soumissions aux autorités
+
+{{% /markdown %}}
+{{< button
+  "Démarrer"
+  "https://my.skribble.com/signup?lang=fr"
+  "_blank"
+>}}
+{{< button
+  "Contacter les ventes"
+  "https://share.hsforms.com/1JHPHJU3QQz2TlyX14QDdKg309ws"
+  "_blank"
+  outline
+>}}
+{{< /intro >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
 {{< side-by-side top=24 bottom=12 img=sign-parallel mobile-top=12 mobile-bottom=6 img-width=387 img-alt="L'homme signe un contrat avec deux autres personnes" >}}
 {{% markdown %}}
-### Toutes les parties contractantes signent numériquement
+## Toutes les parties contractantes signent numériquement
 Parties contractantes multiples: au lieu de s'envoyer des contrats par la poste, elles signent toutes en ligne, ce qui leur fait gagner du temps.
 
-- **Inviter à signer automatiquement
-par e-mail (bientôt disponible)**
-- **Vue d'ensemble de toutes les signatures
-entrantes et sortantes**
-- **Etre averti automatiquement lorsque
-le contrat a été signé**
+- Inviter à signer automatiquement
+par e-mail (bientôt disponible)
+- Vue d'ensemble de toutes les signatures
+entrantes et sortantes
+- Etre averti automatiquement lorsque
+le contrat a été signé
 {{% /markdown %}}
 {{< /side-by-side >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< side-by-side top=12 bottom=12 mobile-top=6 mobile-bottom=6 img=batch-process img-position=right img-width=380 img-alt="Une agrafe de documents peut être signée en un seul clic" >}}
+{{< side-by-side top=24 bottom=24 mobile-top=6 mobile-bottom=6 img=batch-process img-position=right img-width=380 img-alt="Une agrafe de documents peut être signée en un seul clic" >}}
 {{% markdown %}}
-### Complétez la pile <br class="hide-for-mobile">avec une seule signature
+## Complétez la pile avec une seule signature
 Dossier de signature numérique: collectez vos contrats numériquement et signez-les simultanément en quelques clics. Grâce au standard SEQ, vous n'avez pas besoin d'une clé USB ou d'un lecteur de carte.
 
-- **Signature par lots pour un nombre
-quelconque de contrats**
-- **Authentification à deux facteurs par téléphone
-mobile – aucun matériel externe requis**
-- **Indépendamment de l'heure et du lieu**
+- Signature par lots pour un nombre
+quelconque de contrats
+- Authentification à deux facteurs par téléphone
+mobile – aucun matériel externe requis
+- Indépendamment de l'heure et du lieu
 {{% /markdown %}}
 {{< /side-by-side >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< side-by-side top=12 bottom=8 mobile-top=6 mobile-bottom=6 img=authorities-input img-width=394 img-alt="Deux personnes interviennent pas à pas auprès des autorités" >}}
+{{< testimonial "testimonial/kellerhalscarrard-124w.svg" "Beat Brechbuehl, Managing Partner Kellerhals Carrhard" >}}
+"Nos clients peuvent être servis plus rapidement et nos avocats gagnent du temps - l'utilisation de la technologie pour améliorer l'efficacité est l'une des priorités des cabinets d'avocats".
+{{< /testimonial >}}
+
+[//]: # (--------------------------------------------------------------------------------------------------------------)
+
+{{< side-by-side top=24 bottom=12 mobile-top=6 mobile-bottom=6 img=authorities-input img-width=394 img-alt="Deux personnes interviennent pas à pas auprès des autorités" >}}
 {{% markdown %}}
-### Faites des soumissions <br class="hide-for-mobile">aux autorités en ligne
+## Faites des soumissions aux autorités en ligne
 Des modifications du registre du commerce
 aux requêtes judiciaires: il n'est pas nécessaire d'imprimer, d'envoyer ou de scanner.
 
-- **Intégration parfaite avec PrivaSphere
-(A venir fin 2019)**
-- **Reconnu pour la communication entre les cabinets d'avocats et les autorités/ tribunaux en Suisse**
-- **Economiser du temps et de l'argent**
+- Intégration parfaite avec PrivaSphere
+(A venir fin 2019)
+- Reconnu pour la communication entre les cabinets d'avocats et les autorités/ tribunaux en Suisse
+- Economiser du temps et de l'argent
 {{% /markdown %}}
 {{< /side-by-side >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< side-by-side top=12 bottom=12 mobile-top=6 mobile-bottom=12 img=crm-systeme-lawyer img-position=right img-width=421 img-alt="Signez à partir de vos systèmes existants, par exemple WinJur ou Vertec." >}}
+{{< side-by-side top=24 bottom=12 mobile-top=6 mobile-bottom=12 img=crm-systeme-lawyer img-position=right img-width=421 img-alt="Signez à partir de vos systèmes existants, par exemple WinJur ou Vertec." >}}
 {{% markdown %}}
-### Aucun nouveau logiciel requis
+## Aucun nouveau logiciel requis
 Restez avec des outils familiers: connectez-vous directement via votre navigateur ou signez
 à partir de vos programmes existants.
 
-- **Signer directement via le navigateur**
-- **Intégrer Skribble comme plug-in dans
-les solutions sectorielles**
-- **Intégrer parfaitement via des API modernes**
+- Signer directement via le navigateur
+- Intégrer Skribble comme plug-in dans
+les solutions sectorielles
+- Intégrer parfaitement via des API modernes
 {{% /markdown %}}
 {{< /side-by-side >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< content text=center top=12 width=narrow >}}
+{{< content text=center top=20 width=narrow >}}
 {{% markdown %}}
 ## Avec Skribble, vous répondez aux exigences des procédures légales
 Avec Skribble, vous signez légalement et en toute sécurité
@@ -223,7 +244,6 @@ avec exigences formelles juridiques ou avec un risque de responsabilité fort.
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-
 {{< content text=center top=24 bottom=4 width=narrow >}}
 {{% markdown %}}
 ## Laissez-vous identifier
@@ -279,11 +299,6 @@ Convient aux signataires individuels.
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< testimonial "testimonial/kellerhalscarrard-124w.svg" "Beat Brechbuehl, Managing Partner Kellerhals Carrhard" >}}
-"Nos clients peuvent être servis plus rapidement et nos avocats gagnent du temps - l'utilisation de la technologie pour améliorer l'efficacité est l'une des priorités des cabinets d'avocats".
-{{< /testimonial >}}
-
-[//]: # (--------------------------------------------------------------------------------------------------------------)
 
 
 {{< content text=center top=16 bottom=4 width=narrow >}}

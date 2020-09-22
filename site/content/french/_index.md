@@ -7,9 +7,6 @@ draft: false
 og_image: og/og-skribble.jpg
 ---
 
-
-[//]: # (--------------------------------------------------------------------------------------------------------------)
-
 {{< intro top=24 bottom=12 width=wide img=image1 img-width=678 img-alt="trois personnes signent un document électronique" >}}
 {{% markdown %}}
 # Signer légalement et électroniquement grâce à Skribble

@@ -8,81 +8,100 @@ slug: anwaelte
 og_image: og/og-skribble-identification.jpg
 
 ---
-
-{{< content text=center top=16 bottom=8 width=narrow >}}
+{{< intro top=24 bottom=12 width=wide img=vertical-lawyer-main img-width=560 img-alt="Man erledigt verschiedene Vertragprozesse" >}}
 {{% markdown %}}
 # Elektronische Signatur für Anwälte
 Über Skribble signieren Sie ohne USB-Stick oder Card-Reader
 mit dem höchsten verfügbaren E-Signatur-Standard (QES).
-{{% /markdown %}}
-{{< /content >}}
 
-{{< picture vertical-lawyer-main 560 "Man erledigt verschiedene Vertragprozesse" >}}
+**Unterschreiben sie sicher:**
+- Vollmachten und NDA’s
+- Internationale Verträge
+- Eingaben bei Behörden
+{{% /markdown %}}
+{{< button
+  "Jetzt loslegen"
+  "https://my.skribble.com/signup?lang=de"
+  "_blank"
+>}}
+{{< button
+  "Sales kontaktieren"
+  "https://share.hsforms.com/1gxsCjIJRQhaM4GEcCmL7QQ309ws"
+  "_blank"
+  outline
+>}}
+{{< /intro >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
 {{< side-by-side top=24 bottom=12 img=sign-parallel mobile-top=12 mobile-bottom=6 img-width=387 img-alt="Mann signiert mit zwei weiteren Personen einen Vertrag" >}}
 {{% markdown %}}
-### Alle Vertragsparteien <br class="hide-for-mobile">signieren digital
+## Alle Vertragsparteien signieren digital
 Mehrere Vertragsparteien: Statt Verträge per Post von einer Person zur nächsten zu schicken, signieren alle zeitsparend online.
 
-- **Per E-Mail automatisiert
-zum Signieren einladen**
-- **Übersicht über alle eingegangenen
-und ausstehenden Signaturen**
-- **Automatisch benachrichtigt werden,
-wenn der Vertrag signiert wurde**
+- Per E-Mail automatisiert
+zum Signieren einladen
+- Übersicht über alle eingegangenen
+und ausstehenden Signaturen
+- Automatisch benachrichtigt werden,
+wenn der Vertrag signiert wurde
 {{% /markdown %}}
 {{< /side-by-side >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< side-by-side top=12 bottom=12 mobile-top=6 mobile-bottom=6 img=batch-process img-position=right img-width=380 img-alt="Ein Stapel Dokumente werden mit einem Klick signiert" >}}
+{{< side-by-side top=24 bottom=24 mobile-top=6 mobile-bottom=6 img=batch-process img-position=right img-width=380 img-alt="Ein Stapel Dokumente werden mit einem Klick signiert" >}}
 {{% markdown %}}
-### Erledigen Sie den Stapel <br class="hide-for-mobile">mit nur einer Signatur
+## Erledigen Sie den Stapel mit nur einer Signatur
 Digitale Unterschriftsmappe: Sammeln Sie die Verträge digital und signieren Sie diese gleichzeitig mit wenigen Klicks. Einen USB-Stick oder Card-Reader brauchen Sie trotz QES-Standard nicht.
 
-- **Stapelsignatur für beliebige
-Anzahl Verträge**
-- **Zwei-Faktor-Authentifizierung via Handy –
-keine externe Hardware erforderlich**
-- **Unabhängig von Zeit und Ort**
+- Stapelsignatur für beliebige
+Anzahl Verträge
+- Zwei-Faktor-Authentifizierung via Handy –
+keine externe Hardware erforderlich
+- Unabhängig von Zeit und Ort
 {{% /markdown %}}
 {{< /side-by-side >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< side-by-side top=12 bottom=8 mobile-top=6 mobile-bottom=6 img=authorities-input img-width=394 img-alt="Zwei Leute machen Schritt-für Schritt eine Behörden Eingabe" >}}
+{{< testimonial "testimonial/kellerhalscarrard-124w.svg" "Beat Brechbuehl, Managing Partner Kellerhals Carrhard" >}}
+"Unsere Mandanten können schneller bedient werden und unsere Anwälte sparen Zeit - der Einsatz von Technologie zur Effizienzsteigerung ist eine der Prioritäten der Kanzleien".
+{{< /testimonial >}}
+
+[//]: # (--------------------------------------------------------------------------------------------------------------)
+
+{{< side-by-side top=24 bottom=8 mobile-top=6 mobile-bottom=6 img=authorities-input img-width=394 img-alt="Zwei Leute machen Schritt-für Schritt eine Behörden Eingabe" >}}
 {{% markdown %}}
-### Eingaben bei Behörden <br class="hide-for-mobile">machen Sie online
+## Eingaben bei Behörden machen Sie online
 Von Änderungen am Handelsregister bis Gerichtseingaben: Das Ausdrucken, Versenden und Einscannen entfällt.
 
-- **Nahtlose Integration in PrivaSphere (folgt bald)**
-- **Anerkannt für die Kommunikation zwischen
-Kanzleien und Behörden/Gerichten in der Schweiz**
-- **Zeit und Geld sparen**
+- Nahtlose Integration in PrivaSphere (folgt bald)
+- Anerkannt für die Kommunikation zwischen
+Kanzleien und Behörden/Gerichten in der Schweiz
+- Zeit und Geld sparen
 {{% /markdown %}}
 {{< /side-by-side >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< side-by-side top=12 bottom=8 mobile-top=6 mobile-bottom=12 img=crm-systeme-lawyer img-position=right img-width=421 img-alt="Signiere aus deinen gewohnten Tools heraus, beispielsweise WinJur oder Vertec." >}}
+{{< side-by-side top=24 bottom=8 mobile-top=6 mobile-bottom=12 img=crm-systeme-lawyer img-position=right img-width=421 img-alt="Signiere aus deinen gewohnten Tools heraus, beispielsweise WinJur oder Vertec." >}}
 {{% markdown %}}
-### Keine neue Software notwendig
+## Keine neue Software notwendig
 Bei gewohnten Tools bleiben: Signieren Sie direkt über den Browser oder aus Ihrer bestehenden Software heraus.
 
-- **Direkt über den Browser signieren**
-- **Skribble als Plug-in in Branchen-Software-
-Lösungen einbinden**
-- **Nahtlose Integration via moderne APIs**
+- Direkt über den Browser signieren
+- Skribble als Plug-in in Branchen-Software-
+Lösungen einbinden
+- Nahtlose Integration via moderne APIs
 {{% /markdown %}}
 {{< /side-by-side >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< content text=center top=24 width=narrow >}}
+{{< content text=center top=20 width=narrow >}}
 {{% markdown %}}
-## Mit Skribble erfüllen Sie <br class="hide-for-mobile">die rechtlichen Anforderungen <br class="hide-for-mobile">an Anwalts-Prozesse
+## Mit Skribble erfüllen Sie die rechtlichen Anforderungen an Anwalts-Prozesse
 Sie signieren rechtsgültig und sicher gemäss folgenden Erfordernissen:
 {{% /markdown %}}
 {{< /content >}}
@@ -271,13 +290,7 @@ Schalten Sie den höchsten E-Signatur-Standard QES von zu Hause aus frei.
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< testimonial "testimonial/kellerhalscarrard-124w.svg" "Beat Brechbuehl, Managing Partner Kellerhals Carrhard" >}}
-"Unsere Mandanten können schneller bedient werden und unsere Anwälte sparen Zeit - der Einsatz von Technologie zur Effizienzsteigerung ist eine der Prioritäten der Kanzleien".
-{{< /testimonial >}}
-
-[//]: # (--------------------------------------------------------------------------------------------------------------)
-
-{{< content text=center top=16 bottom=4 width=narrow >}}
+{{< content text=center top=20 bottom=4 width=narrow >}}
 {{% markdown %}}
 ## Alles klar?
 {{% /markdown %}}
