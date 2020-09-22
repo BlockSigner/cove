@@ -2,26 +2,23 @@
 title: Sign electronically in HR with Skribble
 description: With Skribble you sign legally and easily in a digital way – from employment contracts to certificates and wage statements.Finish the pile with only one signature!
 draft: false
-slug: hr
+slug: tax-consultant
 
 # opengraph image (for facebook and twitter)
 og_image: og/og-skribble-identification.jpg
 
 ---
 
-{{< intro top=24 bottom=12 width=wide img=vertical-hr-main img-width=560 img-alt="Three women holding a document in their hands" >}}
-
+{{< intro top=24 bottom=12 width=wide img=vertical-hr-main img-width=560 img-alt="Three women hold a contract in their hands" >}}
 {{% markdown %}}
-# Sign electronically in HR
-With Skribble you sign legally and easily in a digital way –
-from employment contracts to certificates and wage statements.
+# Electronic signature for tax consultants
+With Skribble, you and your clients sign faster and more securely - from balance sheets and annual financial statements to tax planning.
 
 **Sign safely:**
-- Employment contracts
-- Temporary contracts
-- Hourly wage contracts
+- Balance sheet & annual accounts
+- Client agreements
+- Release declarations
 {{% /markdown %}}
-
 {{< button
   "Get started"
   "https://my.skribble.com/signup"
@@ -50,59 +47,60 @@ from employment contracts to certificates and wage statements.
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< side-by-side top=24 bottom=12 img=batch-signature mobile-top=12 mobile-bottom=6 img-width=367 img-alt="Three contracts signed with batch processing" >}}
+{{< side-by-side top=24 bottom=24 img=batch-signature mobile-top=12 mobile-bottom=6 img-width=367 img-alt="Three contracts are signed using the batch method" >}}
 {{% markdown %}}
-## Finish the pile with only one signature
-New employment contracts for everyone: the authorised signatory no longer signs hundreds of contracts by hand, but signs them all at once with Skribble's batch signature.
+## More efficiency for tax consultants and their clients
+The diversion via printer and paper is eliminated: instead of sending the balance sheet and the annual financial statement back and forth by post, the tax consultant and client sign electronically within seconds. 
 
-- Batch signature for any number of employment contracts
-- Automatically invite employees to sign employment contracts by e-mail
-- Overview of all completed and outstanding signatures
+- By e-mail to sign the contract
+- Clients can sign without a Skribble account via invitation link
+- Confirm signature via mobile phone - no USB stick or smart card required
+- Verifiable in seconds whether the signature is correct
 {{% /markdown %}}
 {{< /side-by-side >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< side-by-side top=24 bottom=24 mobile-top=6 mobile-bottom=6 img=candidate-sign-digital img-position=right img-width=392 img-alt="A woman sits in a deck chair and signs her employment contract on her tablet" >}}
+{{< side-by-side top=24 bottom=24 mobile-top=6 mobile-bottom=6 img=candidate-sign-digital img-position=right img-width=392 img-alt="A woman sits on a deck chair and signs a contract on her table" >}}
 {{% markdown %}}
-## Candidates sign digitally without delay
-Efficient onboarding: you have a better chance of being chosen as an employer and HR administration becomes easier, faster and cheaper.
+## Easier than paper and pen
+Signing with Skribble is intuitive and can be done in seconds. They enable their employees and clients to seamlessly implement digital processes that save time and money.
 
-- Legally valid for any type of employment contract
-- No loss of time due to postal mailing
-- Get notified automatically when the employment contract has been signed
+- Overview of all incoming and outstanding signatures
+- Sign several documents at once with the batch signature
+- Sign anywhere on your smartphone or computer - at home, on the road or in the office
 {{% /markdown %}}
 {{< /side-by-side >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
 {{< testimonial "testimonial/twint-150w.png" "Simon Wehrli, CTO, Twint" >}}
-«Moving towards more remote work, regular contract renewals and dual signature requirements resulted in an extremely time-consuming signing process built around a lot of paperwork. Skribble enables us to sign employment contracts and NDAs in a breeze – paper-free and regardless of time and place.»
+"Testimonial"
 {{< /testimonial >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< side-by-side top=24 bottom=12 mobile-top=6 mobile-bottom=6 img=more-efficiency img-width=430 img-alt="Man with fountain pen would like to sign three contracts" >}}
+{{< side-by-side top=24 bottom=12 mobile-top=6 mobile-bottom=6 img=more-efficiency img-width=430 img-alt="Man signs three contracts with a fountain pen" >}}
 {{% markdown %}}
-## Empower employees <br class="hide-for-mobile">to work more efficiently
-Digitalisation enabler: HR enables the workforce to sign electronically and can manage their everyday work with less bureaucracy.
+## Suitable for any document and any mandate
+Different documents, different requirements. With Skribble, any type of document can be legally signed - from financial statements to designs to release declarations.
 
-- Digital processing of work reports, lay-offs, applications, etc.
-- Get signatures from authorised signatories via e-mail
-- Download contracts ready for archiving in recognized PDF X/A format
+- Valid for contracts with and without written form requirement
+- Worldwide internal and external use
+- Highest security standards and bank level data protection in Switzerland
 {{% /markdown %}}
 {{< /side-by-side >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< side-by-side top=24 bottom=12 mobile-top=6 mobile-bottom=12 img=integrations img-position=right img-width=381 img-alt="Existing systems, e.g. Google Drive, One Drive, Drop Box or Secure Safe" >}}
+{{< side-by-side top=24 bottom=12 mobile-top=6 mobile-bottom=12 img=integrations img-position=right img-width=381 img-alt="Connection of the different participants when using scribble from an HRM visually displayed" >}}
 {{% markdown %}}
-## No new software required
-Stay with familiar tools: sign directly via your browser or from your existing software.
+## Remain with familiar tools and processes
+Integrate Skribble into your law firm software or sign directly via the browser. Clients can sign with any operating system via invitation link.
 
-- Sign directly via your browser
-- Integrate Skribble as a plug-in into SAP and other industry solutions
 - Seamless integration via modern APIs
+- Employees and clients can be easily and quickly onboard
+- Familiar appearance thanks to personalisable visual signature
 {{% /markdown %}}
 {{< /side-by-side >}}
 
@@ -110,7 +108,7 @@ Stay with familiar tools: sign directly via your browser or from your existing s
 
 {{< content text=center top=16 botom=24 width=narrow >}}
 {{% markdown %}}
-## Skribble complies with the legal requirements for HR processes
+## Skribble complies with the legal requirements for tax-consultant processes
 You sign with legal effect and securely in accordance
 with the following requirements:
 {{% /markdown %}}
@@ -131,32 +129,6 @@ Skribble and its signing partner Swisscom commit to manage data in accordance wi
 {{< /content >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
-
-{{< content text=center top=24 width=narrow >}}
-{{% markdown %}}
-## Our customers have a good time
-How we at Skribble make everyday life easier for our customers.
-{{% /markdown %}}
-{{< /content >}}
-
-{{< testimonial "testimonial/easyjet-150w.png" "Sarah Jackson, Country HR & Administration Manager easyJet" >}}
-"In the fast moving HR environment, it is important to be as efficient as possible. Constantly on the move between various locations, working with people who do not always work normal office hours, Skribble has helped a lot."
-{{< /testimonial >}}
-
-{{< cta
-  label="Download use case"
-  href="https://cdn2.hubspot.net/hubfs/5051692/Factstheets/Use%20Cases/asyJet_Skribble_Use-Case_EN.pdf"
-  outlined="true"
-  target="_blank"
->}}
-
-{{% markdown %}}
-**Download the easyJet use case:**
-{{% /markdown %}}
-{{< /cta >}}
-
-[//]: # (--------------------------------------------------------------------------------------------------------------)
-
 
 {{< content text=center top=24 width=narrow >}}
 {{% markdown %}}

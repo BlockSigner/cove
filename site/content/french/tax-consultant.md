@@ -2,21 +2,21 @@
 title: Signer électroniquement dans les RH
 description: Avec Skribble, vous signez en toute sécurité juridique et en toute simplicité par voie numérique – des contrats de travail aux références en passant par les certificats de salaire.
 draft: false
-slug: ressources-humaines
+slug: consultant-fiscal
 
 # opengraph image (for facebook and twitter)
 og_image: og/og-skribble-identification.jpg
 
 ---
-{{< intro top=24 bottom=12 width=wide img=vertical-hr-main img-width=560 img-alt="Trois personnes signent un document électronique" >}}
+{{< intro top=24 bottom=12 width=wide img=vertical-hr-main img-width=560 img-alt="Trois femmes tiennent un contrat entre leurs mains" >}}
 {{% markdown %}}
-# Signer électroniquement dans les RH
-Avec Skribble, vous signez des documents juridiquement contraignants et faciles numériquement - des contrats de travail aux certificats et aux fiches de salaire.
+# Signature électronique pour les conseillers fiscaux
+Avec Skribble, vous et vos clients signez plus rapidement et en toute sécurité - des bilans aux états financiers annuels en passant par la planification fiscale.
 
 **Signez en toute sécurité :**
-- Contrats de travail
-- Contrats temporaires
-- Contrats de salaire horaire
+- Bilan et états financiers annuels
+- Accords avec les clients
+- Déclarations de décharge
 {{% /markdown %}}
 {{< button
   "Démarrer"
@@ -45,68 +45,60 @@ Avec Skribble, vous signez des documents juridiquement contraignants et faciles 
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< side-by-side top=24 bottom=12 img=batch-signature mobile-top=12 mobile-bottom=6 img-width=367 img-alt="Trois contrats sont signés par lots" >}}
+{{< side-by-side top=24 bottom=24 img=batch-signature mobile-top=12 mobile-bottom=6 img-width=367 img-alt="Trois contrats sont signés avec la méthode des lots" >}}
 {{% markdown %}}
-## Compléter le lot avec une seule signature
-De nouveaux contrats de travail pour tous: le signataire autorisé ne signe plus des centaines de contrats à la main, mais les signe tous à la fois avec la signature par lots de Skribble.
+## Plus d'efficacité pour les conseillers fiscaux et leurs clients
+Le détour par l'imprimante et le papier est supprimé : au lieu d'envoyer le bilan et les comptes annuels par la poste, le conseiller fiscal et le client signent électroniquement en quelques secondes. 
 
-- Signature par lots pour un nombre
-quelconque de contrats de travail
-- Inviter automatiquement les employés
-à signer des contrats de travail par courriel
-- Vue d'ensemble de toutes les signatures
-entrantes et sortantes
+- Par courrier électronique pour signer un accord
+- Les clients peuvent signer sans compte Skribble via un lien d'invitation
+- Confirmation de la signature par téléphone portable - pas besoin de clé USB ni de carte à puce
+- Vérification en quelques secondes de l'exactitude de la signature
 {{% /markdown %}}
 {{< /side-by-side >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< side-by-side top=24 bottom=24 mobile-top=6 mobile-bottom=6 img=candidate-sign-digital img-position=right img-width=392 img-alt="Une femme s'assoit sur une chaise longue et signe un contrat sur sa tablette." >}}
+{{< side-by-side top=24 bottom=24 mobile-top=6 mobile-bottom=6 img=candidate-sign-digital img-position=right img-width=392 img-alt="Une femme est assise sur une chaise longue et signe un contrat sur sa tablette" >}}
 {{% markdown %}}
-## Signature numérique <br class="hide-for-mobile">sans délai des candidats
-Une intégration efficace: vous avez plus de chances d'être choisi comme employeur et l'administration des RH devient plus facile, plus rapide et moins coûteuse.
+## Plus facile que le papier et le stylo
+La signature avec Skribble est intuitive et se fait en quelques secondes. Vous permettez à vos employés et à vos clients de mettre en œuvre de manière transparente des processus numériques qui leur font gagner du temps et de l'argent.
 
-- Juridiquement valable pour tout type
-de contrat de travail
-- Pas de perte de temps due à l'envoi postal
-- Notifier automatiquement la signature
-du contrat de travail
+- Aperçu de toutes les signatures reçues et en suspens
+- Signer plusieurs documents à la fois avec la signature du lot
+- Signez n'importe où sur votre smartphone ou votre ordinateur - à la maison, sur la route ou au bureau
 {{% /markdown %}}
 {{< /side-by-side >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
 {{< testimonial "testimonial/twint-150w.png" "Simon Wehrli, CTO, Twint" >}}
-"L’augmentation du télétravail, les renouvellements réguliers des contrats et la double signature requise ont rendu le processus de signature analogique extrêmement long et lourd en papier. Avec Skribble, nous signons les contrats de travail et les accords de confidentialité sans papier, en appuyant sur un bouton – quels que soient l'heure et le lieu."
+"Testimonial"
 {{< /testimonial >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< side-by-side top=24 bottom=12 mobile-top=6 mobile-bottom=6 img=more-efficiency img-width=430 img-alt="Homme signé avec un stylo plume trois contrats" >}}
+{{< side-by-side top=24 bottom=12 mobile-top=6 mobile-bottom=6 img=more-efficiency img-width=430 img-alt="Un homme signe trois contrats avec un stylo plume" >}}
 {{% markdown %}}
-## Habiliter les employés pour plus d'efficacité
-Facilitateur de la numérisation: les RH permettent au personnel de signer électroniquement et de faire face au travail quotidien avec moins de bureaucratie.
+## Applicable pour tout document et tout mandat
+Différents documents, différentes exigences. Avec Skribble, tout type de document peut être légalement signé - des états financiers aux déclarations de décharge en passant par les dessins.
 
-- Traitement numérique des rapports
-de travail, des licenciements, des demandes, etc.
-- Obtenir les signatures des signataires
-autorisés par courriel
-- Télécharger les contrats prêt
- pour l'archivage au format PDF X/A reconnu
+- Valable pour les contrats avec et sans exigence de forme écrite
+- Utilisation interne et externe dans le monde entier
+- Les normes de sécurité les plus élevées et la protection des données bancaires en Suisse
 {{% /markdown %}}
 {{< /side-by-side >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< side-by-side top=24 bottom=12 mobile-top=6 mobile-bottom=12 img=integrations img-position=right img-width=381 img-alt="Signez directement dans vos logiciels RH" >}}
+{{< side-by-side top=24 bottom=12 mobile-top=6 mobile-bottom=12 img=integrations img-position=right img-width=381 img-alt="Connexion des différents participants lors de l'utilisation d'un gribouillage à partir d'un MRH affiché visuellement" >}}
 {{% markdown %}}
-## Aucun nouveau logiciel requis
-Restez avec des outils familiers: signez à partir de vos programmes existants, par exemple Google Drive, One Drive, Drop Box ou Secure Safe.
+## Rester avec des outils et des processus familiers
+Intégrez Skribble dans le logiciel de votre cabinet d'avocats ou signez directement via le navigateur. Les clients peuvent s'inscrire avec n'importe quel système d'exploitation via un lien d'invitation.
 
-- Signer directement via le navigateur
-- Intégrer Skribble en tant que plug-in dans SAP
-et d'autres solutions sectorielles
-- Intégrer parfaitement via des API modernes
+- Une intégration transparente grâce à des API modernes
+- Les employés et les clients à bord sans effort et dans les plus brefs délais
+- Apparence familière grâce à une signature visuelle personnalisable
 {{% /markdown %}}
 {{< /side-by-side >}}
 
@@ -114,7 +106,7 @@ et d'autres solutions sectorielles
 
 {{< content text=center top=24 width=narrow >}}
 {{% markdown %}}
-## Avec Skribble, vous répondez aux exigences légales des processus RH
+## Avec Skribble, vous répondez aux exigences légales des processus consultant-fiscal
 Avec Skribble, vous pouvez signer numériquement et légalement (SEQ)
 et satisfaire aux exigences légales suivantes:
 {{% /markdown %}}
@@ -133,31 +125,6 @@ La signature électronique qualifiée (SEQ) de Skribble équivaut à la signatur
 Skribble et ses partenaires gèrent leurs données conformément à la loi fédérale sur la protection des données (LPD) et au réglement européen sur la protection des données (RGPD) et les hébergent en Suisse conformément aux normes bancaires.
 {{% /collapsible %}}
 {{< /content >}}
-
-[//]: # (--------------------------------------------------------------------------------------------------------------)
-
-{{< content text=center top=24 width=narrow >}}
-{{% markdown %}}
-## Nos clients s'amusent bien
-Comment nous, chez Skribble, facilitons la vie quotidienne de nos clients.
-{{% /markdown %}}
-{{< /content >}}
-
-{{< testimonial "testimonial/easyjet-150w.png" "Sarah Jackson, Country HR & Administration Manager easyJet" >}}
-"Dans l'environnement des RH qui évolue rapidement, il est important d'être aussi efficace que possible. Cela a été difficile jusqu'à présent avec notre processus de signature analogique, car je suis constamment sur la route entre différents endroits."
-{{< /testimonial >}}
-
-{{< cta
-  label="Télécharger le cas d'utilisation"
-  href="https://cdn2.hubspot.net/hubfs/5051692/Factstheets/Use%20Cases/EasyJet_Skribble_Use-Case_FR.pdf"
-  outlined="true"
-  target="_blank"
->}}
-
-{{% markdown %}}
-**Téléchargez le cas d'utilisation easyJet :**
-{{% /markdown %}}
-{{< /cta >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 

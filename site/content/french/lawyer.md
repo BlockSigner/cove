@@ -36,6 +36,18 @@ avec la plus haute norme de signature électronique (SEQ).
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
+{{< logos-container top=12 bottom=24 width=wide title="Le premier choix de plus de 200 entreprises ayant les plus hauts standards de protection des données et de sécurité :">}}
+  {{< logos-item src="logos/canon-116w.svg" alt="Canon">}}
+  {{< logos-item src="logos/helvetia-150w.svg" alt="Helvetia Versicherung">}}
+  {{< logos-item src="logos/easyjet-132w.svg" alt="EasyJet">}}
+  {{< logos-line-break >}}
+  {{< logos-item src="logos/kellerhalscarrard-100w.svg" alt="Kellerhals Carrard">}}
+  {{< logos-item src="logos/wincasa-150w.svg" alt="Wincasa">}}
+  {{< logos-item src="logos/twint-116w.svg" alt="Twint">}}
+{{< /logos-container >}}
+
+[//]: # (--------------------------------------------------------------------------------------------------------------)
+
 {{< side-by-side top=24 bottom=12 img=sign-parallel mobile-top=12 mobile-bottom=6 img-width=387 img-alt="L'homme signe un contrat avec deux autres personnes" >}}
 {{% markdown %}}
 ## Toutes les parties contractantes signent numériquement

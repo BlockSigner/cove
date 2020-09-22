@@ -2,7 +2,7 @@
 title: Die digitale Unterschrift im Human Resources von Skribble
 description: Unkompliziert und rechtsicher Arbeitsverträge, Arbeitszeugnisse und Lohnausweise signieren. Mit der Stapelsignatur können Sie alle PDfs mit einem Klick unterschreiben.
 draft: false
-slug: hr
+slug: steuerberater
 
 # opengraph image (for facebook and twitter)
 og_image: og/og-skribble-identification.jpg
@@ -10,14 +10,13 @@ og_image: og/og-skribble-identification.jpg
 ---
 {{< intro top=24 bottom=12 width=wide img=vertical-hr-main img-width=560 img-alt="Drei Frauen halten einen Vertrag in der Hand" >}}
 {{% markdown %}}
-# Elektronisch signieren im HR
-Mit Skribble signierst du rechtssicher und einfach 
-auf digitalem Weg - von Arbeitsverträgen über Zeugnisse bis Lohnausweise.
+# Elektronische Signatur für Steuerberater
+Mit Skribble signieren Sie und Ihre Mandanten schneller und sicherer – von der Bilanz über Jahresabschlüsse bis Steuergestaltungen.
 
 **Unterschreiben sie sicher:**
-- Arbeitsverträge
-- Temporärverträge
-- Stundenlohnverträge
+- Bilanz & Jahresabschlüsse
+- Mandantenverträge
+- Freigabeerklärungen
 {{% /markdown %}}
 {{< button
   "Jetzt loslegen"
@@ -48,51 +47,46 @@ auf digitalem Weg - von Arbeitsverträgen über Zeugnisse bis Lohnausweise.
 
 {{< side-by-side top=24 bottom=24 img=batch-signature mobile-top=12 mobile-bottom=6 img-width=367 img-alt="Drei Verträge werden mit dem Stapelverfahren signiert" >}}
 {{% markdown %}}
-## Erledigen Sie den Stapel mit nur einer Signatur
-Neue Arbeitsverträge für alle: der Unterschriftsberechtigte unterzeichnet nicht mehr hunderte Verträge von Hand, sondern signiert alle auf einmal mit der Stapelsignatur von Skribble.
+## Mehr Effizienz für Steuerberater und Ihre Mandanten
+Der Umweg über Drucker und Papier entfällt: Statt die Bilanz und den Jahresbaschluss per Post hin- und her zu schicken, signieren Steuerberater und Mandant innert Sekunden elektronisch. 
 
-- Stapelsignatur für beliebige
-Anzahl Arbeitsverträge
-- Per E-Mail automatisiert zum Signieren
-der Arbeitsverträge einladen
-- Übersicht über alle eingegangenen
- und ausstehenden Signaturen
+- Per E-Mail zum signieren einalden
+- Mandanten können ohne Skribble-Konto via Einladungslink signieren
+- Signatur via Handy bestätigen – kein USB-Stick oder Smart Card erforderlich
+- In Sekundenschnelle prüfbar, ob korrekt signiert wurde
+{{% /markdown %}}
+{{< /side-by-side >}}
+
+[//]: # (--------------------------------------------------------------------------------------------------------------)
+
+{{< side-by-side top=24 bottom=24 mobile-top=6 mobile-bottom=6 img=candidate-sign-digital img-position=right img-width=392 img-alt="Eine Frau sitzt auf einem Liegestuhl und unterzeichnet auf ihrem Tablet einen Vertrag" >}}
+{{% markdown %}}
+## Einfacher als Papier und Füller
+Das Signieren mit Skribble ist intuitiv und in Sekundenschnelle erledigt. Sie ermöglichen ihren Mitarbeitenden und Mandanten nahtlos digitale Prozesse, die Zeit und Geld sparen.
+
+- Übersicht über alle eingegangenen und ausstehenden Signaturen
+- Mit der Stapelsignatur mehrere Dokumente auf einmal signieren
+- Ortsunabhängig auf dem Smartphone oder Computer signieren – im Home Office, unterwegs oder im Büro
 {{% /markdown %}}
 {{< /side-by-side >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
 {{< testimonial "testimonial/twint-150w.png" "Simon Wehrli, CTO, Twint" >}}
-"Mehr Home-Office, regelmässige Erneuerungen der Verträge und die erforderliche Doppelunterschrift machten den analogen Unterschriftsprozess extrem zeitaufwendig und papierlastig. Mit Skribble signieren wir die Arbeitsverträge und NDAs papierfrei auf Knopfdruck – unabhängig von Ort und Zeit."
+"Testimonial"
 {{< /testimonial >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< side-by-side top=24 bottom=12 mobile-top=6 mobile-bottom=6 img=candidate-sign-digital img-position=right img-width=392 img-alt="Eine Frau sitzt auf einem Liegestuhl und unterzeichnet auf ihrem Tablet einen Vertrag" >}}
-{{% markdown %}}
-## Kandidaten signieren ohne Verzögerung digital
-Effizientes Onboarding: Sie haben bessere Chancen, als Arbeitgeber gewählt zu werden, und die HR-Administration wird einfacher, schneller und günstiger.
-
-- Rechtsgültig für jede Art Arbeitsvertrag
-- Kein Zeitverlust durch Postversand
-- Automatisiert benachrichtigt werden,
-wenn der Arbeitsvertrag signiert wurde
-{{% /markdown %}}
-{{< /side-by-side >}}
-
-[//]: # (--------------------------------------------------------------------------------------------------------------)
 
 {{< side-by-side top=24 bottom=12 mobile-top=6 mobile-bottom=6 img=more-efficiency img-width=430 img-alt="Mann unterzeichnet mit einem Füllfederhalter drei Verträge" >}}
 {{% markdown %}}
-## Befähigen Sie Mitarbeitende zu mehr Effizienz
-Digitalisierungs-Enabler: Die Belegschaft wird durch das HR zum elektronischen Signieren befähigt und kann den Arbeitsalltag mit weniger Bürokratie bestreiten.
+## Für jedes Dokument und jedes Mandat einsetzbar
+Verschiedene Dokumente, verschiedene Anforderungen. Mit Skribble können jede Art Dokument rechtsgültig  signiernen – von Abschlüssen über Gestaltungen bis Freigabeerklärungen.
 
-- Arbeitsrapports, Kündigungen, Anträge
-u. Ä. digital abwickeln
-- Signaturen von Zeichnungsberechtigten
-via E-Mail abholen
-- Verträge archivierbereit downloaden
-im anerkannten PDF X/A-Format
+- Rechtsgültig für Verträge mit- und ohne Schriftformerfordernis
+- Weltweit intern und gegenüber extern einsetzbar
+- Höchste Sicherheitsstandards und Bank-LevelDatenschutz in der Schweiz
 {{% /markdown %}}
 {{< /side-by-side >}}
 
@@ -100,12 +94,12 @@ im anerkannten PDF X/A-Format
 
 {{< side-by-side top=24 bottom=12 mobile-top=6 mobile-bottom=12 img=integrations img-position=right img-width=381 img-alt="Verbindung der unterschiedlichen Beteiligten bei Gebrauch von Skribble aus einem HRM visuell dargestellt" >}}
 {{% markdown %}}
-## Keine neue Software notwendig
-Bei gewohnten Tools bleiben: Signieren Sie direkt über den Browser oder aus Ihrer bestehenden Software heraus.
+## Bei gewohnten Tools und Prozessen bleiben
+Integrieren Sie Skribble in Ihre Kanzlei-Software oder signieren Sie direkt über den Browser. Mandanten können mit jedem Betriebssystem via Einladungslink signieren.
 
-- Direkt über den Browser signieren
-- Skribble als Plug-in in SAP und anderen Branchenlösungen einbinden
 - Nahtlose Integration via moderne APIs
+- Mitarbeitende und Mandanten mühelos und innert kürzester Zeit onboarden
+- Gewohntes Erscheunugnsbild dank personalisierbarer visueller Signatur
 {{% /markdown %}}
 {{< /side-by-side >}}
 
@@ -113,7 +107,7 @@ Bei gewohnten Tools bleiben: Signieren Sie direkt über den Browser oder aus Ihr
 
 {{< content text=center top=24 width=narrow >}}
 {{% markdown %}}
-## Mit Skribble erfüllen Sie die rechtlichen Anforderungen an HR-Prozesse
+## Mit Skribble erfüllen Sie die rechtlichen Anforderungen an Steuerberater-Prozesse
 Sie signieren rechtsgültig und sicher gemäss folgenden Erfordernissen:
 {{% /markdown %}}
 {{< /content >}}
@@ -131,31 +125,6 @@ Die auf Skribble verfügbare qualifizierte elektronische Signatur (QES) ist der 
 Skribble sowie Partner verwalten ihre Daten gemäss dem Bundesgesetz über den Datenschutz (DSG) sowie der europäischen Datenschutz-Grundverordnung (DSGVO) und hosten diese in der Schweiz nach Bankenstandard.
 {{% /collapsible %}}
 {{< /content >}}
-
-[//]: # (--------------------------------------------------------------------------------------------------------------)
-
-{{< content text=center top=24 width=narrow >}}
-{{% markdown %}}
-## Unser Kunden haben gut lachen
-Wie wir den Alltag unserer Kunden erleichtern.
-{{% /markdown %}}
-{{< /content >}}
-
-{{< testimonial "testimonial/easyjet-150w.png" "Sarah Jackson, Country HR & Administration Manager easyJet" >}}
-"Im schnelllebigen HR-Umfeld ist es wichtig, so effizient wie möglich zu sein. Das war mit unserem analogen Signaturprozess bisher schwierig, denn ich bin ständig auf Achse zwischen verschiedenen Standorten"
-{{< /testimonial >}}
-
-{{< cta
-  label="Download Use-Case"
-  href="https://cdn2.hubspot.net/hubfs/5051692/Factstheets/Use%20Cases/easyJet_Skribble_Use-Case_DE.pdf"
-  outlined="true"
-  target="_blank"
->}}
-
-{{% markdown %}}
-**Laden Sie den easyJet Use-Case herunter:**
-{{% /markdown %}}
-{{< /cta >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 

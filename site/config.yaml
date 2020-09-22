@@ -57,6 +57,10 @@ languages:
           url: "/de/anwaelte/"
           weight: 15
           parent: solutions
+        - name: Steuerberater
+          url: "/de/steuerberater/"
+          weight: 20
+          parent: solutions
         # Preise
         - name: Preise
           url: "/de/preise/"
@@ -233,15 +237,19 @@ languages:
         # Solutions dropdown
         - name: Solutions
           url: "/hr/"
-          weight: 15
+          weight: 10
           identifier: solutions
         - name: HR
           url: "/hr/"
-          weight: 10
+          weight: 15
           parent: solutions
         - name: Lawyer
           url: "/Lawyer/"
-          weight: 15
+          weight: 20
+          parent: solutions
+        - name: Tax-consultant
+          url: "/tax-consultant/"
+          weight: 25
           parent: solutions
         # Pricing
         - name: Pricing
@@ -428,6 +436,10 @@ languages:
         - name: Juristes
           url: "/fr/juristes/"
           weight: 20
+          parent: solutions
+        - name: Consultant-fiscal
+          url: "/fr/consultant-fiscal/"
+          weight: 25
           parent: solutions
         # Tarifs
         - name: Tarifs

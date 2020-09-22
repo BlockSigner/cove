@@ -37,6 +37,18 @@ with the highest e-signing standard (QES).
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
+{{< logos-container top=12 bottom=24 width=wide title="The first choice of more than 200 companies with the highest requirements for data protection and security:">}}
+  {{< logos-item src="logos/canon-116w.svg" alt="Canon">}}
+  {{< logos-item src="logos/helvetia-150w.svg" alt="Helvetia Versicherung">}}
+  {{< logos-item src="logos/easyjet-132w.svg" alt="EasyJet">}}
+  {{< logos-line-break >}}
+  {{< logos-item src="logos/kellerhalscarrard-100w.svg" alt="Kellerhals Carrard">}}
+  {{< logos-item src="logos/wincasa-150w.svg" alt="Wincasa">}}
+  {{< logos-item src="logos/twint-116w.svg" alt="Twint">}}
+{{< /logos-container >}}
+
+[//]: # (--------------------------------------------------------------------------------------------------------------)
+
 {{< side-by-side top=24 bottom=12 img=sign-parallel mobile-top=12 mobile-bottom=6 img-width=387 img-alt="Man sign a contract with two other people at the same time" >}}
 {{% markdown %}}
 ## All contractual parties sign digitally
