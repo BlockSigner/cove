@@ -88,23 +88,279 @@ Die Beweiskraft Ihrer Signatur wird auf 100% angehoben (QES-Level)
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< side-by-side top=24 bottom=24 width=narrow mobile-top=6 mobile-bottom=12 img=swisscom-ra-teaser img-position=left img-width=240 img-alt="A man with a big mouth examines the identity of two people." >}}
-{{% markdown %}}
-In wenigen Minuten kostenlos
-identifizieren
-===============
-Zusammen mit unserem Partner Swisscom Trust Services bieten wir eine wachsende Zahl von Identifikationsstandorten in der ganzen Schweiz an.
+{{< content text=center top=24 bottom=8 >}}	
+{{% markdown %}}	
+## Standorte für die Identitätsprüfung	
+Kommen Sie vorbei und lassen Sie sich kostenlos identifizieren.	
+Bringen Sie einen gültigen Pass oder Identitätskarte mit sowie Ihr Mobiltelefon.	
+{{% /markdown %}}	
+{{< /content >}}	
 
-Zurzeit nur auf Englisch verfügbar.
-{{% /markdown %}}
-<br>
-{{< button
-  "Standort finden"
-  "https://trustservices.swisscom.com/en/srs-direct/"
-  "_blank"
-  "outline"
+[//]: # (--------------------------------------------------------------------------------------------------------------)	
+
+{{< cta	
+  label="026 470 08 90"	
+  href="tel: +41 26 470 08 90"	
+  target="_blank"	
+  title="Avry"	
+  class="id-site"	
+  outlined="true"	
+  icon="phone"	
+>}}	
+{{% markdown %}}	
+**Swisscom Shop**	
+Route de Matran 9	
+CH-1754 Avry	
+[Öffnen in Google Maps](https://goo.gl/maps/kDo661CfCQeuz93Q8)	
+
+**Öffnungszeiten:**	
+Mo - Fr: 08.30 - 19.00	
+Do: 08.30 - 21.00	
+Sa: 09.00 - 16.00	
+{{% /markdown %}}	
+{{< /cta >}}	
+
+[//]: # (--------------------------------------------------------------------------------------------------------------)	
+
+{{< cta	
+  label="058 255 29 62"	
+  href="tel: +41 058 255 29 62"	
+  target="_blank"	
+  title="Basel"	
+  class="id-site"	
+  outlined="true"	
+  icon="phone"	
+>}}	
+{{% markdown %}}	
+**FlexOffice**	
+Barfüsserplatz 3	
+CH-4051 Basel	
+[Öffnen in Google Maps](https://g.page/flexoffice-bs-bp?share)	
+
+**Öffnungszeiten:**	
+Mo - Fr: 09.00 - 17.00	
+{{% /markdown %}}	
+{{< /cta >}}	
+
+[//]: # (--------------------------------------------------------------------------------------------------------------)	
+
+{{< cta	
+  label="E-ID-Termin vereinbaren"	
+  href="https://4ndl.bookafy.com/service/e-id-fur-skribble-in-belp"	
+  target="_blank"	
+  title="Belp"	
+  class="id-site"	
+  outlined="true"	
+>}}	
+{{% markdown %}}	
+**Natel Profi**	
+Dorfstrasse 6	
+CH-3123 Belp	
+[Öffnen in Google Maps](https://g.page/natelprofi?share)	
+{{% /markdown %}}	
+{{< /cta >}}	
+
+[//]: # (--------------------------------------------------------------------------------------------------------------)	
+
+{{< cta-group >}}	
+{{< cta	
+  label="031 318 06 45"	
+  href="tel: +41 031 318 06 45"	
+  target="_blank"	
+  title="Bern"	
+  class="id-site"	
+  outlined="true"	
+  icon="phone"	
+>}}	
+{{% markdown %}}	
+**Swisscom Shop Bern Bahnhof**	
+Bahnhofplatz 10 b	
+3011 Bern	
+[Öffnen in Google Maps](https://goo.gl/maps/6w4p72rAb9mHg2J39)	
+
+**Öffnungszeiten:**	
+Mo - Sa: 09.00 - 20.00	
+So: 10.00 - 20.00	
+{{% /markdown %}}	
+{{< /cta >}}	
+
+{{< cta	
+  label="031 381 70 60"	
+  href="tel: +41 031 381 70 60"	
+  target="_blank"	
+  title=""	
+  class="id-site"	
+  outlined="true"	
+  icon="phone"	
+>}}	
+{{% markdown %}}	
+**Natel Spycher**	
+Belpstrasse 45	
+CH-3007 Bern	
+[Öffnen in Google Maps](https://goo.gl/maps/r3UBuWuHJhNS9MA16)	
+{{% /markdown %}}	
+{{< /cta >}}	
+{{< /cta-group >}}	
+
+[//]: # (--------------------------------------------------------------------------------------------------------------)	
+
+{{< cta	
+  label="026 913 71 44"	
+  href="tel: +41 26 913 71 44"	
+  target="_blank"	
+  title="Bulle"	
+  class="id-site"	
+  outlined="true"	
+  icon="phone"	
+>}}	
+{{% markdown %}}	
+**Swisscom Shop**	
+Route de Riaz 18	
+CH-1630 Bulle	
+[Öffnen in Google Maps](https://goo.gl/maps/ZUfzbrDy4qZ8ARMS8)	
+
+**Öffnungszeiten:**	
+Mo - Fr: 09.00 - 18.30	
+Sa: 09.00 - 16.00	
+{{% /markdown %}}	
+{{< /cta >}}
+
+{{< cta
+  label="026 341 72 10"	
+  href="tel: +41 26 341 72 10"	
+  target="_blank"	
+  title="Fribourg"	
+  class="id-site"	
+  outlined="true"	
+  icon="phone"	
 >}}
-{{< /side-by-side >}}
+
+{{% markdown %}}
+**Swisscom Shop**
+Avenue de la Gare 22
+CH-1700 Fribourg
+[Öffnen in Google Maps](https://goo.gl/maps/qgtHiHtQkVABZcbFA)
+**Öffnungszeiten:**	
+Mo - Fr: 08.30 - 19.00	
+Do: 08.30 - 21.00	
+Sa: 09.00 - 16.00	
+{{% /markdown %}}	
+{{< /cta >}}	
+
+[//]: # (--------------------------------------------------------------------------------------------------------------)	
+
+{{< cta-group >}}	
+{{< cta	
+  title="Lenzerheide"	
+  label="079 292 45 23"	
+  href="tel: +41 79 292 45 23"	
+  target="_blank"	
+  class="id-site"	
+  outlined="true"	
+  icon="phone"	
+>}}	
+{{% markdown %}}	
+**Crativ GmbH**	
+Voa Crapera 1	
+CH-7078 Lenzerheide	
+[Öffnen in Google Maps](https://goo.gl/maps/os2zQE8xV3tsUHhD8)	
+
+**Öffnungszeiten:**	
+Mo - Fr: 09.00 - 17.30	
+{{% /markdown %}}	
+{{< /cta >}}	
+{{< /cta-group >}}	
+
+[//]: # (--------------------------------------------------------------------------------------------------------------)	
+
+{{< cta-group >}}	
+{{< cta	
+  title="Lugano"	
+  label="091 910 42 00"	
+  href="tel: +41 91 910 42 00"	
+  target="_blank"	
+  class="id-site"	
+  outlined="true"	
+  icon="phone"	
+>}}	
+{{% markdown %}}	
+**Avv. Jonathan Moor**	
+Via Luigi Lavizzari 2A (PT)	
+CH-6900 Lugano	
+[Öffnen in Google Maps](https://goo.gl/maps/EHNx93o4FpuD6QXQ8)	
+
+{{% /markdown %}}	
+{{< /cta >}}	
+{{< /cta-group >}}	
+
+[//]: # (--------------------------------------------------------------------------------------------------------------)	
+
+{{< cta-group >}}	
+{{< cta	
+  title="Poschiavo"	
+  label="E-ID-Termin vereinbaren"	
+  href="https://outlook.office365.com/owa/calendar/dynamicstudioGmbH@dynamicstudio.ch/bookings/s/WhXP-1R6j0ekT5-ZFXHihg2"	
+  target="_blank"	
+  class="id-site"	
+  outlined="true"	
+>}}	
+{{% markdown %}}	
+**Dynamicstudio GmbH**	
+Via da Mezz 42A	
+CH-7742 Poschiavo	
+[Öffnen in Google Maps](https://g.page/dynamicstudio-gmbh?share)	
+{{% /markdown %}}	
+{{< /cta >}}	
+{{< /cta-group >}}	
+
+[//]: # (--------------------------------------------------------------------------------------------------------------)	
+
+{{< cta-group >}}	
+
+{{< cta	
+  title="Zürich"	
+  label="076 200 77 48"	
+  href="tel:+41762007748"	
+  class="id-site"	
+  outlined="true"	
+  icon="phone"	
+>}}	
+{{% markdown %}}	
+**FlexOffice**	
+Fraumünsterstrasse 16	
+CH-8001 Zürich	
+[Öffnen in Google Maps](https://g.page/flexofficeswiss?share)	
+
+**Öffnungszeiten:**	
+Mo - Fr: 09.00 - 17.00	
+{{% /markdown %}}
+
+{{< /cta >}}
+
+{{< cta
+  label="044 651 10 92"
+  href="tel: +41 44 651 10 92"
+  target="_blank"
+  class="id-site"	
+  outlined="true"	
+  icon="phone"	
+>}}
+
+{{% markdown %}}	
+**Swisscom Shop 	
+Flughafen Zürich**	
+Airport Shopping Center	
+Check-in 3	
+Flughafenstrasse 3	
+CH-8302 Kloten	
+[Öffnen in Google Maps](https://goo.gl/maps/JE2faJc18JKTgLbA7)	
+
+**Öffnungszeiten:**	
+Mo - So: 08.00 - 21.00	
+{{% /markdown %}}	
+{{< /cta >}}	
+
+{{< /cta-group >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
