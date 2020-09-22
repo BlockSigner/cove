@@ -5,7 +5,7 @@ draft: false
 slug: ressources-humaines
 
 # opengraph image (for facebook and twitter)
-og_image: og/og-skribble-identification.jpg
+og_image: og/og-skribble-hr.jpg
 
 ---
 {{< intro top=24 bottom=12 width=wide img=vertical-hr-main img-width=560 img-alt="Trois personnes signent un document électronique" >}}

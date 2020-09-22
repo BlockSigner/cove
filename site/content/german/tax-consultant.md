@@ -5,10 +5,10 @@ draft: false
 slug: steuerberater
 
 # opengraph image (for facebook and twitter)
-og_image: og/og-skribble-identification.jpg
+og_image: og/og-skribble-tax-consultant.jpg
 
 ---
-{{< intro top=24 bottom=12 width=wide img=vertical-hr-main img-width=560 img-alt="Drei Frauen halten einen Vertrag in der Hand" >}}
+{{< intro top=24 bottom=12 width=wide img=vertical-tax-consultant-main img-width=560 img-alt="Drei Frauen halten einen Vertrag in der Hand" >}}
 {{% markdown %}}
 # Elektronische Signatur für Steuerberater
 Mit Skribble signieren Sie und Ihre Mandanten schneller und sicherer – von der Bilanz über Jahresabschlüsse bis Steuergestaltungen.

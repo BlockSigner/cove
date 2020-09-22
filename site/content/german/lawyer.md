@@ -5,7 +5,7 @@ draft: false
 slug: anwaelte
 
 # opengraph image (for facebook and twitter)
-og_image: og/og-skribble-identification.jpg
+og_image: og/og-skribble-lawyer.jpg
 
 ---
 {{< intro top=24 bottom=12 width=wide img=vertical-lawyer-main img-width=560 img-alt="Man erledigt verschiedene Vertragprozesse" >}}

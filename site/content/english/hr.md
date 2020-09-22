@@ -5,7 +5,7 @@ draft: false
 slug: hr
 
 # opengraph image (for facebook and twitter)
-og_image: og/og-skribble-identification.jpg
+og_image: og/og-skribble-hr.jpg
 
 ---
 
