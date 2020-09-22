@@ -9,68 +9,58 @@ og_image: og/og-skribble-identification.jpg
 
 ---
 
-{{< content text=center top=16 bottom=8 width=narrow >}}
+{{< intro top=24 bottom=12 width=wide img=vertical-hr-main img-width=560 img-alt="Three women holding a document in their hands" >}}
+
 {{% markdown %}}
 # Sign electronically in HR
 With Skribble you sign legally and easily in a digital way –
 from employment contracts to certificates and wage statements.
-{{% /markdown %}}
-{{< /content >}}
 
-{{< picture vertical-hr-main 560 "Three women holding a document in their hands" >}}
+**Sign safely:**
+- Employment contracts
+- Temporary contracts
+- Hourly wage contracts
+{{% /markdown %}}
+
+{{< button
+  "Get started"
+  "https://my.skribble.com/signup"
+  "_blank"
+>}}
+{{< button
+  "Contact Sales"
+  "https://share.hsforms.com/1eikgwNSWS9aCXBpqMVvrtQ309ws"
+  "_blank"
+  outline
+>}}
+
+{{< /intro >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
 {{< side-by-side top=24 bottom=12 img=batch-signature mobile-top=12 mobile-bottom=6 img-width=367 img-alt="Three contracts signed with batch processing" >}}
 {{% markdown %}}
-### Finish the pile with only one signature
+## Finish the pile with only one signature
 New employment contracts for everyone: the authorised signatory no longer signs hundreds of contracts by hand, but signs them all at once with Skribble's batch signature.
 
-- **Batch signature for any number of employment contracts**
-- **Automatically invite employees to sign employment contracts by e-mail**
-- **Overview of all completed and outstanding signatures**
+- Batch signature for any number of employment contracts
+- Automatically invite employees to sign employment contracts by e-mail
+- Overview of all completed and outstanding signatures
 {{% /markdown %}}
 {{< /side-by-side >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< side-by-side top=12 bottom=12 mobile-top=6 mobile-bottom=6 img=candidate-sign-digital img-position=right img-width=392 img-alt="A woman sits in a deck chair and signs her employment contract on her tablet" >}}
+{{< side-by-side top=24 bottom=24 mobile-top=6 mobile-bottom=6 img=candidate-sign-digital img-position=right img-width=392 img-alt="A woman sits in a deck chair and signs her employment contract on her tablet" >}}
 {{% markdown %}}
-### Candidates sign digitally without delay
+## Candidates sign digitally without delay
 Efficient onboarding: you have a better chance of being chosen as an employer and HR administration becomes easier, faster and cheaper.
 
-- **Legally valid for any type of employment contract**
-- **No loss of time due to postal mailing**
-- **Get notified automatically when the employment contract has been signed**
+- Legally valid for any type of employment contract
+- No loss of time due to postal mailing
+- Get notified automatically when the employment contract has been signed
 {{% /markdown %}}
 {{< /side-by-side >}}
-
-[//]: # (--------------------------------------------------------------------------------------------------------------)
-
-{{< side-by-side top=12 bottom=12 mobile-top=6 mobile-bottom=6 img=more-efficiency img-width=430 img-alt="Man with fountain pen would like to sign three contracts" >}}
-{{% markdown %}}
-### Empower employees <br class="hide-for-mobile">to work more efficiently
-Digitalisation enabler: HR enables the workforce to sign electronically and can manage their everyday work with less bureaucracy.
-
-- **Digital processing of work reports, lay-offs, applications, etc.**
-- **Get signatures from authorised signatories via e-mail**
-- **Download contracts ready for archiving in recognized PDF X/A format**
-{{% /markdown %}}
-{{< /side-by-side >}}
-
-[//]: # (--------------------------------------------------------------------------------------------------------------)
-
-{{< side-by-side top=12 bottom=12 mobile-top=6 mobile-bottom=12 img=integrations img-position=right img-width=381 img-alt="Existing systems, e.g. Google Drive, One Drive, Drop Box or Secure Safe" >}}
-{{% markdown %}}
-### No new software required
-Stay with familiar tools: sign directly via your browser or from your existing software.
-
-- **Sign directly via your browser**
-- **Integrate Skribble as a plug-in into SAP and other industry solutions**
-- **Seamless integration via modern APIs**
-{{% /markdown %}}
-{{< /side-by-side >}}
-
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
@@ -80,7 +70,33 @@ Stay with familiar tools: sign directly via your browser or from your existing s
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< content text=center top=12 width=narrow >}}
+{{< side-by-side top=24 bottom=12 mobile-top=6 mobile-bottom=6 img=more-efficiency img-width=430 img-alt="Man with fountain pen would like to sign three contracts" >}}
+{{% markdown %}}
+## Empower employees <br class="hide-for-mobile">to work more efficiently
+Digitalisation enabler: HR enables the workforce to sign electronically and can manage their everyday work with less bureaucracy.
+
+- Digital processing of work reports, lay-offs, applications, etc.
+- Get signatures from authorised signatories via e-mail
+- Download contracts ready for archiving in recognized PDF X/A format
+{{% /markdown %}}
+{{< /side-by-side >}}
+
+[//]: # (--------------------------------------------------------------------------------------------------------------)
+
+{{< side-by-side top=24 bottom=12 mobile-top=6 mobile-bottom=12 img=integrations img-position=right img-width=381 img-alt="Existing systems, e.g. Google Drive, One Drive, Drop Box or Secure Safe" >}}
+{{% markdown %}}
+## No new software required
+Stay with familiar tools: sign directly via your browser or from your existing software.
+
+- Sign directly via your browser
+- Integrate Skribble as a plug-in into SAP and other industry solutions
+- Seamless integration via modern APIs
+{{% /markdown %}}
+{{< /side-by-side >}}
+
+[//]: # (--------------------------------------------------------------------------------------------------------------)
+
+{{< content text=center top=16 botom=24 width=narrow >}}
 {{% markdown %}}
 ## Skribble complies with the legal requirements for HR processes
 You sign with legal effect and securely in accordance

@@ -8,73 +8,43 @@ slug: hr
 og_image: og/og-skribble-identification.jpg
 
 ---
-
-{{< content text=center top=16 bottom=8 width=narrow >}}
+{{< intro top=24 bottom=12 width=wide img=vertical-hr-main img-width=560 img-alt="Drei Frauen halten einen Vertrag in der Hand" >}}
 {{% markdown %}}
 # Elektronisch signieren im HR
-Mit Skribble signieren Sie rechtssicher und einfach auf digitalem Weg –
-von Arbeitsverträgen über Zeugnisse bis hin zu Lohnausweisen.
-{{% /markdown %}}
-{{< /content >}}
+Mit Skribble signierst du rechtssicher und einfach 
+auf digitalem Weg - von Arbeitsverträgen über Zeugnisse bis Lohnausweise.
 
-{{< picture vertical-hr-main 560 "Drei Frauen halten einen Vertrag in der Hand" >}}
+**Unterschreiben sie sicher:**
+- Arbeitsverträge
+- Temporärverträge
+- Stundenlohnverträge
+{{% /markdown %}}
+{{< button
+  "Jetzt loslegen"
+  "https://my.skribble.com/signup?lang=de"
+  "_blank"
+>}}
+{{< button
+  "Sales kontaktieren"
+  "https://share.hsforms.com/1gxsCjIJRQhaM4GEcCmL7QQ309ws"
+  "_blank"
+  outline
+>}}
+{{< /intro >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< side-by-side top=24 bottom=12 img=batch-signature mobile-top=12 mobile-bottom=6 img-width=367 img-alt="Drei Verträge werden mit dem Stapelverfahren signiert" >}}
+{{< side-by-side top=24 bottom=24 img=batch-signature mobile-top=12 mobile-bottom=6 img-width=367 img-alt="Drei Verträge werden mit dem Stapelverfahren signiert" >}}
 {{% markdown %}}
-### Erledigen Sie den Stapel <br class="hide-for-mobile">mit nur einer Signatur
+## Erledigen Sie den Stapel mit nur einer Signatur
 Neue Arbeitsverträge für alle: der Unterschriftsberechtigte unterzeichnet nicht mehr hunderte Verträge von Hand, sondern signiert alle auf einmal mit der Stapelsignatur von Skribble.
 
-- **Stapelsignatur für beliebige
-Anzahl Arbeitsverträge**
-- **Per E-Mail automatisiert zum Signieren
-der Arbeitsverträge einladen**
-- **Übersicht über alle eingegangenen
- und ausstehenden Signaturen**
-{{% /markdown %}}
-{{< /side-by-side >}}
-
-[//]: # (--------------------------------------------------------------------------------------------------------------)
-
-{{< side-by-side top=12 bottom=12 mobile-top=6 mobile-bottom=6 img=candidate-sign-digital img-position=right img-width=392 img-alt="Eine Frau sitzt auf einem Liegestuhl und unterzeichnet auf ihrem Tablet einen Vertrag" >}}
-{{% markdown %}}
-### Kandidaten signieren <br class="hide-for-mobile">ohne Verzögerung digital
-Effizientes Onboarding: Sie haben bessere Chancen, als Arbeitgeber gewählt zu werden, und die HR-Administration wird einfacher, schneller und günstiger.
-
-- **Rechtsgültig für jede Art Arbeitsvertrag**
-- **Kein Zeitverlust durch Postversand**
-- **Automatisiert benachrichtigt werden,
-wenn der Arbeitsvertrag signiert wurde**
-{{% /markdown %}}
-{{< /side-by-side >}}
-
-[//]: # (--------------------------------------------------------------------------------------------------------------)
-
-{{< side-by-side top=12 bottom=12 mobile-top=6 mobile-bottom=6 img=more-efficiency img-width=430 img-alt="Mann unterzeichnet mit einem Füllfederhalter drei Verträge" >}}
-{{% markdown %}}
-### Befähigen Sie Mitarbeitende <br class="hide-for-mobile">zu mehr Effizienz
-Digitalisierungs-Enabler: Die Belegschaft wird durch das HR zum elektronischen Signieren befähigt und kann den Arbeitsalltag mit weniger Bürokratie bestreiten.
-
-- **Arbeitsrapports, Kündigungen, Anträge
-u. Ä. digital abwickeln**
-- **Signaturen von Zeichnungsberechtigten
-via E-Mail abholen**
-- **Verträge archivierbereit downloaden
-im anerkannten PDF X/A-Format**
-{{% /markdown %}}
-{{< /side-by-side >}}
-
-[//]: # (--------------------------------------------------------------------------------------------------------------)
-
-{{< side-by-side top=12 bottom=12 mobile-top=6 mobile-bottom=12 img=integrations img-position=right img-width=381 img-alt="Verbindung der unterschiedlichen Beteiligten bei Gebrauch von Skribble aus einem HRM visuell dargestellt" >}}
-{{% markdown %}}
-### Keine neue Software notwendig
-Bei gewohnten Tools bleiben: Signieren Sie direkt über den Browser oder aus Ihrer bestehenden Software heraus.
-
-- **Direkt über den Browser signieren**
-- **Skribble als Plug-in in SAP und anderen Branchenlösungen einbinden**
-- **Nahtlose Integration via moderne APIs**
+- Stapelsignatur für beliebige
+Anzahl Arbeitsverträge
+- Per E-Mail automatisiert zum Signieren
+der Arbeitsverträge einladen
+- Übersicht über alle eingegangenen
+ und ausstehenden Signaturen
 {{% /markdown %}}
 {{< /side-by-side >}}
 
@@ -86,9 +56,52 @@ Bei gewohnten Tools bleiben: Signieren Sie direkt über den Browser oder aus Ihr
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
+{{< side-by-side top=24 bottom=12 mobile-top=6 mobile-bottom=6 img=candidate-sign-digital img-position=right img-width=392 img-alt="Eine Frau sitzt auf einem Liegestuhl und unterzeichnet auf ihrem Tablet einen Vertrag" >}}
+{{% markdown %}}
+## Kandidaten signieren ohne Verzögerung digital
+Effizientes Onboarding: Sie haben bessere Chancen, als Arbeitgeber gewählt zu werden, und die HR-Administration wird einfacher, schneller und günstiger.
+
+- Rechtsgültig für jede Art Arbeitsvertrag
+- Kein Zeitverlust durch Postversand
+- Automatisiert benachrichtigt werden,
+wenn der Arbeitsvertrag signiert wurde
+{{% /markdown %}}
+{{< /side-by-side >}}
+
+[//]: # (--------------------------------------------------------------------------------------------------------------)
+
+{{< side-by-side top=24 bottom=12 mobile-top=6 mobile-bottom=6 img=more-efficiency img-width=430 img-alt="Mann unterzeichnet mit einem Füllfederhalter drei Verträge" >}}
+{{% markdown %}}
+## Befähigen Sie Mitarbeitende zu mehr Effizienz
+Digitalisierungs-Enabler: Die Belegschaft wird durch das HR zum elektronischen Signieren befähigt und kann den Arbeitsalltag mit weniger Bürokratie bestreiten.
+
+- Arbeitsrapports, Kündigungen, Anträge
+u. Ä. digital abwickeln
+- Signaturen von Zeichnungsberechtigten
+via E-Mail abholen
+- Verträge archivierbereit downloaden
+im anerkannten PDF X/A-Format
+{{% /markdown %}}
+{{< /side-by-side >}}
+
+[//]: # (--------------------------------------------------------------------------------------------------------------)
+
+{{< side-by-side top=24 bottom=12 mobile-top=6 mobile-bottom=12 img=integrations img-position=right img-width=381 img-alt="Verbindung der unterschiedlichen Beteiligten bei Gebrauch von Skribble aus einem HRM visuell dargestellt" >}}
+{{% markdown %}}
+## Keine neue Software notwendig
+Bei gewohnten Tools bleiben: Signieren Sie direkt über den Browser oder aus Ihrer bestehenden Software heraus.
+
+- Direkt über den Browser signieren
+- Skribble als Plug-in in SAP und anderen Branchenlösungen einbinden
+- Nahtlose Integration via moderne APIs
+{{% /markdown %}}
+{{< /side-by-side >}}
+
+[//]: # (--------------------------------------------------------------------------------------------------------------)
+
 {{< content text=center top=24 width=narrow >}}
 {{% markdown %}}
-## Mit Skribble erfüllen Sie die rechtlichen Anforderungen <br class="hide-for-mobile">an HR-Prozesse
+## Mit Skribble erfüllen Sie die rechtlichen Anforderungen an HR-Prozesse
 Sie signieren rechtsgültig und sicher gemäss folgenden Erfordernissen:
 {{% /markdown %}}
 {{< /content >}}
@@ -274,7 +287,7 @@ Schalten Sie den höchsten E-Signatur-Standard QES von zu Hause aus frei.
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
 
-{{< content text=center top=20 width=narrow >}}
+{{< content text=center top=24 width=narrow >}}
 {{% markdown %}}
 ## Alles klar?
 {{% /markdown %}}
