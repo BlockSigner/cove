@@ -72,13 +72,6 @@ Das Signieren mit Skribble ist intuitiv und in Sekundenschnelle erledigt. Sie er
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< testimonial "testimonial/twint-150w.png" "Simon Wehrli, CTO, Twint" >}}
-"Testimonial"
-{{< /testimonial >}}
-
-[//]: # (--------------------------------------------------------------------------------------------------------------)
-
-
 {{< side-by-side top=24 bottom=12 mobile-top=6 mobile-bottom=6 img=more-efficiency img-width=430 img-alt="Mann unterzeichnet mit einem Füllfederhalter drei Verträge" >}}
 {{% markdown %}}
 ## Für jedes Dokument und jedes Mandat einsetzbar
@@ -218,55 +211,24 @@ den Signaturstandards EES, FES und QES wählen.**
 {{% /markdown %}}
 {{< /cta >}}
 
-{{< content text=center top=24 bottom=4width=narrow >}}
+[//]: # (--------------------------------------------------------------------------------------------------------------)
+
+{{< side-by-side top=24 width=narrow bottom=24 mobile-top=6 mobile-bottom=12 img=qes-increase img-position=right img-width=315 img-alt="Ein Mann sitzt vor einem Laptop, über ihm befindet sich ein Software-Fenster, über dem eine Frau mit einer großen Lupe auffällt und einen Ausweis kontrolliert." >}}
 {{% markdown %}}
-## Lassen Sie sich identifizieren
-Damit schalten Sie den höchsten verfügbaren E-Signatur-Standard QES frei.
-Sie benötigen nur ein gültiges Reisedokument (ID oder Pass).
+Lassen Sie sich identifizieren
+===============
+Damit schalten Sie den höchsten verfügbaren E-Signatur-Standard QES frei. Sie benötigen nur ein gültiges Reisedokument (ID oder Pass).
 {{% /markdown %}}
-{{< /content >}}
-
-{{< content top=12 width=wide display=flex >}}
-
-{{< plan
-  white
-  "Identification"
-  "Unlimited"
-  "Jetzt kontaktieren"
-  "https://share.hsforms.com/1gxsCjIJRQhaM4GEcCmL7QQ309ws"
-  "_blank"
-  "outline"
->}}
-
-{{< picture id-easy 270 "Eine Frau und ein Mann stehen vor einem grossen Softwarefenster und der Mann haltet eine grosse Luppe mit einer Identitätskarte drin." >}}
-
-
-Ihr führt die Identifikationen selbst durch.
-
-Passend, wenn laufend neue
-QES-Signierende hinzukommen.
-&nbsp;
-{{% /plan %}}
-
-{{< plan
-  white
-  "Identification"
-  "Online via Video"
+<br>
+{{< button
   "Jetzt QES freischalten"
   "/de/qes-freischalten/"
   ""
   "outline"
 >}}
-
-{{< picture id-direct 210 "Ein Mann sitzt vor einem Laptop, darüber ist eine Sotware-Fenster, wo eine Frau mit einer grossen Lupe herausragt und überprüft eine Identitätskarte." >}}
-Schalten Sie den höchsten E-Signatur-Standard QES von zu Hause aus frei.
-&nbsp;
-&nbsp;
-{{% /plan %}}
-{{< /content >}}
+{{< /side-by-side >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
-
 
 {{< content text=center top=24 width=narrow >}}
 {{% markdown %}}

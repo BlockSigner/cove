@@ -72,12 +72,6 @@ La signature avec Skribble est intuitive et se fait en quelques secondes. Vous p
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< testimonial "testimonial/twint-150w.png" "Simon Wehrli, CTO, Twint" >}}
-"Testimonial"
-{{< /testimonial >}}
-
-[//]: # (--------------------------------------------------------------------------------------------------------------)
-
 {{< side-by-side top=24 bottom=12 mobile-top=6 mobile-bottom=6 img=more-efficiency img-width=430 img-alt="Un homme signe trois contrats avec un stylo plume" >}}
 {{% markdown %}}
 ## Applicable pour tout document et tout mandat
@@ -219,52 +213,20 @@ avec exigences formelles juridiques ou avec un risque de responsabilité fort.
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< content text=center top=20 bottom=4 width=narrow >}}
+{{< side-by-side top=24 width=narrow bottom=24 mobile-top=6 mobile-bottom=12 img=qes-increase img-position=right img-width=315 img-alt="Un homme est assis devant un ordinateur portable, au-dessus de lui se trouve une fenêtre de logiciel, où une femme se distingue avec une grande loupe et vérifie une carte d'identité." >}}
 {{% markdown %}}
-## Laissez-vous identifier
-Cela débloque la norme de signature électronique la plus élevée du marché: la SEQ. Vous n'avez besoin que d'un document de voyage valide
-(pièce d'identité ou passeport).
+Laissez-vous identifier
+===============
+Cela vous permet d'activer la norme de signature électronique QES la plus élevée disponible. Vous avez seulement besoin d'un document de voyage valide (carte d'identité ou passeport).
 {{% /markdown %}}
-{{< /content >}}
-
-{{< content top=8 width=wide display=flex >}}
-
-{{< plan
-  white
-  "Identification"
-  "Unlimited"
-  "Contactez-nous dès maintenant"
-  "https://share.hsforms.com/1JHPHJU3QQz2TlyX14QDdKg309ws"
-  "_blank"
-  "outline"
->}}
-
-{{< picture id-easy 270 "Une femme et un homme sont debout devant une grande fenêtre de logiciel et l'homme tient une grande trappe avec une carte d'identité à l'intérieur." >}}
-
-Vous faites les identifications vous-même.
-
-Approprié si de nouveaux signataires de SEQ sont constamment ajoutés.
-
-&nbsp;
-{{% /plan %}}
-
-{{< plan
-  white
-  "Identification"
-  "En ligne par vidéo"
+<br>
+{{< button
   "Déverrouiller SEQ maintenant"
   "/fr/debloquez-seq/"
   ""
   "outline"
 >}}
-
-{{< picture id-direct 210 "Un homme est assis devant un ordinateur portable, au-dessus de lui se trouve une fenêtre de sotware, où une femme avec une grosse loupe fait saillie et vérifie une carte d'identité." >}}
-Déverrouillez la norme de signature électronique SEQ la plus élevée depuis chez vous.
-Convient aux signataires individuels.
-&nbsp;
-&nbsp;
-{{% /plan %}}
-{{< /content >}}
+{{< /side-by-side >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 

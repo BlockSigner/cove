@@ -242,61 +242,25 @@ with legal form requirements or high liability risk.
 **At Skribble you have the choice
 between the signature standards AES and QES.**
 {{% /markdown %}}
+
 {{< /cta >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-
-{{< content text=center top=20 bottom=4 width=narrow >}}
+{{< side-by-side top=24 width=narrow bottom=24 mobile-top=6 mobile-bottom=12 img=qes-increase img-position=right img-width=315 img-alt="A man is sitting in front of a laptop, above him is a software window, where a woman stands out with a big magnifying glass and checks an identity card." >}}
 {{% markdown %}}
-## Get identified
-This will unlock the highest e-signature standard available – QES.
-All you need is a valid travel document (ID or passport).
+Get identified
+===============
+This enables you to activate the highest available e-signature standard QES. You only need a valid travel document (ID or passport).
 {{% /markdown %}}
-{{< /content >}}
-
-{{< content top=4 width=wide display=flex >}}
-
-{{< plan
-  white
-  "Identification"
-  "Unlimited"
-  "Contact Skribble"
-  "https://share.hsforms.com/1eikgwNSWS9aCXBpqMVvrtQ309ws"
-  "_blank"
-  "outline"
->}}
-
-{{< picture id-easy 270 "A woman and a man are standing in front of a large software window and the man is holding a big hatch with an identity card inside." >}}
-
-
-You perform the identifications yourself.
-
-Appropriate if new QES signers are constantly being added.
-&nbsp;
-{{% /plan %}}
-
-{{< plan
-  white
-  "Identification"
-  "Online via video"
+<br>
+{{< button
   "Enable QES now"
   "/enable-qes/"
   ""
   "outline"
 >}}
-
-{{< picture id-direct 210 "A man is sitting in front of a laptop, above him is a sotware window, where a woman stands out with a big magnifying glass and checks an identity card." >}}
-
-Enable the highest e-signature standard QES from home.
-
-Suitable for individual signatories.
-&nbsp;
-&nbsp;
-{{% /plan %}}
-{{< /content >}}
-
-
+{{< /side-by-side >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
