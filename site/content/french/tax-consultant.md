@@ -8,7 +8,7 @@ slug: consultant-fiscal
 og_image: og/og-skribble-tax-consultant.jpg
 
 ---
-{{< intro top=24 bottom=12 width=wide img=vertical-tax-consultant-main img-width=560 img-alt="Trois femmes tiennent un contrat entre leurs mains" >}}
+{{< intro top=24 bottom=12 width=wide img=vertical-tax-consultant-main img-width=520 img-alt="Trois femmes tiennent un contrat entre leurs mains" >}}
 {{% markdown %}}
 # Signature électronique pour les conseillers fiscaux
 Avec Skribble, vous et vos clients signez plus rapidement et en toute sécurité - des bilans aux états financiers annuels en passant par la planification fiscale.

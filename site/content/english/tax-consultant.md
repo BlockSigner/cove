@@ -9,7 +9,7 @@ og_image: og/og-skribble-tax-consultant.jpg
 
 ---
 
-{{< intro top=24 bottom=12 width=wide img=vertical-tax-consultant-main img-width=560 img-alt="Three women hold a contract in their hands" >}}
+{{< intro top=24 bottom=12 width=wide img=vertical-tax-consultant-main img-width=520 img-alt="Three women hold a contract in their hands" >}}
 {{% markdown %}}
 # Electronic signature for tax consultants
 With Skribble, you and your clients sign faster and more securely - from balance sheets and annual financial statements to tax planning.
