@@ -362,6 +362,18 @@ Mo - So: 08.00 - 21.00
 
 {{< /cta-group >}}
 
+{{< cta
+  bottom=12
+  label="Jetzt anschauen"
+  href="/de/signaturstandards/"
+  outlined="true"
+>}}
+
+{{% markdown %}}
+**Weitere Identifikationsstandorte in der ganzen Schweiz finden Sie auf der Seite von Swisscom. Jetzt anschauen.**
+{{% /markdown %}}
+{{< /cta >}}
+
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
 {{< content text=center top=12 width=narrow >}}
