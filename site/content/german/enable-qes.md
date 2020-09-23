@@ -365,7 +365,7 @@ Mo - So: 08.00 - 21.00
 {{< cta
   bottom=12
   label="Jetzt anschauen"
-  href="/de/signaturstandards/"
+  href="https://trustservices.swisscom.com/srs-direct/"
   outlined="true"
 >}}
 
