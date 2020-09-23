@@ -99,7 +99,7 @@ Zusammen mit unserem Partner Swisscom Trust Services bieten wir eine wachsende Z
 <br>
 {{< button
   "Standort finden"
-  "https://trustservices.swisscom.com/en/srs-direct/"
+  "https://trustservices.swisscom.com/srs-direct/"
   "_blank"
   "outline"
 >}}
