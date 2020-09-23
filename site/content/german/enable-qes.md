@@ -370,7 +370,7 @@ Mo - So: 08.00 - 21.00
 >}}
 
 {{% markdown %}}
-**Weitere Identifikationsstandorte in der ganzen Schweiz finden Sie auf der Seite von Swisscom. Jetzt anschauen.**
+**Weitere Identifikationsstandorte in der ganzen Schweiz finden Sie auf der Seite von Swisscom.**
 {{% /markdown %}}
 {{< /cta >}}
 
