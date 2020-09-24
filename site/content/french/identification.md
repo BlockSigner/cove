@@ -32,7 +32,7 @@ Pour les contrats sans exigences formelles, la signature électronique simple (S
 
 {{< content text=center top=16 bottom=8 width=narrow >}}
 {{% markdown %}}
-**Options d'identification pour contrats sans exigence formelle:**
+**Options d'identification pour les contrats sans exigence formelle:**
 {{% /markdown %}}
 {{< /content >}}
 
