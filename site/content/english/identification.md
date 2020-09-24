@@ -169,7 +169,6 @@ A representative of your company goes through a one-time training. Afterwards he
 
 The signatories enable the QES by having themselves identified online via video (EU) or face-to-face at an identification site (Switzerland). Suitable for individuals and companies with a small number of QES signatories.
 &nbsp;
-&nbsp;
 {{% /plan %}}
 {{< /content >}}
 
