@@ -35,6 +35,23 @@ Für formfreie Verträge wird typischerweise die fortgeschrittene elektronische 
 {{< /content >}}
 
 {{< content text=left width=wide display=flex >}}
+
+{{< plan
+  white
+  ""
+  "Private E-Mail-Adresse"
+  ""
+  ""
+  "_blank"
+  "outline"
+>}}
+
+{{< picture private-email 280 "Zwei Leute in einer Bubble mit E-Mails" >}}
+
+TEXT
+{{< /plan >}}
+
+
 {{< plan
   white
   ""
@@ -126,9 +143,7 @@ Die QES schalten Sie frei, in dem Sie sich online via Video-Call oder im persön
 {{% /markdown %}}
 {{< /content >}}
 
-
 {{< content width=wide display=flex >}}
-
 {{< plan
   white
   "Identification"

@@ -38,6 +38,23 @@ of the signatory can be reconstructed afterwards.
 {{< /content >}}
 
 {{< content text=left width=wide display=flex >}}
+
+{{< plan
+  white
+  ""
+  "Private e-mail address"
+  ""
+  ""
+  "_blank"
+  "outline"
+>}}
+
+{{< picture private-email 280 "Two people in a bubble with e-mails" >}}
+
+TEXT
+{{< /plan >}}
+
+
 {{< plan
   white
   ""

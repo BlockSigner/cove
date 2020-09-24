@@ -37,6 +37,23 @@ La signature électronique avancée (SEA) est généralement utilisée pour les 
 {{< /content >}}
 
 {{< content text=left width=wide display=flex >}}
+
+{{< plan
+  white
+  ""
+  "Adresse électronique privée"
+  ""
+  ""
+  "_blank"
+  "outline"
+>}}
+
+{{< picture private-email 280 "Deux personnes dans une bulle avec des e-mails" >}}
+
+TEXT
+{{< /plan >}}
+
+
 {{< plan
   white
   ""
