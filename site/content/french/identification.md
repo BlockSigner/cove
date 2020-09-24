@@ -134,7 +134,7 @@ Pour les contrats comportant des exigences formelles, la signature électronique
 
 {{< content text=center top=8 bottom=8 width=narrow >}}
 {{% markdown %}}
-**Options d'identification pour contrats avec exigences formelles:**
+**Options d'identification pour les contrats avec exigences formelles:**
 {{% /markdown %}}
 {{< /content >}}
 
