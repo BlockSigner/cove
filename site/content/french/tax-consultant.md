@@ -47,7 +47,7 @@ Avec Skribble, vous et vos clients signez plus rapidement et en toute sécurité
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< side-by-side top=24 bottom=24 img=batch-signature mobile-top=12 mobile-bottom=6 img-width=367 img-alt="Trois contrats sont signés avec la méthode des lots" >}}
+{{< side-by-side top=24 bottom=24 img=tax-consultant-1 mobile-top=12 mobile-bottom=6 img-width=500 img-alt="Un contrat et deux personnes signant ensemble." >}}
 {{% markdown %}}
 ## Plus d'efficacité pour les conseillers fiscaux et leurs clients
 Le détour par l'imprimante et le papier est supprimé : au lieu d'envoyer le bilan et les comptes annuels par la poste, le conseiller fiscal et le client signent électroniquement en quelques secondes. 
@@ -61,7 +61,7 @@ Le détour par l'imprimante et le papier est supprimé : au lieu d'envoyer le bi
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< side-by-side top=24 bottom=24 mobile-top=6 mobile-bottom=6 img=candidate-sign-digital img-position=right img-width=392 img-alt="Une femme est assise sur une chaise longue et signe un contrat sur sa tablette" >}}
+{{< side-by-side top=24 bottom=24 mobile-top=6 mobile-bottom=6 img=tax-consultant-2 img-position=right img-width=530 img-alt="Un processus de bout en bout montre qui a signé numériquement quand." >}}
 {{% markdown %}}
 ## Plus facile que le papier et le stylo
 La signature avec Skribble est intuitive et se fait en quelques secondes. Vous permettez à vos employés et à vos clients de mettre en œuvre de manière transparente des processus numériques qui leur font gagner du temps et de l'argent.
@@ -74,7 +74,7 @@ La signature avec Skribble est intuitive et se fait en quelques secondes. Vous p
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< side-by-side top=24 bottom=12 mobile-top=6 mobile-bottom=6 img=more-efficiency img-width=430 img-alt="Un homme signe trois contrats avec un stylo plume" >}}
+{{< side-by-side top=24 bottom=12 mobile-top=6 mobile-bottom=6 img=tax-consultant-3 img-width=500 img-alt="En fonction de la carte de contrat, la norme de signature appropriée peut être utilisée pour signer." >}}
 {{% markdown %}}
 ## Applicable pour tout document et tout mandat
 Différents documents, différentes exigences. Avec Skribble, tout type de document peut être légalement signé - des états financiers aux déclarations de décharge en passant par les dessins.
@@ -87,7 +87,7 @@ Différents documents, différentes exigences. Avec Skribble, tout type de docum
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< side-by-side top=24 bottom=12 mobile-top=6 mobile-bottom=12 img=integrations img-position=right img-width=381 img-alt="Connexion des différents participants lors de l'utilisation d'un gribouillage à partir d'un MRH affiché visuellement" >}}
+{{< side-by-side top=24 bottom=12 mobile-top=6 mobile-bottom=12 img=tax-consultant-4 img-position=right img-width=500 img-alt="Un cercle montre comment je peux signer depuis mon nuage." >}}
 {{% markdown %}}
 ## Rester avec des outils et des processus familiers
 Intégrez Skribble dans le logiciel de votre cabinet d'avocats ou signez directement via le navigateur. Les clients peuvent s'inscrire avec n'importe quel système d'exploitation via un lien d'invitation.

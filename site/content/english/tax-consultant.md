@@ -37,7 +37,7 @@ With Skribble, you and your clients sign faster and more securely - from balance
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< logos-container top=12 bottom=24 width=wide title="The first choice of more than 200 companies with the highest requirements for data protection and security:">}}
+{{< logos-container top=12 bottom=24 width=wide title="The first choice of more than 250 companies with the highest requirements for data protection and security:">}}
   {{< logos-item src="logos/canon-116w.svg" alt="Canon">}}
   {{< logos-item src="logos/helvetia-150w.svg" alt="Helvetia Versicherung">}}
   {{< logos-item src="logos/easyjet-132w.svg" alt="EasyJet">}}
@@ -49,7 +49,7 @@ With Skribble, you and your clients sign faster and more securely - from balance
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< side-by-side top=24 bottom=24 img=batch-signature mobile-top=12 mobile-bottom=6 img-width=367 img-alt="Three contracts are signed using the batch method" >}}
+{{< side-by-side top=24 bottom=24 img=tax-consultant-1 mobile-top=12 mobile-bottom=6 img-width=500 img-alt="A contract and two people signing together." >}}
 {{% markdown %}}
 ## More efficiency for tax consultants and their clients
 The diversion via printer and paper is eliminated: instead of sending the balance sheet and the annual financial statement back and forth by post, the tax consultant and client sign electronically within seconds. 
@@ -63,7 +63,7 @@ The diversion via printer and paper is eliminated: instead of sending the balanc
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< side-by-side top=24 bottom=24 mobile-top=6 mobile-bottom=6 img=candidate-sign-digital img-position=right img-width=392 img-alt="A woman sits on a deck chair and signs a contract on her table" >}}
+{{< side-by-side top=24 bottom=16 mobile-top=6 mobile-bottom=6 img=tax-consultant-2 img-position=right img-width=530 img-alt="An end-to-end process shows who has digitally signed when." >}}
 {{% markdown %}}
 ## Easier than paper and pen
 Signing with Skribble is intuitive and can be done in seconds. They enable their employees and clients to seamlessly implement digital processes that save time and money.
@@ -76,7 +76,7 @@ Signing with Skribble is intuitive and can be done in seconds. They enable their
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< side-by-side top=24 bottom=12 mobile-top=6 mobile-bottom=6 img=more-efficiency img-width=430 img-alt="Man signs three contracts with a fountain pen" >}}
+{{< side-by-side top=16 bottom=12 mobile-top=6 mobile-bottom=6 img=tax-consultant-3 img-width=500 img-alt="Depending on the contract card, the appropriate signature standard can be used to sign." >}}
 {{% markdown %}}
 ## Suitable for any document and any mandate
 Different documents, different requirements. With Skribble, any type of document can be legally signed - from financial statements to designs to release declarations.
@@ -89,7 +89,7 @@ Different documents, different requirements. With Skribble, any type of document
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< side-by-side top=24 bottom=12 mobile-top=6 mobile-bottom=12 img=integrations img-position=right img-width=381 img-alt="Connection of the different participants when using scribble from an HRM visually displayed" >}}
+{{< side-by-side top=16 bottom=12 mobile-top=6 mobile-bottom=12 img=tax-consultant-4 img-position=right img-width=500 img-alt="A circle shows how I can sign from my cloud." >}}
 {{% markdown %}}
 ## Remain with familiar tools and processes
 Integrate Skribble into your law firm software or sign directly via the browser. Clients can sign with any operating system via invitation link.
@@ -104,7 +104,10 @@ Integrate Skribble into your law firm software or sign directly via the browser.
 
 {{< content text=center top=16 botom=24 width=narrow >}}
 {{% markdown %}}
-## Skribble complies with the legal requirements for tax-consultant processes
+Skribble complies with 
+the legal requirements 
+for tax-consultant processes
+===
 You sign with legal effect and securely in accordance
 with the following requirements:
 {{% /markdown %}}
@@ -212,26 +215,7 @@ between the signature standards AES and QES.**
 {{% /markdown %}}
 {{< /cta >}}
 
-
 [//]: # (--------------------------------------------------------------------------------------------------------------)
-
-{{< side-by-side top=24 width=narrow bottom=24 mobile-top=6 mobile-bottom=12 img=qes-increase img-position=right img-width=315 img-alt="A man is sitting in front of a laptop, above him is a software window, where a woman stands out with a big magnifying glass and checks an identity card." >}}
-{{% markdown %}}
-Get identified
-===============
-This enables you to activate the highest available e-signature standard QES. You only need a valid travel document (ID or passport).
-{{% /markdown %}}
-<br>
-{{< button
-  "Enable QES now"
-  "/enable-qes/"
-  ""
-  "outline"
->}}
-{{< /side-by-side >}}
-
-[//]: # (--------------------------------------------------------------------------------------------------------------)
-
 
 {{< content text=center top=24 width=narrow >}}
 {{% markdown %}}
