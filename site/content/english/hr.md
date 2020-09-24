@@ -52,7 +52,7 @@ from employment contracts to certificates and wage statements.
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< side-by-side top=24 bottom=12 img=batch-signature mobile-top=12 mobile-bottom=6 img-width=367 img-alt="Three contracts signed with batch processing" >}}
+{{< side-by-side top=16 bottom=12 img=hr-1 mobile-top=12 mobile-bottom=6 img-width=500 img-position=right img-alt="Sign multiple documents with one click." >}}
 {{% markdown %}}
 ## Finish the pile with only one signature
 New employment contracts for everyone: the authorised signatory no longer signs hundreds of contracts by hand, but signs them all at once with Skribble's batch signature.
@@ -65,7 +65,7 @@ New employment contracts for everyone: the authorised signatory no longer signs 
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< side-by-side top=24 bottom=24 mobile-top=6 mobile-bottom=6 img=candidate-sign-digital img-position=right img-width=392 img-alt="A woman sits in a deck chair and signs her employment contract on her tablet" >}}
+{{< side-by-side top=8 bottom=16 mobile-top=6 mobile-bottom=6 img=hr-2 img-width=500 img-alt="Collaborate more quickly in the recruitment process, where contracts can be signed immediately." >}}
 {{% markdown %}}
 ## Candidates sign digitally without delay
 Efficient onboarding: you have a better chance of being chosen as an employer and HR administration becomes easier, faster and cheaper.
@@ -84,9 +84,9 @@ Efficient onboarding: you have a better chance of being chosen as an employer an
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< side-by-side top=24 bottom=12 mobile-top=6 mobile-bottom=6 img=more-efficiency img-width=430 img-alt="Man with fountain pen would like to sign three contracts" >}}
+{{< side-by-side top=24 bottom=12 mobile-top=6 mobile-bottom=6 img=hr-3 img-position=right img-width=500 img-alt="Increase employee efficiency through digital documents." >}}
 {{% markdown %}}
-## Empower employees <br class="hide-for-mobile">to work more efficiently
+## Empower employees to work more efficiently
 Digitalisation enabler: HR enables the workforce to sign electronically and can manage their everyday work with less bureaucracy.
 
 - Digital processing of work reports, lay-offs, applications, etc.
@@ -97,7 +97,7 @@ Digitalisation enabler: HR enables the workforce to sign electronically and can 
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< side-by-side top=24 bottom=12 mobile-top=6 mobile-bottom=12 img=integrations img-position=right img-width=381 img-alt="Existing systems, e.g. Google Drive, One Drive, Drop Box or Secure Safe" >}}
+{{< side-by-side top=8 bottom=12 mobile-top=6 mobile-bottom=12 img=hr-4 img-width=500 img-alt="A circle shows how I can sign from my cloud." >}}
 {{% markdown %}}
 ## No new software required
 Stay with familiar tools: sign directly via your browser or from your existing software.
@@ -110,7 +110,7 @@ Stay with familiar tools: sign directly via your browser or from your existing s
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< content text=center top=16 botom=24 width=narrow >}}
+{{< content text=center top=8 botom=24 width=narrow >}}
 {{% markdown %}}
 ## Skribble complies with the legal requirements for HR processes
 You sign with legal effect and securely in accordance
@@ -119,12 +119,12 @@ with the following requirements:
 {{< /content >}}
 
 {{< content top=6 width=narrow >}}
-{{% collapsible 1 "E-signature standards according to ZertES/eIDAS" "check" %}}
+{{% collapsible 1 "E-signature standards according to eIDAS/ZertES" "check" %}}
 Skribble works with legally defined e-signature standards: The qualified electronic signature (QES), the advanced electronic signature (AES) and the simple electronic signature (SES).
 {{% /collapsible %}}
 
-{{% collapsible 2 "Requirement of written form according to OR/BGB" "check" %}}
-The qualified electronic signature (QES) available on Skribble is legally equivalent to a handwritten signature in Switzerland and the EU (eg. OR in Switzerland or BGB in Germany).
+{{% collapsible 2 "Requirement of written form according to BGB/OR" "check" %}}
+The qualified electronic signature (QES) available on Skribble is legally equivalent to a handwritten signature in the EU and Switzerland (eg. BGB in Germany or OR in Switzerland).
 {{% /collapsible %}}
 
 {{% collapsible 3 "Data protection according to FADP/GDPR" "check" %}}
@@ -160,7 +160,7 @@ How we at Skribble make everyday life easier for our customers.
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
 
-{{< content text=center top=24 width=narrow >}}
+{{< content text=center top=16 width=narrow >}}
 {{% markdown %}}
 ## Use Skribble to maximise the legal weight of your signature
 The law distinguishes between qualified e-signatures (QES)
@@ -247,27 +247,11 @@ between the signature standards AES and QES.**
 
 {{< /cta >}}
 
-[//]: # (--------------------------------------------------------------------------------------------------------------)
-
-{{< side-by-side top=24 width=narrow bottom=24 mobile-top=6 mobile-bottom=12 img=qes-increase img-position=right img-width=315 img-alt="A man is sitting in front of a laptop, above him is a software window, where a woman stands out with a big magnifying glass and checks an identity card." >}}
-{{% markdown %}}
-Get identified
-===============
-This enables you to activate the highest available e-signature standard QES. You only need a valid travel document (ID or passport).
-{{% /markdown %}}
-<br>
-{{< button
-  "Enable QES now"
-  "/enable-qes/"
-  ""
-  "outline"
->}}
-{{< /side-by-side >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
 
-{{< content text=center top=24 width=narrow >}}
+{{< content text=center top=20 width=narrow >}}
 {{% markdown %}}
 ## All clear?
 {{% /markdown %}}

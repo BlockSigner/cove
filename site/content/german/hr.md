@@ -48,7 +48,7 @@ auf digitalem Weg - von Arbeitsverträgen über Zeugnisse bis Lohnausweise.
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< side-by-side top=24 bottom=24 img=batch-signature mobile-top=12 mobile-bottom=6 img-width=367 img-alt="Drei Verträge werden mit dem Stapelverfahren signiert" >}}
+{{< side-by-side top=24 bottom=12 img=hr-1 mobile-top=12 mobile-bottom=6 img-position=right img-width=500 img-alt="Mehrere Dokumente mit einem Klick signieren." >}}
 {{% markdown %}}
 ## Erledigen Sie den Stapel mit nur einer Signatur
 Neue Arbeitsverträge für alle: der Unterschriftsberechtigte unterzeichnet nicht mehr hunderte Verträge von Hand, sondern signiert alle auf einmal mit der Stapelsignatur von Skribble.
@@ -64,13 +64,7 @@ der Arbeitsverträge einladen
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< testimonial "testimonial/twint-150w.png" "Simon Wehrli, CTO, Twint" >}}
-"Mehr Home-Office, regelmässige Erneuerungen der Verträge und die erforderliche Doppelunterschrift machten den analogen Unterschriftsprozess extrem zeitaufwendig und papierlastig. Mit Skribble signieren wir die Arbeitsverträge und NDAs papierfrei auf Knopfdruck – unabhängig von Ort und Zeit."
-{{< /testimonial >}}
-
-[//]: # (--------------------------------------------------------------------------------------------------------------)
-
-{{< side-by-side top=24 bottom=12 mobile-top=6 mobile-bottom=6 img=candidate-sign-digital img-position=right img-width=392 img-alt="Eine Frau sitzt auf einem Liegestuhl und unterzeichnet auf ihrem Tablet einen Vertrag" >}}
+{{< side-by-side top=16 bottom=8 mobile-top=6 mobile-bottom=6 img=hr-2 img-width=500 img-alt="Mitarbeitet im Rekrutierungsprozess schneller onboarden, in dem Verträge sofort signiert werden können." >}}
 {{% markdown %}}
 ## Kandidaten signieren ohne Verzögerung digital
 Effizientes Onboarding: Sie haben bessere Chancen, als Arbeitgeber gewählt zu werden, und die HR-Administration wird einfacher, schneller und günstiger.
@@ -84,7 +78,13 @@ wenn der Arbeitsvertrag signiert wurde
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< side-by-side top=24 bottom=12 mobile-top=6 mobile-bottom=6 img=more-efficiency img-width=430 img-alt="Mann unterzeichnet mit einem Füllfederhalter drei Verträge" >}}
+{{< testimonial "testimonial/twint-150w.png" "Simon Wehrli, CTO, Twint" >}}
+"Mehr Home-Office, regelmässige Erneuerungen der Verträge und die erforderliche Doppelunterschrift machten den analogen Unterschriftsprozess extrem zeitaufwendig und papierlastig. Mit Skribble signieren wir die Arbeitsverträge und NDAs papierfrei auf Knopfdruck – unabhängig von Ort und Zeit."
+{{< /testimonial >}}
+
+[//]: # (--------------------------------------------------------------------------------------------------------------)
+
+{{< side-by-side top=24 bottom=12 mobile-top=6 mobile-bottom=6 img=hr-3 img-width=500 img-position=right img-alt="Die effizienz von mitarbeitern steigern durch digitale dokumente." >}}
 {{% markdown %}}
 ## Befähigen Sie Mitarbeitende zu mehr Effizienz
 Digitalisierungs-Enabler: Die Belegschaft wird durch das HR zum elektronischen Signieren befähigt und kann den Arbeitsalltag mit weniger Bürokratie bestreiten.
@@ -100,7 +100,7 @@ im anerkannten PDF X/A-Format
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< side-by-side top=24 bottom=12 mobile-top=6 mobile-bottom=12 img=integrations img-position=right img-width=381 img-alt="Verbindung der unterschiedlichen Beteiligten bei Gebrauch von Skribble aus einem HRM visuell dargestellt" >}}
+{{< side-by-side top=16 bottom=8 mobile-top=6 mobile-bottom=12 img=hr-4 img-width=500 img-alt="Ein Kreis zeigt, wie ich von meiner Cloud heraus aus unterschreiben kann." >}}
 {{% markdown %}}
 ## Keine neue Software notwendig
 Bei gewohnten Tools bleiben: Signieren Sie direkt über den Browser oder aus Ihrer bestehenden Software heraus.
@@ -113,7 +113,7 @@ Bei gewohnten Tools bleiben: Signieren Sie direkt über den Browser oder aus Ihr
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< content text=center top=24 width=narrow >}}
+{{< content text=center top=12 width=narrow >}}
 {{% markdown %}}
 ## Mit Skribble erfüllen Sie die rechtlichen Anforderungen an HR-Prozesse
 Sie signieren rechtsgültig und sicher gemäss folgenden Erfordernissen:
@@ -121,12 +121,12 @@ Sie signieren rechtsgültig und sicher gemäss folgenden Erfordernissen:
 {{< /content >}}
 
 {{< content top=6 width=narrow >}}
-{{% collapsible 1 "E-Signatur-Standards gemäss ZertES/eIDAS" "check" %}}
+{{% collapsible 1 "E-Signatur-Standards gemäss eIDAS/ZertES" "check" %}}
 Skribble arbeitet mit gesetzlich definierten E-Signatur-Standards: Die qualifizierte elektronische Signatur (QES), die fortgeschrittene elektronische Signatur (FES) und die einfache elektronische Signatur (EES).
 {{% /collapsible %}}
 
-{{% collapsible 2 "Schriftlichkeitserfordernis gemäss OR/BGB" "check" %}}
-Die auf Skribble verfügbare qualifizierte elektronische Signatur (QES) ist der handschriftlichen Signatur gleichgestellt gemäss nationalen Gesetzgebungen in der Schweiz und der EU (z.B. OR in der Schweiz oder BGB in Deutschland).
+{{% collapsible 2 "Schriftlichkeitserfordernis gemäss BGB/OR" "check" %}}
+Die auf Skribble verfügbare qualifizierte elektronische Signatur (QES) ist der handschriftlichen Signatur gleichgestellt gemäss nationalen Gesetzgebungen der EU und in der Schweiz (z.B. BGB in Deutschland oder OR in der Schweiz).
 {{% /collapsible %}}
 
 {{% collapsible 3 "Datenschutz gemäss DSG/DSGVO" "check" %}}
@@ -161,7 +161,7 @@ Wie wir den Alltag unserer Kunden erleichtern.
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< content text=center top=24 width=narrow >}}
+{{< content text=center top=16 width=narrow >}}
 {{% markdown %}}
 ## Mit Skribble maximieren Sie die Beweiskraft Ihrer Signatur
 Das Gesetz unterscheidet drei Signaturstandards. Sie variieren
@@ -251,27 +251,11 @@ den Signaturstandards EES, FES und QES wählen.**
 {{% /markdown %}}
 {{< /cta >}}
 
-[//]: # (--------------------------------------------------------------------------------------------------------------)
-
-{{< side-by-side top=24 width=narrow bottom=24 mobile-top=6 mobile-bottom=12 img=qes-increase img-position=right img-width=315 img-alt="Ein Mann sitzt vor einem Laptop, über ihm befindet sich ein Software-Fenster, über dem eine Frau mit einer großen Lupe auffällt und einen Ausweis kontrolliert." >}}
-{{% markdown %}}
-Lassen Sie sich identifizieren
-===============
-Damit schalten Sie den höchsten verfügbaren E-Signatur-Standard QES frei. Sie benötigen nur ein gültiges Reisedokument (ID oder Pass).
-{{% /markdown %}}
-<br>
-{{< button
-  "Jetzt QES freischalten"
-  "/de/qes-freischalten/"
-  ""
-  "outline"
->}}
-{{< /side-by-side >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
 
-{{< content text=center top=24 width=narrow >}}
+{{< content text=center top=20 width=narrow >}}
 {{% markdown %}}
 ## Alles klar?
 {{% /markdown %}}

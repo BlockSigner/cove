@@ -47,7 +47,7 @@ Avec Skribble, vous signez des documents juridiquement contraignants et faciles 
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< side-by-side top=24 bottom=12 img=batch-signature mobile-top=12 mobile-bottom=6 img-width=367 img-alt="Trois contrats sont signés par lots" >}}
+{{< side-by-side top=16 bottom=12 img=hr-1 mobile-top=12 mobile-bottom=6 img-width=500 img-position=right img-alt="Signer plusieurs documents en un seul clic." >}}
 {{% markdown %}}
 ## Compléter le lot avec une seule signature
 De nouveaux contrats de travail pour tous: le signataire autorisé ne signe plus des centaines de contrats à la main, mais les signe tous à la fois avec la signature par lots de Skribble.
@@ -63,9 +63,9 @@ entrantes et sortantes
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< side-by-side top=24 bottom=24 mobile-top=6 mobile-bottom=6 img=candidate-sign-digital img-position=right img-width=392 img-alt="Une femme s'assoit sur une chaise longue et signe un contrat sur sa tablette." >}}
+{{< side-by-side top=8 bottom=12 mobile-top=6 mobile-bottom=6 img=hr-2 img-width=500 img-alt="Collaborer plus rapidement dans le processus de recrutement, où les contrats peuvent être signés immédiatemen." >}}
 {{% markdown %}}
-## Signature numérique <br class="hide-for-mobile">sans délai des candidats
+## Signature numérique sans délai des candidats
 Une intégration efficace: vous avez plus de chances d'être choisi comme employeur et l'administration des RH devient plus facile, plus rapide et moins coûteuse.
 
 - Juridiquement valable pour tout type
@@ -84,7 +84,7 @@ du contrat de travail
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< side-by-side top=24 bottom=12 mobile-top=6 mobile-bottom=6 img=more-efficiency img-width=430 img-alt="Homme signé avec un stylo plume trois contrats" >}}
+{{< side-by-side top=24 bottom=12 mobile-top=6 mobile-bottom=6 img=hr-3 img-position=right img-width=500 img-alt="Augmenter l'efficacité des employés grâce aux documents numériques." >}}
 {{% markdown %}}
 ## Habiliter les employés pour plus d'efficacité
 Facilitateur de la numérisation: les RH permettent au personnel de signer électroniquement et de faire face au travail quotidien avec moins de bureaucratie.
@@ -100,7 +100,7 @@ autorisés par courriel
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< side-by-side top=24 bottom=12 mobile-top=6 mobile-bottom=12 img=integrations img-position=right img-width=381 img-alt="Signez directement dans vos logiciels RH" >}}
+{{< side-by-side top=8 bottom=12 mobile-top=6 mobile-bottom=12 img=hr-4 img-width=500 img-alt="Un cercle montre comment je peux signer à partir de mon nuage." >}}
 {{% markdown %}}
 ## Aucun nouveau logiciel requis
 Restez avec des outils familiers: signez à partir de vos programmes existants, par exemple Google Drive, One Drive, Drop Box ou Secure Safe.
@@ -123,12 +123,12 @@ et satisfaire aux exigences légales suivantes:
 {{< /content >}}
 
 {{< content top=6 width=narrow >}}
-{{% collapsible 1 "Normes de signature électronique selon SCSE/eIDAS" "check" %}}
+{{% collapsible 1 "Normes de signature électronique selon eIDAS/SCSE" "check" %}}
 Skribble travaille avec des standards de signature électronique légalement définis: la signature électronique qualifiée (SEQ), la signature électronique avancée (SEA) et la signature électronique simple (SES).
 {{% /collapsible %}}
 
-{{% collapsible 2 "Exigence de la forme écrite selon le CO/BGB" "check" %}}
-La signature électronique qualifiée (SEQ) de Skribble équivaut à la signature manuscrite devant les lois nationales suisses et celles de l'UE (par ex. CO en Suisse ou BGB en Allemagne).
+{{% collapsible 2 "Exigence de la forme écrite selon le BGB/CO" "check" %}}
+La signature électronique qualifiée (SEQ) de Skribble équivaut à la signature manuscrite devant les lois de l'UE et celles nationales suisses (par ex. BGB en Allemagne ou CO en Suisse).
 {{% /collapsible %}}
 
 {{% collapsible 3 "Protection des données selon LPD/RGPD" "check" %}}
@@ -251,23 +251,6 @@ avec exigences formelles juridiques ou avec un risque de responsabilité fort.
 **Chez Skribble vous avez le choix entre les normes de signature SEA et SEQ.**
 {{% /markdown %}}
 {{< /cta >}}
-
-[//]: # (--------------------------------------------------------------------------------------------------------------)
-
-{{< side-by-side top=24 width=narrow bottom=24 mobile-top=6 mobile-bottom=12 img=qes-increase img-position=right img-width=315 img-alt="Un homme est assis devant un ordinateur portable, au-dessus de lui se trouve une fenêtre de logiciel, où une femme se distingue avec une grande loupe et vérifie une carte d'identité." >}}
-{{% markdown %}}
-Laissez-vous identifier
-===============
-Cela vous permet d'activer la norme de signature électronique QES la plus élevée disponible. Vous avez seulement besoin d'un document de voyage valide (carte d'identité ou passeport).
-{{% /markdown %}}
-<br>
-{{< button
-  "Déverrouiller SEQ maintenant"
-  "/fr/debloquez-seq/"
-  ""
-  "outline"
->}}
-{{< /side-by-side >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
