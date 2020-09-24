@@ -9,12 +9,12 @@ og_image: og/og-skribble-identification.jpg
 
 {{< content text=center top=16 bottom=8 width=narrow >}}
 {{% markdown %}}
-Identity verification 
+Identification
 for electronic signing
 ===============
 Each e-signature must be uniquely attributable to one person.
 Therefore, Skribble requires the identification of the signatories.
-The procedures differ depending on the application.
+The procedures differ depending on the type of contract.
 {{% /markdown %}}
 {{< /content >}}
 
@@ -23,9 +23,7 @@ The procedures differ depending on the application.
 {{< content text=center top=16 bottom=8 width=narrow >}}
 {{% markdown %}}
 # Contracts without written form
-The advanced electronic signature (AES) is typically used for contracts
-without formal requirements. With AES, the law requires that the identity
-of the signatory can be reconstructed afterwards.
+The simple electronic signature (SES) or the advanced electronic signature (AES) is typically used for contracts without formal requirements. The identification requirements for EES and FES are low to medium.
 {{% /markdown %}}
 {{< /content >}}
 
@@ -33,7 +31,7 @@ of the signatory can be reconstructed afterwards.
 
 {{< content text=center top=16 bottom=8 width=narrow >}}
 {{% markdown %}}
-**Identification options for the advanced electronic signature (AES):**
+**Identification options for contracts without written form:
 {{% /markdown %}}
 {{< /content >}}
 
@@ -41,8 +39,8 @@ of the signatory can be reconstructed afterwards.
 
 {{< plan
   white
-  ""
-  "Private e-mail address"
+  "SES"
+  "E-mail address"
   ""
   ""
   "_blank"
@@ -51,13 +49,13 @@ of the signatory can be reconstructed afterwards.
 
 {{< picture private-email 280 "Two people in a bubble with e-mails" >}}
 
-TEXT
+In the case of the simple electronic signature (EES), the signatories are identified by their e-mail address. Anyone who has a Skribble account or is invited to sign by e-mail can sign with EES without any further measures.
 {{< /plan >}}
 
 
 {{< plan
   white
-  ""
+  "AES"
   "Company e-mail address"
   ""
   ""
@@ -72,7 +70,7 @@ Companies that record the identity of their employees by default can activate AE
 
 {{< plan
   white
-  ""
+  "AES"
   "Mobile number (CH)"
   ""
   ""
@@ -115,7 +113,7 @@ Organisation-wide implementation within just a few days.
 
 {{% markdown %}}
 **Signature standards**
-When do I use QES, when AES?
+When do I use SES, when AES, when QES?
 {{% /markdown %}}
 {{< /cta >}}
 {{< /cta-group >}}
@@ -126,34 +124,24 @@ When do I use QES, when AES?
 {{< content text=center top=16 bottom=8 width=narrow >}}
 {{% markdown %}}
 ## Contracts requiring the written form
-For contracts requiring the written form, the qualified electronic signature (QES) is typically used. With QES, the law requires that the identity of the signatory be verified in advance in personal contact.
+For contracts requiring the written form, the qualified electronic signature (QES) is typically used. The identification requirements for the QES are high, the identification must be done face-to-face or online via video.
 {{% /markdown %}}
 {{< /content >}}
 
 {{< picture contract-with-requirement 480 "Eine Frau mit einem Handy blickt hinter einem Vertrag hervor und davor steht ein Geschäftsmann mit einem Laptop." >}}
 
-{{< content text=center top=8 bottom=0 width=narrow >}}
+{{< content text=center top=8 bottom=8 width=narrow >}}
 {{% markdown %}}
 **Identification options for the qualified electronic signature (QES):**
 {{% /markdown %}}
 {{< /content >}}
 
-{{< content text=center top=8 bottom=4 width=narrow >}}
-{{% markdown %}}
-**Identification Service**
-Enable the QES by getting yourself identified online via video-call or
-by personal contact with the ID app by Swisscom.
-&nbsp;
-{{% /markdown %}}
-{{< /content >}}
-
-
 {{< content width=wide display=flex >}}
 
 {{< plan
   white
-  "Identification"
-  "Unlimited"
+  "Service"
+  "Identification Unlimited"
   "Contact Skribble"
   "https://help.skribble.com/meetings/patrick182/skribble-id-zurich"
   "_blank"
@@ -163,16 +151,14 @@ by personal contact with the ID app by Swisscom.
 {{< picture id-easy 270 "A woman and a man are standing in front of a large software window and the man is holding a big hatch with an identity card inside." >}}
 
 
-You perform the identifications yourself.
+A representative of your company goes through a one-time training. Afterwards he can identify the signatories himself face-to-face. Suitable for companies with a large number of QES signatories.
 
-Appropriate if new QES signers are constantly being added.
-&nbsp;
 {{% /plan %}}
 
 {{< plan
   white
-  "Identification"
-  "Online via video"
+  "Service"
+  "Identification Direct"
   "Enable QES now"
   "/enable-qes/"
   ""
@@ -181,9 +167,7 @@ Appropriate if new QES signers are constantly being added.
 
 {{< picture id-direct 210 "A man is sitting in front of a laptop, above him is a sotware window, where a woman stands out with a big magnifying glass and checks an identity card." >}}
 
-Enable the highest e-signature standard QES from home.
-
-Suitable for individual signatories.
+The signatories enable the QES by having themselves identified online via video (EU) or face-to-face at an identification site (Switzerland). Suitable for individuals and companies with a small number of QES signatories.
 &nbsp;
 &nbsp;
 {{% /plan %}}
