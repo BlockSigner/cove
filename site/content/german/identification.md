@@ -129,7 +129,7 @@ Für Verträge mit Formvorschrift oder hohem Abspruch an Beweiskraft wird typisc
 
 {{< picture contract-with-requirement 480 "Eine Frau mit einem Handy blickt hinter einem Vertrag hervor und davor steht ein Geschäftsmann mit einem Laptop." >}}
 
-{{< content text=center top=8 bottom=0 width=narrow >}}
+{{< content text=center top=12 bottom=8 width=narrow >}}
 {{% markdown %}}
 **Identifikationsoptionen für Verträge mit Formvorschrift:**
 {{% /markdown %}}
