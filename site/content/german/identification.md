@@ -10,10 +10,10 @@ og_image: og/og-skribble-identification.jpg
 
 {{< content text=center top=16 bottom=8 width=narrow >}}
 {{% markdown %}}
-# Identitätsprüfung für elektronisches Signieren
+# Identifikation für elektronisches Signieren
 Jede E-Signatur muss eindeutig einer Person zugewiesen werden können.
 Deshalb setzt Skribble die Identifikation der Signierenden voraus.
-Die Verfahren unterscheiden sich je nach Anwendungsfall.
+Die Verfahren unterscheiden sich je nach Vertragsart.
 {{% /markdown %}}
 {{< /content >}}
 
@@ -22,7 +22,7 @@ Die Verfahren unterscheiden sich je nach Anwendungsfall.
 {{< content text=center top=16 bottom=8 width=narrow >}}
 {{% markdown %}}
 ## Verträge ohne Formvorschrift
-Für formfreie Verträge wird typischerweise die fortgeschrittene elektronische Signatur (FES) eingesetzt. Bei der FES setzt das Gesetz voraus, dass die Identität der Signierenden im Nachhinein rekonstruiert werden kann.
+Für formfreie Verträge wird typischerweise die einfache elektronische Signatur (EES) oder die fortgeschrittene elektronische Signatur (FES) eingesetzt. Die Identifikationsanforderungen für EES und FES sind gering bis mittel.
 {{% /markdown %}}
 {{< /content >}}
 
@@ -30,7 +30,7 @@ Für formfreie Verträge wird typischerweise die fortgeschrittene elektronische 
 
 {{< content text=center top=12 bottom=8 width=narrow >}}
 {{% markdown %}}
-**Identifikationsoptionen für die fortgeschrittene elektronische Signatur (FES):**
+**Identifikationsoptionen für Verträge ohne Formvorschrift:**
 {{% /markdown %}}
 {{< /content >}}
 
@@ -38,8 +38,8 @@ Für formfreie Verträge wird typischerweise die fortgeschrittene elektronische 
 
 {{< plan
   white
-  ""
-  "Private E-Mail-Adresse"
+  "EES"
+  "E-Mail-Adresse"
   ""
   ""
   "_blank"
@@ -48,13 +48,13 @@ Für formfreie Verträge wird typischerweise die fortgeschrittene elektronische 
 
 {{< picture private-email 280 "Zwei Leute in einer Bubble mit E-Mails" >}}
 
-TEXT
+Bei der einfachen elektronischen Signatur (EES) werden die Signierenden anhand ihrer E-Mail-Adresse identifiziert. Wer über ein Skribble-Konto verfügt oder per E-Mail zum Signieren eingeladen wird, kann ohne weitere Massnahmen mit EES signieren.
 {{< /plan >}}
 
 
 {{< plan
   white
-  ""
+  "FES"
   "Firmen E-Mail-Adresse"
   ""
   ""
@@ -69,7 +69,7 @@ Unternehmen, die die Identität ihrer Mitarbeitenden standardmässig erfassen, k
 
 {{< plan
   white
-  ""
+  "FES"
   "Mobiltelefonnummer (CH)"
   ""
   ""
@@ -113,7 +113,7 @@ Organisationsweite Einführung in wenigen Tagen.
 
 {{% markdown %}}
 **Signaturstandards**
-Wann nutze ich QES, wann FES?
+Wann nutze ich EES, wann FES, wann QES?
 {{% /markdown %}}
 {{< /cta >}}
 {{< /cta-group >}}
@@ -123,7 +123,7 @@ Wann nutze ich QES, wann FES?
 {{< content text=center top=16 bottom=8 width=narrow >}}
 {{% markdown %}}
 ## Verträge mit Formvorschrift
-Für Verträge mit Formvorschrift oder hohem Abspruch an Beweiskraft wird typischerweise die qualifizierte elektronische Signatur (QES) eingesetzt. Bei der QES setzt das Gesetz voraus, dass die Identität der Signierenden im Voraus im persönlichen Kontakt geprüft wird.
+Für Verträge mit Formvorschrift oder hohem Abspruch an Beweiskraft wird typischerweise die qualifizierte elektronische Signatur (QES) eingesetzt. Die Identifikationsanforderungen bei der QES sind hoch, die Prüfung muss persönlich oder online via Video stattfinden.
 {{% /markdown %}}
 {{< /content >}}
 
@@ -131,23 +131,15 @@ Für Verträge mit Formvorschrift oder hohem Abspruch an Beweiskraft wird typisc
 
 {{< content text=center top=8 bottom=0 width=narrow >}}
 {{% markdown %}}
-**Identifikationsoptionen für die qualifizierte elektronische Signatur (QES):**
-{{% /markdown %}}
-{{< /content >}}
-
-{{< content text=center top=8 bottom=4 width=narrow >}}
-{{% markdown %}}
-**Identififkations-Service**
-Die QES schalten Sie frei, in dem Sie sich online via Video-Call oder im persönlichen Kontakt mit der ID-App von Swisscom identifizieren lassen.
-&nbsp;
+**Identifikationsoptionen für Verträge mit Formvorschrift:**
 {{% /markdown %}}
 {{< /content >}}
 
 {{< content width=wide display=flex >}}
 {{< plan
   white
-  "Identification"
-  "Unlimited"
+  "Service"
+  "Identification Unlimited"
   "Jetzt kontaktieren"
   "https://help.skribble.com/meetings/patrick182/call-mit-skribble"
   "_blank"
@@ -157,17 +149,14 @@ Die QES schalten Sie frei, in dem Sie sich online via Video-Call oder im persön
 {{< picture id-easy 270 "Eine Frau und ein Mann stehen vor einem grossen Softwarefenster und der Mann haltet eine grosse Luppe mit einer Identitätskarte drin." >}}
 
 
-Ihr führt die Identifikationen selbst durch.
+Ein Vertreter Ihres Unternehmens durchläuft eine einmalige Schulung. Anschliessend kann er die Signierenden selbst im persönlichen Kontakt identifizieren. Passend bei einer grossen Anzahl QES-Signierender.
 
-Passend, wenn laufend neue
-QES-Signierende hinzukommen.
-&nbsp;
 {{% /plan %}}
 
 {{< plan
   white
-  "Identification"
-  "Online via Video"
+  "Service"
+  "Identification Direct"
   "Jetzt QES freischalten"
   "/de/qes-freischalten/"
   ""
@@ -175,9 +164,7 @@ QES-Signierende hinzukommen.
 >}}
 
 {{< picture id-direct 210 "Ein Mann sitzt vor einem Laptop, darüber ist eine Sotware-Fenster, wo eine Frau mit einer grossen Lupe herausragt und überprüft eine Identitätskarte." >}}
-Schalten Sie den höchsten E-Signatur-Standard QES von zu Hause aus frei.
-&nbsp;
-&nbsp;
+Signierende schalten die QES frei, in dem sie sich sich online via Video identifizieren lassen (EU) oder persönlich an einem Identifikationsstandort (Schweiz). Passend für Einzelpersonen und Unternehmen mit einer geringen Anzahl QES-Signierender.
 {{% /plan %}}
 {{< /content >}}
 
