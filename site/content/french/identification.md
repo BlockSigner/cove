@@ -66,7 +66,7 @@ Dans le cas de la signature électronique simple (SES), les signataires sont ide
 
 {{< picture company-email 280 "Une fenêtre de logiciel avec un homme et une femme dans une bulle." >}}
 
-Les entreprises qui enregistrent l'identité de leurs employés par défaut peuvent activer la SEA via l'adresse électronique de l'entreprise. Toute personne disposant d'une adresse électronique correspondante peut signer immédiatement avec la SEA.
+Les entreprises qui enregistrent l'identité de leurs employés par défaut peuvent activer la SEA via l'adresse électronique de l'entreprise (SEA pour Business). Toute personne disposant d'une adresse électronique correspondante peut signer immédiatement avec la SEA.
 {{< /plan >}}
 
 {{< plan
