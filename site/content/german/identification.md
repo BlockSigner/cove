@@ -149,7 +149,7 @@ Für Verträge mit Formvorschrift oder hohem Abspruch an Beweiskraft wird typisc
 {{< picture id-easy 270 "Eine Frau und ein Mann stehen vor einem grossen Softwarefenster und der Mann haltet eine grosse Luppe mit einer Identitätskarte drin." >}}
 
 
-Ein Vertreter Ihres Unternehmens durchläuft eine einmalige Schulung. Anschliessend kann er die Signierenden selbst im persönlichen Kontakt identifizieren. Passend bei einer grossen Anzahl QES-Signierender.
+Ein Vertreter Ihres Unternehmens durchläuft eine einmalige Schulung. Anschliessend kann er die Signierenden selbst im persönlichen Kontakt identifizieren. Passend für Unternehmen mit einer grossen Anzahl QES-Signierender.
 
 {{% /plan %}}
 
