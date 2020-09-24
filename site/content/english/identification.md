@@ -31,7 +31,7 @@ The simple electronic signature (SES) or the advanced electronic signature (AES)
 
 {{< content text=center top=16 bottom=8 width=narrow >}}
 {{% markdown %}}
-**Identification options for contracts without written form:
+**Identification options for contracts without written form:**
 {{% /markdown %}}
 {{< /content >}}
 
