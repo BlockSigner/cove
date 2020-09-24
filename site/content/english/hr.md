@@ -40,14 +40,14 @@ from employment contracts to certificates and wage statements.
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< logos-container top=12 bottom=24 width=wide title="The first choice of more than 200 companies with the highest requirements for data protection and security:">}}
+{{< logos-container top=12 bottom=24 width=wide title="">}}
   {{< logos-item src="logos/canon-116w.svg" alt="Canon">}}
   {{< logos-item src="logos/helvetia-150w.svg" alt="Helvetia Versicherung">}}
   {{< logos-item src="logos/easyjet-132w.svg" alt="EasyJet">}}
   {{< logos-line-break >}}
-  {{< logos-item src="logos/kellerhalscarrard-100w.svg" alt="Kellerhals Carrard">}}
-  {{< logos-item src="logos/wincasa-150w.svg" alt="Wincasa">}}
   {{< logos-item src="logos/twint-116w.svg" alt="Twint">}}
+  {{< logos-item src="logos/wincasa-150w.svg" alt="Wincasa">}}
+  {{< logos-item src="logos/mobiliar-144w.svg" alt="Mobiliar">}}
 {{< /logos-container >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
