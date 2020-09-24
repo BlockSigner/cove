@@ -10,7 +10,9 @@ og_image: og/og-skribble-hr.jpg
 ---
 {{< intro top=24 bottom=12 width=wide img=vertical-hr-main img-width=560 img-alt="Trois personnes signent un document électronique" >}}
 {{% markdown %}}
-# Signer électroniquement dans les RH
+Signer électroniquement 
+dans les RH
+===============
 Avec Skribble, vous signez des documents juridiquement contraignants et faciles numériquement - des contrats de travail aux certificats et aux fiches de salaire.
 
 **Signez en toute sécurité :**

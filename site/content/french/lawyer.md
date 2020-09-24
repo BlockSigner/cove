@@ -11,7 +11,9 @@ og_image: og/og-skribble-lawyer.jpg
 
 {{< intro top=24 bottom=12 width=wide img=vertical-lawyer-main img-width=560 img-alt="L'un traite de différents processus contractuels" >}}
 {{% markdown %}}
-# Signature électronique pour juristes
+Signature électronique 
+pour juristes
+===============
 Avec Skribble vous signez sans clé USB ou lecteur de carte
 avec la plus haute norme de signature électronique (SEQ).
 

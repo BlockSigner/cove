@@ -12,7 +12,9 @@ og_image: og/og-skribble-lawyer.jpg
 {{< intro top=24 bottom=12 width=wide img=vertical-lawyer-main img-width=560 img-alt="Man handle different document processes" >}}
 
 {{% markdown %}}
-# Electronic signature for lawyers
+Electronic signature 
+for lawyers
+===============
 With Skribble you sign without USB stick or card reader
 with the highest e-signing standard (QES).
 

@@ -10,7 +10,9 @@ og_image: og/og-skribble-hr.jpg
 ---
 {{< intro top=24 bottom=12 width=wide img=vertical-hr-main img-width=560 img-alt="Drei Frauen halten einen Vertrag in der Hand" >}}
 {{% markdown %}}
-# Elektronisch signieren im HR
+Elektronisch 
+signieren im HR
+===============
 Mit Skribble signierst du rechtssicher und einfach 
 auf digitalem Weg - von Arbeitsverträgen über Zeugnisse bis Lohnausweise.
 

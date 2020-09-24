@@ -94,6 +94,9 @@ languages:
         - name: Anwälte
           url: /de/anwaelte/
           weight: 10
+        - name: Steuerberater
+          url: /de/steuerberater/
+          weight: 10
       footer3:
         - name: Mission
           url: /de/ueber-uns/
@@ -247,7 +250,7 @@ languages:
           url: "/Lawyer/"
           weight: 20
           parent: solutions
-        - name: Tax-consultant
+        - name: Tax consultant
           url: "/tax-consultant/"
           weight: 25
           parent: solutions
@@ -284,6 +287,9 @@ languages:
         - name: Lawyer
           url: /lawyer/
           weight: 10
+        - name: Tax consultant
+          url: /tax-consultant/
+          weight: 15
       footer3:
         - name: Mission
           url: /about/
@@ -474,6 +480,9 @@ languages:
         - name: Juristes
           url: /fr/juristes/
           weight: 10
+        - name: Consultant-fiscal
+          url: "/fr/consultant-fiscal/"
+          weight: 15
       footer3:
         - name: Mission
           url: /fr/mission/
