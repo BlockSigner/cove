@@ -65,7 +65,7 @@ In the case of the simple electronic signature (EES), the signatories are identi
 
 {{< picture company-email 280 "EA software window with a man and a woman in a bubble." >}}
 
-Companies that record the identity of their employees by default can activate AES via the company e-mail address. Anyone with a corresponding e-mail address can sign with AES immediately.
+Companies that record the identity of their employees by default can activate AES via the company e-mail address (AES for Business). Anyone with a corresponding e-mail address can sign with AES immediately.
 {{< /plan >}}
 
 {{< plan
