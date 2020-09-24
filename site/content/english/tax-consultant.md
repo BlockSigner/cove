@@ -49,7 +49,7 @@ With Skribble, you and your clients sign faster and more securely - from balance
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< side-by-side top=24 bottom=24 img=tax-consultant-1 mobile-top=12 mobile-bottom=6 img-width=500 img-alt="A contract and two people signing together." >}}
+{{< side-by-side top=16 bottom=12 img=tax-consultant-1 mobile-top=12 mobile-bottom=6 img-width=500 img-position=right img-alt="A contract and two people signing together." >}}
 {{% markdown %}}
 ## More efficiency for tax consultants and their clients
 The diversion via printer and paper is eliminated: instead of sending the balance sheet and the annual financial statement back and forth by post, the tax consultant and client sign electronically within seconds. 
@@ -63,7 +63,7 @@ The diversion via printer and paper is eliminated: instead of sending the balanc
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< side-by-side top=24 bottom=16 mobile-top=6 mobile-bottom=6 img=tax-consultant-2 img-position=right img-width=530 img-alt="An end-to-end process shows who has digitally signed when." >}}
+{{< side-by-side top=8 bottom=12 mobile-top=6 mobile-bottom=6 img=tax-consultant-2 img-width=530 img-alt="An end-to-end process shows who has digitally signed when." >}}
 {{% markdown %}}
 ## Easier than paper and pen
 Signing with Skribble is intuitive and can be done in seconds. They enable their employees and clients to seamlessly implement digital processes that save time and money.
@@ -76,7 +76,7 @@ Signing with Skribble is intuitive and can be done in seconds. They enable their
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< side-by-side top=16 bottom=12 mobile-top=6 mobile-bottom=6 img=tax-consultant-3 img-width=500 img-alt="Depending on the contract card, the appropriate signature standard can be used to sign." >}}
+{{< side-by-side top=8 bottom=12 mobile-top=6 mobile-bottom=6 img=tax-consultant-3 img-width=500 img-position=right img-alt="Depending on the contract card, the appropriate signature standard can be used to sign." >}}
 {{% markdown %}}
 ## Suitable for any document and any mandate
 Different documents, different requirements. With Skribble, any type of document can be legally signed - from financial statements to designs to release declarations.
@@ -89,7 +89,7 @@ Different documents, different requirements. With Skribble, any type of document
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< side-by-side top=16 bottom=12 mobile-top=6 mobile-bottom=12 img=tax-consultant-4 img-position=right img-width=500 img-alt="A circle shows how I can sign from my cloud." >}}
+{{< side-by-side top=8 bottom=12 mobile-top=6 mobile-bottom=12 img=tax-consultant-4 img-width=500 img-alt="A circle shows how I can sign from my cloud." >}}
 {{% markdown %}}
 ## Remain with familiar tools and processes
 Integrate Skribble into your law firm software or sign directly via the browser. Clients can sign with any operating system via invitation link.

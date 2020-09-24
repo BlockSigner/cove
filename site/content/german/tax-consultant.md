@@ -38,21 +38,21 @@ Mit Skribble signieren Sie und Ihre Mandanten schneller und sicherer – von der
 {{< logos-container top=12 bottom=24 width=wide title="">}}
   {{< logos-item src="logos/canon-116w.svg" alt="Canon">}}
   {{< logos-item src="logos/helvetia-150w.svg" alt="Helvetia Versicherung">}}
-  {{< logos-item src="logos/easyjet-132w.svg" alt="EasyJet">}}
+  {{< logos-item src="logos/kellerhalscarrard-100w.svg" alt="Kellerhals Carrard">}}
   {{< logos-line-break >}}
   {{< logos-item src="logos/twint-116w.svg" alt="Twint">}}
-  {{< logos-item src="logos/wincasa-150w.svg" alt="Wincasa">}}
+  {{< logos-item src="logos/altenburger-170w.svg" alt="Altenburger">}}
   {{< logos-item src="logos/mobiliar-144w.svg" alt="Mobiliar">}}
 {{< /logos-container >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< side-by-side top=24 bottom=16 img=tax-consultant-1 mobile-top=12 mobile-bottom=6 img-width=500 img-alt="Ein Vertrag und zwei Personen, die gemeinsam unterschreiben." >}}
+{{< side-by-side top=8 bottom=12 img=tax-consultant-1 mobile-top=12 mobile-bottom=6 img-width=500 img-position=right img-alt="Ein Vertrag und zwei Personen, die gemeinsam unterschreiben." >}}
 {{% markdown %}}
 ## Mehr Effizienz für Steuerberater und Ihre Mandanten
 Der Umweg über Drucker und Papier entfällt: Statt die Bilanz und den Jahresbaschluss per Post hin- und her zu schicken, signieren Steuerberater und Mandant innert Sekunden elektronisch. 
 
-- Per E-Mail zum signieren einalden
+- Per E-Mail zum signieren einladen
 - Mandanten können ohne Skribble-Konto via Einladungslink signieren
 - Signatur via Handy bestätigen – kein USB-Stick oder Smart Card erforderlich
 - In Sekundenschnelle prüfbar, ob korrekt signiert wurde
@@ -61,7 +61,7 @@ Der Umweg über Drucker und Papier entfällt: Statt die Bilanz und den Jahresbas
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< side-by-side top=24 bottom=16 mobile-top=6 mobile-bottom=6 img=tax-consultant-2 img-position=right img-width=530 img-alt="Ein End-to-End-Prozess zeigt, wer wann digital unterschrieben hat." >}}
+{{< side-by-side top=8 bottom=12 mobile-top=6 mobile-bottom=6 img=tax-consultant-2 img-width=530 img-alt="Ein End-to-End-Prozess zeigt, wer wann digital unterschrieben hat." >}}
 {{% markdown %}}
 ## Einfacher als Papier und Füller
 Das Signieren mit Skribble ist intuitiv und in Sekundenschnelle erledigt. Sie ermöglichen ihren Mitarbeitenden und Mandanten nahtlos digitale Prozesse, die Zeit und Geld sparen.
@@ -74,10 +74,10 @@ Das Signieren mit Skribble ist intuitiv und in Sekundenschnelle erledigt. Sie er
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< side-by-side top=16 bottom=12 mobile-top=6 mobile-bottom=6 img=tax-consultant-3 img-width=500 img-alt="Ein Kreis zeigt, wie ich von meiner Cloud heraus aus unterschreiben kann." >}}
+{{< side-by-side top=8 bottom=12 mobile-top=6 mobile-bottom=6 img=tax-consultant-3 img-width=500 img-position=right img-alt="Ein Kreis zeigt, wie ich von meiner Cloud heraus aus unterschreiben kann." >}}
 {{% markdown %}}
 ## Für jedes Dokument und jedes Mandat einsetzbar
-Verschiedene Dokumente, verschiedene Anforderungen. Mit Skribble können jede Art Dokument rechtsgültig  signiernen – von Abschlüssen über Gestaltungen bis Freigabeerklärungen.
+Verschiedene Dokumente, verschiedene Anforderungen. Mit Skribble können jede Art von Dokument rechtsgültig signiernen – von Abschlüssen über Gestaltungen bis Freigabeerklärungen.
 
 - Rechtsgültig für Verträge mit- und ohne Schriftformerfordernis
 - Weltweit intern und gegenüber extern einsetzbar
@@ -87,7 +87,7 @@ Verschiedene Dokumente, verschiedene Anforderungen. Mit Skribble können jede Ar
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< side-by-side top=16 bottom=12 mobile-top=6 mobile-bottom=12 img=tax-consultant-4 img-position=right img-width=500 img-alt="Verbindung der unterschiedlichen Beteiligten bei Gebrauch von Skribble aus einem HRM visuell dargestellt" >}}
+{{< side-by-side top=8 bottom=12 mobile-top=6 mobile-bottom=12 img=tax-consultant-4 img-width=500 img-alt="Verbindung der unterschiedlichen Beteiligten bei Gebrauch von Skribble aus einem HRM visuell dargestellt" >}}
 {{% markdown %}}
 ## Bei gewohnten Tools und Prozessen bleiben
 Integrieren Sie Skribble in Ihre Kanzlei-Software oder signieren Sie direkt über den Browser. Mandanten können mit jedem Betriebssystem via Einladungslink signieren.
@@ -100,7 +100,7 @@ Integrieren Sie Skribble in Ihre Kanzlei-Software oder signieren Sie direkt übe
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< content text=center top=24 width=narrow >}}
+{{< content text=center top=16 width=narrow >}}
 {{% markdown %}}
 ## Mit Skribble erfüllen Sie die rechtlichen Anforderungen an Steuerberater-Prozesse
 Sie signieren rechtsgültig und sicher gemäss folgenden Erfordernissen:
