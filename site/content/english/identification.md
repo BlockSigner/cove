@@ -168,7 +168,6 @@ A representative of your company goes through a one-time training. Afterwards he
 {{< picture id-direct 210 "A man is sitting in front of a laptop, above him is a sotware window, where a woman stands out with a big magnifying glass and checks an identity card." >}}
 
 The signatories enable the QES by having themselves identified online via video (EU) or face-to-face at an identification site (Switzerland). Suitable for individuals and companies with a small number of QES signatories.
-&nbsp;
 {{% /plan %}}
 {{< /content >}}
 
