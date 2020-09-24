@@ -64,7 +64,7 @@ Bei der einfachen elektronischen Signatur (EES) werden die Signierenden anhand i
 
 {{< picture company-email 280 "Ein Softwarfenster mit einem Mann und einer Frau in einer Blase." >}}
 
-Unternehmen, die die Identität ihrer Mitarbeitenden standardmässig erfassen, können die FES via Firmen-E-Mail-Adresse freischalten. Wer über eine entsprechenden E-Mail-Adresse verfügt, kann sofort mit FES signieren.
+Unternehmen, die die Identität ihrer Mitarbeitenden standardmässig erfassen, können die FES via Firmen-E-Mail-Adresse freischalten (FES für Business). Wer über eine entsprechenden E-Mail-Adresse verfügt, kann sofort mit FES signieren.
 {{< /plan >}}
 
 {{< plan
