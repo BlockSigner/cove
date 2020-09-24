@@ -42,7 +42,6 @@ Pour les contrats sans exigences formelles, la signature électronique simple (S
   white
   "SES"
   "Adresse électronique
-  &nbsp;"
   ""
   ""
   "_blank"
