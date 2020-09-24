@@ -15,7 +15,7 @@ pour les conseillers fiscaux
 ===============
 Avec Skribble, vous et vos clients signez plus rapidement et en toute sécurité - des bilans aux états financiers annuels en passant par la planification fiscale.
 
-**Signez en toute sécurité :**
+**Souvent utilisé pour :**
 - Bilan et états financiers annuels
 - Accords avec les clients
 - Déclarations de décharge
@@ -215,24 +215,7 @@ avec exigences formelles juridiques ou avec un risque de responsabilité fort.
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< side-by-side top=24 width=narrow bottom=24 mobile-top=6 mobile-bottom=12 img=qes-increase img-position=right img-width=315 img-alt="Un homme est assis devant un ordinateur portable, au-dessus de lui se trouve une fenêtre de logiciel, où une femme se distingue avec une grande loupe et vérifie une carte d'identité." >}}
-{{% markdown %}}
-Laissez-vous identifier
-===============
-Cela vous permet d'activer la norme de signature électronique QES la plus élevée disponible. Vous avez seulement besoin d'un document de voyage valide (carte d'identité ou passeport).
-{{% /markdown %}}
-<br>
-{{< button
-  "Déverrouiller SEQ maintenant"
-  "/fr/debloquez-seq/"
-  ""
-  "outline"
->}}
-{{< /side-by-side >}}
-
-[//]: # (--------------------------------------------------------------------------------------------------------------)
-
-{{< content text=center top=24 width=narrow >}}
+{{< content text=center top=16 width=narrow >}}
 {{% markdown %}}
 ## Est-ce que ça va?
 {{% /markdown %}}

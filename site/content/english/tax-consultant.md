@@ -16,7 +16,7 @@ for tax consultants
 ===============
 With Skribble, you and your clients sign faster and more securely - from balance sheets and annual financial statements to tax planning.
 
-**Sign safely:**
+**Commonly used for:**
 - Balance sheet & annual accounts
 - Client agreements
 - Release declarations
@@ -217,7 +217,7 @@ between the signature standards AES and QES.**
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< content text=center top=24 width=narrow >}}
+{{< content text=center top=16 width=narrow >}}
 {{% markdown %}}
 ## All clear?
 {{% /markdown %}}

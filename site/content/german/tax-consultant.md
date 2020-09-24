@@ -215,24 +215,7 @@ den Signaturstandards EES, FES und QES wählen.**
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< side-by-side top=24 width=narrow bottom=24 mobile-top=6 mobile-bottom=12 img=qes-increase img-position=right img-width=315 img-alt="Ein Mann sitzt vor einem Laptop, über ihm befindet sich ein Software-Fenster, über dem eine Frau mit einer großen Lupe auffällt und einen Ausweis kontrolliert." >}}
-{{% markdown %}}
-Lassen Sie sich identifizieren
-===============
-Damit schalten Sie den höchsten verfügbaren E-Signatur-Standard QES frei. Sie benötigen nur ein gültiges Reisedokument (ID oder Pass).
-{{% /markdown %}}
-<br>
-{{< button
-  "Jetzt QES freischalten"
-  "/de/qes-freischalten/"
-  ""
-  "outline"
->}}
-{{< /side-by-side >}}
-
-[//]: # (--------------------------------------------------------------------------------------------------------------)
-
-{{< content text=center top=24 width=narrow >}}
+{{< content text=center top=16 width=narrow >}}
 {{% markdown %}}
 ## Alles klar?
 {{% /markdown %}}
@@ -256,6 +239,7 @@ Nicht ausschliesslich. Dank der visuellen Signatur ist auf dem ausgedruckten Ver
 {{% /collapsible %}}
 
 {{< /content >}}
+
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
