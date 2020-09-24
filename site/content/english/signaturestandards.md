@@ -238,7 +238,7 @@ It is legally valid for documents where the law does not prescribe a specific fo
 <th>Legal weight </th>
 <th>Identification requirements</th>
 <th>Area of application</th>
-<th>Examples</th>
+<th>Examples**</th>
 </tr>
 </thead>
 
@@ -266,6 +266,11 @@ It is legally valid for documents where the law does not prescribe a specific fo
 <td><ul><li>Documents without formal requirements with low liability risk</li></ul></td>
 <td><ul><li>Supplier offers</li><li>Orders</li><li>Organization internal documents</li><li>Announcements</li><li>Information letters</li><li>Informal documents</li></ul></td>
 </tr>
+
+<tr>
+<td colspan="5">**The choice of the e-signature standard depends on applicable formal requirements and internal policies and may differ from the listed examples. Consult a legal advisor for your specific case.</td>
+</tr>
+
 </tbody>
 
 {{< /table-dense >}}

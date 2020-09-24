@@ -241,7 +241,7 @@ Sie ist rechtsgültig bei Dokumenten, bei denen das Gesetz keine spezielle Form 
 <th>Beweiskraft</th>
 <th>Identifizierungs-Anforderungen</th>
 <th>Anwendungsbereich</th>
-<th>Anwendungsbeispiele</th>
+<th>Anwendungsbeispiele**</th>
 </tr>
 </thead>
 
@@ -268,6 +268,10 @@ Sie ist rechtsgültig bei Dokumenten, bei denen das Gesetz keine spezielle Form 
 <td><ul><li>E-Mail Adresse</li></ul></td>
 <td><ul><li>Informelle Dokumente</li></ul></td>
 <td><ul><li>Informationsschreiben</li><li>Bekanntmachungen</li><li>Organisationsinterne Dokumente</li></ul></td>
+</tr>
+
+<tr>
+<td colspan="5">**Die Wahl des E-Signatur-Standards ist von geltenden Formvorschriften und internen Richtlinien abhängig und kann von den aufgeführten Beispielen abweichen. Konsultieren Sie eine Rechtsberatung für Ihren konkreten Fall.</td>
 </tr>
 </tbody>
 

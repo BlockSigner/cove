@@ -240,7 +240,7 @@ Elle est juridiquement valable si la loi ne prescrit pas de forme particulière.
 <th>Force probante</th>
 <th>Prérequis d'identification</th>
 <th>Champ d'application	</th>
-<th>Exemples d'application</th>
+<th>Exemples d'application**</th>
 </tr>
 </thead>
 
@@ -267,6 +267,10 @@ Elle est juridiquement valable si la loi ne prescrit pas de forme particulière.
 <td><ul><li>Adresse électronique</li></ul></td>
 <td><ul><li>Documents sans exigences formelles juridiques avec un faible risque de responsabilité</li></ul></td>
 <td><ul><li>Offres des fournisseurs</li><li>Commandes/ordonnances</li><li>Documents internes de l'organisation</li><li>Annonces</li><li>Lettres d'information</li><li>Documents informels</li></ul></td>
+</tr>
+
+<tr>
+<td colspan="5">**Le choix de la norme de signature électronique dépend des exigences formelles applicables et des directives internes et peut différer des exemples donnés. Consultez un conseil juridique pour votre cas précis.</td>
 </tr>
 </tbody>
 
