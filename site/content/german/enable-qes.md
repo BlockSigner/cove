@@ -95,12 +95,11 @@ identifizieren
 ===============
 Zusammen mit unserem Partner Swisscom Trust Services bieten wir eine wachsende Zahl von Identifikationsstandorten in der ganzen Schweiz an.
 
-Zurzeit nur auf Englisch verfügbar.
 {{% /markdown %}}
 <br>
 {{< button
   "Standort finden"
-  "https://trustservices.swisscom.com/en/srs-direct/"
+  "https://trustservices.swisscom.com/srs-direct/"
   "_blank"
   "outline"
 >}}

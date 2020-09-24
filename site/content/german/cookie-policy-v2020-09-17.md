@@ -2,9 +2,9 @@
 title: Cookie-Richtlinie
 slug: cookie-richtlinie
 aliases:
-  - cookie-richtlinie/archive/20200819
+  - cookie-richtlinie/archive/20200917
 draft: false
-description: Cookie-Richtlinie (2020-08-19)
+description: Cookie-Richtlinie (2020-09-17)
 ---
 
 
@@ -12,7 +12,7 @@ description: Cookie-Richtlinie (2020-08-19)
 {{% markdown %}}
 # Cookie-Richtlinie
 
-<small>(Version 2020.08.19)</small>
+<small>(Version 2020.09.17)</small>
 
 {{% /markdown %}}
 
