@@ -77,7 +77,7 @@ Das Signieren mit Skribble ist intuitiv und in Sekundenschnelle erledigt. Sie er
 {{< side-by-side top=8 bottom=12 mobile-top=6 mobile-bottom=6 img=tax-consultant-3 img-width=500 img-position=right img-alt="Ein Kreis zeigt, wie ich von meiner Cloud heraus aus unterschreiben kann." >}}
 {{% markdown %}}
 ## Für jedes Dokument und jedes Mandat einsetzbar
-Verschiedene Dokumente, verschiedene Anforderungen. Mit Skribble können jede Art Dokument rechtsgültig  signieren – von Abschlüssen über Gestaltungen bis Freigabeerklärungen.
+Verschiedene Dokumente, verschiedene Anforderungen. Mit Skribble können Sie jede Art Dokument rechtsgültig signieren – von Abschlüssen über Gestaltungen bis Freigabeerklärungen.
 
 - Rechtsgültig für Verträge mit- und ohne Schriftformerfordernis
 - Weltweit intern und gegenüber extern einsetzbar
@@ -102,7 +102,7 @@ Integrieren Sie Skribble in Ihre Kanzlei-Software oder signieren Sie direkt übe
 
 {{< content text=center top=16 width=narrow >}}
 {{% markdown %}}
-## Mit Skribble erfüllen Sie die rechtlichen Anforderungen an Steuerberater-Prozesse
+## Mit Skribble erfüllen Sie die rechtlichen Anforderungen an Steuerberater
 Sie signieren rechtsgültig und sicher gemäss folgenden Erfordernissen:
 {{% /markdown %}}
 {{< /content >}}
@@ -116,7 +116,7 @@ Skribble arbeitet mit gesetzlich definierten E-Signatur-Standards: Die qualifizi
 Die auf Skribble verfügbare qualifizierte elektronische Signatur (QES) ist der handschriftlichen Signatur gleichgestellt gemäss nationalen Gesetzgebungen in der EU und der Schweiz (z.B. BGB in Deutschland) oder OR in der Schweiz).
 {{% /collapsible %}}
 
-{{% collapsible 3 "Datenschutz gemäss DSG/DSGVO" "check" %}}
+{{% collapsible 3 "Datenschutz gemäss DSGVO/ DSG" "check" %}}
 Skribble sowie Partner verwalten ihre Daten gemäss dem Bundesgesetz über den Datenschutz (DSG) sowie der europäischen Datenschutz-Grundverordnung (DSGVO) und hosten diese in der Schweiz nach Bankenstandard.
 {{% /collapsible %}}
 {{< /content >}}
@@ -125,10 +125,10 @@ Skribble sowie Partner verwalten ihre Daten gemäss dem Bundesgesetz über den D
 
 {{< content text=center top=24 width=narrow >}}
 {{% markdown %}}
-## Mit Skribble maximieren Sie die Beweiskraft Ihrer Signatur
-Das Gesetz unterscheidet drei Signaturstandards. Sie variieren
+## Alle E-Signatur-Standards aus einer Hand
+Das Gesetz unterscheidet drei E-Signatur-Signaturstandards. Sie variieren
 punkto Einsatzgebiet und Beweiskraft. Bei Skribbble erhalten 
-Sie alle Standards aus einer Hand.
+Sie alle.
 {{% /markdown %}}
 {{< /content >}}
 
