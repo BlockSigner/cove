@@ -1,5 +1,5 @@
 ---
-title: Identitätsprüfung für elektronisches Signieren
+title: Identifikation für elektronisches Signieren
 description: Jede E-Signatur muss eindeutig einer Person zugewiesen werden können. Die Verfahren unterscheiden sich je nach Anwendungsfall.
 draft: false
 slug: identifikation
