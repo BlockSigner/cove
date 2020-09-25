@@ -45,7 +45,7 @@ Die Identifikation wird in Zusammenarbeit mit unseren Partnern Swisscom Trust Se
 Schweiz: Identifikation 
 im persönlichen Kontakt
 ===============
-Lassen Sie sich im persönlichen Kontakt
+Kommen Sie an einem unserer Identifikationsstandorte vorbei.
 mit der ID-App von Swisscom identifizieren.
 {{% /markdown %}}
 {{< /content >}}
