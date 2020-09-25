@@ -13,10 +13,9 @@ og_image: og/og-skribble-hr.jpg
 Elektronisch 
 signieren im HR
 ===============
-Mit Skribble signierst du rechtssicher und einfach 
-auf digitalem Weg - von Arbeitsverträgen über Zeugnisse bis Lohnausweise.
+Mit Skribble signieren Sie rechtssicher und einfach auf digitalem Weg.
 
-**Unterschreiben sie sicher:**
+**Häufig eingesetzt für:**
 - Arbeitsverträge
 - Zeugnisse
 - Stundenlohnverträge
@@ -129,7 +128,7 @@ Skribble arbeitet mit gesetzlich definierten E-Signatur-Standards: Die qualifizi
 Die auf Skribble verfügbare qualifizierte elektronische Signatur (QES) ist der handschriftlichen Signatur gleichgestellt gemäss nationalen Gesetzgebungen der EU und in der Schweiz (z.B. BGB in Deutschland oder OR in der Schweiz).
 {{% /collapsible %}}
 
-{{% collapsible 3 "Datenschutz gemäss DSG/DSGVO" "check" %}}
+{{% collapsible 3 "Datenschutz gemäss DSGVO/ DSG" "check" %}}
 Skribble sowie Partner verwalten ihre Daten gemäss dem Bundesgesetz über den Datenschutz (DSG) sowie der europäischen Datenschutz-Grundverordnung (DSGVO) und hosten diese in der Schweiz nach Bankenstandard.
 {{% /collapsible %}}
 {{< /content >}}
@@ -163,10 +162,10 @@ Wie wir den Alltag unserer Kunden erleichtern.
 
 {{< content text=center top=16 width=narrow >}}
 {{% markdown %}}
-## Mit Skribble maximieren Sie die Beweiskraft Ihrer Signatur
-Das Gesetz unterscheidet drei Signaturstandards. Sie variieren
-punkto Einsatzgebiet und Beweiskraft. Bei Skribbble erhalten 
-Sie alle Standards aus einer Hand.
+## Mit Skribble können Sie jedes Dokument rechtsgültig elektronisch signieren
+Verschiedene Dokumente, verschiedene rechtliche Anforderungen –
+bei Skribble erhalten Sie alle Signaturstandards aus einer Hand
+und sind sind für jeden Anwendungsfall gerüstet.
 {{% /markdown %}}
 {{< /content >}}
 
