@@ -116,8 +116,8 @@ Implémentation à toute l’organisation en quelques jours seulement.
 {{< picture signaturestandard-teaser 90 "Une main avec un stylo plume signe un contrat vert." >}}
 
 {{% markdown %}}
-**Normes de signature**
-Quand dois-je utiliser la SES, quand la SEA, quand la SEQ?
+**SES, SEA ou SEQ?**
+Quand utiliser quelle norme de signature électronique.
 {{% /markdown %}}
 {{< /cta >}}
 {{< /cta-group >}}
