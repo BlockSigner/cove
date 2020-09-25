@@ -36,7 +36,7 @@ mit dem höchsten verfügbaren E-Signatur-Standard (QES).
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< logos-container top=12 bottom=24 width=wide title="">}}
+{{< logos-container top=12 bottom=24 width=wide title="Die erste Wahl von mehr als 250 Unternehmen mit höchsten Ansprüchen an Datenschutz und Sicherheit:">}}
   {{< logos-item src="logos/canon-116w.svg" alt="Canon">}}
   {{< logos-item src="logos/kellerhalscarrard-100w.svg" alt="Kellerhals Carrard">}}
   {{< logos-item src="logos/helvetia-150w.svg" alt="Helvetia Versicherung">}}

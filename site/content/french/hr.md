@@ -35,7 +35,7 @@ Avec Skribble, vous signez des documents juridiquement contraignants et faciles 
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< logos-container top=12 bottom=24 width=wide title="">}}
+{{< logos-container top=12 bottom=24 width=wide title="Le premier choix de plus de 250 entreprises ayant les plus hauts standards de protection des données et de sécurité :">}}
   {{< logos-item src="logos/canon-116w.svg" alt="Canon">}}
   {{< logos-item src="logos/helvetia-150w.svg" alt="Helvetia Versicherung">}}
   {{< logos-item src="logos/easyjet-132w.svg" alt="EasyJet">}}

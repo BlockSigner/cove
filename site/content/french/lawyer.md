@@ -38,7 +38,7 @@ avec la plus haute norme de signature électronique (SEQ).
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< logos-container top=12 bottom=24 width=wide title="">}}
+{{< logos-container top=12 bottom=24 width=wide title="Le premier choix de plus de 250 entreprises ayant les plus hauts standards de protection des données et de sécurité :">}}
   {{< logos-item src="logos/canon-116w.svg" alt="Canon">}}
   {{< logos-item src="logos/kellerhalscarrard-100w.svg" alt="Kellerhals Carrard">}}
   {{< logos-item src="logos/helvetia-150w.svg" alt="Helvetia Versicherung">}}
