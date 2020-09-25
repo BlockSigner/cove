@@ -112,8 +112,8 @@ Organisationsweite Einführung in wenigen Tagen.
 {{< picture signaturestandard-teaser 90 "Eine Hand mit einem Füllfederhalter unterzeichnet einen grünen Vertrag." >}}
 
 {{% markdown %}}
-**Signaturstandards**
-Wann nutze ich EES, wann FES, wann QES?
+**EES, FES oder QES?**
+Wann Sie welchen E-Signatur-Standard verwenden.
 {{% /markdown %}}
 {{< /cta >}}
 {{< /cta-group >}}
