@@ -45,7 +45,7 @@ with our partners Swisscom Trust Services and IdentityTM.
 Switzerland: Face-to-face
 identification
 ===============
-Get yourself identified by personal contact
+Drop in at one of our identification sites.
 with the Swisscom ID app.
 {{% /markdown %}}
 {{< /content >}}
