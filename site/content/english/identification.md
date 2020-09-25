@@ -112,8 +112,8 @@ Organisation-wide implementation within just a few days.
 {{< picture signaturestandard-teaser 90 "A hand with a fountain pen signs a green contract." >}}
 
 {{% markdown %}}
-**Signature standards**
-When do I use SES, when AES, when QES?
+**SES, AES or QES?**
+When to use which signature standard.
 {{% /markdown %}}
 {{< /cta >}}
 {{< /cta-group >}}
