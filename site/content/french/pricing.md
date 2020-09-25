@@ -40,7 +40,7 @@ Skribble permet de signer vos contrats en un clin d’œil – Validité mondial
   {{% /markdown %}}
   {{< /pricing-card >}}
 
-  {{< pricing-highlights title=Pointsforts >}}
+  {{< pricing-highlights title="Points forts" >}}
   {{% markdown %}}
   - Immédiatement utilisable su votre smartphone ou votre ordinateur
   - Fonctionne n’importe où, sans clé USB ou carte électronique
