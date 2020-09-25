@@ -43,7 +43,7 @@ with our partners Swisscom Trust Services and IdentityTM.
 {{< content text=center top=16 width=narrow >}}
 {{% markdown %}}
 Switzerland: Identification 
-by personal contact
+identification
 ===============
 Get yourself identified by personal contact
 with the Swisscom ID app.
