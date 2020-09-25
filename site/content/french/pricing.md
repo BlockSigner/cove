@@ -10,8 +10,8 @@ og_image: og/og-skribble-service.jpg
 
 {{< content text=center top=16 bottom=8 width=narrow >}}
 {{% markdown %}}
-# Plans et tarifs
-Avec Skribble, vous signez vos contrats en quelques secondes - valables légalement dans le monde entier, sécurisés selon les normes de protection des données les plus strictes en Suisse.
+# Plans tarifaires
+Skribble permet de signer vos contrats en un clin d’œil – Validité mondiale et sécurité répondant aux meilleurs standards suisses de protection des données.
 {{% /markdown %}}
 {{< /content >}}
 
@@ -22,11 +22,11 @@ Avec Skribble, vous signez vos contrats en quelques secondes - valables légalem
 {{< pricing-col >}}
   {{< pricing-card
     price=2.50
-    currency=CHF/
-    period=signature
-    small="jusqu'à un plafond de CHF 30.- par mois, plus les signatures des parties externes*."
+    currency=CHF
+    period=Signature
+    small="jusqu'à un plafond de 30 CHF, plus les signatures des parties externes*."
     feature="2 signatures par mois gratuites"
-    feature-small="*Si vous invitez d'autres personnes à signer, 2.00 à 2.50 CHF par signature est ajouté."
+    feature-small="*Si vous invitez d'autres personnes à signer, un montant supplémentaire de 2,00 à 2,50 CHF par signature est ajouté."
     cta-label="Démarrer"
     cta-href="https://my.skribble.com/signup/?lang=fr"
     cta-target=""
@@ -40,12 +40,12 @@ Avec Skribble, vous signez vos contrats en quelques secondes - valables légalem
   {{% /markdown %}}
   {{< /pricing-card >}}
 
-  {{< pricing-highlights title=Highlights >}}
+  {{< pricing-highlights title=Pointsforts >}}
   {{% markdown %}}
-  - Prêt pour une utilisation immédiate sur les smartphones et les ordinateurs de bureau
-  - Signez n'importe où et sans clé USB ni carte à puce
-  - Inviter d'autres personnes à signer par courrier électronique
-  - Signer plusieurs documents à la fois
+  - Immédiatement utilisable su votre smartphone ou votre ordinateur
+  - Fonctionne n’importe où, sans clé USB ou carte électronique
+  - Vous pouvez inviter par e-mail d’autres contacts à signer
+  - Vous pouvez signer plusieurs documents à la fois
   {{% /markdown %}}
   {{< /pricing-highlights >}}
 {{< /pricing-col >}}
@@ -54,38 +54,39 @@ Avec Skribble, vous signez vos contrats en quelques secondes - valables légalem
   {{< pricing-card
     featured=true
     price=85
-    currency=CHF/
-    period=mois
-    small="pour la facturation annuelle (1 020 CHF/an) pour la facturation mensuelle : 100 CHF/mois"
-    feature="600 signatures par an incluses"
-    feature-small="Des signatures supplémentaires sont exigées : CHF 1.20 (EES), CHF 1.70 (FES), CHF 2.50 (QES)."
-    cta-label="Démarrer"
-    cta-href="https://my.skribble.com/signup/?lang=fr"
-    cta-target=""
+    currency=CHF
+    period=Mois
+    small="Facture annuelle (1 020.−/ année) ou mensuelle (100.−/ mois)."
+    feature="600 signatures par année"
+    feature-small="compatibles avec toutes les normes de signature électronique. Les signatures supplémentaires coûtent CHF 1.20 (SES), CHF 1.70 (SEA) ou CHF 2.50 (SEQ)."
+    cta-label="Contacter les ventes"
+    cta-href="https://share.hsforms.com/1JHPHJU3QQz2TlyX14QDdKg309ws"
+    cta-target="_blank"
     more=""
   >}}
   {{% markdown %}}
   ## Business
-  Pour les entreprises et les services qui veulent se lancer immédiatement.
+  Pour les entreprises et les services qui veulent se lancer.
+  &nbsp;
   {{% /markdown %}}
   {{< /pricing-card >}}
 
-  {{< pricing-highlights title=Highlights >}}
+  {{< pricing-highlights title=Pointsforts >}}
   {{% markdown %}}
-  - Prêt à être utilisé dans toute l'entreprise en quelques jours 
-  - Administration centrale et gestion des membres
-  - Les utilisateurs externes peuvent signer sans compte Skribble
-  - Signer via le navigateur ou se connecter à ses propres systèmes via l'API
+  - Peut être étendu à l’ensemble de l’entreprise en quelques jours 
+  - Administration centrale et système de gestion des membres
+  - Les personnes externes peuvent signer sans disposer d’un compte Skribble
+  - Signer via le navigateur ou se connecter à son propre système via une API
   {{% /markdown %}}
   {{< /pricing-highlights >}}
 {{< /pricing-col >}}
 
 {{< pricing-col >}}
   {{< pricing-card
-    no-price-text="Offre individuelle"
-    small="Estimation sur demande - Veuillez contacter notre service commercial."
-    feature="Licence individuelle en volume"
-    feature-small="est conclu pour une période de 12 mois. "
+    no-price-text="Offre personnalisée"
+    small="Devis estimatif sur demande – Veuillez contacter notre service commercial."
+    feature="Volume fixé individuellement par contrat conclu pour 12 mois."
+    feature-small=""
     cta-label="Contacter les ventes"
     cta-href="https://share.hsforms.com/1JHPHJU3QQz2TlyX14QDdKg309ws"
     cta-target="_blank"
@@ -93,16 +94,16 @@ Avec Skribble, vous signez vos contrats en quelques secondes - valables légalem
   >}}
   {{% markdown %}}
   ## Enterprise
-  Pour les grandes entreprises qui apprécient un service et une flexibilité élevés.
+  Pour les grandes entreprises ayant des exigences élevées en matière de service et de flexibilité.
   {{% /markdown %}}
   {{< /pricing-card >}}
 
-  {{< pricing-highlights title=Highlights >}}
+  {{< pricing-highlights title=Pointsforts >}}
   {{% markdown %}}
-  - Responsable de compte personnel et soutien prioritaire
-  - Accord de niveau de service (SLA) avec garantie de haute disponibilité
-  - Single-Sign-On pour un accès facile pour tous les employés
-  - Options étendues pour l'image de marque et la personnalisation
+  - Interlocuteur personnel attitré et support en priorité
+  - Accord de service (SLA) avec garantie de haute disponibilité
+  - Authentification unique (SSO) pour un accès simplifié à tous les collaborateurs
+  - Options élargies pour la stratégie de marque et la personnalisation
   {{% /markdown %}}
   {{< /pricing-highlights >}}
 {{< /pricing-col >}}
@@ -116,7 +117,7 @@ Avec Skribble, vous signez vos contrats en quelques secondes - valables légalem
   <div class="pricing-table__legend hide-for-desktop">
     <div class="pricing-table__legend-title">Features vergleichen</div>
     <div class="pricing-table__legend-plans">
-      <span>P - Fair Flat</span>
+      <span>F - Fair Flat</span>
       <span>B - Business</span>
       <span>E - Enterprise</span>
     </div>
@@ -124,9 +125,9 @@ Avec Skribble, vous signez vos contrats en quelques secondes - valables légalem
   <table>
     <thead>
       <tr>
-        <th>Signieren</th>
+        <th>Signer</th>
         <th>
-          <span class="hide-for-desktop">P</span>
+          <span class="hide-for-desktop">F</span>
           <span class="hide-for-mobile">Fair Flat</span></th>
         <th>
           <span class="hide-for-desktop">B</span>
@@ -140,32 +141,32 @@ Avec Skribble, vous signez vos contrats en quelques secondes - valables légalem
     </thead>
     <tbody>
       <tr>
-        <td>Qualifizierte elektronische Signatur (QES)</td>
+        <td>Signature électronique qualifiée (SEQ) </td>
         <td>{{< pricing-check >}}</td>
         <td>{{< pricing-check filled=true >}}</td>
         <td>{{< pricing-check >}}</td>
       </tr>
       <tr>
-        <td>Fortgeschrittene elektronische Signatur (FES)</td>
+        <td>Signature électronique avancée (SEA)</td>
         <td>{{< pricing-check >}}</td>
         <td>{{< pricing-check filled=true >}}</td>
         <td>{{< pricing-check >}}</td>
       </tr>
       <tr>
-        <td>Einfache elektronische Signatur (EES)</td>
+        <td>Signature électronique simple (SES)</td>
         <td>{{< pricing-check >}}</td>
         <td>{{< pricing-check filled=true >}}</td>
         <td>{{< pricing-check >}}</td>
       </tr>
       <tr>
-        <td>Weltweite Rechtsgültigkeit</td>
+        <td>Validité mondiale (conforme à eIDAS, SCSE, UETA, ESIGN entre autres)</td>
         <td>{{< pricing-check >}}</td>
         <td>{{< pricing-check filled=true >}}</td>
         <td>{{< pricing-check >}}</td>
       </tr>
       <tr>
         <td>
-          Elektronisches Siegel (Organisationssignatur)
+          Sceau électronique (signature d’entreprise)
           <div class="pricing-table__mobile-details  hide-for-desktop">
             <span>{{< pricing-info filled=true >}} <strong>B</strong>: Auf Anfrage</span>
             <span>{{< pricing-info >}} <strong>E</strong>: Auf Anfrage</span>
@@ -174,95 +175,92 @@ Avec Skribble, vous signez vos contrats en quelques secondes - valables légalem
         <td>—</td>
         <td>
           <span class="hide-for-desktop">{{< pricing-info filled=true >}}</span>
-          <span class="hide-for-mobile">Auf Anfrage</span>
+          <span class="hide-for-mobile">Sur demande</span>
         </td>
         <td>
           <span class="hide-for-desktop">{{< pricing-info >}}</span>
-          <span class="hide-for-mobile">Auf Anfrage</span>
+          <span class="hide-for-mobile">Sur demande</span>
         </td>
       </tr>
       <tr>
-        <td>Per E-Mail zum Signieren einladen</td>
+        <td>Invitation à signer par e-mail</td>
         <td>{{< pricing-check >}}</td>
         <td>{{< pricing-check filled=true >}}</td>
         <td>{{< pricing-check >}}</td>
       </tr>
       <tr>
-        <td>Signieren via Smartphone und Desktop</td>
+        <td>Signer via un smartphone ou un ordinateur</td>
         <td>{{< pricing-check >}}</td>
         <td>{{< pricing-check filled=true >}}</td>
         <td>{{< pricing-check >}}</td>
       </tr>
       <tr>
-        <td>Externe können ohne Skribble-Konto signieren (EES-Standard)</td>
+        <td>Les personnes externes peuvent signer sans compte Skribble (standard SES)</td>
         <td>{{< pricing-check >}}</td>
         <td>{{< pricing-check filled=true >}}</td>
         <td>{{< pricing-check >}}</td>
       </tr>
       <tr>
-        <td>Externe können ohne Skribble-Konto signieren (alle E-Signatur-Standards, mit API-Anbindung)</td>
+        <td>Les personnes externes peuvent signer sans compte Skribble (toutes les normes de signature électronique, avec connexion API)</td>
         <td>—</td>
         <td>{{< pricing-check filled=true >}}</td>
         <td>{{< pricing-check >}}</td>
       </tr>
       <tr>
-        <td>Mehrere Dokumente auf einmal hochladen</td>
+        <td>Télécharger en une fois plusieurs documents</td>
         <td>{{< pricing-check >}}</td>
         <td>{{< pricing-check filled=true >}}</td>
         <td>{{< pricing-check >}}</td>
       </tr>
       <tr>
-        <td>Mehrere Dokumente auf einmal signieren</td>
+        <td>Signer en une fois plusieurs documents</td>
         <td>{{< pricing-check >}}</td>
         <td>{{< pricing-check filled=true >}}</td>
         <td>{{< pricing-check >}}</td>
       </tr>
       <tr>
-        <td>Visuelle Signatur gestalten und anbringen</td>
+        <td>Définir et placer la signature visuelle</td>
         <td>{{< pricing-check >}}</td>
         <td>{{< pricing-check filled=true >}}</td>
         <td>{{< pricing-check >}}</td>
       </tr>
       <tr>
-        <td>Signatureinladung ablehnen</td>
+        <td>Refuser l’invitation à signer</td>
         <td>{{< pricing-check >}}</td>
         <td>{{< pricing-check filled=true >}}</td>
         <td>{{< pricing-check >}}</td>
       </tr>
       <tr>
-        <td>Signatur jemand anderem zuweisen</td>
+        <td>Attribuer la signature à quelqu’un d’autre</td>
         <td>{{< pricing-check >}}</td>
         <td>{{< pricing-check filled=true >}}</td>
         <td>{{< pricing-check >}}</td>
       </tr>
       <tr>
-        <td>Fehlende Signierende einladen</td>
+        <td>Inviter les signataires manquants</td>
         <td>{{< pricing-check >}}</td>
         <td>{{< pricing-check filled=true >}}</td>
         <td>{{< pricing-check >}}</td>
       </tr>
       <tr class="no-border hide-for-mobile">
         <td></td>
-        <td>{{< button "Jetzt loslegen" "" "" outline >}}</td>
-        <td>{{< button "Jetzt loslegen" >}}</td>
-        <td>{{< button "Sales kontaktieren" "" "" outline >}}</td>
+        <td>{{< button "Démarrer" "https://my.skribble.com/signup/?lang=fr" "" outline >}}</td>
+        <td>{{< button "Contacter les ventes" "https://share.hsforms.com/1JHPHJU3QQz2TlyX14QDdKg309ws" "_blank" >}}</td>
+        <td>{{< button "Contacter les ventes" "https://share.hsforms.com/1JHPHJU3QQz2TlyX14QDdKg309ws" "_blank" outline >}}</td>
       <tr>
     </tbody>
   </table>
   <div class="pricing-table__btn hide-for-desktop">
     <div class="pricing-table__plan-title">Fair Flat</div>
-    {{< button "Jetzt loslegen" "" "" outline >}}
-    <a class="pricing-table__more" href="">More</a>
+    {{< button "Démarrer" "https://my.skribble.com/signup/?lang=fr" "" outline >}}
   </div>
   <div class="pricing-table__btn hide-for-desktop">
     <div class="pricing-table__plan-title">Business</div>
-    {{< button "Jetzt loslegen" "" "" >}}
-    <a class="pricing-table__more" href="">More</a>
+    {{< button "Contacter les ventes" "https://share.hsforms.com/1JHPHJU3QQz2TlyX14QDdKg309ws" "_blank" >}}
   </div>
   <div class="pricing-table__btn hide-for-desktop">
     <div class="pricing-table__plan-title">Enterprise</div>
-    {{< button "Jetzt loslegen" "" "" outline >}}
-    <a class="pricing-table__more" href="">More</a>
+    {{< button "Contacter les ventes" "https://share.hsforms.com/1JHPHJU3QQz2TlyX14QDdKg309ws" "_blank" outline >}}
   </div>
 {{< /pricing-table >}}
 {{< /pricing-group >}}
@@ -274,9 +272,9 @@ Avec Skribble, vous signez vos contrats en quelques secondes - valables légalem
   <table>
     <thead>
       <tr>
-        <th>Verwalten und integrieren</th>
+        <th>Gérer et intégrer</th>
         <th>
-          <span class="hide-for-desktop">P</span>
+          <span class="hide-for-desktop">F</span>
           <span class="hide-for-mobile">Fair Flat</span></th>
         <th>
           <span class="hide-for-desktop">B</span>
@@ -290,75 +288,72 @@ Avec Skribble, vous signez vos contrats en quelques secondes - valables légalem
     </thead>
     <tbody>
       <tr>
-        <td>Zentrale Mitgliederverwaltung</td>
+        <td>Administration centrale des membres</td>
         <td>—</td>
         <td>{{< pricing-check filled=true >}}</td>
         <td>{{< pricing-check >}}</td>
       </tr>
       <tr>
-        <td>Administrationsrechte vergeben</td>
+        <td>Déléguer des droits d’administration</td>
         <td>—</td>
         <td>{{< pricing-check filled=true >}}</td>
         <td>{{< pricing-check >}}</td>
       </tr>
       <tr>
-        <td>Aktivitätsübersicht</td>
+        <td>Aperçu des activités</td>
         <td>—</td>
         <td>{{< pricing-check filled=true >}}</td>
         <td>{{< pricing-check >}}</td>
       </tr>
       <tr>
-        <td>Anmelden mit Unternehmenskonto (Single-Sign-On, SSO)</td>
+        <td>Se connecter avec le compte de l’entreprise (authentification unique, SSO)</td>
         <td>—</td>
         <td>—</td>
         <td>{{< pricing-check >}}</td>
       </tr>
       <tr>
-        <td>Mitarbeitende automatisch hinzufügen (Managed Domains)</td>
+        <td>Rajouter automatiquement des collaborateurs (managed domains)</td>
         <td>—</td>
         <td>{{< pricing-check filled=true >}}</td>
         <td>{{< pricing-check >}}</td>
       </tr>
       <tr>
-        <td>API-Anbindung</td>
+        <td>Connexion API</td>
         <td>—</td>
         <td>{{< pricing-check filled=true >}}</td>
         <td>{{< pricing-check >}}</td>
       </tr>
       <tr>
-        <td>API-Schlüssel selbst generieren</td>
+        <td>Générer soi-même les clés API</td>
         <td>—</td>
         <td>{{< pricing-check filled=true >}}</td>
         <td>{{< pricing-check >}}</td>
       </tr>
       <tr>
-        <td>API-Testing mit Demo-Account</td>
+        <td>Test API avec compte de démonstration</td>
         <td>—</td>
         <td>{{< pricing-check filled=true >}}</td>
         <td>{{< pricing-check >}}</td>
       </tr>
       <tr class="no-border hide-for-mobile">
         <td></td>
-        <td>{{< button "Jetzt loslegen" "" "" outline >}}</td>
-        <td>{{< button "Jetzt loslegen" >}}</td>
-        <td>{{< button "Sales kontaktieren" "" "" outline >}}</td>
-      </tr>
+        <td>{{< button "Démarrer" "https://my.skribble.com/signup/?lang=fr" "" outline >}}</td>
+        <td>{{< button "Contacter les ventes" "https://share.hsforms.com/1JHPHJU3QQz2TlyX14QDdKg309ws" "_blank" >}}</td>
+        <td>{{< button "Contacter les ventes" "https://share.hsforms.com/1JHPHJU3QQz2TlyX14QDdKg309ws" "_blank" outline >}}</td>
+      <tr>
     </tbody>
   </table>
   <div class="pricing-table__btn hide-for-desktop">
     <div class="pricing-table__plan-title">Fair Flat</div>
-    {{< button "Jetzt loslegen" "" "" outline >}}
-    <a class="pricing-table__more" href="">More</a>
+    {{< button "Démarrer" "https://my.skribble.com/signup/?lang=fr" "" outline >}}
   </div>
   <div class="pricing-table__btn hide-for-desktop">
     <div class="pricing-table__plan-title">Business</div>
-    {{< button "Jetzt loslegen" "" "" >}}
-    <a class="pricing-table__more" href="">More</a>
+    {{< button "Contacter les ventes" "https://share.hsforms.com/1JHPHJU3QQz2TlyX14QDdKg309ws" "_blank" >}}
   </div>
   <div class="pricing-table__btn hide-for-desktop">
     <div class="pricing-table__plan-title">Enterprise</div>
-    {{< button "Jetzt loslegen" "" "" outline >}}
-    <a class="pricing-table__more" href="">More</a>
+    {{< button "Contacter les ventes" "https://share.hsforms.com/1JHPHJU3QQz2TlyX14QDdKg309ws" "_blank" outline >}}
   </div>
 {{< /pricing-table >}}
 {{< /pricing-group >}}
@@ -370,9 +365,9 @@ Avec Skribble, vous signez vos contrats en quelques secondes - valables légalem
   <table>
     <thead>
       <tr>
-        <th>Personalisieren</th>
+        <th>Personnaliser</th>
         <th>
-          <span class="hide-for-desktop">P</span>
+          <span class="hide-for-desktop">F</span>
           <span class="hide-for-mobile">Fair Flat</span></th>
         <th>
           <span class="hide-for-desktop">B</span>
@@ -386,81 +381,78 @@ Avec Skribble, vous signez vos contrats en quelques secondes - valables légalem
     </thead>
     <tbody>
       <tr>
-        <td>Hinzufügen persönlicher Nachricht beim Einladen, Zuweisen, Ablehnen</td>
+        <td>Ajouter un message personnel lors des invitations, attributions, refus</td>
         <td>{{< pricing-check >}}</td>
         <td>{{< pricing-check filled=true >}}</td>
         <td>{{< pricing-check >}}</td>
       </tr>
       <tr>
         <td>
-          Erweiterten Anpassungsmöglichkeiten für visuelle Signatur (z.B. QR-Code entfernen)
+          Possibilités d’adaptation élargies pour la signature visuelle (p. ex. suppression du QR-Code)
           <div class="pricing-table__mobile-details hide-for-desktop">
-            <span>{{< pricing-info >}} CHF 24.– / Jahr<br>CHF 2.50 / Monat</span>
+            <span>{{< pricing-info >}} CHF 24.– / année<br>CHF 2.50 / mois</span>
           </div>
         </td>
         <td>
           <span class="hide-for-desktop">{{< pricing-info >}}</span>
-          <span class="hide-for-mobile">CHF 24.– / Jahr<br>CHF 2.50 / Monat</span>
+          <span class="hide-for-mobile">CHF 24.– / année<br>CHF 2.50 / mois</span>
         </td>
         <td>{{< pricing-check filled=true >}}</td>
         <td>{{< pricing-check >}}</td>
       </tr>
       <tr>
         <td>
-          Visuelles Siegel gestalten und anbringen (Organisationssignatur)
+          Définir et placer la signature visuelle du sceau électronique (signatrure d’entreprise) 
           <div class="pricing-table__mobile-details hide-for-desktop">
-            <span>{{< pricing-info >}} Coming soon</span>
+            <span>{{< pricing-info >}} Prochainement disponible</span>
           </div>
         </td>
         <td>—</td>
         <td>—</td>
         <td>
           <span class="hide-for-desktop">{{< pricing-info >}}</span>
-          <span class="hide-for-mobile">Coming soon</span>
+          <span class="hide-for-mobile">Prochainement disponible</span>
         </td>
       </tr>
       <tr>
         <td>
-          Company Branding mit eigenem Logo
+          Identité visuelle avec logo
           <div class="pricing-table__mobile-details hide-for-desktop">
-            <span>{{< pricing-info filled=true >}} CHF 1’500 / Jahr<br>CHF 150 /Monat</span>
+            <span>{{< pricing-info filled=true >}} CHF 1’500 / année<br>CHF 150 / mois</span>
           </div>
         </td>
         <td>—</td>
         <td>
           <span class="hide-for-desktop">{{< pricing-info filled=true >}}</span>
-          <span class="hide-for-mobile">CHF 1’500 / Jahr<br>CHF 150 /Monat</span>
+          <span class="hide-for-mobile">CHF 1’500 / année<br>CHF 150 / mois</span>
         </td>
         <td>—</td>
       </tr>
       <tr>
-        <td>Automatisierte Löschung finalisierter Dokumente nach benutzerdefinierter Frist</td>
+        <td>Suppression automatique des documents finaux après un délai déterminé</td>
         <td>—</td>
         <td>—</td>
         <td>{{< pricing-check >}}</td>
       </tr>
       <tr class="no-border hide-for-mobile">
         <td></td>
-        <td>{{< button "Jetzt loslegen" "" "" outline >}}</td>
-        <td>{{< button "Jetzt loslegen" >}}</td>
-        <td>{{< button "Sales kontaktieren" "" "" outline >}}</td>
-      </tr>
+        <td>{{< button "Démarrer" "https://my.skribble.com/signup/?lang=fr" "" outline >}}</td>
+        <td>{{< button "Contacter les ventes" "https://share.hsforms.com/1JHPHJU3QQz2TlyX14QDdKg309ws" "_blank" >}}</td>
+        <td>{{< button "Contacter les ventes" "https://share.hsforms.com/1JHPHJU3QQz2TlyX14QDdKg309ws" "_blank" outline >}}</td>
+      <tr>
     </tbody>
   </table>
   <div class="pricing-table__btn hide-for-desktop">
     <div class="pricing-table__plan-title">Fair Flat</div>
-    {{< button "Jetzt loslegen" "" "" outline >}}
-    <a class="pricing-table__more" href="">More</a>
+    {{< button "Démarrer" "https://my.skribble.com/signup/?lang=fr" "" outline >}}
   </div>
   <div class="pricing-table__btn hide-for-desktop">
     <div class="pricing-table__plan-title">Business</div>
-    {{< button "Jetzt loslegen" "" "" >}}
-    <a class="pricing-table__more" href="">More</a>
+    {{< button "Contacter les ventes" "https://share.hsforms.com/1JHPHJU3QQz2TlyX14QDdKg309ws" "_blank" >}}
   </div>
   <div class="pricing-table__btn hide-for-desktop">
     <div class="pricing-table__plan-title">Enterprise</div>
-    {{< button "Jetzt loslegen" "" "" outline >}}
-    <a class="pricing-table__more" href="">More</a>
+    {{< button "Contacter les ventes" "https://share.hsforms.com/1JHPHJU3QQz2TlyX14QDdKg309ws" "_blank" outline >}}
   </div>
 {{< /pricing-table >}}
 {{< /pricing-group >}}
@@ -474,7 +466,7 @@ Avec Skribble, vous signez vos contrats en quelques secondes - valables légalem
       <tr>
         <th>Service & Support</th>
         <th>
-          <span class="hide-for-desktop">P</span>
+          <span class="hide-for-desktop">F</span>
           <span class="hide-for-mobile">Fair Flat</span></th>
         <th>
           <span class="hide-for-desktop">B</span>
@@ -488,18 +480,18 @@ Avec Skribble, vous signez vos contrats en quelques secondes - valables légalem
     </thead>
     <tbody>
       <tr>
-        <td>Help Center</td>
+        <td>Centre d’assistance</td>
         <td>{{< pricing-check >}}</td>
         <td>{{< pricing-check filled=true >}}</td>
         <td>{{< pricing-check >}}</td>
       </tr>
       <tr>
         <td>
-          Technischer Support (E-Mail, Telefon, Chat)
+          Support technique (e-mail, téléphone, chat)
           <div class="pricing-table__mobile-details  hide-for-desktop">
             <span>{{< pricing-info >}} <strong>P</strong>: Standard</span>
             <span>{{< pricing-info filled=true >}} <strong>B</strong>: Standard</span>
-            <span>{{< pricing-info >}} <strong>E</strong>: Priority</span>
+            <span>{{< pricing-info >}} <strong>E</strong>: Prioritaire</span>
           </div>
         </td>
         <td>
@@ -512,91 +504,88 @@ Avec Skribble, vous signez vos contrats en quelques secondes - valables légalem
         </td>
         <td>
           <span class="hide-for-desktop">{{< pricing-info >}}</span>
-          <span class="hide-for-mobile">Priority</span>
+          <span class="hide-for-mobile">Prioritaire</span>
         </td>
       </tr>
       <tr>
-        <td>Nutzungsanleitung für Administratoren</td>
+        <td>Notice d’utilisation pour les administrateurs</td>
         <td>—</td>
         <td>{{< pricing-check filled=true >}}</td>
         <td>{{< pricing-check >}}</td>
       </tr>
       <tr>
-        <td>Customer Success Team</td>
+        <td>Service après-vente</td>
         <td>—</td>
         <td>{{< pricing-check filled=true >}}</td>
         <td>—</td>
       </tr>
       <tr>
-        <td>Dedicated Customer Success Manager</td>
+        <td>Interlocuteur attitré pour le service après-vente</td>
         <td>—</td>
         <td>—</td>
         <td>{{< pricing-check >}}</td>
       </tr>
       <tr>
-        <td>Persönlicher Account Executive</td>
+        <td>Gestionnaire de compte personnel</td>
         <td>—</td>
         <td>—</td>
         <td>{{< pricing-check >}}</td>
       </tr>
       <tr>
-        <td>Unterstützung beim Onboarding</td>
+        <td>Soutien lors de la prise en main</td>
         <td>—</td>
         <td>{{< pricing-check filled=true >}}</td>
         <td>{{< pricing-check >}}</td>
       </tr>
       <tr>
-        <td>Service Level Agreement (SLA)</td>
+        <td>Accord de service (SLA)</td>
         <td>—</td>
         <td>—</td>
         <td>{{< pricing-check >}}</td>
       </tr>
       <tr>
-        <td>Benutzerdefinierte Rechnungsstellung (z.B. Währung und Rechnungsperiode)</td>
+        <td>Décompte défini en fonction de l’utilisateur (p. ex. devise et période de facturation)</td>
         <td>—</td>
         <td>—</td>
         <td>{{< pricing-check >}}</td>
       </tr>
       <tr>
         <td>
-          Security Audits (z.B. Penetration Test)
+          Audits de sécurité (p. ex. test de pénétration)
           <div class="pricing-table__mobile-details  hide-for-desktop">
-            <span>{{< pricing-info filled=true >}} <strong>B</strong>: Auf Anfrage</span>
-            <span>{{< pricing-info >}} <strong>E</strong>: Auf Anfrage</span>
+            <span>{{< pricing-info filled=true >}} <strong>B</strong>: Sur demande</span>
+            <span>{{< pricing-info >}} <strong>E</strong>: Sur demande</span>
           </div>
         </td>
         <td>—</td>
         <td>
           <span class="hide-for-desktop">{{< pricing-info filled=true >}}</span>
-          <span class="hide-for-mobile">Auf Anfrage</span>
+          <span class="hide-for-mobile">Sur demande</span>
         </td>
         <td>
           <span class="hide-for-desktop">{{< pricing-info >}}</span>
-          <span class="hide-for-mobile">Auf Anfrage</span>
+          <span class="hide-for-mobile">Sur demande</span>
         </td>
       </tr>
       <tr class="no-border hide-for-mobile">
         <td></td>
-        <td>{{< button "Jetzt loslegen" "" "" outline >}}</td>
-        <td>{{< button "Jetzt loslegen" >}}</td>
-        <td>{{< button "Sales kontaktieren" "" "" outline >}}</td>
-      </tr>
+        <td>{{< button "Démarrer" "https://my.skribble.com/signup/?lang=fr" "" outline >}}</td>
+        <td>{{< button "Contacter les ventes" "https://share.hsforms.com/1JHPHJU3QQz2TlyX14QDdKg309ws" "_blank" >}}</td>
+        <td>{{< button "Contacter les ventes" "https://share.hsforms.com/1JHPHJU3QQz2TlyX14QDdKg309ws" "_blank" outline >}}</td>
+      <tr>
     </tbody>
   </table>
   <div class="pricing-table__btn hide-for-desktop">
     <div class="pricing-table__plan-title">Fair Flat</div>
-    {{< button "Jetzt loslegen" "" "" outline >}}
-    <a class="pricing-table__more" href="">More</a>
+    {{< button "Démarrer" "https://my.skribble.com/signup/?lang=fr" "" outline >}}
   </div>
   <div class="pricing-table__btn hide-for-desktop">
     <div class="pricing-table__plan-title">Business</div>
-    {{< button "Jetzt loslegen" "" "" >}}
-    <a class="pricing-table__more" href="">More</a>
+    {{< button "Contacter les ventes" "https://share.hsforms.com/1JHPHJU3QQz2TlyX14QDdKg309ws" "_blank" >}}
   </div>
   <div class="pricing-table__btn hide-for-desktop">
     <div class="pricing-table__plan-title">Enterprise</div>
-    {{< button "Jetzt loslegen" "" "" outline >}}
-    <a class="pricing-table__more" href="">More</a>
+    {{< button "Contacter les ventes" "https://share.hsforms.com/1JHPHJU3QQz2TlyX14QDdKg309ws" "_blank" outline >}}
   </div>
 {{< /pricing-table >}}
 {{< /pricing-group >}}
@@ -608,9 +597,9 @@ Avec Skribble, vous signez vos contrats en quelques secondes - valables légalem
   <table>
     <thead>
       <tr>
-        <th>Identifikationsoptionen und -services</th>
+        <th>Options et services d’identification </th>
         <th>
-          <span class="hide-for-desktop">P</span>
+          <span class="hide-for-desktop">F</span>
           <span class="hide-for-mobile">Fair Flat</span></th>
         <th>
           <span class="hide-for-desktop">B</span>
@@ -624,129 +613,126 @@ Avec Skribble, vous signez vos contrats en quelques secondes - valables légalem
     </thead>
     <tbody>
       <tr>
-        <td class="pricing-table__plan-title">EES</td>
+        <td class="pricing-table__plan-title">SES</td>
         <td></td>
         <td></td>
         <td></td>
       </tr>
       <tr>
-        <td>E-mail-Adresse</td>
+        <td>Adresse e-mail</td>
         <td>{{< pricing-check >}}</td>
         <td>{{< pricing-check filled=true >}}</td>
         <td>{{< pricing-check >}}</td>
       </tr>
       <tr>
-        <td class="pricing-table__plan-title">FES</td>
+        <td class="pricing-table__plan-title">SEA</td>
         <td></td>
         <td></td>
         <td></td>
       </tr>
       <tr>
-        <td>Schweizer Mobiltelefonnummer</td>
+        <td>Numéro de téléphone mobile suisse</td>
         <td>{{< pricing-check >}}</td>
         <td>{{< pricing-check filled=true >}}</td>
         <td>{{< pricing-check >}}</td>
       </tr>
       <tr>
-        <td>E-IDs (Level of Trust 2)</td>
+        <td>E-IDs (Level of Assurance LoA 3)</td>
         <td>{{< pricing-check >}}</td>
         <td>{{< pricing-check filled=true >}}</td>
         <td>{{< pricing-check >}}</td>
       </tr>
       <tr>
         <td>
-          Firmen-E-Mail-Adresse (FES für Business)
+          Adresse e-mail de l‘entreprise (SEA pour Business)
           <div class="pricing-table__mobile-details  hide-for-desktop">
-            <span>{{< pricing-info filled=true >}} CHF 890.-, einmalig</span>
+            <span>{{< pricing-info filled=true >}} CHF 890.-, (montant unique)</span>
           </div>
         </td>
         <td>—</td>
         <td>
           <span class="hide-for-desktop">{{< pricing-info filled=true >}}</span>
-          <span class="hide-for-mobile">CHF 890.-, einmalig</span>
+          <span class="hide-for-mobile">CHF 890.-, (montant unique)</span>
         </td>
         <td>{{< pricing-check >}}</td>
       </tr>
       <tr>
-        <td class="pricing-table__plan-title">QES</td>
+        <td class="pricing-table__plan-title">SEQ</td>
         <td></td>
         <td></td>
         <td></td>
       </tr>
       <tr>
-        <td>E-IDs (Level of Trust 3)</td>
+        <td>E-IDs (Level of Assurance LoA 4)</td>
         <td>{{< pricing-check >}}</td>
         <td>{{< pricing-check filled=true >}}</td>
         <td>{{< pricing-check >}}</td>
       </tr>
       <tr>
         <td>
-          Identifikation selbst mit ID-App von Swisscom durchführen
+          Procéder soi-même à l’identification avec l‘ID-app (après une séance d‘instruction)
           <div class="pricing-table__mobile-details  hide-for-desktop">
-            <span>{{< pricing-info filled=true >}} <strong>B</strong>: CHF 1’900.-, einmalig</span>
-            <span>{{< pricing-info >}} <strong>E</strong>: CHF 1’900.-, einmalig</span>
+            <span>{{< pricing-info filled=true >}} <strong>B</strong>: CHF 1’900.-, (montant unique)</span>
+            <span>{{< pricing-info >}} <strong>E</strong>: CHF 1’900.-, (montant unique)</span>
           </div>
         </td>
         <td>—</td>
         <td>
           <span class="hide-for-desktop">{{< pricing-info filled=true >}}</span>
-          <span class="hide-for-mobile">CHF 1’900.-, einmalig</span>
+          <span class="hide-for-mobile">CHF 1’900.-, (montant unique)</span>
         </td>
         <td>
           <span class="hide-for-desktop">{{< pricing-info >}}</span>
-          <span class="hide-for-mobile">CHF 1’900.-, einmalig</span>
+          <span class="hide-for-mobile">CHF 1’900.-, (montant unique)</span>
         </td>
       </tr>
       <tr>
         <td>
-          Remote Identifikation (z.B. online via Video)
+          Identification à distance (p. ex. en ligne par vidéo)
           <div class="pricing-table__mobile-details  hide-for-desktop">
-            <span>{{< pricing-info >}} <strong>P</strong>: CHF 19.-, einmalig</span>
-            <span>{{< pricing-info filled=true >}} <strong>B</strong>: CHF 19.-, einmalig</span>
-            <span>{{< pricing-info >}} <strong>E</strong>: CHF 19.-, einmalig</span>
+            <span>{{< pricing-info >}} <strong>P</strong>: CHF 19.-, (montant unique)</span>
+            <span>{{< pricing-info filled=true >}} <strong>B</strong>: CHF 19.-, (montant unique)</span>
+            <span>{{< pricing-info >}} <strong>E</strong>: CHF 19.-, (montant unique)</span>
           </div>
         </td>
         <td>
           <span class="hide-for-desktop">{{< pricing-info filled=true >}}</span>
-          <span class="hide-for-mobile">CHF 19.-, einmalig</span>
+          <span class="hide-for-mobile">CHF 19.-, (montant unique)</span>
         </td>
         <td>
           <span class="hide-for-desktop">{{< pricing-info >}}</span>
-          <span class="hide-for-mobile">CHF 19.-, einmalig</span>
+          <span class="hide-for-mobile">CHF 19.-, (montant unique)</span>
         </td>
         <td>
           <span class="hide-for-desktop">{{< pricing-info >}}</span>
-          <span class="hide-for-mobile">CHF 19.-, einmalig</span>
+          <span class="hide-for-mobile">CHF 19.-, (montant unique)</span>
         </td>
       </tr>
       <tr>
-        <td>Persönliche Identifikation (an einem Identifikationsstandort)</td>
+        <td>Identification personnelle (dans un site d‘identification)</td>
         <td>{{< pricing-check >}}</td>
         <td>{{< pricing-check filled=true >}}</td>
         <td>{{< pricing-check >}}</td>
       </tr>
       <tr class="no-border hide-for-mobile">
         <td></td>
-        <td>{{< button "Jetzt loslegen" "" "" outline >}}</td>
-        <td>{{< button "Jetzt loslegen" >}}</td>
-        <td>{{< button "Sales kontaktieren" "" "" outline >}}</td>
-      </tr>
+        <td>{{< button "Démarrer" "https://my.skribble.com/signup/?lang=fr" "" outline >}}</td>
+        <td>{{< button "Contacter les ventes" "https://share.hsforms.com/1JHPHJU3QQz2TlyX14QDdKg309ws" "_blank" >}}</td>
+        <td>{{< button "Contacter les ventes" "https://share.hsforms.com/1JHPHJU3QQz2TlyX14QDdKg309ws" "_blank" outline >}}</td>
+      <tr>
     </tbody>
   </table>
   <div class="pricing-table__btn hide-for-desktop">
     <div class="pricing-table__plan-title">Fair Flat</div>
-    {{< button "Jetzt loslegen" "" "" outline >}}
-    <a class="pricing-table__more" href="">More</a>
+    {{< button "Démarrer" "https://my.skribble.com/signup/?lang=fr" "" outline >}}
   </div>
   <div class="pricing-table__btn hide-for-desktop">
     <div class="pricing-table__plan-title">Business</div>
-    {{< button "Jetzt loslegen" "" "" >}}
-    <a class="pricing-table__more" href="">More</a>
+    {{< button "Contacter les ventes" "https://share.hsforms.com/1JHPHJU3QQz2TlyX14QDdKg309ws" "_blank" >}}
   </div>
   <div class="pricing-table__btn hide-for-desktop">
     <div class="pricing-table__plan-title">Enterprise</div>
-    {{< button "Jetzt loslegen" "" "" outline >}}
-    <a class="pricing-table__more" href="">More</a>
+    {{< button "Contacter les ventes" "https://share.hsforms.com/1JHPHJU3QQz2TlyX14QDdKg309ws" "_blank" outline >}}
   </div>
 {{< /pricing-table >}}
 {{< /pricing-group >}}
