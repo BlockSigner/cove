@@ -50,7 +50,7 @@ avec la plus haute norme de signature électronique (SEQ).
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< side-by-side top=24 bottom=12 img=legal-01 mobile-top=12 mobile-bottom=6 img-position=right img-width=500 img-alt="2 signataires sont invités et peuvent automatiquement signer ensemble." >}}
+{{< side-by-side top=8 bottom=12 img=legal-01 mobile-top=12 mobile-bottom=6 img-position=right img-width=500 img-alt="2 signataires sont invités et peuvent automatiquement signer ensemble." >}}
 {{% markdown %}}
 ## Toutes les parties contractantes signent numériquement
 Parties contractantes multiples: au lieu de s'envoyer des contrats par la poste, elles signent toutes en ligne, ce qui leur fait gagner du temps.
@@ -66,7 +66,7 @@ le contrat a été signé
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< side-by-side top=24 bottom=24 mobile-top=6 mobile-bottom=6 img=legal-02 img-width=500 img-alt="Plusieurs documents peuvent être signés en un seul clic." >}}
+{{< side-by-side top=8 bottom=24 mobile-top=6 mobile-bottom=6 img=legal-02 img-width=500 img-alt="Plusieurs documents peuvent être signés en un seul clic." >}}
 {{% markdown %}}
 ## Complétez la pile avec une seule signature
 Dossier de signature numérique: collectez vos contrats numériquement et signez-les simultanément en quelques clics. Grâce au standard SEQ, vous n'avez pas besoin d'une clé USB ou d'un lecteur de carte.
@@ -102,7 +102,7 @@ aux requêtes judiciaires: il n'est pas nécessaire d'imprimer, d'envoyer ou de 
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< side-by-side top=24 bottom=12 mobile-top=6 mobile-bottom=12 img=legal-04 img-width=500 img-alt="Un cercle montre comment je peux signer à partir de mon nuage." >}}
+{{< side-by-side top=8 bottom=12 mobile-top=6 mobile-bottom=12 img=legal-04 img-width=500 img-alt="Un cercle montre comment je peux signer à partir de mon nuage." >}}
 {{% markdown %}}
 ## Aucun nouveau logiciel requis
 Restez avec des outils familiers: connectez-vous directement via votre navigateur ou signez
@@ -117,7 +117,7 @@ les solutions sectorielles
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< content text=center top=20 width=narrow >}}
+{{< content text=center top=16 width=narrow >}}
 {{% markdown %}}
 ## Avec Skribble, vous répondez aux exigences des procédures légales
 Avec Skribble, vous signez légalement et en toute sécurité
@@ -126,12 +126,12 @@ en remplissant les conditions suivantes:
 {{< /content >}}
 
 {{< content top=6 width=narrow >}}
-{{% collapsible 1 "Normes de signature électronique selon SCSE/eIDAS" "check" %}}
+{{% collapsible 1 "Normes de signature électronique selon eIDAS/SCSE" "check" %}}
 Skribble travaille avec des standards de signature électronique légalement définis: la signature électronique qualifiée (SEQ), la signature électronique avancée (SEA) et la signature électronique simple (SES).
 {{% /collapsible %}}
 
-{{% collapsible 2 "Exigence de la forme écrite selon le CO/BGB" "check" %}}
-La signature électronique qualifiée (SEQ) de Skribble équivaut à la signature manuscrite devant les lois nationales suisses et celles de l'UE (par ex. CO en Suisse ou BGB en Allemagne).
+{{% collapsible 2 "Exigence de la forme écrite selon le BGB/CO" "check" %}}
+La signature électronique qualifiée (SEQ) de Skribble équivaut à la signature manuscrite devant les lois de l'UE et celles nationales suisses (par ex. BGB en Allemagne ou CO en Suisse).
 {{% /collapsible %}}
 
 {{% collapsible 3 "Protection des données selon LPD/RGPD" "check" %}}

@@ -51,7 +51,7 @@ with the highest e-signing standard (QES).
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< side-by-side top=16 bottom=12 img=legal-01 mobile-top=12 img-position=right mobile-bottom=6 img-width=500 img-alt="2 signatories are invited and can automatically sign together" >}}
+{{< side-by-side top=8 bottom=12 img=legal-01 mobile-top=12 img-position=right mobile-bottom=6 img-width=500 img-alt="2 signatories are invited and can automatically sign together" >}}
 {{% markdown %}}
 ## All contractual parties sign digitally
 Multiple contractual parties: Instead of sending contracts by post from one person to the next, everyone signs online, saving time.
@@ -67,7 +67,7 @@ the contract is signed
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< side-by-side top=16 bottom=12 mobile-top=6 mobile-bottom=6 img=legal-02 img-width=500 img-alt="Several documents can be signed with one click" >}}
+{{< side-by-side top=8 bottom=12 mobile-top=6 mobile-bottom=6 img=legal-02 img-width=500 img-alt="Several documents can be signed with one click" >}}
 {{% markdown %}}
 ## Finish the pile with only one signature
 Digital signature folder: Collect your contracts digitally and sign them simultaneously with just a few clicks. Despite the QES standard, you don't need a USB stick or card reader.
@@ -102,7 +102,7 @@ law firms and authorities/courts in Switzerland
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< side-by-side top=16 bottom=12 mobile-top=6 mobile-bottom=12 img=legal-04 img-width=500 img-alt="A circle shows how I can sign from my cloud." >}}
+{{< side-by-side top=8 bottom=12 mobile-top=6 mobile-bottom=12 img=legal-04 img-width=500 img-alt="A circle shows how I can sign from my cloud." >}}
 {{% markdown %}}
 ## No new software required
 Stay with familiar tools: Sign directly via your browser or from your existing software.
@@ -116,7 +116,7 @@ industry software solutions
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< content text=center top=20 width=narrow >}}
+{{< content text=center top=16 width=narrow >}}
 {{% markdown %}}
 ## Skribble complies with the legal requirements for court processes
 You sign with legal effect and securely in accordance

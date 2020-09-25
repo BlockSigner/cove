@@ -109,12 +109,12 @@ et satisfaire aux exigences légales suivantes:
 {{< /content >}}
 
 {{< content top=6 width=narrow >}}
-{{% collapsible 1 "Normes de signature électronique selon SCSE/eIDAS" "check" %}}
+{{% collapsible 1 "Normes de signature électronique selon eIDAS/SCSE" "check" %}}
 Skribble travaille avec des standards de signature électronique légalement définis: la signature électronique qualifiée (SEQ), la signature électronique avancée (SEA) et la signature électronique simple (SES).
 {{% /collapsible %}}
 
-{{% collapsible 2 "Exigence de la forme écrite selon le CO/BGB" "check" %}}
-La signature électronique qualifiée (SEQ) de Skribble équivaut à la signature manuscrite devant les lois nationales suisses et celles de l'UE (par ex. CO en Suisse ou BGB en Allemagne).
+{{% collapsible 2 "Exigence de la forme écrite selon le BGB/CO" "check" %}}
+La signature électronique qualifiée (SEQ) de Skribble équivaut à la signature manuscrite devant les lois de l'UE et celles nationales suisses (par ex. BGB en Allemagne ou CO en Suisse).
 {{% /collapsible %}}
 
 {{% collapsible 3 "Protection des données selon LPD/RGPD" "check" %}}

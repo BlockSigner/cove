@@ -13,7 +13,7 @@ og_image: og/og-skribble-tax-consultant.jpg
 Elektronische Signatur 
 für Steuerberater
 ===============
-Mit Skribble signieren Sie und Ihre Mandanten schneller und sicherer – von der Bilanz über Jahresabschlüsse bis Steuergestaltungen.
+Mit Skribble signieren Sie und Ihre Mandanten schneller und sicherer.
 
 **Häufig eingesetzt für:**
 - Bilanz & Jahresabschlüsse
@@ -77,11 +77,11 @@ Das Signieren mit Skribble ist intuitiv und in Sekundenschnelle erledigt. Sie er
 {{< side-by-side top=8 bottom=12 mobile-top=6 mobile-bottom=6 img=tax-consultant-3 img-width=500 img-position=right img-alt="Ein Kreis zeigt, wie ich von meiner Cloud heraus aus unterschreiben kann." >}}
 {{% markdown %}}
 ## Für jedes Dokument und jedes Mandat einsetzbar
-Verschiedene Dokumente, verschiedene Anforderungen. Mit Skribble können jede Art von Dokument rechtsgültig signiernen – von Abschlüssen über Gestaltungen bis Freigabeerklärungen.
+Verschiedene Dokumente, verschiedene Anforderungen. Mit Skribble können jede Art Dokument rechtsgültig  signiernen – von Abschlüssen über Gestaltungen bis Freigabeerklärungen.
 
 - Rechtsgültig für Verträge mit- und ohne Schriftformerfordernis
 - Weltweit intern und gegenüber extern einsetzbar
-- Höchste Sicherheitsstandards und Bank-LevelDatenschutz in der Schweiz
+- Höchste Sicherheitsstandards und Bank-Level Datenschutz in der Schweiz
 {{% /markdown %}}
 {{< /side-by-side >}}
 
@@ -94,7 +94,7 @@ Integrieren Sie Skribble in Ihre Kanzlei-Software oder signieren Sie direkt übe
 
 - Nahtlose Integration via moderne APIs
 - Mitarbeitende und Mandanten mühelos und innert kürzester Zeit onboarden
-- Gewohntes Erscheunugnsbild dank personalisierbarer visueller Signatur
+- Gewohntes Erscheinungsbild dank personalisierbarer visueller Signatur
 {{% /markdown %}}
 {{< /side-by-side >}}
 
@@ -108,12 +108,12 @@ Sie signieren rechtsgültig und sicher gemäss folgenden Erfordernissen:
 {{< /content >}}
 
 {{< content top=6 width=narrow >}}
-{{% collapsible 1 "E-Signatur-Standards gemäss ZertES/eIDAS" "check" %}}
+{{% collapsible 1 "E-Signatur-Standards gemäss eIDAS/ZertES" "check" %}}
 Skribble arbeitet mit gesetzlich definierten E-Signatur-Standards: Die qualifizierte elektronische Signatur (QES), die fortgeschrittene elektronische Signatur (FES) und die einfache elektronische Signatur (EES).
 {{% /collapsible %}}
 
-{{% collapsible 2 "Schriftlichkeitserfordernis gemäss OR/BGB" "check" %}}
-Die auf Skribble verfügbare qualifizierte elektronische Signatur (QES) ist der handschriftlichen Signatur gleichgestellt gemäss nationalen Gesetzgebungen in der Schweiz und der EU (z.B. OR in der Schweiz oder BGB in Deutschland).
+{{% collapsible 2 "Schriftlichkeitserfordernis gemäss BGB/OR" "check" %}}
+Die auf Skribble verfügbare qualifizierte elektronische Signatur (QES) ist der handschriftlichen Signatur gleichgestellt gemäss nationalen Gesetzgebungen in der EU und der Schweiz (z.B. BGB in Deutschland) oder OR in der Schweiz).
 {{% /collapsible %}}
 
 {{% collapsible 3 "Datenschutz gemäss DSG/DSGVO" "check" %}}

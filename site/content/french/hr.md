@@ -17,7 +17,7 @@ Avec Skribble, vous signez des documents juridiquement contraignants et faciles 
 
 **Signez en toute sécurité :**
 - Contrats de travail
-- Contrats temporaires
+- Certificats
 - Contrats de salaire horaire
 {{% /markdown %}}
 {{< button

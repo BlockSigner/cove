@@ -20,7 +20,7 @@ from employment contracts to certificates and wage statements.
 
 **Sign safely:**
 - Employment contracts
-- Temporary contracts
+- Certificates
 - Hourly wage contracts
 {{% /markdown %}}
 

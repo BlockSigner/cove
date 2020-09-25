@@ -18,7 +18,7 @@ auf digitalem Weg - von Arbeitsverträgen über Zeugnisse bis Lohnausweise.
 
 **Unterschreiben sie sicher:**
 - Arbeitsverträge
-- Temporärverträge
+- Zeugnisse
 - Stundenlohnverträge
 {{% /markdown %}}
 {{< button

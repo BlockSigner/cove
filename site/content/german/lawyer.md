@@ -48,7 +48,7 @@ mit dem höchsten verfügbaren E-Signatur-Standard (QES).
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< side-by-side top=24 bottom=12 img=legal-01 mobile-top=12 mobile-bottom=6 img-width=500 img-position=right img-alt="2 Signierende werden eingeladen und können automatisch signieren zusammen." >}}
+{{< side-by-side top=8 bottom=12 img=legal-01 mobile-top=12 mobile-bottom=6 img-width=500 img-position=right img-alt="2 Signierende werden eingeladen und können automatisch signieren zusammen." >}}
 {{% markdown %}}
 ## Alle Vertragsparteien signieren digital
 Mehrere Vertragsparteien: Statt Verträge per Post von einer Person zur nächsten zu schicken, signieren alle zeitsparend online.
@@ -64,7 +64,7 @@ wenn der Vertrag signiert wurde
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< side-by-side top=24 bottom=24 mobile-top=6 mobile-bottom=6 img=legal-02 img-width=500 img-alt="Mehrere Dokumente können mit einem Klick signiert werden." >}}
+{{< side-by-side top=8 bottom=12 mobile-top=6 mobile-bottom=6 img=legal-02 img-width=500 img-alt="Mehrere Dokumente können mit einem Klick signiert werden." >}}
 {{% markdown %}}
 ## Erledigen Sie den Stapel mit nur einer Signatur
 Digitale Unterschriftsmappe: Sammeln Sie die Verträge digital und signieren Sie diese gleichzeitig mit wenigen Klicks. Einen USB-Stick oder Card-Reader brauchen Sie trotz QES-Standard nicht.
@@ -85,7 +85,7 @@ keine externe Hardware erforderlich
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< side-by-side top=24 bottom=8 mobile-top=6 mobile-bottom=6 img=legal-03 img-position=right img-width=550 img-alt="Dokumente können Behörden eingegeben werden." >}}
+{{< side-by-side top=24 bottom=12 mobile-top=6 mobile-bottom=6 img=legal-03 img-position=right img-width=525 img-alt="Dokumente können Behörden eingegeben werden." >}}
 {{% markdown %}}
 ## Eingaben bei Behörden machen Sie online
 Von Änderungen am Handelsregister bis Gerichtseingaben: Das Ausdrucken, Versenden und Einscannen entfällt.
@@ -99,7 +99,7 @@ Kanzleien und Behörden/Gerichten in der Schweiz
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< side-by-side top=24 bottom=8 mobile-top=6 mobile-bottom=12 img=legal-04 img-width=500 img-alt="Ein Kreis zeigt, wie ich von meiner Cloud heraus aus unterschreiben kann." >}}
+{{< side-by-side top=8 bottom=12 mobile-top=6 mobile-bottom=12 img=legal-04 img-width=500 img-alt="Ein Kreis zeigt, wie ich von meiner Cloud heraus aus unterschreiben kann." >}}
 {{% markdown %}}
 ## Keine neue Software notwendig
 Bei gewohnten Tools bleiben: Signieren Sie direkt über den Browser oder aus Ihrer bestehenden Software heraus.
@@ -113,7 +113,7 @@ Lösungen einbinden
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< content text=center top=20 width=narrow >}}
+{{< content text=center top=16 width=narrow >}}
 {{% markdown %}}
 ## Mit Skribble erfüllen Sie die rechtlichen Anforderungen an Anwalts-Prozesse
 Sie signieren rechtsgültig und sicher gemäss folgenden Erfordernissen:
