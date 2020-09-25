@@ -125,7 +125,7 @@ Skribble sowie Partner verwalten ihre Daten gemäss dem Bundesgesetz über den D
 
 {{< content text=center top=24 width=narrow >}}
 {{% markdown %}}
-## Alle E-Signatur-Standards aus einer Hand
+## Mit Skribble erhalten Sie alle E-Signatur-Standards aus einer Hand
 Das Gesetz unterscheidet drei E-Signatur-Signaturstandards. Sie variieren
 punkto Einsatzgebiet und Beweiskraft. Bei Skribbble erhalten 
 Sie alle.
