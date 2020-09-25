@@ -71,7 +71,7 @@ Skribble permet de signer vos contrats en un clin d’œil – Validité mondial
   {{% /markdown %}}
   {{< /pricing-card >}}
 
-  {{< pricing-highlights title=Pointsforts >}}
+  {{< pricing-highlights title="Points forts" >}}
   {{% markdown %}}
   - Peut être étendu à l’ensemble de l’entreprise en quelques jours 
   - Administration centrale et système de gestion des membres
