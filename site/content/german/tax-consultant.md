@@ -77,7 +77,7 @@ Das Signieren mit Skribble ist intuitiv und in Sekundenschnelle erledigt. Sie er
 {{< side-by-side top=8 bottom=12 mobile-top=6 mobile-bottom=6 img=tax-consultant-3 img-width=500 img-position=right img-alt="Ein Kreis zeigt, wie ich von meiner Cloud heraus aus unterschreiben kann." >}}
 {{% markdown %}}
 ## Für jedes Dokument und jedes Mandat einsetzbar
-Verschiedene Dokumente, verschiedene Anforderungen. Mit Skribble können jede Art Dokument rechtsgültig  signiernen – von Abschlüssen über Gestaltungen bis Freigabeerklärungen.
+Verschiedene Dokumente, verschiedene Anforderungen. Mit Skribble können jede Art Dokument rechtsgültig  signieren – von Abschlüssen über Gestaltungen bis Freigabeerklärungen.
 
 - Rechtsgültig für Verträge mit- und ohne Schriftformerfordernis
 - Weltweit intern und gegenüber extern einsetzbar
