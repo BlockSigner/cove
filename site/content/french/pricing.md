@@ -21,7 +21,7 @@ Skribble permet de signer vos contrats en un clin d’œil – Validité mondial
 
 {{< pricing-col >}}
   {{< pricing-card
-    price=2.50
+    price="2.50"
     currency=CHF
     period=Signature
     small="jusqu'à un plafond de 30 CHF, plus les signatures des parties externes*."
@@ -98,7 +98,7 @@ Skribble permet de signer vos contrats en un clin d’œil – Validité mondial
   {{% /markdown %}}
   {{< /pricing-card >}}
 
-  {{< pricing-highlights title=Pointsforts >}}
+  {{< pricing-highlights title="Points forts" >}}
   {{% markdown %}}
   - Interlocuteur personnel attitré et support en priorité
   - Accord de service (SLA) avec garantie de haute disponibilité
