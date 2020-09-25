@@ -46,7 +46,7 @@ Schweiz: Identifikation
 im persönlichen Kontakt
 ===============
 Kommen Sie an einem unserer Identifikationsstandorte vorbei.
-mit der ID-App von Swisscom identifizieren.
+Wir identifizieren Sie kostenlos innert weniger Minuten.
 {{% /markdown %}}
 {{< /content >}}
 
