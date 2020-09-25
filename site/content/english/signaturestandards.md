@@ -301,8 +301,19 @@ No credit card, entrance fee or commitment required.
 {{% /markdown %}}
 
 {{< button
-  "Try it now"
+  "Get started"
   "https://my.skribble.com/signup?lang=en"
   "_blank"
 >}}
+{{< button
+  "Contact Sales"
+  "https://share.hsforms.com/1eikgwNSWS9aCXBpqMVvrtQ309ws"
+  "_blank"
+  outline
+>}}
+{{< content top=6 >}}
+{{< markdown center >}}
+{{% small %}}2 signatures per month are free.{{% /small %}}
+{{< /markdown >}}
+{{< /content >}}
 {{< /outro >}}

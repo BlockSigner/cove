@@ -34,6 +34,13 @@
     @include max-width {
       width: 100%;
     }
+    
+    + .btn {
+      margin-left: 16px;
+      @include max-width {
+        margin-left: 0;
+      }
+    }
   }
 
   .markdown {
@@ -44,6 +51,14 @@
 
     + .hide-for-mobile {
       padding-right: 0;
+    }
+
+    p + ul {
+      margin-top: -18px;
+    }
+
+    li {
+      margin: 2px 0 3px;
     }
   }
 

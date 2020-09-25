@@ -73,7 +73,7 @@ Job-Beschreibung in Englisch
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< outro   >}}
+{{< outro >}}
 {{% markdown center %}}
 ## Jetzt rechtsgültig elektronisch signieren!
 Keine Kreditkarte, Eintrittsgebühr oder
@@ -81,8 +81,19 @@ Verpflichtung erforderlich.
 {{% /markdown %}}
 
 {{< button
-  "Jetzt ausprobieren"
+  "Jetzt loslegen"
   "https://my.skribble.com/signup?lang=de"
   "_blank"
 >}}
+{{< button
+  "Sales kontaktieren"
+  "https://share.hsforms.com/1gxsCjIJRQhaM4GEcCmL7QQ309ws"
+  "_blank"
+  outline
+>}}
+{{< content top=6 >}}
+{{< markdown center >}}
+{{% small %}}2 Signaturen pro Monat sind kostenlos.{{% /small %}} 
+{{< /markdown >}}
+{{< /content >}}
 {{< /outro >}}

@@ -150,20 +150,6 @@ Organisation-wide implementation in just a few days
 {{< /content >}}
 
 
-{{< cta
-  label="Contact Skribble"
-  href="mailto:info@skribble.com"
-  outlined="true"
->}}
-
-{{< picture "contact" 92 "Do you have any questions? We will be happy to help you." >}}
-
-{{% markdown %}}
-**Any questions?
-We are happy to help you.**
-{{% /markdown %}}
-{{< /cta >}}
-
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
@@ -174,8 +160,19 @@ No credit card, entrance fee or commitment required.
 {{% /markdown %}}
 
 {{< button
-  "Try it now"
+  "Get started"
   "https://my.skribble.com/signup?lang=en"
   "_blank"
 >}}
+{{< button
+  "Contact Sales"
+  "https://share.hsforms.com/1eikgwNSWS9aCXBpqMVvrtQ309ws"
+  "_blank"
+  outline
+>}}
+{{< content top=6 >}}
+{{< markdown center >}}
+{{% small %}}2 signatures per month are free.{{% /small %}}
+{{< /markdown >}}
+{{< /content >}}
 {{< /outro >}}

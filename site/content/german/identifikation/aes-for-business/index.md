@@ -154,22 +154,6 @@ Skribbles Signatur-Plattform ist so konzipiert, dass neue Signierende ohne Erkl�
 {{% /markdown %}}
 {{< /content >}}
 
-[//]: # (--------------------------------------------------------------------------------------------------------------)
-
-{{< cta
-  label="Telefontermin vereinbaren"
-  href="https://help.skribble.com/meetings/patrick182/call-mit-skribble"
-  target="_blank"
-  outlined="true"
->}}
-
-{{< picture consult 92 "Identifikation für die QES. Lassen Sie sich von uns beraten und finden Sie die richtige Identifikationslösung für Ihr Unternehmen." >}}
-
-{{% markdown %}}
-**Jetzt für FES für Business anmelden**
-{{% /markdown %}}
-{{< /cta >}}
-
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
@@ -225,8 +209,19 @@ Verpflichtung erforderlich.
 {{% /markdown %}}
 
 {{< button
-  "Jetzt ausprobieren"
+  "Jetzt loslegen"
   "https://my.skribble.com/signup?lang=de"
   "_blank"
 >}}
+{{< button
+  "Sales kontaktieren"
+  "https://share.hsforms.com/1gxsCjIJRQhaM4GEcCmL7QQ309ws"
+  "_blank"
+  outline
+>}}
+{{< content top=6 >}}
+{{< markdown center >}}
+{{% small %}}2 Signaturen pro Monat sind kostenlos.{{% /small %}} 
+{{< /markdown >}}
+{{< /content >}}
 {{< /outro >}}

@@ -123,9 +123,10 @@ Learn more about the offer.
 {{< /markdown >}}
 
 {{< button
-  "Make an appointment"
-  "https://help.skribble.com/meetings/patrick182/telephone-consultation-skribble"
+  "Contact Sales"
+  "https://share.hsforms.com/1eikgwNSWS9aCXBpqMVvrtQ309ws"
   "_blank"
+
 >}}
 <a class="mobile-link outro__link" href="tel:+41445051664">
   <svg version="1.1" id="Ebene_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
@@ -138,3 +139,4 @@ Learn more about the offer.
   +41 44 505 16 64
 </a>
 {{< /outro >}}
+

@@ -20,7 +20,11 @@ map:
         full: |
           Fraumünsterstrasse 16
           CH-8001 Zürich
-        email: info@skribble.com
+        email:
+          title: Support
+          link:
+            label: Support kontaktieren
+            href: https://share.hsforms.com/1_O5JpbKXTxKeXoQFnf6Obw309ws
         phone: 
           title: Telefon
           text: "+41 44 505 16 64"
@@ -28,10 +32,10 @@ map:
           title: Öffnungszeiten
           text: 9 bis 17 Uhr
         contact_form:
-          title: Kontakt 
+          title: Sales
           link:
-            label: Kontakt via Formular
-            href: https://help.skribble.com/kb-tickets/new
+            label: Sales kontaktieren
+            href: https://share.hsforms.com/1gxsCjIJRQhaM4GEcCmL7QQ309ws
     - title: Karlsruhe (Ettlingen)
       picture:
         name: map-karlsruhe
@@ -42,7 +46,11 @@ map:
         full: |
           Pforzheimer Str. 128
           DE-76275 Ettlingen
-        email: info@skribble.com
+        email:
+          title: E-Mail 
+          link:
+            label: info@skribble.com
+            href: "mailto:info@skribble.com"
         opening_hours:
           title: Öffnungszeiten
           text: 9 bis 17 Uhr
@@ -52,7 +60,7 @@ map:
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< outro   >}}
+{{< outro >}}
 {{% markdown center %}}
 ## Jetzt rechtsgültig elektronisch signieren!
 Keine Kreditkarte, Eintrittsgebühr oder
@@ -60,8 +68,19 @@ Verpflichtung erforderlich.
 {{% /markdown %}}
 
 {{< button
-  "Jetzt ausprobieren"
+  "Jetzt loslegen"
   "https://my.skribble.com/signup?lang=de"
   "_blank"
 >}}
+{{< button
+  "Sales kontaktieren"
+  "https://share.hsforms.com/1gxsCjIJRQhaM4GEcCmL7QQ309ws"
+  "_blank"
+  outline
+>}}
+{{< content top=6 >}}
+{{< markdown center >}}
+{{% small %}}2 Signaturen pro Monat sind kostenlos.{{% /small %}} 
+{{< /markdown >}}
+{{< /content >}}
 {{< /outro >}}

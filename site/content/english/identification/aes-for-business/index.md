@@ -154,22 +154,6 @@ Skribble's signing platform is designed so that new employees can get started wi
 {{% /markdown %}}
 {{< /content >}}
 
-[//]: # (--------------------------------------------------------------------------------------------------------------)
-
-{{< cta
-  label="Arrange a call"
-  href="https://help.skribble.com/meetings/patrick182/telephone-consultation-skribble"
-  target="_blank"
-  outlined="true"
->}}
-
-{{< picture consult 92 "Identification for the QES. Let us advise you and find the right identification solution for your company." >}}
-
-{{% markdown %}}
-**Register now for AES for Business**
-{{% /markdown %}}
-{{< /cta >}}
-
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
@@ -226,8 +210,19 @@ No credit card, entrance fee or commitment required.
 {{% /markdown %}}
 
 {{< button
-  "Try it now"
+  "Get started"
   "https://my.skribble.com/signup?lang=en"
   "_blank"
 >}}
+{{< button
+  "Contact Sales"
+  "https://share.hsforms.com/1eikgwNSWS9aCXBpqMVvrtQ309ws"
+  "_blank"
+  outline
+>}}
+{{< content top=6 >}}
+{{< markdown center >}}
+{{% small %}}2 signatures per month are free.{{% /small %}}
+{{< /markdown >}}
+{{< /content >}}
 {{< /outro >}}

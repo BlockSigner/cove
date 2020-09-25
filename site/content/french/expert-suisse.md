@@ -127,8 +127,8 @@ En savoir plus sur l'offre.
 {{% /markdown %}}
 
 {{< button
-  "Fixer un rendez-vous"
-  "https://help.skribble.com/meetings/patrick182/consultation-telephone-skribble"
+  "Contacter les ventes"
+  "https://share.hsforms.com/1JHPHJU3QQz2TlyX14QDdKg309ws"
   "_blank"
 >}}
 <a class="mobile-link outro__link" href="tel:+41445051664">

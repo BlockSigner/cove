@@ -141,7 +141,7 @@ Für Verträge mit Formvorschrift oder hohem Abspruch an Beweiskraft wird typisc
   "Service"
   "Identification Unlimited"
   "Jetzt kontaktieren"
-  "https://help.skribble.com/meetings/patrick182/call-mit-skribble"
+  "https://share.hsforms.com/1gxsCjIJRQhaM4GEcCmL7QQ309ws"
   "_blank"
   "outline"
 >}}
@@ -168,25 +168,9 @@ Signierende schalten die QES frei, in dem sie sich sich online via Video identif
 {{% /plan %}}
 {{< /content >}}
 
-{{< content text=center top=8 width=narrow >}}
-{{< cta
-  label="Download Factsheet"
-  href="https://cdn2.hubspot.net/hubfs/5051692/Factstheets/Identification/Deutsch/Skribble_Overview_Identification.pdf"
-  target="_blank"
-  outlined="true"
->}}
-
-{{< picture consult 92 "Identifikation für die QES. Lass dich beraten und finde die passende Identifikations-Lösung für deine Firma." >}}
-
-{{% markdown %}}
-**Identifikation für die QES: Skribble macht es einfach**
-Lassen Sie sich beraten und finden Sie die passende Identifikations-Lösung für Ihre Firma.
-{{% /markdown %}}
-{{< /cta >}}
-{{< /content >}}
 
 
-{{< content text=center top=16 bottom=4 width=narrow >}}
+{{< content text=center top=20 bottom=4 width=narrow >}}
 {{% markdown %}}
 ## Elektronische Identität (E-ID)
 Personen, die sich mit einer geprüften E-ID bei Skribble anmelden, 
@@ -249,24 +233,8 @@ Bei der EES und der FES sind die Anbieter freier. Skribble achtet bei der Auswah
 {{< /content >}}
 
 
-{{< content text=left top=12 bottom=8 width=narrow >}}
-{{< cta
-  label="Telefontermin vereinbaren"
-  href="https://help.skribble.com/meetings/patrick182/call-mit-skribble"
-  target="_blank"
-  outlined="true"
->}}
 
-{{< picture consult 92 "Identifikation für die QES. Lassen Sie sich beraten und finden Sie die passende Identifikations-Lösung für Ihre Firma." >}}
-
-{{% markdown %}}
-**Haben Sie Fragen? Wir helfen Ihnen gerne telefonisch weiter.**
-{{% /markdown %}}
-{{< /cta >}}
-{{< /content >}}
-
-
-{{< outro   >}}
+{{< outro >}}
 {{% markdown center %}}
 ## Jetzt rechtsgültig elektronisch signieren!
 Keine Kreditkarte, Eintrittsgebühr oder
@@ -274,8 +242,19 @@ Verpflichtung erforderlich.
 {{% /markdown %}}
 
 {{< button
-  "Jetzt ausprobieren"
+  "Jetzt loslegen"
   "https://my.skribble.com/signup?lang=de"
   "_blank"
 >}}
+{{< button
+  "Sales kontaktieren"
+  "https://share.hsforms.com/1gxsCjIJRQhaM4GEcCmL7QQ309ws"
+  "_blank"
+  outline
+>}}
+{{< content top=6 >}}
+{{< markdown center >}}
+{{% small %}}2 Signaturen pro Monat sind kostenlos.{{% /small %}} 
+{{< /markdown >}}
+{{< /content >}}
 {{< /outro >}}

@@ -21,7 +21,11 @@ map:
         full: |
           Fraumünsterstrasse 16
           CH-8001 Zürich
-        email: info@skribble.com
+        email:
+          title: Support
+          link:
+            label: Contacter l'assistance
+            href: https://share.hsforms.com/1-z4iAJzNRMCcmOt9MeTxmg309ws
         phone: 
           title: Téléphone
           text: "+41 44 505 16 64"
@@ -29,10 +33,10 @@ map:
           title: Horaires d'ouverture
           text: De 9h à 17h
         contact_form:
-          title: Contact 
+          title: Ventes 
           link:
-            label: Contact par formulaire
-            href: https://help.skribble.com/kb-tickets/new
+            label: Prendre contact
+            href: https://share.hsforms.com/1JHPHJU3QQz2TlyX14QDdKg309ws
     - title: Karlsruhe (Ettlingen)
       picture:
         name: map-karlsruhe
@@ -43,7 +47,11 @@ map:
         full: |
           Pforzheimer Str. 128
           DE-76275 Ettlingen
-        email: info@skribble.com
+        email:
+          title: Email 
+          link:
+            label: info@skribble.com
+            href: "mailto:info@skribble.com"
         opening_hours:
           title: Horaires d'ouverture
           text: De 9h à 17h
@@ -60,8 +68,19 @@ ou engagement n'est requis.
 {{% /markdown %}}
 
 {{< button
-  "Essayer maintenant"
+  "Démarrer"
   "https://my.skribble.com/signup?lang=fr"
   "_blank"
 >}}
+{{< button
+  "Contacter les ventes"
+  "https://share.hsforms.com/1JHPHJU3QQz2TlyX14QDdKg309ws"
+  "_blank"
+  outline
+>}}
+{{< content top=6 >}}
+{{< markdown center >}}
+{{% small %}}2 signatures par mois sont gratuites.{{% /small %}} 
+{{< /markdown >}}
+{{< /content >}}
 {{< /outro >}}

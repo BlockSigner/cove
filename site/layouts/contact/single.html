@@ -26,8 +26,8 @@
                 <p>{{ .address.opening_hours.text }}</p>
               </div>
               <div style="padding-right: 20px">
-                <p style="font-weight: bold; font-size: 18px; color: #293D66">Email</p>
-                <p><a href="mailto:{{ .address.email }}">{{ .address.email}}</a></p>
+                <p style="font-weight: bold; font-size: 18px; color: #293D66">{{ .address.email.title }}</p>
+                <p><a href="{{ .address.email.link.href }}" target="_blank">{{ .address.email.link.label }}</a></p>
                 {{ if .address.phone }}
                   <p style="font-weight: bold; font-size: 18px; color: #293D66; margin-top: 10px;">{{ .address.phone.title }}</p>
                   <p><a href="tel:{{ replaceRE "(\\s)" "" .address.phone.text }}">{{ .address.phone.text }}</a></p>

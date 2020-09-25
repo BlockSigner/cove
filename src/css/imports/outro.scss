@@ -9,6 +9,13 @@
     @include max-width {
       width: 100%;
     }
+
+    + .btn {
+      margin-left: 16px;
+      @include max-width {
+        margin-left: 0;
+      }
+    }
   }
 
   &__inner {
@@ -21,9 +28,10 @@
   }
 
   &__body {;
-    max-width: 606px;
+    max-width: 100%;
     text-align: center;
     @include min-width {
+      max-width: 606px;
       flex: 1 1 100%;
       padding: 0 40px;
     }

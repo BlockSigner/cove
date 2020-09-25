@@ -124,8 +124,8 @@ Erfahre mehr über das Angebot.
 {{% /markdown %}}
 
 {{< button
-  "Jetzt Termin vereinbaren"
-  "https://help.skribble.com/meetings/patrick182/call-mit-skribble"
+  "Sales kontaktieren"
+  "https://share.hsforms.com/1gxsCjIJRQhaM4GEcCmL7QQ309ws"
   "_blank"
 >}}
 <a class="mobile-link outro__link" href="tel:+41445051664">
@@ -139,3 +139,4 @@ Erfahre mehr über das Angebot.
   +41 44 505 16 64
 </a>
 {{< /outro >}}
+

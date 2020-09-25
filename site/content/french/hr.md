@@ -84,7 +84,7 @@ et d'autres solutions sectorielles**
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
 {{< testimonial "testimonial/twint-150w.png" "Simon Wehrli, CTO, Twint" >}}
-"L’augmentation du télétravail, les renouvellements réguliers des contrats et la double signature requise ont rendu le processus de signature analogique extrêmement long et générant de la paperasse inutile. Avec Skribble, nous signons les contrats de travail et les accords de confidentialité sans papier, en appuyant sur un bouton – quels que soient l'heure et le lieu."
+"L’augmentation du télétravail, les renouvellements réguliers des contrats et la double signature requise ont rendu le processus de signature analogique extrêmement long et lourd en papier. Avec Skribble, nous signons les contrats de travail et les accords de confidentialité sans papier, en appuyant sur un bouton – quels que soient l'heure et le lieu."
 {{< /testimonial >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
@@ -192,7 +192,7 @@ en termes de domaine d'application et de force probante. Sur Skribble, vous pouv
 {{% markdown %}}
 
 **Documents**
-informelles ou internes avec un faible risque de responsabilité.
+sans exigence formelle juridique avec un faible risque de responsabilité.
 
 {{% /markdown %}}
     </td>
@@ -237,19 +237,48 @@ Cela débloque la norme de signature électronique la plus élevée du marché: 
 {{% /markdown %}}
 {{< /content >}}
 
-{{< picture "create-identity" 385 "Une loupe agrandit l'image d'une femme dans un passeport" >}}
+{{< content top=8 width=wide display=flex >}}
 
-{{< cta
-  label="Organiser un rendez-vous"
-  href="/fr/debloquez-qes/"
+{{< plan
+  white
+  "Identification"
+  "Unlimited"
+  "Contactez-nous dès maintenant"
+  "https://share.hsforms.com/1JHPHJU3QQz2TlyX14QDdKg309ws"
+  "_blank"
+  "outline"
 >}}
-{{% markdown %}}
-**Choisissez un rendez-vous
-et laissez-nous vous identifier**
-{{% /markdown %}}
-{{< /cta >}}
 
-{{< content text=center top=12 width=narrow >}}
+{{< picture id-easy 270 "Une femme et un homme sont debout devant une grande fenêtre de logiciel et l'homme tient une grande trappe avec une carte d'identité à l'intérieur." >}}
+
+Vous faites les identifications vous-même.
+
+Approprié si de nouveaux signataires de SEQ sont constamment ajoutés.
+
+&nbsp;
+{{% /plan %}}
+
+{{< plan
+  white
+  "Identification"
+  "En ligne par vidéo"
+  "Déverrouiller SEQ maintenant"
+  "/fr/debloquez-seq/"
+  ""
+  "outline"
+>}}
+
+{{< picture id-direct 210 "Un homme est assis devant un ordinateur portable, au-dessus de lui se trouve une fenêtre de sotware, où une femme avec une grosse loupe fait saillie et vérifie une carte d'identité." >}}
+Déverrouillez la norme de signature électronique SEQ la plus élevée depuis chez vous.
+Convient aux signataires individuels.
+&nbsp;
+&nbsp;
+{{% /plan %}}
+{{< /content >}}
+
+[//]: # (--------------------------------------------------------------------------------------------------------------)
+
+{{< content text=center top=24 width=narrow >}}
 {{% markdown %}}
 ## Est-ce que ça va?
 {{% /markdown %}}
@@ -284,8 +313,20 @@ ou engagement n'est requis.
 {{% /markdown %}}
 
 {{< button
-  "Essayer maintenant"
+  "Démarrer"
   "https://my.skribble.com/signup?lang=fr"
   "_blank"
 >}}
+{{< button
+  "Contacter les ventes"
+  "https://share.hsforms.com/1JHPHJU3QQz2TlyX14QDdKg309ws"
+  "_blank"
+  outline
+>}}
+{{< content top=6 >}}
+{{< markdown center >}}
+{{% small %}}2 signatures par mois sont gratuites.{{% /small %}} 
+{{< /markdown >}}
+{{< /content >}}
 {{< /outro >}}
+

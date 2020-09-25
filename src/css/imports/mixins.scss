@@ -232,6 +232,18 @@
   }
 }
 
+@mixin max-width-mobile-navigation {
+  @media (max-width: 1099px) {
+    @content;
+  }
+}
+
+@mixin min-width-desktop-navigation {
+  @media (min-width: 1100px) {
+    @content;
+  }
+}
+
 @mixin max-width-xs {
   @media (max-width: 500px) {
     @content;

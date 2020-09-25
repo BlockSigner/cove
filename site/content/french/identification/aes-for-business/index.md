@@ -157,23 +157,6 @@ La plate-forme de signature Skribble est conçue pour que les nouveaux signatair
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< cta
-  label="Organiser un appel"
-  href="https://help.skribble.com/meetings/patrick182/consultation-telephone-skribble"
-  target="_blank"
-  outlined="true"
->}}
-
-{{< picture consult 92 "Identification pour le QES. Laissez-nous vous conseiller et trouver la solution d'identification adaptée à votre entreprise." >}}
-
-{{% markdown %}}
-**Enregistrez-vous maintenant pour l'AES for Business**
-{{% /markdown %}}
-{{< /cta >}}
-
-
-[//]: # (--------------------------------------------------------------------------------------------------------------)
-
 {{< content top=20 text=center width=narrow >}}
 {{% markdown %}}
 ## SEA pour Business
@@ -228,8 +211,19 @@ ou engagement n'est requis.
 {{% /markdown %}}
 
 {{< button
-  "Essayer maintenant"
+  "Démarrer"
   "https://my.skribble.com/signup?lang=fr"
   "_blank"
 >}}
+{{< button
+  "Contacter les ventes"
+  "https://share.hsforms.com/1JHPHJU3QQz2TlyX14QDdKg309ws"
+  "_blank"
+  outline
+>}}
+{{< content top=6 >}}
+{{< markdown center >}}
+{{% small %}}2 signatures par mois sont gratuites.{{% /small %}} 
+{{< /markdown >}}
+{{< /content >}}
 {{< /outro >}}
