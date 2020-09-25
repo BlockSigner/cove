@@ -14,7 +14,7 @@ Maximise the legal weight
 of your electronic signature
 ===============	
 Enable the highest e-signing standard (QES) by getting 
-yourself identified online via video (EU) or by personal contact (Switzerland).
+yourself identified online via video (EU) or face-to-face (Switzerland).
 {{% /markdown %}}
 {{< /content >}}
 
