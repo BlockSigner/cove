@@ -42,7 +42,7 @@ with our partners Swisscom Trust Services and IdentityTM.
 
 {{< content text=center top=16 width=narrow >}}
 {{% markdown %}}
-Switzerland: Identification 
+Switzerland: Face-to-face
 identification
 ===============
 Get yourself identified by personal contact
