@@ -45,7 +45,7 @@ Suisse: Identification
 par contact personnel
 ===============
 
-Laissez-vous identifier par contact personnel
+Passez à l'un de nos lieux d'identification.
 avec l’ID-app de Swisscom.
 {{% /markdown %}}
 {{< /content >}}
