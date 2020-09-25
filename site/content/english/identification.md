@@ -1,5 +1,5 @@
 ---
-title: Identity verification for electronic signing
+title: Identification for electronic signing
 description: Each e-signature must be uniquely attributable to one person. Therefore, Skribble requires the identification of the signatories. The procedures differ depending on the application.
 slug: identification
 # opengraph image (for facebook and twitter)
