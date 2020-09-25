@@ -48,7 +48,7 @@ mit dem höchsten verfügbaren E-Signatur-Standard (QES).
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< side-by-side top=24 bottom=12 img=sign-parallel mobile-top=12 mobile-bottom=6 img-width=387 img-alt="Mann signiert mit zwei weiteren Personen einen Vertrag" >}}
+{{< side-by-side top=24 bottom=12 img=legal-01 mobile-top=12 mobile-bottom=6 img-width=500 img-position=right img-alt="2 Signierende werden eingeladen und können automatisch signieren zusammen." >}}
 {{% markdown %}}
 ## Alle Vertragsparteien signieren digital
 Mehrere Vertragsparteien: Statt Verträge per Post von einer Person zur nächsten zu schicken, signieren alle zeitsparend online.
@@ -64,7 +64,7 @@ wenn der Vertrag signiert wurde
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< side-by-side top=24 bottom=24 mobile-top=6 mobile-bottom=6 img=batch-process img-position=right img-width=380 img-alt="Ein Stapel Dokumente werden mit einem Klick signiert" >}}
+{{< side-by-side top=24 bottom=24 mobile-top=6 mobile-bottom=6 img=legal-02 img-width=500 img-alt="Mehrere Dokumente können mit einem Klick signiert werden." >}}
 {{% markdown %}}
 ## Erledigen Sie den Stapel mit nur einer Signatur
 Digitale Unterschriftsmappe: Sammeln Sie die Verträge digital und signieren Sie diese gleichzeitig mit wenigen Klicks. Einen USB-Stick oder Card-Reader brauchen Sie trotz QES-Standard nicht.
@@ -85,7 +85,7 @@ keine externe Hardware erforderlich
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< side-by-side top=24 bottom=8 mobile-top=6 mobile-bottom=6 img=authorities-input img-width=394 img-alt="Zwei Leute machen Schritt-für Schritt eine Behörden Eingabe" >}}
+{{< side-by-side top=24 bottom=8 mobile-top=6 mobile-bottom=6 img=legal-03 img-position=right img-width=550 img-alt="Dokumente können Behörden eingegeben werden." >}}
 {{% markdown %}}
 ## Eingaben bei Behörden machen Sie online
 Von Änderungen am Handelsregister bis Gerichtseingaben: Das Ausdrucken, Versenden und Einscannen entfällt.
@@ -99,7 +99,7 @@ Kanzleien und Behörden/Gerichten in der Schweiz
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< side-by-side top=24 bottom=8 mobile-top=6 mobile-bottom=12 img=crm-systeme-lawyer img-position=right img-width=421 img-alt="Signiere aus deinen gewohnten Tools heraus, beispielsweise WinJur oder Vertec." >}}
+{{< side-by-side top=24 bottom=8 mobile-top=6 mobile-bottom=12 img=legal-04 img-width=500 img-alt="Ein Kreis zeigt, wie ich von meiner Cloud heraus aus unterschreiben kann." >}}
 {{% markdown %}}
 ## Keine neue Software notwendig
 Bei gewohnten Tools bleiben: Signieren Sie direkt über den Browser oder aus Ihrer bestehenden Software heraus.
@@ -121,12 +121,12 @@ Sie signieren rechtsgültig und sicher gemäss folgenden Erfordernissen:
 {{< /content >}}
 
 {{< content top=6 width=narrow >}}
-{{% collapsible 1 "E-Signatur-Standards gemäss ZertES/eIDAS" "check" %}}
+{{% collapsible 1 "E-Signatur-Standards gemäss eIDAS/ZertES" "check" %}}
 Skribble arbeitet mit gesetzlich definierten E-Signatur-Standards: Die qualifizierte elektronische Signatur (QES), die fortgeschrittene elektronische Signatur (FES) und die einfache elektronische Signatur (EES).
 {{% /collapsible %}}
 
-{{% collapsible 2 "Schriftlichkeitserfordernis gemäss OR/BGB" "check" %}}
-Die auf Skribble verfügbare qualifizierte elektronische Signatur (QES) ist der handschriftlichen Signatur gleichgestellt gemäss nationalen Gesetzgebungen in der Schweizer und der EU (z.B. OR in der Schweiz oder BGB in Deutschland).
+{{% collapsible 2 "Schriftlichkeitserfordernis gemäss BGB/OR" "check" %}}
+Die auf Skribble verfügbare qualifizierte elektronische Signatur (QES) ist der handschriftlichen Signatur gleichgestellt gemäss nationalen Gesetzgebungen in der EU und der Schweizer (z.B. BGB in Deutschland oder OR in der Schweiz).
 {{% /collapsible %}}
 
 {{% collapsible 3 "Datenschutz gemäss DSG/DSGVO" "check" %}}
@@ -251,22 +251,6 @@ den Signaturstandards FES und QES wählen.**
 {{< /cta >}}
 
 
-[//]: # (--------------------------------------------------------------------------------------------------------------)
-
-{{< side-by-side top=24 width=narrow bottom=24 mobile-top=6 mobile-bottom=12 img=qes-increase img-position=right img-width=315 img-alt="Ein Mann sitzt vor einem Laptop, über ihm befindet sich ein Software-Fenster, über dem eine Frau mit einer großen Lupe auffällt und einen Ausweis kontrolliert." >}}
-{{% markdown %}}
-Lassen Sie sich identifizieren
-===============
-Damit schalten Sie den höchsten verfügbaren E-Signatur-Standard QES frei. Sie benötigen nur ein gültiges Reisedokument (ID oder Pass).
-{{% /markdown %}}
-<br>
-{{< button
-  "Jetzt QES freischalten"
-  "/de/qes-freischalten/"
-  ""
-  "outline"
->}}
-{{< /side-by-side >}}
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
 {{< content text=center top=20 bottom=4 width=narrow >}}

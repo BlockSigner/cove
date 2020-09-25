@@ -50,7 +50,7 @@ avec la plus haute norme de signature électronique (SEQ).
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< side-by-side top=24 bottom=12 img=sign-parallel mobile-top=12 mobile-bottom=6 img-width=387 img-alt="L'homme signe un contrat avec deux autres personnes" >}}
+{{< side-by-side top=24 bottom=12 img=legal-01 mobile-top=12 mobile-bottom=6 img-position=right img-width=500 img-alt="2 signataires sont invités et peuvent automatiquement signer ensemble." >}}
 {{% markdown %}}
 ## Toutes les parties contractantes signent numériquement
 Parties contractantes multiples: au lieu de s'envoyer des contrats par la poste, elles signent toutes en ligne, ce qui leur fait gagner du temps.
@@ -66,7 +66,7 @@ le contrat a été signé
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< side-by-side top=24 bottom=24 mobile-top=6 mobile-bottom=6 img=batch-process img-position=right img-width=380 img-alt="Une agrafe de documents peut être signée en un seul clic" >}}
+{{< side-by-side top=24 bottom=24 mobile-top=6 mobile-bottom=6 img=legal-02 img-width=500 img-alt="Plusieurs documents peuvent être signés en un seul clic." >}}
 {{% markdown %}}
 ## Complétez la pile avec une seule signature
 Dossier de signature numérique: collectez vos contrats numériquement et signez-les simultanément en quelques clics. Grâce au standard SEQ, vous n'avez pas besoin d'une clé USB ou d'un lecteur de carte.
@@ -87,7 +87,7 @@ mobile – aucun matériel externe requis
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< side-by-side top=24 bottom=12 mobile-top=6 mobile-bottom=6 img=authorities-input img-width=394 img-alt="Deux personnes interviennent pas à pas auprès des autorités" >}}
+{{< side-by-side top=24 bottom=12 mobile-top=6 mobile-bottom=6 img=legal-03 img-position=right img-width=525 img-alt="Les documents peuvent être soumis aux autorités." >}}
 {{% markdown %}}
 ## Faites des soumissions aux autorités en ligne
 Des modifications du registre du commerce
@@ -102,7 +102,7 @@ aux requêtes judiciaires: il n'est pas nécessaire d'imprimer, d'envoyer ou de 
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< side-by-side top=24 bottom=12 mobile-top=6 mobile-bottom=12 img=crm-systeme-lawyer img-position=right img-width=421 img-alt="Signez à partir de vos systèmes existants, par exemple WinJur ou Vertec." >}}
+{{< side-by-side top=24 bottom=12 mobile-top=6 mobile-bottom=12 img=legal-04 img-width=500 img-alt="Un cercle montre comment je peux signer à partir de mon nuage." >}}
 {{% markdown %}}
 ## Aucun nouveau logiciel requis
 Restez avec des outils familiers: connectez-vous directement via votre navigateur ou signez
@@ -257,24 +257,6 @@ avec exigences formelles juridiques ou avec un risque de responsabilité fort.
 {{< /cta >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
-
-{{< side-by-side top=24 width=narrow bottom=24 mobile-top=6 mobile-bottom=12 img=qes-increase img-position=right img-width=315 img-alt="Un homme est assis devant un ordinateur portable, au-dessus de lui se trouve une fenêtre de logiciel, où une femme se distingue avec une grande loupe et vérifie une carte d'identité." >}}
-{{% markdown %}}
-Laissez-vous identifier
-===============
-Cela vous permet d'activer la norme de signature électronique QES la plus élevée disponible. Vous avez seulement besoin d'un document de voyage valide (carte d'identité ou passeport).
-{{% /markdown %}}
-<br>
-{{< button
-  "Déverrouiller SEQ maintenant"
-  "/fr/debloquez-seq/"
-  ""
-  "outline"
->}}
-{{< /side-by-side >}}
-
-[//]: # (--------------------------------------------------------------------------------------------------------------)
-
 
 {{< content text=center top=16 bottom=4 width=narrow >}}
 {{% markdown %}}

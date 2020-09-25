@@ -51,7 +51,7 @@ with the highest e-signing standard (QES).
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< side-by-side top=24 bottom=12 img=sign-parallel mobile-top=12 mobile-bottom=6 img-width=387 img-alt="Man sign a contract with two other people at the same time" >}}
+{{< side-by-side top=16 bottom=12 img=legal-01 mobile-top=12 img-position=right mobile-bottom=6 img-width=500 img-alt="2 signatories are invited and can automatically sign together" >}}
 {{% markdown %}}
 ## All contractual parties sign digitally
 Multiple contractual parties: Instead of sending contracts by post from one person to the next, everyone signs online, saving time.
@@ -67,7 +67,7 @@ the contract is signed
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< side-by-side top=24 bottom=24 mobile-top=6 mobile-bottom=6 img=batch-process img-position=right img-width=380 img-alt="A stack of documents is signed with one click" >}}
+{{< side-by-side top=16 bottom=12 mobile-top=6 mobile-bottom=6 img=legal-02 img-width=500 img-alt="Several documents can be signed with one click" >}}
 {{% markdown %}}
 ## Finish the pile with only one signature
 Digital signature folder: Collect your contracts digitally and sign them simultaneously with just a few clicks. Despite the QES standard, you don't need a USB stick or card reader.
@@ -87,7 +87,7 @@ no external hardware required
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< side-by-side top=24 bottom=12 mobile-top=6 mobile-bottom=6 img=authorities-input img-width=394 img-alt="Two people make step-by-step entries to authorities." >}}
+{{< side-by-side top=24 bottom=12 mobile-top=6 mobile-bottom=6 img=legal-03 img-width=525 img-position=right img-alt="Documents can be entered into authorities" >}}
 {{% markdown %}}
 ## Entries with authorities made online
 From changes to the commercial register to court submissions: Printing, sending and scanning are no longer necessary.
@@ -102,7 +102,7 @@ law firms and authorities/courts in Switzerland
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< side-by-side top=24 bottom=16 mobile-top=6 mobile-bottom=12 img=crm-systeme-lawyer img-position=right img-width=421 img-alt="Existing systems, e.g. Google Drive, One Drive, Drop Box or Secure Safe" >}}
+{{< side-by-side top=16 bottom=12 mobile-top=6 mobile-bottom=12 img=legal-04 img-width=500 img-alt="A circle shows how I can sign from my cloud." >}}
 {{% markdown %}}
 ## No new software required
 Stay with familiar tools: Sign directly via your browser or from your existing software.
@@ -125,12 +125,12 @@ with the following requirements:
 {{< /content >}}
 
 {{< content top=6 width=narrow >}}
-{{% collapsible 1 "E-signature standards according to ZertES/eIDAS" "check" %}}
+{{% collapsible 1 "E-signature standards according to eIDAS/ZertES" "check" %}}
 Skribble works with legally defined e-signature standards: The qualified electronic signature (QES), the advanced electronic signature (AES) and the simple electronic signature (SES).
 {{% /collapsible %}}
 
-{{% collapsible 2 "Requirement of written form according to OR/BGB" "check" %}}
-The qualified electronic signature (QES) available on Skribble is legally equivalent to a handwritten signature in Switzerland and the EU (eg. OR in Switzerland or BGB in Germany).
+{{% collapsible 2 "Requirement of written form according to BGB/OR" "check" %}}
+The qualified electronic signature (QES) available on Skribble is legally equivalent to a handwritten signature in the EU and Switzerland (eg. BGB in Germany or OR in Switzerland).
 {{% /collapsible %}}
 
 {{% collapsible 3 "Data protection according to FADP/GDPR" "check" %}}
@@ -253,25 +253,6 @@ between the signature standards AES and QES.**
 
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
-
-
-{{< side-by-side top=24 width=narrow bottom=24 mobile-top=6 mobile-bottom=12 img=qes-increase img-position=right img-width=315 img-alt="A man is sitting in front of a laptop, above him is a software window, where a woman stands out with a big magnifying glass and checks an identity card." >}}
-{{% markdown %}}
-Get identified
-===============
-This enables you to activate the highest available e-signature standard QES. You only need a valid travel document (ID or passport).
-{{% /markdown %}}
-<br>
-{{< button
-  "Enable QES now"
-  "/enable-qes/"
-  ""
-  "outline"
->}}
-{{< /side-by-side >}}
-
-[//]: # (--------------------------------------------------------------------------------------------------------------)
-
 
 {{< content text=center top=24 bottom=4 width=narrow >}}
 {{% markdown %}}
