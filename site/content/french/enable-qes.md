@@ -46,7 +46,7 @@ par contact personnel
 ===============
 
 Passez à l'un de nos lieux d'identification.
-avec l’ID-app de Swisscom.
+Nous vous identifierons gratuitement en quelques minutes.
 {{% /markdown %}}
 {{< /content >}}
 
