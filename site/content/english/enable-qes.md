@@ -46,7 +46,7 @@ Switzerland: Face-to-face
 identification
 ===============
 Drop in at one of our identification sites.
-with the Swisscom ID app.
+We will identify you free of charge within a few minutes.
 {{% /markdown %}}
 {{< /content >}}
 
