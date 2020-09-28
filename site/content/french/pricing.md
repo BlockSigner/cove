@@ -21,8 +21,8 @@ Skribble permet de signer vos contrats en un clin d’œil – Validité mondial
 
 {{< pricing-col >}}
   {{< pricing-card
-    price="2.50/"
-    currency=CHF
+    price="2.50"
+    currency="CHF /" 
     period=signature
     small="jusqu'à un plafond de CHF 30.-, plus les signatures des parties externes*."
     feature="2 signatures par mois gratuites"
@@ -54,7 +54,7 @@ Skribble permet de signer vos contrats en un clin d’œil – Validité mondial
   {{< pricing-card
     featured=true
     price=85
-    currency=CHF/
+    currency="CHF /"
     period=mois
     small="Facture annuelle (1 020.−/ année) ou mensuelle (100.−/ mois)."
     feature="600 signatures par année"
