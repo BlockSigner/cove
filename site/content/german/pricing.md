@@ -233,7 +233,7 @@ Mit Skribble signieren Sie Ihre Verträge innert Sekunden – global rechtsgült
         <td>{{< pricing-check >}}</td>
       </tr>
       <tr>
-        <td>Fehlende Signierende einladen</td>
+        <td>Fehlende Signierende später einladen</td>
         <td>{{< pricing-check >}}</td>
         <td>{{< pricing-check filled=true >}}</td>
         <td>{{< pricing-check >}}</td>
