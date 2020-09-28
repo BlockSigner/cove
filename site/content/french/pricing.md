@@ -237,7 +237,7 @@ Skribble permet de signer vos contrats en un clin d’œil – Validité mondial
         <td>{{< pricing-check >}}</td>
       </tr>
       <tr>
-        <td>Inviter les signataires manquants</td>
+        <td>Inviter les signataires manquants plus tard</td>
         <td>{{< pricing-check >}}</td>
         <td>{{< pricing-check filled=true >}}</td>
         <td>{{< pricing-check >}}</td>
