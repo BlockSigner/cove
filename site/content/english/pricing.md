@@ -26,7 +26,7 @@ with the highest data protection standards in Switzerland.
     price=2.50
     currency="CHF /"
     period=signature
-    small="up to a maximum of CHF 30.-, plus signatures from external parties*."
+    small="up to a maximum of CHF 30, plus signatures from external parties*."
     feature="2 signatures/ month free of charge"
     feature-small="*If you invite other people to sign, an additional CHF 2.00 to 2.50 per signature is added."
     cta-label="Get started"
