@@ -1,6 +1,6 @@
 ---
-title: Die digitale Unterschrift im Human Resources von Skribble
-description: Unkompliziert und rechtsicher Arbeitsverträge, Arbeitszeugnisse und Lohnausweise signieren. Mit der Stapelsignatur können Sie alle PDfs mit einem Klick unterschreiben.
+title: Elektronische Signatur für Steuerberater von Skribble
+description: Mit Skribble signieren Sie und Ihre Mandanten schneller und sicherer, von Jahresabschlüssen über Mandandenverträge bis Freigabeerklärungen.
 draft: false
 slug: steuerberater
 
