@@ -22,7 +22,7 @@ Mit Skribble signieren Sie Ihre Verträge innert Sekunden – global rechtsgült
     price=2.50
     currency="CHF /"
     period=Signatur
-    small="bis zu einer Obergrenze von CHF 30.-, zzgl. Signaturen von Externen*."
+    small="bis zu einer Obergrenze von CHF 30.–, zzgl. Signaturen von Externen*."
     feature="2 Signaturen pro Monat kostenlos"
     feature-small="*Laden Sie andere zum Signieren ein, kommen weitere CHF 2.00 bis 2.50 pro Signatur hinzu."
     cta-label="Jetzt loslegen"
@@ -49,11 +49,10 @@ Mit Skribble signieren Sie Ihre Verträge innert Sekunden – global rechtsgült
 
 {{< pricing-col >}}
   {{< pricing-card
-    featured=true
     price=85
     currency="CHF /"
     period=Monat
-    small="bei jährlicher Abrechnung (CHF 1’020/ Jahr) bei monatlicher Abrechnung: CHF 100/ Monat"
+    small="bei jährlicher Abrechnung (CHF 1’020.–/ Jahr) bei monatlicher Abrechnung: CHF 100.–/ Monat"
     feature="600 Signaturen pro Jahr inklusive"
     feature-small="Zusätzliche Signaturen werden verrechnet mit: CHF 1.20 (EES), CHF 1.70 (FES), CHF 2.50 (QES)."
     cta-label="Sales kontaktieren"
@@ -69,7 +68,7 @@ Mit Skribble signieren Sie Ihre Verträge innert Sekunden – global rechtsgült
 
   {{< pricing-highlights title=Highlights >}}
   {{% markdown %}}
-  - Innert weniger Tagen unternehmensweit einsatzbereit 
+  - Innerhalb weniger Tage unternehmensweit einsatzbereit 
   - Zentrale Administration und  Mitgliederverwaltung
   - Externe können ohne Skribble-Konto signieren
   - Über den Browser signieren oder an eigene Systeme anbinden via API
@@ -642,13 +641,13 @@ Mit Skribble signieren Sie Ihre Verträge innert Sekunden – global rechtsgült
         <td>
           Firmen-E-Mail-Adresse (FES für Business)
           <div class="pricing-table__mobile-details  hide-for-desktop">
-            <span>{{< pricing-info filled=true >}} CHF 890.-, einmalig</span>
+            <span>{{< pricing-info filled=true >}} CHF 890.–, einmalig</span>
           </div>
         </td>
         <td>—</td>
         <td>
           <span class="hide-for-desktop">{{< pricing-info filled=true >}}</span>
-          <span class="hide-for-mobile">CHF 890.-, einmalig</span>
+          <span class="hide-for-mobile">CHF 890.–, einmalig</span>
         </td>
         <td>{{< pricing-check >}}</td>
       </tr>
@@ -668,40 +667,40 @@ Mit Skribble signieren Sie Ihre Verträge innert Sekunden – global rechtsgült
         <td>
           Identifikation selbst mit ID-App von Swisscom durchführen
           <div class="pricing-table__mobile-details  hide-for-desktop">
-            <span>{{< pricing-info filled=true >}} <strong>B</strong>: CHF 1’900.-, einmalig</span>
-            <span>{{< pricing-info >}} <strong>E</strong>: CHF 1’900.-, einmalig</span>
+            <span>{{< pricing-info filled=true >}} <strong>B</strong>: CHF 1’900.–, einmalig</span>
+            <span>{{< pricing-info >}} <strong>E</strong>: CHF 1’900.–, einmalig</span>
           </div>
         </td>
         <td>—</td>
         <td>
           <span class="hide-for-desktop">{{< pricing-info filled=true >}}</span>
-          <span class="hide-for-mobile">CHF 1’900.-, einmalig</span>
+          <span class="hide-for-mobile">CHF 1’900.–, einmalig</span>
         </td>
         <td>
           <span class="hide-for-desktop">{{< pricing-info >}}</span>
-          <span class="hide-for-mobile">CHF 1’900.-, einmalig</span>
+          <span class="hide-for-mobile">CHF 1’900.–, einmalig</span>
         </td>
       </tr>
       <tr>
         <td>
-          Remote Identifikation (z.B. online via Video)
+          Remote-Identifikation (z.B. online via Video)
           <div class="pricing-table__mobile-details  hide-for-desktop">
-            <span>{{< pricing-info >}} <strong>P</strong>: CHF 19.-, einmalig</span>
-            <span>{{< pricing-info filled=true >}} <strong>B</strong>: CHF 19.-, einmalig</span>
-            <span>{{< pricing-info >}} <strong>E</strong>: CHF 19.-, einmalig</span>
+            <span>{{< pricing-info >}} <strong>P</strong>: CHF 19.–, einmalig</span>
+            <span>{{< pricing-info filled=true >}} <strong>B</strong>: CHF 19.–, einmalig</span>
+            <span>{{< pricing-info >}} <strong>E</strong>: CHF 19.–, einmalig</span>
           </div>
         </td>
         <td>
           <span class="hide-for-desktop">{{< pricing-info filled=true >}}</span>
-          <span class="hide-for-mobile">CHF 19.-, einmalig</span>
+          <span class="hide-for-mobile">CHF 19.–, einmalig</span>
         </td>
         <td>
           <span class="hide-for-desktop">{{< pricing-info >}}</span>
-          <span class="hide-for-mobile">CHF 19.-, einmalig</span>
+          <span class="hide-for-mobile">CHF 19.–, einmalig</span>
         </td>
         <td>
           <span class="hide-for-desktop">{{< pricing-info >}}</span>
-          <span class="hide-for-mobile">CHF 19.-, einmalig</span>
+          <span class="hide-for-mobile">CHF 19.–, einmalig</span>
         </td>
       </tr>
       <tr>
