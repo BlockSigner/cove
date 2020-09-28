@@ -11,7 +11,9 @@ og_image: og/og-skribble-mission.jpg
 {{< content text=center top=16 bottom=8 width=narrow >}}
 {{% markdown %}}
 # Plans and pricing
-With Skribble you sign your contracts within seconds - globally legally valid, secured in accordance with the highest data protection standards in Switzerland.
+Skribble enables you to sign your contracts within seconds – 
+legally valid worldwide and secured in accordance 
+with the highest data protection standards in Switzerland.
 {{% /markdown %}}
 {{< /content >}}
 
@@ -34,18 +36,18 @@ With Skribble you sign your contracts within seconds - globally legally valid, s
   >}}
   {{% markdown %}}
   ## Fair Flat
-  For individuals, 
-  appreciate efficient work.
+  For individual users 
+  who value efficient work.
   &nbsp;
   {{% /markdown %}}
   {{< /pricing-card >}}
 
   {{< pricing-highlights title=Highlights >}}
   {{% markdown %}}
-  - Ready for immediate use on smartphone and desktop
-  - Sign anywhere and without USB stick or smart card
+  - Ready for immediate use on your smartphone and computer
+  - Sign anywhere without a USB stick or smart card
   - Invite others to sign by e-mail
-  - Sign several documents at once
+  - Sign multiple documents at once
   {{% /markdown %}}
   {{< /pricing-highlights >}}
 {{< /pricing-col >}}
@@ -56,9 +58,9 @@ With Skribble you sign your contracts within seconds - globally legally valid, s
     price=85
     currency="CHF /"
     period=month
-    small="for annual billing (CHF 1,020/year) for monthly billing: CHF 100/month"
-    feature="600 signatures per year included"
-    feature-small="Additional signatures will be charged for: CHF 1.20 (EES), CHF 1.70 (FES), CHF 2.50 (QES)."
+    small="yearly (CHF 1’020/year) or monthly (CHF 100/month) billing"
+    feature="Includes 600 signatures per year"
+    feature-small="that can be used for all e-signature standards. Additional signatures will be charged extra: CHF 1.20 (SES), CHF 1.70 (AES) or CHF 2.50 (QES)."
     cta-label="Contact Sales"
     cta-href="https://share.hsforms.com/1eikgwNSWS9aCXBpqMVvrtQ309ws"
     cta-target="_blank"
@@ -66,26 +68,27 @@ With Skribble you sign your contracts within seconds - globally legally valid, s
   >}}
   {{% markdown %}}
   ## Business
-  For companies and departments that want to get started immediately.
+  For companies and departments that want to get started right away.
+  &nbsp;
   {{% /markdown %}}
   {{< /pricing-card >}}
 
   {{< pricing-highlights title=Highlights >}}
   {{% markdown %}}
-  - Ready for company-wide use within a few days 
+  - Ready to use throughout a company within a few days 
   - Central administration and membership management
-  - External users can sign without a Skribble account
-  - Sign via browser or connect to own systems via API
+  - External parties can sign without having a Skribble account
+  - Sign directly via your browser or integrate Skribble into your own systems via API
   {{% /markdown %}}
   {{< /pricing-highlights >}}
 {{< /pricing-col >}}
 
 {{< pricing-col >}}
   {{< pricing-card
-    no-price-text="Individual offer"
-    small="Quotation on request - Please contact our sales department."
-    feature="Individual volume license"
-    feature-small="Is concluded for 12 months at a time."
+    no-price-text="Custom offer"
+    small="Get in touch with our sales team to request a quote."
+    feature="Flexible volume licence"
+    feature-small="valid for 12 months"
     cta-label="Contact Sales"
     cta-href="https://share.hsforms.com/1eikgwNSWS9aCXBpqMVvrtQ309ws"
     cta-target="_blank"
@@ -93,20 +96,18 @@ With Skribble you sign your contracts within seconds - globally legally valid, s
   >}}
   {{% markdown %}}
   ## Enterprise
-  For large companies who appreciate high service and flexibility.
+  For large companies with the highest demands on service and flexibility.
   {{% /markdown %}}
   {{< /pricing-card >}}
-
   {{< pricing-highlights title=Highlights >}}
   {{% markdown %}}
   - Personal Account Executive and Priority Support
   - Service Level Agreement (SLA) with high availability guarantee
-  - Single-Sign-On for easy access for all employees
-  - Extended options for branding and personalisation
+  - Simple access for all employees via Single sign-on
+  - Advanced branding and customisation options
   {{% /markdown %}}
   {{< /pricing-highlights >}}
 {{< /pricing-col >}}
-
 {{< /pricing-group >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
@@ -124,7 +125,7 @@ With Skribble you sign your contracts within seconds - globally legally valid, s
   <table>
     <thead>
       <tr>
-        <th>Signieren</th>
+        <th>Signing</th>
         <th>
           <span class="hide-for-desktop">F</span>
           <span class="hide-for-mobile">Fair Flat</span></th>
@@ -140,103 +141,109 @@ With Skribble you sign your contracts within seconds - globally legally valid, s
     </thead>
     <tbody>
       <tr>
-        <td>Qualifizierte elektronische Signatur (QES)</td>
+        <td>Qualified electronic signature (QES)</td>
         <td>{{< pricing-check >}}</td>
         <td>{{< pricing-check filled=true >}}</td>
         <td>{{< pricing-check >}}</td>
       </tr>
       <tr>
-        <td>Fortgeschrittene elektronische Signatur (FES)</td>
+        <td>Advanced electronic signature (AES)</td>
         <td>{{< pricing-check >}}</td>
         <td>{{< pricing-check filled=true >}}</td>
         <td>{{< pricing-check >}}</td>
       </tr>
       <tr>
-        <td>Einfache elektronische Signatur (EES)</td>
+        <td>Simple electronic signature (SES)</td>
+        <td>{{< pricing-check >}}</td>
+        <td>{{< pricing-check filled=true >}}</td>
+        <td>{{< pricing-check >}}</td>
+      </tr>
+       <tr>
+        <td>AATL-compliant</td>
         <td>{{< pricing-check >}}</td>
         <td>{{< pricing-check filled=true >}}</td>
         <td>{{< pricing-check >}}</td>
       </tr>
       <tr>
-        <td>Weltweite Rechtsgültigkeit</td>
+        <td>Global legal validity (compliant with eIDAS, ZertES, UETA, ESIGN, and others)</td>
         <td>{{< pricing-check >}}</td>
         <td>{{< pricing-check filled=true >}}</td>
         <td>{{< pricing-check >}}</td>
       </tr>
       <tr>
         <td>
-          Elektronisches Siegel (Organisationssignatur)
+          Electronic Seals (Organisation Signatures)
           <div class="pricing-table__mobile-details  hide-for-desktop">
-            <span>{{< pricing-info filled=true >}} <strong>B</strong>: Auf Anfrage</span>
-            <span>{{< pricing-info >}} <strong>E</strong>: Auf Anfrage</span>
+            <span>{{< pricing-info filled=true >}} <strong>B</strong>: On request</span>
+            <span>{{< pricing-info >}} <strong>E</strong>: On request</span>
           </div>
         </td>
         <td>—</td>
         <td>
           <span class="hide-for-desktop">{{< pricing-info filled=true >}}</span>
-          <span class="hide-for-mobile">Auf Anfrage</span>
+          <span class="hide-for-mobile">On request</span>
         </td>
         <td>
           <span class="hide-for-desktop">{{< pricing-info >}}</span>
-          <span class="hide-for-mobile">Auf Anfrage</span>
+          <span class="hide-for-mobile">On request</span>
         </td>
       </tr>
       <tr>
-        <td>Per E-Mail zum Signieren einladen</td>
+        <td>Invite others to sign by e-mail</td>
         <td>{{< pricing-check >}}</td>
         <td>{{< pricing-check filled=true >}}</td>
         <td>{{< pricing-check >}}</td>
       </tr>
       <tr>
-        <td>Signieren via Smartphone und Desktop</td>
+        <td>Sign via smartphone and computer</td>
         <td>{{< pricing-check >}}</td>
         <td>{{< pricing-check filled=true >}}</td>
         <td>{{< pricing-check >}}</td>
       </tr>
       <tr>
-        <td>Externe können ohne Skribble-Konto signieren (EES-Standard)</td>
+        <td>External parties can sign without having a Skribble account (simple electronic signature only)</td>
         <td>{{< pricing-check >}}</td>
         <td>{{< pricing-check filled=true >}}</td>
         <td>{{< pricing-check >}}</td>
       </tr>
       <tr>
-        <td>Externe können ohne Skribble-Konto signieren (alle E-Signatur-Standards, mit API-Anbindung)</td>
+        <td>External parties can sign without having a Skribble account (available via API for all e-signature standards)</td>
         <td>—</td>
         <td>{{< pricing-check filled=true >}}</td>
         <td>{{< pricing-check >}}</td>
       </tr>
       <tr>
-        <td>Mehrere Dokumente auf einmal hochladen</td>
+        <td>Upload multiple documents at once</td>
         <td>{{< pricing-check >}}</td>
         <td>{{< pricing-check filled=true >}}</td>
         <td>{{< pricing-check >}}</td>
       </tr>
       <tr>
-        <td>Mehrere Dokumente auf einmal signieren</td>
+        <td>Sign multiple documents at once</td>
         <td>{{< pricing-check >}}</td>
         <td>{{< pricing-check filled=true >}}</td>
         <td>{{< pricing-check >}}</td>
       </tr>
       <tr>
-        <td>Visuelle Signatur gestalten und anbringen</td>
+        <td>Create and apply visual signature to documents</td>
         <td>{{< pricing-check >}}</td>
         <td>{{< pricing-check filled=true >}}</td>
         <td>{{< pricing-check >}}</td>
       </tr>
       <tr>
-        <td>Signatureinladung ablehnen</td>
+        <td>Decline signature invitation</td>
         <td>{{< pricing-check >}}</td>
         <td>{{< pricing-check filled=true >}}</td>
         <td>{{< pricing-check >}}</td>
       </tr>
       <tr>
-        <td>Signatur jemand anderem zuweisen</td>
+        <td>Assign signature to someone else</td>
         <td>{{< pricing-check >}}</td>
         <td>{{< pricing-check filled=true >}}</td>
         <td>{{< pricing-check >}}</td>
       </tr>
       <tr>
-        <td>Fehlende Signierende einladen</td>
+        <td>Add additional signers later</td>
         <td>{{< pricing-check >}}</td>
         <td>{{< pricing-check filled=true >}}</td>
         <td>{{< pricing-check >}}</td>
@@ -271,7 +278,7 @@ With Skribble you sign your contracts within seconds - globally legally valid, s
   <table>
     <thead>
       <tr>
-        <th>Verwalten und integrieren</th>
+        <th>Management and integration</th>
         <th>
           <span class="hide-for-desktop">F</span>
           <span class="hide-for-mobile">Fair Flat</span></th>
@@ -287,49 +294,49 @@ With Skribble you sign your contracts within seconds - globally legally valid, s
     </thead>
     <tbody>
       <tr>
-        <td>Zentrale Mitgliederverwaltung</td>
+        <td>Centralised member administration</td>
         <td>—</td>
         <td>{{< pricing-check filled=true >}}</td>
         <td>{{< pricing-check >}}</td>
       </tr>
       <tr>
-        <td>Administrationsrechte vergeben</td>
+        <td>Grant administrator rights</td>
         <td>—</td>
         <td>{{< pricing-check filled=true >}}</td>
         <td>{{< pricing-check >}}</td>
       </tr>
       <tr>
-        <td>Aktivitätsübersicht</td>
+        <td>Activity overview</td>
         <td>—</td>
         <td>{{< pricing-check filled=true >}}</td>
         <td>{{< pricing-check >}}</td>
       </tr>
       <tr>
-        <td>Anmelden mit Unternehmenskonto (Single-Sign-On, SSO)</td>
+        <td>Sign in with company account via SSO (Single sign-on)</td>
         <td>—</td>
         <td>—</td>
         <td>{{< pricing-check >}}</td>
       </tr>
       <tr>
-        <td>Mitarbeitende automatisch hinzufügen (Managed Domains)</td>
+        <td>Add employees automatically (Managed Domains)</td>
         <td>—</td>
         <td>{{< pricing-check filled=true >}}</td>
         <td>{{< pricing-check >}}</td>
       </tr>
       <tr>
-        <td>API-Anbindung</td>
+        <td>API integration</td>
         <td>—</td>
         <td>{{< pricing-check filled=true >}}</td>
         <td>{{< pricing-check >}}</td>
       </tr>
       <tr>
-        <td>API-Schlüssel selbst generieren</td>
+        <td>Generate your own API keys</td>
         <td>—</td>
         <td>{{< pricing-check filled=true >}}</td>
         <td>{{< pricing-check >}}</td>
       </tr>
       <tr>
-        <td>API-Testing mit Demo-Account</td>
+        <td>API testing with Demo Account</td>
         <td>—</td>
         <td>{{< pricing-check filled=true >}}</td>
         <td>{{< pricing-check >}}</td>
@@ -364,7 +371,7 @@ With Skribble you sign your contracts within seconds - globally legally valid, s
   <table>
     <thead>
       <tr>
-        <th>Personalisieren</th>
+        <th>Personalisation</th>
         <th>
           <span class="hide-for-desktop">F</span>
           <span class="hide-for-mobile">Fair Flat</span></th>
@@ -380,28 +387,28 @@ With Skribble you sign your contracts within seconds - globally legally valid, s
     </thead>
     <tbody>
       <tr>
-        <td>Hinzufügen persönlicher Nachricht beim Einladen, Zuweisen, Ablehnen</td>
+        <td>Add a personal message to a signature invitation or when assigning or declining signatures</td>
         <td>{{< pricing-check >}}</td>
         <td>{{< pricing-check filled=true >}}</td>
         <td>{{< pricing-check >}}</td>
       </tr>
       <tr>
         <td>
-          Erweiterten Anpassungsmöglichkeiten für visuelle Signatur (z.B. QR-Code entfernen)
+          Extended customisation options for visual signatures (e.g.show or hide QR code)
           <div class="pricing-table__mobile-details hide-for-desktop">
             <span>{{< pricing-info >}} CHF 24.– / Jahr<br>CHF 2.50 / Monat</span>
           </div>
         </td>
         <td>
           <span class="hide-for-desktop">{{< pricing-info >}}</span>
-          <span class="hide-for-mobile">CHF 24.– / Jahr<br>CHF 2.50 / Monat</span>
+          <span class="hide-for-mobile">CHF 24.– / year<br>CHF 2.50 / month</span>
         </td>
         <td>{{< pricing-check filled=true >}}</td>
         <td>{{< pricing-check >}}</td>
       </tr>
       <tr>
         <td>
-          Visuelles Siegel gestalten und anbringen (Organisationssignatur)
+          Create and apply visual electronic seals to documents (Organisation signature)
           <div class="pricing-table__mobile-details hide-for-desktop">
             <span>{{< pricing-info >}} Coming soon</span>
           </div>
@@ -410,25 +417,25 @@ With Skribble you sign your contracts within seconds - globally legally valid, s
         <td>—</td>
         <td>
           <span class="hide-for-desktop">{{< pricing-info >}}</span>
-          <span class="hide-for-mobile">Coming soon</span>
+          <span class="hide-for-mobile">coming soon</span>
         </td>
       </tr>
       <tr>
         <td>
-          Company Branding mit eigenem Logo
+          Company branding with own logo
           <div class="pricing-table__mobile-details hide-for-desktop">
-            <span>{{< pricing-info filled=true >}} CHF 1’500 / Jahr<br>CHF 150 /Monat</span>
+            <span>{{< pricing-info filled=true >}} CHF 1’500 / year<br>CHF 150 /month</span>
           </div>
         </td>
         <td>—</td>
         <td>
           <span class="hide-for-desktop">{{< pricing-info filled=true >}}</span>
-          <span class="hide-for-mobile">CHF 1’500 / Jahr<br>CHF 150 /Monat</span>
+          <span class="hide-for-mobile">CHF 1’500 / year<br>CHF 150 / month</span>
         </td>
         <td>—</td>
       </tr>
       <tr>
-        <td>Automatisierte Löschung finalisierter Dokumente nach benutzerdefinierter Frist</td>
+        <td>Automated deletion of completed documents after user-defined period</td>
         <td>—</td>
         <td>—</td>
         <td>{{< pricing-check >}}</td>
@@ -486,7 +493,7 @@ With Skribble you sign your contracts within seconds - globally legally valid, s
       </tr>
       <tr>
         <td>
-          Technischer Support (E-Mail, Telefon, Chat)
+          Technical Support (e-mail, phone, chat)
           <div class="pricing-table__mobile-details  hide-for-desktop">
             <span>{{< pricing-info >}} <strong>P</strong>: Standard</span>
             <span>{{< pricing-info filled=true >}} <strong>B</strong>: Standard</span>
@@ -507,7 +514,7 @@ With Skribble you sign your contracts within seconds - globally legally valid, s
         </td>
       </tr>
       <tr>
-        <td>Nutzungsanleitung für Administratoren</td>
+        <td>User guides for administrators</td>
         <td>—</td>
         <td>{{< pricing-check filled=true >}}</td>
         <td>{{< pricing-check >}}</td>
@@ -525,13 +532,13 @@ With Skribble you sign your contracts within seconds - globally legally valid, s
         <td>{{< pricing-check >}}</td>
       </tr>
       <tr>
-        <td>Persönlicher Account Executive</td>
+        <td>Personal Account Executive</td>
         <td>—</td>
         <td>—</td>
         <td>{{< pricing-check >}}</td>
       </tr>
       <tr>
-        <td>Unterstützung beim Onboarding</td>
+        <td>Onboarding support</td>
         <td>—</td>
         <td>{{< pricing-check filled=true >}}</td>
         <td>{{< pricing-check >}}</td>
@@ -543,27 +550,27 @@ With Skribble you sign your contracts within seconds - globally legally valid, s
         <td>{{< pricing-check >}}</td>
       </tr>
       <tr>
-        <td>Benutzerdefinierte Rechnungsstellung (z.B. Währung und Rechnungsperiode)</td>
+        <td>Custom invoicing (e.g. currency and billing period)</td>
         <td>—</td>
         <td>—</td>
         <td>{{< pricing-check >}}</td>
       </tr>
       <tr>
         <td>
-          Security Audits (z.B. Penetration Test)
+          Security Audits (e.g. Penetration Test)
           <div class="pricing-table__mobile-details  hide-for-desktop">
-            <span>{{< pricing-info filled=true >}} <strong>B</strong>: Auf Anfrage</span>
-            <span>{{< pricing-info >}} <strong>E</strong>: Auf Anfrage</span>
+            <span>{{< pricing-info filled=true >}} <strong>B</strong>: On request</span>
+            <span>{{< pricing-info >}} <strong>E</strong>: On request</span>
           </div>
         </td>
         <td>—</td>
         <td>
           <span class="hide-for-desktop">{{< pricing-info filled=true >}}</span>
-          <span class="hide-for-mobile">Auf Anfrage</span>
+          <span class="hide-for-mobile">On request</span>
         </td>
         <td>
           <span class="hide-for-desktop">{{< pricing-info >}}</span>
-          <span class="hide-for-mobile">Auf Anfrage</span>
+          <span class="hide-for-mobile">On request</span>
         </td>
       </tr>
       <tr class="no-border hide-for-mobile">
@@ -596,7 +603,7 @@ With Skribble you sign your contracts within seconds - globally legally valid, s
   <table>
     <thead>
       <tr>
-        <th>Identifikationsoptionen und -services</th>
+        <th>Identification options and services</th>
         <th>
           <span class="hide-for-desktop">F</span>
           <span class="hide-for-mobile">Fair Flat</span></th>
@@ -612,46 +619,46 @@ With Skribble you sign your contracts within seconds - globally legally valid, s
     </thead>
     <tbody>
       <tr>
-        <td class="pricing-table__plan-title">EES</td>
+        <td class="pricing-table__plan-title">SES</td>
         <td></td>
         <td></td>
         <td></td>
       </tr>
       <tr>
-        <td>E-mail-Adresse</td>
+        <td>E-mail address</td>
         <td>{{< pricing-check >}}</td>
         <td>{{< pricing-check filled=true >}}</td>
         <td>{{< pricing-check >}}</td>
       </tr>
       <tr>
-        <td class="pricing-table__plan-title">FES</td>
+        <td class="pricing-table__plan-title">AES</td>
         <td></td>
         <td></td>
         <td></td>
       </tr>
       <tr>
-        <td>Schweizer Mobiltelefonnummer</td>
+        <td>Swiss mobile phone number</td>
         <td>{{< pricing-check >}}</td>
         <td>{{< pricing-check filled=true >}}</td>
         <td>{{< pricing-check >}}</td>
       </tr>
       <tr>
-        <td>E-IDs (Level of Trust 2)</td>
+        <td>Electronic identities (Level of Assurance 3)</td>
         <td>{{< pricing-check >}}</td>
         <td>{{< pricing-check filled=true >}}</td>
         <td>{{< pricing-check >}}</td>
       </tr>
       <tr>
         <td>
-          Firmen-E-Mail-Adresse (FES für Business)
+          Company e-mail address (AES for Business)
           <div class="pricing-table__mobile-details  hide-for-desktop">
-            <span>{{< pricing-info filled=true >}} CHF 890.-, einmalig</span>
+            <span>{{< pricing-info filled=true >}} CHF 890.-, (one-time fee)</span>
           </div>
         </td>
         <td>—</td>
         <td>
           <span class="hide-for-desktop">{{< pricing-info filled=true >}}</span>
-          <span class="hide-for-mobile">CHF 890.-, einmalig</span>
+          <span class="hide-for-mobile">CHF 890.-, (one-time fee)</span>
         </td>
         <td>{{< pricing-check >}}</td>
       </tr>
@@ -662,53 +669,53 @@ With Skribble you sign your contracts within seconds - globally legally valid, s
         <td></td>
       </tr>
       <tr>
-        <td>E-IDs (Level of Trust 3)</td>
+        <td>Electronic identities (Level of Assurance 4)</td>
         <td>{{< pricing-check >}}</td>
         <td>{{< pricing-check filled=true >}}</td>
         <td>{{< pricing-check >}}</td>
       </tr>
       <tr>
         <td>
-          Identifikation selbst mit ID-App von Swisscom durchführen
+          Perform identity checks yourself with the ID app (after one-time training)
           <div class="pricing-table__mobile-details  hide-for-desktop">
-            <span>{{< pricing-info filled=true >}} <strong>B</strong>: CHF 1’900.-, einmalig</span>
-            <span>{{< pricing-info >}} <strong>E</strong>: CHF 1’900.-, einmalig</span>
+            <span>{{< pricing-info filled=true >}} <strong>B</strong>: CHF 1’900.-, (one-time fee)</span>
+            <span>{{< pricing-info >}} <strong>E</strong>: CHF 1’900.-, (one-time fee)</span>
           </div>
         </td>
         <td>—</td>
         <td>
           <span class="hide-for-desktop">{{< pricing-info filled=true >}}</span>
-          <span class="hide-for-mobile">CHF 1’900.-, einmalig</span>
+          <span class="hide-for-mobile">CHF 1’900.-, (one-time fee)</span>
         </td>
         <td>
           <span class="hide-for-desktop">{{< pricing-info >}}</span>
-          <span class="hide-for-mobile">CHF 1’900.-, einmalig</span>
+          <span class="hide-for-mobile">CHF 1’900.-, (one-time fee)</span>
         </td>
       </tr>
       <tr>
         <td>
-          Remote Identifikation (z.B. online via Video)
+          Remote identification (e.g. online via video call)
           <div class="pricing-table__mobile-details  hide-for-desktop">
-            <span>{{< pricing-info >}} <strong>P</strong>: CHF 19.-, einmalig</span>
-            <span>{{< pricing-info filled=true >}} <strong>B</strong>: CHF 19.-, einmalig</span>
-            <span>{{< pricing-info >}} <strong>E</strong>: CHF 19.-, einmalig</span>
+            <span>{{< pricing-info >}} <strong>P</strong>: CHF 19.-, (one-time fee)</span>
+            <span>{{< pricing-info filled=true >}} <strong>B</strong>: CHF 19.-, (one-time fee)</span>
+            <span>{{< pricing-info >}} <strong>E</strong>: CHF 19.-, (one-time fee)</span>
           </div>
         </td>
         <td>
           <span class="hide-for-desktop">{{< pricing-info filled=true >}}</span>
-          <span class="hide-for-mobile">CHF 19.-, einmalig</span>
+          <span class="hide-for-mobile">CHF 19.-, (one-time fee)</span>
         </td>
         <td>
           <span class="hide-for-desktop">{{< pricing-info >}}</span>
-          <span class="hide-for-mobile">CHF 19.-, einmalig</span>
+          <span class="hide-for-mobile">CHF 19.-, (one-time fee)</span>
         </td>
         <td>
           <span class="hide-for-desktop">{{< pricing-info >}}</span>
-          <span class="hide-for-mobile">CHF 19.-, einmalig</span>
+          <span class="hide-for-mobile">CHF 19.-, (one-time fee)</span>
         </td>
       </tr>
       <tr>
-        <td>Persönliche Identifikation (an einem Identifikationsstandort)</td>
+        <td>Personal identification (at one of our locations)</td>
         <td>{{< pricing-check >}}</td>
         <td>{{< pricing-check filled=true >}}</td>
         <td>{{< pricing-check >}}</td>

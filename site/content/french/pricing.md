@@ -165,6 +165,12 @@ Skribble permet de signer vos contrats en un clin d’œil – Validité mondial
         <td>{{< pricing-check >}}</td>
       </tr>
       <tr>
+        <td>AATL conforme</td>
+        <td>{{< pricing-check >}}</td>
+        <td>{{< pricing-check filled=true >}}</td>
+        <td>{{< pricing-check >}}</td>
+      </tr>
+      <tr>
         <td>
           Sceau électronique (signature d’entreprise)
           <div class="pricing-table__mobile-details  hide-for-desktop">
