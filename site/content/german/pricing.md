@@ -53,7 +53,7 @@ Mit Skribble signieren Sie Ihre Verträge innert Sekunden – global rechtsgült
     price=85
     currency=CHF/
     period=Monat
-    small="bei jährlicher Abrechnung (CHF 1’020.-/Jahr) bei monatlicher Abrechnung: CHF 100.-/Monat"
+    small="bei jährlicher Abrechnung (CHF 1’020/ Jahr) bei monatlicher Abrechnung: CHF 100/ Monat"
     feature="600 Signaturen pro Jahr inklusive"
     feature-small="Zusätzliche Signaturen werden verrechnet mit: CHF 1.20 (EES), CHF 1.70 (FES), CHF 2.50 (QES)."
     cta-label="Sales kontaktieren"
@@ -90,7 +90,7 @@ Mit Skribble signieren Sie Ihre Verträge innert Sekunden – global rechtsgült
   >}}
   {{% markdown %}}
   ## Enterprise
-  Für Grossunternehmen, die hohen Service und Flexibilität schätzen.
+  Für Grossunternehmen, die top Service & Flexibilität wünschen.
   {{% /markdown %}}
   {{< /pricing-card >}}
 
@@ -384,14 +384,14 @@ Mit Skribble signieren Sie Ihre Verträge innert Sekunden – global rechtsgült
       </tr>
       <tr>
         <td>
-          Erweiterten Anpassungsmöglichkeiten für visuelle Signatur (z.B. QR-Code entfernen)
+          Erweiterte Anpassungsmöglichkeiten für visuelle Signatur (z.B. QR-Code entfernen)
           <div class="pricing-table__mobile-details hide-for-desktop">
-            <span>{{< pricing-info >}} CHF 24.– / Jahr<br>CHF 2.50 / Monat</span>
+            <span>{{< pricing-info >}} CHF 24.–/ Jahr<br>CHF 2.50/ Monat</span>
           </div>
         </td>
         <td>
           <span class="hide-for-desktop">{{< pricing-info >}}</span>
-          <span class="hide-for-mobile">CHF 24.– / Jahr<br>CHF 2.50 / Monat</span>
+          <span class="hide-for-mobile">CHF 24.–/ Jahr<br>CHF 2.50/ Monat</span>
         </td>
         <td>{{< pricing-check filled=true >}}</td>
         <td>{{< pricing-check >}}</td>
@@ -414,13 +414,13 @@ Mit Skribble signieren Sie Ihre Verträge innert Sekunden – global rechtsgült
         <td>
           Company Branding mit eigenem Logo
           <div class="pricing-table__mobile-details hide-for-desktop">
-            <span>{{< pricing-info filled=true >}} CHF 1’500 / Jahr<br>CHF 150 /Monat</span>
+            <span>{{< pricing-info filled=true >}} CHF 1’500/ Jahr<br>CHF 150 /Monat</span>
           </div>
         </td>
         <td>—</td>
         <td>
           <span class="hide-for-desktop">{{< pricing-info filled=true >}}</span>
-          <span class="hide-for-mobile">CHF 1’500 / Jahr<br>CHF 150 /Monat</span>
+          <span class="hide-for-mobile">CHF 1’500/ Jahr<br>CHF 150/ Monat</span>
         </td>
         <td>—</td>
       </tr>
@@ -615,7 +615,7 @@ Mit Skribble signieren Sie Ihre Verträge innert Sekunden – global rechtsgült
         <td></td>
       </tr>
       <tr>
-        <td>E-mail-Adresse</td>
+        <td>E-Mail-Adresse</td>
         <td>{{< pricing-check >}}</td>
         <td>{{< pricing-check filled=true >}}</td>
         <td>{{< pricing-check >}}</td>
@@ -633,7 +633,7 @@ Mit Skribble signieren Sie Ihre Verträge innert Sekunden – global rechtsgült
         <td>{{< pricing-check >}}</td>
       </tr>
       <tr>
-        <td>E-IDs (Level of Trust 2)</td>
+        <td>E-IDs (Level of Assurance 3)</td>
         <td>{{< pricing-check >}}</td>
         <td>{{< pricing-check filled=true >}}</td>
         <td>{{< pricing-check >}}</td>
@@ -659,7 +659,7 @@ Mit Skribble signieren Sie Ihre Verträge innert Sekunden – global rechtsgült
         <td></td>
       </tr>
       <tr>
-        <td>E-IDs (Level of Trust 3)</td>
+        <td>E-IDs (Level of Assurance 4)</td>
         <td>{{< pricing-check >}}</td>
         <td>{{< pricing-check filled=true >}}</td>
         <td>{{< pricing-check >}}</td>
