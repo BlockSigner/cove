@@ -1,6 +1,6 @@
 ---
 title: Signez plus facilement avec le bon modèle tarifaire
-description: Skribble convient tant aux signatures occasionnelles qu’aux signatures fréquentes. Comparer les forfaits en détails.
+description: Skribble est idéal pour les petites et grandes entreprises. Comparez les modèles tarifaires.
 draft: false
 slug: tarifs
 # opengraph image (for facebook and twitter)
@@ -21,10 +21,10 @@ Skribble permet de signer vos contrats en un clin d’œil – Validité mondial
 
 {{< pricing-col >}}
   {{< pricing-card
-    price="2.50"
+    price="2.50/"
     currency=CHF
-    period=Signature
-    small="jusqu'à un plafond de 30 CHF, plus les signatures des parties externes*."
+    period=signature
+    small="jusqu'à un plafond de CHF 30.-, plus les signatures des parties externes*."
     feature="2 signatures par mois gratuites"
     feature-small="*Si vous invitez d'autres personnes à signer, un montant supplémentaire de 2,00 à 2,50 CHF par signature est ajouté."
     cta-label="Démarrer"
@@ -54,8 +54,8 @@ Skribble permet de signer vos contrats en un clin d’œil – Validité mondial
   {{< pricing-card
     featured=true
     price=85
-    currency=CHF
-    period=Mois
+    currency=CHF/
+    period=mois
     small="Facture annuelle (1 020.−/ année) ou mensuelle (100.−/ mois)."
     feature="600 signatures par année"
     feature-small="compatibles avec toutes les normes de signature électronique. Les signatures supplémentaires coûtent CHF 1.20 (SES), CHF 1.70 (SEA) ou CHF 2.50 (SEQ)."
@@ -85,7 +85,7 @@ Skribble permet de signer vos contrats en un clin d’œil – Validité mondial
   {{< pricing-card
     no-price-text="Offre personnalisée"
     small="Devis estimatif sur demande – Veuillez contacter notre service commercial."
-    feature="Volume fixé individuellement par contrat conclu pour 12 mois."
+    feature="Volume fixé individuellement conclu pour 12 mois."
     feature-small=""
     cta-label="Contacter les ventes"
     cta-href="https://share.hsforms.com/1JHPHJU3QQz2TlyX14QDdKg309ws"
@@ -532,7 +532,7 @@ Skribble permet de signer vos contrats en un clin d’œil – Validité mondial
         <td>{{< pricing-check >}}</td>
       </tr>
       <tr>
-        <td>Soutien lors de la prise en main</td>
+        <td>Soutien lors de l'introduction</td>
         <td>—</td>
         <td>{{< pricing-check filled=true >}}</td>
         <td>{{< pricing-check >}}</td>
@@ -646,13 +646,13 @@ Skribble permet de signer vos contrats en un clin d’œil – Validité mondial
         <td>
           Adresse e-mail de l‘entreprise (SEA pour Business)
           <div class="pricing-table__mobile-details  hide-for-desktop">
-            <span>{{< pricing-info filled=true >}} CHF 890.-, (montant unique)</span>
+            <span>{{< pricing-info filled=true >}} CHF 890.- (montant unique)</span>
           </div>
         </td>
         <td>—</td>
         <td>
           <span class="hide-for-desktop">{{< pricing-info filled=true >}}</span>
-          <span class="hide-for-mobile">CHF 890.-, (montant unique)</span>
+          <span class="hide-for-mobile">CHF 890.- (montant unique)</span>
         </td>
         <td>{{< pricing-check >}}</td>
       </tr>
@@ -672,40 +672,40 @@ Skribble permet de signer vos contrats en un clin d’œil – Validité mondial
         <td>
           Procéder soi-même à l’identification avec l‘ID-app (après une séance d‘instruction)
           <div class="pricing-table__mobile-details  hide-for-desktop">
-            <span>{{< pricing-info filled=true >}} <strong>B</strong>: CHF 1’900.-, (montant unique)</span>
-            <span>{{< pricing-info >}} <strong>E</strong>: CHF 1’900.-, (montant unique)</span>
+            <span>{{< pricing-info filled=true >}} <strong>B</strong>: CHF 1’900.- (montant unique)</span>
+            <span>{{< pricing-info >}} <strong>E</strong>: CHF 1’900.- (montant unique)</span>
           </div>
         </td>
         <td>—</td>
         <td>
           <span class="hide-for-desktop">{{< pricing-info filled=true >}}</span>
-          <span class="hide-for-mobile">CHF 1’900.-, (montant unique)</span>
+          <span class="hide-for-mobile">CHF 1’900.- (montant unique)</span>
         </td>
         <td>
           <span class="hide-for-desktop">{{< pricing-info >}}</span>
-          <span class="hide-for-mobile">CHF 1’900.-, (montant unique)</span>
+          <span class="hide-for-mobile">CHF 1’900.- (montant unique)</span>
         </td>
       </tr>
       <tr>
         <td>
           Identification à distance (p. ex. en ligne par vidéo)
           <div class="pricing-table__mobile-details  hide-for-desktop">
-            <span>{{< pricing-info >}} <strong>P</strong>: CHF 19.-, (montant unique)</span>
-            <span>{{< pricing-info filled=true >}} <strong>B</strong>: CHF 19.-, (montant unique)</span>
-            <span>{{< pricing-info >}} <strong>E</strong>: CHF 19.-, (montant unique)</span>
+            <span>{{< pricing-info >}} <strong>P</strong>: CHF 19.- (montant unique)</span>
+            <span>{{< pricing-info filled=true >}} <strong>B</strong>: CHF 19.- (montant unique)</span>
+            <span>{{< pricing-info >}} <strong>E</strong>: CHF 19.- (montant unique)</span>
           </div>
         </td>
         <td>
           <span class="hide-for-desktop">{{< pricing-info filled=true >}}</span>
-          <span class="hide-for-mobile">CHF 19.-, (montant unique)</span>
+          <span class="hide-for-mobile">CHF 19.- (montant unique)</span>
         </td>
         <td>
           <span class="hide-for-desktop">{{< pricing-info >}}</span>
-          <span class="hide-for-mobile">CHF 19.-, (montant unique)</span>
+          <span class="hide-for-mobile">CHF 19.- (montant unique)</span>
         </td>
         <td>
           <span class="hide-for-desktop">{{< pricing-info >}}</span>
-          <span class="hide-for-mobile">CHF 19.-, (montant unique)</span>
+          <span class="hide-for-mobile">CHF 19.- (montant unique)</span>
         </td>
       </tr>
       <tr>
