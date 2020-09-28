@@ -1,6 +1,6 @@
 ---
-title: Signer électroniquement dans les RH
-description: Avec Skribble, vous signez en toute sécurité juridique et en toute simplicité par voie numérique – des contrats de travail aux références en passant par les certificats de salaire.
+title: Signature électronique pour les conseillers fiscaux
+description: Avec Skribble, vous et vos clients signez plus rapidement et de manière plus sécurisée – du bilan jusqu’aux comptes annuels et à la planification fiscale.
 draft: false
 slug: consultant-fiscal
 
@@ -13,12 +13,12 @@ og_image: og/og-skribble-tax-consultant.jpg
 Signature électronique 
 pour les conseillers fiscaux
 ===============
-Avec Skribble, vous et vos clients signez plus rapidement et en toute sécurité - des bilans aux états financiers annuels en passant par la planification fiscale.
+Avec Skribble, vous et vos clients signez plus rapidement et de manière plus sécurisée.
 
-**Souvent utilisé pour :**
-- Bilan et états financiers annuels
-- Accords avec les clients
-- Déclarations de décharge
+**Souvent utilisé pour:**
+- Comptes annuels
+- Régime fiscal
+- Contrats clients 
 {{% /markdown %}}
 {{< button
   "Démarrer"
@@ -50,12 +50,12 @@ Avec Skribble, vous et vos clients signez plus rapidement et en toute sécurité
 {{< side-by-side top=16 bottom=12 img=tax-consultant-1 mobile-top=12 mobile-bottom=6 img-width=500 img-position=right img-alt="Un contrat et deux personnes signant ensemble." >}}
 {{% markdown %}}
 ## Plus d'efficacité pour les conseillers fiscaux et leurs clients
-Le détour par l'imprimante et le papier est supprimé : au lieu d'envoyer le bilan et les comptes annuels par la poste, le conseiller fiscal et le client signent électroniquement en quelques secondes. 
+Le détour par l'imprimante et le papier est éliminé: au lieu d'envoyer le bilan et les comptes annuels par la poste, le conseiller fiscal et client signent électroniquement en quelques secondes.
 
-- Par courrier électronique pour signer un accord
-- Les clients peuvent signer sans compte Skribble via un lien d'invitation
-- Confirmation de la signature par téléphone portable - pas besoin de clé USB ni de carte à puce
-- Vérification en quelques secondes de l'exactitude de la signature
+- Inviter à signer par e-mail
+- Les clients sans compte Skribble peuvent utiliser le lien d'invitation pour signer
+- Confirmer la signature par téléphone mobile - pas de clé USB ni de Smart Carte requise
+- En quelques secondes, il peut être vérifié s’il a été signé correctement
 {{% /markdown %}}
 {{< /side-by-side >}}
 
@@ -63,12 +63,12 @@ Le détour par l'imprimante et le papier est supprimé : au lieu d'envoyer le bi
 
 {{< side-by-side top=8 bottom=12 mobile-top=6 mobile-bottom=6 img=tax-consultant-2 img-width=530 img-alt="Un processus de bout en bout montre qui a signé numériquement quand." >}}
 {{% markdown %}}
-## Plus facile que le papier et le stylo
-La signature avec Skribble est intuitive et se fait en quelques secondes. Vous permettez à vos employés et à vos clients de mettre en œuvre de manière transparente des processus numériques qui leur font gagner du temps et de l'argent.
+## Plus facile qu'avec du papier et un stylo
+Signer avec Skribble est intuitif et se fait en quelques secondes. Vous permettez à vos employés et à vos clients des processus numériques qui permettent d’économiser du temps et de l'argent.
 
 - Aperçu de toutes les signatures reçues et en suspens
-- Signer plusieurs documents à la fois avec la signature du lot
-- Signez n'importe où sur votre smartphone ou votre ordinateur - à la maison, sur la route ou au bureau
+- Signer en une fois plusieurs documents avec la signature par lots
+- Signez où que vous soyez, sur votre smartphone ou votre ordinateur - au bureau à domicile, en déplacement ou à la maison
 {{% /markdown %}}
 {{< /side-by-side >}}
 
@@ -77,11 +77,11 @@ La signature avec Skribble est intuitive et se fait en quelques secondes. Vous p
 {{< side-by-side top=8 bottom=12 mobile-top=6 mobile-bottom=6 img=tax-consultant-3 img-width=500 img-position=right img-alt="En fonction de la carte de contrat, la norme de signature appropriée peut être utilisée pour signer." >}}
 {{% markdown %}}
 ## Applicable pour tout document et tout mandat
-Différents documents, différentes exigences. Avec Skribble, tout type de document peut être légalement signé - des états financiers aux déclarations de décharge en passant par les dessins.
+Différents documents, différentes exigences juridiques – avec Skribble, tout type de document peut être légalement signé, y compris les comptes annuels, les planifications fiscaux et les déclarations de décharge.
 
-- Valable pour les contrats avec et sans exigence de forme écrite
+- Légalement valable pour les contrats avec et sans exigence de forme écrite
 - Utilisation interne et externe dans le monde entier
-- Les normes de sécurité les plus élevées et la protection des données bancaires en Suisse
+- Normes de sécurité les plus élevées et protection des données en Suisse à un niveau de sécurité égal à celui des banques.
 {{% /markdown %}}
 {{< /side-by-side >}}
 
@@ -89,11 +89,11 @@ Différents documents, différentes exigences. Avec Skribble, tout type de docum
 
 {{< side-by-side top=8 bottom=12 mobile-top=6 mobile-bottom=12 img=tax-consultant-4 img-width=500 img-alt="Un cercle montre comment je peux signer depuis mon nuage." >}}
 {{% markdown %}}
-## Rester avec des outils et des processus familiers
-Intégrez Skribble dans le logiciel de votre cabinet d'avocats ou signez directement via le navigateur. Les clients peuvent s'inscrire avec n'importe quel système d'exploitation via un lien d'invitation.
+## Restez avec des outils et des processus familiers
+Intégrez Skribble dans le logiciel de votre cabinet ou signez directement par le navigateur. Les clients peuvent signer avec n'importe quel système d'exploitation par un lien d'invitation.
 
-- Une intégration transparente grâce à des API modernes
-- Les employés et les clients à bord sans effort et dans les plus brefs délais
+- Intégration parfaite grâce à des API modernes
+- L'embarquement des employés et des clients est simple et rapide
 - Apparence familière grâce à une signature visuelle personnalisable
 {{% /markdown %}}
 {{< /side-by-side >}}
@@ -102,23 +102,23 @@ Intégrez Skribble dans le logiciel de votre cabinet d'avocats ou signez directe
 
 {{< content text=center top=16 width=narrow >}}
 {{% markdown %}}
-## Avec Skribble, vous répondez aux exigences légales des processus consultant-fiscal
-Avec Skribble, vous pouvez signer numériquement et légalement (SEQ)
+## Avec Skribble, vous répondez aux exigences légales
+Avec Skribble, vous pouvez signer numériquement et légalement 
 et satisfaire aux exigences légales suivantes:
 {{% /markdown %}}
 {{< /content >}}
 
 {{< content top=6 width=narrow >}}
-{{% collapsible 1 "Normes de signature électronique selon eIDAS/SCSE" "check" %}}
+{{% collapsible 1 "Normes de signature électronique selon eIDAS/ SCSE" "check" %}}
 Skribble travaille avec des standards de signature électronique légalement définis: la signature électronique qualifiée (SEQ), la signature électronique avancée (SEA) et la signature électronique simple (SES).
 {{% /collapsible %}}
 
-{{% collapsible 2 "Exigence de la forme écrite selon le BGB/CO" "check" %}}
+{{% collapsible 2 "Exigence de la forme écrite selon le BGB/ CO" "check" %}}
 La signature électronique qualifiée (SEQ) de Skribble équivaut à la signature manuscrite devant les lois de l'UE et celles nationales suisses (par ex. BGB en Allemagne ou CO en Suisse).
 {{% /collapsible %}}
 
-{{% collapsible 3 "Protection des données selon LPD/RGPD" "check" %}}
-Skribble et ses partenaires gèrent leurs données conformément à la loi fédérale sur la protection des données (LPD) et au réglement européen sur la protection des données (RGPD) et les hébergent en Suisse conformément aux normes bancaires.
+{{% collapsible 3 "Protection des données selon RGPD/ LPD" "check" %}}
+Skribble et ses partenaires gèrent leurs données conformément au réglement européen sur la protection des données (RGPD) er à la loi fédérale sur la protection des données (LPD) et les hébergent en Suisse conformément aux normes bancaires.
 {{% /collapsible %}}
 {{< /content >}}
 
@@ -126,10 +126,9 @@ Skribble et ses partenaires gèrent leurs données conformément à la loi féd�
 
 {{< content text=center top=24 width=narrow >}}
 {{% markdown %}}
-## Utilisez Skribble pour maximiser la force probante de votre signature
-La loi établit une distinction entre les signatures électroniques qualifiées (SEQ)
-et les signatures électroniques avancées (SEA). Les deux normes varient
-en termes de domaine d'application et de force probante. Sur Skribble, vous pouvez choisir entre les deux.
+## Toutes les normes de signature d'une seule source
+La loi distingue trois normes de signature électronique. Elles varient
+en termes de domaine d'application et de force probante. Sur Skribble, vous pouvez choisir entre les trois.
 {{% /markdown %}}
 {{< /content >}}
 
@@ -209,7 +208,7 @@ avec exigences formelles juridiques ou avec un risque de responsabilité fort.
 >}}
 
 {{% markdown %}}
-**Chez Skribble vous avez le choix entre les normes de signature SEA et SEQ.**
+**Chez Skribble vous avez le choix entre les normes de signature SES, SEA et SEQ.**
 {{% /markdown %}}
 {{< /cta >}}
 
