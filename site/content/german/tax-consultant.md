@@ -77,11 +77,11 @@ Das Signieren mit Skribble ist intuitiv und in Sekundenschnelle erledigt. Sie er
 {{< side-by-side top=8 bottom=12 mobile-top=6 mobile-bottom=6 img=tax-consultant-3 img-width=500 img-position=right img-alt="Ein Kreis zeigt, wie ich von meiner Cloud heraus aus unterschreiben kann." >}}
 {{% markdown %}}
 ## Für jedes Dokument und jedes Mandat einsetzbar
-Verschiedene Dokumente, verschiedene Anforderungen. Mit Skribble können Sie jede Art Dokument rechtsgültig signieren – von Abschlüssen über Gestaltungen bis Freigabeerklärungen.
+Verschiedene Dokumente, verschiedene Anforderungen. Mit Skribble können Sie jede Art Dokument rechtsgültig signieren – von Abschlüssen über Gestaltungen bis hin zu Freigabeerklärungen.
 
 - Rechtsgültig für Verträge mit- und ohne Schriftformerfordernis
-- Weltweit intern und gegenüber extern einsetzbar
-- Höchste Sicherheitsstandards und Bank-Level Datenschutz in der Schweiz
+- Weltweit intern und extern einsetzbar
+- Höchste Sicherheits- und Datenschutz-Standards mit Hosting auf Banken-Level in der Schweiz
 {{% /markdown %}}
 {{< /side-by-side >}}
 
@@ -92,7 +92,7 @@ Verschiedene Dokumente, verschiedene Anforderungen. Mit Skribble können Sie jed
 ## Bei gewohnten Tools und Prozessen bleiben
 Integrieren Sie Skribble in Ihre Kanzlei-Software oder signieren Sie direkt über den Browser. Mandanten können mit jedem Betriebssystem via Einladungslink signieren.
 
-- Nahtlose Integration via moderne APIs
+- Nahtlose Integration via moderne API
 - Mitarbeitende und Mandanten mühelos und innert kürzester Zeit onboarden
 - Gewohntes Erscheinungsbild dank personalisierbarer visueller Signatur
 {{% /markdown %}}
@@ -108,16 +108,16 @@ Sie signieren rechtsgültig und sicher gemäss folgenden Erfordernissen:
 {{< /content >}}
 
 {{< content top=6 width=narrow >}}
-{{% collapsible 1 "E-Signatur-Standards gemäss eIDAS/ZertES" "check" %}}
+{{% collapsible 1 "E-Signatur-Standards gemäss eIDAS/ ZertES" "check" %}}
 Skribble arbeitet mit gesetzlich definierten E-Signatur-Standards: Die qualifizierte elektronische Signatur (QES), die fortgeschrittene elektronische Signatur (FES) und die einfache elektronische Signatur (EES).
 {{% /collapsible %}}
 
-{{% collapsible 2 "Schriftlichkeitserfordernis gemäss BGB/OR" "check" %}}
-Die auf Skribble verfügbare qualifizierte elektronische Signatur (QES) ist der handschriftlichen Signatur gleichgestellt gemäss nationalen Gesetzgebungen in der EU und der Schweiz (z.B. BGB in Deutschland) oder OR in der Schweiz).
+{{% collapsible 2 "Schriftlichkeitserfordernis gemäss BGB/ OR" "check" %}}
+Die auf Skribble verfügbare qualifizierte elektronische Signatur (QES) ist der handschriftlichen Signatur gleichgestellt gemäss Gesetzgebungen in der EU und der Schweiz (z.B. BGB in Deutschland) oder OR in der Schweiz).
 {{% /collapsible %}}
 
 {{% collapsible 3 "Datenschutz gemäss DSGVO/ DSG" "check" %}}
-Skribble sowie Partner verwalten ihre Daten gemäss dem Bundesgesetz über den Datenschutz (DSG) sowie der europäischen Datenschutz-Grundverordnung (DSGVO) und hosten diese in der Schweiz nach Bankenstandard.
+Skribble sowie Partner verwalten Ihre Daten gemäss der europäischen Datenschutz-Grundverordnung (DSGVO) sowie dem Bundesgesetz über den Datenschutz (DSG) und hosten diese in der Schweiz nach Bankenstandard.
 {{% /collapsible %}}
 {{< /content >}}
 
@@ -126,7 +126,7 @@ Skribble sowie Partner verwalten ihre Daten gemäss dem Bundesgesetz über den D
 {{< content text=center top=24 width=narrow >}}
 {{% markdown %}}
 ## Mit Skribble erhalten Sie alle E-Signatur-Standards aus einer Hand
-Das Gesetz unterscheidet drei E-Signatur-Signaturstandards. Sie variieren
+Das Gesetz unterscheidet drei E-Signatur-Standards. Sie variieren
 punkto Einsatzgebiet und Beweiskraft. 
 {{% /markdown %}}
 {{< /content >}}
@@ -208,7 +208,7 @@ mit gesetzlicher Formvorschrift oder hohem Haftungsrisiko.
 
 {{% markdown %}}
 **Auf Skribble können Sie zwischen
-den Signaturstandards EES, FES und QES wählen.**
+den E-Signatur-Standards EES, FES und QES wählen.**
 {{% /markdown %}}
 {{< /cta >}}
 
@@ -230,7 +230,7 @@ Die persönliche Identifikation wird nur für das Signieren mit dem höchsten E-
 {{% /collapsible %}}
 
 {{% collapsible 12 "Ist das Signieren mit Skribble rechtssicher?" %}}
-Ja. Auf Skribble können Sie den höchsten verfügbaren E-Signatur-Standard wählen: Die qualifzierte elektronische Signatur QES. Diese hat eine Beweiskraft von 100% vor Gericht.
+Ja. Auf Skribble können Sie den höchsten verfügbaren E-Signatur-Standard wählen: Die qualifzierte elektronische Signatur (QES). Diese hat eine Beweiskraft von 100% vor Gericht.
 {{% /collapsible %}}
 
 {{% collapsible 13 "Kann ich den digital signierten Vertrag in Papierform aufbewahren?" %}}
