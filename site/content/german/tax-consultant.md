@@ -50,7 +50,7 @@ Mit Skribble signieren Sie und Ihre Mandanten schneller und sicherer.
 {{< side-by-side top=8 bottom=12 img=tax-consultant-1 mobile-top=12 mobile-bottom=6 img-width=500 img-position=right img-alt="Ein Vertrag und zwei Personen, die gemeinsam unterschreiben." >}}
 {{% markdown %}}
 ## Mehr Effizienz für Steuerberater und Ihre Mandanten
-Der Umweg über Drucker und Papier entfällt: Statt die Bilanz und den Jahresbaschluss per Post hin- und herzuschicken, signieren Steuerberater und Mandant innert Sekunden elektronisch. 
+Der Umweg über Drucker und Papier entfällt: Statt die Bilanz und den Jahresabschluss per Post hin- und herzuschicken, signieren Steuerberater und Mandant innert Sekunden elektronisch. 
 
 - Per E-Mail zum Signieren einladen
 - Mandanten können ohne Skribble-Konto via Einladungslink signieren
