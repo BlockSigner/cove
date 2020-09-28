@@ -57,7 +57,7 @@ Skribble permet de signer vos contrats en un clin d’œil – Validité mondial
     currency="CHF /"
     period=mois
     small="Facture annuelle (1 020.−/ année) ou mensuelle (100.−/ mois)."
-    feature="600 signatures par année"
+    feature="600 signatures par année incluses"
     feature-small="compatibles avec toutes les normes de signature électronique. Les signatures supplémentaires coûtent CHF 1.20 (SES), CHF 1.70 (SEA) ou CHF 2.50 (SEQ)."
     cta-label="Contacter les ventes"
     cta-href="https://share.hsforms.com/1JHPHJU3QQz2TlyX14QDdKg309ws"
