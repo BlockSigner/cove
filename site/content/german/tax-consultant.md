@@ -50,11 +50,11 @@ Mit Skribble signieren Sie und Ihre Mandanten schneller und sicherer.
 {{< side-by-side top=8 bottom=12 img=tax-consultant-1 mobile-top=12 mobile-bottom=6 img-width=500 img-position=right img-alt="Ein Vertrag und zwei Personen, die gemeinsam unterschreiben." >}}
 {{% markdown %}}
 ## Mehr Effizienz für Steuerberater und Ihre Mandanten
-Der Umweg über Drucker und Papier entfällt: Statt die Bilanz und den Jahresbaschluss per Post hin- und her zu schicken, signieren Steuerberater und Mandant innert Sekunden elektronisch. 
+Der Umweg über Drucker und Papier entfällt: Statt die Bilanz und den Jahresbaschluss per Post hin- und herzuschicken, signieren Steuerberater und Mandant innert Sekunden elektronisch. 
 
-- Per E-Mail zum signieren einladen
+- Per E-Mail zum Signieren einladen
 - Mandanten können ohne Skribble-Konto via Einladungslink signieren
-- Signatur via Handy bestätigen – kein USB-Stick oder Smart Card erforderlich
+- Signatur via Handy bestätigen – ganz ohne USB-Stick oder Smart Card
 - In Sekundenschnelle prüfbar, ob korrekt signiert wurde
 {{% /markdown %}}
 {{< /side-by-side >}}
@@ -64,7 +64,7 @@ Der Umweg über Drucker und Papier entfällt: Statt die Bilanz und den Jahresbas
 {{< side-by-side top=8 bottom=12 mobile-top=6 mobile-bottom=6 img=tax-consultant-2 img-width=530 img-alt="Ein End-to-End-Prozess zeigt, wer wann digital unterschrieben hat." >}}
 {{% markdown %}}
 ## Einfacher als Papier und Füller
-Das Signieren mit Skribble ist intuitiv und in Sekundenschnelle erledigt. Sie ermöglichen ihren Mitarbeitenden und Mandanten nahtlos digitale Prozesse, die Zeit und Geld sparen.
+Das Signieren mit Skribble ist intuitiv und in Sekundenschnelle erledigt. Sie ermöglichen Ihren Mitarbeitenden und Mandanten nahtlos digitale Prozesse, die Zeit und Geld sparen.
 
 - Übersicht über alle eingegangenen und ausstehenden Signaturen
 - Mit der Stapelsignatur mehrere Dokumente auf einmal signieren
