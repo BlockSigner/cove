@@ -408,7 +408,7 @@ Skribble permet de signer vos contrats en un clin d’œil – Validité mondial
       </tr>
       <tr>
         <td>
-          Définir et placer la signature visuelle du sceau électronique (signatrure d’entreprise) 
+          Définir et placer la signature visuelle du sceau électronique (signatrure d’entreprise via l'API) 
           <div class="pricing-table__mobile-details hide-for-desktop">
             <span>{{< pricing-info >}} Prochainement disponible</span>
           </div>
