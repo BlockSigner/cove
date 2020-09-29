@@ -13,7 +13,7 @@ og_image: og/og-skribble-hr.jpg
 Signer électroniquement 
 dans les RH
 ===============
-Avec Skribble, vous signez des documents juridiquement contraignants et faciles numériquement - des contrats de travail aux certificats et aux fiches de salaire.
+Avec Skribble, vous signez des documents juridiquement contraignants et faciles numériquement.
 
 **Signez en toute sécurité :**
 - Contrats de travail
@@ -117,22 +117,22 @@ et d'autres solutions sectorielles
 {{< content text=center top=24 width=narrow >}}
 {{% markdown %}}
 ## Avec Skribble, vous répondez aux exigences légales des processus RH
-Avec Skribble, vous pouvez signer numériquement et légalement (SEQ)
+Avec Skribble, vous pouvez signer numériquement et légalement
 et satisfaire aux exigences légales suivantes:
 {{% /markdown %}}
 {{< /content >}}
 
 {{< content top=6 width=narrow >}}
-{{% collapsible 1 "Normes de signature électronique selon eIDAS/SCSE" "check" %}}
+{{% collapsible 1 "Normes de signature électronique selon eIDAS/ SCSE" "check" %}}
 Skribble travaille avec des standards de signature électronique légalement définis: la signature électronique qualifiée (SEQ), la signature électronique avancée (SEA) et la signature électronique simple (SES).
 {{% /collapsible %}}
 
-{{% collapsible 2 "Exigence de la forme écrite selon le BGB/CO" "check" %}}
+{{% collapsible 2 "Exigence de la forme écrite selon le BGB/ CO" "check" %}}
 La signature électronique qualifiée (SEQ) de Skribble équivaut à la signature manuscrite devant les lois de l'UE et celles nationales suisses (par ex. BGB en Allemagne ou CO en Suisse).
 {{% /collapsible %}}
 
-{{% collapsible 3 "Protection des données selon LPD/RGPD" "check" %}}
-Skribble et ses partenaires gèrent leurs données conformément à la loi fédérale sur la protection des données (LPD) et au réglement européen sur la protection des données (RGPD) et les hébergent en Suisse conformément aux normes bancaires.
+{{% collapsible 3 "Protection des données selon LPD/ RGPD" "check" %}}
+Skribble et ses partenaires gèrent leurs données conformément au réglement européen sur la protection des données (RGPD) et à la loi fédérale sur la protection des données (LPD) et les hébergent en Suisse conformément aux normes bancaires.
 {{% /collapsible %}}
 {{< /content >}}
 
@@ -165,10 +165,8 @@ Comment nous, chez Skribble, facilitons la vie quotidienne de nos clients.
 
 {{< content text=center top=24 width=narrow >}}
 {{% markdown %}}
-## Utilisez Skribble pour maximiser la force probante de votre signature
-La loi établit une distinction entre les signatures électroniques qualifiées (SEQ)
-et les signatures électroniques avancées (SEA). Les deux normes varient
-en termes de domaine d'application et de force probante. Sur Skribble, vous pouvez choisir entre les deux.
+## Avec Skribble, vous pouvez signer chaque document légalement électroniquement
+Différents documents, différentes exigences juridiques - avec Skribble, vous obtenez toutes les normes de signature d’une seule source et sont équipés pour chaque cas d’utilisation.
 {{% /markdown %}}
 {{< /content >}}
 
