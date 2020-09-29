@@ -18,7 +18,7 @@ for lawyers
 With Skribble you sign without USB stick or card reader
 with the highest e-signing standard (QES).
 
-**Sign safely:**
+**Frequently used for:**
 - Powers of attorney and NDA's
 - International treaties
 - Submissions to authorities
@@ -125,16 +125,16 @@ with the following requirements:
 {{< /content >}}
 
 {{< content top=6 width=narrow >}}
-{{% collapsible 1 "E-signature standards according to eIDAS/ZertES" "check" %}}
+{{% collapsible 1 "E-signature standards according to eIDAS/ ZertES" "check" %}}
 Skribble works with legally defined e-signature standards: The qualified electronic signature (QES), the advanced electronic signature (AES) and the simple electronic signature (SES).
 {{% /collapsible %}}
 
-{{% collapsible 2 "Requirement of written form according to BGB/OR" "check" %}}
+{{% collapsible 2 "Requirement of written form according to BGB/ OR" "check" %}}
 The qualified electronic signature (QES) available on Skribble is legally equivalent to a handwritten signature in the EU and Switzerland (eg. BGB in Germany or OR in Switzerland).
 {{% /collapsible %}}
 
-{{% collapsible 3 "Data protection according to FADP/GDPR" "check" %}}
-Skribble and its signing partner Swisscom commit to manage data in accordance with the Federal Act on Data Protection (FADP) and the General Data Protection Regulation (GDPR). Moreover, all data is hosted in Switzerland according to banking standards.
+{{% collapsible 3 "Data protection according to GDPR/ FADP " "check" %}}
+Skribble and its signing partner Swisscom commit to manage data in accordance with the General Data Protection Regulation (GDPR) and the Federal Act on Data Protection (FADP). Moreover, all data is hosted in Switzerland according to banking standards.
 {{% /collapsible %}}
 {{< /content >}}
 
@@ -167,10 +167,9 @@ How we at Skribble make everyday life easier for our customers.
 
 {{< content text=center top=24 width=narrow >}}
 {{% markdown %}}
-## Use Skribble to maximise the legal weight of your signature
-The law distinguishes between qualified e-signatures (QES)
-and advanced e-signatures (AES). The two standards vary in terms of area
-of application and legal weight.
+## Wit Skribble, you can legally sign any document electronically
+Different documents, different legal requirements –
+at Skribble, you get access to all available e-signature standards from a single source, and you are prepared for every situation.
 {{% /markdown %}}
 {{< /content >}}
 
@@ -246,8 +245,8 @@ with legal form requirements or high liability risk.
 >}}
 
 {{% markdown %}}
-**At Skribble you have the choice
-between the signature standards AES and QES.**
+**At Skribble you have the choice between
+the e-signature standards SES, AES and QES.**
 {{% /markdown %}}
 {{< /cta >}}
 
