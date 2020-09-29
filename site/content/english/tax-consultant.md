@@ -132,8 +132,8 @@ Skribble and its signing partner Swisscom commit to manage data in accordance wi
 {{< content text=center top=24 width=narrow >}}
 {{% markdown %}}
 ## All available e-signature standards from a single source
-The law distinguishes between three e-signature standards. They vary in terms of area
-of application and legal weight.
+The law distinguishes between three e-signature standards.
+They vary in terms of area of application and legal weight.
 {{% /markdown %}}
 {{< /content >}}
 
