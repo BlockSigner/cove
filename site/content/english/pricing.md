@@ -1,5 +1,5 @@
 ---
-title: Sign economically with the right plan
+title: All plans and prices of Skribble
 description: Skribble is suitable for both occasional and frequent signing. No credit card, entrance fee or commitment required.
 draft: false
 slug: pricing
