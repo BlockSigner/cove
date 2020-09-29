@@ -17,7 +17,7 @@ pour juristes
 Avec Skribble vous signez sans clé USB ou lecteur de carte
 avec la plus haute norme de signature électronique (SEQ).
 
-**Signez en toute sécurité :**
+**Souvent utilisé pour:**
 - Procurations et accords de confidentialité
 - Traités internationaux
 - Soumissions aux autorités
@@ -126,16 +126,16 @@ en remplissant les conditions suivantes:
 {{< /content >}}
 
 {{< content top=6 width=narrow >}}
-{{% collapsible 1 "Normes de signature électronique selon eIDAS/SCSE" "check" %}}
+{{% collapsible 1 "Normes de signature électronique selon eIDAS/ SCSE" "check" %}}
 Skribble travaille avec des standards de signature électronique légalement définis: la signature électronique qualifiée (SEQ), la signature électronique avancée (SEA) et la signature électronique simple (SES).
 {{% /collapsible %}}
 
-{{% collapsible 2 "Exigence de la forme écrite selon le BGB/CO" "check" %}}
+{{% collapsible 2 "Exigence de la forme écrite selon le BGB/ CO" "check" %}}
 La signature électronique qualifiée (SEQ) de Skribble équivaut à la signature manuscrite devant les lois de l'UE et celles nationales suisses (par ex. BGB en Allemagne ou CO en Suisse).
 {{% /collapsible %}}
 
 {{% collapsible 3 "Protection des données selon LPD/RGPD" "check" %}}
-Skribble et ses partenaires gèrent leurs données conformément à la loi fédérale sur la protection des données (LPD) et au réglement européen sur la protection des données (RGPD) et les hébergent en Suisse conformément aux normes bancaires.
+Skribble et ses partenaires gèrent leurs données conformément au réglement européen sur la protection des données (RGPD) et à la loi fédérale sur la protection des données (LPD) et les hébergent en Suisse conformément aux normes bancaires.
 {{% /collapsible %}}
 {{< /content >}}
 
@@ -160,7 +160,7 @@ Comment nous, chez Skribble, facilitons la vie quotidienne de nos clients.
 >}}
 
 {{% markdown %}}
-**Téléchargez le cas d'utilisation Altenburger :**
+**Téléchargez le cas d'utilisation Altenburger:**
 {{% /markdown %}}
 {{< /cta >}}
 
@@ -168,11 +168,8 @@ Comment nous, chez Skribble, facilitons la vie quotidienne de nos clients.
 
 {{< content text=center top=24 width=narrow >}}
 {{% markdown %}}
-## Utilisez Skribble pour maximiser la force probante de votre signature
-La loi établit une distinction entre les signatures électroniques qualifiées (SEQ)
-et les signatures électroniques avancées (SEA). Les deux normes varient
-en termes de domaine d'application et de force probante.
-Sur Skribble, vous pouvez choisir entre les deux.
+## Avec Skribble, vous pouvez signer chaque document légalement électroniquement
+Différents documents, différentes exigences juridiques - avec Skribble, vous obtenez toutes les normes de signature d’une seule source et sont équipés pour chaque cas d’utilisation.
 {{% /markdown %}}
 {{< /content >}}
 
@@ -252,7 +249,7 @@ avec exigences formelles juridiques ou avec un risque de responsabilité fort.
 >}}
 
 {{% markdown %}}
-**Chez Skribble vous avez le choix entre les normes de signature SEA et SEQ.**
+**Chez Skribble vous avez le choix entre les normes de signature SES, SEA et SEQ.**
 {{% /markdown %}}
 {{< /cta >}}
 
