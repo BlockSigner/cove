@@ -134,7 +134,7 @@ Skribble travaille avec des standards de signature électronique légalement dé
 La signature électronique qualifiée (SEQ) de Skribble équivaut à la signature manuscrite devant les lois de l'UE et celles nationales suisses (par ex. BGB en Allemagne ou CO en Suisse).
 {{% /collapsible %}}
 
-{{% collapsible 3 "Protection des données selon LPD/RGPD" "check" %}}
+{{% collapsible 3 "Protection des données selon RGPD/ LPD" "check" %}}
 Skribble et ses partenaires gèrent leurs données conformément au réglement européen sur la protection des données (RGPD) et à la loi fédérale sur la protection des données (LPD) et les hébergent en Suisse conformément aux normes bancaires.
 {{% /collapsible %}}
 {{< /content >}}
