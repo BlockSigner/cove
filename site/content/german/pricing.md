@@ -49,12 +49,13 @@ Mit Skribble signieren Sie Ihre Verträge innert Sekunden – global rechtsgült
 
 {{< pricing-col >}}
   {{< pricing-card
+    featured=true
     price=85
     currency="CHF /"
     period=Monat
     small="bei jährlicher Abrechnung (CHF 1’020.–/ Jahr) bei monatlicher Abrechnung: CHF 100.–/ Monat"
     feature="600 Signaturen pro Jahr inklusive"
-    feature-small="Zusätzliche Signaturen werden verrechnet mit: CHF 1.20 (EES), CHF 1.70 (FES), CHF 2.50 (QES)."
+    feature-small="Für alle E-Signatur-Standards einsetzbar. Zusätzliche Signaturen werden mit CHF 1.20 (EES), CHF 1.70 (FES) und CHF 2.50 (QES) verrechnet."
     cta-label="Sales kontaktieren"
     cta-href="https://share.hsforms.com/1gxsCjIJRQhaM4GEcCmL7QQ309ws"
     cta-target="_blank"
