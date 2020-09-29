@@ -1,5 +1,5 @@
 ---
-title: Signez plus facilement avec le bon modèle tarifaire
+title: Tous les plans et les tarifs de Skribble
 description: Skribble est idéal pour les petites et grandes entreprises. Comparez les modèles tarifaires.
 draft: false
 slug: tarifs
