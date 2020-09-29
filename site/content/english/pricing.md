@@ -112,6 +112,8 @@ with the highest data protection standards in Switzerland.
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
+{{< show-hide-button button-text="Compare features" >}}
+
 {{< pricing-group top=1 bottom=1 >}}
 {{< pricing-table >}}
   <div class="pricing-table__legend hide-for-desktop">
@@ -741,6 +743,8 @@ with the highest data protection standards in Switzerland.
   </div>
 {{< /pricing-table >}}
 {{< /pricing-group >}}
+
+{{< /show-hide-button >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 

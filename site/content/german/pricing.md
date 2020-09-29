@@ -108,6 +108,8 @@ Mit Skribble signieren Sie Ihre Verträge innert Sekunden – global rechtsgült
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
+{{< show-hide-button button-text="Features vergleichen" >}}
+
 {{< pricing-group top=1 bottom=1 >}}
 {{< pricing-table >}}
   <div class="pricing-table__legend hide-for-desktop">
@@ -737,6 +739,8 @@ Mit Skribble signieren Sie Ihre Verträge innert Sekunden – global rechtsgült
   </div>
 {{< /pricing-table >}}
 {{< /pricing-group >}}
+
+{{< /show-hide-button >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 

@@ -112,6 +112,8 @@ Skribble permet de signer vos contrats en un clin d’œil – Validité mondial
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
+{{< show-hide-button button-text="Comparer les fonctionnalités" >}}
+
 {{< pricing-group top=1 bottom=1 >}}
 {{< pricing-table >}}
   <div class="pricing-table__legend hide-for-desktop">
@@ -742,6 +744,8 @@ Skribble permet de signer vos contrats en un clin d’œil – Validité mondial
 {{< /pricing-table >}}
 {{< /pricing-group >}}
 
+{{< /show-hide-button >}}
+
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
 {{< outro >}}
@@ -768,3 +772,4 @@ ou engagement n'est requis.
 {{< /markdown >}}
 {{< /content >}}
 {{< /outro >}}
+
