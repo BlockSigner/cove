@@ -15,7 +15,7 @@ dans les RH
 ===============
 Avec Skribble, vous signez des documents juridiquement contraignants et faciles numériquement.
 
-**Signez en toute sécurité :**
+**Souvent utilisé pour:**
 - Contrats de travail
 - Certificats
 - Contrats de salaire horaire
