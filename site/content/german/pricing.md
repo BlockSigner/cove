@@ -404,7 +404,7 @@ Mit Skribble signieren Sie Ihre Verträge innert Sekunden – global rechtsgült
       </tr>
       <tr>
         <td>
-          Visuelles Siegel gestalten und anbringen (Organisationssignatur)
+          Visuelles Siegel gestalten und anbringen (Organisationssignatur via API)
           <div class="pricing-table__mobile-details hide-for-desktop">
             <span>{{< pricing-info >}} Coming soon</span>
           </div>
