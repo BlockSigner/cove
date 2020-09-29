@@ -103,7 +103,7 @@ with the highest data protection standards in Switzerland.
   {{% markdown %}}
   - Personal Account Executive and Priority Support
   - Service Level Agreement (SLA) with high availability guarantee
-  - Simple access for all employees via Single sign-on
+  - Simple access for all employees via single sign-on (SSO)
   - Advanced branding and customisation options
   {{% /markdown %}}
   {{< /pricing-highlights >}}
@@ -172,7 +172,7 @@ with the highest data protection standards in Switzerland.
       </tr>
       <tr>
         <td>
-          Electronic Seals (Organisation Signatures)
+          Electronic seals (organisation signature)
           <div class="pricing-table__mobile-details  hide-for-desktop">
             <span>{{< pricing-info filled=true >}} <strong>B</strong>: On request</span>
             <span>{{< pricing-info >}} <strong>E</strong>: On request</span>
@@ -312,7 +312,7 @@ with the highest data protection standards in Switzerland.
         <td>{{< pricing-check >}}</td>
       </tr>
       <tr>
-        <td>Sign in with company account via SSO (Single sign-on)</td>
+        <td>Sign in with company account via single sign-on (SSO)</td>
         <td>—</td>
         <td>—</td>
         <td>{{< pricing-check >}}</td>
@@ -336,7 +336,7 @@ with the highest data protection standards in Switzerland.
         <td>{{< pricing-check >}}</td>
       </tr>
       <tr>
-        <td>API testing with Demo Account</td>
+        <td>API testing with demo account</td>
         <td>—</td>
         <td>{{< pricing-check filled=true >}}</td>
         <td>{{< pricing-check >}}</td>
@@ -396,19 +396,19 @@ with the highest data protection standards in Switzerland.
         <td>
           Extended customisation options for visual signatures (e.g.show or hide QR code)
           <div class="pricing-table__mobile-details hide-for-desktop">
-            <span>{{< pricing-info >}} CHF 24.– / Jahr<br>CHF 2.50 / Monat</span>
+            <span>{{< pricing-info >}} CHF 24.–/ year<br>CHF 2.50/ month</span>
           </div>
         </td>
         <td>
           <span class="hide-for-desktop">{{< pricing-info >}}</span>
-          <span class="hide-for-mobile">CHF 24.– / year<br>CHF 2.50 / month</span>
+          <span class="hide-for-mobile">CHF 24.–/ year<br>CHF 2.50/ month</span>
         </td>
         <td>{{< pricing-check filled=true >}}</td>
         <td>{{< pricing-check >}}</td>
       </tr>
       <tr>
         <td>
-          Create and apply visual electronic seals to documents (Organisation signature)
+          Create and apply visual electronic seals to documents (organisation signature)
           <div class="pricing-table__mobile-details hide-for-desktop">
             <span>{{< pricing-info >}} Coming soon</span>
           </div>
@@ -424,13 +424,13 @@ with the highest data protection standards in Switzerland.
         <td>
           Company branding with own logo
           <div class="pricing-table__mobile-details hide-for-desktop">
-            <span>{{< pricing-info filled=true >}} CHF 1’500 / year<br>CHF 150 /month</span>
+            <span>{{< pricing-info filled=true >}} CHF 1’500/ year<br>CHF 150/month</span>
           </div>
         </td>
         <td>—</td>
         <td>
           <span class="hide-for-desktop">{{< pricing-info filled=true >}}</span>
-          <span class="hide-for-mobile">CHF 1’500 / year<br>CHF 150 / month</span>
+          <span class="hide-for-mobile">CHF 1’500/ year<br>CHF 150/ month</span>
         </td>
         <td>—</td>
       </tr>
