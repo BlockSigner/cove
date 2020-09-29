@@ -408,7 +408,7 @@ with the highest data protection standards in Switzerland.
       </tr>
       <tr>
         <td>
-          Create and apply visual electronic seals to documents (organisation signature)
+          Create and apply visual electronic seals to documents (organisation signature via API)
           <div class="pricing-table__mobile-details hide-for-desktop">
             <span>{{< pricing-info >}} Coming soon</span>
           </div>
