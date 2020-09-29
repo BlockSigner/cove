@@ -410,14 +410,13 @@ Skribble permet de signer vos contrats en un clin d’œil – Validité mondial
         <td>
           Définir et placer la signature visuelle du sceau électronique (signatrure d’entreprise via l'API) 
           <div class="pricing-table__mobile-details hide-for-desktop">
-            <span>{{< pricing-info >}} Prochainement disponible</span>
           </div>
         </td>
         <td>—</td>
         <td>—</td>
         <td>
-          <span class="hide-for-desktop">{{< pricing-info >}}</span>
-          <span class="hide-for-mobile">Prochainement disponible</span>
+          <span class="hide-for-desktop">{{< pricing-check >}}</span>
+          <span class="hide-for-mobile">{{< pricing-check >}}</span>
         </td>
       </tr>
       <tr>

@@ -410,14 +410,13 @@ with the highest data protection standards in Switzerland.
         <td>
           Create and apply visual electronic seals to documents (organisation signature via API)
           <div class="pricing-table__mobile-details hide-for-desktop">
-            <span>{{< pricing-info >}} Coming soon</span>
           </div>
         </td>
         <td>—</td>
         <td>—</td>
         <td>
-          <span class="hide-for-desktop">{{< pricing-info >}}</span>
-          <span class="hide-for-mobile">coming soon</span>
+          <span class="hide-for-desktop">{{< pricing-check >}}</span>
+          <span class="hide-for-mobile">{{< pricing-check >}}</span>
         </td>
       </tr>
       <tr>
