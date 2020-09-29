@@ -1,5 +1,5 @@
 ---
-title: Pläne und Preise
+title: Alle Pläne und Preise von Skribble
 description: Skribble eignet sich sowohl für gelegentliches wie auch für häufiges Signieren. Finden Sie das passende Preismodell für Ihre Anwendung.
 draft: false
 slug: preise
