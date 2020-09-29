@@ -246,7 +246,7 @@ avec exigences formelles juridiques ou avec un risque de responsabilité fort.
 >}}
 
 {{% markdown %}}
-**Chez Skribble vous avez le choix entre les normes de signature SEA et SEQ.**
+**Chez Skribble vous avez le choix entre les normes de signature SES, SEA et SEQ.**
 {{% /markdown %}}
 {{< /cta >}}
 
