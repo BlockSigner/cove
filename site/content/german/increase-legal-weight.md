@@ -99,8 +99,7 @@ desto höher deren Beweiskraft.
 Qualifizierte elektronische 
 Signatur (QES)
 ===============
-Die QES schalten Sie frei, indem Sie sich online via Video-Call (zum Signieren nach EU-Recht)
-oder im persönlichen Kontakt (zum Signieren nach Schweizer Recht) identifizieren lassen.
+Die QES schalten Sie frei, indem Sie sich online via Video-Call (zum Signieren nach EU-Recht) oder im persönlichen Kontakt (zum Signieren nach Schweizer Recht) identifizieren lassen.
 {{% /markdown %}}
 {{< /content >}}
 
