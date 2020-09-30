@@ -23,7 +23,7 @@ with the highest data protection standards in Switzerland.
 
 {{< pricing-col >}}
   {{< pricing-card
-    price=2.50
+    price="2.50"
     currency="CHF /"
     period=signature
     small="up to a maximum of CHF 30, plus signatures from external parties*."
