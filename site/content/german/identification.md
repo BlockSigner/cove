@@ -1,6 +1,6 @@
 ---
 title: Identifikation für elektronisches Signieren
-description: Jede E-Signatur muss eindeutig einer Person zugewiesen werden können. Die Verfahren unterscheiden sich je nach Anwendungsfall.
+description: Jede E-Signatur muss eindeutig einer Person zugeordnet werden können. Die Verfahren unterscheiden sich je nach Vertragsart.
 draft: false
 slug: identifikation
 # opengraph image (for facebook and twitter)
@@ -11,7 +11,7 @@ og_image: og/og-skribble-identification.jpg
 {{< content text=center top=16 bottom=8 width=narrow >}}
 {{% markdown %}}
 # Identifikation für elektronisches Signieren
-Jede E-Signatur muss eindeutig einer Person zugewiesen werden können.
+Jede E-Signatur muss eindeutig einer Person zugeordnet werden können.
 Deshalb setzt Skribble die Identifikation der Signierenden voraus.
 Die Verfahren unterscheiden sich je nach Vertragsart.
 {{% /markdown %}}
