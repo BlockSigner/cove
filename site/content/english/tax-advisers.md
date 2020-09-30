@@ -2,10 +2,10 @@
 title: Electronic signature for tax advisers
 description: With Skribble, you and your clients can sign faster and more securely – from balance sheets to financial statements and tax arrangements.
 draft: false
-slug: tax-consultant
+slug: tax-advisers
 
 # opengraph image (for facebook and twitter)
-og_image: og/og-skribble-tax-consultant.jpg
+og_image: og/og-skribble-tax-advisors.jpg
 
 ---
 

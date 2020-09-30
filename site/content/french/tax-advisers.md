@@ -2,10 +2,10 @@
 title: Signature électronique pour les conseillers fiscaux
 description: Avec Skribble, vous et vos clients signez plus rapidement et de manière plus sécurisée – du bilan jusqu’aux comptes annuels et à la planification fiscale.
 draft: false
-slug: consultant-fiscal
+slug: conseillers-fiscaux
 
 # opengraph image (for facebook and twitter)
-og_image: og/og-skribble-tax-consultant.jpg
+og_image: og/og-skribble-tax-advisors.jpg
 
 ---
 {{< intro top=24 bottom=12 width=wide img=vertical-tax-consultant-main img-width=520 img-alt="Trois femmes tiennent un contrat entre leurs mains" >}}

@@ -250,8 +250,8 @@ languages:
           url: "/Lawyer/"
           weight: 20
           parent: solutions
-        - name: Tax consultant
-          url: "/tax-consultant/"
+        - name: Tax advisers
+          url: "/tax-advisers/"
           weight: 25
           parent: solutions
         # Pricing
@@ -287,8 +287,8 @@ languages:
         - name: Lawyer
           url: /lawyer/
           weight: 10
-        - name: Tax consultant
-          url: /tax-consultant/
+        - name: Tax advisers
+          url: /tax-advisers/
           weight: 15
       footer3:
         - name: Mission
@@ -443,8 +443,8 @@ languages:
           url: "/fr/juristes/"
           weight: 20
           parent: solutions
-        - name: Consultant-fiscal
-          url: "/fr/consultant-fiscal/"
+        - name: Conseillers fiscaux
+          url: "/fr/conseillers-fiscaux/"
           weight: 25
           parent: solutions
         # Tarifs
@@ -480,8 +480,8 @@ languages:
         - name: Juristes
           url: /fr/juristes/
           weight: 10
-        - name: Consultant-fiscal
-          url: "/fr/consultant-fiscal/"
+        - name: Conseillers fiscaux
+          url: "/fr/conseillers-fiscaux/"
           weight: 15
       footer3:
         - name: Mission

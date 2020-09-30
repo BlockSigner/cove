@@ -5,7 +5,7 @@ draft: false
 slug: steuerberater
 
 # opengraph image (for facebook and twitter)
-og_image: og/og-skribble-tax-consultant.jpg
+og_image: og/og-skribble-tax-advisors.jpg
 
 ---
 {{< intro top=24 bottom=12 width=wide img=vertical-tax-consultant-main img-width=520 img-alt="Drei Frauen halten einen Vertrag in der Hand" >}}
