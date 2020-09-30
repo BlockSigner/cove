@@ -49,7 +49,7 @@ The simple electronic signature (SES) or the advanced electronic signature (AES)
 
 {{< picture private-email 280 "Two people in a bubble with e-mails" >}}
 
-In the case of the simple electronic signature (EES), the signatories are identified by their e-mail address. Anyone who has a Skribble account or is invited to sign by e-mail can sign with EES without any further measures.
+In the case of the simple electronic signature (SES), the signatories are identified by their e-mail address. Anyone who has a Skribble account or is invited to sign by e-mail can sign with SES without any further measures.
 {{< /plan >}}
 
 
