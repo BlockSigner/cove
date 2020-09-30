@@ -13,9 +13,7 @@ og_image: og/og-skribble-increase-legal-weight.jpg
 Increase the legal weight 
 of your e-signature
 ===============	
-Enable an e-signature standard with higher legal weight. The procedure 
-differs depending on the standard. The more unambiguously an e-signature
-can be assigned to a person, the higher its legal weight.
+Enable an e-signature standard with higher legal weight. The procedure differs depending on the signature standard. The more unambiguously an e-signature can be attributed to a person, the higher its legal weight.
 {{% /markdown %}}
 {{< /content >}}
 
@@ -92,8 +90,7 @@ can be assigned to a person, the higher its legal weight.
 {{% markdown %}}
 **Maximum legal weight** 
 ## Qualified electronic signature (QES)
-Enable the QES by getting yourself identified online via video-call (EU) or
-by personal contact (Switzerland).
+You can enable the QES by having your identity verified online via video-call (EU) or face-to-face (Switzerland).
 {{% /markdown %}}
 {{< /content >}}
 
@@ -121,10 +118,7 @@ This is how you unlock QES on Skribble
 {{% markdown %}}
 **High legal weight** 
 # Advanced electronic signature (AES)
-Enable the AES by connecting your Skribble account with 
-a Swiss mobile phone number. You can do this in your Skribble profile.
-As a Skribble Business or Enterprise customer you can request the activation 
-of the AES via company e-mail address (AES for Business).
+You can enable the AES by connecting your Skribble account with a Swiss mobile phone number. You can do this in your Skribble profile. As a Skribble Business or Enterprise customer, you can request the activation of the AES via company e-mail address (AES for Business).
 {{% /markdown %}}
 {{< /content >}}
 
