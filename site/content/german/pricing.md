@@ -19,7 +19,7 @@ Mit Skribble signieren Sie Ihre Verträge innert Sekunden – global rechtsgült
 
 {{< pricing-col >}}
   {{< pricing-card
-    price=2.50
+    price="2.50"
     currency="CHF /"
     period=Signatur
     small="bis zu einer Obergrenze von CHF 30.–, zzgl. Signaturen von Externen*."
