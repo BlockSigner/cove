@@ -491,7 +491,7 @@ Mit Skribble signieren Sie Ihre Verträge innert Sekunden – global rechtsgült
           <div class="pricing-table__mobile-details  hide-for-desktop">
             <span>{{< pricing-info >}} <strong>F</strong>: Standard</span>
             <span>{{< pricing-info filled=true >}} <strong>B</strong>: Standard</span>
-            <span>{{< pricing-info >}} <strong>E</strong>: Priority</span>
+            <span>{{< pricing-info >}} <strong>E</strong>: Priorität</span>
           </div>
         </td>
         <td>
@@ -504,7 +504,7 @@ Mit Skribble signieren Sie Ihre Verträge innert Sekunden – global rechtsgült
         </td>
         <td>
           <span class="hide-for-desktop">{{< pricing-info >}}</span>
-          <span class="hide-for-mobile">Priority</span>
+          <span class="hide-for-mobile">Priorität</span>
         </td>
       </tr>
       <tr>
