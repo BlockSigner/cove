@@ -135,7 +135,7 @@ Rechtssicherheit, Identitätsprüfung und Authentisierungsverfahren.
 {{< content text=center top=12 width=narrow >}}
 {{% markdown %}}
 ## QES: Dieselbe Rechtssicherheit <br class="hide-for-mobile">wie das Unterschreiben von Hand
-Die rundum-sorglos-Signatur für höchste Ansprüche
+Die Rundum-Sorglos-Signatur für höchste Ansprüche
 {{% /markdown %}}
 {{< /content >}}
 
@@ -259,7 +259,7 @@ Sie ist rechtsgültig bei Dokumenten, bei denen das Gesetz keine spezielle Form 
 <td><strong>Hoch</strong></td>
 <td><ul><li>Schweizer Mobiltelefonnummer</li><li>Firmen-E-Mail-Adresse</li></ul></td>
 <td><ul><li>Verträge ohne Formvorschrift</li></ul></td>
-<td><ul><li>Mietverträge</li><li>Kaufverträge</li><li>Hypotheken</li><li>einfacher Arbeitsvertrag</li></ul></td>
+<td><ul><li>Mietverträge</li><li>Kaufverträge</li><li>Hypotheken</li><li>Einfacher Arbeitsvertrag</li></ul></td>
 </tr>
 
 <tr>
