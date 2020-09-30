@@ -12,7 +12,7 @@ og_image: og/og-skribble-identification.jpg
 Identification
 for electronic signing
 ===============
-Each e-signature must be uniquely attributable to one person.
+It is necessary that each signature can be attributed to a single person.
 Therefore, Skribble requires the identification of the signatories.
 The procedures differ depending on the type of contract.
 {{% /markdown %}}
@@ -23,7 +23,7 @@ The procedures differ depending on the type of contract.
 {{< content text=center top=16 bottom=8 width=narrow >}}
 {{% markdown %}}
 # Contracts without written form
-The simple electronic signature (SES) or the advanced electronic signature (AES) is typically used for contracts without formal requirements. The identification requirements for EES and FES are low to medium.
+The simple electronic signature (SES) or the advanced electronic signature (AES) are typically used for contracts without formal requirements. The identification requirements for SES and AES are low to medium.
 {{% /markdown %}}
 {{< /content >}}
 
@@ -113,7 +113,7 @@ Organisation-wide implementation within just a few days.
 
 {{% markdown %}}
 **SES, AES or QES?**
-When to use which signature standard.
+When to use which e-signature standard.
 {{% /markdown %}}
 {{< /cta >}}
 {{< /cta-group >}}
@@ -220,7 +220,7 @@ A growing number of people in Europe have a verified electronic identity (eID). 
 
 {{< content text=left width=narrow >}}
 
-{{% collapsible 10 "When do I use which signature standard?" %}}
+{{% collapsible 10 "When do I use which e-signature standard?" %}}
 The simple electronic signature (SES) and the advanced electronic signature (AES) are legally valid for all contracts for which the law does not prescribe a specific form (contracts without the written form). You use the qualified electronic signature (QES) for contracts with a written requirement or to meet internal compliance requirements. You can find examples and more information at: https://www.skribble.com/signaturestandards/
 {{% /collapsible %}}
 
@@ -229,7 +229,7 @@ With SES, the e-mail address serves as an identification element. The e-mail add
 {{% /collapsible %}}
 
 {{% collapsible 12 "Why is identification different for SES, AES and QES?" %}}
-The legal identification requirements are not the same. QES is the highest standard and is equivalent to a handwritten signature. The identification requirements for QES are precisely defined in the law. With SES and AES, providers have more freedom. When selecting identification procedures for SES and AES, Skribble pays attention to simplicity of use and maximisation of legal weight.
+The legal identification requirements are not the same. QES is the highest standard and is equivalent to a handwritten signature. The identification requirements for QES are precisely defined by the law. With SES and AES, providers have more freedom. When selecting identification procedures for SES and AES, Skribble pays attention to simplicity of use and maximisation of legal weight.
 {{% /collapsible %}}
 
 {{< /content >}}
