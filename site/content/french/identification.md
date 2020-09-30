@@ -206,7 +206,7 @@ de personnes peuvent signer immédiatement avec la SEQ ou la SEA sans procédure
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
 {{< content top=4 >}}
-{{< testimonial "testimonial/mobiliar-300w.svg" "Thomas Kühne, responsable TI de la Groupe Mobilière" >}}
+{{< testimonial "testimonial/mobiliar-150w.png" "Thomas Kühne, responsable TI de la Groupe Mobilière" >}}
 "L'investissement dans Skribble est le complément parfait de notre engagement dans SwissID. Ces deux solutions multiplient leur valeur ajoutée grâce à une intégration d'un seul coup. Une symbiose idéale et un excellent exemple de coopération dans l'écosystème technologique suisse."
 {{< /testimonial >}}
 {{< /content >}}
