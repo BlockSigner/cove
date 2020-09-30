@@ -177,7 +177,7 @@ languages:
     footer:
       leftSlot:
         title: QES freischalten?
-        text: Lassen Sie sich identifzieren, um mit maximaler Beweiskraft zu signieren.
+        text: Lassen Sie sich identifizieren, um mit maximaler Beweiskraft zu signieren.
         button:
           label: Identifizieren lassen
           href: /de/qes-freischalten/
