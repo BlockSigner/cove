@@ -163,13 +163,13 @@ The Most Important Skribble Branding Assets are right here at hand:
 Sign legally valid with 
 a few clicks
 ---
-Usable worldwide, hosted in Switzerland.
+Worldwide usage, hosted in Switzerland.
 {{% /markdown %}}
 
 {{< button
   "Get started"
   "https://my.skribble.com/signup?lang=en"
-  "_blank"
+  ""
 >}}
 {{< button
   "Contact Sales"
@@ -180,8 +180,7 @@ Usable worldwide, hosted in Switzerland.
 
 {{< content top=6 >}}
 {{< markdown center >}}
-{{% small %}}Try it out for free, 
-without entrance fee or commitment.{{% /small %}} 
+{{% small %}}2 signatures per month are free.{{% /small %}} 
 {{< /markdown >}}
 {{< /content >}}
 {{< /outro >}}

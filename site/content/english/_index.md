@@ -331,7 +331,7 @@ Worldwide usage, hosted in Switzerland.
 {{< button
   "Get started"
   "https://my.skribble.com/signup?lang=en"
-  "_blank"
+  ""
 >}}
 {{< button
   "Contact Sales"
@@ -342,8 +342,7 @@ Worldwide usage, hosted in Switzerland.
 
 {{< content top=6 >}}
 {{< markdown center >}}
-{{% small %}}Try it out for free. 
-No entry fee. No obligation.{{% /small %}} 
+{{% small %}}2 signatures per month are free.{{% /small %}} 
 {{< /markdown >}}
 {{< /content >}}
 {{< /outro >}}
