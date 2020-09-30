@@ -524,6 +524,12 @@ with the highest data protection standards in Switzerland.
         <td>—</td>
       </tr>
       <tr>
+        <td>Onboarding support</td>
+        <td>—</td>
+        <td>{{< pricing-check filled=true >}}</td>
+        <td>{{< pricing-check >}}</td>
+      </tr>
+      <tr>
         <td>Dedicated Customer Success Manager</td>
         <td>—</td>
         <td>—</td>
@@ -533,12 +539,6 @@ with the highest data protection standards in Switzerland.
         <td>Personal Account Executive</td>
         <td>—</td>
         <td>—</td>
-        <td>{{< pricing-check >}}</td>
-      </tr>
-      <tr>
-        <td>Onboarding support</td>
-        <td>—</td>
-        <td>{{< pricing-check filled=true >}}</td>
         <td>{{< pricing-check >}}</td>
       </tr>
       <tr>

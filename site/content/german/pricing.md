@@ -520,6 +520,12 @@ Mit Skribble signieren Sie Ihre Verträge innert Sekunden – global rechtsgült
         <td>—</td>
       </tr>
       <tr>
+        <td>Unterstützung beim Onboarding</td>
+        <td>—</td>
+        <td>{{< pricing-check filled=true >}}</td>
+        <td>{{< pricing-check >}}</td>
+      </tr>
+      <tr>
         <td>Dedicated Customer Success Manager</td>
         <td>—</td>
         <td>—</td>
@@ -529,12 +535,6 @@ Mit Skribble signieren Sie Ihre Verträge innert Sekunden – global rechtsgült
         <td>Persönlicher Account Executive</td>
         <td>—</td>
         <td>—</td>
-        <td>{{< pricing-check >}}</td>
-      </tr>
-      <tr>
-        <td>Unterstützung beim Onboarding</td>
-        <td>—</td>
-        <td>{{< pricing-check filled=true >}}</td>
         <td>{{< pricing-check >}}</td>
       </tr>
       <tr>
