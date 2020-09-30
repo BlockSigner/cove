@@ -315,7 +315,7 @@ Weltweit einsetzbar, gehosted in der Schweiz.
 {{< button
   "Jetzt loslegen"
   "https://my.skribble.com/signup?lang=de"
-  "_blank"
+  ""
 >}}
 {{< button
   "Sales kontaktieren"
@@ -326,8 +326,8 @@ Weltweit einsetzbar, gehosted in der Schweiz.
 
 {{< content top=6 >}}
 {{< markdown center >}}
-{{% small %}}Kostenlos testen, 
-ohne Eintrittsgebühr oder Verpflichtung.{{% /small %}} 
+{{% small %}}2 Signaturen pro Monat sind kostenlos.
+{{% /small %}} 
 {{< /markdown >}}
 {{< /content >}}
 {{< /outro >}}
