@@ -13,8 +13,8 @@ og_image: og/og-skribble-identification.jpg
 Maximieren Sie die Beweiskraft 
 Ihrer E-Signatur
 ===============
-Die (QES) schalten Sie frei, in dem Sie sich online 
-via Video (EU) oder im persönlichen Kontakt (Schweiz)
+Die qualifizierte elektronische Signatur (QES) schalten Sie frei, in dem Sie sich online 
+via Video (zum Signieren nach EU-Recht) oder im persönlichen Kontakt (zum Signieren nach Schweizer Recht)
 identifizieren lassen.
 {{% /markdown %}}
 {{< /content >}}
@@ -81,7 +81,7 @@ Lassen Sie Ihre Identität überprüfen und die Daten sicher speichern
 {{< picture "identification-step-4" 270 "Eine person hält ein rechtsgültiges dokument in den händen. Im hintergrund befindet sich das swisscom logo" >}}
 {{% markdown %}}
 **Schritt 4**
-Die QES wird auf Skribble für Sie freigeschaltet.
+Die QES wird auf Skribble für Sie freigeschaltet
 {{% /markdown %}}
 {{< /step >}}
 {{< /content >}}
@@ -115,7 +115,7 @@ Zusammen mit unserem Partner Swisscom Trust Services bieten wir eine wachsende Z
 
 {{< content top=6 width=narrow >}}
 {{% collapsible 1 "Was bringt mir die Identifikation?" %}}
-Auf Skribble haben Sie die Möglichkeit, mit dem [höchsten verfügbaren E-Signatur-Standard](/de/signaturstandards) zu signieren: Die qualifizierten elektronischen Signatur (QES). Diese hat eine Beweiskraft von 100% und kann für Verträge eingesetzt werden, die die Schriftlichkeit verlangen. Für die QES verlangt das Gesetz eine Identitätsprüfung.
+Auf Skribble haben Sie die Möglichkeit, mit dem [höchsten verfügbaren E-Signatur-Standard](/de/signaturstandards) zu signieren: der qualifizierten elektronischen Signatur (QES). Diese hat eine Beweiskraft von 100% und kann für Verträge eingesetzt werden, die die Schriftlichkeit verlangen. Für die QES verlangt das Gesetz eine Identitätsprüfung.
 {{% /collapsible %}}
 
 {{% collapsible 2 "Muss ich mich vor jeder QES-Signatur neu identifizieren lassen?" %}}
@@ -123,7 +123,7 @@ Nein. Ihre E-ID ist 5 Jahre lang gültig oder bis zum Ablauf des Ausweises, den 
 {{% /collapsible %}}
 
 {{% collapsible 3 "Welche Ausweisdokumente kann ich für die Identifikation nutzen?" %}}
-Ein gültiger Pass oder eine gültige Identitätskarte. Alle anderen Ausweise wie der Ausländerausweis oder Führerschein reichen nicht aus.
+Ein gültiger Reisepass/Personalausweis oder eine gültige Identitätskarte. Alle anderen Ausweise wie der Ausländerausweis oder Führerschein reichen nicht aus.
 {{% /collapsible %}}
 
 {{% collapsible 4 "Wo werden die Daten der identifizierten Personen gespeichert?" %}}
