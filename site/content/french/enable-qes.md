@@ -144,7 +144,7 @@ L'identification personnelle n'est requise que pour signer avec la norme de sign
 {{< outro >}}
 {{% markdown center %}}
 Signer légalement et électroniquement 
-grâce à Skribble
+avec Skribble
 ---
 Utilisable dans le monde entier, hébergé en Suisse.
 {{% /markdown %}}
@@ -152,7 +152,7 @@ Utilisable dans le monde entier, hébergé en Suisse.
 {{< button
   "Démarrer"
   "https://my.skribble.com/signup?lang=fr"
-  "_blank"
+  ""
 >}}
 {{< button
   "Contacter les ventes"
@@ -160,10 +160,10 @@ Utilisable dans le monde entier, hébergé en Suisse.
   "_blank"
   outline
 >}}
+
 {{< content top=6 >}}
 {{< markdown center >}}
-{{% small %}}Test gratuit, 
-aucun droit d'entrée ou engagement.{{% /small %}} 
+{{% small %}}2 signatures par mois sont gratuites.{{% /small %}} 
 {{< /markdown >}}
 {{< /content >}}
 {{< /outro >}}

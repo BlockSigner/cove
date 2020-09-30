@@ -329,7 +329,7 @@ Utilisable dans le monde entier, hébergé en Suisse.
 {{< button
   "Démarrer"
   "https://my.skribble.com/signup?lang=fr"
-  "_blank"
+  ""
 >}}
 {{< button
   "Contacter les ventes"
@@ -340,8 +340,7 @@ Utilisable dans le monde entier, hébergé en Suisse.
 
 {{< content top=6 >}}
 {{< markdown center >}}
-{{% small %}}Vous pouvez tester Skribble gratuitement.
-Pas de frais d'entrée ni d'obligation.{{% /small %}} 
+{{% small %}}2 signatures par mois sont gratuites.{{% /small %}} 
 {{< /markdown >}}
 {{< /content >}}
 {{< /outro >}}
