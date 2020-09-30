@@ -83,7 +83,7 @@ desto höher deren Beweiskraft.
 {{< picture signaturestandard-teaser 90 "Eine Hand mit einem Füllfederhalter unterzeichnet einen grünen Vertrag." >}}
 
 {{% markdown %}}
-**Wann nutze ich welchen Signaturstandard?**
+**Wann nutze ich welchen E-Signatur-Standard?**
 {{% /markdown %}}
 {{< /cta >}}
 
@@ -99,8 +99,8 @@ desto höher deren Beweiskraft.
 Qualifizierte elektronische 
 Signatur (QES)
 ===============
-Die QES schalten Sie frei, in dem Sie sich online via Video-Call (EU)
-oder im persönlichen Kontakt (Schweiz) identifizieren lassen.
+Die QES schalten Sie frei, indem Sie sich online via Video-Call (zum Signieren nach EU-Recht)
+oder im persönlichen Kontakt (zum Signieren nach Schweizer Recht) identifizieren lassen.
 {{% /markdown %}}
 {{< /content >}}
 
