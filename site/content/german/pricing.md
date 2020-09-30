@@ -269,7 +269,6 @@ Mit Skribble signieren Sie Ihre Verträge innert Sekunden – global rechtsgült
 {{< /pricing-table >}}
 {{< /pricing-group >}}
 
-[//]: # (--------------------------------------------------------------------------------------------------------------)
 
 {{< pricing-group top=1 bottom=1 >}}
 {{< pricing-table >}}
@@ -362,7 +361,6 @@ Mit Skribble signieren Sie Ihre Verträge innert Sekunden – global rechtsgült
 {{< /pricing-table >}}
 {{< /pricing-group >}}
 
-[//]: # (--------------------------------------------------------------------------------------------------------------)
 
 {{< pricing-group top=1 bottom=1 >}}
 {{< pricing-table >}}
@@ -460,7 +458,6 @@ Mit Skribble signieren Sie Ihre Verträge innert Sekunden – global rechtsgült
 {{< /pricing-table >}}
 {{< /pricing-group >}}
 
-[//]: # (--------------------------------------------------------------------------------------------------------------)
 
 {{< pricing-group top=1 bottom=1 >}}
 {{< pricing-table >}}
@@ -593,7 +590,6 @@ Mit Skribble signieren Sie Ihre Verträge innert Sekunden – global rechtsgült
 {{< /pricing-table >}}
 {{< /pricing-group >}}
 
-[//]: # (--------------------------------------------------------------------------------------------------------------)
 
 {{< pricing-group top=1 bottom=1 >}}
 {{< pricing-table >}}

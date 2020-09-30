@@ -273,7 +273,6 @@ with the highest data protection standards in Switzerland.
 {{< /pricing-table >}}
 {{< /pricing-group >}}
 
-[//]: # (--------------------------------------------------------------------------------------------------------------)
 
 {{< pricing-group top=1 bottom=1 >}}
 {{< pricing-table >}}
@@ -366,7 +365,6 @@ with the highest data protection standards in Switzerland.
 {{< /pricing-table >}}
 {{< /pricing-group >}}
 
-[//]: # (--------------------------------------------------------------------------------------------------------------)
 
 {{< pricing-group top=1 bottom=1 >}}
 {{< pricing-table >}}
@@ -464,7 +462,6 @@ with the highest data protection standards in Switzerland.
 {{< /pricing-table >}}
 {{< /pricing-group >}}
 
-[//]: # (--------------------------------------------------------------------------------------------------------------)
 
 {{< pricing-group top=1 bottom=1 >}}
 {{< pricing-table >}}
@@ -597,7 +594,6 @@ with the highest data protection standards in Switzerland.
 {{< /pricing-table >}}
 {{< /pricing-group >}}
 
-[//]: # (--------------------------------------------------------------------------------------------------------------)
 
 {{< pricing-group top=1 bottom=1 >}}
 {{< pricing-table >}}
