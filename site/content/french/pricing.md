@@ -117,7 +117,7 @@ Skribble permet de signer vos contrats en un clin d’œil – Validité mondial
 {{< pricing-group top=1 bottom=1 >}}
 {{< pricing-table >}}
   <div class="pricing-table__legend hide-for-desktop">
-    <div class="pricing-table__legend-title">Features vergleichen</div>
+    <div class="pricing-table__legend-title">Comparer les fonctionnalités</div>
     <div class="pricing-table__legend-plans">
       <span>F - Fair Flat</span>
       <span>B - Business</span>
@@ -176,8 +176,8 @@ Skribble permet de signer vos contrats en un clin d’œil – Validité mondial
         <td>
           Sceau électronique (signature d’entreprise)
           <div class="pricing-table__mobile-details  hide-for-desktop">
-            <span>{{< pricing-info filled=true >}} <strong>B</strong>: Auf Anfrage</span>
-            <span>{{< pricing-info >}} <strong>E</strong>: Auf Anfrage</span>
+            <span>{{< pricing-info filled=true >}} <strong>B</strong>: Sur demande</span>
+            <span>{{< pricing-info >}} <strong>E</strong>: Sur demande</span>
           </div>
         </td>
         <td>—</td>
@@ -493,7 +493,7 @@ Skribble permet de signer vos contrats en un clin d’œil – Validité mondial
         <td>
           Support technique (e-mail, téléphone, chat)
           <div class="pricing-table__mobile-details  hide-for-desktop">
-            <span>{{< pricing-info >}} <strong>P</strong>: Standard</span>
+            <span>{{< pricing-info >}} <strong>F</strong>: Standard</span>
             <span>{{< pricing-info filled=true >}} <strong>B</strong>: Standard</span>
             <span>{{< pricing-info >}} <strong>E</strong>: Prioritaire</span>
           </div>
@@ -693,7 +693,7 @@ Skribble permet de signer vos contrats en un clin d’œil – Validité mondial
         <td>
           Identification à distance (p. ex. en ligne par vidéo)
           <div class="pricing-table__mobile-details  hide-for-desktop">
-            <span>{{< pricing-info >}} <strong>P</strong>: CHF 19.- (montant unique)</span>
+            <span>{{< pricing-info >}} <strong>F</strong>: CHF 19.- (montant unique)</span>
             <span>{{< pricing-info filled=true >}} <strong>B</strong>: CHF 19.- (montant unique)</span>
             <span>{{< pricing-info >}} <strong>E</strong>: CHF 19.- (montant unique)</span>
           </div>
