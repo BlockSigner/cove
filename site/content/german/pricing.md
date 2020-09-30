@@ -596,7 +596,7 @@ Mit Skribble signieren Sie Ihre Verträge innert Sekunden – global rechtsgült
   <table>
     <thead>
       <tr>
-        <th>Identifikationsoptionen und -services</th>
+        <th>Identifikationsoptionen<br> und -services</th>
         <th>
           <span class="hide-for-desktop">F</span>
           <span class="hide-for-mobile">Fair Flat</span></th>
