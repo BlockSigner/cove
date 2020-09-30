@@ -117,7 +117,7 @@ with the highest data protection standards in Switzerland.
 {{< pricing-group top=1 bottom=1 >}}
 {{< pricing-table >}}
   <div class="pricing-table__legend hide-for-desktop">
-    <div class="pricing-table__legend-title">Features vergleichen</div>
+    <div class="pricing-table__legend-title">Compare features</div>
     <div class="pricing-table__legend-plans">
       <span>F - Fair Flat</span>
       <span>B - Business</span>
@@ -493,7 +493,7 @@ with the highest data protection standards in Switzerland.
         <td>
           Technical Support (e-mail, phone, chat)
           <div class="pricing-table__mobile-details  hide-for-desktop">
-            <span>{{< pricing-info >}} <strong>P</strong>: Standard</span>
+            <span>{{< pricing-info >}} <strong>F</strong>: Standard</span>
             <span>{{< pricing-info filled=true >}} <strong>B</strong>: Standard</span>
             <span>{{< pricing-info >}} <strong>E</strong>: Priority</span>
           </div>
@@ -693,7 +693,7 @@ with the highest data protection standards in Switzerland.
         <td>
           Remote identification (e.g. online via video call)
           <div class="pricing-table__mobile-details  hide-for-desktop">
-            <span>{{< pricing-info >}} <strong>P</strong>: CHF 19.-, (one-time fee)</span>
+            <span>{{< pricing-info >}} <strong>F</strong>: CHF 19.-, (one-time fee)</span>
             <span>{{< pricing-info filled=true >}} <strong>B</strong>: CHF 19.-, (one-time fee)</span>
             <span>{{< pricing-info >}} <strong>E</strong>: CHF 19.-, (one-time fee)</span>
           </div>
