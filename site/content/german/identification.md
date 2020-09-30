@@ -55,7 +55,7 @@ Bei der einfachen elektronischen Signatur (EES) werden die Signierenden anhand i
 {{< plan
   white
   "FES"
-  "Firmen E-Mail-Adresse"
+  "Firmen-E-Mail-Adresse"
   ""
   ""
   "_blank"
@@ -64,7 +64,7 @@ Bei der einfachen elektronischen Signatur (EES) werden die Signierenden anhand i
 
 {{< picture company-email 280 "Ein Softwarfenster mit einem Mann und einer Frau in einer Blase." >}}
 
-Unternehmen, die die Identität ihrer Mitarbeitenden standardmässig erfassen, können die FES via Firmen-E-Mail-Adresse freischalten (FES für Business). Wer über eine entsprechenden E-Mail-Adresse verfügt, kann sofort mit FES signieren.
+Unternehmen, die die Identität ihrer Mitarbeitenden standardmässig erfassen, können die FES via Firmen-E-Mail-Adresse freischalten (FES für Business). Wer über eine entsprechende E-Mail-Adresse verfügt, kann sofort mit FES signieren.
 {{< /plan >}}
 
 {{< plan
@@ -79,7 +79,7 @@ Unternehmen, die die Identität ihrer Mitarbeitenden standardmässig erfassen, k
 
 {{< picture mobile-nr 260 "Ein mobiles Telefon ragt aus den Häusern hervor." >}}
 
-Schweizer Telecom-Anbieter sind dazu verpflichtet, vor Vertragsabschluss ID oder Pass ihrer Kunden zu erfassen. Wer sich mit einer Schweizer Mobiltelefonnummer auf Skribble registriert, kann sofort mit FES signieren.
+Schweizer Mobilfunk-Anbieter sind dazu verpflichtet, vor Vertragsabschluss ID oder Pass ihrer Kunden zu erfassen. Wer sich mit einer Schweizer Mobiltelefonnummer auf Skribble registriert, kann sofort mit FES signieren.
 {{% /plan %}}
 
 {{< /content >}}
@@ -164,7 +164,7 @@ Ein Vertreter Ihres Unternehmens durchläuft eine einmalige Schulung. Anschliess
 >}}
 
 {{< picture id-direct 210 "Ein Mann sitzt vor einem Laptop, darüber ist eine Sotware-Fenster, wo eine Frau mit einer grossen Lupe herausragt und überprüft eine Identitätskarte." >}}
-Signierende schalten die QES frei, in dem sie sich sich online via Video identifizieren lassen (EU) oder persönlich an einem Identifikationsstandort (Schweiz). Passend für Einzelpersonen und Unternehmen mit einer geringen Anzahl QES-Signierender.
+Signierende schalten die QES frei, indem sie sich sich online via Video identifizieren lassen (EU) oder persönlich an einem Identifikationsstandort erscheinen (Schweiz). Passend für Einzelpersonen und Unternehmen mit einer geringen Anzahl QES-Signierender.
 {{% /plan %}}
 {{< /content >}}
 
@@ -216,11 +216,11 @@ Eine wachsende Anzahl Menschen in Europa verfügt über eine geprüfte elektroni
 
 {{< content text=left width=narrow >}}
 
-{{% collapsible 10 "Wann verwende ich welchen Signaturstandard?" %}}
+{{% collapsible 10 "Wann verwende ich welchen E-Signatur-Standard?" %}}
 Die einfache und die fortgeschrittene elektronische Signatur (EES und FES) sind bei allen Verträgen rechtsgültig, bei denen das Gesetz keine spezielle Form vorschreibt (formfreie Verträge). Die qualifizierte elektronische Signatur (QES) nutzen Sie bei Verträgen mit Formvorschrift oder um internen Compliance-Anforderungen zu genügen. Beispiele und mehr Informationen finden Sie unter: https://www.skribble.com/de/signaturstandards/
 {{% /collapsible %}}
 
-{{% collapsible 11 "Welche Identifikationmsmassnahmen werden für die einfache elektronische Signatur (EES) vorausgesetzt?" %}}
+{{% collapsible 11 "Welche Identifikationsmassnahmen werden für die einfache elektronische Signatur (EES) vorausgesetzt?" %}}
 Bei der EES dient die E-Mail-Adresse als Identifikationselement. Die E-Mail-Adresse muss mit Klick auf einen Link, der an die entsprechende E-Mail-Adresse gesendet wird, bestätigt werden.
 {{% /collapsible %}}
 
