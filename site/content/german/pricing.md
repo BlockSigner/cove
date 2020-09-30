@@ -489,7 +489,7 @@ Mit Skribble signieren Sie Ihre Verträge innert Sekunden – global rechtsgült
         <td>
           Technischer Support (E-Mail, Telefon, Chat)
           <div class="pricing-table__mobile-details  hide-for-desktop">
-            <span>{{< pricing-info >}} <strong>P</strong>: Standard</span>
+            <span>{{< pricing-info >}} <strong>F</strong>: Standard</span>
             <span>{{< pricing-info filled=true >}} <strong>B</strong>: Standard</span>
             <span>{{< pricing-info >}} <strong>E</strong>: Priority</span>
           </div>
@@ -689,7 +689,7 @@ Mit Skribble signieren Sie Ihre Verträge innert Sekunden – global rechtsgült
         <td>
           Remote-Identifikation (z.B. online via Video)
           <div class="pricing-table__mobile-details  hide-for-desktop">
-            <span>{{< pricing-info >}} <strong>P</strong>: CHF 19.–, einmalig</span>
+            <span>{{< pricing-info >}} <strong>F</strong>: CHF 19.–, einmalig</span>
             <span>{{< pricing-info filled=true >}} <strong>B</strong>: CHF 19.–, einmalig</span>
             <span>{{< pricing-info >}} <strong>E</strong>: CHF 19.–, einmalig</span>
           </div>
