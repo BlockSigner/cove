@@ -147,7 +147,7 @@ En quelques secondes, vous pouvez vérifier si la signature est authentique et s
 
 {{< content top=10 bottom=20 text=center >}}
 {{< button
-  "Afficher les fonctions"
+  "Afficher les fonctionnalités"
   "/fr/fonctionnalites/"
   ""
   "outline"
