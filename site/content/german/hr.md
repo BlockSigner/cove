@@ -262,19 +262,15 @@ den Signaturstandards EES, FES und QES wählen.**
 
 {{< content top=6 width=narrow >}}
 {{% collapsible 10 "Wo sind Dokumente, die mit Skribble signiert wurden, gespeichert?" %}}
-Das Datenzentrum von Skribble ist in der Schweiz und nach ISO 270001 zertifiziert (Hosting nach Bankenstandard).
+Das Datenzentrum von Skribble ist in der Schweiz und nach ISO 270001 zertifiziert (Hosting auf Bankenstandard).
 {{% /collapsible %}}
 
 {{% collapsible 11 "Was, wenn ich noch nicht persönlich identifiziert wurde?" %}}
 Die persönliche Identifikation wird nur für das Signieren mit dem höchsten E-Signatur-Standard (QES) vorausgesetzt. Wurden Sie noch nicht persönlich identifiziert, signieren Sie entweder mit einer einfachen (EES) oder fortgeschrittenen elektronischen Signatur (FES).
 {{% /collapsible %}}
 
-{{% collapsible 12 "Ist das Signieren mit Skribble rechtssicher?" %}}
-Ja. Auf Skribble können Sie den höchsten verfügbaren E-Signatur-Standard wählen: Die qualifzierte elektronische Signatur QES. Diese hat eine Beweiskraft von 100% vor Gericht.
-{{% /collapsible %}}
-
-{{% collapsible 13 "Kann ich den digital signierten Vertrag in Papierform aufbewahren?" %}}
-Nicht ausschliesslich. Dank der visuellen Signatur ist auf dem ausgedruckten Vertrag ersichtlich, dass er digital signiert wurde. Da die digitalen Zertifikate mit dem Ausdrucken aber verloren gehen, ist die Nachvollziehbarkeit der Signatur und damit die entsprechende Beweiskraft nicht gegeben. Ein Vertrag, welcher mit einer qualifizierten elektronischen Signatur unterschrieben ist, muss deshalb immer in elektronischer Form gespeichert werden.
+{{% collapsible 12 "Kann ich den digital signierten Vertrag in Papierform aufbewahren?" %}}
+Nicht ausschliesslich. Dank der visuellen Signatur ist auf dem ausgedruckten Vertrag ersichtlich, dass er digital signiert wurde. Da die digitalen Zertifikate mit dem Ausdrucken aber verloren gehen, ist die Nachvollziehbarkeit der Signatur und damit die entsprechende Beweiskraft nicht gegeben. Ein elektronisch signierter Vertrag muss deshalb immer in elektronischer Form gespeichert werden.
 {{% /collapsible %}}
 
 {{< /content >}}
