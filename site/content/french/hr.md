@@ -267,12 +267,8 @@ Le centre de données Skribble est situé en Suisse et est certifié ISO 270001 
 L'identification personnelle n'est requise que pour signer avec la norme de signature électronique (QES) la plus élevée. Si vous n'avez pas encore été identifié en contact personnel, vous signez soit avec une signature électronique simple (SES), soit avec une signature électronique avancée (AES).
 {{% /collapsible %}}
 
-{{% collapsible 12 "Est-ce que signer avec Skribble est légalement sécurisé?" %}}
-Oui. Sur Skribble, vous pouvez choisir le standard de signature électronique le plus élevé du marché: la signature électronique qualifiée SEQ. Celle-ci a une valeur probante de 100% devant un tribunal.
-{{% /collapsible %}}
-
-{{% collapsible 13 "Puis-je conserver le contrat signé numériquement sur papier?" %}}
-Pas uniquement. Grâce à la signature visuelle, on peut voir sur le contrat imprimé qu'il a été signé numériquement. Cependant, comme les certificats numériques sont perdus lors de l'impression, la traçabilité de la signature et donc le caractère concluant correspondant ne sont pas donnés. Un contrat signé avec une signature électronique qualifiée doit donc toujours être conservé sous forme électronique.
+{{% collapsible 12 "Puis-je conserver le contrat signé numériquement sur papier?" %}}
+Pas uniquement. Grâce à la signature visuelle, on peut voir sur le contrat imprimé qu'il a été signé numériquement. Cependant, comme les certificats numériques sont perdus lors de l'impression, la traçabilité de la signature et donc le caractère concluant correspondant ne sont pas donnés. Un contrat signé avec une signature électronique doit donc toujours être conservé sous forme électronique.
 {{% /collapsible %}}
 
 {{< /content >}}
