@@ -111,16 +111,15 @@ Together with our partner Swisscom Trust Services, we offer a growing number of 
 {{< /content >}}
 
 {{< content top=6 width=narrow >}}
-{{% collapsible 1 "Maximise the legal weight of your electronic signature" %}}
-At Skribble you sign with the qualified electronic signature (QES). This is [the highest e-signature standard](/signaturestandards). For this, the law requires an identity verification through personal contact. Exceptions are financial intermediaries who may carry out identity verification using video identification.{{< /collapsible >}}
+{{% collapsible 1 "Why is identification necessary?" %}}
+At Skribble you sign with the qualified electronic signature (QES). This is [the highest e-signature standard](/signaturestandards). For the QES, the law requires a face-to-face identity verification.{{< /collapsible >}}
 
 {{% collapsible 2 "Do I have to be identified again before each QES signature?" %}}
-No. Your e-ID is valid for 5 years or until the expiry of the document of identification you presented during identification.
+No. Identity verification is performed once and is valid for 5 years or until the identity document used for the identification expires.
 {{< /collapsible >}}
 
-{{% collapsible 3 "Which identification documents can I use for identification?" %}}
-A valid passport or identity card. All other forms of identification
-such as a residence permit or driving licence are not sufficient.
+{{% collapsible 3 "Which identity documents are accepted?" %}}
+A valid passport or an identity card. Documents such as residence permit or driving licence are not accepted.
 {{< /collapsible >}}
 
 {{% collapsible 4 "Where are the data of the identified users stored?" %}}
