@@ -115,14 +115,14 @@ En collaboration avec notre partenaire Swisscom Trust Services, nous proposons u
 {{< content top=6 width=narrow >}}
 {{% collapsible 1 "Que m'apporte l'identification?" %}}
 Sur Skribble, vous avez la possibilité de signer avec [la plus haute norme de signature électronique](/fr/normessignature) disponible: la signature électronique qualifiée (SEQ).
-Elle a une force probante de 100% et peut être utilisée pour les contrats qui nécessitent la forme écrite. Pour la SEQ, la loi exige un contrôle d'identité.
+Elle a une force probante maximale et peut être utilisée pour les contrats qui nécessitent la forme écrite. Pour la SEQ, la loi exige un contrôle d'identité en ligne par appel vidéo (UE) ou par contact personnel (Suisse).
 {{% /collapsible %}}
 
 {{% collapsible 2 "Dois-je être identifié à nouveau avant chaque signature SEQ?" %}}
-Non. Votre e-ID est valable 5 ans ou jusqu'à l'expiration de la pièce d'identité que vous avez présentée lors de votre identification.
+Non. Vous êtes considéré comme identifié pendant cinq ans ou jusqu'à l'expiration de la pièce d'identité que vous avez présentée lors de votre identification.
 {{% /collapsible %}}
 
-{{% collapsible 3 "Quels documents d'identité puis-je utiliser pour l'identification ?" %}}
+{{% collapsible 3 "Quels documents d'identité puis-je utiliser pour l'identification?" %}}
 Un passeport ou une carte d'identité en cours de validité. Toutes les autres formes d'identification telles que le permis de séjour ou le permis de conduire ne sont pas suffisantes.
 {{% /collapsible %}}
 
@@ -131,11 +131,7 @@ Les données collectées sont stockées sur les serveurs haute sécurité
 de Swisscom en Suisse (certification Tier IV).
 {{% /collapsible %}}
 
-{{% collapsible 5 "Le QSE nécessite-t-elle un Mobile ID?" %}}
-Non. Mais avec un Mobile ID, la signature est plus rapide et plus facile, c'est pourquoi nous vous le recommandons. Sur Mobile-ID.ch, vous pouvez vérifier si votre smartphone possède déjà un Mobile ID et si la fonction est déjà activée. Si tel n'est pas le cas, une nouvelle carte SIM avec Mobile ID peut être commandée gratuitement auprès de la plupart des fournisseurs.
-{{% /collapsible %}}
-
-{{% collapsible 6 "Et si je n'ai pas encore été identifié ?" %}}
+{{% collapsible 5 "Et si je n'ai pas encore été identifié?" %}}
 L'identification personnelle n'est requise que pour signer avec la norme de signature électronique (QES) la plus élevée. Si vous n'avez pas encore été identifié en contact personnel, vous signez soit avec une signature électronique simple (SES), soit avec une signature électronique avancée (AES).
 {{< /collapsible >}}
 {{< /content >}}
