@@ -13,8 +13,7 @@ og_image: og/og-skribble-identification.jpg
 Maximieren Sie die Beweiskraft 
 Ihrer E-Signatur
 ===============
-Die qualifizierte elektronische Signatur (QES) schalten Sie frei, in dem Sie sich online 
-via Video (zum Signieren nach EU-Recht) oder im persönlichen Kontakt (zum Signieren nach Schweizer Recht)
+Die qualifizierte elektronische Signatur (QES) schalten Sie frei, in dem Sie sich online via Video (zum Signieren nach EU-Recht) oder im persönlichen Kontakt (zum Signieren nach Schweizer Recht)
 identifizieren lassen.
 {{% /markdown %}}
 {{< /content >}}
