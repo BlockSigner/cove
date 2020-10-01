@@ -221,7 +221,7 @@ Die einfache und die fortgeschrittene elektronische Signatur (EES und FES) sind 
 {{% /collapsible %}}
 
 {{% collapsible 11 "Welche Identifikationsmassnahmen werden für die einfache elektronische Signatur (EES) vorausgesetzt?" %}}
-Bei der EES dient die E-Mail-Adresse als Identifikationselement. Die E-Mail-Adresse muss mit Klick auf einen Link, der an die entsprechende E-Mail-Adresse gesendet wird, bestätigt werden.
+Bei der EES dient die E-Mail-Adresse der Identifikation. Die E-Mail-Adresse muss mit Klick auf einen Link, der an die entsprechende E-Mail-Adresse gesendet wird, bestätigt werden.
 {{% /collapsible %}}
 
 {{% collapsible 12 "Wieso unterscheidet sich die Identifikation bei der EES, der FES und der QES?" %}}
