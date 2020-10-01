@@ -2,7 +2,7 @@
 # GERMAN HOME PAGE
 
 title: Skribble – Rechtsgültig elektronisch signieren
-description: Signaturprozesse einfach digital abwickeln – Rechtsgültig nach dem Schweizer & EU-Gesetz.
+description: Signaturprozesse nahtlos digital abwickeln – weltweit einsetzbar, gehosted in der Schweiz.
 draft: false
 
 ---
@@ -13,13 +13,17 @@ draft: false
 {{< intro top=24 bottom=12 width=wide img=image1 img-width=678 img-alt="drei personen signieren ein elektronisches dokument" >}}
 {{% markdown %}}
 # Rechtsgültig elektronisch signieren mit Skribble
-Signaturprozesse einfach digital abwickeln –
-rechtsgültig nach dem Schweizer & EU Gesetz.
+Weltweit einsetzbar, gehosted in der Schweiz.
+
+**Häufig eingesetzt für:**
+- Arbeitsverträge
+- Kaufverträge
+- Jahresabschlüsse
 {{% /markdown %}}
 {{< button
   "Jetzt loslegen"
   "https://my.skribble.com/signup?lang=de"
-  "_blank"
+  ""
 >}}
 {{< button
   "Sales kontaktieren"
@@ -32,53 +36,124 @@ rechtsgültig nach dem Schweizer & EU Gesetz.
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< logos-container top=12 bottom=24 width=wide title="Die erste Wahl von mehr als 200 Unternehmen mit höchsten Ansprüchen an Datenschutz und Sicherheit:">}}
+{{< logos-container top=12 bottom=24 width=wide title="Die erste Wahl von mehr als 250 Unternehmen mit höchsten Ansprüchen an Datenschutz und Sicherheit:">}}
   {{< logos-item src="logos/canon-116w.svg" alt="Canon">}}
-  {{< logos-item src="logos/helvetia-150w.svg" alt="Helvetia Versicherung">}}
+  {{< logos-item src="logos/seg-120w.svg" alt="SEG Automotive">}}
   {{< logos-item src="logos/easyjet-132w.svg" alt="EasyJet">}}
   {{< logos-line-break >}}
-  {{< logos-item src="logos/kellerhalscarrard-100w.svg" alt="Kellerhals Carrard">}}
+  {{< logos-item src="logos/helvetia-150w.svg" alt="Helvetia Versicherung">}}
   {{< logos-item src="logos/wincasa-150w.svg" alt="Wincasa">}}
-  {{< logos-item src="logos/twint-116w.svg" alt="Twint">}}
+  {{< logos-item src="logos/mobiliar-144w.svg" alt="Mobiliar">}}
 {{< /logos-container >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< content top=12 width=narrow >}}
+{{< content text=center top=12 width=narrow >}}
 {{% markdown %}}
-## In 3 Schritten rechtsgültig signieren
+## So signieren Sie mit Skribble
+Der einfachste Weg zum rechtsgülitigen Signieren 
+von Dokumenten mit und ohne Formvorschrift.
 {{% /markdown %}}
 {{< /content >}}
 
+{{< card-group top=1 bottom=24 width=wide >}}
+
+{{< card img="upload" img-width=300 img-alt="PDF Dokument zum Hochladen" >}}
+{{% markdown %}}
+### Dokumente hochladen
+Laden Sie das signierbereite PDF-Dokument direkt via Browser hoch oder integrieren Sie Skribble via API in Ihre Unternehmenssoftware.
+{{% /markdown %}}
+{{< /card >}}
+
+{{< card img="invite" img-width=300 img-alt="Person mit einem Plus zum Einladen" >}}
+{{% markdown %}}
+### Signierende einladen
+Laden Sie interne oder externe Signierende per E-Mail ein und wählen Sie den E-Signatur-Standard, mit dem signiert werden soll.
+{{% /markdown %}}
+{{< /card >}}
+
+{{< card img="sign" img-width=300 img-alt="Dokument mit einem Signier-Button" >}}
+{{% markdown %}}
+### Auf Knopfdruck signieren
+Signieren Sie innert Sekunden rechtsgültig nach EU- und Schweizer Recht, ortsunabhängig auf dem Smartphone oder am Computer.
+{{% /markdown %}}
+{{< /card >}}
+{{< /card-group >}}
+
+
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< side-by-side top=24 img=image2 mobile-top=12 mobile-bottom=6 img-width=416 img-position=right img-alt="Eine frau hält ein PDF dokument in den händen und lädt es hoch" >}}
-{{% markdown %}}
-### Dokumente als PDF hochladen
-Laden Sie das signierbereite PDF-Dokument direkt via Browser hoch oder nutzen Sie Skribble via API aus Ihrer Unternehmenssoftware heraus.
-{{% /markdown %}}
-{{< /side-by-side >}}
+{{< testimonial "testimonial/uniqa-100w.png" "Jaroslav Molik, Reinsurance Manager, UNIQA Re" >}}
+"Dank Skribble bin ich bei meiner täglichen Arbeit deutlich gelassener, da wir Verträge mit Tochtergesellschaften in Österreich, Mittel- und Osteuropa heute deutlich schneller und sicherer abschliessen können." {{< /testimonial >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< side-by-side bottom=12 mobile-top=6 mobile-bottom=6 img=image3 img-width=400 img-alt="Ein mann lädt zwei personen zum signieren ein" >}}
+{{< content top=20 bottom=6 text=center width=narrow >}}
 {{% markdown %}}
-### Zum Signieren einladen
-Laden Sie die signierenden Personen per E-Mail ein und wählen sie den E-Signatur-Standard, mit dem signiert werden soll.
+Signieren mit Skribble
+ist 90% günstiger als auf Papier
+---
+Nutzen Sie das Potenzial nahtlos digitaler Prozesse.
 {{% /markdown %}}
-{{< /side-by-side >}}
+{{< /content >}}
+
+{{< picture skribble-ui-de 1020 "Skribble plattform - user interface" >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< side-by-side top=12 bottom=24 mobile-top=6 mobile-bottom=12 img=image4 img-position=right img-width=391 img-alt="Three people legally sign a document online" >}}
+{{< card-group top=1 width=wide >}}
+{{< card icon="icons/faster-signing.svg" icon-width=44 >}}
 {{% markdown %}}
-### Rechtsgültig signieren
-Signieren Sie per Knopfdruck, unabhängig
-von Zeit und Ort, rechtsgültig nach Schweizer
-und EU-Recht.
+### Schneller abschliessen
+Innert Sekunden verfügen alle Beteiligten über die aktuelle Vertragsversion und können sie mit wenigen Klicks signieren.
 {{% /markdown %}}
-{{< /side-by-side >}}
+{{< /card >}}
 
+{{< card icon="icons/reduce-cost.svg" icon-width=44 >}}
+{{% markdown %}}
+### Kosten reduzieren
+Sie senken Ihre Ausgaben beim Signieren um bis zu 90% durch effizientere Prozesse und geringere Direktkosten.
+{{% /markdown %}}
+{{< /card >}}
+
+{{< card icon="icons/efficient-signing.svg" icon-width=44 >}}
+{{% markdown %}}
+### Effizienter arbeiten
+Sie ermöglichen Ihren Mitarbeitenden, Kunden und Partnern zeitsparende, papierfreie Prozesse ohne Medienbrüche.
+{{% /markdown %}}
+{{< /card >}}
+
+{{< card icon="icons/minimize-risk.svg" icon-width=44 >}}
+{{% markdown %}}
+### Risiken minimieren
+Sie arbeiten mit anerkannten, weltweit rechtsgültigen Standards. Ihre Daten sind auf Bankenstandard in der Schweiz gesichert.
+{{% /markdown %}}
+{{< /card >}}
+
+{{< card icon="icons/responsive.svg" icon-width=44 >}}
+{{% markdown %}}
+### Überall signieren
+Vom Mitarbeitenden im Home Office bis zum Lieferanten in Asien – Sie signieren ortsunabhängig auf dem Smartphone oder am Computer.
+{{% /markdown %}}
+{{< /card >}}
+
+{{< card icon="icons/auto-check.svg" icon-width=44 >}}
+{{% markdown %}}
+### Automatisch prüfen
+Sie stellen innert Sekunden fest, ob korrekt signiert wurde, ob die Signatur echt ist und ob das Dokument nicht verändert wurde.
+{{% /markdown %}}
+{{< /card >}}
+{{< /card-group >}}
+
+[//]: # (--------------------------------------------------------------------------------------------------------------)
+
+{{< content top=10 bottom=20 text=center >}}
+{{< button
+  "Features anzeigen"
+  "de/features"
+  ""
+  "outline">}}
+{{< /content >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
@@ -88,58 +163,30 @@ und EU-Recht.
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-
-{{< content top=20 bottom=6 text=center width=narrow >}}
-{{% markdown %}}
-Signieren Sie mit Skribble, 
-sparen Sie Zeit im Arbeitsalltag
-===============
-{{% /markdown %}}
-{{< /content >}}
-
-{{< picture skribble-ui-de 1020 "Skribble plattform - user interface" >}}
-
-{{< content bottom=15 text=center >}}
-{{< button
-  "Alle Funktionen anzeigen"
-  "de/features"
-  ""
-  "outline">}}
-{{< /content >}}
-
-[//]: # (--------------------------------------------------------------------------------------------------------------)
-
-{{< testimonial "testimonial/helvetia-150w.png" "Martin Tschopp, Chief Customer Officer von Helvetia Schweiz" >}}
-"Bei Helvetia sind in vielen Bereichen ‹nasse› Unterschriften nötig, zum Beispiel in der Lebensversicherung, aber auch in internen Prozessen. Mit Skribble können wir diese Prozesse komplett digitalisieren." 
-{{< /testimonial >}}
-
-
-[//]: # (--------------------------------------------------------------------------------------------------------------)
-
 {{< content top=20 text=center width=narrow >}}
 {{% markdown %}}
-Mit Skribble erfüllen Sie 
+Mit Skribble erfüllen Sie
 die rechtlichen Anforderungen
-===============
+---
 Signieren Sie rechtsgültig und sicher gemäss folgenden Erfordernissen:
 {{% /markdown %}}
 {{< /content >}}
 
 {{< content top=6 width=narrow >}}
-{{% collapsible 1 "E-Signatur-Standards gemäss ZertES/eIDAS" "check" %}}
+{{% collapsible 1 "E-Signatur-Standards gemäss eIDAS/ZertES" "check" %}}
 Skribble arbeitet mit gesetzlich definierten E-Signatur-Standards: Die qualifizierte elektronische Signatur (QES), die fortgeschrittene elektronische Signatur (FES) und die einfache elektronische Signatur (EES).
 {{% /collapsible %}}
 
-{{% collapsible 2 "Schriftlichkeitserfordernis gemäss OR/BGB" "check" %}}
-Die auf Skribble verfügbare qualifizierte elektronische Signatur (QES) ist der handschriftlichen Signatur gleichgestellt gemäss nationalen Gesetzgebungen in der Schweizer und der EU (z.B. OR in der Schweiz oder BGB in Deutschland).
+{{% collapsible 2 "Schriftlichkeitserfordernis gemäss BGB/OR" "check" %}}
+Die auf Skribble verfügbare qualifizierte elektronische Signatur (QES) ist der handschriftlichen Unterschrift gleichgestellt gemäss nationalen Gesetzgebungen in der EU und der Schweiz (z.B. BGB in Deutschland oder OR in der Schweiz).
 {{% /collapsible %}}
 
-{{% collapsible 3 "Datenschutz gemäss DSG/DSGVO" "check" %}}
-Skribble sowie Partner verwalten ihre Daten gemäss dem Bundesgesetz über den Datenschutz (DSG) sowie der europäischen Datenschutz-Grundverordnung (DSGVO) und hosten diese in der Schweiz nach Bankenstandard.
+{{% collapsible 3 "Datenschutz gemäss DSG/ DSGVO" "check" %}}
+Skribble sowie Partner verwalten Ihre Daten gemäss der europäischen Datenschutz-Grundverordnung (DSGVO) sowie dem Bundesgesetz über den Datenschutz (DSG) und hosten diese in der Schweiz auf Bankenstandard.
 {{% /collapsible %}}
 {{< /content >}}
 
-{{< content top=6 bottom=4 text=center width=narrow >}}
+{{< content top=10 bottom=4 text=center width=narrow >}}
 {{% markdown %}}
 &nbsp;
 {{% /markdown %}}
@@ -149,18 +196,18 @@ Skribble sowie Partner verwalten ihre Daten gemäss dem Bundesgesetz über den D
 
 {{< testimonial "testimonial/fr-logo-99w.svg" "Stéphane Schwab, Leiter E-Government, Kanton Freiburg" >}}
 "Dank Skribble können wir Administrationsprozesse von A bis Z digitalisieren. Das erleichtert
-den Alltag für uns und unseren Kunden." {{< /testimonial >}}
+den Alltag für uns und unsere Kunden." {{< /testimonial >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
 {{< content top=24 text=center width=narrow >}}
 {{% markdown %}}
-Signieren Sie immer 
-mit dem optimalen Standard 
-===============
-Das Gesetz unterscheidet drei Signaturstandards. Sie variieren 
-punkto Einsatzgebiet und Beweiskraft. Bei Skribbble erhalten Sie 
-alle Standards aus einer Hand.
+Mit Skribble können Sie 
+jedes Dokument rechtsgültig elektronisch signieren
+---
+Verschiedene Dokumente, verschiedene rechtliche Anforderungen – 
+bei Skribble erhalten Sie alle E-Signatur-Standards aus einer Hand 
+und sind sind für jeden Anwendungsfall gerüstet.
 {{% /markdown %}}
 {{< /content >}}
 
@@ -209,7 +256,7 @@ alle Standards aus einer Hand.
 {{% markdown %}}
 
 **Dokumente**
-interner oder informeller Natur mit geringem Haftungsrisiko.
+ohne gesetzliche Formvorschrift mit geringem Haftungsrisiko.
 &nbsp;
 {{% /markdown %}}
     </td>
@@ -242,7 +289,7 @@ mit gesetzlicher Formvorschrift oder hohem Haftungsrisiko.
 >}}
 
 {{% markdown %}}
-**Auf Skribble haben Sie die Wahl zwischen den Signaturstandards QES, FES und EES.**
+**Auf Skribble haben Sie die Wahl zwischen den E-Signatur-Standards QES, FES und EES.**
 {{% /markdown %}}
 {{< /cta >}}
 
@@ -257,27 +304,36 @@ mit gesetzlicher Formvorschrift oder hohem Haftungsrisiko.
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< logos-container top=20 bottom=18 title="Skribble in den Medien:">}}
-  {{< logos-item src="logos/srf-logo-180w.svg" alt="SRF-Schweizer Radio und Fernsehen">}}
-  {{< logos-item src="logos/handelszeitung-logo-240w.svg" alt="Handelszeitung">}}
+{{< content text=center top=24 bottom=2 width=narrow >}}
+{{% markdown %}}
+## Über 250 Unternehmen wollen beides: Einfachheit und Sicherheit
+{{% /markdown %}}
+{{< /content >}}
+
+{{< logos-container top=12 bottom=24 width=wide title="">}}
+  {{< logos-item src="logos/twint-116w.svg" alt="Twint">}}
+  {{< logos-item src="logos/canon-116w.svg" alt="Canon">}}
+  {{< logos-item src="logos/altenburger-170w.svg" alt="Altenburger">}}
   {{< logos-line-break >}}
-  {{< logos-item src="logos/hr-today-logo-173w.svg" alt="HR-Today">}}
-  {{< logos-item src="logos/gruenderszene-logo-216w.svg" alt="Gründerszene">}}
+  {{< logos-item src="logos/kellerhalscarrard-100w.svg" alt="Kellerhals Carrard">}}
+  {{< logos-item src="logos/seg-120w.svg" alt="SEG Automotive">}}
+  {{< logos-item src="logos/easyjet-130w.svg" alt="EasyJet">}}
 {{< /logos-container >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
 {{< outro >}}
 {{% markdown center %}}
-## Jetzt rechtsgültig elektronisch signieren!
-Keine Kreditkarte, Eintrittsgebühr oder
-Verpflichtung erforderlich.
+Signieren Sie rechtsgültig 
+mit wenigen Klicks
+---
+Weltweit einsetzbar, gehosted in der Schweiz.
 {{% /markdown %}}
 
 {{< button
   "Jetzt loslegen"
   "https://my.skribble.com/signup?lang=de"
-  "_blank"
+  ""
 >}}
 {{< button
   "Sales kontaktieren"
@@ -285,9 +341,11 @@ Verpflichtung erforderlich.
   "_blank"
   outline
 >}}
+
 {{< content top=6 >}}
 {{< markdown center >}}
-{{% small %}}2 Signaturen pro Monat sind kostenlos.{{% /small %}} 
+{{% small %}}2 Signaturen pro Monat sind kostenlos.
+{{% /small %}} 
 {{< /markdown >}}
 {{< /content >}}
 {{< /outro >}}

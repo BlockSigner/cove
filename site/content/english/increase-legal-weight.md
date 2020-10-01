@@ -13,9 +13,7 @@ og_image: og/og-skribble-increase-legal-weight.jpg
 Increase the legal weight 
 of your e-signature
 ===============	
-Enable an e-signature standard with higher legal weight. The procedure 
-differs depending on the standard. The more uniquely your e-signature 
-can be attributed to you as a person, the higher its legal weight.
+Enable an e-signature standard with higher legal weight. The procedure differs depending on the signature standard. The more unambiguously an e-signature can be attributed to a person, the higher its legal weight.
 {{% /markdown %}}
 {{< /content >}}
 
@@ -90,12 +88,37 @@ can be attributed to you as a person, the higher its legal weight.
 
 {{< content text=center top=16 bottom=8 width=narrow >}}
 {{% markdown %}}
+**Maximum legal weight** 
+## Qualified electronic signature (QES)
+You can enable the QES by having your identity verified online via video-call (EU) or face-to-face (Switzerland).
+{{% /markdown %}}
+{{< /content >}}
+
+{{< picture qes-increase 315 "A man is sitting in front of a laptop, above him is a software window, where a woman stands out with a big magnifying glass and checks an identity card." >}}
+
+
+{{< cta
+  label="Learn more"
+  href="/enable-qes/"
+  target=""
+  outlined="true"
+>}}
+
+{{< picture identify 96 "A house as an organization and an arrow." >}}
+
+{{% markdown %}}
+**Get identified**
+This is how you unlock QES on Skribble
+{{% /markdown %}}
+{{< /cta >}}
+
+[//]: # (--------------------------------------------------------------------------------------------------------------)
+
+{{< content text=center top=16 bottom=8 width=narrow >}}
+{{% markdown %}}
 **High legal weight** 
 # Advanced electronic signature (AES)
-Enable the AES by connecting your Skribble account with 
-a Swiss mobile phone number. You can do this in your Skribble profile.
-As a Skribble Business customer you can enable the activation 
-of the AES via company e-mail address (AES for Business).
+You can enable the AES by connecting your Skribble account with a Swiss mobile phone number. You can do this in your Skribble profile. As a Skribble Business or Enterprise customer, you can request the activation of the AES via company e-mail address (AES for Business).
 {{% /markdown %}}
 {{< /content >}}
 
@@ -120,48 +143,22 @@ Organisation-wide implementation in just a few days
 {{< /cta >}}
 {{< /content >}}
 
-[//]: # (--------------------------------------------------------------------------------------------------------------)
-
-{{< content text=center top=16 bottom=8 width=narrow >}}
-{{% markdown %}}
-**Maximum legal weight** 
-## Qualified electronic signature (QES)
-Enable the QES by getting yourself identified online via video-call or
-by personal contact with the ID app by Swisscom.
-{{% /markdown %}}
-{{< /content >}}
-
-{{< picture qes-increase 315 "A man is sitting in front of a laptop, above him is a software window, where a woman stands out with a big magnifying glass and checks an identity card." >}}
-
-
-{{< cta
-  label="Learn more"
-  href="/enable-qes/"
-  target=""
-  outlined="true"
->}}
-
-{{< picture identify 96 "A house as an organization and an arrow." >}}
-
-{{% markdown %}}
-**Get identified**
-This is how you unlock QES on Skribble
-{{% /markdown %}}
-{{< /cta >}}
 
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
 {{< outro >}}
 {{% markdown center %}}
-## Sign now, legally and electronically!
-No credit card, entrance fee or commitment required.
+Sign legally valid with 
+a few clicks
+---
+Worldwide usage, hosted in Switzerland.
 {{% /markdown %}}
 
 {{< button
   "Get started"
   "https://my.skribble.com/signup?lang=en"
-  "_blank"
+  ""
 >}}
 {{< button
   "Contact Sales"
@@ -169,9 +166,10 @@ No credit card, entrance fee or commitment required.
   "_blank"
   outline
 >}}
+
 {{< content top=6 >}}
 {{< markdown center >}}
-{{% small %}}2 signatures per month are free.{{% /small %}}
+{{% small %}}2 signatures per month are free.{{% /small %}} 
 {{< /markdown >}}
 {{< /content >}}
 {{< /outro >}}

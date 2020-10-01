@@ -63,7 +63,9 @@
     "whatwg-fetch": "^3.0.0"
   },
   "resolutions": {
-    "natives": "1.1.6"
+    "natives": "1.1.6",
+    "node-forge": "^0.10.0",
+    "serialize-javascript": "^4.0.0"
   },
   "config": {
     "commitizen": {

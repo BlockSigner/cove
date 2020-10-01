@@ -1,0 +1,61 @@
+$ns: card;
+
+.#{$ns} {
+  margin-top: 50px;
+  @include max-width {
+    margin-top: 40px;
+  }
+
+  &-group {
+    &__inner {
+      display: flex;
+      justify-content: center;
+      flex-wrap: wrap;
+    }
+
+    .#{$ns} {
+      flex: 0 0 33%;
+      padding: 0 10px;
+      @include max-width {
+        flex: 0 0 100%;
+        max-width: 400px;
+      }
+    }
+  }
+
+  &__img {
+    display: flex;
+    justify-content: center;
+    + .#{$ns}__content {
+      margin-top: 24px;
+    }
+  }
+
+  &__icon {
+    &.has-bg {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      border-radius: 3px;
+      width: 92px;
+      height: 92px;
+    }
+    + .#{$ns}__content {
+      margin-top: 24px;
+    }
+  }
+
+  p {
+    margin: 12px 0;
+    + p {
+      margin-top: 12px;
+    }
+  }
+
+  .markdown a:not(.btn) {
+    color: $c-primary;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 1.6rem;
+  }
+}

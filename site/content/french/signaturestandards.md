@@ -145,7 +145,7 @@ La signature complète et sans souci pour les exigences les plus élevées
 {{< content top=6 bottom=6 width=narrow >}}
 {{% markdown %}}
 **La signature électronique qualifiée (SEQ) équivaut légalement à la signature manuscrite.**
-Vous utilisez la SEQ pour maximiser la force probante de vos contrats ou lorsque la loi exige la forme écrite. Cette dernière s'applique, par exemple, aux accords de crédit ou contrats de travail comportant une clause de concurrence. Pour signer avec la SEQ sur Skribble, un contrôle d'identité préalable avec contact personnel ou par appel vidéo ou une e-ID est nécessaire.
+Vous utilisez la SEQ pour maximiser la force probante de vos contrats ou lorsque la loi exige la forme écrite. Cette dernière s'applique, par exemple, aux accords de crédit ou contrats de travail comportant une clause de concurrence. Pour signer avec la SEQ sur Skribble, un contrôle d'identité préalable avec contact personnel ou par appel vidéo ou une e-ID vérifiée est nécessaire.
 {{% /markdown %}}
 {{< /content >}}
 
@@ -240,7 +240,7 @@ Elle est juridiquement valable si la loi ne prescrit pas de forme particulière.
 <th>Force probante</th>
 <th>Prérequis d'identification</th>
 <th>Champ d'application	</th>
-<th>Exemples d'application</th>
+<th>Exemples d'application**</th>
 </tr>
 </thead>
 
@@ -268,6 +268,10 @@ Elle est juridiquement valable si la loi ne prescrit pas de forme particulière.
 <td><ul><li>Documents sans exigences formelles juridiques avec un faible risque de responsabilité</li></ul></td>
 <td><ul><li>Offres des fournisseurs</li><li>Commandes/ordonnances</li><li>Documents internes de l'organisation</li><li>Annonces</li><li>Lettres d'information</li><li>Documents informels</li></ul></td>
 </tr>
+
+<tr>
+<td colspan="5">**Le choix de la norme de signature électronique dépend des exigences formelles applicables et des directives internes et peut différer des exemples donnés. Consultez un conseil juridique pour votre cas précis.</td>
+</tr>
 </tbody>
 
 {{< /table-dense >}}
@@ -291,15 +295,16 @@ Elle est juridiquement valable si la loi ne prescrit pas de forme particulière.
 
 {{< outro >}}
 {{% markdown center %}}
-## Signer légalement <br class="hide-for-mobile">et numériquement maintenant!
-Aucune carte de crédit, aucun droit d'entrée
-ou engagement n'est requis.
+Signer légalement et électroniquement 
+avec Skribble
+---
+Utilisable dans le monde entier, hébergé en Suisse.
 {{% /markdown %}}
 
 {{< button
   "Démarrer"
   "https://my.skribble.com/signup?lang=fr"
-  "_blank"
+  ""
 >}}
 {{< button
   "Contacter les ventes"
@@ -307,9 +312,11 @@ ou engagement n'est requis.
   "_blank"
   outline
 >}}
+
 {{< content top=6 >}}
 {{< markdown center >}}
 {{% small %}}2 signatures par mois sont gratuites.{{% /small %}} 
 {{< /markdown >}}
 {{< /content >}}
 {{< /outro >}}
+

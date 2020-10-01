@@ -108,15 +108,16 @@ Unsere Vision ist gross. Wir entwickeln Skribble Tag für Tag weiter.
 
 {{< outro >}}
 {{% markdown center %}}
-## Jetzt rechtsgültig elektronisch signieren!
-Keine Kreditkarte, Eintrittsgebühr oder
-Verpflichtung erforderlich.
+Signieren Sie rechtsgültig 
+mit wenigen Klicks
+---
+Weltweit einsetzbar, gehosted in der Schweiz.
 {{% /markdown %}}
 
 {{< button
   "Jetzt loslegen"
   "https://my.skribble.com/signup?lang=de"
-  "_blank"
+  ""
 >}}
 {{< button
   "Sales kontaktieren"
@@ -124,9 +125,11 @@ Verpflichtung erforderlich.
   "_blank"
   outline
 >}}
+
 {{< content top=6 >}}
 {{< markdown center >}}
-{{% small %}}2 Signaturen pro Monat sind kostenlos.{{% /small %}} 
+{{% small %}}2 Signaturen pro Monat sind kostenlos.
+{{% /small %}} 
 {{< /markdown >}}
 {{< /content >}}
 {{< /outro >}}

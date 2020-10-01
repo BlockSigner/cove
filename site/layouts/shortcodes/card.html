@@ -1,0 +1,14 @@
+<div class="card">
+  {{ if .Get "img" }}
+    <div class="card__img">
+      {{ partial "picture" (dict "alt" (.Get "img-alt") "filename" (.Get "img") "natural_width" (.Get "img-width")) }}
+    </div>
+  {{ else if .Get "icon" }}
+    <div class="card__icon {{ if .Get "icon-background"  }}has-bg{{ end }}" style="background-color: {{ .Get "icon-background" }};">
+      <img src="{{ .Get "icon" }}" style="width: {{ .Get "icon-width" }}px;" />
+    </div>  
+  {{ end }}
+  <div class="card__content">
+    {{ .Inner }}
+  </div>
+</div>

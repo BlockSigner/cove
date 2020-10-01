@@ -57,6 +57,10 @@ languages:
           url: "/de/anwaelte/"
           weight: 15
           parent: solutions
+        - name: Steuerberater
+          url: "/de/steuerberater/"
+          weight: 20
+          parent: solutions
         # Preise
         - name: Preise
           url: "/de/preise/"
@@ -89,6 +93,9 @@ languages:
           weight: 5
         - name: Anwälte
           url: /de/anwaelte/
+          weight: 10
+        - name: Steuerberater
+          url: /de/steuerberater/
           weight: 10
       footer3:
         - name: Mission
@@ -138,9 +145,12 @@ languages:
         - name: AGB
           url: /de/agb/
           weight: 15
+        - name: Cookies
+          url: /de/cookie-richtlinie/
+          weight: 20
         - name: Impressum
           url: /de/impressum/
-          weight: 20
+          weight: 25
       footermobile:
         - name: Datenschutzbestimmungen
           url: /de/datenschutz/
@@ -151,9 +161,12 @@ languages:
         - name: AGB
           url: /de/agb/
           weight: 15
+        - name: Cookies
+          url: /de/cookie-richtlinie/
+          weight: 20
         - name: Impressum
           url: /de/impressum/
-          weight: 20
+          weight: 25
 
     header:
       contactSales: 
@@ -171,7 +184,7 @@ languages:
     footer:
       leftSlot:
         title: QES freischalten?
-        text: Lassen Sie sich identifzieren, um mit maximaler Beweiskraft zu signieren.
+        text: Lassen Sie sich identifizieren, um mit maximaler Beweiskraft zu signieren.
         button:
           label: Identifizieren lassen
           href: /de/qes-freischalten/
@@ -227,15 +240,19 @@ languages:
         # Solutions dropdown
         - name: Solutions
           url: "/hr/"
-          weight: 15
+          weight: 10
           identifier: solutions
         - name: HR
           url: "/hr/"
-          weight: 10
+          weight: 15
           parent: solutions
         - name: Lawyer
           url: "/Lawyer/"
-          weight: 15
+          weight: 20
+          parent: solutions
+        - name: Tax advisers
+          url: "/tax-advisers/"
+          weight: 25
           parent: solutions
         # Pricing
         - name: Pricing
@@ -270,6 +287,9 @@ languages:
         - name: Lawyer
           url: /lawyer/
           weight: 10
+        - name: Tax advisers
+          url: /tax-advisers/
+          weight: 15
       footer3:
         - name: Mission
           url: /about/
@@ -318,9 +338,12 @@ languages:
         - name: GTC
           url: /gtc/
           weight: 10
+        - name: Cookies
+          url: /cookie-policy/
+          weight: 15
         - name: Imprint
           url: /imprint/
-          weight: 15
+          weight: 20
       footermobile:
         - name: Privacy Policy
           url: /privacy/
@@ -331,9 +354,12 @@ languages:
         - name: GTC
           url: /gtc/
           weight: 15
+        - name: Cookies
+          url: /cookie-policy/
+          weight: 20
         - name: Imprint
           url: /imprint/
-          weight: 20
+          weight: 25
 
     header:
       contactSales: 
@@ -417,6 +443,10 @@ languages:
           url: "/fr/juristes/"
           weight: 20
           parent: solutions
+        - name: Conseillers fiscaux
+          url: "/fr/conseillers-fiscaux/"
+          weight: 25
+          parent: solutions
         # Tarifs
         - name: Tarifs
           url: "/fr/tarifs/"
@@ -450,6 +480,9 @@ languages:
         - name: Juristes
           url: /fr/juristes/
           weight: 10
+        - name: Conseillers fiscaux
+          url: "/fr/conseillers-fiscaux/"
+          weight: 15
       footer3:
         - name: Mission
           url: /fr/mission/
@@ -498,9 +531,12 @@ languages:
         - name: CG
           url: /fr/cg/
           weight: 15
+        - name: Cookies
+          url: /fr/politique-relative-aux-cookies/
+          weight: 20
         - name: Impressum
           url: /fr/impressum/
-          weight: 20
+          weight: 25
       footermobile:
         - name: Politique de Confidentialité
           url: /fr/politique-de-confidentialite/
@@ -511,9 +547,12 @@ languages:
         - name: CG
           url: /fr/cg/
           weight: 15
+        - name: Cookies
+          url: /fr/politique-relative-aux-cookies/
+          weight: 20
         - name: Impressum
           url: /fr/impressum/
-          weight: 20
+          weight: 25
 
     header:
       contactSales: 

@@ -1,5 +1,5 @@
 ---
-title: Vérification de l’identité pour la signature électronique
+title: Identification pour la signature électronique
 description: Chaque signature électronique doit être attribuable à une seule personne. Skribble nécessite donc l’identification des signataires. Les procédures diffèrent en fonction de la demande.
 draft: false
 slug: identification
@@ -10,12 +10,12 @@ og_image: og/og-skribble-identification.jpg
 
 {{< content text=center top=16 bottom=8 width=narrow >}}
 {{% markdown %}}
-Vérification de l'identité pour 
+Identification pour 
 la signature électronique
 ===============	
 Chaque signature électronique doit être attribuable à une seule personne.
 Skribble nécessite donc l'identification des signataires.
-Les procédures diffèrent en fonction de la demande.
+Les procédures diffèrent selon le type de contrat.
 {{% /markdown %}}
 {{< /content >}}
 
@@ -24,7 +24,7 @@ Les procédures diffèrent en fonction de la demande.
 {{< content text=center top=16 bottom=8 width=narrow >}}
 {{% markdown %}}
 # Contrats sans exigence formelle
-La signature électronique avancée (SEA) est généralement utilisée pour les contrats qui ne sont pas formalisés. Avec la SEA, la loi exige que l'identité du signataire puisse être reconstituée par la suite.
+Pour les contrats sans exigences formelles, la signature électronique simple (SES) ou la signature électronique avancée (SEA) est généralement utilisée. Les exigences d'identification pour la SES et la SEA sont faibles à moyennes.
 {{% /markdown %}}
 {{< /content >}}
 
@@ -32,14 +32,31 @@ La signature électronique avancée (SEA) est généralement utilisée pour les 
 
 {{< content text=center top=16 bottom=8 width=narrow >}}
 {{% markdown %}}
-**Options d'identification pour la signature électronique avancée (SEA):**
+**Options d'identification pour les contrats sans exigence formelle:**
 {{% /markdown %}}
 {{< /content >}}
 
 {{< content text=left width=wide display=flex >}}
+
 {{< plan
   white
+  "SES"
+  "Adresse électronique privée"
   ""
+  ""
+  "_blank"
+  "outline"
+>}}
+
+{{< picture private-email 280 "Deux personnes dans une bulle avec des e-mails" >}}
+
+Dans le cas de la signature électronique simple (SES), les signataires sont identifiés par leur adresse électronique. Toute personne qui possède un compte Skribble ou qui est invitée à signer par e-mail peut signer avec SES sans aucune autre action.
+{{< /plan >}}
+
+
+{{< plan
+  white
+  "SEA"
   "Adresse électronique de l'entreprise"
   ""
   ""
@@ -49,12 +66,12 @@ La signature électronique avancée (SEA) est généralement utilisée pour les 
 
 {{< picture company-email 280 "Une fenêtre de logiciel avec un homme et une femme dans une bulle." >}}
 
-Les entreprises qui enregistrent l'identité de leurs employés par défaut peuvent activer la SEA via l'adresse électronique de l'entreprise. Toute personne disposant d'une adresse électronique correspondante peut signer immédiatement avec la SEA.
+Les entreprises qui enregistrent l'identité de leurs employés par défaut peuvent activer la SEA via l'adresse électronique de l'entreprise (SEA pour Business). Toute personne disposant d'une adresse électronique correspondante peut signer immédiatement avec la SEA.
 {{< /plan >}}
 
 {{< plan
   white
-  ""
+  "SEA"
   "Numéro de téléphone portable (CH)"
   ""
   ""
@@ -99,8 +116,8 @@ Implémentation à toute l’organisation en quelques jours seulement.
 {{< picture signaturestandard-teaser 90 "Une main avec un stylo plume signe un contrat vert." >}}
 
 {{% markdown %}}
-**Normes de signature**
-Quand dois-je utiliser la SEQ, quand la SEA ?
+**SES, SEA ou SEQ?**
+Quand utiliser quelle norme de signature électronique.
 {{% /markdown %}}
 {{< /cta >}}
 {{< /cta-group >}}
@@ -109,35 +126,24 @@ Quand dois-je utiliser la SEQ, quand la SEA ?
 {{< content text=center top=16 bottom=8 width=narrow >}}
 {{% markdown %}}
 ## Contrats avec exigences formelles
-Pour les contrats comportant des exigences formelles, la signature électronique qualifiée (SEQ) est généralement utilisée. Avec le SEQ, la loi exige que l'identité du signataire soit vérifiée au préalable via un contact personnel.
+Pour les contrats comportant des exigences formelles, la signature électronique qualifiée (SEQ) est généralement utilisée. Les exigences d'identification pour la SEQ sont élevées, l'identification doit être faite face à face ou en ligne par vidéo.
 {{% /markdown %}}
 {{< /content >}}
 
 {{< picture contract-with-requirement 480 "Une femme avec un téléphone portable regarde derrière un contrat et devant lui se tient un homme d'affaires avec un ordinateur portable." >}}
 
-{{< content text=center top=8 bottom=0 width=narrow >}}
+{{< content text=center top=8 bottom=8 width=narrow >}}
 {{% markdown %}}
-**Options d'identification pour la signature électronique qualifiée (SEQ) :**
+**Options d'identification pour les contrats avec exigences formelles:**
 {{% /markdown %}}
 {{< /content >}}
-
-{{< content text=center top=8 bottom=4 width=narrow >}}
-{{% markdown %}}
-**Service d'identification**
-Déverrouillez la norme de signature électronique la plus élevée (SEQ) 
-en vous identifiant en ligne par appel vidéo ou par contact personnel 
-avec l’ID-app de Swisscom.
-&nbsp;
-{{% /markdown %}}
-{{< /content >}}
-
 
 {{< content width=wide display=flex >}}
 
 {{< plan
   white
-  "Identification"
-  "Unlimited"
+  "Service"
+  "Identification Unlimited"
   "Contactez-nous dès maintenant"
   "https://share.hsforms.com/1JHPHJU3QQz2TlyX14QDdKg309ws"
   "_blank"
@@ -146,17 +152,15 @@ avec l’ID-app de Swisscom.
 
 {{< picture id-easy 270 "Une femme et un homme sont debout devant une grande fenêtre de logiciel et l'homme tient une grande trappe avec une carte d'identité à l'intérieur." >}}
 
-Vous faites les identifications vous-même.
-
-Approprié si de nouveaux signataires de SEQ sont constamment ajoutés.
+Un représentant de votre entreprise suit une formation ponctuelle. Il peut ensuite identifier lui-même les signataires en contact personnel. Convient aux entreprises ayant un grand nombre de signataires de la SEQ.
 
 &nbsp;
 {{% /plan %}}
 
 {{< plan
   white
-  "Identification"
-  "En ligne par vidéo"
+  "Service"
+  "Identification Direct"
   "Déverrouiller SEQ maintenant"
   "/fr/debloquez-seq/"
   ""
@@ -164,8 +168,7 @@ Approprié si de nouveaux signataires de SEQ sont constamment ajoutés.
 >}}
 
 {{< picture id-direct 210 "Un homme est assis devant un ordinateur portable, au-dessus de lui se trouve une fenêtre de sotware, où une femme avec une grosse loupe fait saillie et vérifie une carte d'identité." >}}
-Déverrouillez la norme de signature électronique SEQ la plus élevée depuis chez vous.
-Convient aux signataires individuels.
+Les signataires activent la SEQ en s'identifiant en ligne par vidéo (UE) ou en personne dans un lieu d'identification (Suisse).  Convient aux individus et aux entreprises ayant un petit nombre de signataires SEQ.
 &nbsp;
 &nbsp;
 {{% /plan %}}
@@ -203,7 +206,7 @@ de personnes peuvent signer immédiatement avec la SEQ ou la SEA sans procédure
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
 {{< content top=4 >}}
-{{< testimonial "testimonial/mobiliar-300w.svg" "Thomas Kühne, responsable TI de la Groupe Mobilière" >}}
+{{< testimonial "testimonial/mobiliar-150w.png" "Thomas Kühne, responsable TI de la Groupe Mobilière" >}}
 "L'investissement dans Skribble est le complément parfait de notre engagement dans SwissID. Ces deux solutions multiplient leur valeur ajoutée grâce à une intégration d'un seul coup. Une symbiose idéale et un excellent exemple de coopération dans l'écosystème technologique suisse."
 {{< /testimonial >}}
 {{< /content >}}
@@ -237,25 +240,28 @@ Avec la SES et la SEA, les fournisseurs sont plus libres. Lors de la sélection 
 
 {{< outro >}}
 {{% markdown center %}}
-## Signer légalement <br class="hide-for-mobile">et numériquement maintenant!
-Aucune carte de crédit, aucun droit d'entrée
-ou engagement n'est requis.
+Signer légalement et électroniquement 
+avec Skribble
+---
+Utilisable dans le monde entier, hébergé en Suisse.
 {{% /markdown %}}
 
 {{< button
   "Démarrer"
   "https://my.skribble.com/signup?lang=fr"
-  "_blank"
+  ""
 >}}
 {{< button
   "Contacter les ventes"
-  "https://share.hsforms.com/1gxsCjIJRQhaM4GEcCmL7QQ309ws"
+  "https://share.hsforms.com/1JHPHJU3QQz2TlyX14QDdKg309ws"
   "_blank"
   outline
 >}}
+
 {{< content top=6 >}}
 {{< markdown center >}}
 {{% small %}}2 signatures par mois sont gratuites.{{% /small %}} 
 {{< /markdown >}}
 {{< /content >}}
 {{< /outro >}}
+

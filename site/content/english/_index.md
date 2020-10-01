@@ -1,8 +1,8 @@
 ---
 # ENGLISH HOME PAGE
 
-title: Skribble – Legally binding electronic signatures with Skribble
-description: Easily handle digital signature processes – legally binding in accordance with Swiss & EU law.
+title: Skribble – Legally binding electronic signatures
+description: Easily handle digital signature processes – worldwide usage, hosted in Switzerland
 draft: false
 
 # testimonial component
@@ -16,14 +16,18 @@ testimonial:
 
 {{< intro top=24 bottom=12 width=wide img=image1 img-width=678 img-alt="three people sign an electronic document" >}}
 {{% markdown %}}
-# Legally binding electronic signatures with Skribble
-Easily handle digital signature processes –
-legally binding in accordance with Swiss & EU law.
+# Sign electronically with Skribble
+Legally valid worldwide, securely hosted in Switzerland.
+
+**Frequently used for:**
+- Employment contracts
+- Sales contracts
+- Annual financial statements
 {{% /markdown %}}
 {{< button
   "Get started"
   "https://my.skribble.com/signup"
-  "_blank"
+  ""
 >}}
 {{< button
   "Contact Sales"
@@ -36,72 +40,119 @@ legally binding in accordance with Swiss & EU law.
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< logos-container top=12 bottom=24 width=wide title="The first choice of more than 200 companies with the highest requirements for data protection and security:">}}
+{{< logos-container top=12 bottom=24 width=wide title="The first choice of more than 250 companies with the highest requirements for data protection and security:">}}
   {{< logos-item src="logos/canon-116w.svg" alt="Canon">}}
-  {{< logos-item src="logos/helvetia-150w.svg" alt="Helvetia Versicherung">}}
+  {{< logos-item src="logos/seg-120w.svg" alt="SEG Automotive">}}
   {{< logos-item src="logos/easyjet-132w.svg" alt="EasyJet">}}
   {{< logos-line-break >}}
-  {{< logos-item src="logos/kellerhalscarrard-100w.svg" alt="Kellerhals Carrard">}}
+  {{< logos-item src="logos/helvetia-150w.svg" alt="Helvetia Versicherung">}}
   {{< logos-item src="logos/wincasa-150w.svg" alt="Wincasa">}}
-  {{< logos-item src="logos/twint-116w.svg" alt="Twint">}}
+  {{< logos-item src="logos/mobiliar-144w.svg" alt="Mobiliar">}}
 {{< /logos-container >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
 {{< content text=center top=12 width=narrow >}}
 {{% markdown %}}
-## Sign legally in three steps
+## How to sign with Skribble
+The easiest way to legally sign documents,
+with or without formal requirements.
 {{% /markdown %}}
 {{< /content >}}
 
-[//]: # (--------------------------------------------------------------------------------------------------------------)
+{{< card-group top=1 bottom=24 width=wide >}}
 
-{{< side-by-side top=24 img=image2 mobile-top=12 mobile-bottom=6 img-width=416 img-position=right img-alt="A woman holding a PDF document in her hands and uploading it" >}}
+{{< card img="upload" img-width=300 img-alt="PDF Dokument zum Hochladen" >}}
 {{% markdown %}}
-### Upload documents as PDFs
+### Upload documents
 Upload the PDF document directly via browser or use Skribble via API from your business software.
 {{% /markdown %}}
-{{< /side-by-side >}}
+{{< /card >}}
 
-[//]: # (--------------------------------------------------------------------------------------------------------------)
-
-{{< side-by-side bottom=12 mobile-top=6 mobile-bottom=6 img=image3 img-width=400 img-alt="A man invites two people to sign the document" >}}
+{{< card img="invite" img-width=300 img-alt="Person mit einem Plus zum Einladen" >}}
 {{% markdown %}}
-### Invite people to sign
-Invite the signatories by e-mail and select the e-signature standard to be used for signing.
+### Invite signers
+Invite internal and external signatories by e-mail and select the e-signature standard to be used for signing.
 {{% /markdown %}}
-{{< /side-by-side >}}
+{{< /card >}}
 
-[//]: # (--------------------------------------------------------------------------------------------------------------)
-
-{{< side-by-side top=12 bottom=24 mobile-top=6 mobile-bottom=12 img=image4 img-position=right img-width=391 img-alt="Three people legally sign a document online" >}}
+{{< card img="sign" img-width=300 img-alt="Dokument mit einem Signier-Button" >}}
 {{% markdown %}}
-### Sign with legal validity
-Sign at the push of a button, independent of time and place, legally valid according to Swiss and EU law.
+### Sign at the push of a button
+Sign legally valid in accordance with EU and Swiss law within seconds, regardless of location, on your smartphone or computer.
 {{% /markdown %}}
-{{< /side-by-side >}}
+{{< /card >}}
+{{< /card-group >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< testimonial "testimonial/twint-150w.png" "Simon Wehrli, CTO, Twint" >}}
-"Skribble enables us to sign employment contracts and NDAs in a breeze – paper-free and regardless of time and place."
-{{< /testimonial >}}
+{{< testimonial "testimonial/uniqa-100w.png" "Jaroslav Molik, Reinsurance Manager, UNIQA Re" >}}
+"Skribble has given me enormous peace of mind in my daily work. We can now get contracts with affiliates in Austria, Central & Eastern Europe signed in a timely and more secure manner." {{< /testimonial >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
 {{< content text=center top=20 width=narrow >}}
 {{% markdown %}}
-If you sign with Skribble 
-you save time at work
-===============
+Sign with Skribble and save 90% 
+compared to signing on paper
+---
+Use the potential of seamless digital processes.
 {{% /markdown %}}
 {{< /content >}}
 
 {{< picture skribble-ui-en 1020 "Skribble plattform - user interface" >}}
 
-{{< content bottom=15 text=center >}}
+[//]: # (--------------------------------------------------------------------------------------------------------------)
+
+{{< card-group top=1 width=wide >}}
+{{< card icon="icons/faster-signing.svg" icon-width=44 >}}
+{{% markdown %}}
+### Get contracts signed faster
+Within seconds, all parties can access the most current version of the contract and sign it with just a few clicks.
+{{% /markdown %}}
+{{< /card >}}
+
+{{< card icon="icons/reduce-cost.svg" icon-width=44 >}}
+{{% markdown %}}
+### Reduce costs
+Thanks to more efficient processes and the reduction of direct costs, the cost for signing documents is reduced by up to 90%.
+{{% /markdown %}}
+{{< /card >}}
+
+{{< card icon="icons/efficient-signing.svg" icon-width=44 >}}
+{{% markdown %}}
+### Work more efficiently
+Enable your employees, customers and partners to save time with paperless processes without media disruption.
+{{% /markdown %}}
+{{< /card >}}
+
+{{< card icon="icons/minimize-risk.svg" icon-width=44 >}}
+{{% markdown %}}
+### Minimise risks
+We work with e-signature standards that are recognised and legally valid worldwide. Your data is secured at highest security standards in Switzerland.
+{{% /markdown %}}
+{{< /card >}}
+
+{{< card icon="icons/responsive.svg" icon-width=44 >}}
+{{% markdown %}}
+### Sign from anywhere
+From employees in the home office to suppliers in Asia – you can sign anywhere using your smartphone or computer.
+{{% /markdown %}}
+{{< /card >}}
+
+{{< card icon="icons/auto-check.svg" icon-width=44 >}}
+{{% markdown %}}
+### Instant verification
+You can verify within seconds whether the signature is correct and genuine and whether the document has been altered.
+{{% /markdown %}}
+{{< /card >}}
+{{< /card-group >}}
+
+[//]: # (--------------------------------------------------------------------------------------------------------------)
+
+{{< content top=10 bottom=20 text=center >}}
 {{< button
-  "Show all features"
+  "Show features"
   "features"
   ""
   "outline"
@@ -110,8 +161,8 @@ you save time at work
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< testimonial "testimonial/helvetia-150w.png" "Martin Tschopp, Chief Customer Officer of Helvetia Schweiz" >}}
-"At Helvetia, we require 'wet' signatures in many areas; in life insurance, for example, but also in internal processes. With Skribble, we are able to completely digitalise these processes."
+{{< testimonial "testimonial/twint-150w.png" "Simon Wehrli, CTO, Twint" >}}
+"Skribble enables us to sign employment contracts and NDAs in a breeze – paper-free and regardless of time and place."
 {{< /testimonial >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
@@ -125,16 +176,16 @@ to the following requirements:
 {{< /content >}}
 
 {{< content top=6 width=narrow >}}
-{{% collapsible 1 "E-signature standards according to ZertES/eIDAS" "check" %}}
+{{% collapsible 1 "E-signature standards according to eIDAS/ ZertES" "check" %}}
 Skribble works with legally defined e-signature standards: The qualified electronic signature (QES), the advanced electronic signature (AES) and the simple electronic signature (SES).
 {{% /collapsible %}}
 
-{{% collapsible 2 "Requirement of written form according to OR/BGB" "check" %}}
-The qualified electronic signature (QES) available on Skribble is legally equivalent to a handwritten signature in Switzerland and the EU (eg. OR in Switzerland or BGB in Germany).
+{{% collapsible 2 "Requirement of written form according to BGB/ OR" "check" %}}
+The qualified electronic signature (QES) available on Skribble is legally equivalent to a handwritten signature in the EU and Switzerland (eg. BGB in Germany or OR in Switzerland).
 {{% /collapsible %}}
 
-{{% collapsible 3 "Data protection according to FADP/GDPR" "check" %}}
-Skribble and its signing partner Swisscom commit to manage data in accordance with the Federal Act on Data Protection (FADP) and the General Data Protection Regulation (GDPR). Moreover, all data is hosted in Switzerland according to banking standards.
+{{% collapsible 3 "Data protection according to GDPR/ FADP " "check" %}}
+Skribble and its signing partner Swisscom commit to manage data in accordance with the General Data Protection Regulation (GDPR) and the Federal Act on Data Protection (FADP). Moreover, all data is hosted in Switzerland according to banking standards.
 {{% /collapsible %}}
 {{< /content >}}
 
@@ -156,10 +207,11 @@ This makes everyday life easier for us and our customers." {{< /testimonial >}}
 
 {{< content top=24 text=center width=narrow >}}
 {{% markdown %}}
-## Always sign with the optimal standard
-The law distinguishes between three signature standards. 
-They vary in terms of area of application and legal weight. 
-Skribble is your one-stop-shop for all standards.
+With Skribble, you can
+legally sign any document electronically
+---
+Different documents, different legal requirements –
+at Skribble, you get access to all available e-signature standards from a single source, and you are prepared for every situation.
 
 {{% /markdown %}}
 {{< /content >}}
@@ -208,7 +260,7 @@ Skribble is your one-stop-shop for all standards.
     <td>
 {{% markdown %}}
 **Documents**
-that are informal or internal and have a low liability risk.
+without legal form requirement and with low liability risk.
 &nbsp;
 {{% /markdown %}}
     </td>
@@ -237,7 +289,7 @@ with legal form requirements or high liability risk.
 >}}
 
 {{% markdown %}}
-**On Skribble you can choose between the signature standards QES, AES and SES.**
+**On Skribble you can choose between the e-signature standards QES, AES and SES.**
 {{% /markdown %}}
 {{< /cta >}}
 
@@ -249,26 +301,37 @@ with legal form requirements or high liability risk.
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< logos-container top=20 bottom=18 title="Skribble in the media:">}}
-  {{< logos-item src="logos/srf-logo-180w.svg" alt="SRF-Schweizer Radio und Fernsehen">}}
-  {{< logos-item src="logos/handelszeitung-logo-240w.svg" alt="Handelszeitung">}}
+{{< content text=center top=24 bottom=2 width=narrow >}}
+{{% markdown %}}
+## More than 250 companies want both: Simplicity and security
+
+{{% /markdown %}}
+{{< /content >}}
+
+{{< logos-container top=12 bottom=24 width=wide title="">}}
+  {{< logos-item src="logos/twint-116w.svg" alt="Twint">}}
+  {{< logos-item src="logos/canon-116w.svg" alt="Canon">}}
+  {{< logos-item src="logos/altenburger-170w.svg" alt="Altenburger">}}
   {{< logos-line-break >}}
-  {{< logos-item src="logos/hr-today-logo-173w.svg" alt="HR-Today">}}
-  {{< logos-item src="logos/gruenderszene-logo-216w.svg" alt="Gründerszene">}}
+  {{< logos-item src="logos/kellerhalscarrard-100w.svg" alt="Kellerhals Carrard">}}
+  {{< logos-item src="logos/seg-120w.svg" alt="SEG Automotive">}}
+  {{< logos-item src="logos/easyjet-130w.svg" alt="EasyJet">}}
 {{< /logos-container >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
 {{< outro >}}
 {{% markdown center %}}
-## Sign now, legally and electronically!
-No credit card, entrance fee or commitment required.
+Sign legally valid with 
+a few clicks
+---
+Worldwide usage, hosted in Switzerland.
 {{% /markdown %}}
 
 {{< button
   "Get started"
   "https://my.skribble.com/signup?lang=en"
-  "_blank"
+  ""
 >}}
 {{< button
   "Contact Sales"
@@ -276,9 +339,10 @@ No credit card, entrance fee or commitment required.
   "_blank"
   outline
 >}}
+
 {{< content top=6 >}}
 {{< markdown center >}}
-{{% small %}}2 signatures per month are free.{{% /small %}}
+{{% small %}}2 signatures per month are free.{{% /small %}} 
 {{< /markdown >}}
 {{< /content >}}
 {{< /outro >}}

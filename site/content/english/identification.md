@@ -1,5 +1,5 @@
 ---
-title: Identity verification for electronic signing
+title: Identification for electronic signing
 description: Each e-signature must be uniquely attributable to one person. Therefore, Skribble requires the identification of the signatories. The procedures differ depending on the application.
 slug: identification
 # opengraph image (for facebook and twitter)
@@ -9,12 +9,12 @@ og_image: og/og-skribble-identification.jpg
 
 {{< content text=center top=16 bottom=8 width=narrow >}}
 {{% markdown %}}
-Identity verification 
+Identification
 for electronic signing
 ===============
-Each e-signature must be uniquely attributable to one person.
+It is necessary that each signature can be attributed to a single person.
 Therefore, Skribble requires the identification of the signatories.
-The procedures differ depending on the application.
+The procedures differ depending on the type of contract.
 {{% /markdown %}}
 {{< /content >}}
 
@@ -23,9 +23,7 @@ The procedures differ depending on the application.
 {{< content text=center top=16 bottom=8 width=narrow >}}
 {{% markdown %}}
 # Contracts without written form
-The advanced electronic signature (AES) is typically used for contracts
-without formal requirements. With AES, the law requires that the identity
-of the signatory can be reconstructed afterwards.
+The simple electronic signature (SES) or the advanced electronic signature (AES) are typically used for contracts without formal requirements. The identification requirements for SES and AES are low to medium.
 {{% /markdown %}}
 {{< /content >}}
 
@@ -33,14 +31,31 @@ of the signatory can be reconstructed afterwards.
 
 {{< content text=center top=16 bottom=8 width=narrow >}}
 {{% markdown %}}
-**Identification options for the advanced electronic signature (AES):**
+**Identification options for contracts without written form:**
 {{% /markdown %}}
 {{< /content >}}
 
 {{< content text=left width=wide display=flex >}}
+
 {{< plan
   white
+  "SES"
+  "E-mail address"
   ""
+  ""
+  "_blank"
+  "outline"
+>}}
+
+{{< picture private-email 280 "Two people in a bubble with e-mails" >}}
+
+In the case of the simple electronic signature (SES), the signatories are identified by their e-mail address. Anyone who has a Skribble account or is invited to sign by e-mail can sign with SES without any further measures.
+{{< /plan >}}
+
+
+{{< plan
+  white
+  "AES"
   "Company e-mail address"
   ""
   ""
@@ -50,12 +65,12 @@ of the signatory can be reconstructed afterwards.
 
 {{< picture company-email 280 "EA software window with a man and a woman in a bubble." >}}
 
-Companies that record the identity of their employees by default can activate AES via the company e-mail address. Anyone with a corresponding e-mail address can sign with AES immediately.
+Companies that record the identity of their employees by default can activate AES via the company e-mail address (AES for Business). Anyone with a corresponding e-mail address can sign with AES immediately.
 {{< /plan >}}
 
 {{< plan
   white
-  ""
+  "AES"
   "Mobile number (CH)"
   ""
   ""
@@ -97,8 +112,8 @@ Organisation-wide implementation within just a few days.
 {{< picture signaturestandard-teaser 90 "A hand with a fountain pen signs a green contract." >}}
 
 {{% markdown %}}
-**Signature standards**
-When do I use QES, when AES?
+**SES, AES or QES?**
+When to use which e-signature standard.
 {{% /markdown %}}
 {{< /cta >}}
 {{< /cta-group >}}
@@ -109,34 +124,24 @@ When do I use QES, when AES?
 {{< content text=center top=20 bottom=8 width=narrow >}}
 {{% markdown %}}
 ## Contracts requiring the written form
-For contracts requiring the written form, the qualified electronic signature (QES) is typically used. With QES, the law requires that the identity of the signatory be verified in advance in personal contact.
+For contracts requiring the written form, the qualified electronic signature (QES) is typically used. The identification requirements for the QES are high, the identification must be done face-to-face or online via video.
 {{% /markdown %}}
 {{< /content >}}
 
 {{< picture contract-with-requirement 480 "Eine Frau mit einem Handy blickt hinter einem Vertrag hervor und davor steht ein Geschäftsmann mit einem Laptop." >}}
 
-{{< content text=center top=8 bottom=0 width=narrow >}}
+{{< content text=center top=8 bottom=8 width=narrow >}}
 {{% markdown %}}
 **Identification options for the qualified electronic signature (QES):**
 {{% /markdown %}}
 {{< /content >}}
 
-{{< content text=center top=8 bottom=4 width=narrow >}}
-{{% markdown %}}
-**Identification Service**
-Enable the QES by getting yourself identified online via video-call or
-by personal contact with the ID app by Swisscom.
-&nbsp;
-{{% /markdown %}}
-{{< /content >}}
-
-
 {{< content width=wide display=flex >}}
 
 {{< plan
   white
-  "Identification"
-  "Unlimited"
+  "Service"
+  "Identification Unlimited"
   "Contact Skribble"
   "https://share.hsforms.com/1eikgwNSWS9aCXBpqMVvrtQ309ws"
   "_blank"
@@ -146,16 +151,14 @@ by personal contact with the ID app by Swisscom.
 {{< picture id-easy 270 "A woman and a man are standing in front of a large software window and the man is holding a big hatch with an identity card inside." >}}
 
 
-You perform the identifications yourself.
+A representative of your company goes through a one-time training. Afterwards he can identify the signatories himself face-to-face. Suitable for companies with a large number of QES signatories.
 
-Appropriate if new QES signers are constantly being added.
-&nbsp;
 {{% /plan %}}
 
 {{< plan
   white
-  "Identification"
-  "Online via video"
+  "Service"
+  "Identification Direct"
   "Enable QES now"
   "/enable-qes/"
   ""
@@ -164,11 +167,7 @@ Appropriate if new QES signers are constantly being added.
 
 {{< picture id-direct 210 "A man is sitting in front of a laptop, above him is a sotware window, where a woman stands out with a big magnifying glass and checks an identity card." >}}
 
-Enable the highest e-signature standard QES from home.
-
-Suitable for individual signatories.
-&nbsp;
-&nbsp;
+The signatories enable the QES by having themselves identified online via video (EU) or face-to-face at an identification site (Switzerland). Suitable for individuals and companies with a small number of QES signatories.
 {{% /plan %}}
 {{< /content >}}
 
@@ -205,7 +204,7 @@ A growing number of people in Europe have a verified electronic identity (eID). 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
 {{< content top=4 >}}
-{{< testimonial "testimonial/mobiliar-300w.svg" "Thomas Kühne, Head of IT at the Group Mobiliar" >}}
+{{< testimonial "testimonial/mobiliar-150w.png" "Thomas Kühne, Head of IT at the Group Mobiliar" >}}
 "The investment in Skribble is the perfect complement to our engagement with SwissID. Both solutions multiply their added value through integration. An ideal symbiosis and prime example of cooperation in the Swiss technology ecosystem."
 {{< /testimonial >}}
 {{< /content >}}
@@ -221,7 +220,7 @@ A growing number of people in Europe have a verified electronic identity (eID). 
 
 {{< content text=left width=narrow >}}
 
-{{% collapsible 10 "When do I use which signature standard?" %}}
+{{% collapsible 10 "When do I use which e-signature standard?" %}}
 The simple electronic signature (SES) and the advanced electronic signature (AES) are legally valid for all contracts for which the law does not prescribe a specific form (contracts without the written form). You use the qualified electronic signature (QES) for contracts with a written requirement or to meet internal compliance requirements. You can find examples and more information at: https://www.skribble.com/signaturestandards/
 {{% /collapsible %}}
 
@@ -230,21 +229,23 @@ With SES, the e-mail address serves as an identification element. The e-mail add
 {{% /collapsible %}}
 
 {{% collapsible 12 "Why is identification different for SES, AES and QES?" %}}
-The legal identification requirements are not the same. QES is the highest standard and is equivalent to a handwritten signature. The identification requirements for QES are precisely defined in the law. With SES and AES, providers have more freedom. When selecting identification procedures for SES and AES, Skribble pays attention to simplicity of use and maximisation of legal weight.
+The legal identification requirements are not the same. QES is the highest standard and is equivalent to a handwritten signature. The identification requirements for QES are precisely defined by the law. With SES and AES, providers have more freedom. When selecting identification procedures for SES and AES, Skribble pays attention to simplicity of use and maximisation of legal weight.
 {{% /collapsible %}}
 
 {{< /content >}}
 
 {{< outro >}}
 {{% markdown center %}}
-## Sign now, legally and electronically!
-No credit card, entrance fee or commitment required.
+Sign legally valid with 
+a few clicks
+---
+Worldwide usage, hosted in Switzerland.
 {{% /markdown %}}
 
 {{< button
   "Get started"
   "https://my.skribble.com/signup?lang=en"
-  "_blank"
+  ""
 >}}
 {{< button
   "Contact Sales"
@@ -252,9 +253,10 @@ No credit card, entrance fee or commitment required.
   "_blank"
   outline
 >}}
+
 {{< content top=6 >}}
 {{< markdown center >}}
-{{% small %}}2 signatures per month are free.{{% /small %}}
+{{% small %}}2 signatures per month are free.{{% /small %}} 
 {{< /markdown >}}
 {{< /content >}}
 {{< /outro >}}

@@ -1,0 +1,26 @@
+<div class="card-group">
+  <div class="
+    skr-container
+    {{ if .Get "top"  }}
+      pt-{{ .Get "top" }}
+    {{ else }}
+      pt-6
+    {{ end }}
+    {{ if .Get "bottom"  }}
+      pb-{{ .Get "bottom" }}
+    {{ else }}
+      pb-6
+    {{ end }}
+    {{ if .Get "mobile-top"  }}ptm-{{ .Get "mobile-top" }}{{ end }}
+    {{ if .Get "mobile-bottom"  }}pbm-{{ .Get "mobile-bottom" }}{{ end }}
+    {{ if .Get "width"  }}
+      is-{{ .Get "width" }}
+    {{ else }}
+      is-narrow
+    {{ end }}
+  ">
+    <div class="card-group__inner">
+      {{ .Inner }}
+    </div>
+  </div>
+</div>

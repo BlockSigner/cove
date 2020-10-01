@@ -1,6 +1,6 @@
 ---
-title: Identitätsprüfung für elektronisches Signieren
-description: Jede E-Signatur muss eindeutig einer Person zugewiesen werden können. Die Verfahren unterscheiden sich je nach Anwendungsfall.
+title: Identifikation für elektronisches Signieren
+description: Jede E-Signatur muss eindeutig einer Person zugeordnet werden können. Die Verfahren unterscheiden sich je nach Vertragsart.
 draft: false
 slug: identifikation
 # opengraph image (for facebook and twitter)
@@ -10,10 +10,10 @@ og_image: og/og-skribble-identification.jpg
 
 {{< content text=center top=16 bottom=8 width=narrow >}}
 {{% markdown %}}
-# Identitätsprüfung für elektronisches Signieren
-Jede E-Signatur muss eindeutig einer Person zugewiesen werden können.
+# Identifikation für elektronisches Signieren
+Jede E-Signatur muss eindeutig einer Person zugeordnet werden können.
 Deshalb setzt Skribble die Identifikation der Signierenden voraus.
-Die Verfahren unterscheiden sich je nach Anwendungsfall.
+Die Verfahren unterscheiden sich je nach Vertragsart.
 {{% /markdown %}}
 {{< /content >}}
 
@@ -22,7 +22,7 @@ Die Verfahren unterscheiden sich je nach Anwendungsfall.
 {{< content text=center top=16 bottom=8 width=narrow >}}
 {{% markdown %}}
 ## Verträge ohne Formvorschrift
-Für formfreie Verträge wird typischerweise die fortgeschrittene elektronische Signatur (FES) eingesetzt. Bei der FES setzt das Gesetz voraus, dass die Identität der Signierenden im Nachhinein rekonstruiert werden kann.
+Für formfreie Verträge wird typischerweise die einfache elektronische Signatur (EES) oder die fortgeschrittene elektronische Signatur (FES) eingesetzt. Die Identifikationsanforderungen für EES und FES sind gering bis mittel.
 {{% /markdown %}}
 {{< /content >}}
 
@@ -30,15 +30,32 @@ Für formfreie Verträge wird typischerweise die fortgeschrittene elektronische 
 
 {{< content text=center top=12 bottom=8 width=narrow >}}
 {{% markdown %}}
-**Identifikationsoptionen für die fortgeschrittene elektronische Signatur (FES):**
+**Identifikationsoptionen für Verträge ohne Formvorschrift:**
 {{% /markdown %}}
 {{< /content >}}
 
 {{< content text=left width=wide display=flex >}}
+
 {{< plan
   white
+  "EES"
+  "E-Mail-Adresse"
   ""
-  "Firmen E-Mail-Adresse"
+  ""
+  "_blank"
+  "outline"
+>}}
+
+{{< picture private-email 280 "Zwei Leute in einer Bubble mit E-Mails" >}}
+
+Bei der einfachen elektronischen Signatur (EES) werden die Signierenden anhand ihrer E-Mail-Adresse identifiziert. Wer über ein Skribble-Konto verfügt oder per E-Mail zum Signieren eingeladen wird, kann ohne weitere Massnahmen mit EES signieren.
+{{< /plan >}}
+
+
+{{< plan
+  white
+  "FES"
+  "Firmen-E-Mail-Adresse"
   ""
   ""
   "_blank"
@@ -47,12 +64,12 @@ Für formfreie Verträge wird typischerweise die fortgeschrittene elektronische 
 
 {{< picture company-email 280 "Ein Softwarfenster mit einem Mann und einer Frau in einer Blase." >}}
 
-Unternehmen, die die Identität ihrer Mitarbeitenden standardmässig erfassen, können die FES via Firmen-E-Mail-Adresse freischalten. Wer über eine entsprechenden E-Mail-Adresse verfügt, kann sofort mit FES signieren.
+Unternehmen, die die Identität ihrer Mitarbeitenden standardmässig erfassen, können die FES via Firmen-E-Mail-Adresse freischalten (FES für Business). Wer über eine entsprechende E-Mail-Adresse verfügt, kann sofort mit FES signieren.
 {{< /plan >}}
 
 {{< plan
   white
-  ""
+  "FES"
   "Mobiltelefonnummer (CH)"
   ""
   ""
@@ -62,7 +79,7 @@ Unternehmen, die die Identität ihrer Mitarbeitenden standardmässig erfassen, k
 
 {{< picture mobile-nr 260 "Ein mobiles Telefon ragt aus den Häusern hervor." >}}
 
-Schweizer Telecom-Anbieter sind dazu verpflichtet, vor Vertragsabschluss ID oder Pass ihrer Kunden zu erfassen. Wer sich mit einer Schweizer Mobiltelefonnummer auf Skribble registriert, kann sofort mit FES signieren.
+Schweizer Mobilfunk-Anbieter sind dazu verpflichtet, vor Vertragsabschluss ID oder Pass ihrer Kunden zu erfassen. Wer sich mit einer Schweizer Mobiltelefonnummer auf Skribble registriert, kann sofort mit FES signieren.
 {{% /plan %}}
 
 {{< /content >}}
@@ -95,8 +112,8 @@ Organisationsweite Einführung in wenigen Tagen.
 {{< picture signaturestandard-teaser 90 "Eine Hand mit einem Füllfederhalter unterzeichnet einen grünen Vertrag." >}}
 
 {{% markdown %}}
-**Signaturstandards**
-Wann nutze ich QES, wann FES?
+**EES, FES oder QES?**
+Wann Sie welchen E-Signatur-Standard verwenden.
 {{% /markdown %}}
 {{< /cta >}}
 {{< /cta-group >}}
@@ -106,33 +123,23 @@ Wann nutze ich QES, wann FES?
 {{< content text=center top=16 bottom=8 width=narrow >}}
 {{% markdown %}}
 ## Verträge mit Formvorschrift
-Für Verträge mit Formvorschrift oder hohem Abspruch an Beweiskraft wird typischerweise die qualifizierte elektronische Signatur (QES) eingesetzt. Bei der QES setzt das Gesetz voraus, dass die Identität der Signierenden im Voraus im persönlichen Kontakt geprüft wird.
+Für Verträge mit Formvorschrift oder hohem Abspruch an Beweiskraft wird typischerweise die qualifizierte elektronische Signatur (QES) eingesetzt. Die Identifikationsanforderungen bei der QES sind hoch, die Prüfung muss persönlich oder online via Video stattfinden.
 {{% /markdown %}}
 {{< /content >}}
 
 {{< picture contract-with-requirement 480 "Eine Frau mit einem Handy blickt hinter einem Vertrag hervor und davor steht ein Geschäftsmann mit einem Laptop." >}}
 
-{{< content text=center top=8 bottom=0 width=narrow >}}
+{{< content text=center top=12 bottom=8 width=narrow >}}
 {{% markdown %}}
-**Identifikationsoptionen für die qualifizierte elektronische Signatur (QES):**
+**Identifikationsoptionen für Verträge mit Formvorschrift:**
 {{% /markdown %}}
 {{< /content >}}
-
-{{< content text=center top=8 bottom=4 width=narrow >}}
-{{% markdown %}}
-**Identififkations-Service**
-Die QES schalten Sie frei, in dem Sie sich online via Video-Call oder im persönlichen Kontakt mit der ID-App von Swisscom identifizieren lassen.
-&nbsp;
-{{% /markdown %}}
-{{< /content >}}
-
 
 {{< content width=wide display=flex >}}
-
 {{< plan
   white
-  "Identifikation"
-  "Unlimited"
+  "Service"
+  "Identification Unlimited"
   "Jetzt kontaktieren"
   "https://share.hsforms.com/1gxsCjIJRQhaM4GEcCmL7QQ309ws"
   "_blank"
@@ -142,17 +149,14 @@ Die QES schalten Sie frei, in dem Sie sich online via Video-Call oder im persön
 {{< picture id-easy 270 "Eine Frau und ein Mann stehen vor einem grossen Softwarefenster und der Mann haltet eine grosse Luppe mit einer Identitätskarte drin." >}}
 
 
-Ihr führt die Identifikationen selbst durch.
+Ein Vertreter Ihres Unternehmens durchläuft eine einmalige Schulung. Anschliessend kann er die Signierenden selbst im persönlichen Kontakt identifizieren. Passend für Unternehmen mit einer grossen Anzahl QES-Signierender.
 
-Passend, wenn laufend neue
-QES-Signierende hinzukommen.
-&nbsp;
 {{% /plan %}}
 
 {{< plan
   white
-  "Identifikation"
-  "Online via Video"
+  "Service"
+  "Identification Direct"
   "Jetzt QES freischalten"
   "/de/qes-freischalten/"
   ""
@@ -160,9 +164,7 @@ QES-Signierende hinzukommen.
 >}}
 
 {{< picture id-direct 210 "Ein Mann sitzt vor einem Laptop, darüber ist eine Sotware-Fenster, wo eine Frau mit einer grossen Lupe herausragt und überprüft eine Identitätskarte." >}}
-Schalten Sie den höchsten E-Signatur-Standard QES von zu Hause aus frei.
-&nbsp;
-&nbsp;
+Signierende schalten die QES frei, indem sie sich sich online via Video identifizieren lassen (EU) oder persönlich an einem Identifikationsstandort erscheinen (Schweiz). Passend für Einzelpersonen und Unternehmen mit einer geringen Anzahl QES-Signierender.
 {{% /plan %}}
 {{< /content >}}
 
@@ -199,7 +201,7 @@ Eine wachsende Anzahl Menschen in Europa verfügt über eine geprüfte elektroni
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
 {{< content top=4 >}}
-{{< testimonial "testimonial/mobiliar-300w.svg" "Thomas Kühne, Leiter IT der Gruppe Mobiliar" >}}
+{{< testimonial "testimonial/mobiliar-150w.png" "Thomas Kühne, Leiter IT der Gruppe Mobiliar" >}}
 "Die Investition bei Skribble ist die perfekte Ergänzung zu unserem Engagement bei SwissID. Beide Lösungen vervielfachen ihren Mehrwert durch die Integration auf einen Schlag. Eine ideale Symbiose und Musterbeispiel für die Zusammenarbeit im Schweizer Technologie-Ökosystem." 
 {{< /testimonial >}}
 {{< /content >}}
@@ -214,11 +216,11 @@ Eine wachsende Anzahl Menschen in Europa verfügt über eine geprüfte elektroni
 
 {{< content text=left width=narrow >}}
 
-{{% collapsible 10 "Wann verwende ich welchen Signaturstandard?" %}}
+{{% collapsible 10 "Wann verwende ich welchen E-Signatur-Standard?" %}}
 Die einfache und die fortgeschrittene elektronische Signatur (EES und FES) sind bei allen Verträgen rechtsgültig, bei denen das Gesetz keine spezielle Form vorschreibt (formfreie Verträge). Die qualifizierte elektronische Signatur (QES) nutzen Sie bei Verträgen mit Formvorschrift oder um internen Compliance-Anforderungen zu genügen. Beispiele und mehr Informationen finden Sie unter: https://www.skribble.com/de/signaturstandards/
 {{% /collapsible %}}
 
-{{% collapsible 11 "Welche Identifikationmsmassnahmen werden für die einfache elektronische Signatur (EES) vorausgesetzt?" %}}
+{{% collapsible 11 "Welche Identifikationsmassnahmen werden für die einfache elektronische Signatur (EES) vorausgesetzt?" %}}
 Bei der EES dient die E-Mail-Adresse als Identifikationselement. Die E-Mail-Adresse muss mit Klick auf einen Link, der an die entsprechende E-Mail-Adresse gesendet wird, bestätigt werden.
 {{% /collapsible %}}
 
@@ -231,18 +233,20 @@ Bei der EES und der FES sind die Anbieter freier. Skribble achtet bei der Auswah
 {{< /content >}}
 
 
+[//]: # (--------------------------------------------------------------------------------------------------------------)
 
 {{< outro >}}
 {{% markdown center %}}
-## Jetzt rechtsgültig elektronisch signieren!
-Keine Kreditkarte, Eintrittsgebühr oder
-Verpflichtung erforderlich.
+Signieren Sie rechtsgültig 
+mit wenigen Klicks
+---
+Weltweit einsetzbar, gehosted in der Schweiz.
 {{% /markdown %}}
 
 {{< button
   "Jetzt loslegen"
   "https://my.skribble.com/signup?lang=de"
-  "_blank"
+  ""
 >}}
 {{< button
   "Sales kontaktieren"
@@ -250,9 +254,13 @@ Verpflichtung erforderlich.
   "_blank"
   outline
 >}}
+
 {{< content top=6 >}}
 {{< markdown center >}}
-{{% small %}}2 Signaturen pro Monat sind kostenlos.{{% /small %}} 
+{{% small %}}2 Signaturen pro Monat sind kostenlos.
+{{% /small %}} 
 {{< /markdown >}}
 {{< /content >}}
 {{< /outro >}}
+
+

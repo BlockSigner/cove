@@ -15,7 +15,7 @@ Ihrer E-Signatur
 ===============	
 Schalten Sie einen E-Signatur-Standard mit höherer Beweiskraft frei. 
 Das Verfahren unterscheidet sich je nach Standard.
-Je eindeutiger Ihre E-Singatur Ihnen als Person zugeordnet werden kann, 
+Je eindeutiger eine E-Signatur einer Person zugeordnet werden kann, 
 desto höher deren Beweiskraft.
 {{% /markdown %}}
 {{< /content >}}
@@ -83,7 +83,7 @@ desto höher deren Beweiskraft.
 {{< picture signaturestandard-teaser 90 "Eine Hand mit einem Füllfederhalter unterzeichnet einen grünen Vertrag." >}}
 
 {{% markdown %}}
-**Wann nutze ich welchen Signaturstandard?**
+**Wann nutze ich welchen E-Signatur-Standard?**
 {{% /markdown %}}
 {{< /cta >}}
 
@@ -94,10 +94,41 @@ desto höher deren Beweiskraft.
 
 {{< content text=center top=16 bottom=8 width=narrow >}}
 {{% markdown %}}
+**Maximale Beweiskraft** 
+
+Qualifizierte elektronische 
+Signatur (QES)
+===============
+Die QES schalten Sie frei, indem Sie sich online via Video-Call (zum Signieren nach EU-Recht) oder im persönlichen Kontakt (zum Signieren nach Schweizer Recht) identifizieren lassen.
+{{% /markdown %}}
+{{< /content >}}
+
+{{< picture qes-increase 315 "Ein Mann sitzt vor einem Laptop, darüber ist eine Sotware-Fenster, wo eine Frau mit einer grossen Lupe herausragt und überprüft eine Identitätskarte." >}}
+
+
+{{< cta
+  label="Mehr erfahren"
+  href="de/qes-freischalten/"
+  target=""
+  outlined="true"
+>}}
+
+{{< picture identify 96 "Ein Haus als Organisation und eine Pfeil." >}}
+
+{{% markdown %}}
+**Identifizieren lassen**
+So schalten Sie die QES auf Skribble frei.
+{{% /markdown %}}
+{{< /cta >}}
+
+[//]: # (--------------------------------------------------------------------------------------------------------------)
+
+{{< content text=center top=16 bottom=8 width=narrow >}}
+{{% markdown %}}
 **Hohe Beweiskraft** 
 # Fortgeschrittene elektronische Signatur (FES)
 Die FES schalten Sie frei, indem Sie Ihr Konto bei Skribble mit einer Schweizer Mobiltelefonnummer verbinden. Anpassen können Sie das in Ihrem Profil.
-Als Skribble Business-Kunde können Sie das Freischalten der FES via Firmen-E-Mail-Adresse aktivieren (FES für Business).
+Als Skribble Business- oder Enterprise-Kunde können Sie das Freischalten der FES via Firmen-E-Mail-Adresse beantragen (FES für Business).
 {{% /markdown %}}
 {{< /content >}}
 
@@ -122,52 +153,21 @@ Organisationsweite Einführung mit wenigen Klicks
 {{< /cta >}}
 {{< /content >}}
 
-[//]: # (--------------------------------------------------------------------------------------------------------------)
-
-{{< content text=center top=16 bottom=8 width=narrow >}}
-{{% markdown %}}
-**Maximale Beweiskraft** 
-
-Qualifizierte elektronische 
-Signatur (QES)
-===============
-Die QES schalten Sie frei, in dem Sie sich online via Video-Call 
-oder im persönlichen Kontakt mit der ID-App von Swisscom identifizieren lassen.
-{{% /markdown %}}
-{{< /content >}}
-
-{{< picture qes-increase 315 "Ein Mann sitzt vor einem Laptop, darüber ist eine Sotware-Fenster, wo eine Frau mit einer grossen Lupe herausragt und überprüft eine Identitätskarte." >}}
-
-
-{{< cta
-  label="Mehr erfahren"
-  href="de/qes-freischalten/"
-  target=""
-  outlined="true"
->}}
-
-{{< picture identify 96 "Ein Haus als Organisation und eine Pfeil." >}}
-
-{{% markdown %}}
-**Identifizieren lassen**
-So schalten Sie die QES auf Skribble frei.
-{{% /markdown %}}
-{{< /cta >}}
-
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
 {{< outro >}}
 {{% markdown center %}}
-## Jetzt rechtsgültig elektronisch signieren!
-Keine Kreditkarte, Eintrittsgebühr oder
-Verpflichtung erforderlich.
+Signieren Sie rechtsgültig 
+mit wenigen Klicks
+---
+Weltweit einsetzbar, gehosted in der Schweiz.
 {{% /markdown %}}
 
 {{< button
   "Jetzt loslegen"
   "https://my.skribble.com/signup?lang=de"
-  "_blank"
+  ""
 >}}
 {{< button
   "Sales kontaktieren"
@@ -175,9 +175,11 @@ Verpflichtung erforderlich.
   "_blank"
   outline
 >}}
+
 {{< content top=6 >}}
 {{< markdown center >}}
-{{% small %}}2 Signaturen pro Monat sind kostenlos.{{% /small %}} 
+{{% small %}}2 Signaturen pro Monat sind kostenlos.
+{{% /small %}} 
 {{< /markdown >}}
 {{< /content >}}
 {{< /outro >}}

@@ -10,22 +10,22 @@
 
   &__body {
     @include min-width {
-      flex: 1 1 0%;
-      padding: 0 40px 0 0;
+      flex: 1 1 440px;
+      padding: 0 0 0 40px;
     }
 
     + .hide-for-mobile {
-      padding-right: 0;
+      padding-left: 0;
     }
   }
 
   &__img {
     @include min-width {
-      flex: 1 1 0%;
+      flex: 1 1 620px;
       padding: 0 40px 0 0;
     }
     @include max-width {
-      margin: 40px auto;
+      margin: 0 auto 40px;
     }
   }
 
@@ -51,6 +51,14 @@
 
     + .hide-for-mobile {
       padding-right: 0;
+    }
+
+    p + ul {
+      margin-top: -18px;
+    }
+
+    li {
+      margin: 2px 0 3px;
     }
   }
 

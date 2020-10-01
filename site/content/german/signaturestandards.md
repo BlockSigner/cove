@@ -135,7 +135,7 @@ Rechtssicherheit, Identitätsprüfung und Authentisierungsverfahren.
 {{< content text=center top=12 width=narrow >}}
 {{% markdown %}}
 ## QES: Dieselbe Rechtssicherheit <br class="hide-for-mobile">wie das Unterschreiben von Hand
-Die rundum-sorglos-Signatur für höchste Ansprüche
+Die Rundum-Sorglos-Signatur für höchste Ansprüche
 {{% /markdown %}}
 {{< /content >}}
 
@@ -146,7 +146,7 @@ Die rundum-sorglos-Signatur für höchste Ansprüche
 **Die qualifizierte elektronische Signatur (QES) ist der handschriftlichen Signatur rechtlich gleichgestellt.**
 Sie setzen die QES ein, um die Beweiskraft Ihrer Verträge zu maximieren oder wenn das Gesetz die Schriftlichkeit verlangt.
 Letzteres trifft z.B. bei Kredit- oder Arbeitsverträgen mit Konkurrenzklausel zu.
-Das Signieren mit QES auf Skribble setzt eine vorgängige Identitätsprüfung im persönlichen Kontakt oder per Video oder eine bestehende E-ID voraus.
+Das Signieren mit QES auf Skribble setzt eine vorgängige Identitätsprüfung im persönlichen Kontakt oder per Video oder eine geprüfte E-ID voraus.
 {{% /markdown %}}
 {{< /content >}}
 
@@ -241,7 +241,7 @@ Sie ist rechtsgültig bei Dokumenten, bei denen das Gesetz keine spezielle Form 
 <th>Beweiskraft</th>
 <th>Identifizierungs-Anforderungen</th>
 <th>Anwendungsbereich</th>
-<th>Anwendungsbeispiele</th>
+<th>Anwendungsbeispiele**</th>
 </tr>
 </thead>
 
@@ -259,7 +259,7 @@ Sie ist rechtsgültig bei Dokumenten, bei denen das Gesetz keine spezielle Form 
 <td><strong>Hoch</strong></td>
 <td><ul><li>Schweizer Mobiltelefonnummer</li><li>Firmen-E-Mail-Adresse</li></ul></td>
 <td><ul><li>Verträge ohne Formvorschrift</li></ul></td>
-<td><ul><li>Mietverträge</li><li>Kaufverträge</li><li>Hypotheken</li><li>einfacher Arbeitsvertrag</li></ul></td>
+<td><ul><li>Mietverträge</li><li>Kaufverträge</li><li>Hypotheken</li><li>Einfacher Arbeitsvertrag</li></ul></td>
 </tr>
 
 <tr>
@@ -268,6 +268,10 @@ Sie ist rechtsgültig bei Dokumenten, bei denen das Gesetz keine spezielle Form 
 <td><ul><li>E-Mail Adresse</li></ul></td>
 <td><ul><li>Informelle Dokumente</li></ul></td>
 <td><ul><li>Informationsschreiben</li><li>Bekanntmachungen</li><li>Organisationsinterne Dokumente</li></ul></td>
+</tr>
+
+<tr>
+<td colspan="5">**Die Wahl des E-Signatur-Standards ist von geltenden Formvorschriften und internen Richtlinien abhängig und kann von den aufgeführten Beispielen abweichen. Konsultieren Sie eine Rechtsberatung für Ihren konkreten Fall.</td>
 </tr>
 </tbody>
 
@@ -293,15 +297,16 @@ Wir helfen Ihnen gerne weiter.**
 
 {{< outro >}}
 {{% markdown center %}}
-## Jetzt rechtsgültig elektronisch signieren!
-Keine Kreditkarte, Eintrittsgebühr oder
-Verpflichtung erforderlich.
+Signieren Sie rechtsgültig 
+mit wenigen Klicks
+---
+Weltweit einsetzbar, gehosted in der Schweiz.
 {{% /markdown %}}
 
 {{< button
   "Jetzt loslegen"
   "https://my.skribble.com/signup?lang=de"
-  "_blank"
+  ""
 >}}
 {{< button
   "Sales kontaktieren"
@@ -309,9 +314,11 @@ Verpflichtung erforderlich.
   "_blank"
   outline
 >}}
+
 {{< content top=6 >}}
 {{< markdown center >}}
-{{% small %}}2 Signaturen pro Monat sind kostenlos.{{% /small %}} 
+{{% small %}}2 Signaturen pro Monat sind kostenlos.
+{{% /small %}} 
 {{< /markdown >}}
 {{< /content >}}
 {{< /outro >}}

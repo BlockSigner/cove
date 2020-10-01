@@ -28,9 +28,9 @@ var klaroConfig = {
 
   // Put a link to your privacy policy here (relative or absolute).
   privacyPolicy: {
-    default: "/privacy",
-    fr: "fr/politique-de-confidentialite/",
-    de: "de/datenschutz",
+    default: "/cookie-policy",
+    fr: "fr/politique-relative-aux-cookies",
+    de: "de/cookie-richtlinie",
   },
 
   // Defines the default state for applications (true=enabled by default).
@@ -68,7 +68,7 @@ var klaroConfig = {
         description:
           "Here you can see and customize the information that we collect.\n",
         privacyPolicy: {
-          name: "privacy policy",
+          name: "cookie policy",
           text: "To learn more, please read our {privacyPolicy}.\n",
         },
       },
@@ -79,7 +79,7 @@ var klaroConfig = {
           "We collect and process your personal information for the following purposes: {purposes}.\n",
         learnMore: "Customise",
         privacyPolicy: {
-          name: "privacy policy",
+          name: "cookie policy",
         },
         imprint: {
           name: "Imprint",
@@ -133,7 +133,7 @@ var klaroConfig = {
         description:
           "Ici, vous pouvez voir et personnaliser les informations que nous collectons.\n",
         privacyPolicy: {
-          name: "politique de confidentialité",
+          name: "politique de cookies",
           text: "Pour en savoir plus, merci de lire notre {privacyPolicy}.\n",
         },
       },
@@ -144,7 +144,7 @@ var klaroConfig = {
           "Nous collectons et traitons vos informations dans le but suivant : {purposes}.\n",
         learnMore: "En savoir plus",
         privacyPolicy: {
-          name: "politique de confidentialité",
+          name: "politique de cookies",
         },
         // imprint: {
         //   name: "Imprint",
@@ -197,7 +197,7 @@ var klaroConfig = {
         description:
           "Hier können Sie einsehen und anpassen, welche Information wir speichern.\n",
         privacyPolicy: {
-          name: "Datenschutzerklärung",
+          name: "Cookie-Richtlinie",
           text: "Weitere Details finden Sie in unserer {privacyPolicy}.\n",
         },
       },
@@ -208,7 +208,7 @@ var klaroConfig = {
           "Wir speichern und verarbeiten Ihre Informationen für folgende Zwecke: {purposes}.\n",
         learnMore: "Mehr erfahren",
         privacyPolicy: {
-          name: "Datenschutzerklärung",
+          name: "Cookie-Richtlinie",
         },
         // imprint: {
         //   name: "Imprint",
