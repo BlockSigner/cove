@@ -251,7 +251,7 @@ between the signature standards SES, AES and QES.**
 
 {{< content text=center top=20 width=narrow >}}
 {{% markdown %}}
-## All clear?
+## Questions?
 {{% /markdown %}}
 {{< /content >}}
 
@@ -264,12 +264,8 @@ Skribble' s data centre is located in Switzerland and is ISO 270001 certified (a
 Personal identification is only required for signing with the highest e-signature standard (QES). If you have not yet been identified in personal contact, you sign either with a simple (SES) or an advanced electronic signature (AES).
 {{< /collapsible >}}
 
-{{% collapsible 12 "Is signing with Skribble legally binding?" %}}
-Yes. On Skribble you can choose the highest e-signature standard available: the qualified electronic signature (QES). It has the highest legal weight in court.
-{{% /collapsible %}}
-
-{{% collapsible 13 "Can I store the digitally signed contract in paper form?" %}}
-Not exclusively. Thanks to the visual signature, it can be seen on the printed contract that it has been digitally signed. However, since the digital certificates are lost when printed out, the traceability of the signature and thus the corresponding conclusiveness is not given. A contract signed with a qualified electronic signature must therefore always be stored in electronic form.
+{{% collapsible 12 "Can I store the digitally signed contract in paper form?" %}}
+Not exclusively. Thanks to the visual signature, it can be seen on the printed contract that it has been digitally signed. However, since the digital certificates are lost when printed out, the traceability of the signature and thus the corresponding conclusiveness is not given. A contract signed with an electronic signature must therefore always be stored in electronic form.
 {{% /collapsible %}}
 
 {{< /content >}}
