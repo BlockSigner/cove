@@ -127,14 +127,8 @@ The data collected are stored on Swisscom's high-security servers
 in Switzerland (Tier IV certification).
 {{< /collapsible >}}
 
-{{% collapsible 5 "Does QES require a Mobile ID?" %}}
-No. But a Mobile ID makes signing faster and easier, which is why we recommend it. On Mobile-ID.ch you can check whether your smartphone already has a Mobile ID and whether the function is activated.
-If this is not the case, a new SIM card with Mobile ID can be ordered
- free of charge from most providers.
-{{< /collapsible >}}
-
-{{% collapsible 6 "What if I haven't been identified yet?" %}}
-Personal identification is only required for signing with the highest e-signature standard (QES). If you have not yet been identified in personal contact, you sign either with a simple (SES) or an advanced electronic signature (AES).
+{{% collapsible 5 "What if I haven't been identified yet?" %}}
+Personal identification is only required for signing with the highest e-signature standard (QES). If you have not been identified in personal contact, you sign either with a simple (SES) or an advanced electronic signature (AES).
 {{< /collapsible >}}
 {{< /content >}}
 
