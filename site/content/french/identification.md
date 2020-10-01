@@ -227,7 +227,7 @@ La signature électronique simple (SES) et la signature électronique avancée (
 {{% /collapsible %}}
 
 {{% collapsible 11 "Quelles sont les mesures d'identification requises pour la signature électronique simple (SES)?" %}}
-Dans le cas de la SES, l'adresse e-mail sert comme élément d'identification. L'adresse e-mail doit être confirmé en cliquant sur un lien qui est envoyé à l'adresse e-mail correspondante.
+Dans le cas de la SES, l'adresse e-mail est utilisée pour identifier les signataires. L'adresse e-mail doit être confirmé en cliquant sur un lien qui est envoyé à l'adresse e-mail correspondante.
 {{% /collapsible %}}
 
 {{% collapsible 12 "Pourquoi l'identification est-elle différente entre la EES, SEA et la SEQ ?" %}}
