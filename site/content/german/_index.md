@@ -75,7 +75,7 @@ Laden Sie interne oder externe Signierende per E-Mail ein und wählen Sie den E-
 {{< card img="sign" img-width=300 img-alt="Dokument mit einem Signier-Button" >}}
 {{% markdown %}}
 ### Auf Knopfdruck signieren
-Signieren Sie innert Sekunden rechtsgültig nach EU- und Schweizer Recht, ortsunabhängig auf dem Smartphone oder am Computer.
+Signieren Sie innerhalb von Sekunden rechtsgültig nach EU- und Schweizer Recht, ortsunabhängig auf dem Smartphone oder am Computer.
 {{% /markdown %}}
 {{< /card >}}
 {{< /card-group >}}
@@ -105,7 +105,7 @@ Nutzen Sie das Potenzial nahtlos digitaler Prozesse.
 {{< card icon="icons/faster-signing.svg" icon-width=44 >}}
 {{% markdown %}}
 ### Schneller abschliessen
-Innert Sekunden verfügen alle Beteiligten über die aktuelle Vertragsversion und können sie mit wenigen Klicks signieren.
+Innerhalb von Sekunden verfügen alle Beteiligten über die aktuelle Vertragsversion und können sie mit wenigen Klicks signieren.
 {{% /markdown %}}
 {{< /card >}}
 
@@ -140,7 +140,7 @@ Vom Mitarbeitenden im Home Office bis zum Lieferanten in Asien – Sie signieren
 {{< card icon="icons/auto-check.svg" icon-width=44 >}}
 {{% markdown %}}
 ### Automatisch prüfen
-Sie stellen innert Sekunden fest, ob korrekt signiert wurde, ob die Signatur echt ist und ob das Dokument nicht verändert wurde.
+Sie stellen innerhalb von Sekunden fest, ob korrekt signiert wurde, ob die Signatur echt ist und ob das Dokument nicht verändert wurde.
 {{% /markdown %}}
 {{< /card >}}
 {{< /card-group >}}
