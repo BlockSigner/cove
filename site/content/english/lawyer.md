@@ -255,7 +255,7 @@ the e-signature standards SES, AES and QES.**
 
 {{< content text=center top=24 bottom=4 width=narrow >}}
 {{% markdown %}}
-## All clear?
+## Questions?
 {{% /markdown %}}
 {{< /content >}}
 
