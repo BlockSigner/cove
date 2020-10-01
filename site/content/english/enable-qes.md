@@ -13,8 +13,7 @@ og_image: og/og-skribble-identification.jpg
 Maximise the legal weight 
 of your electronic signature
 ===============	
-Enable the highest e-signing standard (QES) by getting 
-yourself identified online via video (EU) or face-to-face (Switzerland).
+Enable the highest e-signing standard (QES) by having your identity verified online via video (for signing according to EU law) or face-to-face (for signing according to Swiss law).
 {{% /markdown %}}
 {{< /content >}}
 
@@ -43,7 +42,7 @@ The identification is offered in cooperation with our partners Swisscom Trust Se
 Switzerland: Face-to-face
 identification
 ===============
-Drop in at one of our identification sites.
+Stop by at one of our locations.
 We will identify you free of charge within a few minutes.
 {{% /markdown %}}
 {{< /content >}}
@@ -107,7 +106,7 @@ Together with our partner Swisscom Trust Services, we offer a growing number of 
 
 {{< content text=center top=24 width=narrow >}}
 {{% markdown %}}
-## All clear?
+## Questions?
 {{% /markdown %}}
 {{< /content >}}
 
