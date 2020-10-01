@@ -132,8 +132,8 @@ Legal security, identity check and authentication methods.
 
 {{< content text=center top=12 width=narrow >}}
 {{% markdown %}}
-## QES: The same legal validity as signing by hand
-The all-round carefree signature for the highest demands
+## QES: Legally equal to a handwritten signature
+The all-round carefree solution for the highest requirements. 
 {{% /markdown %}}
 {{< /content >}}
 
@@ -141,8 +141,8 @@ The all-round carefree signature for the highest demands
 
 {{< content top=6 bottom=6 width=narrow >}}
 {{% markdown %}}
-**The qualified electronic signature (QES) is legally equal to the handwritten signature.**
-You use QES to maximise the legal weight of your contracts or when the law requires it to be in writing. The latter applies, for example, to loan or wage agreements with a competition clause. For signing with QES on Skribble, a prior identity check in personal contact or via video call or a verified e-ID is required.
+**The qualified electronic signature (QES) has the same legal validity as signing by hand.**
+You can use QES to sign contracts with maximum legal weight of your contracts or when the law requires an equivalent to a handwritten signature. The latter applies, for example, to loan or employment agreements with non-competition clause. For signing with QES on Skribble, an identity check is required. You can choose between a face-to-face or online identification via video, or you can use an electronic identity (eID) if you have one.
 {{% /markdown %}}
 {{< /content >}}
 
@@ -166,7 +166,7 @@ You use QES to maximise the legal weight of your contracts or when the law requi
 
 {{% markdown %}}
 **Identity check**
-This is how you unlock QES on Skribble
+This is how you can unlock QES on Skribble
 {{% /markdown %}}
 {{< /cta >}}
 
@@ -191,7 +191,7 @@ Check whether a document has been signed with QES
 {{< content text=center top=24 width=narrow >}}
 {{% markdown %}}
 ## AES: The pragmatic solution <br class="hide-for-mobile">for contracts without <br class="hide-for-mobile">formal requirements
-Instantly operational thanks to lower requirements
+Ready for immediate use thanks to lower requirements
 {{% /markdown %}}
 {{< /content >}}
 
@@ -199,8 +199,8 @@ Instantly operational thanks to lower requirements
 
 {{< content top=6 bottom=6 width=narrow >}}
 {{% markdown %}}
-**The advanced electronic signature (AES) is legally valid for contracts where the law does not prescribe a specific form.**
-This applies to most types of contracts, such as rental, purchase or mortgage agreements. Anyone who has a Swiss mobile phone number or is a member of a registered AES for Business company can start signing with AES immediately.
+**The advanced electronic signature (AES) is legally valid for contracts where the law does not require a specific form.**
+This applies to most types of contracts, such as rental, purchase or mortgage agreements. Anyone who has a Swiss mobile phone number or is a member of AES for Business can start signing with AES immediately.
 {{% /markdown %}}
 {{< /content >}}
 
@@ -217,8 +217,8 @@ The one-click solution for everyday documents
 
 {{< content top=6 bottom=6 width=narrow >}}
 {{% markdown %}}
-**The simple electronic signature (SES) is used when there is a low liability risk.**
-It is legally valid for documents where the law does not prescribe a specific form. Typical use cases are information letters, orders and internal documents. Anyone who has an e-mail address can start signing with SES immediately on Skribble.
+**The right fit for signing documents with low liability risk**
+It is legally valid for documents where the law does not require a specific form. Typical use cases are information letters, orders and internal documents. Anyone who has an e-mail address can start signing with SES immediately on Skribble.
 {{% /markdown %}}
 {{< /content >}}
 
@@ -246,7 +246,7 @@ It is legally valid for documents where the law does not prescribe a specific fo
 <tr>
 <td><div class="icon-qes">QES</div></td>
 <td><strong>Maximum</strong></td>
-<td><ul><li>Personal identification/ verified e-ID and</li><li>Mobile phone number</li></ul></td>
+<td><ul><li>Face-to-face identification/ verified eID and</li><li>Mobile phone number</li></ul></td>
 <td><ul><li>Documents with legal form requirements (requiring the written form)</li><li>Maximising the legal weight of contracts without formal requirement (risk minimisation)</li></ul></td>
 <td><ul><li>Consumer credit contract</li><li>Temporary employment contracts</li><li>Management employment contracts</li><li>Audit reports</li><li>Entries with authorities</li><li>Contracts of high value or long duration</li></ul></td>
 </tr>
