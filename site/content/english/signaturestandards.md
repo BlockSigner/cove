@@ -12,7 +12,7 @@ How much legal weight
 does my e-signature need?
 =========================
 The law distinguishes between the qualified electronic signature (QES), the advanced electronic signature (AES) and the simple electronic signature (SES). 
-The three standards vary in terms of area of application and legal weight.
+The three standards vary in terms of legal weight and are used for different types of documents.
 {{% /markdown %}}
 {{< /content >}}
 
