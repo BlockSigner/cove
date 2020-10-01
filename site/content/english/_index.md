@@ -27,7 +27,7 @@ Legally valid worldwide, securely hosted in Switzerland.
 {{< button
   "Get started"
   "https://my.skribble.com/signup"
-  "_blank"
+  ""
 >}}
 {{< button
   "Contact Sales"

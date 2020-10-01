@@ -23,7 +23,7 @@ Utilisable dans le monde entier, hébergé en Suisse.
 {{< button
   "Démarrer"
   "https://my.skribble.com/signup?lang=fr"
-  "_blank"
+  ""
 >}}
 {{< button
   "Contacter les ventes"

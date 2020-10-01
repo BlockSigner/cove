@@ -23,7 +23,7 @@ Weltweit einsetzbar, gehosted in der Schweiz.
 {{< button
   "Jetzt loslegen"
   "https://my.skribble.com/signup?lang=de"
-  "_blank"
+  ""
 >}}
 {{< button
   "Sales kontaktieren"
