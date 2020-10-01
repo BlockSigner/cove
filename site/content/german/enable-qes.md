@@ -113,11 +113,11 @@ Zusammen mit unserem Partner Swisscom Trust Services bieten wir eine wachsende Z
 
 {{< content top=6 width=narrow >}}
 {{% collapsible 1 "Was bringt mir die Identifikation?" %}}
-Auf Skribble haben Sie die Möglichkeit, mit dem [höchsten verfügbaren E-Signatur-Standard](/de/signaturstandards) zu signieren: der qualifizierten elektronischen Signatur (QES). Diese hat eine Beweiskraft von 100% und kann für Verträge eingesetzt werden, die die Schriftlichkeit verlangen. Für die QES verlangt das Gesetz eine Identitätsprüfung.
+Auf Skribble haben Sie die Möglichkeit, mit dem [höchsten verfügbaren E-Signatur-Standard](/de/signaturstandards) zu signieren: der qualifizierten elektronischen Signatur (QES). Diese hat eine maximale Beweiskraft und kann für Verträge eingesetzt werden, die die Schriftlichkeit verlangen. Für die QES verlangt das Gesetz eine Identitätsprüfung via Video (für das Signieren nach EU-Recht) oder im persönlichen Kontakt (für das Signieren nach Schweizer Recht).
 {{% /collapsible %}}
 
 {{% collapsible 2 "Muss ich mich vor jeder QES-Signatur neu identifizieren lassen?" %}}
-Nein. Ihre E-ID ist 5 Jahre lang gültig oder bis zum Ablauf des Ausweises, den Sie bei der Identifikation vorgewiesen haben.
+Nein. Sie gelten während fünf Jahren als identifiziert oder bis zum Ablauf des Ausweises, den Sie bei der Identifikation vorgewiesen haben.
 {{% /collapsible %}}
 
 {{% collapsible 3 "Welche Ausweisdokumente kann ich für die Identifikation nutzen?" %}}
@@ -128,12 +128,8 @@ Ein gültiger Reisepass/Personalausweis oder eine gültige Identitätskarte. All
 Die erfassten Daten werden auf den Hochsicherheitsservern der Swisscom in der Schweiz gespeichert (Tier IV-Zertifizierung).
 {{% /collapsible %}}
 
-{{% collapsible 5 "Braucht es für die QES eine Mobile ID?" %}}
-Nein. Aber mit einer Mobile ID geht das Signieren schneller und einfacher, daher empfehlen wir sie. Auf Mobile ID.ch kann überprüft werden ob das eigene Smartphone bereits eine Mobile ID hat und ob die Funktion bereits aktiviert ist. Wenn dies nicht der Fall ist, kann bei den meisten Anbietern kostenlos eine neue SIM-Karte mit Mobile ID bestellt werden.
-{{% /collapsible %}}
-
-{{% collapsible 6 "Was, wenn ich noch nicht persönlich identifiziert wurde?" %}}
-Die persönliche Identifikation wird nur für das Signieren mit dem höchsten E-Signatur-Standard (QES) vorausgesetzt. Wurden Sie noch nicht persönlich identifiziert, signieren Sie entweder mit einer einfachen (EES) oder fortgeschrittenen elektronischen Signatur (FES).
+{{% collapsible 5 "Was, wenn ich noch nicht persönlich identifiziert wurde?" %}}
+Die persönliche Identifikation wird nur für das Signieren mit dem höchsten E-Signatur-Standard (QES) vorausgesetzt. Wurden Sie nicht persönlich identifiziert, signieren Sie entweder mit einer einfachen (EES) oder fortgeschrittenen elektronischen Signatur (FES).
 {{% /collapsible %}}
 {{< /content >}}
 
