@@ -269,11 +269,11 @@ Die persönliche Identifikation wird nur für das Signieren mit dem höchsten E-
 {{% /collapsible %}}
 
 {{% collapsible 12 "Brauche ich für das Signieren mit Skribble zusätzliche Hardware?" %}}
-Nein. Sie brauchen weder einen USB-Stick noch ein Kartenlesegerät für da Signieren mit Skribble. Die Zwei-Faktor-Authentifizierung findet bei Skribble via Handy statt (Mobile ID oder One-Time-Password).
+Nein. Sie brauchen weder einen USB-Stick noch ein Kartenlesegerät für das Signieren mit Skribble. Die Zwei-Faktor-Authentifizierung findet bei Skribble via Handy statt (Mobile ID oder One-Time-Password).
 {{% /collapsible %}}
 
 {{% collapsible 13 "Kann ich den digital signierten Vertrag in Papierform aufbewahren?" %}}
-Nicht ausschliesslich. Dank der visuellen Signatur ist auf dem ausgedruckten Vertrag ersichtlich, dass er digital signiert wurde. Da die digitalen Zertifikate mit dem Ausdrucken aber verloren gehen, ist die Nachvollziehbarkeit der Signatur und damit die entsprechende Beweiskraft nicht gegeben. Ein Vertrag, welcher mit einer qualifizierten elektronischen Signatur unterschrieben ist, muss deshalb immer in elektronischer Form gespeichert werden.
+Nicht ausschliesslich. Dank der visuellen Signatur ist auf dem ausgedruckten Vertrag ersichtlich, dass er digital signiert wurde. Da die digitalen Zertifikate mit dem Ausdrucken aber verloren gehen, ist die Nachvollziehbarkeit der Signatur und damit die entsprechende Beweiskraft nicht gegeben. Ein Vertrag, welcher elektronisch signiert wurde, muss deshalb immer in elektronischer Form gespeichert werden.
 {{% /collapsible %}}
 
 {{< /content >}}
