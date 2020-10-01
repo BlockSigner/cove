@@ -214,7 +214,7 @@ A growing number of people in Europe have a verified electronic identity (eID). 
 
 {{< content text=center top=12 bottom=8 width=narrow >}}
 {{% markdown %}}
-## All clear?
+## Questions?
 {{% /markdown %}}
 {{< /content >}}
 
@@ -225,7 +225,7 @@ The simple electronic signature (SES) and the advanced electronic signature (AES
 {{% /collapsible %}}
 
 {{% collapsible 11 "Which identification measures are required for the simple electronic signature (SES)?" %}}
-With SES, the e-mail address serves as an identification element. The e-mail address must be confirmed by clicking on a link that is sent to the corresponding e-mail address.
+With SES, the e-mail address is used to identify the signer. The e-mail address must be confirmed by clicking on a link that is sent to the corresponding e-mail address.
 {{% /collapsible %}}
 
 {{% collapsible 12 "Why is identification different for SES, AES and QES?" %}}
