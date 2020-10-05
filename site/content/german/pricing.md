@@ -419,7 +419,7 @@ Mit Skribble signieren Sie Ihre Verträge innert Sekunden – global rechtsgült
         <td>
           Company Branding mit eigenem Logo
           <div class="pricing-table__mobile-details hide-for-desktop">
-            <span>{{< pricing-info filled=true >}} CHF 1’500/ Jahr<br>CHF 150 /Monat</span>
+            <span>{{< pricing-info filled=true >}} CHF 1’500/ Jahr</span>
           </div>
         </td>
         <td>—</td>
