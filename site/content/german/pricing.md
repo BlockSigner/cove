@@ -425,7 +425,7 @@ Mit Skribble signieren Sie Ihre Verträge innert Sekunden – global rechtsgült
         <td>—</td>
         <td>
           <span class="hide-for-desktop">{{< pricing-info filled=true >}}</span>
-          <span class="hide-for-mobile">CHF 1’500/ Jahr<br>CHF 150/ Monat</span>
+          <span class="hide-for-mobile">CHF 1’500/ Jahr</span>
         </td>
         <td>—</td>
       </tr>
