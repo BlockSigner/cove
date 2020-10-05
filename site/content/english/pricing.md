@@ -429,7 +429,7 @@ with the highest data protection standards in Switzerland.
         <td>—</td>
         <td>
           <span class="hide-for-desktop">{{< pricing-info filled=true >}}</span>
-          <span class="hide-for-mobile">CHF 1’500/ year<br>CHF 150/ month</span>
+          <span class="hide-for-mobile">CHF 1’500/ year</span>
         </td>
         <td>—</td>
       </tr>
