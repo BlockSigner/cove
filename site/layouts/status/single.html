@@ -32,10 +32,6 @@
               Limited service
             </div>
             <div class="status-list-legend__label">
-              <img class="status-list-legend__img" src="status-maintenance.svg" alt="Maintenance: blue" />
-              Maintenance
-            </div>
-            <div class="status-list-legend__label">
               <img class="status-list-legend__img" src="status-outage.svg" alt="Outage: red" />
               Outage
             </div>
@@ -85,25 +81,18 @@
         componentRequest.send();
       }
 
+
       function showComponentStatus(statusJsonText) {
         let statusResult = JSON.parse(statusJsonText);
         let overallStatus = 1;
         statusResult.data.forEach((component) => {
           createComponentListEntry(component.name, component.status);
-          
-          switch (component.status) {
-            case 0:
-              if (overallStatus < 3)
-                overallStatus = 0
-              break
-            case 2:
-            case 3:
-              if (overallStatus < 4)
-                overallStatus = 3
-              break
-            case 4:
-              overallStatus = 4
-              break
+          if ([2, 3].includes(component.status)) {
+            if (overallStatus < 4) {
+              overallStatus = 3;
+            }
+          } else if ([4].includes(component.status)) {
+            overallStatus = component.status;
           }
         });
         createHeaderForOverallStatus(overallStatus);
@@ -115,11 +104,7 @@
         let title = document.getElementById("status-header-title");
         let text = document.getElementById("status-header-text");
 
-        if (overallStatus === 0) {
-          image.src = "status-maintenance-large.svg";
-          title.textContent = "Limited service due to scheduled maintenance";
-          text.innerHTML = "Our technology partner Swisscom is carrying out maintenance work from 10 am to 12 noon. This can lead to service interruptions when signing. We apologise for any inconvenience caused.";
-        } else if (overallStatus === 1) {
+        if (overallStatus === 1) {
           image.src = "status-good-large.svg";
           title.textContent = "Skribble is up and running";
           text.innerHTML = "Having trouble? Check our help center or e-mail us at <a href=\"mailto:support@skribble.com\">support@skribble.com</a>";
@@ -142,9 +127,6 @@
         let statusMsg, statusImgSrc;
         switch (status) {
           case 0:
-            statusMsg = 'Maintenance'
-            statusImgSrc = 'status-maintenance.svg';
-            break;
           case 1:
             statusMsg = 'Operational'
             statusImgSrc = 'status-good.svg';
