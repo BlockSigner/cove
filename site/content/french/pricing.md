@@ -693,22 +693,22 @@ Skribble permet de signer vos contrats en un clin d’œil – Validité mondial
         <td>
           Identification à distance (p. ex. en ligne par vidéo)
           <div class="pricing-table__mobile-details  hide-for-desktop">
-            <span>{{< pricing-info >}} <strong>F</strong>: CHF 19.- (montant unique)</span>
-            <span>{{< pricing-info filled=true >}} <strong>B</strong>: CHF 19.- (montant unique)</span>
-            <span>{{< pricing-info >}} <strong>E</strong>: CHF 19.- (montant unique)</span>
+            <span>{{< pricing-info >}} <strong>F</strong>: CHF 19.- par identification</span>
+            <span>{{< pricing-info filled=true >}} <strong>B</strong>: CHF 19.- par identification</span>
+            <span>{{< pricing-info >}} <strong>E</strong>: CHF 19.- par identification</span>
           </div>
         </td>
         <td>
           <span class="hide-for-desktop">{{< pricing-info filled=true >}}</span>
-          <span class="hide-for-mobile">CHF 19.- (montant unique)</span>
+          <span class="hide-for-mobile">CHF 19.- par identification</span>
         </td>
         <td>
           <span class="hide-for-desktop">{{< pricing-info >}}</span>
-          <span class="hide-for-mobile">CHF 19.- (montant unique)</span>
+          <span class="hide-for-mobile">CHF 19.- par identification</span>
         </td>
         <td>
           <span class="hide-for-desktop">{{< pricing-info >}}</span>
-          <span class="hide-for-mobile">CHF 19.- (montant unique)</span>
+          <span class="hide-for-mobile">CHF 19.- par identification</span>
         </td>
       </tr>
       <tr>
