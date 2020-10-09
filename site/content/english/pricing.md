@@ -682,7 +682,7 @@ with the highest data protection standards in Switzerland.
         <td>—</td>
         <td>
           <span class="hide-for-desktop">{{< pricing-info filled=true >}}</span>
-          <span class="hide-for-mobile">CHF 1’900, (one-time fee)</span>
+          <span class="hide-for-mobile">CHF 1’900 (one-time fee)</span>
         </td>
         <td>
           <span class="hide-for-desktop">{{< pricing-info >}}</span>
