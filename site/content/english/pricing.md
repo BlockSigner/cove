@@ -396,12 +396,12 @@ with the highest data protection standards in Switzerland.
         <td>
           Extended customisation options for visual signatures (e.g.show or hide QR code)
           <div class="pricing-table__mobile-details hide-for-desktop">
-            <span>{{< pricing-info >}} CHF 24.–/ year<br>CHF 2.50/ month</span>
+            <span>{{< pricing-info >}} CHF 24/ year<br>CHF 2.50/ month</span>
           </div>
         </td>
         <td>
           <span class="hide-for-desktop">{{< pricing-info >}}</span>
-          <span class="hide-for-mobile">CHF 24.–/ year<br>CHF 2.50/ month</span>
+          <span class="hide-for-mobile">CHF 24/ year<br>CHF 2.50/ month</span>
         </td>
         <td>{{< pricing-check filled=true >}}</td>
         <td>{{< pricing-check >}}</td>
@@ -649,13 +649,13 @@ with the highest data protection standards in Switzerland.
         <td>
           Company e-mail address (AES for Business)
           <div class="pricing-table__mobile-details  hide-for-desktop">
-            <span>{{< pricing-info filled=true >}} CHF 890.-, (one-time fee)</span>
+            <span>{{< pricing-info filled=true >}} CHF 890, (one-time fee)</span>
           </div>
         </td>
         <td>—</td>
         <td>
           <span class="hide-for-desktop">{{< pricing-info filled=true >}}</span>
-          <span class="hide-for-mobile">CHF 890.-, (one-time fee)</span>
+          <span class="hide-for-mobile">CHF 890, (one-time fee)</span>
         </td>
         <td>{{< pricing-check >}}</td>
       </tr>
@@ -675,40 +675,40 @@ with the highest data protection standards in Switzerland.
         <td>
           Perform identity checks yourself with the ID app (after one-time training)
           <div class="pricing-table__mobile-details  hide-for-desktop">
-            <span>{{< pricing-info filled=true >}} <strong>B</strong>: CHF 1’900.-, (one-time fee)</span>
-            <span>{{< pricing-info >}} <strong>E</strong>: CHF 1’900.-, (one-time fee)</span>
+            <span>{{< pricing-info filled=true >}} <strong>B</strong>: CHF 1’900, (one-time fee)</span>
+            <span>{{< pricing-info >}} <strong>E</strong>: CHF 1’900, (one-time fee)</span>
           </div>
         </td>
         <td>—</td>
         <td>
           <span class="hide-for-desktop">{{< pricing-info filled=true >}}</span>
-          <span class="hide-for-mobile">CHF 1’900.-, (one-time fee)</span>
+          <span class="hide-for-mobile">CHF 1’900, (one-time fee)</span>
         </td>
         <td>
           <span class="hide-for-desktop">{{< pricing-info >}}</span>
-          <span class="hide-for-mobile">CHF 1’900.-, (one-time fee)</span>
+          <span class="hide-for-mobile">CHF 1’900, (one-time fee)</span>
         </td>
       </tr>
       <tr>
         <td>
           Remote identification (e.g. online via video call)
           <div class="pricing-table__mobile-details  hide-for-desktop">
-            <span>{{< pricing-info >}} <strong>F</strong>: CHF 19.-, (one-time fee)</span>
-            <span>{{< pricing-info filled=true >}} <strong>B</strong>: CHF 19.-, (one-time fee)</span>
-            <span>{{< pricing-info >}} <strong>E</strong>: CHF 19.-, (one-time fee)</span>
+            <span>{{< pricing-info >}} <strong>F</strong>: CHF 19, (one-time fee)</span>
+            <span>{{< pricing-info filled=true >}} <strong>B</strong>: CHF 19, (one-time fee)</span>
+            <span>{{< pricing-info >}} <strong>E</strong>: CHF 19, (one-time fee)</span>
           </div>
         </td>
         <td>
           <span class="hide-for-desktop">{{< pricing-info filled=true >}}</span>
-          <span class="hide-for-mobile">CHF 19.-, (one-time fee)</span>
+          <span class="hide-for-mobile">CHF 19, (one-time fee)</span>
         </td>
         <td>
           <span class="hide-for-desktop">{{< pricing-info >}}</span>
-          <span class="hide-for-mobile">CHF 19.-, (one-time fee)</span>
+          <span class="hide-for-mobile">CHF 19, (one-time fee)</span>
         </td>
         <td>
           <span class="hide-for-desktop">{{< pricing-info >}}</span>
-          <span class="hide-for-mobile">CHF 19.-, (one-time fee)</span>
+          <span class="hide-for-mobile">CHF 19, (one-time fee)</span>
         </td>
       </tr>
       <tr>
