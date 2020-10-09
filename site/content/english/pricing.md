@@ -655,7 +655,7 @@ with the highest data protection standards in Switzerland.
         <td>—</td>
         <td>
           <span class="hide-for-desktop">{{< pricing-info filled=true >}}</span>
-          <span class="hide-for-mobile">CHF 890, (one-time fee)</span>
+          <span class="hide-for-mobile">CHF 890 (one-time fee)</span>
         </td>
         <td>{{< pricing-check >}}</td>
       </tr>
