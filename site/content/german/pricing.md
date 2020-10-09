@@ -689,22 +689,22 @@ Mit Skribble signieren Sie Ihre Verträge innert Sekunden – global rechtsgült
         <td>
           Remote-Identifikation (z.B. online via Video)
           <div class="pricing-table__mobile-details  hide-for-desktop">
-            <span>{{< pricing-info >}} <strong>F</strong>: CHF 19.–, einmalig</span>
-            <span>{{< pricing-info filled=true >}} <strong>B</strong>: CHF 19.–, einmalig</span>
-            <span>{{< pricing-info >}} <strong>E</strong>: CHF 19.–, einmalig</span>
+            <span>{{< pricing-info >}} <strong>F</strong>: CHF 19.– pro Identifikation</span>
+            <span>{{< pricing-info filled=true >}} <strong>B</strong>: CHF 19.– pro Identifikation</span>
+            <span>{{< pricing-info >}} <strong>E</strong>: CHF 19.– pro Identifikation</span>
           </div>
         </td>
         <td>
           <span class="hide-for-desktop">{{< pricing-info filled=true >}}</span>
-          <span class="hide-for-mobile">CHF 19.–, einmalig</span>
+          <span class="hide-for-mobile">CHF 19.– pro Identifikation</span>
         </td>
         <td>
           <span class="hide-for-desktop">{{< pricing-info >}}</span>
-          <span class="hide-for-mobile">CHF 19.–, einmalig</span>
+          <span class="hide-for-mobile">CHF 19.– pro Identifikation</span>
         </td>
         <td>
           <span class="hide-for-desktop">{{< pricing-info >}}</span>
-          <span class="hide-for-mobile">CHF 19.–, einmalig</span>
+          <span class="hide-for-mobile">CHF 19.– pro Identifikation</span>
         </td>
       </tr>
       <tr>
