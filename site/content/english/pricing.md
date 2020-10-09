@@ -649,7 +649,7 @@ with the highest data protection standards in Switzerland.
         <td>
           Company e-mail address (AES for Business)
           <div class="pricing-table__mobile-details  hide-for-desktop">
-            <span>{{< pricing-info filled=true >}} CHF 890, (one-time fee)</span>
+            <span>{{< pricing-info filled=true >}} CHF 890 (one-time fee)</span>
           </div>
         </td>
         <td>—</td>
