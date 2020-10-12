@@ -521,7 +521,7 @@ with the highest data protection standards in Switzerland.
         <td>Customer Success Team</td>
         <td>—</td>
         <td>{{< pricing-check filled=true >}}</td>
-        <td>{{< pricing-check filled=true >}}</td>
+        <td>{{< pricing-check >}}</td>
       </tr>
       <tr>
         <td>Onboarding support</td>
