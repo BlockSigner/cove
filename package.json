@@ -65,7 +65,8 @@
   "resolutions": {
     "natives": "1.1.6",
     "node-forge": "^0.10.0",
-    "serialize-javascript": "^4.0.0"
+    "serialize-javascript": "^4.0.0",
+    "yargs-parser": "^13.1.2"
   },
   "config": {
     "commitizen": {
