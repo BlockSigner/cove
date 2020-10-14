@@ -15,7 +15,7 @@ Home Office oder Ferienhaus?
 Mit Skribble signieren Sie Ihre Dokumente rechtsgültig digital – egal wo Sie sich gerade aufhalten.
 
 **Häufig eingesetzt für:**
-- Offerten
+- Angebote und Offerten
 - Bestellungen und Aufträge
 - Behördendokumente
 {{% /markdown %}}
