@@ -26,9 +26,9 @@ with the highest data protection standards in Switzerland.
     price="2.50"
     currency="CHF /"
     period=signature
-    small="up to a maximum of CHF 30, plus signatures from external parties*."
-    feature="2 signatures/ month free of charge"
-    feature-small="*If you invite other people to sign, an additional CHF 2.00 to 2.50 per signature is added."
+    small="up to a maximum of CHF 30 (excluding signatures made by external parties*)."
+    feature="2 signatures per month free of charge"
+    feature-small="*If you invite someone to sign, an additional CHF 2.00 to 2.50 per signature will be charged."
     cta-label="Get started"
     cta-href="https://my.skribble.com/signup/"
     cta-target=""
@@ -79,10 +79,10 @@ with the highest data protection standards in Switzerland.
 
   {{< pricing-highlights title=Highlights >}}
   {{% markdown %}}
-  - Ready to use throughout a company within a few days 
+  - Ready for a company-wide use in a few days 
   - Central administration and membership management
   - External parties can sign without having a Skribble account
-  - Sign directly via your browser or integrate Skribble into your own systems via API
+  - Sign directly via the browser or integrate Skribble via API with the systems you already use 
   {{% /markdown %}}
   {{< /pricing-highlights >}}
 {{< /pricing-col >}}
@@ -102,7 +102,7 @@ with the highest data protection standards in Switzerland.
   >}}
   {{% markdown %}}
   ## Enterprise
-  For large companies with the highest demands on service and flexibility.
+  For large companies with the highest requirements for service and flexibility.
   {{% /markdown %}}
   {{< /pricing-card >}}
   {{< pricing-highlights title=Highlights >}}
@@ -400,7 +400,7 @@ with the highest data protection standards in Switzerland.
       </tr>
       <tr>
         <td>
-          Extended customisation options for visual signatures (e.g.show or hide QR code)
+          Extended customisation options for visual signatures (e.g. show or hide QR code)
           <div class="pricing-table__mobile-details hide-for-desktop">
             <span>{{< pricing-info >}} CHF 24/ year<br>CHF 2.50/ month</span>
           </div>
@@ -721,7 +721,7 @@ with the highest data protection standards in Switzerland.
         </td>
       </tr>
       <tr>
-        <td>Personal identification (at one of our locations)</td>
+        <td>Personal identification on-site (available at various locations)</td>
         <td>{{< pricing-check >}}</td>
         <td>{{< pricing-check filled=true >}}</td>
         <td>{{< pricing-check >}}</td>
