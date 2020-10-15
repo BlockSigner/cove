@@ -437,7 +437,10 @@ with the highest data protection standards in Switzerland.
           <span class="hide-for-desktop">{{< pricing-info filled=true >}}</span>
           <span class="hide-for-mobile">CHF 1’500/ year</span>
         </td>
-        <td>—</td>
+        <td>
+          <span class="hide-for-desktop">{{< pricing-check >}}</span>
+          <span class="hide-for-mobile">{{< pricing-check >}}</span>
+        </td>
       </tr>
       <tr>
         <td>Automated deletion of completed documents after user-defined period</td>
