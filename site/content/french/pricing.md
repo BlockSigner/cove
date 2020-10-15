@@ -432,13 +432,15 @@ Skribble permet de signer vos contrats en un clin d’œil – Validité mondial
             <span>{{< pricing-info filled=true >}} CHF 1’500 / année</span>
           </div>
         </td>
-          <span class="hide-for-desktop">{{< pricing-check >}}</span>
-          <span class="hide-for-mobile">{{< pricing-check >}}</span>
+        <td>—</td>
         <td>
           <span class="hide-for-desktop">{{< pricing-info filled=true >}}</span>
           <span class="hide-for-mobile">CHF 1’500 / année</span>
         </td>
-        <td>—</td>
+        <td>
+          <span class="hide-for-desktop">{{< pricing-check >}}</span>
+          <span class="hide-for-mobile">{{< pricing-check >}}</span>
+        </td>
       </tr>
       <tr>
         <td>Suppression automatique des documents finaux après un délai déterminé</td>
