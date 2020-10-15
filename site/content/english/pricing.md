@@ -11,7 +11,7 @@ og_image: og/og-skribble-service.jpg
 {{< content text=center top=16 bottom=8 width=narrow >}}
 {{% markdown %}}
 # Plans and pricing
-Skribble enables you to sign your contracts within in a few seconds – 
+Skribble enables you to sign your contracts in a few seconds – 
 legally valid worldwide and secured in accordance 
 with the highest data protection standards in Switzerland.
 {{% /markdown %}}
