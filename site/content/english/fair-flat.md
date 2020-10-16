@@ -11,9 +11,9 @@ og_image: og/og-skribble-fair-flat.jpg
 
 {{< intro top=24 bottom=12 width=wide img=fair-flat-main img-width=540 img-alt="Ein Mann signiert elektronisch auf seinem Notebook von Zuhause aus einen Vertrag." >}}
 {{% markdown %}}
-Sign electronically from the comfort of your holiday home
+Working from home or need to sign on the go?
 ===============
-Sign your documents digitally and legally valid from anywhere, and on any device. 
+With Skribble, you can sign your documents digitally and legally valid from anywhere, and on any device.
 
 **Frequently used for:**
 - Quotations
