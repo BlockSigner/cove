@@ -92,7 +92,7 @@ Any type of contract covered
 ---
 Different legal requirements may apply when it comes to signing contracts electronically. At Skribble, you get access to all e-signature standards from a single source that are legally valid around the world. 
 
-- Qualified electronic signature (QES), fulfils the written form requirement according to the BGB (German Civil Code)/ CO (Swiss Code of Obligations)
+- Qualified electronic signature (QES) - fulfils the written form requirement according to the BGB (German Civil Code) and CO (Swiss Code of Obligations)
 - Advanced electronic signature (AES)
 - Simple electronic signature (SES)
 {{% /markdown %}}
