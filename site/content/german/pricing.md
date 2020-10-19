@@ -85,7 +85,7 @@ Mit Skribble signieren Sie Ihre Verträge innert Sekunden – global rechtsgült
 {{< pricing-col >}}
   {{< pricing-card
     no-price-text="Individuelles Angebot"
-    small="Kostenvoranschlag auf Anfrage – Kontaktieren Sie bitte unseren Vertrieb."
+    small="Kostenvoranschlag auf Anfrage – Kontaktieren Sie bitte unser Sales-Team."
     feature="Individuelle Volumen-Lizenz"
     feature-small="Wird für jeweils 12 Monate abgeschlossen. "
     cta-label="Sales kontaktieren"
@@ -106,7 +106,7 @@ Mit Skribble signieren Sie Ihre Verträge innert Sekunden – global rechtsgült
   - Persönlicher Account Executive und Priority Support
   - Service Level Agreement (SLA) mit Hochverfügbarkeits-Garantie
   - Single-Sign-On für einfachen Zugang aller Mitarbeitenden
-  - Erweiterte Optionen für Branding und Fair Flatisierung
+  - Erweiterte Optionen für Branding und Personalisierung
   {{% /markdown %}}
   {{< /pricing-highlights >}}
 {{< /pricing-col >}}
