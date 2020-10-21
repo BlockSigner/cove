@@ -50,16 +50,11 @@ FINMA-Konform, ISO 27001 zertifiziert
 
 {{< content text=center top=12 bottom=12 width=narrow >}}
 {{% markdown %}}
-## Kostenlos Signieren mit Skribble <br class="hide-for-mobile">bis Ende Jahr für Mitglieder <br class="hide-for-mobile">von EXPERTsuisse. Ab Januar 2020
+## EXPERTsuisse Mitglieder nutzen Skribble zum Vorzugspreis
 {{% /markdown %}}
 
 {{< picture sav-special 200 "Blauer kreis mit der nummer 12" >}}
 
-{{% markdown %}}
-### pro Monat pro Nutzer anstatt CHF 25.-
-Exklusiv für EXPERTsuisse Mitglieder:
-{{< picture expertsuisse-logo 250 "EXPERTsuisse Logo" >}}
-{{% /markdown %}}
 {{< /content >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
