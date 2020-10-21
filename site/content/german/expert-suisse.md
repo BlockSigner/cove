@@ -53,8 +53,6 @@ FINMA-Konform, ISO 27001 zertifiziert
 ## EXPERTsuisse Mitglieder nutzen Skribble zum Vorzugspreis
 {{% /markdown %}}
 
-{{< picture sav-special 200 "Blauer kreis mit der nummer 12" >}}
-
 {{< /content >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
