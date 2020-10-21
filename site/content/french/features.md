@@ -90,10 +90,6 @@ Notre vision est grande. Nous développons Skribble jour après jour.
     headline="Rappel automatisé"
     description="Ne faites pas la course aux signatures en suspens, mais envoyez des courriels de rappel automatisés.">}}
 
-  {{< features-item src="features/archive.svg"
-    headline="Téléchargement prêt pour l'archivage"
-    description="Téléchargez les documents signés dans un format PDF X/A reconnu pour un archivage juridiquement valable.">}}
-
 {{< /features-container >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
