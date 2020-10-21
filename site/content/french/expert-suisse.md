@@ -52,7 +52,7 @@ Conforme FINMA, certifié ISO 27001
 
 {{< content text=center top=12 bottom=12 width=narrow >}}
 {{% markdown %}}
-## Les membres de la EXPERTsuisse utilisent Skribble à un prix préférentiel
+## Les membres de EXPERTsuisse utilisent Skribble à un prix préférentiel
 {{% /markdown %}}
 
 {{< /content >}}
