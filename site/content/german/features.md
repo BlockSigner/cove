@@ -90,6 +90,8 @@ Unsere Vision ist gross. Wir entwickeln Skribble Tag für Tag weiter.
   {{< features-item src="features/tools.svg"
     headline="Automatisiert erinnern"
     description="Rennen Sie ausstehenden Signaturen nicht nach, sondern versenden Sie automatisiert Erinnerungs-E-Mails.">}}
+   
+{{< /features-container >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
