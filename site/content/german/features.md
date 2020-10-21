@@ -91,11 +91,6 @@ Unsere Vision ist gross. Wir entwickeln Skribble Tag für Tag weiter.
     headline="Automatisiert erinnern"
     description="Rennen Sie ausstehenden Signaturen nicht nach, sondern versenden Sie automatisiert Erinnerungs-E-Mails.">}}
 
-  {{< features-item src="features/archive.svg"
-    headline="Archivierbereit herunterladen"
-    description="Laden Sie signierte Dokumente im anerkannten PDF X/A herunter, um diese rechtsgültuig archivieren zu können.">}}
-{{< /features-container >}}
-
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
 {{< content top=20 >}}
