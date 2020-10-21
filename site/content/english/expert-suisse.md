@@ -50,7 +50,7 @@ FINMA-compliant, ISO 27001 certified
 
 {{< content text=center top=12 bottom=12 width=narrow >}}
 {{% markdown %}}
-## SAV-FSA members use Skribble at a preferential price
+## EXPERTsuisse members use Skribble at a preferential price
 {{% /markdown %}}
 
 {{< /content >}}
