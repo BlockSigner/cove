@@ -50,17 +50,9 @@ FINMA-compliant, ISO 27001 certified
 
 {{< content text=center top=12 bottom=12 width=narrow >}}
 {{% markdown %}}
-## Free signing with Skribble
-until the end of the year for EXPERTsuisse members. As of January 2020
+## SAV-FSA members use Skribble at a preferential price
 {{% /markdown %}}
 
-{{< picture sav-special 200 "Blue circle with the number 12" >}}
-
-{{% markdown center %}}
-### per month per user instead of CHF 25.00
-Exclusively for EXPERTsuisse members:
-{{% /markdown %}}
-{{< picture expertsuisse-logo 250 "EXPERTsuisse Logo" >}}
 {{< /content >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
