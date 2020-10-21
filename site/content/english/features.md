@@ -90,10 +90,6 @@ Our vision is great. We develop Skribble day by day.
     headline="Automatic reminders"
     description="Don't chase after outstanding signatures - send automated reminder e-mails instead.">}}
 
-  {{< features-item src="features/archive.svg"
-    headline="Download ready for archiving"
-    description="Download signed documents in recognized PDF X/A format for legally valid archiving.">}}
-
 {{< /features-container >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
