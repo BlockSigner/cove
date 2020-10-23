@@ -172,7 +172,7 @@
       
       
       async function generateMaintenanceInfo(){       
-        const scheduleResponse = await fetch(statusApi + "schedules?sort=occurred_at&order=desc");        
+        const scheduleResponse = await fetch(statusApi + "schedules?sort=scheduled_at&order=desc");        
         if (!scheduleResponse.ok) {
           console.log("The ScheduleRequest failed!");
           return;
