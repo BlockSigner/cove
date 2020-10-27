@@ -181,8 +181,8 @@
 
             let scheduleResult = JSON.parse(scheduleRequest.responseText);            
             scheduleResult.data.forEach((schedule) => {
-              let scheduledAt = new Date(schedule.scheduled_at);
-              let completedAt = new Date(schedule.completed_at);        
+              let scheduledAt = new Date(schedule.scheduled_at.replace(/-/g, "/"));
+              let completedAt = new Date(schedule.completed_at.replace(/-/g, "/"));        
               let fiveDaysBeforeScheduled = new Date();
               fiveDaysBeforeScheduled.setDate(scheduledAt.getDate() - 5);      
 
@@ -202,8 +202,8 @@
 
       function createMaintenanceListEntry(schedule) {
         let messageText = (schedule.message).replace(new RegExp('\r?\n', 'g'), '<br />');
-        let scheduledAt = new Date(schedule.scheduled_at);
-        let completedAt = new Date(schedule.completed_at);   
+        let scheduledAt = new Date(schedule.scheduled_at.replace(/-/g, "/"));
+        let completedAt = new Date(schedule.completed_at.replace(/-/g, "/"));   
         let scheduledStr = (scheduledAt.toLocaleDateString("en-GB", dateformat));
         let completedStr = (completedAt.toLocaleDateString("en-GB", dateformat));
 
@@ -235,7 +235,7 @@
             let incidentResult = JSON.parse(incidentRequest.responseText);
             let isEmptyHistory = true;
             incidentResult.data.forEach((incident) => {
-              let occuredAt = new Date(incident.occurred_at);
+              let occuredAt = new Date(incident.occurred_at.replace(/-/g, "/"));
               let xDaysAgo = new Date().setDate(new Date().getDate() - 7);
               if (occuredAt > xDaysAgo) {
                 creatIncidentListEntry(incident);
@@ -257,7 +257,7 @@
 
       function creatIncidentListEntry(incident) {
         let messageText = (incident.message).replace(new RegExp('\r?\n', 'g'), '<br />');
-        let occuredAt = new Date(incident.occurred_at);
+        let occuredAt = new Date(incident.occurred_at.replace(/-/g, "/"));
         let occuredStr = (occuredAt.toLocaleDateString("en-GB", dateformat));
 
         let incidentElem = document.createElement('div');
@@ -302,7 +302,7 @@
 
 
       function createIncidentUpdateEntry(update) {
-        let updatedAt = new Date(update.updated_at);
+        let updatedAt = new Date(update.updated_at.replace(/-/g, "/"));
         let updatedStr = (updatedAt.toLocaleDateString("en-GB", dateformat));
 
         let messageText = (update.message).replace(new RegExp('\r?\n', 'g'), '<br />');
