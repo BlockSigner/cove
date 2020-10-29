@@ -246,7 +246,7 @@ groups:
           regular_landscape: team/johanna-seeliger-l
           retina_landscape: team/johanna-seeliger-l@2x
           alt_text:
-      - name: Serna Rico
+      - name: Serena Rico
         position: Customer Success Manager
         type: 0
         images:
