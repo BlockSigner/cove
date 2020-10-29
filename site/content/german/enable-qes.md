@@ -13,7 +13,7 @@ og_image: og/og-skribble-identification.jpg
 Maximieren Sie die Beweiskraft 
 Ihrer E-Signatur
 ===============
-Die qualifizierte elektronische Signatur (QES) schalten Sie frei, in dem Sie sich online via Video (für das Signieren nach EU-Recht) oder im persönlichen Kontakt (für das Signieren nach Schweizer Recht) identifizieren lassen.
+Die qualifizierte elektronische Signatur (QES) schalten Sie frei, in dem Sie sich online via Video (für das Signieren nach EU-Recht) oder persönlich vor Ort (für das Signieren nach Schweizer Recht) identifizieren lassen.
 {{% /markdown %}}
 {{< /content >}}
 
@@ -40,8 +40,8 @@ Die Identifikation wird in Zusammenarbeit mit unseren Partnern Swisscom Trust Se
 
 {{< content text=center top=16 width=narrow >}}
 {{% markdown %}}
-Schweiz: Identifikation 
-im persönlichen Kontakt
+Schweiz: Persönliche Identifikation 
+vor Ort
 ===============
 Kommen Sie an einem unserer Identifikationsstandorte vorbei.
 Wir identifizieren Sie kostenlos innert weniger Minuten.
@@ -113,7 +113,7 @@ Zusammen mit unserem Partner Swisscom Trust Services bieten wir eine wachsende Z
 
 {{< content top=6 width=narrow >}}
 {{% collapsible 1 "Was bringt mir die Identifikation?" %}}
-Auf Skribble haben Sie die Möglichkeit, mit dem [höchsten verfügbaren E-Signatur-Standard](/de/signaturstandards) zu signieren: der qualifizierten elektronischen Signatur (QES). Diese hat eine maximale Beweiskraft und kann für Verträge eingesetzt werden, die die Schriftlichkeit verlangen. Für die QES verlangt das Gesetz eine Identitätsprüfung via Video (für das Signieren nach EU-Recht) oder im persönlichen Kontakt (für das Signieren nach Schweizer Recht).
+Auf Skribble haben Sie die Möglichkeit, mit dem [höchsten verfügbaren E-Signatur-Standard](/de/signaturstandards) zu signieren: der qualifizierten elektronischen Signatur (QES). Diese hat eine maximale Beweiskraft und kann für Verträge eingesetzt werden, die die Schriftlichkeit verlangen. Für die QES verlangt das Gesetz eine Identitätsprüfung via Video (für das Signieren nach EU-Recht) oder persönlich vor Ort (für das Signieren nach Schweizer Recht).
 {{% /collapsible %}}
 
 {{% collapsible 2 "Muss ich mich vor jeder QES-Signatur neu identifizieren lassen?" %}}
