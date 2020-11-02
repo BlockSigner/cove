@@ -42,7 +42,7 @@ The identification is offered in cooperation with our partners Swisscom Trust Se
 Switzerland: Face-to-face
 identification
 ===============
-Stop by at one of our locations.
+Stop by at one of the available locations.
 We will identify you free of charge within a few minutes.
 {{% /markdown %}}
 {{< /content >}}
