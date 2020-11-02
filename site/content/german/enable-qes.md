@@ -44,7 +44,7 @@ Schweiz: Persönliche
 Identifikation vor Ort
 ===============
 Kommen Sie an einem unserer Identifikationsstandorte vorbei.
-Wir identifizieren Sie kostenlos innert weniger Minuten.
+Wir identifizieren Sie kostenlos innerhalb von weniger Minuten.
 {{% /markdown %}}
 {{< /content >}}
 
