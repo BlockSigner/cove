@@ -40,8 +40,8 @@ Die Identifikation wird in Zusammenarbeit mit unseren Partnern Swisscom Trust Se
 
 {{< content text=center top=16 width=narrow >}}
 {{% markdown %}}
-Schweiz: Persönliche Identifikation 
-vor Ort
+Schweiz: Persönliche 
+Identifikation vor Ort
 ===============
 Kommen Sie an einem unserer Identifikationsstandorte vorbei.
 Wir identifizieren Sie kostenlos innert weniger Minuten.
