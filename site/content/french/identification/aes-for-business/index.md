@@ -167,7 +167,7 @@ EA pour Business peut être utilisée globalement.
 {{% /collapsible %}}
 
 {{% collapsible 3 "Quels contrats puis-je signer avec la SEA?" %}}
-La signature électronique avancée (SEA) est juridiquement valable pour tous les contrats pour lesquels la loi ne prescrit pas de forme spécifique, tels que les contrats de location, d'achat ou d'hypothèque.
+La signature électronique avancée (SEA) est juridiquement valable pour tous les contrats pour lesquels la loi ne prescrit pas de forme spécifique. Pour plus d'informations, consultez le site https://www.skribble.com/fr/normessignature/.
 {{% /collapsible %}}
 
 {{% collapsible 4 "Puis-je combiner la SEA et la SEQ dans mon entreprise?" %}}
@@ -182,12 +182,8 @@ Cela est généralement possible avec une étape de contrôle supplémentaire pe
 Les certificats de signature sur lesquels Skribble SEA pour Business est basé proviennent de GMO GlobalSign, Ltd, une autorité de certification européenne.
 {{% /collapsible %}}
 
-{{% collapsible 7 "Ai-je besoin d'un compte Skribble Business pour utiliser SEA pour Business?" %}}
-Oui, cette offre est exclusivement disponible pour les clients de Skribble Business.
-{{% /collapsible %}}
-
-{{% collapsible 8 "L'adresse e-mail de l'entreprise est-elle la seule méthode d'identification pour la SEA?" %}}
-Non. La SEA est également activée lorsqu'une personne s'inscrit avec un numéro de téléphone portable suisse. Cette deuxième solution est indépendante de SEA pour Business et est basée sur une collaboration avec Swisscom.
+{{% collapsible 7 "L'adresse e-mail de l'entreprise est-elle la seule méthode d'identification pour la SEA?" %}}
+Non. Il existe différentes options d'identification pour l'SEA. Pour plus d'informations, consultez le site https://www.skribble.com/fr/identification/. 
 {{% /collapsible %}}
 {{< /content >}}
 
