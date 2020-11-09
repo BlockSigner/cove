@@ -11,7 +11,7 @@ og_image: og/og-skribble-aes-for-business.jpg
 
 {{< content text=center top=16 bottom=4 width=narrow >}}
 {{% markdown %}}
-# FES für Business: Organisationsweite Einführung in wenigen Tagen
+# FES für Business: Organisationsweite Einführung mit wenigen Klicks
 Ihre gesamte Mitarbeiterschaft kann innerhalb kürzester Zeit mit der fortgeschrittenen elektronischen Signatur (FES) signieren.
 {{% /markdown %}}
 {{< /content >}}
@@ -34,7 +34,7 @@ Einführung mit wenigen Klicks**
 
 {{< content text=center top=16 bottom=4 width=narrow >}}
 {{% markdown %}}
-## Firmen-Mail-Adresse als Identifikationselement
+## Identifikation mit Unternehmens-Mail-Adresse
 {{% /markdown %}}
 {{< /content >}}
 
@@ -42,7 +42,7 @@ Einführung mit wenigen Klicks**
 
 {{< content top=4 bottom=6 width=narrow >}}
 {{% markdown %}}
-Bei FES für Business schaltet Ihre Firmen-Domäne (z.B. ihrefirma.com) das Signieren frei. Jede Person, die sich mit einer E-Mail-Adresse Ihrer Organisation bei Skribble registriert (z.B. erika.mustermann @ ihrefirma.com) und Mitglied Ihres Business-Kontos ist, kann ohne weitere Massnahmen mit FES signieren.
+Bei FES für Business schaltet Ihre Unternehmens-Domäne (z.B. ihrunternehmen.com) das Signieren frei. Jede Person, die sich mit einer E-Mail-Adresse Ihrer Organisation bei Skribble registriert (z.B. erika.mustermann@ihrunternehmen.com) und Mitglied Ihres Business-Kontos ist, kann ohne weitere Massnahmen mit FES signieren. 
 {{% /markdown %}}
 {{< /content >}}
 
@@ -58,13 +58,13 @@ Bei FES für Business schaltet Ihre Firmen-Domäne (z.B. ihrefirma.com) das Sign
 
 {{< content top=8 bottom=6 width=narrow >}}
 {{% markdown %}}
-FES für Business können Sie direkt in Ihrem Skribble Business-Konto beantragen. Wir werden von Ihnen folgende Informationen brauchen:
+FES für Business können Sie direkt in Ihrem Skribble Business-Konto beantragen. Für die Freischaltung werden wir folgende Informationen zu Ihrem Unternehmen brauchen:
 
-- Domäne, die die FES freischalten soll (z.B. ihrefirma.com)
-- Handelsregisternummer Ihrer Organisation
-- Name und E-Mail-Adresse einer Ansprechperson innerhalb Ihrer Organisation
+- Domäne (z.B. ihrunternehmen.com)
+- Handelsregisternummer
+- Name und E-Mail-Adresse einer Ansprechperson
 
-Können wir die Angaben verifizieren, wird FES für Business innerhalb von 1 bis 2 Wochen aktiviert und ist einsatzbereit.
+Können wir die Angaben verifizieren, wird FES für Business innerhalb von 1-2 Wochen aktiviert und ist einsatzbereit. 
 {{% /markdown %}}
 {{< /content >}}
 
@@ -72,7 +72,7 @@ Können wir die Angaben verifizieren, wird FES für Business innerhalb von 1 bis
 
 {{< content text=center top=16 bottom=4 width=narrow >}}
 {{% markdown %}}
-## FES: Breit einsetzbarer Signatur-Standard
+## FES: Breit einsetzbarer E-Signatur-Standard
 {{% /markdown %}}
 {{< /content >}}
 
@@ -125,7 +125,7 @@ Können wir die Angaben verifizieren, wird FES für Business innerhalb von 1 bis
 
 {{< content width=narrow >}}
 {{% markdown %}}
-Das Gesetz unterscheidet zwischen der qualifizierten E-Signatur (QES) und der fortgeschrittenen E-Signatur (FES). Die beiden Standards variieren punkto Einsatzgebiet und Beweiskraft. Die FES ist bei allen Verträgen rechtsgültig, bei denen das Gesetz keine spezielle Form vorschreibt. Zu dieser Kategorie gehören der Grossteil aller Vertragsarten – von Kaufverträgen über Mietverträge bis Hypotheken.
+Das Gesetz unterscheidet zwischen der qualifizierten E-Signatur (QES), der fortgeschrittenen E-Signatur (FES) und der einfachen E-Signatur (EES). Die drei Standards variieren punkto Einsatzgebiet und Beweiskraft. Die FES ist bei allen Verträgen rechtsgültig, bei denen das Gesetz keine spezielle Form vorschreibt. Zu dieser Kategorie gehören der Grossteil aller Vertragsarten – von Kaufverträgen über einfache Arbeitsverträge bis hin zu Offerten. 
 {{% /markdown %}}
 {{< /content >}}
 
@@ -141,7 +141,7 @@ Das Gesetz unterscheidet zwischen der qualifizierten E-Signatur (QES) und der fo
 
 {{< content top=8 bottom=6 width=narrow >}}
 {{% markdown %}}
-Skribbles Signatur-Plattform ist so konzipiert, dass neue Signierende ohne Erklärungsbedarf loslegen können. Signieren kann man über jedes Endgerät online auf Skribble.com. Alternativ binden Sie Skribble an Ihre bestehenden Systeme an (via API). So können Mitarbeitende direkt aus der gewohnten Software heraus signieren.
+Die E-Signatur-Plattform von Skribble ist so konzipiert, dass neue Signierende ohne Erklärungsbedarf loslegen können. Signieren ist über jedes Endgerät online auf my.skribble.com möglich. Alternativ binden Sie Skribble an Ihre bestehenden Systeme an (via API). So können Mitarbeitende direkt aus der gewohnten Software heraus signieren.
 {{% /markdown %}}
 {{< /content >}}
 
@@ -159,7 +159,7 @@ Die wichtigsten Fragen und Antworten
 
 {{< content top=6 width=narrow >}}
 {{% collapsible 1 "Muss ich alle meine Mitarbeitenden manuell für das Signieren identifizieren?" %}}
-Nein. Die Firmen-E-Mail-Adresse dient als Identifikationsmittel: Jede Person in Ihrem Business-Konto mit einer solchen Adresse kann mit FES signieren. Voraussetzung ist, dass Ihre Organisation den Pass oder die Identitätskarte der Mitarbeitenden einmalig geprüft hat (z.B. im Anstellungsprozess).
+Nein. Die Unternehmens-E-Mail-Adresse dient der Identifikation. Jedes Mitglied Ihres Business-Kontos mit einer solchen Adresse kann mit FES signieren. Voraussetzung ist, dass Ihre Organisation den Pass oder die Identitätskarte der Mitarbeitenden einmalig geprüft hat (z.B. im Einstellungsprozess).
 {{% /collapsible %}}
 
 {{% collapsible 2 "In welchen Ländern kann ich FES für Business einsetzen?" %}}
@@ -167,10 +167,10 @@ FES für Business kann global eingesetzt werden.
 {{% /collapsible %}}
 
 {{% collapsible 3 "Welche Verträge kann ich mit FES signieren?" %}}
-Die fortgeschrittene elektronische Signatur (FES) ist bei allen Verträgen rechtsgültig, bei denen das Gesetz keine spezielle Form vorschreibt – von Kauf- und Mietverträgen über Hypotheken bis hin zu Steuererklärungen.
+Die fortgeschrittene elektronische Signatur (FES) ist bei allen Verträgen rechtsgültig, bei denen das Gesetz keine spezielle Form vorschreibt. Mehr Informationen zum Einsatz der FES finden Sie auf https://www.skribble.com/de/signaturstandards/. 
 {{% /collapsible %}}
 
-{{% collapsible 4 "Kann ich FES und QES in meiner Firma kombinieren?" %}}
+{{% collapsible 4 "Kann ich FES und QES in meinem Unternehmen kombinieren?" %}}
 Ja. Mitarbeitende, die auf QES-Level signieren sollen, durchlaufen dafür einen zusätzlichen Identifikationsprozess. Mehr Informationen dazu unter https://www.skribble.com/de/identifikation/
 {{% /collapsible %}}
 
@@ -178,16 +178,12 @@ Ja. Mitarbeitende, die auf QES-Level signieren sollen, durchlaufen dafür einen 
 Mit einem zusätzlichen Prüfschritt ist das grundsätzlich möglich. Kontaktieren Sie uns für eine individuelle Abklärung.
 {{% /collapsible %}}
 
-{{% collapsible 6 "Wer ist der Zertifizierungsanbieter?" %}}
-Die Signaturzertifikate, auf denen die FES für Business von Skribble  basiert, stammen von GMO GlobalSign, einer europäischen Zertifizierungsstelle und Identitätsmanagement-Firma.
+{{% collapsible 6 "Wer ist der Zertifikatsanbieter?" %}}
+Die Signaturzertifikate, auf denen die FES für Business von Skribble basiert, stammen von GMO GlobalSign, einer europäischen Zertifizierungsstelle. 
 {{% /collapsible %}}
 
-{{% collapsible 7 "Brauche ich ein Business-Konto, um FES für Business nutzen zu können?" %}}
-Ja. Das Angebot steht exklusiv Skribble Business-Kunden zur Verfügung.
-{{% /collapsible %}}
-
-{{% collapsible 8 "Ist die Firmen-E-Mail-Adresse die einzige Identifikationsmethode für FES?" %}}
-Nein. Die FES wird auch freigeschaltet, wenn sich jemand mit einer Schweizer Mobiltelefonnummer anmeldet. Diese Lösung ist unabhängig von FES für Business und basiert auf einer Zusammenarbeit mit der Firma Swisscom.
+{{% collapsible 7 "Ist die Unternehmens-E-Mail-Adresse die einzige Identifikationsmethode für FES?" %}}
+Nein. Es gibt verschiedene Identifikationsoptionen für das Signieren mit FES. Mehr Informationen dazu finden Sie unter https://www.skribble.com/de/identifikation/. 
 {{% /collapsible %}}
 {{< /content >}}
 
