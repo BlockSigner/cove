@@ -42,7 +42,7 @@ Einführung mit wenigen Klicks**
 
 {{< content top=4 bottom=6 width=narrow >}}
 {{% markdown %}}
-Bei FES für Business schaltet Ihre Unternehmens-Domäne (z.B. ihrunternehmen.com) das Signieren frei. Jede Person, die sich mit einer E-Mail-Adresse Ihrer Organisation bei Skribble registriert (z.B. erika.mustermann@ihrunternehmen.com) und Mitglied Ihres Business-Kontos ist, kann ohne weitere Massnahmen mit FES signieren. 
+Bei FES für Business schaltet Ihre Unternehmens-Domäne (z.B. ihrunternehmen.com) das Signieren frei. Jede Person, die sich mit einer E-Mail-Adresse Ihrer Organisation bei Skribble registriert (z.B. erika.muster@ihrunternehmen.com) und Mitglied Ihres Skribble Business ist, kann ohne weitere Massnahmen mit FES signieren. 
 {{% /markdown %}}
 {{< /content >}}
 
@@ -58,13 +58,13 @@ Bei FES für Business schaltet Ihre Unternehmens-Domäne (z.B. ihrunternehmen.co
 
 {{< content top=8 bottom=6 width=narrow >}}
 {{% markdown %}}
-FES für Business können Sie direkt in Ihrem Skribble Business-Konto beantragen. Für die Freischaltung werden wir folgende Informationen zu Ihrem Unternehmen brauchen:
+FES für Business können Sie direkt in Ihrem Skribble Business beantragen. Für die Freischaltung werden wir folgende Informationen zu Ihrem Unternehmen brauchen:
 
 - Domäne (z.B. ihrunternehmen.com)
 - Handelsregisternummer
 - Name und E-Mail-Adresse einer Ansprechperson
 
-Können wir die Angaben verifizieren, wird FES für Business innerhalb von 1-2 Wochen aktiviert und ist einsatzbereit. 
+Können wir die Angaben verifizieren, wird FES für Business innerhalb von 1-2 Wochen feigeschaltet. 
 {{% /markdown %}}
 {{< /content >}}
 
