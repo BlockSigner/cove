@@ -179,7 +179,7 @@ This is generally possible with an additional check required during registration
 The certificates used for AES for Business are from GMO GlobalSign, Ltd, a European Certification Authority and Identity Management Company. 
 {{% /collapsible %}}
 
-{{% collapsible 8 "Is the company email address the only method of identification for AES?" %}}
+{{% collapsible 7 "Is the company email address the only method of identification for AES?" %}}
 No. There are various ID identification options available for signing with AES. More information can be found at https://www.skribble.com/identification/.
 {{% /collapsible %}}
 {{< /content >}}
