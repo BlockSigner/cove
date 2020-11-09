@@ -41,7 +41,7 @@ Permettez à l'ensemble de votre personnel de signer avec la signature électron
 
 {{< content top=4 bottom=6 width=narrow >}}
 {{% markdown %}}
-Avec SEA for Business, le domaine de votre entreprise (par ex. votreentreprise.com) permet la signature. Toute personne qui s'inscrit sur Skribble (par exemple john.smith @ votreentreprise.com) avec une adresse e-mail de votre organisation et qui est membre de votre compte Business peut signer avec SEA sans autre mesure.
+Avec SEA for Business, le domaine de votre entreprise (par ex. votreentreprise.com) permet la signature. Toute personne qui s'inscrit sur Skribble (par exemple john.smith @ votreentreprise.com) avec une adresse e-mail de votre organisation et qui est membre de votre Skribble Business peut signer avec SEA sans autre mesure.
 {{% /markdown %}}
 {{< /content >}}
 
@@ -57,7 +57,7 @@ Avec SEA for Business, le domaine de votre entreprise (par ex. votreentreprise.c
 
 {{< content top=8 bottom=6 width=narrow >}}
 {{% markdown %}}
-Vous pouvez faire une demande de SEA pour Business directement depuis votre compte Skribble Business. Nous aurons besoin des informations suivantes de votre part:
+Vous pouvez faire une demande de SEA pour Business directement depuis votre Skribble Business. Nous aurons besoin des informations suivantes de votre part:
 
 - Domaine qui doit permettre de signer avec AES (par ex. votreentreprise.com)
 - Numéro de registre du commerce de votre organisation
@@ -159,7 +159,7 @@ Les questions et réponses les plus importantes
 
 {{< content top=6 width=narrow >}}
 {{% collapsible 1 "Dois-je identifier manuellement tous mes employés pour leur permettre de signer?" %}}
-Non. L'adresse e-mail de l'entreprise sert de moyen d'identification: toute personne de votre compte Business ayant une adresse e-mail de votre organisation peut signer avec la SEA. La condition préalable est que votre organisation ait vérifié une fois le passeport ou la carte d'identité des employés (par exemple lors du processus d'embauche).
+Non. L'adresse e-mail de l'entreprise sert de moyen d'identification: toute personne de votre Skribble Business ayant une adresse e-mail de votre organisation peut signer avec la SEA. La condition préalable est que votre organisation ait vérifié une fois le passeport ou la carte d'identité des employés (par exemple lors du processus d'embauche).
 {{% /collapsible %}}
 
 {{% collapsible 2 "Dans quels pays puis-je utiliser SEA pour Business?" %}}
