@@ -159,7 +159,7 @@ Die wichtigsten Fragen und Antworten
 
 {{< content top=6 width=narrow >}}
 {{% collapsible 1 "Muss ich alle meine Mitarbeitenden manuell für das Signieren identifizieren?" %}}
-Nein. Die Unternehmens-E-Mail-Adresse dient der Identifikation. Jedes Mitglied Ihres Business-Kontos mit einer solchen Adresse kann mit FES signieren. Voraussetzung ist, dass Ihre Organisation den Pass oder die Identitätskarte der Mitarbeitenden einmalig geprüft hat (z.B. im Einstellungsprozess).
+Nein. Die Unternehmens-E-Mail-Adresse dient der Identifikation. Jedes Mitglied Ihres Skribble Business mit einer solchen Adresse kann mit FES signieren. Voraussetzung ist, dass Ihre Organisation den Pass oder die Identitätskarte der Mitarbeitenden einmalig geprüft hat (z.B. im Einstellungsprozess).
 {{% /collapsible %}}
 
 {{% collapsible 2 "In welchen Ländern kann ich FES für Business einsetzen?" %}}
