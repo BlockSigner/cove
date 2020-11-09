@@ -20,7 +20,7 @@ Enable your entire staff to sign electronically with the advanced electronic sig
 
 {{< cta
   label="Download Factsheet"
-  href="https://cdn2.hubspot.net/hubfs/5051692/Factstheets/Identification/English/Skribble_Identification_Organization_AES_EN.pdf"
+  href="https://cdn2.hubspot.net/hubfs/5051692/Factstheets/Identification/English/AES_for_Business_Onboarding_EN.pdf"
   target="_blank"
   outlined="true"
 >}}
