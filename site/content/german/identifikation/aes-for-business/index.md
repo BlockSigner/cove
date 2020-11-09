@@ -20,7 +20,7 @@ Ihre gesamte Mitarbeiterschaft kann innerhalb kürzester Zeit mit der fortgeschr
 
 {{< cta
   label="Download Factsheet"
-  href="https://cdn2.hubspot.net/hubfs/5051692/Factstheets/Identification/Deutsch/Skribble_Identification_Organisation_FES.pdf"
+  href="https://cdn2.hubspot.net/hubfs/5051692/Factstheets/Identification/Deutsch/FES_für_Business_Onboarding_DE.pdf"
   target="_blank"
   outlined="true"
 >}}
