@@ -42,7 +42,7 @@ implementation with just a few clicks**
 
 {{< content top=4 bottom=6 width=narrow >}}
 {{% markdown %}}
-With AES for Business, your company domain (e.g. yourcompany.com) is used to enable signing with AES. Anyone who registers with Skribble using a company e-mail address (e.g. john.smith@yourcompany.com) and is a member of your Business account can sign with AES without any further action.
+With AES for Business, your company domain (e.g. yourcompany.com) is used to enable signing with AES. Anyone who registers with Skribble using a company e-mail address (e.g. john.smith@yourcompany.com) and is a member of your Skribble Business can sign with AES without any further action.
 {{% /markdown %}}
 {{< /content >}}
 
@@ -58,7 +58,7 @@ With AES for Business, your company domain (e.g. yourcompany.com) is used to ena
 
 {{< content top=8 bottom=6 width=narrow >}}
 {{% markdown %}}
-You can request AES for Business directly in your Skribble Business account. We will need the following information to unlock AES for Business for your company:
+You can request AES for Business directly in your Skribble Business. We will need the following information to unlock AES for Business for your company:
 - Domain (e.g. yourcompany.com)
 - Trade register number
 - Name and e-mail address of a contact person
@@ -179,7 +179,7 @@ This is generally possible with an additional check required during registration
 The certificates used for AES for Business are from GMO GlobalSign, Ltd, a European Certification Authority and Identity Management Company. 
 {{% /collapsible %}}
 
-{{% collapsible 7 "Is the company email address the only method of identification for AES?" %}}
+{{% collapsible 7 "Is the company e-mail address the only method of identification for AES?" %}}
 No. There are various ID identification options available for signing with AES. More information can be found at https://www.skribble.com/identification/.
 {{% /collapsible %}}
 {{< /content >}}
