@@ -20,7 +20,7 @@ Permettez à l'ensemble de votre personnel de signer avec la signature électron
 
 {{< cta
   label="Télécharger factsheet"
-  href="https://cdn2.hubspot.net/hubfs/5051692/Factstheets/Identification/Fran%C3%A7ais/Skribble_Identification_Organisation_SEA_FR.pdf"
+  href="https://cdn2.hubspot.net/hubfs/5051692/Factstheets/Identification/Fran%C3%A7ais/SEA_pour_Business_Onboarding_FR.pdf"
   target="_blank"
   outlined="true"
 >}}
