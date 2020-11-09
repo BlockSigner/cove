@@ -1,6 +1,6 @@
 ---
-title: Advanced electronic signature (AES) for business
-description: Organisation-wide implementation within just a few days. Enable your entire staff to sign with the advanced electronic signature.
+title: Advanced electronic signature (AES) for Business
+description: Enable your entire staff to sign electronically with the advanced electronic signature in a breeze.
 type: default
 slug: aes-for-business
 translationKey: identification-aes-for-business
@@ -11,8 +11,8 @@ og_image: og/og-skribble-aes-for-business.jpg
 
 {{< content text=center top=16 bottom=4 width=narrow >}}
 {{% markdown %}}
-# AES for Business: Organisation-wide implementation within just a few days
-Enable your entire staff to sign with the advanced electronic signature.
+# AES for Business: Organisation-wide implementation with just a few clicks
+Enable your entire staff to sign electronically with the advanced electronic signature in a breeze.
 {{% /markdown %}}
 {{< /content >}}
 
@@ -26,7 +26,7 @@ Enable your entire staff to sign with the advanced electronic signature.
 >}}
 {{% markdown %}}
 **AES for Business - Organisation-wide
-implementation with a few clicks**
+implementation with just a few clicks**
 {{% /markdown %}}
 {{< /cta >}}
 
@@ -34,7 +34,7 @@ implementation with a few clicks**
 
 {{< content text=center top=16 bottom=4 width=narrow >}}
 {{% markdown %}}
-## Company e-mail address as identification element
+## Use your company e-mail address to unlock AES
 {{% /markdown %}}
 {{< /content >}}
 
@@ -42,10 +42,7 @@ implementation with a few clicks**
 
 {{< content top=4 bottom=6 width=narrow >}}
 {{% markdown %}}
-With AES for Business, your company domain (e.g. yourcompany.com)
-enables signing. Anyone who registers with Skribble using an e-mail address
-from your organisation (e.g. jsmith@yourcompany.com) and is a member
-of your Business account can sign with AES without any further action.
+With AES for Business, your company domain (e.g. yourcompany.com) is used to enable signing with AES. Anyone who registers with Skribble using a company e-mail address (e.g. john.smith@yourcompany.com) and is a member of your Business account can sign with AES without any further action.
 {{% /markdown %}}
 {{< /content >}}
 
@@ -61,12 +58,12 @@ of your Business account can sign with AES without any further action.
 
 {{< content top=8 bottom=6 width=narrow >}}
 {{% markdown %}}
-You can register for AES for Business directly in your Skribble Business account. We will need the following information from you:
-- Domain which should enable signing with AES (e.g. yourcompany.com)
-- Trade register number of your organisation
-- Name and e-mail address of an internal contact person
+You can request AES for Business directly in your Skribble Business account. We will need the following information to unlock AES for Business for your company:
+- Domain (e.g. yourcompany.com)
+- Trade register number
+- Name and e-mail address of a contact person
 
-If we can verify the information, AES for Business will be activated and ready for use within 1 to 2 weeks.
+If we can verify the information, AES for Business will be activated and ready for use within 1 to 2 weeks. 
 {{% /markdown %}}
 {{< /content >}}
 
@@ -74,7 +71,7 @@ If we can verify the information, AES for Business will be activated and ready f
 
 {{< content text=center top=16 bottom=4 width=narrow >}}
 {{% markdown %}}
-## AES: Widely applicable signature standard
+## AES: Widely used signature standard
 {{% /markdown %}}
 {{< /content >}}
 
@@ -125,7 +122,7 @@ If we can verify the information, AES for Business will be activated and ready f
 
 {{< content width=narrow >}}
 {{% markdown %}}
-The law distinguishes between qualified electronic signatures (QES) and advanced electronic signatures (AES). The two standards vary in terms of area of application and legal weight. The advanced electronic signature (AES) is legally valid for contracts where the law does not prescribe a specific form. This applies to most types of contracts, such as rental, purchase or mortgage agreements.
+The law distinguishes between the qualified electronic signature (QES), the advanced electronic signature (AES) and the simple electronic signature (SES). The advanced electronic signature (AES) is legally valid for contracts where the law does not require a specific form. This applies to most types of contracts, such as sales contracts or purchase agreements.
 {{% /markdown %}}
 {{< /content >}}
 
@@ -141,7 +138,7 @@ The law distinguishes between qualified electronic signatures (QES) and advanced
 
 {{< content top=8 bottom=6 width=narrow >}}
 {{% markdown %}}
-Skribble's signing platform is designed so that new employees can get started without the need for explanation. Signing can be done via a browser from any device online at Skribble.com. Alternatively, you can connect Skribble to your existing systems (via API). This allows employees to sign directly from your usual software.
+Skribble's e-signing platform is so easy to use that new employees can get started without any further explanation. Signing can be done via a browser from any device online at my.skribble.com. Alternatively, you can connect Skribble to your existing systems (via API). This allows your employees to sign directly from the software they are used to.
 {{% /markdown %}}
 {{< /content >}}
 
@@ -151,7 +148,7 @@ Skribble's signing platform is designed so that new employees can get started wi
 {{< content top=20 text=center width=narrow >}}
 {{% markdown %}}
 ## AES for Business
-The most important questions & answers
+Frequently Asked Questions
 {{% /markdown %}}
 {{< /content >}}
 
@@ -159,7 +156,7 @@ The most important questions & answers
 
 {{< content top=6 width=narrow >}}
 {{% collapsible 1 "Do I have to manually identify all my employees to enable them to sign?" %}}
-No. The company e-mail address serves as a means of identification. Any person in your Business account with such an address can sign with AES. The prerequisite is that your organisation has checked the passport or identity card of the employees once (e.g. during the hiring process).
+No. Employees are identified by the company e-mail address. Anyone who registers with Skribble using your company e-mail address and is a member of your Business account can sign with AES. The prerequisite is that your organisation has once checked the passport or identity card of the employees (e.g. during the hiring process).
 {{% /collapsible %}}
 
 {{% collapsible 2 "In which countries can I use AES for Business?" %}}
@@ -167,27 +164,23 @@ AES for Business can be used globally.
 {{% /collapsible %}}
 
 {{% collapsible 3 "Which contracts can I sign with AES?" %}}
-The advanced electronic signature (AES) is legally valid for all contracts for which the law does not prescribe a specific form, such as rental, purchase or mortgage agreements.
+The advanced electronic signature (AES) is legally valid for contracts where the law does not require a specific form. More information can be found at https://www.skribble.com/signaturestandards/. 
 {{% /collapsible %}}
 
 {{% collapsible 4 "Can I combine AES and QES in my company?" %}}
-Yes, the persons who are to sign at QES level go through an additional identification process. More information is available at https://www.skribble.com/identification/
+Yes. Employees who need to sign at QES level will have to go through an additional identification process. More information can be found at https://www.skribble.com/identification/.
 {{% /collapsible %}}
 
-{{% collapsible 5 "Can I use AES for Business if my organisation is not listed in the trade register?" %}}
-This is generally possible with an additional check required during registration. Contact us for an individual evaluation.
+{{% collapsible 5 "Can I use AES for Business if my organisation is not listed in the commercial register?" %}}
+This is generally possible with an additional check required during registration. Please contact us for more information.
 {{% /collapsible %}}
 
 {{% collapsible 6 "Who is the certificate provider?" %}}
-The signature certificates on which Skribble’s AES for Business is based are from GMO GlobalSign, Ltd, a European Certification Authority and Identity Management Company.
-{{% /collapsible %}}
-
-{{% collapsible 7 "Do I need a Business Account to use AES for Business?" %}}
-Yes, this offer is exclusively available to Skribble Business customers.
+The certificates used for AES for Business are from GMO GlobalSign, Ltd, a European Certification Authority and Identity Management Company. 
 {{% /collapsible %}}
 
 {{% collapsible 8 "Is the company email address the only method of identification for AES?" %}}
-No. AES can also be activated using a Swiss mobile phone number. This second solution is independent of AES for Business and is based on a collaboration with Swisscom.
+No. There are various ID identification options available for signing with AES. More information can be found at https://www.skribble.com/identification/.
 {{% /collapsible %}}
 {{< /content >}}
 
