@@ -156,7 +156,7 @@ Frequently Asked Questions
 
 {{< content top=6 width=narrow >}}
 {{% collapsible 1 "Do I have to manually identify all my employees to enable them to sign?" %}}
-No. Employees are identified by the company e-mail address. Anyone who registers with Skribble using your company e-mail address and is a member of your Business account can sign with AES. The prerequisite is that your organisation has once checked the passport or identity card of the employees (e.g. during the hiring process).
+No. Employees are identified by the company e-mail address. Anyone who registers with Skribble using your company e-mail address and is a member of your Skribble Business can sign with AES. The prerequisite is that your organisation has once checked the passport or identity card of the employees (e.g. during the hiring process).
 {{% /collapsible %}}
 
 {{% collapsible 2 "In which countries can I use AES for Business?" %}}
