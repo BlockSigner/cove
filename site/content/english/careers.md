@@ -35,7 +35,7 @@ and to develop Skribble and yourself.
 
 {{< cta
   label="More info"
-  href="/careers/395/sales-Development-representative/"
+  href="/careers/856/partnership-management/"
   target=""
   outlined="true"
 >}}
@@ -47,7 +47,7 @@ and to develop Skribble and yourself.
 
 {{< cta
   label="More info"
-  href="/careers/856/partnership-management/"
+  href="/careers/395/sales-Development-representative/"
   target=""
   outlined="true"
 >}}
