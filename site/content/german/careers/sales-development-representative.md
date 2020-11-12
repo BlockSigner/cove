@@ -76,7 +76,7 @@ Wir freuen uns auf Deine Bewerbung und Deinen CV.
 {{< content text=center top=6 >}}
 {{< button
   "Jetzt bewerben"
-  "https://forms.gle/MRQxZbw8DusZ5zT37"
+  "https://app.beapplied.com/apply/oxmiqyhuku"
   "_blank"
   ""
 >}}
