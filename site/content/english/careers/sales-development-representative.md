@@ -63,6 +63,7 @@ You are the first, fantastic contact our future customers will have with Skribbl
 - Flexibility in the organisation of your working time, place of work and your devices
 - Office in the heart of Zurich within 2 mins walking distance from the lake
 
+
 Our Head of People, Johanna, is happy to answer your questions: johanna@skribble.com
 
 {{% /markdown %}}
