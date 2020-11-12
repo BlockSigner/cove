@@ -35,7 +35,6 @@ Job-Beschreibung in Englisch
 {{< /cta >}}
 
 {{< cta
-  title="Offene Stellen"
   label="Mehr Infos"
   href="/de/karriere/856/senior-success-manager/"
   target=""
