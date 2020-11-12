@@ -75,7 +75,7 @@ Nous attendons avec impatience votre candidature et votre CV.
 {{< content text=center top=4 >}}
 {{< button
   "Postulez maintenant"
-  "https://forms.gle/MRQxZbw8DusZ5zT37"
+  "https://app.beapplied.com/apply/oxmiqyhuku"
   "_blank"
   ""
 >}}
