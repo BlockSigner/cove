@@ -21,10 +21,23 @@ an Herausforderungen zu wachsen und Erfolge gebührend zu feiern.
 
 {{< cta-group >}}
 
+
 {{< cta
   title="Offene Stellen"
   label="Mehr Infos"
-  href="/de/karriere/856/partnership-management/"
+  href="/de/karriere/587/senior-success-manager/"
+  target=""
+  outlined="true"
+>}}
+{{% markdown %}}
+**Senior Success Manager (80-100%), Zürich**
+Job-Beschreibung in Englisch
+{{% /markdown %}}
+{{< /cta >}}
+
+{{< cta
+  label="Mehr Infos"
+  href="/de/karriere/924/partnership-management/"
   target=""
   outlined="true"
 >}}
@@ -34,17 +47,7 @@ Job-Beschreibung in Englisch
 {{% /markdown %}}
 {{< /cta >}}
 
-{{< cta
-  label="Mehr Infos"
-  href="/de/karriere/856/senior-success-manager/"
-  target=""
-  outlined="true"
->}}
-{{% markdown %}}
-**Senior Success Manager (80-100%), Zürich**
-Job-Beschreibung in Englisch
-{{% /markdown %}}
-{{< /cta >}}
+
 
 {{< cta
   label="Mehr Infos"

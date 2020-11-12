@@ -37,7 +37,7 @@ et de développer Skribble et toi-même.
 
 {{< cta
   label="Plus d'info"
-  href="/fr/carriere/856/partnership-management/"
+  href="/fr/carriere/924/partnership-management/"
   target=""
   outlined="true"
 >}}

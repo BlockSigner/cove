@@ -2,7 +2,7 @@
 title: Your career at Skribble
 description: Mit Skribble werden Signaturprozesse 100% digital abgewickelt, basierend auf der qualifizierten elektronischen Signatur “QES” - die e-Unterschrift, die vor Schweizer und EU Gesetz der handschriftlichen Unterschrift gleichgestellt ist.
 draft: false
-url: /careers/856/partnership-management/
+url: /de/karriere/924/partnership-management/
 # opengraph image (for facebook and twitter)
 og_image: og/og-skribble-career.jpg
 
