@@ -72,7 +72,7 @@ Nous attendons avec impatience votre candidature et votre CV.
 {{< content text=center top=4 >}}
 {{< button
   "Postulez maintenant"
-  "https://diversify.typeform.com/to/oTmhoA"
+  "https://app.beapplied.com/apply/jmu5yg4dvr"
   "_blank"
   ""
 >}}
