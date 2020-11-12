@@ -71,7 +71,7 @@ We look forward to receiving your application and your CV.
 {{< content text=center top=6 >}}
 {{< button
   "Apply now"
-  "https://diversify.typeform.com/to/oTmhoA"
+  "https://app.beapplied.com/apply/jmu5yg4dvr"
   "_blank"
   ""
 >}}
