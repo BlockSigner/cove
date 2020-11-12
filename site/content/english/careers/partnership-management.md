@@ -2,7 +2,7 @@
 title: Your career at Skribble
 description: With Skribble signature processes are 100% digital, based on the qualified electronic signature “QES” - the e-signature, which is equivalent to your hand-written signature according to Swiss and EU law.
 draft: false
-url: /careers/856/partnership-management/
+url: /careers/856/partnership-management
 # opengraph image (for facebook and twitter)
 og_image: og/og-skribble-career.jpg
 
@@ -71,7 +71,7 @@ We look forward to receiving your application and your CV.
 {{< content text=center top=6 >}}
 {{< button
   "Apply now"
-  "https://app.beapplied.com/apply/jmu5yg4dvr"
+  "https://forms.gle/MRQxZbw8DusZ5zT37"
   "_blank"
   ""
 >}}
