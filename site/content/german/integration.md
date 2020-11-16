@@ -111,7 +111,7 @@ In Ihrem Skribble Business Konto erstellen Sie einfach einen Demo-Schlüssel.
 {{< cta-group >}}
 {{< cta
   label="API-Dokumentation"
-  href="https://doc.skribble.com/"
+  href="https://api-doc.skribble.com/"
   outlined="true"
   target="_blank"
 >}}

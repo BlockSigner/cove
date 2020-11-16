@@ -112,7 +112,7 @@ You can create a demo key in your Skribble Business account.
 {{< cta-group >}}
 {{< cta
   label="API documentation"
-  href="https://doc.skribble.com/"
+  href="https://api-doc.skribble.com/"
   outlined="true"
   target="_blank"
 >}}

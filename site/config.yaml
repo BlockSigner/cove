@@ -155,7 +155,7 @@ languages:
           url: https://help.skribble.com/deutsch
           weight: 10
         - name: API-Ressource
-          url: https://doc.skribble.com/
+          url: https://api-doc.skribble.com/
           weight: 15
         - name: Signaturstandards
           url: /de/signaturstandards/
@@ -379,7 +379,7 @@ languages:
           url: https://help.skribble.com/english
           weight: 10
         - name: API resource
-          url: https://doc.skribble.com/
+          url: https://api-doc.skribble.com/
           weight: 15
         - name: Signature standards
           url: /signaturestandards/
@@ -592,7 +592,7 @@ languages:
           url: https://help.skribble.com/francais
           weight: 10
         - name: API Ressource
-          url: https://doc.skribble.com/
+          url: https://api-doc.skribble.com/
           weight: 15
         - name: Normes de signature
           url: /fr/normessignature/
