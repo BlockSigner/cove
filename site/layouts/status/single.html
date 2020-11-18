@@ -2,9 +2,9 @@
 {{ block "header" . }}{{ partial "header" . }}{{end}}
 <!-- wide page template -->
 <div class="wrapper">
-
+  
   <main class="main main--status">
-
+    
     <div class="content">
       <div class="skr-container is-narrow pt-16 text-center">
         <div data-status-loading class="status__loading">Loading...</div>
@@ -17,7 +17,7 @@
         </div>
       </div>
     </div>
-
+    
     <div class="content">
       <div class="skr-container pt-10 pb-8">
         <table data-status data-status-list class="status-block status-list"></table>
@@ -44,13 +44,13 @@
         </div>
       </div>
     </div>
-
+    
     <div class="status-schedule" id="schedule-block">
       <div class="content">
         <div class="skr-container pt-4 pb-4" id="schedule-list"></div>
       </div>
     </div>
-
+    
     <div class="content">
       <div class="skr-container pt-4 pb-4">
         <div class="status-history" id="incidents-list">
@@ -61,64 +61,62 @@
         </div>
       </div>
     </div>
-
+    
     <script>
       const statusApi = "https://status.skribble.info/api/v1/";
       const dateformat = { year: 'numeric', month: '2-digit', day: '2-digit', hour: '2-digit', minute: '2-digit' };
-
-      function generateComponentStatus() {
-        var componentRequest = new XMLHttpRequest();
-        componentRequest.onload = function () {
-          if (componentRequest.status >= 200 && componentRequest.status < 300) {
-            showComponentStatus(componentRequest.responseText);
-
-            // Remove Loading... and show current status
-            document.querySelectorAll('[data-status-loading]')[0].remove();
-            document.querySelectorAll('[data-status]').forEach((el) => {
-              el.classList.add('show');
-            });
-          } else {
-            console.log("The ComponentRequest failed!");
-          }
-        };
-        componentRequest.open("GET", statusApi + "components");
-        componentRequest.send();
+      
+      var overallStatus = 1;
+      
+      async function generateComponentStatus() {
+        const componentRequest = await fetch(statusApi + "components");
+        
+        if(!componentRequest.ok){
+          console.log("The ComponentRequest failed!");
+          return
+        }
+        
+        showComponentStatus(await componentRequest.json());
+        
+        // Remove Loading... and show current status
+        document.querySelectorAll('[data-status-loading]')[0].remove();
+        document.querySelectorAll('[data-status]').forEach((el) => {
+          el.classList.add('show');
+        });    
       }
-
-      function showComponentStatus(statusJsonText) {
-        let statusResult = JSON.parse(statusJsonText);
-        let overallStatus = 1;
-        statusResult.data.forEach((component) => {
-          createComponentListEntry(component.name, component.status);
+      
+      function showComponentStatus(statusResult) {
+        statusResult.data.forEach((component) => {          
+          createComponentListEntry(component.name, (overallStatus == 0) ? 0 : component.status);
           
           switch (component.status) {
             case 0:
-              if (overallStatus < 3)
-                overallStatus = 0
-              break
+            if (overallStatus < 3)
+            overallStatus = 0
+            break
             case 2:
             case 3:
-              if (overallStatus < 4)
-                overallStatus = 3
-              break
+            if (overallStatus < 4)
+            overallStatus = 3
+            break
             case 4:
-              overallStatus = 4
-              break
+            overallStatus = 4
+            break
           }
         });
-        createHeaderForOverallStatus(overallStatus);
+        createHeaderForOverallStatus();
       }
-
-
-      function createHeaderForOverallStatus(overallStatus) {
+      
+      
+      function createHeaderForOverallStatus() {
         let image = document.getElementById("status-header-image");
         let title = document.getElementById("status-header-title");
         let text = document.getElementById("status-header-text");
-
+        
         if (overallStatus === 0) {
           image.src = "status-maintenance-large.svg";
-          title.textContent = "Limited service due to scheduled maintenance";
-          text.innerHTML = "Our technology partner Swisscom is carrying out maintenance work from 10 am to 12 noon. This can lead to service interruptions when signing. We apologise for any inconvenience caused.";
+          title.textContent = "Scheduled maintenance";
+          text.innerHTML = "Skribble or one of our technology partners is carrying out maintenance work. This can lead to service interruptions. We apologise for any inconvenience caused.";
         } else if (overallStatus === 1) {
           image.src = "status-good-large.svg";
           title.textContent = "Skribble is up and running";
@@ -133,200 +131,195 @@
           text.innerHTML = "We are investigating issues with the „signing platform” and will provide updates here soon.";
         }
       }
-
-
+      
+      
       function createComponentListEntry(name, status) {
         let row = document.createElement('tr');
         row.setAttribute('class', 'status-list__row');
-
+        
         let statusMsg, statusImgSrc;
         switch (status) {
           case 0:
-            statusMsg = 'Maintenance'
-            statusImgSrc = 'status-maintenance.svg';
-            break;
+          statusMsg = 'Maintenance'
+          statusImgSrc = 'status-maintenance.svg';
+          break;
           case 1:
-            statusMsg = 'Operational'
-            statusImgSrc = 'status-good.svg';
-            break;
+          statusMsg = 'Operational'
+          statusImgSrc = 'status-good.svg';
+          break;
           case 2:
           case 3:
-            statusMsg = 'Limited service';
-            statusImgSrc = 'status-disrupted.svg';
-            break;
+          statusMsg = 'Limited service';
+          statusImgSrc = 'status-disrupted.svg';
+          break;
           case 4:
-            statusMsg = 'Outage';
-            statusImgSrc = 'status-outage.svg';
-            break;
+          statusMsg = 'Outage';
+          statusImgSrc = 'status-outage.svg';
+          break;
         }
-
+        
         row.innerHTML = `
-          <td class="status-list__column"><strong>${name}</strong></td>
-          <td class="status-list__column">
-            <div class="status-list__status">
-              <strong>${statusMsg}</strong>
-              <img src="${statusImgSrc}" />
-            </div>
-          </td>`;
-
+        <td class="status-list__column"><strong>${name}</strong></td>
+        <td class="status-list__column">
+          <div class="status-list__status">
+            <strong>${statusMsg}</strong>
+            <img src="${statusImgSrc}" />
+          </div>
+        </td>`;
+        
         document.querySelectorAll('[data-status-list]')[0].appendChild(row);
       }
-
-
-      function generateMaintenanceInfo(){
-        var scheduleRequest = new XMLHttpRequest();
-        scheduleRequest.onload = function () {
-          if (scheduleRequest.status >= 200 && scheduleRequest.status < 300) {
-            let today = new Date();
-
-            let scheduleResult = JSON.parse(scheduleRequest.responseText);            
-            scheduleResult.data.forEach((schedule) => {
-              let scheduledAt = new Date(schedule.scheduled_at);
-              let completedAt = new Date(schedule.completed_at);        
-              let fiveDaysBeforeScheduled = new Date();
-              fiveDaysBeforeScheduled.setDate(scheduledAt.getDate() - 5);      
-
-              if ((today >= fiveDaysBeforeScheduled) && (today < completedAt)) {
-                  createMaintenanceListEntry(schedule);
-              }
-            });
-          } else {
-            console.log("The ScheduleRequest failed!");
+      
+      
+      async function generateMaintenanceInfo(){       
+        const scheduleResponse = await fetch(statusApi + "schedules?sort=scheduled_at&order=desc");        
+        if (!scheduleResponse.ok) {
+          console.log("The ScheduleRequest failed!");
+          return;
+        }
+        
+        let today = new Date();               
+        let scheduleResult = await scheduleResponse.json();
+        scheduleResult.data.forEach((schedule) => {
+          let scheduledAt = new Date(schedule.scheduled_at);
+          let completedAt = new Date(schedule.completed_at);        
+          let tenDaysBeforeScheduled = new Date();
+          tenDaysBeforeScheduled.setDate(scheduledAt.getDate() - 10);      
+          
+          if ((today >= tenDaysBeforeScheduled) && (today < completedAt)) {
+            createMaintenanceListEntry(schedule);
           }
-        };
-
-        scheduleRequest.open("GET", statusApi + "schedules?sort=occurred_at&order=desc");
-        scheduleRequest.send();
+          
+          if ((today >= scheduledAt) && (today < completedAt)){
+            overallStatus = 0;
+          }
+        });
       }
-
-
+      
+      
       function createMaintenanceListEntry(schedule) {
         let messageText = (schedule.message).replace(new RegExp('\r?\n', 'g'), '<br />');
         let scheduledAt = new Date(schedule.scheduled_at);
         let completedAt = new Date(schedule.completed_at);   
         let scheduledStr = (scheduledAt.toLocaleDateString("en-GB", dateformat));
         let completedStr = (completedAt.toLocaleDateString("en-GB", dateformat));
-
+        
         let scheduleElem = document.createElement('div');
         scheduleElem.setAttribute('class', 'status-block show');
-
+        
         let tblElem = document.createElement('table');
         tblElem.setAttribute('class', 'status-table');
-
+        
         tblElem.innerHTML = `<tr>
-                                <td class="status-table__td">
-                                  <img class="status-table__header_image" src="info.svg"/><strong class="status-table__header">${schedule.name}</strong>
-                                  <span style="float:right;">${scheduledStr} - ${completedStr}</span>
-                                </td>
-                              </tr>
-                              <tr>
-                                <td class="status-table__td status-table__message">${messageText}</td>
-                              </tr>`;
+          <td class="status-table__td">
+            <img class="status-table__header_image" src="info.svg"/><strong class="status-table__header">${schedule.name}</strong>
+            <span style="float:right;">${scheduledStr} - ${completedStr}</span>
+          </td>
+        </tr>
+        <tr>
+          <td class="status-table__td status-table__message">${messageText}</td>
+        </tr>`;
         scheduleElem.appendChild(tblElem);
         document.getElementById('schedule-list').appendChild(scheduleElem);
         document.getElementById('schedule-block').style.display = "block";
       }
-
-
-      function generateIncidentHistory() {
-        var incidentRequest = new XMLHttpRequest();
-        incidentRequest.onload = function () {
-          if (incidentRequest.status >= 200 && incidentRequest.status < 300) {
-            let incidentResult = JSON.parse(incidentRequest.responseText);
-            let isEmptyHistory = true;
-            incidentResult.data.forEach((incident) => {
-              let occuredAt = new Date(incident.occurred_at);
-              let xDaysAgo = new Date().setDate(new Date().getDate() - 7);
-              if (occuredAt > xDaysAgo) {
-                creatIncidentListEntry(incident);
-                isEmptyHistory = false;
-              }
-            });
-            if (isEmptyHistory) {
-              createEmptyIncidentListInfo();
-            }
-          } else {
-            console.log("The IncidentRequest failed!");
+      
+      
+      async function generateIncidentHistory() {
+        const incidentRequest = await fetch(statusApi + "incidents?sort=occurred_at&order=desc");
+        if(!incidentRequest.ok){
+          console.log("The IncidentRequest failed!");
+          return;
+        }
+        
+        let incidentResult = await incidentRequest.json();
+        let isEmptyHistory = true;
+        incidentResult.data.forEach((incident) => {
+          let occuredAt = new Date(incident.occurred_at);
+          let xDaysAgo = new Date().setDate(new Date().getDate() - 7);
+          if (occuredAt > xDaysAgo) {
+            creatIncidentListEntry(incident);
+            isEmptyHistory = false;
           }
-        };
-
-        incidentRequest.open("GET", statusApi + "incidents?sort=occurred_at&order=desc");
-        incidentRequest.send();
+        });
+        if (isEmptyHistory) {
+          createEmptyIncidentListInfo();
+        }
       }
-
-
+      
+      
       function creatIncidentListEntry(incident) {
         let messageText = (incident.message).replace(new RegExp('\r?\n', 'g'), '<br />');
         let occuredAt = new Date(incident.occurred_at);
         let occuredStr = (occuredAt.toLocaleDateString("en-GB", dateformat));
-
+        
         let incidentElem = document.createElement('div');
         incidentElem.setAttribute('class', 'status-block show');
-
+        
         let tblElem = document.createElement('table');
         tblElem.setAttribute('class', 'status-table');
-
+        
         let statusImgSrc;
         if (incident.status == 4) {
           statusImgSrc = 'status-good.svg';
         } else {
           statusImgSrc = 'status-disrupted.svg';
         }
-
+        
         tblElem.innerHTML = `<tr>
-                                <td class="status-table__td">
-                                  <img class="status-history__img" src="${statusImgSrc}"/><strong class="status-table__header">${incident.name}</strong>
-                                  <span style="float:right;">${occuredStr}</span>
-                                </td>
-                              </tr>
-                              <tr>
-                                <td class="status-table__td status-table__message">${messageText}</td>
-                              </tr>`;
-
+          <td class="status-table__td">
+            <img class="status-history__img" src="${statusImgSrc}"/><strong class="status-table__header">${incident.name}</strong>
+            <span style="float:right;">${occuredStr}</span>
+          </td>
+        </tr>
+        <tr>
+          <td class="status-table__td status-table__message">${messageText}</td>
+        </tr>`;
+        
         incident.updates.forEach((update) => {
           let liUpdate = createIncidentUpdateEntry(update);
           tblElem.appendChild(liUpdate);
         });
-
+        
         incidentElem.appendChild(tblElem);
         document.getElementById('incidents-list').appendChild(incidentElem);
       }
-
-
+      
+      
       function createEmptyIncidentListInfo() {
         let noIncidentElem = document.createElement('div');
         noIncidentElem.setAttribute('class', 'status-block show status-history__block');
         noIncidentElem.innerHTML = `<span style="margin">No incidents occured in the last seven days.</span>`;
         document.getElementById('incidents-list').appendChild(noIncidentElem);
       }
-
-
+      
+      
       function createIncidentUpdateEntry(update) {
         let updatedAt = new Date(update.updated_at);
         let updatedStr = (updatedAt.toLocaleDateString("en-GB", dateformat));
-
+        
         let messageText = (update.message).replace(new RegExp('\r?\n', 'g'), '<br />');
         let liUpdate = document.createElement('tr');
         liUpdate.innerHTML = `<td class="status-table__td status-history__update">
-                                  <strong class="status-table__header">Update: ${update.human_status}</strong>
-                                  <span style="float:right;">${updatedStr}</span><br/>
-                                  ${messageText}
-                                </td>`;
+          <strong class="status-table__header">Update: ${update.human_status}</strong>
+          <span style="float:right;">${updatedStr}</span><br/>
+          ${messageText}
+        </td>`;
         return liUpdate;
       }
-
-
+      
+      
       function toggleHistoryVisibility() {
         let historyElement = document.getElementById("incidents-list");
-
+        
         if (historyElement.style.display == "none" ||
-          historyElement.style.display == "") {
+        historyElement.style.display == "") {
           historyElement.style.display = "block";
         } else {
           historyElement.style.display = "none";
         }
       }
-
+      
       // Show initial Loading... after 700ms
       setTimeout(() => {
         let el;
@@ -334,16 +327,20 @@
           el.style.display = 'block';
         }
       }, 700);
-
+      
       // Get the component status and incidents from
       // our status information system via API
       // and show the component status overview
-      // and the incident history
-      generateComponentStatus();
-      generateMaintenanceInfo();
-      generateIncidentHistory();
+      // and the incident history      
+      async function loadPageContent(){
+        await generateMaintenanceInfo();
+        await generateComponentStatus();
+        await generateIncidentHistory();
+      }
+      
+      loadPageContent();
     </script>
-
+    
   </main>
   {{ .Scratch.Set "hide-conversion" "true" }}
   {{ block "footer" . }}{{ partial "footer" . }}{{end}}
