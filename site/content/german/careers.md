@@ -80,7 +80,7 @@ Job-Beschreibung in Englisch
   outlined="true"
 >}}
 {{% markdown %}}
-**Customer Happines Management (60-100%), Zürich**
+**Customer Happiness Management (60-100%), Zürich**
 Job-Beschreibung in Englisch 
 {{% /markdown %}}
 {{< /cta >}}
