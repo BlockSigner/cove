@@ -75,6 +75,18 @@ Job-Beschreibung in Englisch
 
 {{< cta
   label="Mehr Infos"
+  href="de/karriere/223/customer-happiness-management/"
+  target=""
+  outlined="true"
+>}}
+{{% markdown %}}
+**Customer Happines Management (60-100%), Zürich**
+Job-Beschreibung in Englisch 
+{{% /markdown %}}
+{{< /cta >}}
+
+{{< cta
+  label="Mehr Infos"
   href="/de/karriere/216/success-manager/"
   target=""
   outlined="true"
