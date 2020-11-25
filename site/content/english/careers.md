@@ -71,6 +71,18 @@ and to develop Skribble and yourself.
 
 {{< cta
   label="More info"
+  href="/careers/223/customer-happiness-management/
+  target=""
+  outlined="true"
+>}}
+
+{{% markdown %}}
+**Customer Happines Management (60-100%), Zurich**
+{{% /markdown %}}
+{{< /cta >}}
+
+{{< cta
+  label="More info"
   href="/careers/216/success-manager/"
   target=""
   outlined="true"
