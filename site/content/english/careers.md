@@ -71,7 +71,7 @@ and to develop Skribble and yourself.
 
 {{< cta
   label="More info"
-  href="/careers/223/customer-happiness-management/
+  href="/careers/223/customer-happiness-management/"
   target=""
   outlined="true"
 >}}
