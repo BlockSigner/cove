@@ -77,7 +77,7 @@ and to develop Skribble and yourself.
 >}}
 
 {{% markdown %}}
-**Customer Happines Management (60-100%), Zurich**
+**Customer Happiness Management (60-100%), Zurich**
 {{% /markdown %}}
 {{< /cta >}}
 
