@@ -34,7 +34,7 @@ Zürich, 60-100%, permanent
 
 {{< content top=12 width=narrow >}}
 {{% markdown %}}
-### Be authentic, honest and deliver on your promises the rest will take care of itself. 
+### Be authentic, honest and deliver on your promises – the rest will take care of itself. 
 {{% /markdown %}}
 {{< /content >}}
 
