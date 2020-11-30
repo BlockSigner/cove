@@ -41,7 +41,7 @@ and to develop Skribble and yourself.
 >}}
 
 {{% markdown %}}
-**Partnership Management (80-100%), Zurich**
+**Partnership Management for Software Integrations (80-100%), Zurich**
 {{% /markdown %}}
 {{< /cta >}}
 
