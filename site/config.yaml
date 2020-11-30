@@ -152,7 +152,7 @@ languages:
           url: https://news.skribble.com
           weight: 5
         - name: Help-Center
-          url: https://help.skribble.com/deutsch
+          url: https://help.skribble.com/de/deutsch
           weight: 10
         - name: API-Ressource
           url: https://api-doc.skribble.com/
@@ -376,7 +376,7 @@ languages:
           url: https://news.skribble.com
           weight: 5
         - name: Help-Center
-          url: https://help.skribble.com/english
+          url: https://help.skribble.com/de/english
           weight: 10
         - name: API resource
           url: https://api-doc.skribble.com/
@@ -589,7 +589,7 @@ languages:
           url: https://news.skribble.com
           weight: 5
         - name: Centre d'assistance
-          url: https://help.skribble.com/francais
+          url: https://help.skribble.com/de/francais
           weight: 10
         - name: API Ressource
           url: https://api-doc.skribble.com/
