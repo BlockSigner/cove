@@ -19,7 +19,7 @@ og_image: og/og-skribble-career.jpg
 
 {{< content text=center top=12 >}}
 {{% markdown %}}
-Partnership Management
+Partnership Management for software integrations
 ===============
 Zurich, 80-100%, open for job sharing, permanent
 {{% /markdown %}}
@@ -42,11 +42,14 @@ Zurich, 80-100%, open for job sharing, permanent
 ### Our Mission
 Skribble aims to simplify the lives of people and to create trust within the digital world – worldwide. Our mission is to contribute a key element that is intuitive in usage and simple to implement: digital signatures. We advise and support organizations in the implementation of digital signatures, so that we all are better off by trusting more, wasting less time, and safeguarding environmental resources.
 ### The Team
-Our team is highly motivated, positive and collaborates closely together. We are growing fast and our next step is to bring Skribble to Europe. We are nice, fun-loving people, working on a non-commission basis and strive to make the world a better place: one signature at a time. This culture has made us one of the top 3 ascenders in the Swiss startup raking 2020. Off work, we can be found riding bikes or indulging life with our families and friends.
+Our team is highly motivated, positive and collaborates closely together. We are growing fast and our next step is to bring Skribble to Europe. We are nice, fun-loving people, working on a non-commission basis and strive to make the world a better place: one signature at a time. This culture has made us one of the top 3 ascenders in the Swiss startup ranking 2020. Off work, we can be found riding bikes or indulging life with our families and friends. 
+
 ### Your Contribution
-You help us grow Skribble internationally by building partnerships and integrations that allow our customers to use Skribble seamlessly across all their workflows. You liaise with our customer facing organisation and product team to integrate customers’ needs as well as our product and sales strategy into your partnership roadmap. You convince leading software providers to integrate Skribble and negotiate the technical, commercial and legal aspects of the partnership agreement. Building a partnership model will help you to standardise the negotiation process.
+Your aim is to build strategic partnerships with leading software providers that integrate Skribble’s e-signing solution into their software products. These integrations allow a seamless user experience for our customers across all their workflows. You liaise with our customer facing organisation and product team to take into account customers’ needs as well as our product and sales strategy for your partnership roadmap. You convince leading software providers to integrate Skribble, negotiate the technical, commercial and legal aspects of the partnership agreement and supervise the implementation. Building a partnership model will help you to standardise the negotiation process.
+
 ### Your Background
-- 3+ years of experience in negotiating partnership agreements in a technical environment 
+- You have a technical background or work experience in a Saas startup
+- You have a technical background or work experience in a Saas startup
 - Friends describe you as empathetic, well organised and ambitious
 - You are flexible and enjoy working in a highly dynamic environment
 - You are fluent in English (at least level C1) and comfortable in German (at least level B2; other languages are a plus)
