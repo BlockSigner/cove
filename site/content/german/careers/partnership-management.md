@@ -19,7 +19,7 @@ og_image: og/og-skribble-career.jpg
 
 {{< content text=center top=12 >}}
 {{% markdown %}}
-Partnership Management for software integrations
+Partnership Management for Software Integrations
 ===============
 Zurich, 80-100%, open for job sharing, permanent
 {{% /markdown %}}
@@ -46,7 +46,7 @@ Our team is highly motivated, positive and collaborates closely together. We are
 ### Your Contribution
 Your aim is to build strategic partnerships with leading software providers that integrate Skribble’s e-signing solution into their software products. These integrations allow a seamless user experience for our customers across all their workflows. You liaise with our customer facing organisation and product team to take into account customers’ needs as well as our product and sales strategy for your partnership roadmap. You convince leading software providers to integrate Skribble, negotiate the technical, commercial and legal aspects of the partnership agreement and supervise the implementation. Building a partnership model will help you to standardise the negotiation process.
 ### Your Background
-- You have a technical background or work experience in a Saas startup
+- You have a technical background or work experience in a SaaS startup
 - 3+ years of experience in negotiating technical partnership agreements
 - Friends describe you as empathetic, well organised and ambitious
 - You are flexible and enjoy working in a highly dynamic environment
