@@ -42,7 +42,7 @@ Job-Beschreibung in Englisch
   outlined="true"
 >}}
 {{% markdown %}}
-**Partnership Management (80-100%), Zürich**
+**Partnership Management for Software Integrations (80-100%), Zürich**
 Job-Beschreibung in Englisch
 {{% /markdown %}}
 {{< /cta >}}
