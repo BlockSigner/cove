@@ -69,6 +69,14 @@ languages:
           url: "/de/einkauf/"
           weight: 35
           parent: solutions
+        - name: Versicherungen
+          url: "/de/versicherungen/"
+          weight: 40
+          parent: solutions
+        - name: Immobilien
+          url: "/de/immobilien/"
+          weight: 45
+          parent: solutions
         # Preise
         - name: Pläne & Preise
           url: "/de/preise/"
@@ -128,6 +136,12 @@ languages:
         - name: Einkauf
           url: /de/einkauf/
           weight: 25
+        - name: Versicherungen
+          url: /de/versicherungen/
+          weight: 30
+        - name: Immobilien
+          url: /de/immobilien/
+          weight: 35
       footer3:
         - name: Mission
           url: /de/ueber-uns/
@@ -293,6 +307,14 @@ languages:
           url: "/procurement/"
           weight: 35
           parent: solutions
+        - name: Insurance
+          url: "/insurance/"
+          weight: 40
+          parent: solutions
+        - name: Real estate
+          url: "/real-estate/"
+          weight: 45
+          parent: solutions
         # Pricing
         - name: Plans & pricing
           url: "/pricing/"
@@ -352,6 +374,12 @@ languages:
         - name: Procurement
           url: /procurement/
           weight: 25
+        - name: Insurance
+          url: /insurance/
+          weight: 30
+        - name: Real estate
+          url: /real-estate/
+          weight: 35
       footer3:
         - name: Mission
           url: /about/
