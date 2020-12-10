@@ -684,8 +684,7 @@ with the highest data protection standards in Switzerland.
         <td>
           Perform identity checks yourself with the ID app (after one-time training)
           <div class="pricing-table__mobile-details  hide-for-desktop">
-            <span>{{< pricing-info filled=true >}} <strong>B</strong>: CHF 1’900 (one-time fee)</span>
-            <span>{{< pricing-info >}} <strong>E</strong>: CHF 1’900 (one-time fee)</span>
+            <span>{{< pricing-info filled=true >}}: CHF 1’900 (one-time fee)</span>
           </div>
         </td>
         <td>—</td>
@@ -702,7 +701,7 @@ with the highest data protection standards in Switzerland.
           <div class="pricing-table__mobile-details  hide-for-desktop">
             <span>{{< pricing-info >}} <strong>F</strong>: EUR 15 (per identification)</span>
             <span>{{< pricing-info filled=true >}} <strong>B</strong>: EUR 15 (per identification)</span>
-            <span>{{< pricing-info >}} <strong>E</strong>:On request</span>
+            <span>{{< pricing-info >}} <strong>E</strong>: On request</span>
           </div>
         </td>
         <td>
