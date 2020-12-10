@@ -681,7 +681,7 @@ Mit Skribble signieren Sie Ihre Verträge innert Sekunden – global rechtsgült
         <td>
           Identifikation selbst mit ID-App von Swisscom durchführen
           <div class="pricing-table__mobile-details  hide-for-desktop">
-            <span>{{< pricing-info filled=true >}}: CHF 1’900.–, einmalig</span>
+            <span>{{< pricing-info filled=true >}} CHF 1’900.–, einmalig</span>
           </div>
         </td>
         <td>—</td>
