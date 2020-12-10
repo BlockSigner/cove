@@ -684,8 +684,7 @@ Skribble permet de signer vos contrats en un clin d’œil – Validité mondial
         <td>
           Procéder soi-même à l’identification avec l‘ID-app (après une séance d‘instruction)
           <div class="pricing-table__mobile-details  hide-for-desktop">
-            <span>{{< pricing-info filled=true >}} <strong>B</strong>: CHF 1’900.- (montant unique)</span>
-            <span>{{< pricing-info >}} <strong>E</strong>: CHF 1’900.- (montant unique)</span>
+            <span>{{< pricing-info filled=true >}} CHF 1’900.- (montant unique)</span>
           </div>
         </td>
         <td>—</td>
@@ -693,9 +692,7 @@ Skribble permet de signer vos contrats en un clin d’œil – Validité mondial
           <span class="hide-for-desktop">{{< pricing-info filled=true >}}</span>
           <span class="hide-for-mobile">CHF 1’900.- (montant unique)</span>
         </td>
-        <td>
-          <span class="hide-for-desktop">{{< pricing-info >}}</span>
-          <span class="hide-for-mobile">CHF 1’900.- (montant unique)</span>
+        <td>{{< pricing-check >}}</td>
         </td>
       </tr>
       <tr>
@@ -704,7 +701,7 @@ Skribble permet de signer vos contrats en un clin d’œil – Validité mondial
           <div class="pricing-table__mobile-details  hide-for-desktop">
             <span>{{< pricing-info >}} <strong>F</strong>: EUR 15.- par identification</span>
             <span>{{< pricing-info filled=true >}} <strong>B</strong>: EUR 15.- par identification</span>
-            <span>{{< pricing-info >}} <strong>E</strong>: EUR 15.- par identification</span>
+            <span>{{< pricing-info >}} <strong>E</strong>: Sur demande</span>
           </div>
         </td>
         <td>
@@ -717,7 +714,7 @@ Skribble permet de signer vos contrats en un clin d’œil – Validité mondial
         </td>
         <td>
           <span class="hide-for-desktop">{{< pricing-info >}}</span>
-          <span class="hide-for-mobile">EUR 15.- par identification</span>
+          <span class="hide-for-mobile">Sur demande</span>
         </td>
       </tr>
       <tr>
@@ -777,4 +774,3 @@ ou engagement n'est requis.
 {{< /markdown >}}
 {{< /content >}}
 {{< /outro >}}
-
