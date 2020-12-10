@@ -684,7 +684,7 @@ with the highest data protection standards in Switzerland.
         <td>
           Perform identity checks yourself with the ID app (after one-time training)
           <div class="pricing-table__mobile-details  hide-for-desktop">
-            <span>{{< pricing-info filled=true >}}: CHF 1’900 (one-time fee)</span>
+            <span>{{< pricing-info filled=true >}} CHF 1’900 (one-time fee)</span>
           </div>
         </td>
         <td>—</td>
