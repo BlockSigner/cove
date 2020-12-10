@@ -681,18 +681,16 @@ Mit Skribble signieren Sie Ihre Verträge innert Sekunden – global rechtsgült
         <td>
           Identifikation selbst mit ID-App von Swisscom durchführen
           <div class="pricing-table__mobile-details  hide-for-desktop">
-            <span>{{< pricing-info filled=true >}} <strong>B</strong>: CHF 1’900.–, einmalig</span>
-            <span>{{< pricing-info >}} <strong>E</strong>: CHF 1’900.–, einmalig</span>
+            <span>{{< pricing-info filled=true >}}: CHF 1’900.–, einmalig</span>
           </div>
         </td>
         <td>—</td>
         <td>
           <span class="hide-for-desktop">{{< pricing-info filled=true >}}</span>
           <span class="hide-for-mobile">CHF 1’900.–, einmalig</span>
-        </td>
         <td>
-          <span class="hide-for-desktop">{{< pricing-info >}}</span>
-          <span class="hide-for-mobile">CHF 1’900.–, einmalig</span>
+          <span class="hide-for-desktop">{{< pricing-check >}}</span>
+          <span class="hide-for-mobile">{{< pricing-check >}}</span>
         </td>
       </tr>
       <tr>
@@ -701,7 +699,7 @@ Mit Skribble signieren Sie Ihre Verträge innert Sekunden – global rechtsgült
           <div class="pricing-table__mobile-details  hide-for-desktop">
             <span>{{< pricing-info >}} <strong>F</strong>: EUR 15.– pro Identifikation</span>
             <span>{{< pricing-info filled=true >}} <strong>B</strong>: EUR 15.– pro Identifikation</span>
-            <span>{{< pricing-info >}} <strong>E</strong>: EUR 15.– pro Identifikation</span>
+            <span>{{< pricing-info >}} <strong>E</strong>: Auf Anfrage</span>
           </div>
         </td>
         <td>
@@ -714,7 +712,7 @@ Mit Skribble signieren Sie Ihre Verträge innert Sekunden – global rechtsgült
         </td>
         <td>
           <span class="hide-for-desktop">{{< pricing-info >}}</span>
-          <span class="hide-for-mobile">EUR 15.– pro Identifikation</span>
+          <span class="hide-for-mobile">Auf Anfrage</span>
         </td>
       </tr>
       <tr>
