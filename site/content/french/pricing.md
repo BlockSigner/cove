@@ -692,7 +692,7 @@ Skribble permet de signer vos contrats en un clin d’œil – Validité mondial
           <span class="hide-for-desktop">{{< pricing-info filled=true >}}</span>
           <span class="hide-for-mobile">CHF 1’900.- (montant unique)</span>
         </td>
-        <td>
+        <td>{{< pricing-check >}}</td>
           <span class="hide-for-desktop">{{< pricing-check >}}</span>
           <span class="hide-for-mobile">{{< pricing-check >}}</span>
         </td>
@@ -776,4 +776,3 @@ ou engagement n'est requis.
 {{< /markdown >}}
 {{< /content >}}
 {{< /outro >}}
-
