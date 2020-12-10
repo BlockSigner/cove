@@ -693,10 +693,8 @@ with the highest data protection standards in Switzerland.
           <span class="hide-for-desktop">{{< pricing-info filled=true >}}</span>
           <span class="hide-for-mobile">CHF 1’900 (one-time fee)</span>
         </td>
-        <td>
-          <span class="hide-for-desktop">{{< pricing-info >}}</span>
-          <span class="hide-for-mobile">CHF 1’900, (one-time fee)</span>
         </td>
+        <td>{{< pricing-check >}}</td>
       </tr>
       <tr>
         <td>
@@ -704,7 +702,7 @@ with the highest data protection standards in Switzerland.
           <div class="pricing-table__mobile-details  hide-for-desktop">
             <span>{{< pricing-info >}} <strong>F</strong>: EUR 15 (per identification)</span>
             <span>{{< pricing-info filled=true >}} <strong>B</strong>: EUR 15 (per identification)</span>
-            <span>{{< pricing-info >}} <strong>E</strong>: EUR 15 (per identification)</span>
+            <span>{{< pricing-info >}} <strong>E</strong>:On request</span>
           </div>
         </td>
         <td>
@@ -717,7 +715,7 @@ with the highest data protection standards in Switzerland.
         </td>
         <td>
           <span class="hide-for-desktop">{{< pricing-info >}}</span>
-          <span class="hide-for-mobile">EUR 15 (per identification)</span>
+          <span class="hide-for-mobile">On request</span>
         </td>
       </tr>
       <tr>
