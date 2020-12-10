@@ -689,8 +689,6 @@ Mit Skribble signieren Sie Ihre Verträge innert Sekunden – global rechtsgült
           <span class="hide-for-desktop">{{< pricing-info filled=true >}}</span>
           <span class="hide-for-mobile">CHF 1’900.–, einmalig</span>
         <td>{{< pricing-check >}}</td>
-          <span class="hide-for-desktop">{{< pricing-check >}}</span>
-          <span class="hide-for-mobile">{{< pricing-check >}}</span>
         </td>
       </tr>
       <tr>
