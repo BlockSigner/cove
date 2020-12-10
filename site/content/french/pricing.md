@@ -684,7 +684,7 @@ Skribble permet de signer vos contrats en un clin d’œil – Validité mondial
         <td>
           Procéder soi-même à l’identification avec l‘ID-app (après une séance d‘instruction)
           <div class="pricing-table__mobile-details  hide-for-desktop">
-            <span>{{< pricing-info filled=true >}}: CHF 1’900.- (montant unique)</span>
+            <span>{{< pricing-info filled=true >}} CHF 1’900.- (montant unique)</span>
           </div>
         </td>
         <td>—</td>
