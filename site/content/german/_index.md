@@ -51,7 +51,7 @@ Weltweit einsetzbar, gehosted in der Schweiz.
 {{< content text=center top=12 width=narrow >}}
 {{% markdown %}}
 ## So signieren Sie mit Skribble
-Der einfachste Weg zum rechtsgülitigen Signieren 
+Der einfachste Weg zum rechtsgültigen Signieren 
 von Dokumenten mit und ohne Formvorschrift.
 {{% /markdown %}}
 {{< /content >}}
