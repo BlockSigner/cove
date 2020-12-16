@@ -47,6 +47,18 @@ and to develop Skribble and yourself.
 
 {{< cta
   label="More info"
+  href="/careers/177/product-marketing/"
+  target=""
+  outlined="true"
+>}}
+
+{{% markdown %}}
+**Product Marketing (60-100%), Zurich**
+{{% /markdown %}}
+{{< /cta >}}
+
+{{< cta
+  label="More info"
   href="/careers/395/sales-Development-representative/"
   target=""
   outlined="true"
