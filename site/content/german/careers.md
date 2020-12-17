@@ -48,6 +48,18 @@ Job-Beschreibung in Englisch
 {{< /cta >}}
 
 
+{{< cta
+  label="Mehr Infos"
+  href="/de/karriere/177/product-marketing/"
+  target=""
+  outlined="true"
+>}}
+{{% markdown %}}
+**Product Marketing (60-100%), Zürich**
+Job-Beschreibung in Englisch
+{{% /markdown %}}
+{{< /cta >}}
+
 
 {{< cta
   label="Mehr Infos"
