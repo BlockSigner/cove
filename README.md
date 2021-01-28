@@ -1,6 +1,8 @@
 # cove
 🌅 Skribble **co**rporate **ve**bsite
 
+🚧🏚 This repository has been archived. skribble.com is now deployed from https://github.com/BlockSigner/covefe. Please make your changes there.
+
 ## Status
 Deploy:
 [![Netlify Status](https://api.netlify.com/api/v1/badges/7d00ef7a-5c8b-4b90-912f-355470b7d23c/deploy-status)](https://app.netlify.com/sites/skribble/deploys)
